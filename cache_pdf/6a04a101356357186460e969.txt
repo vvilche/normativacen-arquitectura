@@ -1,0 +1,261 @@
+ 
+Santiago, 13 de mayo de 2026. 
+  ACC.ECH.069.26 
+Señor: 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones a Indicadores Desempeño Servicios Complementarios – abril 2026. 
+ 
+De nuestra consideración: 
+ 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de abril de 2026, que fue publicado en su página web y cuya publicación fue comunicada a 
+través de la carta DE03133-26 de fecha 08 de mayo de 2026. 
+ 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+ 
+Sin otro particular, saluda cordialmente a usted. 
+ 
+ 
+ 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+ 
+Firmado 
+digitalmente 
+por Luis Lorca 
+Arenas 
+Fecha: 
+2026.05.13 
+11:19:59 -04'00'
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC ABRIL 2026 V1 
+Servicio Complementario – CTF 
+ 
+i. 
+PFV Usya 
+Timestamp 
+Consigna en 
+planta [MW] 
+Registro 
+RIO [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+28-04-2026 
+12:25 
+9 
+-38 
+28-04-2026 
+12:24:00 
+28-04-2026 
+13:00:00 
+La respuesta presenta un mal desempeño en C3; sin 
+embargo, simultáneamente el parque estaba prestando el 
+SSCC de CPF, lo que genera oscilaciones en la potencia 
+activa como consecuencia de la respuesta al CPF. 
+Solicitamos reevaluar el caso, teniendo en cuenta esta 
+particularidad.  
+ 
+ii. 
+PE Tolpán Sur 
+Timestamp 
+Consigna en 
+planta [MW] 
+Registro 
+RIO [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+- 
+- 
+-3 
+06-04-2026 
+04:45:00 
+06-04-2026 
+05:21:00 
+Se confirma, mediante la revisión de registros internos y de 
+llamadas grabadas, que la solicitud del SSCC de CTF no fue 
+efectuada al CC de Acciona. 
+ 
+iii. 
+PFV Malgarida 
+Timestamp 
+Consigna en 
+planta [MW] 
+Registro 
+RIO [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+- 
+- 
+-3 
+28-04-2026 
+15:33:00 
+28-04-2026 
+15:41:00 
+Se confirma, mediante la revisión de registros internos y de 
+llamadas grabadas, que la solicitud del SSCC de CTF no fue 
+efectuada al CC de Acciona. 
+ 
+iv. 
+PFV Almeyda 
+Timestamp 
+Consigna en 
+planta [MW] 
+Registro 
+RIO [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+03-04-2026 
+14:00:19 
+2 
+-39 
+03-04-2026 
+13:25:00 
+03-04-2026 
+14:19:00 
+Se verifica en la grabación de la llamada que la 
+solicitud del SSCC de CTF fue realizada a las 13:59 hrs. 
+Se adjunta grabación. 
+ 
+ 
+ 
+
+Servicio Complementario – CT 
+v. 
+PFV Malgarida 
+Timestamp 
+Consigna en 
+planta [MVAr] 
+Registro 
+RIO 
+[MVAr] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+- 
+-60 
+-60 
+15-04-2026 
+18:17 
+15-04-2026 
+23:59 
+El presente registro corresponde a la continuidad del SSCC 
+de CT posterior al término del recurso primario, dado que la 
+planta se encuentra verificada para prestar dicho servicio en 
+ausencia de este. Asimismo, la instrucción impartida por el 
+CDC fue explícita en cuanto a “mantener” el servicio una vez 
+finalizado el recurso (verificable en la grabación de la 
+llamada adjunta). 
+De acuerdo con lo establecido en las Reglas de la OTR, en lo 
+referido a las instrucciones de SC de CT, literal c), se indica 
+que: en el caso de unidades eólicas o fotovoltaicas, 
+verificadas o verificadas transitoriamente, que cuenten con 
+capacidad para inyectar o absorber reactivos en ausencia 
+del recurso primario, si el CDC requiere mantener el aporte 
+de reactivos de dichas unidades una vez perdido el recurso 
+primario y la inyección de potencia activa, deberá emitir una 
+nueva instrucción de SC de CT al CC respectivo, generando 
+un nuevo registro de inicio del servicio en RIO. 
+Lo anterior corresponde exactamente a lo ocurrido en este 
+caso, tanto en la solicitud realizada por el CDC como en la 
+generación del nuevo registro. 
+- 
+-60 
+-60 
+27-04-2026 
+0:00 
+27-04-2026 
+13:23 
+El registro no corresponde a una nueva instrucción, sino al 
+registro de continuidad para el día siguiente. Esto puede 
+verificarse considerando que el registro anterior finaliza a 
+las 23:59 horas. 
+ 
+vi. 
+PFV El Romero 
+Timestamp 
+Consigna en 
+planta [MVAr] 
+Registro 
+RIO 
+[MVAr] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO Comentario 
+- 
+-60 
+-60 
+04-04-2026 
+0:00 
+- 
+El registro no corresponde a una nueva instrucción, sino al 
+registro de continuidad para el día siguiente. Esto puede 
+verificarse considerando que el registro anterior finaliza a 
+las 23:59 horas. 
+- 
+-60 
+-60 
+27-04-2026 
+0:00 
+27-04-2026 
+09:29 
+El registro no corresponde a una nueva instrucción, sino al 
+registro de continuidad para el día siguiente. Esto puede 
+verificarse considerando que el registro anterior finaliza a 
+las 23:59 horas. 
+ 
+ 
+
+Revisión Indisponibilidad  
+vii. 
+PE Tolpán Sur 
+Comentario 
+Se está considerando indisponibilidad de la instalación para los SSCC de CSF, CTF y CT en base al informe de limitación 
+N° 2026001098. Sin embargo, dicho informe corresponde a una restricción operativa que establece que cada servicio 
+complementario de control de frecuencia puede ser prestado de manera individual, conforme a lo aprobado por el 
+Coordinador durante el proceso de verificación. 
+La limitación se presenta únicamente en la prestación simultánea de los SSCC de control de frecuencia. En 
+consecuencia, el informe de limitación no afecta la disponibilidad de la instalación, la cual, en cumplimiento de lo 
+establecido en la normativa técnica de SSCC, se encuentra apta para la prestación de los mencionados servicios 
+complementarios. 
+ 
+viii. 
+PE San Gabriel 
+Comentario 
+Se está considerando indisponibilidad de la instalación para los SSCC de CSF, CTF y CT en base al informe de limitación 
+N° 2026001099. Sin embargo, dicho informe corresponde a una restricción operativa que establece que cada servicio 
+complementario de control de frecuencia puede ser prestado de manera individual, conforme a lo aprobado por el 
+Coordinador durante el proceso de verificación. 
+La limitación se presenta únicamente en la prestación simultánea de los SSCC de control de frecuencia. En 
+consecuencia, el informe de limitación no afecta la disponibilidad de la instalación, la cual, en cumplimiento de lo 
+establecido en la normativa técnica de SSCC, se encuentra apta para la prestación de dichos servicios. 
+ 
+ 
+ 
+ 
+ 
+ 

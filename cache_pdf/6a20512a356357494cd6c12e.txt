@@ -1,0 +1,151 @@
+ 
+Alfa  
+Transmisora de Energía S.A 
+ 
+ 
+ 
+Alfa Transmisora de Energía S.A 
+RUT: 77.337.345-0 
+CE-168-2025-ALFATX   / Pág. 1 de 1
+Av. Apoquindo 4501 | Piso 19 
+Oficina 1902 | Las Condes 
+7580128 Santiago 
+T. +562 3319 7200 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Santiago, Chile 
+                                                                                                                                                                                                 Santiago, 3 de junio de 2026. 
+ 
+n/ref: CE-101-2026-ALFATX – Responde a carta DE07730-25. Comunicación de ejecución de ensayos de Verificación SSCC – Equipos de 
+Vinculación de S/E Candelaria. 
+ 
+De nuestra consideración 
+En conformidad con lo establecido en el Anexo Técnico “Verificación de Instalaciones para la Prestación de Servicios Complementarios” y 
+los protocolos previamente aprobados por su representada por medio de la carta DE07730-25, informamos a usted que se han ejecutado 
+las verificaciones de Servicios Complementarios (SSCC) correspondientes a los Equipos de Vinculación (EV) de la Subestación Candelaria, 
+de propiedad de Alfa Transmisora de Energía S.A. 
+ 
+A continuación, se detallan las instalaciones a la cuales se les ha ejecutado los ensayos de verificación SSCC: 
+ 
+Coordinado 
+Subestación 
+Instalación 
+Paño SSCC 
+SD CEN 
+Protocolo  
+Alfa Transmisora de 
+Energía S.A. 
+S/E 
+Candelaria 
+LT 220kV Candelaria - Maipo 
+N°1 
+J1 
+EV 
+2025105927 2025105928 
+2025105929 2025105931 
+2025105932 2025105933 
+PVSC-17 
+Alfa Transmisora de 
+Energía S.A. 
+S/E 
+Candelaria 
+LT 220kV Candelaria - Maipo 
+N°2 
+J2 
+EV 
+2025107305 2025107311 
+2025107312 2025107314 
+PVSC-18 
+Alfa Transmisora de 
+Energía S.A. 
+S/E 
+Candelaria 
+Línea 220kV Candelaria - 
+Seccionadora Puente Negro 
+N°1 
+J3 
+EV 
+2025099717 2025099718 
+PVSC-19 
+Alfa Transmisora de 
+Energía S.A. 
+S/E 
+Candelaria 
+Línea 220kV Candelaria - 
+Seccionadora Puente Negro 
+N°2 
+J4 
+EV 
+2025103629 2025103630 
+2025103631 
+PVSC-20 
+ 
+Junto a la presente carta, se adjuntan los informes técnicos de verificación de SSCC y sus anexos por cada protocolo: 
+ 
+• 
+Anexo N°1 Pruebas de verificación SSCC 
+• 
+Anexo N°2 Resultados pruebas cargador y banco de baterías 
+• 
+Anexo N°3 Resultados pruebas de descarga bancos de baterías 
+ 
+En base a los resultados obtenidos, las instalaciones verificadas cumplen con los requisitos para la prestación de Servicios Complementarios 
+(SSCC) de Equipos de Vinculación (EV). Lo anterior en concordancia con los criterios establecidos en la NTSyCS, verificándose el correcto 
+desempeño funcional de los sistemas correspondientes a cada instalación sujeta a ensayo. 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+David Zamora Mesías  
+Gerente de Operaciones  
+Alfa Transmisora de Energía S.A. 
+ 
+David Germán 
+Zamora Mesías
+Firmado digitalmente por 
+David Germán Zamora 
+Mesías 
+Fecha: 2026.06.03 10:49:53 
+-04'00'

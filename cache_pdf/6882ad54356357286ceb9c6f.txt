@@ -1,0 +1,158 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 24 de julio de 2025 
+ 
+    
+DE 04549-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación Potencia Máxima de la 
+Central PFV Capricornio y BESS PFV 
+Capricornio. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Potencia Máxima de la Central PFV Capricornio y BESS PFV Capricornio, en 
+conformidad con el Informe Técnico final recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+indicado publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador realizó observaciones de carácter técnico al informe 
+publicado, las cuales fueron subsanadas en la versión final recibida mediante la 
+comunicación de la Ref. [1]. 
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PFV 
+Capricornio y BESS PFV Capricornio, se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV Capricornio y BESS PFV Capricornio 
+Central 
+Configuración 
+Tiempo de 
+carga/descarga 
+[h] 
+Potencia 
+Máxima 
+Bruta 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas 
+en la 
+central (1) 
+[MW] 
+Potencia 
+Máxima 
+Neta (2) 
+[MW] 
+PFV 
+Capricornio 
+PFV  
+- 
+90,3700 
+0,1173 
+1,6354 
+88,6173 
+BESS (modo 
+descarga) 
+5,02 
+48,0000 
+0,0800 
+0,5755 
+47,3445 
+PFV+BESS 
+modo descarga(3) 
+- 
+- 
+- 
+- 
+- 
+(1) El detalle de las pérdidas se indica en el Anexo. 
+(2) Inyectada en la barra de 110 kV de S/E Capricornio. 
+(3) Por diseño no es factible la operación del aporte conjunto PFV+BESS hacia la red. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del día 29 de julio de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Documentos > Potencia Máxima > Pruebas de Potencia Máxima > 
+Central PFV Capricornio > 2025 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+GZV/SGM/DIR/adr 
+ 
+Referencias: 
+ 
+[1] Carta ENGIE N°166/2025 del Coordinado Engie Energía Chile S.A., Ref.: “Responde 
+DE03130-25 Observaciones a Informes de Parámetros Operacionales de la Central con 
+Capacidad de Almacenamiento PFV Capricornio y BESS PFV Capricornio”, de fecha 10 de 
+junio de 2025. Ingreso DE05718-25. 
+ 
+[2] Carta DE01816-25, Ref.: “[NUP 4755] Informes Técnicos de Parámetros Operacionales 
+del PFV Capricornio y BESS PFV Capricornio, del coordinado Engie Energía Chile S.A.”, 
+de fecha 1 de abril de 2025. 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo 
+ 
+Tabla 2: Desglose de las pérdidas asociadas a las pruebas de Potencia Máxima de la Central 
+PFV Capricornio y BESS PFV Capricornio 
+Central 
+Configuración 
+Pérdidas en 
+la central 
+[MW] 
+Pérdidas en el 
+transformador [MW] 
+Pérdidas en sistema 
+colector [MW] 
+PFV 
+Capricornio 
+PFV 
+1,6354 
+0,2515 
+1,3839 
+BESS (modo 
+descarga) 
+0,5755 
+0,0955 
+0,4800 
+ 

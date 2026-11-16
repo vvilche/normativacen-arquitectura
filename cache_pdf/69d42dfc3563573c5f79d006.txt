@@ -1,0 +1,85 @@
+ 
+ 
+Santiago, 6 de abril de 2026 
+ 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional (CEN) 
+Presente. 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref [1] DE 01221-26 Desempeño deficiente en la 
+prestación de los Servicios Complementarios de Control 
+Primario de Frecuencia, Control Terciario de Frecuencia 
+y Control de Tensión de las unidades generadoras.
+ 
+De nuestra consideración: 
+ 
+En relación con el desempeño del servicio de Control de Tensión (CT) de la planta Santiago Solar y 
+el informe técnico enviado anteriormente como respuesta a la carta DE 01221-26, me dirijo a usted 
+para informar sobre los avances de nuestros planes de acción y solicitar formalmente una 
+extensión de plazo para la entrega de la solución definitiva. 
+ 
+1. Estado de Avances y Compromisos Inmediatos 
+ 
+Tal como se detalló en el plan de acción del informe técnico "SSL-Análisis de control de tensión", 
+se han implementado con éxito las siguientes medidas inmediatas: 
+• 
+Reforzamiento Operacional: Se ha realizado una capacitación y refuerzo interno 
+exhaustivo para los operadores de Santiago Solar y del Centro de Control (OCC). 
+• 
+Gestión de Consignas: Actualmente, nuestros operadores y el centro de control 24/7 ya 
+aplican la consideración del signo de reactivo al ingresar consignas en el SCADA, mitigando 
+el error de polaridad identificado como causa de las desviaciones previas. 
+ 
+2. Plan de Corto Plazo y Solución Definitiva 
+ 
+Respecto a la solución técnica definitiva para corregir la visualización y procesamiento del signo en 
+el sistema de control: 
+• 
+Coordinación con Proveedores: Nos hemos puesto en contacto con el soporte técnico y el 
+fabricante del SCADA, Green Power Monitor (GPM). 
+• 
+Análisis Técnico: El equipo de GPM se encuentra trabajando activamente en el análisis de 
+la causa raíz para realizar la corrección de la polaridad tanto en la lectura como en el 
+ingreso de consignas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3. Solicitud de Extensión 
+ 
+Debido a la complejidad técnica que implica la modificación del controlador de la planta (PPC) y la 
+validación de la corrección con el fabricante, solicitamos una extensión de plazo hasta el 30 de abril 
+de 2026. 
+En dicha fecha, compartiremos un nuevo estatus con los avances definitivos y la resolución del 
+inconveniente técnico en el SCADA. Agradecemos de antemano su comprensión, reafirmando 
+nuestro compromiso por mantener la calidad y seguridad del servicio prestado al Sistema Eléctrico 
+Nacional. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Constanza Leal R 
+Encargada Titular 
+Santiago Solar S.A 

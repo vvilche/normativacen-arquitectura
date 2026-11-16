@@ -1,0 +1,534 @@
+1 
+ 
+ 
+Santiago, 13 de abril de 2026 
+QE009-2026 
+ 
+Sr. Rodrigo Espinoza V.  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Envío de Observaciones a Indicadores de Desempeño de Servicios Complementarios - 
+marzo 2026. 
+ 
+[1] Carta DE02297-26, “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de marzo de 2026 e Indicadores de Desempeño de 
+SSCC EDAC del mes de febrero de 2026.”, de fecha 13 de abril de 2026. 
+ 
+De nuestra consideración: 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. para hacer envío de nuestras 
+Observaciones fundadas a los Indicadores de Desempeño de Servicios Complementarios de 
+marzo 2026, notificada su publicación por medio de carta de la Ref. [1]. 
+ 
+En anexo a la presente carta, se encuentran dichas observaciones.  
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Marcelo Rubio Sekul 
+Encargado Titular 
+Empresa Eléctrica Ventanas SpA 
+
+2 
+ 
+ 
+Anexo 1: Observaciones Indicadores Desempeño CTF 
+ 
+Fecha 
+Hora 
+Unidad 
+Observación RNE al Coordinador 
+12-03-2026 
+19 
+TER CAMPICHE U1 
+El llamado del CEN se realiza a las 19:14 hrs, 
+solicitando 20 MW de bajada unidad comienza a 
+bajar carga a las 19:17 hrs de 267 MW a 251 MW 
+hasta las 19:26 hrs. Coordinador llama a las 19:26 
+hrs dando fin a la instrucción. Se solicita revisar la 
+evaluación de la respuesta de la unidad 
+considerando los tiempos de la instrucción 
+16-03-2026 
+3 
+TER CAMPICHE U1 
+Coordinador llama a las 03:16 hrs. Solicitando a la 
+unidad bajar 20 MW, la unidad comienza a bajar a 
+las 03:18 hrs de 268 MW a 248 MW hasta las 03:32 
+hrs cuando Coordinador da fin a la instrucción. Se 
+solicita evaluar la instrucción.  
+19-03-2026 
+3 
+TER CAMPICHE U1 
+Coordinador llama a las 03:11 hrs. Solicitando 
+bajar 10 MW. La unidad comienza a bajar a las 
+03:16 hrs de 268 MW a 258 MW hasta las 03:22 
+hrs. cuando se da fin a la instrucción. Se solicita 
+revisar la evaluación de desempeño 
+19-03-2026 
+4 
+TER CAMPICHE U1 
+Coordinador solicita CTF por períodos muy cortos, 
+la unidad comienza el servicio de modificación de 
+su potencia y a los 11 minutos se finaliza la 
+instrucción. Se solicita revisar la evaluación de 
+desempeño considerando el tiempo de la 
+instrucción  
+20-03-2026 
+6 
+TER CAMPICHE U1 
+Coordinador llama a las 06:21 hrs. Solicitando 
+bajar 15 MW la unidad comienza a bajar a las 06:22 
+hrs de 269 MW a 254 MW hasta las 06:27 hrs 
+cuando el Coordinador da fin a la instrucción. Se 
+solicita revisar la evaluación de desempeño de la 
+instrucción realizada 
+23-03-2026 
+4 
+TER CAMPICHE U2 
+Coordinador llamado a las 04:12 hrs. Solicitando 
+bajar 20 MW la unidad ya iba bajando ya que a las 
+03:55 hrs se había solicitado bajar a MT, bajó de 
+251 MW a 242 MW mientras duró la activación, la 
+cual finalizó a las 04:17 hrs. Se solicita evaluar 
+dicha instrucción  
+02-03-2026 
+23 
+TER CAMPICHE U1 
+Coordinador solicita CTF por períodos muy cortos, 
+la unidad comienza el servicio de modificación de 
+su potencia y a los 11 minutos se finaliza la 
+instrucción. Se solicita revisar la evaluación de 
+desempeño considerando el tiempo de la 
+instrucción  
+02-03-2026 
+19 
+TER CAMPICHE U1 
+CEN activa 18 MW de bajada por CTF. Activación 
+finaliza a las 23:59 horas. Se solicita evaluar la 
+instrucción  
+
+3 
+ 
+ 
+02-03-2026 
+23 
+TER CAMPICHE U1 
+CEN activa 18 MW de bajada por CTF (270 a 252 
+MW). Activación finaliza a las 23:59 horas. Se 
+solicita evaluar la instrucción  
+02-03-2026 
+3 
+TER CAMPICHE U1 
+CEN activa 18 MW de bajada por CTF (267 a 249 
+MW). Activación finaliza a las 03:22 horas. Se 
+solicita evaluar la instrucción  
+23-03-2026 
+6 
+TER NUEVA VENTANAS U1 
+Coordinador solicita CTF por períodos muy cortos, 
+la unidad comienza el servicio de modificación de 
+su potencia y a los 11 minutos se finaliza la 
+instrucción. Se solicita revisar la evaluación de 
+desempeño considerando el tiempo de la 
+instrucción  
+24-03-2026 
+15 
+TER NUEVA VENTANAS U1 
+Coordinador solicita CTF por períodos muy cortos, 
+la unidad comienza el servicio de modificación de 
+su potencia y a los 11 minutos se finaliza la 
+instrucción. Se solicita revisar la evaluación de 
+desempeño considerando el tiempo de la 
+instrucción  
+24-03-2026 
+16 
+TER NUEVA VENTANAS U1 
+Coordinador solicita CTF por períodos muy cortos, 
+la unidad comienza el servicio de modificación de 
+su potencia y a los 11 minutos se finaliza la 
+instrucción. Se solicita revisar la evaluación de 
+desempeño considerando el tiempo de la 
+instrucción  
+ 
+Anexo 2: Observaciones Indicadores Desempeño CT 
+ 
+Fecha 
+Unidad 
+(Nombre 
+Antiguo) 
+Unidad 
+Observación RNE al Coordinador 
+04-03-
+2026 
+Campiche 
+TER CAMPICHE U1 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+05-03-
+2026 
+Campiche 
+TER CAMPICHE U1 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+06-03-
+2026 
+Campiche 
+TER CAMPICHE U1 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+07-03-
+2026 
+Campiche 
+TER CAMPICHE U1 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+01-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+02-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+03-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+04-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+
+4 
+ 
+ 
+05-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+06-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+07-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+08-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+09-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+10-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+11-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+12-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+13-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+14-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+15-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+16-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+17-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+18-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+19-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+20-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+21-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+22-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+23-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+24-03-
+2026 
+Nueva 
+Ventanas 
+TER NUEVA VENTANAS 
+U1 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+24-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+25-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+26-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+27-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+
+5 
+ 
+ 
+28-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+29-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+30-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+31-03-
+2026 
+Ventanas U2 
+TER VENTANAS U2 
+no hubo instrucción por Control de Tensión por parte del 
+Coordinador 
+ 
+Anexo 3: Observaciones Indicadores Desempeño CSF 
+ 
+Fecha Ho
+ra 
+Unidad 
+Observación RNE al Coordinador 
+12-03-
+2026 
+4 
+TER CAMPICHE 
+U1 
+CEN instruye habilitar AGC. Finaliza a las 02:00 hrs.  Se solicita evaluar dicho 
+período de servicio  
+13-03-
+2026 
+0 
+TER CAMPICHE 
+U1 
+CEN instruye habilitar AGC. Finaliza a las 06:00 hrs.  Se solicita evaluar dicho 
+período de servicio  
+15-03-
+2026 
+4 
+TER CAMPICHE 
+U1 
+CEN instruye habilitar AGC. Finaliza a las 01:00 hrs, llevar a 170 MW.  Se solicita 
+evaluar dicho período de servicio  
+15-03-
+2026 
+0 
+TER CAMPICHE 
+U1 
+CEN instruye habilitar AGC. Finaliza a las 04:00 hrs.  Se solicita evaluar dicho 
+período de servicio  
+08-03-
+2026 
+4 
+TER CAMPICHE 
+U1 
+CEN instruye habilitar AGC. Finaliza a las 6:00 hrs. Se solicita evaluar dicho período 
+de servicio  
+10-03-
+2026 
+0 
+TER CAMPICHE 
+U1 
+CEN instruye habilitar AGC. Finaliza a las 01:00 hrs, llevar a MT. Se solicita evaluar el 
+periodo de la instrucción  
+05-03-
+2026 
+23 
+TER NUEVA 
+VENTANAS U1 
+A las 21:00 se realizó la instrucción de conectar al AGC finalizando a las 23:59, la 
+central se encontró conectada en todo el tiempo de la instrucción. Se solicita revisar 
+la respuesta de la unidad  
+08-03-
+2026 
+2 
+TER NUEVA 
+VENTANAS U1 
+Si participa, Reemplaza a PE-SANGABRIEL Reemplaza a PE-TOLPANSUR. Se solicita 
+revisar el desempeño por el tiempo de la instrucción  
+08-03-
+2026 
+3 
+TER NUEVA 
+VENTANAS U1 
+Si participa, Reemplaza a PE-SANGABRIEL Reemplaza a PE-TOLPANSUR.  Se solicita 
+revisar el desempeño por el tiempo de la instrucción  
+11-03-
+2026 
+2 
+TER NUEVA 
+VENTANAS U1 
+Si participa. 
+11-03-
+2026 
+3 
+TER NUEVA 
+VENTANAS U1 
+La instrucción fue realizada a las 0:00 finalizando y desconectándose del AGC la 
+unidad a las 06:00. Se solicita revisar la respuesta de la unidad 
+11-03-
+2026 
+4 
+TER NUEVA 
+VENTANAS U1 
+La instrucción fue realizada a las 0:00 finalizando y desconectándose del AGC la 
+unidad a las 06:00. Se solicita revisar la respuesta de la unidad 
+11-03-
+2026 
+5 
+TER NUEVA 
+VENTANAS U1 
+CEN instruye habilitar AGC. Finaliza a las 05:12 hrs por el CEN, en primera instancia 
+indican que no ven habilitado el AGC, lo cual si fue realizado por el operador y luego 
+indican error en valor del sep point que les llega a ellos, motivos por el cual 
+reemplazan el SSCC. Se solicita revisar el factor de desempeño 
+
+6 
+ 
+ 
+16-03-
+2026 
+21 
+TER NUEVA 
+VENTANAS U1 
+La instrucción fue realizada a las 0:00 finalizando y desconectándose del AGC la 
+unidad a las 06:00. Se solicita revisar la respuesta de la unidad 
+16-03-
+2026 
+22 
+TER NUEVA 
+VENTANAS U1 
+La instrucción fue realizada a las 0:00 finalizando y desconectándose del AGC la 
+unidad a las 06:00. Se solicita revisar la respuesta de la unidad 
+16-03-
+2026 
+23 
+TER NUEVA 
+VENTANAS U1 
+La instrucción fue realizada a las 0:00 finalizando y desconectándose del AGC la 
+unidad a las 06:00. Se solicita revisar la respuesta de la unidad 
+17-03-
+2026 
+0 
+TER NUEVA 
+VENTANAS U1 
+Según instrucción del Coordinador se habilita el CSF a las 00:09 finalizando a las 
+03:00, sse solicita revisar la disponibilidad de la unidad en la prestación del SC de 
+CSF 
+24-03-
+2026 
+16 
+TER NUEVA 
+VENTANAS U1 
+Central No fue programada para entregar CSF 
+ 

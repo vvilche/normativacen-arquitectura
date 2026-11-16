@@ -1,0 +1,161 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 16 de febrero de 2026 
+DE 01108-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Establecimiento 
+del 
+Consumo 
+Específico Neto de las unidades U1 y U2 de 
+la Central TER Quintero operando con GNL. 
+[1] 
+Carta 
+DE07193-25, 
+Ref.: 
+“Informes 
+Técnicos de Potencia Máxima de la Unidad 
+TER Quintero U1 y Consumo Específico Neto 
+de la Central TER Quintero U1 y U2, de Enel 
+Generación Chile S.A.”, de fecha 7 de 
+noviembre de 2025. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 25 del Anexo Técnico “Determinación de 
+Consumos Específicos de Unidades Generadoras” de la Norma Técnica de Seguridad y 
+Calidad de Servicio, comunico a Ud. el establecimiento de los valores de Consumo 
+Específico Neto (CEN) de las unidades U1 y U2 de la central TER Quintero, operando con 
+GNL, en conformidad con el informe técnico final de prueba emitido por el Experto Técnico 
+a cargo de las pruebas en asunto. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+técnico publicado mediante comunicación de Ref. [1]. Por su parte, el Coordinador emitió 
+observaciones de carácter técnico al informe publicado que derivaron en una versión final 
+del informe de prueba. 
+ 
+Considerando lo planteado, los valores de los parámetros de Consumo Específico Neto de 
+las unidades U1 y U2 de la Central TER Quintero, operando con GNL, se presentan en las 
+tablas contenidas en el anexo de la presente carta. 
+ 
+En cumplimiento del Artículo 25 del Anexo Técnico en mención, los valores de Consumo 
+Específico Neto ya mencionados entrarán en vigencia a partir de las 00:00 horas del 
+jueves 19 de febrero del 2026. 
+ 
+El acta de prueba, las observaciones emitidas y el Informe Técnico final de Prueba, que 
+contienen la justificación de los parámetros indicados anteriormente, pueden ser 
+descargados en la siguiente ruta del Sitio Web del Coordinador Eléctrico Nacional: 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > 
+Consumo Específico Neto > Pruebas de Consumo Específico Neto > Central TER 
+Quintero > 2025 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/PPF/AHM/adr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Consumo Específico Neto Central TER Quintero 
+ 
+Tabla 1. Parámetros CEN Central TER Quintero U1 – Combustible Gas Natural – 
+Configuración Ciclo Abierto 
+Potencia Neta [MW] CEN [kcal/kWh] 
+64,437 
+3.749,62 
+68,136 
+3.657,50 
+77,198 
+3.464,98 
+86,439 
+3.291,94 
+96,032 
+3.148,77 
+107,109 
+3.039,07 
+116,089 
+2.966,94 
+ 
+ 
+Tabla 2. Parámetros CEN Central TER Quintero U2 – Combustible Gas Natural – 
+Configuración Ciclo Abierto 
+Potencia Neta [MW] CEN [kcal/kWh] 
+64,039 
+3.743,79 
+68,007 
+3.635,63 
+77,874 
+3.426,27 
+87,340 
+3.257,72 
+97,171 
+3.106,11 
+107,143 
+3.033,93 
+116,655 
+2.947,53 
+ 
+Tabla 3. Homologación de Parámetros CEN Central TER Quintero – Combustible Gas 
+Natural – Configuración Ciclo Abierto (1) 
+Potencia Neta [MW] CEN [kcal/kWh] 
+64,238 
+3.746,71 
+68,072 
+3.646,57 
+77,536 
+3.445,63 
+86,890 
+3.274,83 
+96,602 
+3.127,44 
+107,126 
+3.036,50 
+116,372 
+2.957,24 
+ 
+(1) Dada la diferencia de los resultados obtenidos menor a un 2% en cada escalón CEN. El valor 
+homologado se calcula como el promedio simple de los valores CEN y de la Potencia activa 
+neta de las unidades U1 y U2 de central Quintero. 

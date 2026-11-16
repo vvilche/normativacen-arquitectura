@@ -1,0 +1,133 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 5 de noviembre de 2025 
+ENGIE N°312/2025
+ 
+ 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Responde a DE 06696-25 sobre retraso en 
+el proceso de verificación de instalaciones de 
+Transmisión 
+para 
+la 
+Prestación 
+de 
+Servicios 
+Complementarios. 
+ 
+De nuestra consideración, 
+ 
+En referencia a la carta DE 06696-25 de fecha 22 de octubre de 2025, mediante la cual el Coordinador Eléctrico 
+Nacional informa el retraso en el proceso de verificación de instalaciones de Transmisión para la prestación de 
+Servicios Complementarios (SSCC) y solicita antecedes y plan de normalización, a las empresas Coordinadas, se 
+informa lo siguiente: 
+ 
+1. Razones del retraso y acciones implementadas 
+La causa principal del atraso en la entrega de los informes de verificación de SSCC corresponde a que en 
+el proceso de emisión de protocolos generales se evidenció la necesidad de realizar adecuaciones y mejoras 
+en las instalaciones para ajustarse plenamente a las pruebas establecidas en las Guías Técnicas de 
+Verificación. 
+ 
+Adicionalmente se informa que: 
+ 
+• 
+El Experto técnico se encuentra seleccionado. 
+• 
+Los Estudios de ajustes de sincronismo se encuentran aprobados. 
+• 
+Se han elaborado y emitido los protocolos generales para verificación de los Servicios Complementarios 
+de Control de Tensión (CT) y Equipos de Vinculación (EV). 
+• 
+Dichos protocolos generales fueron desarrollados por el Experto Técnico y aprobados por el 
+Coordinador Eléctrico Nacional. 
+• 
+El proceso de revisión de protocolos específicos, en el caso de S/E Antofagasta H1 ha sido más extenso 
+de lo considerado (en ocasiones superando los plazos de revisión de 15 días hábiles) y no exento de 
+observaciones. 
+ 
+Como medida para evitar nuevos atrasos, Engie Energía Chile S.A. ha establecido un proceso interno de 
+seguimiento con hitos técnicos y de gestión para asegurar el cumplimiento de los plazos comprometidos, 
+incluyendo revisión anticipada de condiciones de campo (proceso de pre-auditoría con el ejecutor de 
+pruebas), disponibilidad de recursos y coordinación con el Experto Técnico. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Plan de normalización y plazos 
+El plan de normalización que da cumplimiento al punto 2 en lo solicitado en la carta DE 06696-25 se adjunta 
+en el Anexo N°1, indicando: 
+• 
+Fechas de envío de protocolos específicos. 
+• 
+Fechas de ejecución de pruebas en sitio. 
+• 
+Fechas de entrega de los Informes de Verificación. 
+ 
+Este plan no altera la entrega de informes ya programados para otras instalaciones. La definición de los 
+protocolos podría tomar un plazo adicional si necesitasen iteraciones antes de la aprobación final. 
+ 
+3. Estado y avance del proceso 
+Se priorizó el inicio del proceso de verificación en el paño H1 de S/E Antofagasta, al encontrarse en 
+condiciones de ser verificado. Actualmente: 
+• 
+El protocolo específico se encuentra en tercera iteración de revisión. 
+• 
+Se proyecta dar inicio a las pruebas una vez obtenido el visto bueno del Coordinador, considerando los 
+plazos de coordinación operativa y logística asociados. 
+ 
+Se espera que, una vez culminado este primer caso, los procesos subsiguientes avancen en forma más 
+expedita, dada la experiencia adquirida y las adecuaciones ya en curso. 
+ 
+4. Consultas técnicas al Coordinador – Paños sin transformador de potencial y sin medidor digital 
+En los paños donde se declara el servicio complementario de Control de Tensión (C6 S/E Arica, CE1 S/E 
+Central Diésel Arica y JRE S/E Crucero), se informa que estos no cuentan con un transformador de potencial 
+dedicado al paño ni con un medidor acorde a los requerimientos exigidos en la Guía Técnica respectiva, por 
+lo que solicitamos confirmación al Coordinador respecto de la necesidad de continuar con la verificación 
+bajo dichas condiciones. 
+ 
+Esto, considerando que la instalación de los transformadores de potencial requeriría tramitar una 
+Modificación No Relevante, lo que podría extender los plazos del proceso. 
+ 
+Agradeceremos la orientación del Coordinador respecto de este punto, a fin de proceder conforme a la 
+normativa vigente. 
+ 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+Juan Muñoz 
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 

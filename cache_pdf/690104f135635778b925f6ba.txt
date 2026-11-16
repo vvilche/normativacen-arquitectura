@@ -1,0 +1,86 @@
+ 
+ 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+                                                                                            Santiago, 27 de octubre de 2025 
+PE 003-25 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA CARTA DE06012-25 DEL COORDINADOR ELÉCTRICO NACIONAL.  
+REF [1]:  
+CARTA 
+DE06012_25: 
+APRUEBA 
+PROTOCOLOS 
+DE 
+ENSAYOS 
+DE 
+VERIFICACIÓN DE INSTALACIONES PARA LA PRESTACIÓN DE SERVICIOS 
+COMPLEMENTARIOS PARA CENTRALES DE ENEL GENERACIÓN CHILE S.A Y 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. RESPONDE A INGRESO DE05956-25. 
+REF [2]:  
+CARTA OP 0274-25 RESPUESTA CARTA DE06012-25 DEL COORDINADOR 
+ELÉCTRICO NACIONAL 
+ 
+De nuestra consideración, 
+Me refiero a la comunicación de la REF [1] en la que se comunica la aprobación de los 
+Protocolos para los Ensayos de Verificación de los Servicios Complementarios a prestar 
+por las unidades de las centrales HE Rapel, HE El Toro y HE Pangue de Enel Generación 
+Chile S.A. y de las unidades de las centrales HE Pehuenche y HP Loma Alta de Empresa 
+Eléctrica Pehuenche S.A. 
+En dicha comunicación, se indica que el protocolo del Servicio Complementario de CPF de 
+Central Loma Alta no fue entregado al CEN, por lo que en complemento a la carta de la 
+REF [2], le indicamos que desde el siguiente enlace se puede descargar ese protocolo: 
+Protocolo CPF Central Loma Alta: 
+https://drive.google.com/drive/folders/1RZVdYyHzS96n0n3QdNUzwOf1dFl0odez?usp=sh
+aring 
+ 
+Por lo anterior, en cuanto a la fecha exacta de realización de los ensayos, se informará de 
+manera oportuna, considerando la presentación de un plan de trabajo con fechas y plazos 
+para la ejecución en el corto plazo, de los ensayos efectivos de verificación de servicios 
+complementarios de control de frecuencia y control de tensión. 
+
+ 
+ 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Finalmente, cuando se informe el plan de trabajo, las fechas de los ensayos se informará 
+considerando lo siguiente: 
+ 
+• 
+El envío con al menos 5 días de antelación a la ejecución de las pruebas, las curvas 
+de carga, las que serán cargadas en la correspondiente solicitud de trabajo en el 
+sistema Neomante con estado operativo “PDO”. Adicionalmente, esta información, 
+se enviará al correo electrónico verificación.sscc@coordinador.cl, indicando el N° 
+de aviso de trabajo asociado al sistema Neomante. 
+ 
+• 
+En conformidad con el capítulo 5 del “Instructivo Técnico para la Verificación de 
+Instalaciones para la prestación de SSCC”, se enviará el Informe Técnico con los 
+resultados, una vez realizado los ensayos, en un plazo máximo de 15 días. 
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+____________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN 
+EMPRESA ELÉCRICA PEHUENCHE S.A. 
+cc: verificacion_sscc@coordinador.cl 
+ 

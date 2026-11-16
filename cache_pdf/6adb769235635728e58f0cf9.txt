@@ -1,0 +1,145 @@
+ 
+Página 1 
+Santiago, 22 de octubre de 2026 
+Carta VDR N° 19 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel 
+Presente 
+Ref.: Responde carta DE06812-26 del 
+Coordinador, relativa a la integración del Parque 
+Eólico La Flor al EDAG de la Zona Centro Sur. 
+Ant.: [1] Carta DE07914-25 del Coordinador, de 
+fecha 15 de diciembre de 2025. 
+[2] Carta de Vientos de Renaico SpA de fecha 
+05 de febrero de 2026, con el plan de puesta en 
+servicio informado. 
+[3] Carta VDR N° 17, de fecha 09 de octubre de 
+2026, de solicitud de ampliación de plazo. 
+[4] Carta DE06812-26 del Coordinador, de fecha 
+15 de octubre de 2026. 
+De mi consideración: 
+Por medio de la presente, Vientos de Renaico SpA (en adelante, “VDR”) da respuesta, dentro 
+del plazo establecido, a la carta del Ant. [4], mediante la cual el Coordinador requiere informar las 
+razones por las que el Parque Eólico La Flor (en adelante, “PE La Flor”) aún no se encuentra 
+integrado al EDAG de la Zona Centro Sur, y acompañar los antecedentes que las respaldan. 
+En primer término, VDR desea reiterar su pleno compromiso con la instrucción impartida por el 
+Coordinador y con la seguridad del Sistema Eléctrico Nacional, y reconoce la importancia que 
+reviste la oportuna implementación del EDAG de la Zona Centro Sur. Es en ese espíritu que, con 
+anterioridad a la recepción de la carta del Ant. [4], VDR informó proactivamente al Coordinador, 
+mediante la carta del Ant. [3], la situación que afecta al proyecto y las medidas adoptadas para 
+mitigar su impacto. 
+1. Razones del incumplimiento del plazo instruido 
+En cumplimiento de lo instruido mediante la carta del Ant. [1], VDR llevó a cabo el proceso de 
+licitación para la implementación del EDAG del PE La Flor, consistente en una protección de 
+sobrefrecuencia local con ajuste fijo y el envío de la información requerida en tiempo real hacia la 
+Celda Maestra de Transelec S.A. en S/E Charrúa. El proyecto fue adjudicado a Sistemas 
+Eléctricos Ingeniería y Servicios S.A. (SEIS S.A.), empresa que a su vez opera dicha Celda 
+Maestra, como una decisión técnica orientada a asegurar la plena compatibilidad e integración del 
+recurso y a minimizar los riesgos en las etapas de pruebas y habilitación. 
+El plan de trabajo informado mediante la carta del Ant. [2] contemplaba la puesta en servicio hacia 
+fines del año 2026, considerando los plazos requeridos para la licitación, la adjudicación y la 
+coordinación técnica con el operador de la Celda Maestra. Con posterioridad, según consta en la 
+
+ 
+Página 2 
+comunicación oficial de Schweitzer Engineering Laboratories, Inc. (SEL), de fecha 24 de agosto 
+de 2026, el fabricante informó plazos de entrega extendidos, del orden de 32 a 35 semanas, 
+debido a transiciones en sus procesos productivos, a una demanda sostenida a nivel mundial y a 
+limitaciones en el suministro de componentes. Esta circunstancia, sobreviniente, externa y de 
+alcance global, no resulta imputable a VDR ni a su contratista, y motivó la solicitud de ampliación 
+de plazo presentada mediante la carta del Ant. [3]. 
+2. Nueva información recibida de fábrica 
+Con fecha 22 de octubre de 2026, a consecuencia del trámite previo para emitir la OC del equipo 
+a la empresa SEL por parte de SEIS, se recibió información del fabricante, a través de SEIS S.A., 
+en la cual se indica que el plazo de adquisición del equipamiento SEL-224X, se sitúa actualmente 
+en aproximadamente 330 días, esto es, cerca de 47 semanas, lo que excede de manera 
+significativa el plazo de 32 a 35 semanas considerado en el cronograma presentado en la carta 
+del Ant. [3]. 
+De mantenerse este plazo, la recepción del equipamiento se desplazaría hacia el último trimestre 
+de 2027, lo que pondría en riesgo el cumplimiento de la fecha de puesta en servicio solicitada en 
+dicha carta. VDR estima necesario poner esta información en conocimiento del Coordinador de 
+forma inmediata, en cumplimiento del compromiso asumido en la carta del Ant. [3]. 
+3. Evaluación de alternativas de fabricante 
+En la carta del Ant. [3], VDR indicó que el reemplazo del equipamiento o del proveedor no permitía 
+reducir el plazo de implementación. Sin embargo, la magnitud del nuevo plazo informado modifica 
+sustancialmente dicho análisis. En consecuencia, VDR iniciará de inmediato una evaluación 
+detallada de alternativas de otros fabricantes que ofrezcan las mismas funcionalidades técnicas 
+requeridas por el EDAG, sin implicar costos adicionales respecto de la solución actualmente 
+adjudicada. 
+Dicha evaluación considerará, entre otros aspectos: 
+• 
+El cumplimiento de las funcionalidades exigidas: protección de sobrefrecuencia local con 
+ajuste fijo, adquisición de las variables requeridas y su envío en tiempo real a la Celda 
+Maestra. 
+• 
+La compatibilidad de protocolos de comunicación e integración con la Celda Maestra de 
+S/E Charrúa, lo que será revisado en conjunto con SEIS S.A., en su calidad de operador 
+de dicha celda, y con Transelec S.A. 
+• 
+Los plazos de entrega efectivamente comprometidos por cada fabricante, de modo de 
+seleccionar la alternativa que permita alcanzar la puesta en servicio en el menor tiempo 
+posible. 
+VDR informará al Coordinador el resultado de esta evaluación, junto con el cronograma 
+actualizado de puesta en servicio, a más tardar el 30 de noviembre de 2026. 
+4. Medidas de mitigación en curso 
+Con independencia de la alternativa de equipamiento que finalmente se adopte, VDR mantiene 
+las medidas informadas en la carta del Ant. [3], orientadas a reducir al mínimo el impacto del 
+retraso sobre la seguridad del sistema: 
+
+ 
+Página 3 
+• 
+Medida transitoria de sobrefrecuencia en S/E Nahuelbuta: VDR continúa gestionando 
+la habilitación del escalón 2 (51,6 Hz) en la protección del paño al que se conecta el PE 
+La Flor. Para ello, se efectuó la consulta al Departamento de Análisis de la Operación del 
+Coordinador respecto del instrumento requerido (ECAP o minuta técnica de ajustes), y 
+VDR se encuentra en conversaciones con una empresa consultora especializada para su 
+elaboración. 
+• 
+Actividades no dependientes del equipamiento: se continuará avanzando con la 
+ingeniería y la habilitación de los enlaces de comunicaciones hacia la Celda Maestra de 
+S/E Charrúa, en la medida en que dichas actividades no dependan del fabricante que 
+finalmente se seleccione. 
+5. Compromisos de VDR 
+Con el objeto de asegurar la trazabilidad del avance y la debida coordinación con el Coordinador, 
+VDR se compromete a: 
+• 
+Informar el resultado de la evaluación de alternativas de fabricante y el cronograma 
+actualizado de puesta en servicio, a más tardar el 30 de noviembre de 2026. 
+• 
+Informar la fecha de habilitación del escalón 2 (51,6 Hz) en S/E Nahuelbuta, una vez 
+aprobados los ajustes por el Coordinador y por el propietario de la instalación. 
+• 
+Comunicar de forma inmediata cualquier hecho que pudiera modificar el cronograma, así 
+como cualquier oportunidad de adelantar la puesta en servicio. 
+Finalmente, VDR solicita respetuosamente al Coordinador tener presentes los antecedentes 
+expuestos, así como las medidas adoptadas y los compromisos asumidos, al momento de remitir 
+la información a la Superintendencia de Electricidad y Combustibles. 
+Sin otro particular, le saluda atentamente, 
+Italo Perfetti Nazal 
+Área Coordinador Eléctrico 
+Vientos de Renaico SpA 
+Anexos: 
+Anexo 1: Carta VDR N° 17, de fecha 09 de octubre de 2026, con sus anexos. 
+Anexo 2: Comunicación de SEIS S.A. a VDR, “Tiempos de fabricación de equipos SEL”, de 
+fecha 9 de octubre de 2026. 
+Anexo 3: Comunicación de Schweitzer Engineering Laboratories, Inc. (SEL), “Plazos de Entrega 
+Equipos SEL”, de fecha 24 de agosto de 2026. 
+Anexo 4: Correo electrónico de Sinecpro, en representación de VDR, al Departamento de 
+Análisis de la Operación del Coordinador, “Consulta conducto regular – Implementación de 
+elementos de tensión y frecuencia en paño PE La Flor, S/E Nahuelbuta”, de fecha 9 de octubre 
+de 2026. 
+Anexo 5: Comunicación de SEL / SEIS S.A. informando plazo de adquisición del equipamiento 
+SEL-224X, de fecha 22 de octubre de 2026. 
+c.c.: Sr. Rodrigo Espinoza V., Gerente de Operación, Coordinador Eléctrico Nacional 
+Sr. Diego Perales R., Gerente Legal y Regulación, Coordinador Eléctrico Nacional 
+
+ 
+Página 4 
+Departamento DMAP, Coordinador Eléctrico Nacional (dmap@coordinador.cl) 
+Departamento DAOP, Coordinador Eléctrico Nacional (daop@coordinador.cl) 
+Sr. Gonzalo Escobar, Coordinador Técnico Proyecto EDAG PDCE, Transelec S.A. 
+(gescobar@transelec.cl) 

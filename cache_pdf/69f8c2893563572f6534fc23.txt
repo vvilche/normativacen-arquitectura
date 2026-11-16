@@ -1,0 +1,138 @@
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 04 de mayo de 2026 
+DE 02954-26 
+Señor 
+Juan Muñoz 
+Encargado Titular 
+Engie Energía Chile S.A. 
+Presente 
+Ref.: Aceptación de Expertos Técnicos para los 
+Ensayos 
+de 
+Verificación 
+de 
+Servicios 
+Complementarios de Control de Frecuencia y 
+Control de Tensión del proyecto NUP 4877 BESS 
+Lile. 
+ 
+[1] Carta ENGIE N°118/2026 de Engie Energía 
+Chile S.A., Ref.: “Solicitud de inicio del proceso 
+de verificación de SSCC del Proyecto BESS Lile 
+NUP 4877”, de fecha 27 de abril de 2026. 
+Responde a Ingreso: DE04161-26. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en el 
+Artículo 4 del Anexo Técnico “Verificación de Instalaciones para la prestación SSCC”, de 
+la Norma Técnica de Servicios Complementarios (NTSSCC), se han revisado los 
+antecedentes entregados por su representada mediante comunicación de la Ref. [1]. 
+ 
+Al respecto, comunicamos a Ud. que el Coordinador Eléctrico Nacional, declara admisible 
+a los expertos de la empresa Estudios Eléctricos Chile S.A., que se presentan en Anexo 
+1 de la presente carta, para llevar a cabo la supervisión de los ensayos de Verificación de 
+los Servicios Complementarios de Control Primario de Frecuencia (CPF), Control Terciario 
+de Frecuencia (CTF) y Control de Tensión (CT) a prestar por el BESS Lile. 
+ 
+La verificación deberá ser realizada en cumplimiento con lo establecido en el Anexo 
+Técnico “Verificación de Instalaciones para la Prestación de SSCC” de la Norma Técnica 
+mencionada previamente y siguiendo los lineamientos de las Guías de Verificación 
+elaborados por este Coordinador y que se encuentran publicados en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso 
+de Verificación de Instalaciones > Instructivos Técnicos de Verificación 
+ 
+Los protocolos de ensayo y el informe de verificación, resultantes de la ejecución de los 
+ensayos en terreno, deberán ser enviados a revisión del Coordinador mediante carta y 
+con copia al correo verificacion.sscc@coordinador.cl, siguiendo las instrucciones y plazos 
+contenidos en los documentos previamente indicados. 
+ 
+Cabe recordar que estas instalaciones deben además ser verificadas en la prestación del 
+Servicio Complementario de Control Secundario de Frecuencia (CSF), siendo en este 
+caso el Coordinador quien cumple el rol de Experto Técnico. Por lo tanto, y a efectos de 
+coordinar las actividades y avanzar en la verificación del CSF, deberá seguir el siguiente 
+flujo de actividades, según la etapa que se encuentre actualmente, tomando contacto con 
+los siguientes departamentos: 
+
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300  
+ www.coordinador.cl 
+ 
+1. Departamento 
+de 
+Confiabilidad 
+y 
+Soporte 
+Técnico 
+comunicándose 
+al 
+correo DCST@coordinador.cl, para definición del listado de señales requeridas. 
+Tener en cuenta que el listado de señales del CSF coincide con el listado de 
+señales solicitado para el despacho económico con restricciones de seguridad 
+(SCED). Adicionalmente, en esta etapa puede comunicarse con el Departamento 
+de Modelación y Aplicaciones EMS al correo dmap@coordinador.cl para efectos 
+de consultas acerca de la prestación del Servicio Complementario de CSF y la 
+lógica de control que debe ser implementada en sus instalaciones de generación 
+y/ almacenamiento. 
+ 
+2. Departamento 
+SCADA 
+y 
+SITR 
+comunicándose 
+al 
+correo tec.SCADA@coordinador.cl. Solicitud de pruebas punto a punto de las 
+señales listadas por el Departamento de Confiabilidad y Soporte Técnico. 
+ 
+3. Departamento 
+de 
+Modelación 
+y 
+Aplicaciones 
+EMS 
+comunicándose 
+al 
+correo dmap@coordinador.cl. Solicitud de pruebas funcionales de CSF o de 
+sintonización del AGC. 
+ 
+Finalmente, en caso de que la central de su representada no pueda prestar alguno de los 
+SSCC mencionados, el informe técnico resultante de las pruebas deberá contener 
+argumentos claros y antecedentes que permitan justificar esta imposibilidad. 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+CRV/DIR/PBA/adr 
+c.c.: 
+DMAP 
+
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300  
+ www.coordinador.cl 
+ 
+Anexo 1: Exigencias Art. 4 a Expertos Técnicos  
+ 
+ 
+Exigencias Art. 4 
+Estudios Eléctricos Chile S.A. 
+10 años de experiencia relacionada con los 
+ensayos a realizar 
+Cumple 
+Profesionales que cumplen Experiencia y 
+que cumplen rol de Experto Técnico 
+• 
+Federico García  
+• 
+Federico Deledda 
+• 
+Gonzalo Espinoza 
+Declaración Jurada de Conflicto de Interés 
+Cumple presentación de declaración jurada 
+de ausencia de conflicto de interés 

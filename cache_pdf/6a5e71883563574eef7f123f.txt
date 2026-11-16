@@ -1,0 +1,148 @@
+ 
+ENEL GREEN POWER CHILE S.A 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Santiago, 17 de julio de 2026 
+EGP 089-26 
+ 
+Sr. 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA CARTA DE04208-26: SOLICITUD DE ANTECEDENTES TÉCNICOS 
+QUE RESPALDEN LOS INFORMES DE LIMITACIÓN (IL) DECLARADOS PARA LA 
+PRESTACIÓN 
+DE 
+CONTROL 
+DINÁMICO 
+DE 
+TENSIÓN 
+(CDT) 
+DE 
+INSTALACIONES DE ENEL GREEN POWER CHILE S.A. 
+ 
+De nuestra consideración, 
+Junto con saludar, y en atención a lo solicitado mediante su carta DE04208-26, relativa a 
+los Informes de Limitación registrados en la plataforma NeoMante del Coordinador Eléctrico 
+Nacional para la prestación del Servicio Complementario de Control Dinámico de Tensión 
+(CDT), Enel Green Power Chile S.A. viene en informar los antecedentes técnicos que 
+fundamentan las limitaciones declaradas para las instalaciones individualizadas en el Anexo 
+1 de su comunicación.  
+En términos generales, las limitaciones informadas obedecen a situaciones de carácter 
+técnico asociadas principalmente a instalaciones que aún se encuentran pendientes de 
+completar el proceso de verificación comprometido para la prestación formal del Servicio 
+de Control de Tensión Dinámico (CDT). En consecuencia, dichas instalaciones deben ser 
+evaluadas conforme a los requerimientos específicos establecidos para este servicio. Bajo 
+esta condición se encuentran las siguientes centrales: 
+ 
+• 
+PE Valle de los Vientos 
+• 
+PE La Cabaña 
+• 
+PE Renaico II 
+• 
+PFV Finis Terrae 
+• 
+PFV Azabache 
+• 
+PFV Sol de Lila 
+• 
+PFV Valle del Sol 
+• 
+PFV Campos del Sol 
+• 
+PFV Guanchoi 
+ 
+
+ 
+ENEL GREEN POWER CHILE S.A 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Estas instalaciones fueron registradas en la plataforma NeoMante indicando que el proceso 
+de verificación CDT se encuentra pendiente conforme a los cronogramas oportunamente 
+informados al Coordinador.  
+Si bien dichas instalaciones disponen de sistemas de control asociados a recursos basados 
+en electrónica de potencia y cuentan con los modelos dinámicos considerados durante los 
+respectivos procesos de conexión y entrada en operación, a la fecha de emisión de los 
+Informes de Limitación no se habían completado las actividades de verificación en terreno 
+requeridas para validar formalmente el desempeño de las instalaciones bajo las condiciones 
+específicas exigidas para la prestación del Servicio Complementario de Control Dinámico 
+de Tensión.  
+En particular, permanecía pendiente la validación operacional de la interacción entre los 
+controladores de planta y las unidades generadoras frente a consignas dinámicas de 
+tensión, así como la verificación de los efectos que dichas acciones de control pudiesen 
+producir sobre los niveles de tensión internos, márgenes de potencia reactiva, sistemas 
+auxiliares y límites operacionales de los equipos de generación. 
+Bajo estas circunstancias, la activación del servicio, sin contar previamente con la validación 
+correspondiente, podría generar respuestas no deseadas en condiciones reales de 
+operación, incluyendo incrementos de tensión en sectores internos de las instalaciones, 
+aproximación a límites operacionales de equipos y eventuales desconexiones involuntarias 
+de unidades de generación, con la consecuente afectación de la disponibilidad de las 
+centrales y de su contribución segura al Sistema Eléctrico Nacional. 
+Por lo anterior, se informó temporalmente la limitación asociada a la prestación del servicio 
+CDT mientras se completan las actividades de verificación comprometidas, cuyo desarrollo 
+se encuentra actualmente en ejecución conforme a los cronogramas informados. 
+En el caso particular del parque eólico PE Sierra Gorda Este, se informó en la plataforma 
+NeoMante la indisponibilidad de Control Dinámico de Tensión, manteniéndose disponible 
+la prestación de control de potencia reactiva dentro de las capacidades actualmente 
+habilitadas.  
+Cabe señalar que las funcionalidades actualmente disponibles permiten la operación 
+mediante esquemas de control de potencia reactiva y soporte de tensión asociados a la 
+configuración operacional vigente de los controladores de planta. Sin perjuicio de lo anterior, 
+a la fecha de emisión de los Informes de Limitación, las funcionalidades requeridas para la 
+prestación formal del Servicio Complementario de Control Dinámico de Tensión no se 
+encontraban integradas, habilitadas y validadas operacionalmente bajo las condiciones 
+específicas exigidas para dicho servicio. 
+En consecuencia, no existían antecedentes de validación operacional que permitieran 
+asegurar el desempeño esperado frente a requerimientos dinámicos de regulación de 
+tensión impuestos por el sistema eléctrico, ni verificar adecuadamente la coordinación entre 
+los distintos niveles de control involucrados en la prestación del servicio. 
+
+ 
+ENEL GREEN POWER CHILE S.A 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+En estas circunstancias, la operación de la instalación bajo una funcionalidad que no 
+hubiese sido previamente habilitada y validada podría dar origen a respuestas 
+operacionales distintas de las previstas, afectando el comportamiento de la central respecto 
+de los objetivos de control requeridos y comprometiendo los márgenes de operación segura 
+de determinados equipos. 
+Por lo anterior, se informó la limitación asociada a la prestación del servicio CDT, 
+manteniéndose disponible la provisión de control de potencia reactiva dentro de las 
+capacidades actualmente implementadas y operativas de la instalación. 
+Adicionalmente, reiteramos que Enel Green Power Chile S.A. dispone de un plan de trabajo 
+debidamente informado y acordado con el Coordinador Eléctrico Nacional, actualmente en 
+ejecución, que contempla la verificación en terreno de un número significativo de las 
+instalaciones individualizadas entre los meses de julio y noviembre del presente año. Los 
+resultados de dicho programa permitirán acreditar progresivamente el cumplimiento de los 
+requisitos técnicos aplicables y habilitar de manera definitiva la prestación del Servicio 
+Complementario de Control Dinámico de Tensión, resguardando en todo momento la 
+operación segura y confiable de las instalaciones y del Sistema Eléctrico Nacional. 
+En consecuencia, Enel Green Power Chile S.A. se encuentra desarrollando las actividades 
+técnicas necesarias para avanzar en la habilitación, validación y verificación de las 
+capacidades requeridas para la prestación del Servicio Complementario de Control 
+Dinámico de Tensión en las distintas instalaciones individualizadas. 
+Finalmente, manifestamos nuestra disposición a continuar colaborando con el Coordinador 
+Eléctrico Nacional en la implementación progresiva de las capacidades requeridas para la 
+prestación del Servicio Complementario de Control Dinámico de Tensión, resguardando en 
+todo momento la operación segura y confiable de las instalaciones y del Sistema Eléctrico 
+Nacional. 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+________________________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN. 
+ENEL GREEN POWER CHILE S.A. 
+ 

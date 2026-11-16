@@ -1,0 +1,1973 @@
+ 
+REF.: 
+Modifica 
+y 
+reemplaza 
+Informe 
+de 
+Definición de Servicios Complementarios a que 
+se refiere el inciso segundo del artículo 72°-7 
+de la Ley General de Servicios Eléctricos, 
+aprobado mediante Resolución Exenta CNE N° 
+189, de 23 de abril de 2024. 
+ 
+ 
+SANTIAGO, 04 de septiembre de 2025 
+ 
+ 
+RESOLUCION EXENTA Nº 545 
+ 
+VISTOS: 
+a) Lo dispuesto en el artículo 6°, artículo 7° literal b), y artículo 
+9° literal h), del D.L. N° 2.224, de 1978, del Ministerio de Minería, 
+que crea el Ministerio de Energía y la Comisión Nacional de 
+Energía, en adelante, la “Comisión” o “CNE”, modificado por la 
+Ley N° 20.402, que crea el Ministerio de Energía; 
+ 
+b) Lo señalado en el Decreto con Fuerza de Ley Nº 4, de 2006, del 
+Ministerio de Economía, Fomento y Reconstrucción, que fija el 
+texto refundido, coordinado y sistematizado del Decreto con 
+Fuerza de Ley Nº 1 de 1982, del Ministerio de Minería, en 
+adelante, “Ley General de Servicios Eléctricos” o “la Ley”; 
+ 
+c) Lo dispuesto en el Decreto Supremo N° 113, de 2017, del 
+Ministerio de Energía, que Aprueba Reglamento de Servicios 
+Complementarios a los que se refiere el artículo 72°-7 de la Ley 
+General de Servicios Eléctricos, en adelante, “Reglamento 
+SSCC”; 
+ 
+d) La Resolución Exenta CNE N° 786, de 18 de diciembre de 2019, 
+que aprueba Norma Técnica de Servicios complementarios, 
+modificada mediante Resolución Exenta CNE Nº 145, de fecha 
+11 de mayo de 2020, en adelante, “NT SSCC”; 
+ 
+e) La Resolución Exenta CNE N° 189, de 23 abril de 2024, que 
+Modifica y reemplaza Informe de Definición de Servicios 
+Complementarios a que se refiere el inciso segundo del artículo 
+72°-7 de la Ley General de Servicios Eléctricos, aprobado 
+mediante Resolución Exenta CNE N° 442, de 23 de noviembre 
+de 2020, en adelante, “Resolución CNE N°189 de 2024”;  
+ 
+f) El Estudio de Costos SSCC 2024, cuyo informe definitivo, en su 
+versión final, fue emitido por el Coordinador el 26 de septiembre 
+
+ 
+de 2024, en adelante, el “Estudio de Costos SSCC 2024”; 
+ 
+g) La Resolución Exenta CNE N° 263, de 20 de mayo de 2025, que 
+Aprueba versión preliminar de modificaciones al Informe de 
+Definición de Servicios Complementarios a que se refiere el 
+inciso segundo del artículo 72°-7 de la Ley General de Servicios 
+Eléctricos, aprobado mediante Resolución Exenta CNE N° 189, 
+de 23 de abril de 2024, en adelante, “Resolución CNE N° 263 de 
+2025”; 
+ 
+h) Las observaciones presentadas a la Resolución CNE N° 263 de 
+2025, por parte de los interesados Acciona Energía Chile 
+Holdings S.A., ACENOR A.G., ACERA A.G, AES Andes S.A., Anglo 
+American Sur S.A., ACESOL A.G., Cerro Dominador S.A., Colbún 
+S.A., Collahuasi S.A., Coordinador Eléctrico Nacional, Enel 
+Generación Chile S.A., Enel X Chile SpA, Engie Energía Chile 
+S.A., Factory Energía SpA, Generadoras de Chile A.G., GM 
+Holdings S.A., Guacolda Energía SpA, Pacific Hydro Chile S.A., 
+RNE S.A. y Tamakaya Energía SpA; 
+ 
+i) Lo dispuesto en el Decreto N° 12A, de 21 de noviembre de 2022, 
+del Ministerio de Energía, que Nombra a don Marco Antonio 
+Mancilla Ayancán en el cargo de Secretario Ejecutivo de la 
+Comisión Nacional de Energía; y, 
+ 
+j) Lo dispuesto en Resolución N° 36, de la Contraloría General de 
+la República, de 2024. 
+ 
+ 
+CONSIDERANDO: 
+ 
+ 
+1) Que, el artículo 72°-7 de la Ley General de Servicios Eléctricos 
+establece que la Comisión definirá, mediante resolución exenta, y 
+previo informe del Coordinador, los servicios complementarios, en 
+adelante e indistintamente “SSCC”, y sus categorías, considerando 
+las necesidades de seguridad y calidad de los sistemas eléctricos y 
+las características tecnológicas de dichos servicios; 
+ 
+2) Que, el inciso primero artículo 11 del Reglamento SSCC replica la 
+norma señalada en el considerando precedente, y el artículo 12 de 
+la misma normativa reglamentaria dispone que, previo a la dictación 
+de la resolución exenta, la Comisión deberá publicar una versión 
+preliminar de la misma en su sitio web, con el objetivo de que los 
+interesados presenten sus observaciones dentro del plazo de diez 
+días a contar de dicha publicación; 
+
+ 
+ 
+3) Que, a su vez, mediante Resolución CNE N° 189 de 2024, la 
+Comisión modificó y reemplazó el Informe de Definición de 
+Servicios Complementarios a que se refiere el inciso segundo del 
+artículo 72°-7 de la Ley General de Servicios Eléctricos, aprobado 
+mediante Resolución Exenta CNE N° 442, 23 de noviembre de 
+2020; en adelante e indistintamente “Resolución SSCC” o “Informe 
+de Definición de Servicios Complementarios”; 
+ 
+ 
+4) Que, con fecha 26 de septiembre de 2024, el Coordinador emitió la 
+versión final del Estudio de Costos SSCC 2024, a efectos de valorizar 
+y remunerar los servicios complementarios que deban ser prestados 
+y/o instalados directamente el sistema eléctrico cuando las 
+condiciones de mercado no sean competitivas, según lo dispuesto 
+en el artículo 52 y siguientes del Reglamento SSCC; 
+ 
+5) Que, por su parte, en el ejercicio de sus facultades de monitoreo del 
+funcionamiento del sector energético, esta Comisión ha identificado 
+la necesidad de modificar nuevamente la Resolución SSCC, con el 
+objetivo de actualizar las metodologías de costos asociadas a los 
+componentes de remuneración para las unidades generadoras, 
+teniendo en cuenta lo señalado en el Estudio de Costos SSCC 2024; 
+ 
+6) Que, adicionalmente, y en base a los análisis realizados por esta 
+Comisión, se ha definido una metodología para la determinación del 
+costo de oportunidad para los Sistemas de Almacenamiento de 
+Energía, así como para el componente de almacenamiento de una 
+Central Renovable con Capacidad de Almacenamiento de Energía; 
+ 
+ 
+7) Que, teniendo presente lo indicado en los considerandos 
+precedentes, 
+esta 
+Comisión 
+estima 
+necesario 
+modificar 
+la 
+Resolución SSCC, en conformidad con el procedimiento establecido 
+en el Capítulo 1 del Título II del Reglamento SSCC; 
+ 
+8) Que, en virtud de lo dispuesto en los considerandos precedentes, 
+esta Comisión aprobó, mediante Resolución Exenta CNE N° 263, de 
+20 de mayo de 2025, la versión preliminar de las modificaciones al 
+Informe de Definición de Servicios Complementarios a que se refiere 
+el inciso segundo del artículo 72°-7 de la Ley General de Servicios 
+Eléctricos, aprobado mediante Resolución Exenta CNE N° 189, de 23 
+de abril de 2024;  
+ 
+9) Que, en virtud de lo dispuesto en el artículo 11 del Reglamento 
+SSCC, la versión preliminar de las modificaciones a la Resolución 
+
+ 
+SSCC, referida en el literal precedente, fue sometida a observaciones 
+por parte de los interesados por un plazo de diez días;  
+ 
+10) Que, dentro del referido plazo, las empresas y organismos 
+identificados en el literal h) de Vistos, enviaron a esta Comisión sus 
+observaciones a la versión preliminar de modificaciones al Informe 
+de Definición de Servicios Complementarios; y,  
+ 
+11) Que, habiendo revisado en su mérito las observaciones a las que se 
+refiere el literal precedente y en virtud del alcance de las 
+modificaciones previstas en la Resolución Exenta CNE N° 263, de 20 
+de mayo de 2025, corresponde a esta Comisión, mediante el 
+presente acto administrativo, reemplazar el “Informe de Definición 
+de Servicios Complementarios a que se refiere el inciso segundo del 
+artículo 72°-7 de la Ley General de Servicios Eléctricos”, aprobado 
+mediante Resolución Exenta CNE N° 189, de 23 de abril de 2024, 
+por el “Informe de Definición de Servicios Complementarios a que se 
+refiere el inciso segundo del artículo 72°-7 de la Ley General de 
+Servicios Eléctricos”, que la presente resolución aprueba.  
+ 
+ 
+ 
+ 
+RESUELVO: 
+ 
+ 
+ARTÍCULO PRIMERO: Apruébese el siguiente “Informe de Definición de Servicios 
+Complementarios a que se refiere el inciso segundo del artículo 72°-7 de la Ley General 
+de Servicios Eléctricos”, cuyo texto se trascribe a continuación. 
+ 
+ 
+ 
+
+—–——– 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Informe de Definición de 
+  
+Servicios Complementarios 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMISIÓN NACIONAL DE ENERGÍA  
+Septiembre 2025 
+
+—–——– 
+2 
+ 
+ 
+ÍNDICE 
+ 
+ÍNDICE ...................................................................................................................................................... 2 
+INTRODUCCIÓN ........................................................................................................................................ 3 
+1 
+DEFINICIONES Y ABREVIATURAS ...................................................................................................... 6 
+1.1 
+DEFINICIONES ......................................................................................................................... 6 
+1.2 
+ABREVIATURAS ....................................................................................................................... 8 
+2 
+CONSIDERACIONES GENERALES APLICABLES A LOS SERVICIOS COMPLEMENTARIOS .................... 9 
+2.1 
+ASPECTOS GENERALES ............................................................................................................ 9 
+2.2 
+REMUNERACIÓN DE LOS SERVICIOS COMPLEMENTARIOS .................................................. 11 
+2.2.1 
+MECANISMOS Y COMPONENTES DE REMUNERACIÓN DE LOS SERVICIOS 
+COMPLEMENTARIOS ...................................................................................................................... 11 
+2.2.2 
+METODOLOGÍA DE COSTOS ASOCIADOS A COMPONENTES DE REMUNERACIÓN .......... 15 
+3 
+SERVICIOS COMPLEMENTARIOS Y SUS CATEGORÍAS ..................................................................... 23 
+3.1 
+CATEGORÍAS DE SERVICIOS COMPLEMENTARIOS ................................................................ 25 
+3.1.1 
+SERVICIOS DE CONTROL DE FRECUENCIA ........................................................................ 25 
+3.1.2 
+SERVICIOS DE CONTROL DE TENSIÓN .............................................................................. 25 
+3.1.3 
+SERVICIOS DE CONTROL DE CONTINGENCIAS .................................................................. 25 
+3.1.4 
+SERVICIOS DE PLAN DE RECUPERACIÓN DE SERVICIO ..................................................... 25 
+3.2 
+DEFINICIÓN Y CONSIDERACIONES ESPECÍFICAS APLICABLES A CADA SERVICIO 
+COMPLEMENTARIO Y SUS CATEGORÍAS ............................................................................................ 26 
+3.2.1 
+SERVICIOS DE CONTROL DE FRECUENCIA ........................................................................ 26 
+3.2.2 
+SERVICIOS DE CONTROL DE TENSIÓN .............................................................................. 32 
+3.2.3 
+SERVICIO DE CONTROL DE CONTINGENCIAS ................................................................... 34 
+3.2.4 
+SERVICIOS DE PLAN DE RECUPERACIÓN DE SERVICIO ..................................................... 37 
+4 
+ANEXOS .......................................................................................................................................... 39 
+ 
+ 
+ 
+
+—–——– 
+3 
+ 
+ 
+INTRODUCCIÓN 
+ 
+De acuerdo a lo establecido en el artículo 225 letra z) del Decreto con Fuerza de Ley N°4, 
+de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, 
+coordinado y sistematizado del Decreto con Fuerza de Ley N°1, de 1982, del Ministerio de 
+Minería, Ley General de Servicios Eléctricos, modificado por la Ley N°20.936, en adelante 
+e indistintamente “Ley General de Servicios Eléctricos” o “la Ley”, los servicios 
+complementarios son aquellas prestaciones que permiten efectuar la coordinación de la 
+operación del sistema eléctrico en los términos dispuestos en el artículo 72°-1 de la Ley, 
+agregando que dichos servicios se prestaran por medio de los recursos técnicos requeridos 
+en la operación del sistema eléctrico, tales como la capacidad de generación o de inyección 
+de potencia activa, capacidad de inyección o absorción de potencia reactiva y potencia 
+conectada de los usuarios, entre otros, y por la infraestructura asociada a la prestación del 
+recurso técnico. Junto con lo anterior, el artículo 16 del Decreto Supremo N°113, de 2017, 
+del Ministerio de Energía, que Aprueba Reglamento de Servicios Complementarios a los que 
+se refiere el artículo 72°-7 de la Ley General de Servicios Eléctricos, en adelante e 
+indistintamente “Reglamento SSCC”, dispone que se entenderá por recursos técnicos, a 
+los atributos de las instalaciones del sistema eléctrico que permiten contribuir a la 
+operación segura, de calidad y más económica del sistema. 
+Por su parte, el inciso segundo del artículo 72°-7 de la Ley, y el artículo 10 del Reglamento 
+SSCC, establecen que la Comisión Nacional de Energía, en adelante e indistintamente “la 
+Comisión”, definirá, mediante resolución exenta, en adelante e indistintamente “Resolución 
+SSCC” y previo informe con una propuesta del Coordinador Eléctrico Nacional, en adelante 
+“Propuesta de SSCC”, los servicios complementarios, en adelante e indistintamente “SSCC”, 
+y sus categorías, considerando las necesidades de seguridad y calidad de los sistemas 
+eléctricos y las características tecnológicas de dichos servicios, así como definir las 
+prestaciones específicas y atributos que se deberán considerar para efectos de remunerar 
+cada uno de los Servicios Complementarios, e indicar la naturaleza del servicio y sus efectos 
+sistémicos o locales. Asimismo, el inciso penúltimo del artículo 72°-7 de la Ley, dispone que 
+la remuneración por la prestación de los recursos técnicos requeridos en la operación del 
+sistema eléctrico será de cargo de las empresas generadoras que efectúen retiros 
+destinados a usuarios finales desde el sistema eléctrico o subsistema, según lo defina la 
+Comisión en atención a la naturaleza del servicio y sus efectos sistémicos o locales. 
+De conformidad a lo dispuesto en el artículo 12 del Reglamento SSCC, la Propuesta de 
+SSCC deberá contener la definición y descripción de los Servicios Complementarios, y sus 
+respectivas categorías o subcategorías, que puedan ser requeridos por el Sistema 
+Eléctrico Nacional para su operación segura, de calidad y más económica, en el corto, 
+mediano y largo plazo. A estos efectos, el Coordinador deberá considerar los 
+requerimientos del Sistema Eléctrico Nacional teniendo en consideración, al menos, la 
+evolución esperada en la matriz de generación, comportamiento y proyecciones de 
+demanda y generación, la planificación de la transmisión, y el desarrollo, evolución y 
+cambios tecnológicos de las instalaciones y operación del sistema eléctrico. Asimismo, el 
+artículo 13 del Reglamento SSCC dispone que la referida Propuesta de SSCC deberá ser 
+
+—–——– 
+4 
+ 
+ 
+enviada a la Comisión cada vez que el Coordinador, como resultado del análisis referido 
+precedentemente, y de los requerimientos del sistema eléctrico, determine la necesidad 
+de proponer nuevos servicios, y categorías de éstos, para que la Comisión modifique la 
+Resolución de SSCC, si corresponde. Sin perjuicio de lo anterior, el artículo 14 del 
+Reglamento SSCC, dispone que la Comisión podrá solicitar, en cualquier momento, al 
+Coordinador que informe sobre eventuales nuevos Servicios Complementarios o categorías 
+de éstos, con el objeto de poder ser incorporados en la Resolución SSCC. 
+El nuevo régimen de SSCC, establecido en el artículo 72°-7 de la Ley y en conformidad con 
+el artículo decimoctavo transitorio de la Ley 20.936 de 2016, comenzó a implementarse el 
+1° de enero de 2020. El artículo primero transitorio, inciso quinto, literal c), de la referida 
+ley, establece que el Coordinador comenzará a ejercer las funciones del artículo 72°-7 a 
+partir del 1 de julio de 2018. 
+En este contexto, el Coordinador, mediante carta DE 03070-18 del 20 de julio de 2018, 
+envió a esta Comisión el Informe de Propuesta de Servicios Complementarios, el cual fue 
+considerado en la elaboración de la Resolución Exenta CNE N°801 de diciembre de 2018. 
+Luego, en 2019, el Coordinador presentó dos nuevas propuestas de ajustes mediante las 
+cartas DE 04334-19 y DE 06288-19, las cuales fueron incorporadas en el Informe de 
+Definición de SSCC de diciembre de 2019, aprobado mediante Resolución Exenta CNE 
+N°827. Finalmente, el 23 de octubre de 2020, el Coordinador presentó una nueva 
+propuesta de SSCC, que dio origen a la modificación y reemplazo del Informe de Definición 
+de SSCC, aprobado mediante Resolución Exenta CNE N°442 de noviembre de 2020 
+(Informe de Definición de SSCC 2020). 
+Con posterioridad, durante los años 2023 y 2024, el Coordinador llevó a cabo el proceso 
+de licitación internacional para adjudicar la construcción y explotación del Servicio 
+Complementario de Control de Tensión por Aporte de Potencia de Cortocircuito.  Estas 
+circunstancias motivaron una actualización de la presente resolución a través de la 
+Resolución Exenta CNE N°189, de 23 de abril de 2024, mediante la modificación e 
+incorporación 
+de 
+consideraciones 
+específicas 
+a 
+la 
+remuneración 
+del 
+servicio 
+complementario de control de tensión del Informe de Definición de SSCC. 
+Por otra parte, esta Comisión, en el ejercicio de sus facultades de monitoreo del 
+funcionamiento del sector energético, ha detectado la necesidad de modificar nuevamente 
+la presente resolución, con el objetivo de actualizar las metodologías de costos asociadas 
+a componentes de remuneración para las unidades generadoras, teniendo en consideración 
+lo señalado en Estudio de Costos SSCC 2024. Adicionalmente, se establece una 
+metodología asociada a la determinación del costo de oportunidad para los Sistemas de 
+Almacenamiento de Energía, así como para la componente de almacenamiento de una 
+Central Renovable con Capacidad de Almacenamiento de Energía. 
+ 
+En consecuencia, habiéndose cumplido el trámite previo establecido en la Ley para que la 
+Comisión defina los SSCC y sus categorías, corresponde a este organismo dictar la 
+Resolución SSCC que aprueba modificaciones y reemplaza el Informe de Definición de 
+Servicios Complementarios. 
+
+—–——– 
+5 
+ 
+ 
+Finalmente, cabe tener presente que anualmente, durante el mes de junio y, en base a lo 
+establecido en la presente Resolución SSCC, el Coordinador elaborará y comunicará a los 
+Coordinados el Informe SSCC, en el cual deberá señalar los servicios requeridos por el 
+sistema eléctrico con su calendarización respectiva, indicando los Recursos Técnicos 
+necesarios para la prestación de dichos servicios, la infraestructura que se deba instalar 
+para su prestación y su vida útil, en caso de requerirse esta última, y el mantenimiento 
+anual eficiente asociado a la infraestructura, según corresponda. Además, el referido 
+informe deberá indicar, para cada uno de los servicios requeridos, el mecanismo a través 
+del cual se materializará su prestación y/o instalación. Los Coordinados podrán someter al 
+dictamen del Panel de Expertos sus discrepancias respecto de los resultados del informe 
+señalado precedentemente dentro de los diez días siguientes a su comunicación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+—–——– 
+6 
+ 
+ 
+1 
+DEFINICIONES Y ABREVIATURAS 
+ 
+ 
+1.1 
+DEFINICIONES 
+ 
+Para efectos del presente informe, se entenderá por: 
+Cliente Libre: Usuario final no sometido a regulación de precios. 
+Cliente Regulado: Usuario sometido a regulación de precios de acuerdo con lo 
+establecido en el artículo 147° de la Ley General de Servicios Eléctricos. 
+Coordinador: Coordinador Independiente del Sistema Eléctrico Nacional, al que se refiere 
+el artículo 212°-1 de la Ley General de Servicios Eléctricos. 
+Costo Variable: Costos variables combustibles y no combustibles declarados por los 
+Coordinados o costo de oportunidad de la energía gestionable determinada por el 
+Coordinador según corresponda. 
+Error de Control de Área: Representa el cambio requerido de potencia activa de cada 
+área para responder a una desviación de frecuencia y restaurar la frecuencia a su valor 
+nominal. Se determina como la suma del error de flujo de potencia entre áreas y la 
+multiplicación del error de frecuencia y el Bias de frecuencia, es decir, el factor que 
+representa la característica de frecuencia del bloque de control expresado en MW/Hz. 
+Informe de Servicios Complementarios o Informe SSCC: Informe anual del 
+Coordinador a que hace referencia el inciso tercero del artículo 72°-7 de la Ley General de 
+Servicios Eléctricos. 
+Nueva Infraestructura: Instalaciones del sistema eléctrico destinadas a la prestación de 
+Servicios Complementarios que se interconectan al mismo y materializadas a través de 
+licitaciones de dichos servicios o mediante la instrucción de instalación directa por parte del 
+Coordinador. 
+Recurso(s) Técnico(s): Atributo(s) de las instalaciones del sistema eléctrico que 
+permiten contribuir a la operación segura, de calidad y más económica del sistema. En 
+particular son recursos técnicos la capacidad de inyección de potencia activa y/o capacidad 
+de inyección o absorción de potencia reactiva de unidades generadoras o equipos, y la 
+potencia conectada de los Usuarios Finales o de los Sistemas de Almacenamiento de 
+Energía, entre otros. 
+Sistema Eléctrico Nacional: Sistema eléctrico interconectado cuya capacidad instalada 
+de generación sea igual o superior a 200 megawatts. 
+Tiempo de Inicio de Activación: Periodo en que se inicia la prestación del Recurso 
+Técnico Comprometido, contado desde que es requerido el respectivo Servicio 
+Complementario. Se entenderá que el respectivo Servicio Complementario es requerido 
+cuando se produzca una condición operativa en el Sistema Eléctrico Nacional, que active 
+automatismos locales; a través del envío de la consigna tratándose de servicios 
+
+—–——– 
+7 
+ 
+ 
+automáticos centralizados; o desde la instrucción, en la operación en tiempo real, del 
+Coordinador tratándose de Servicios Complementarios cuyo modo de activación no es 
+mediante automatismos, según corresponda. 
+Tiempo Total de Activación: Periodo en que se entrega la totalidad del Recurso Técnico 
+Comprometido, incluyendo el Tiempo de Inicio de Activación. 
+Tiempo de Entrega: Periodo en que las instalaciones deberán ser capaces de mantener 
+el total del Recurso Técnico Comprometido de conformidad a lo dispuesto en la presente 
+Resolución, contado desde el momento en que transcurrió Tiempo Total de Activación. 
+Recurso Técnico Comprometido: Recurso Técnico adjudicado o instruido. 
+Usuario o Consumidor Final: Usuario que utiliza el suministro de energía eléctrica para 
+consumirlo. Corresponde a un Cliente Libre o a un Cliente Regulado. 
+ 
+ 
+
+—–——– 
+8 
+ 
+ 
+1.2 
+ABREVIATURAS 
+ 
+AR 
+: Aislamiento Rápido. 
+CACRCA 
+: Componente de Almacenamiento de una Central Renovable con Capacidad 
+de Almacenamiento. 
+CI 
+: Cargas Interrumpibles. 
+CPF 
+: Control Primario de Frecuencia. 
+CRF 
+: Control Rápido de Frecuencia. 
+CSF 
+: Control Secundario de Frecuencia. 
+CT 
+: Control de Tensión. 
+CTF 
+: Control Terciario de Frecuencia. 
+DMC : Desconexión Manual de Carga. 
+EDAC : Esquema de Desconexión Automática de Carga. 
+EDAG : Esquema de Desconexión Automática de Generación. 
+ERAG : Esquema de Reducción Automática de Generación. 
+EV 
+: Equipos de Vinculación. 
+NT SSCC 
+: Norma Técnica de Servicios Complementarios. 
+NT CyO 
+: Norma Técnica de Coordinación y Operación. 
+PA 
+: Partida Autónoma. 
+PDCC : Plan de Defensa Contra Contingencias Críticas.  
+PDCE : Plan de Defensa Contra Contingencias Extremas.  
+PRS 
+: Plan de Recuperación de Servicio. 
+SSCC o SC 
+: Servicios Complementarios o Servicio Complementario. 
+SAE 
+:  Sistema de Almacenamiento de Energía. 
+ 
+ 
+ 
+ 
+
+—–——– 
+9 
+ 
+ 
+2 
+CONSIDERACIONES GENERALES APLICABLES A LOS SERVICIOS 
+COMPLEMENTARIOS 
+ 
+ 
+2.1 
+ASPECTOS GENERALES 
+ 
+Los SSCC son aquellas prestaciones que permiten efectuar la coordinación de la operación 
+del Sistema Eléctrico Nacional en los términos dispuestos en el artículo 72°-1 de la Ley 
+General de Servicios Eléctricos. El Coordinador, a través de los SSCC, deberá preservar la 
+seguridad del servicio en el sistema eléctrico garantizando la operación más económica 
+y la calidad de servicio para el conjunto de las instalaciones del referido sistema, en 
+conformidad a la normativa vigente. 
+De acuerdo con la Ley, son SSCC, al menos, el control de frecuencia, el control de tensión 
+y el plan de recuperación de servicio, tanto en condiciones normales de operación como 
+ante contingencias. 
+De conformidad a lo dispuesto en el artículo 10 del Reglamento SSCC, para la definición de 
+los SSCC y sus categorías, se han considerado las necesidades de seguridad y calidad de 
+los sistemas eléctricos, las características tecnológicas de estos servicios y los 
+requerimientos de flexibilidad operacional del sistema eléctrico, que permitan el adecuado 
+equilibrio entre generación y demanda eléctrica frente a distintos escenarios y condiciones 
+de desbalance, y que resulten necesarios para preservar la seguridad del servicio en el 
+sistema eléctrico y garantizar la operación más económica para el conjunto de instalaciones 
+del referido sistema, establecidos en el artículo 72°-1 de la Ley. 
+Los SSCC se prestarán a través de las instalaciones existentes o de Nueva Infraestructura, 
+mediante los Recursos Técnicos que éstas dispongan y que sean requeridos en la operación 
+del referido sistema. 
+La presente Resolución, y de conformidad a lo dispuesto en el artículo 59 del Reglamento 
+SSCC, define el carácter sistémico o local del respectivo Servicio Complementario. La 
+referida calificación será considerada en la remuneración de los Recursos Técnicos 
+requeridos en la operación del sistema eléctrico en conformidad a lo dispuesto en el inciso 
+final del artículo 72°-7 de La Ley. El Coordinador también deberá considerar la naturaleza 
+sistémica o local del servicio, para la determinación de la disponibilidad de los Recursos 
+Técnicos, la cuantificación de éstos que sean necesarios para la operación segura, de 
+calidad y económica del sistema eléctrico, y en la evaluación de las condiciones de 
+competencia existentes del respectivo servicio. 
+Para la determinación del requerimiento de los SSCC, en el Informe de SSCC el Coordinador 
+podrá definir zonas, independientemente de la calificación de sistémico o local del servicio. 
+La determinación de dichas zonas deberá realizarse en atención a la seguridad y calidad de 
+servicio del sistema eléctrico, verificando que con ello las condiciones de mercado no dejen 
+de ser competitivas. 
+Sin perjuicio de lo anterior, en caso de definirse zonas en las cuales no se presenten 
+condiciones de competencia, el Coordinador deberá instruir la prestación y/o instalación 
+
+—–——– 
+10 
+ 
+ 
+directa del servicio. 
+Los mecanismos mediante los cuales se materializarán los Servicios Complementarios 
+serán licitaciones o subastas, siempre que existan condiciones de competencia; en 
+particular, el mecanismo será por subastas cuando adicionalmente el requerimiento sea de 
+cortísimo plazo. De manera excepcional, y sólo cuando las condiciones de mercado no sean 
+competitivas o las licitaciones o subastas sean declaradas desiertas, se podrá instruir por 
+el Coordinador la prestación y/o instalación en forma directa. 
+A efecto de lo señalado en el párrafo precedente, y de conformidad a lo dispuesto en el 
+artículo 29 del Reglamento SSCC, se entenderá por requerimiento de cortísimo plazo 
+cuando la prestación del servicio sea por un plazo inferior a seis meses y el período que 
+medie entre la presentación de ofertas y la prestación del servicio sea igual o inferior a 15 
+días. 
+Dichas licitaciones o subastas deberán identificar los requerimientos de Recursos Técnicos, 
+sin vincularlos a una determinada tecnología o instalación en particular, inclusive si la 
+licitación implica el requerimiento de Nueva Infraestructura. 
+En el diseño de las subastas o licitaciones el Coordinador deberá establecer las condiciones 
+para prestar el servicio, las especificaciones técnicas, el periodo de prestación de éstos, los 
+mecanismos de evaluación y adjudicación de las ofertas, entre otros. En el diseño de las 
+subastas y licitaciones, el Coordinador deberá considerar los requerimientos de seguridad y 
+flexibilidad del sistema eléctrico para establecer los periodos de entrega específicos de 
+prestación del servicio y las especificaciones técnicas particulares, verificando que dichas 
+especificaciones se encuentren en cumplimiento con la definición de los SSCC y sus 
+respectivas categorías contenidos en la presente resolución y las exigencias de la normativa 
+vigente. 
+Podrán participar en la prestación de Servicios Complementarios, aquellas instalaciones 
+que verifiquen el cumplimiento de las exigencias normativas, y las exigencias definidas por 
+el Coordinador en los procesos de subastas o licitaciones o instrucción directa y obligatoria. 
+Los Servicios Complementarios relacionados con incrementos o reducciones de demanda 
+eléctrica de Usuarios Finales medidos desde su punto de conexión al sistema eléctrico, 
+podrán prestarse por los mismos Consumidores Finales, individual o agrupadamente. La 
+agrupación de los Consumidores Finales podrá ser realizada por un tercero. 
+Los Coordinados podrán prestar desde una misma instalación del sistema eléctrico más de 
+un Servicio Complementario, de manera simultánea o en distintos tiempos, cuando las 
+características técnicas de dicha instalación así lo permitan. La prestación simultánea de 
+dos o más servicios que se realice a través de una misma instalación no podrá 
+comprometer el cumplimiento de las prestaciones de ninguno de los Servicios 
+Complementarios por separado, así como tampoco podrá existir doble pago de servicios o 
+infraestructura. El Coordinador en las respectivas bases de licitación o condiciones de 
+subasta deberá establecer los requisitos necesarios para evitar incompatibilidades en la 
+prestación de distintos servicios por parte de un mismo recurso. 
+
+—–——– 
+11 
+ 
+ 
+La disponibilidad de los recursos para la prestación de los SSCC no afectará los cálculos de 
+disponibilidad del aporte de unidades generadoras y sistemas de almacenamiento a la 
+Suficiencia del Sistema al que se refiere el D.S. 62, de 2006, del Ministerio de Economía, 
+Fomento y Reconstrucción, que Aprueba reglamento de transferencias de potencia entre 
+empresas generadoras establecidas en la Ley General de Servicios Eléctricos. 
+Las reducciones de demanda que se produzcan por la prestación de Servicios 
+Complementarios no serán contabilizadas como indisponibilidad de suministro de energía 
+eléctrica no autorizada a efectos de lo establecido en la normativa vigente. 
+ 
+ 
+2.2 
+REMUNERACIÓN DE LOS SERVICIOS COMPLEMENTARIOS 
+2.2.1 MECANISMOS Y COMPONENTES DE REMUNERACIÓN DE LOS SERVICIOS 
+COMPLEMENTARIOS 
+ 
+Como ya se señaló, la definición de los Servicios Complementarios establece las 
+prestaciones específicas y atributos que se deberán considerar para efectos de remunerar 
+cada Servicio Complementario, y sus categorías, junto con la naturaleza sistémica o local 
+de éstos, de acuerdo con lo indicado en el Artículo 59 del Reglamento SSCC. 
+Para estos efectos, se deberán considerar los componentes, asociados a la inversión, 
+operación y/o mantenimiento de las instalaciones o, alternativamente, componentes 
+asociados a la disponibilidad y/o activación de los servicios. 
+La remuneración considerará el componente de disponibilidad de un servicio cuando 
+existan, entre otros, costos de oportunidad y/o de habilitación e implementación del 
+servicio respectivo. Asimismo, considerará el componente de activación del servicio, 
+cuando se identifiquen, entre otros, costos variables y/o costos de oportunidad, así como 
+costos de mantenimiento adicionales, en que se incurrirían por la prestación del respectivo 
+servicio. 
+La valorización y remuneración de los SSCC dependerá del mecanismo a través del cual 
+se materializará la prestación y/o instalación de los servicios requeridos en el Informe de 
+SSCC que realice el Coordinador. 
+Conforme lo indicado anteriormente, cuando la materialización del respectivo Servicio 
+Complementario se efectúe mediante una subasta, el servicio se remunerará según el valor 
+adjudicado en la misma, de conformidad a las condiciones fijadas por el Coordinador al 
+efecto, de acuerdo con el Artículo 2-16 de la NT de SSCC, y que permitan la operación más 
+económica del sistema eléctrico, de acuerdo con el proceso de optimización conjunta del 
+nivel de colocación de energía para abastecer la demanda y las reservas operacionales. 
+Dicho valor adjudicado será la suma de los siguientes elementos: 
+- 
+Costo de Oportunidad Real: Se entenderá como el costo en que incurre una 
+instalación adjudicada por la pérdida de ventas de energía en el mercado de corto plazo, 
+debido a la utilización limitada o nula de la capacidad de producción de la instalación 
+
+—–——– 
+12 
+ 
+ 
+por estar prestando un servicio complementario. Este costo será calculado por el 
+Coordinador con ocasión de la realización de los balances de remuneración de servicios 
+complementarios. 
+- 
+Costos por Operación a un Costo Variable Mayor al Costo Marginal Real: Se 
+entenderá como el costo en que incurre una instalación adjudicada por la prestación de 
+un servicio complementario cuando el Costo Variable de la instalación resulta ser mayor 
+al costo marginal del sistema en el mercado de corto plazo. Este costo será calculado 
+por el Coordinador, cuando corresponda, con ocasión de la realización de los balances 
+de remuneración de servicios complementarios. 
+- 
+Costo de Operación Adicional Real: Se entenderá como el costo adicional en que 
+incurre una instalación adjudicada por la prestación de un servicio complementario 
+cuando ésta opera en un punto de operación en que su rendimiento es menor, al 
+considerado por el Coordinador en el proceso de programación de operación para dicha 
+instalación, considerando una operación en que sólo vendería energía sin prestar el 
+servicio complementario. Este costo será calculado por el Coordinador con ocasión de 
+la realización de los balances de remuneración de servicios complementarios. 
+- 
+Valor ofertado: Es el valor ofertado por el Coordinado titular de la instalación 
+adjudicada para la prestación de un servicio complementario. En este valor el 
+Coordinado deberá incluir todos aquellos costos no considerados en los puntos 
+anteriores tales como costos de desgaste, mantenimiento, habilitación y/o 
+implementación, entre otros. 
+Las componentes de Costo de Oportunidad Real, Costos por Operación a un Costo Variable 
+Mayor al Costo Marginal Real y Costo de Operación Adicional Real se determinarán sobre la 
+base de las metodologías descritas en la sección 2.2.2. 
+Por otro lado, cuando el mecanismo de materialización del respectivo Servicio 
+Complementario corresponda a una licitación, el servicio se remunerará conforme al valor 
+adjudicado durante el periodo que comprende el contrato respectivo, de conformidad al 
+mecanismo de evaluación y adjudicación de las ofertas establecido en las bases de licitación 
+fijadas por el Coordinador al efecto, y que permitan la operación más económica del sistema 
+eléctrico. Dicho valor adjudicado deberá considerar costos de oportunidad, operación, 
+desgaste, mantenimiento, habilitación y/o implementación, entre otros. 
+Cuando el mecanismo de materialización de los Servicios Complementarios corresponda a 
+la instrucción del Coordinador de prestación y/o instalación directa y obligatoria, éste se 
+remunerará según se trate de servicios en los que no existen condiciones de competencia 
+o de servicios cuyas subastas o licitaciones fueron total o parcialmente declaradas desiertas. 
+Tratándose del primer caso, el respectivo servicio se remunerará conforme a lo establecido 
+en el Estudio de Costos, tratándose del segundo caso, el respectivo servicio se remunerará 
+según los valores máximos o sus mecanismos de valorización fijados por la Comisión previo 
+a las subastas o licitaciones, o en ocasión a la declaración de desierta que realice el 
+Coordinador, los cuales podrán someterse al dictamen del Panel de Expertos dentro de los 
+diez días siguientes a dicha declaración. 
+Para efectos del presente informe, lo indicado sobre remuneración en el título 3.2 aplicará 
+sólo en condiciones de competencia y cuyas subastas o licitaciones no hayan sido 
+
+—–——– 
+13 
+ 
+ 
+declaradas desiertas. En caso contrario, serán aplicables las disposiciones del párrafo 
+anterior. 
+En caso de que el Sistema se encuentre en estado de emergencia en conformidad a la 
+normativa vigente, el Coordinador podrá instruir la prestación directa de los Servicios 
+Complementarios que requiera para mantener el estándar de seguridad y calidad de 
+servicio correspondiente. 
+Habiéndose instruido la prestación directa de Servicios Complementarios y se considere su 
+remuneración a través de Estudio de Costos, los Coordinados titulares de instalaciones de 
+Servicios Complementarios cuya prestación implique la operación de estas a un Costo 
+Variable de operación superior al costo marginal del sistema eléctrico, deberán ser 
+retribuidos económicamente por sus costos variables de operación no cubiertos. 
+En caso de que la prestación de Servicios Complementarios se realice producto de 
+licitaciones y/o subastas y su prestación implique la operación de la instalación a un Costo 
+Variable superior al costo marginal del sistema eléctrico, los oferentes adjudicados no 
+recibirán una remuneración adicional al valor adjudicado en la respectiva licitación y/o 
+subasta. 
+Tratándose de los servicios de control de frecuencia que no sean prestados por 
+infraestructura materializada producto de una licitación realizada para la prestación del 
+servicio, la remuneración deberá contemplar una componente por la disponibilidad del 
+Recurso Técnico y/o una componente por la activación de dicho servicio, según 
+corresponda. Cuando la prestación de este servicio involucre la inyección de energía al 
+sistema eléctrico, la remuneración por activación corresponderá a la energía inyectada para 
+la prestación del servicio valorizada al costo marginal de la barra de inyección respectiva. 
+En caso contrario, y existiendo condiciones de competencia, el Coordinador deberá licitar 
+el requerimiento del Recurso Técnico que involucre Nueva Infraestructura, en cuyo caso la 
+remuneración se realizará al valor adjudicado en la licitación respectiva durante el periodo 
+de prestación establecido en el referido proceso licitatorio, considerando los componentes 
+de inversión, operación y/o mantenimiento de la Nueva Infraestructura, según 
+corresponda.  
+Para efectos del presente informe lo señalado sobre remuneración en el título 3.2.1 
+aplicará en condiciones de competencia y cuando la licitación no involucre Nueva 
+Infraestructura. En caso de que exista Nueva Infraestructura asociada, serán aplicables las 
+disposiciones del presente párrafo. 
+Como ya se indicó en el título 2.1, la remuneración de la prestación de los Recursos Técnicos 
+se realizará según la naturaleza del servicio y sus efectos sistémicos o locales, de acuerdo 
+con lo definido en la presente Resolución, la que será de cargo de las empresas generadoras 
+que efectúen retiros destinados a Usuarios Finales. En caso de que la naturaleza del servicio 
+sea local, la prestación del recurso por servicios complementarios será remunerada por los 
+retiros de la zona de prestación del servicio. Asimismo, en caso de que se produzca un 
+subsistema producto de desconexión instalaciones de transmisión (desacople físico), la 
+prestación del recurso por servicios complementarios cuyos efectos hayan sido definidos 
+
+—–——– 
+14 
+ 
+ 
+como sistémicos podrán ser remunerados de forma local según lo determine el 
+Coordinador, en atención a las condiciones específicas de prestación. En particular, en el 
+caso de los servicios de Plan de Recuperación de Servicio, su prestación deberá ser 
+remunerada en todo momento en forma sistémica, en atención a que el propósito de 
+los referidos servicios es restablecer el Sistema ante desacoples físicos del mismo. 
+Las remuneraciones asociadas a Nueva Infraestructura, materializadas a través de 
+instalación directa o de licitaciones que involucren Nueva Infraestructura, serán financiadas 
+por los Usuarios Finales a través de un cargo de Servicios Complementarios, el cual será 
+incorporado al cargo único a que hace referencia el artículo 115° de la Ley. En el primer 
+caso, tratándose de instalación directa, la remuneración se realizará durante la vida útil de 
+la infraestructura definida en el Informe de SSCC reconociendo la componente de inversión 
+eficiente definida en el Estudio de Costos, en el segundo caso, tratándose de licitaciones 
+que involucren Nueva Infraestructura, la remuneración se realizará durante el periodo de 
+prestación establecido en el referido proceso licitatorio.  
+En caso de que la prestación de los SSCC sea realizada por usuarios finales, la 
+remuneración se realizará a sus suministradores o al tercero al que se refiere el Artículo 73 
+Reglamento SSCC quienes deberán traspasar íntegramente el valor a dichos usuarios. 
+Sin perjuicio de lo anterior, la remuneración efectiva de los servicios se realizará a aquellas 
+prestaciones cuya activación y/o disponibilidad se hubieren verificado durante el período 
+respectivo, y que comprueben un adecuado desempeño y disponibilidad de acuerdo con los 
+estándares de la normativa vigente. 
+En todo caso, la remuneración de los SSCC deberá evitar en todo momento el doble pago 
+de los servicios o infraestructura. Para estos efectos, en caso de que el requerimiento del 
+servicio implique Nueva Infraestructura, se entenderá que ésta y su Recurso Técnico serán 
+utilizados por el Coordinador para efectuar la operación del sistema eléctrico durante el 
+periodo que comprende el contrato respectivo o su periodo de vida útil, según 
+corresponda, y no recibirán remuneraciones adicionales a las contempladas en su 
+adjudicación o en su instrucción directa y obligatoria de acuerdo con la normativa vigente. 
+Asimismo, la infraestructura de transmisión asociada a los sistemas de transmisión 
+nacional, zonal, y de polos de desarrollo, que se encuentren reconocidas en el Cargo Único 
+al que se hace referencia en el artículo 115° de la Ley, no serán remuneradas por concepto 
+de prestación de SSCC. 
+ 
+ 
+ 
+ 
+ 
+
+—–——– 
+15 
+ 
+ 
+2.2.2 METODOLOGÍA DE COSTOS ASOCIADOS A COMPONENTES DE REMUNERACIÓN 
+ 
+El Coordinador Eléctrico Nacional deberá determinar el valor de las componentes de 
+remuneración de los Servicios Complementarios, sobre la base de las siguientes 
+metodologías. Aquellos parámetros y variables particulares que deba determinar el 
+Coordinador para valorizar las distintas componentes de la remuneración, deberá 
+calcularlas considerando la operación real del sistema y con ocasión de los balances de 
+remuneración de Servicios Complementarios.  
+2.2.2.1 REMUNERACIÓN POR COSTO DE OPORTUNIDAD 
+Cuando una instalación i deba operar limitada a causa de la prestación de algún Servicio 
+Complementario, la componente correspondiente al Costo de Oportunidad se define de 
+acuerdo con la siguiente expresión: 
+𝑅𝐶𝑂𝑖,𝑠𝑐= ∑𝑀𝑎𝑥{(𝐶𝑀𝑔𝑖,ℎ∙𝐸sin 𝑠𝑐 𝑖,ℎ̂ −𝐶𝑉sin 𝑠𝑐 𝑖,ℎ∙𝐸sin 𝑠𝑐 𝑖,ℎ̂) −(𝐶𝑀𝑔𝑖,ℎ∙𝐸𝑖,ℎ−𝐶𝑉𝑖,ℎ∙𝐸𝑖,ℎ); 0}
+ℎ𝑡𝑜𝑡
+ℎ=1
+∙𝐹𝐷𝑖,𝑠𝑐,ℎ 
+Donde,  
+𝑅𝐶𝑂𝑖,𝑠𝑐 : 
+Remuneración por Costo de Oportunidad de la instalación i por la prestación 
+del servicio complementario sc.  
+𝐸sin 𝑠𝑐 𝑖,ℎ̂ : 
+Energía activa neta estimada que hubiera generado la instalación i en el 
+intervalo h, si no hubiera prestado el servicio complementario sc, en los 
+intervalos en que el costo variable de operación de la instalación sea inferior 
+al costo marginal del sistema en la barra de valorización de dicha instalación. 
+𝐸𝑖,ℎ : 
+Energía activa neta generada por la instalación i en el intervalo h, 
+considerando la prestación del servicio complementario, en los intervalos en 
+que el costo variable de operación de la instalación sea inferior al costo 
+marginal del sistema en la barra de valorización de dicha instalación. 
+𝐶𝑀𝑔𝑖,ℎ :  
+Costo marginal promedio en la barra de inyección de la instalación i en el 
+intervalo h en el que presta el servicio complementario sc. 
+𝐶𝑉𝑖,ℎ : 
+Costo variable de operación vigente de la instalación i en el intervalo h, para 
+el nivel promedio de inyección de energía activa 𝐸𝑖,ℎ. En el caso de centrales 
+hidráulicas de embalse se deberán considerar los costos de oportunidad de la 
+energía embalsada correspondiente calculados en la programación de la 
+operación.  
+𝐶𝑉sin 𝑠𝑐 𝑖,ℎ : 
+Costo variable de operación vigente de la instalación i en el intervalo h, para 
+el nivel promedio de inyección de energía activa 𝐸sin 𝑠𝑐 𝑖,ℎ̂. En el caso de 
+centrales hidráulicas de embalse se considerarán los costos de oportunidad de 
+la energía embalsada correspondiente calculados en la programación de la 
+
+—–——– 
+16 
+ 
+ 
+operación. 
+𝐹𝐷𝑖,𝑠𝑐,ℎ : 
+Factor de desempeño de la instalación i en el intervalo h, correspondiente al 
+servicio complementario sc, determinado de conformidad con la normativa 
+vigente. 
+ℎ𝑡𝑜𝑡 : 
+Intervalos totales en el periodo de cálculo.  
+ 
+En el caso particular de contar con instalaciones térmicas con capacidad de Fuegos 
+Adicionales, al valor antes indicado deberá adicionarse directamente una componente 
+calculada de acuerdo con la siguiente expresión: 
+𝑅𝐶𝑂𝐹𝐴𝑖,𝑠𝑐= ∑𝑀𝑎𝑥{𝐶𝑀𝑔𝑖,ℎ−𝐶𝑉FA 𝑖,ℎ; 0}
+ℎ𝑡𝑜𝑡
+ℎ=1
+∙(𝐸FA−sin 𝑠𝑐 𝑖,ℎ̂ −𝐸FA 𝑖,ℎ) ∙𝐹𝐷𝑖,𝑠𝑐,ℎ 
+Donde,  
+𝑅𝐶𝑂𝐹𝐴𝑖,𝑠𝑐 : 
+Remuneración por Costo de Oportunidad del fuego adicional de la instalación 
+i por la prestación del servicio complementario sc. 
+𝐸FA−sin 𝑠𝑐 𝑖,ℎ̂ : Energía neta estimada que hubiera generado el fuego adicional de la 
+instalación i en el intervalo h, si no hubiera prestado el servicio 
+complementario sc, sujeto a la disponibilidad de combustible y limitaciones de 
+la unidad i. 
+𝐸FA 𝑖,ℎ : 
+Energía activa neta generada por el fuego adicional de la unidad i en el 
+intervalo h. 
+𝐶𝑀𝑔𝑖,ℎ : 
+Costo marginal promedio en la barra de inyección de la instalación i en el 
+intervalo h en el que presta el Servicio Complementario. 
+𝐶𝑉FA 𝑖,ℎ : 
+Costo variable de operación a plena carga vigente del fuego adicional de la 
+instalación i en el intervalo h. 
+𝐹𝐷𝑖,𝑠𝑐,ℎ : 
+Factor de desempeño de la instalación i en el intervalo h, correspondiente al 
+servicio complementario sc, determinado de conformidad con la normativa 
+vigente. 
+ℎ𝑡𝑜𝑡 : 
+Intervalos totales en el periodo de cálculo.  
+ 
+ 
+
+—–——– 
+17 
+ 
+ 
+2.2.2.2 REMUNERACIÓN POR COSTO DE OPORTUNIDAD PARA UN SISTEMA DE 
+ALMACENAMIENTO DE ENERGÍA 
+El Costo de Oportunidad generado por la prestación de un Servicio Complementario de un 
+Sistema de Almacenamiento de Energía o de la Componente de Almacenamiento de una 
+Central Renovable con Capacidad de Almacenamiento en la operación en tiempo real, 
+corresponderá a los costos incurridos o pérdida de oportunidad de la venta de energía en 
+el mercado de corto plazo, ocasionados por la prestación de un Servicio Complementario.  
+El Costo de Oportunidad se remunera de acuerdo con la siguiente expresión: 
+𝑅𝑒𝑚𝑢𝑛𝑒𝑟𝑎𝑐𝑖ó𝑛 𝑑𝑒𝑙 𝐶𝑜𝑠𝑡𝑜 𝑑𝑒 𝑂𝑝𝑜𝑟𝑡𝑢𝑛𝑖𝑑𝑎𝑑 𝑇= max {(𝐶𝑜𝑚𝑝𝑜𝑛𝑒𝑛𝑡𝑒 1𝑇−𝐶𝑜𝑚𝑝𝑜𝑛𝑒𝑛𝑡𝑒 2𝑇),0} 
+Donde: 
+𝑇: corresponde a una ventana de valorización de 24 horas, cuyo inicio es definido por el 
+Coordinador y que conforma el periodo de facturación considerado para la valorización de 
+las transferencias económicas para el mercado de corto plazo. Esta ventana deberá ser la 
+misma para todas las instalaciones y podrá ser modificada mensualmente por el 
+Coordinador de manera justificada.  
+El Coordinador deberá realizar los ajustes necesarios en las ventanas de valorización para 
+que comprenda la totalidad del periodo de facturación del mes.  
+𝐶𝑜𝑚𝑝𝑜𝑛𝑒𝑛𝑡𝑒 1𝑇: corresponde a la valorización de la 𝐸𝑛𝑒𝑟𝑔í𝑎 𝐷𝑖𝑠𝑝𝑜𝑛𝑖𝑏𝑙𝑒 𝑇  que refleja la 
+remuneración por arbitraje de energía de un SAE o de la CACRCA, según corresponda, 
+durante la Ventana de Valorización 𝑇, que habría obtenido la instalación si no hubiese 
+realizado la prestación de Servicios Complementarios considerando la operación real, en la 
+proporción correspondiente del servicio complementario respectivo.  
+Para determinar la componente 1, se deberá determinar la 𝐸𝑛𝑒𝑟𝑔í𝑎 𝐷𝑖𝑠𝑝𝑜𝑛𝑖𝑏𝑙𝑒𝑇 la cual 
+corresponderá a la energía total destinada a la prestación de Servicios Complementarios 
+dentro de la ventana de valorización T. De acuerdo con los Servicios Complementarios de 
+control de frecuencia, esta contempla las reservas asociadas a la prestación de los servicios 
+complementarios de subfrecuencia y la activación de las reservas asociadas a la prestación 
+de los servicios complementarios de sobrefrecuencia, durante la Ventana de Valorización 
+𝑇. Esta energía deberá ser asignada a cada periodo relacionado con el subíndice t de 
+acuerdo con la metodología que se expone en la presente sección.  
+La 𝐸𝑛𝑒𝑟𝑔í𝑎 𝐷𝑖𝑠𝑝𝑜𝑛𝑖𝑏𝑙𝑒 𝑇 se determina de acuerdo con la siguiente expresión: 
+𝐸𝑛𝑒𝑟𝑔í𝑎 𝐷𝑖𝑠𝑝𝑜𝑛𝑖𝑏𝑙𝑒 𝑇 :𝑀𝑖𝑛{∑∑
+𝑅ℎ,𝑠𝑐
++
+∗ 𝐹𝐷ℎ,𝑠𝑐
++
+𝑆𝐶
+𝑠𝑐
+𝑇
+ℎ
+ + ∑∑
+𝑅ℎ,𝑠𝑐
+−
+𝑆𝐶
+𝑠𝑐
+∗𝐹𝐷ℎ,𝑠𝑐
+−
+𝑇
+ℎ
+, 𝐸𝑎𝑙𝑚𝑎𝑐𝑒𝑛𝑎𝑑𝑎 𝑇+ 𝐸𝑖𝑛𝑖𝑐𝑖𝑎𝑙 𝑇 } 
+En donde:  
+𝑅ℎ,𝑖
++ : corresponde a la reserva de subida o subfrecuencia asignada a la instalación en la 
+operación real para el periodo “h” y servicio complementario “sc”.  
+𝑅ℎ,𝑖
+− : corresponde a la reserva de bajada o de sobrefrecuencia activada en la operación real 
+
+—–——– 
+18 
+ 
+ 
+para el periodo “h” y servicio complementario “sc”.  
+𝑆𝐶: corresponde a la cantidad total de Servicios Complementarios disponibles para 
+participar durante la ventana de valorización. 
+h: periodo de tiempo con la misma granularidad utilizada para llevar a cabo la valorización 
+de las transferencias económicas del mercado de corto plazo, tanto para la asignación de 
+energía y el CMgt.  
+𝑇: Ventana de valoración. 
+𝐹𝐷ℎ,𝑠𝑐
++ : factor de desempeño de la instalación en el periodo h, correspondiente al servicio 
+complementario de subida “sc”, determinado de conformidad con lo establecido en el 
+capítulo 5 de la NT SSCC.  
+𝐹𝐷ℎ,𝑠𝑐
+−: factor de desempeño de la instalación en el periodo h, correspondiente al servicio 
+complementario de bajada “sc”, determinado de conformidad con lo establecido en el 
+capítulo 5 de la NT SSCC.  
+𝐸𝑎𝑙𝑚𝑎𝑐𝑒𝑛𝑎𝑑𝑎 𝑇:  corresponde a la energía total retirada o abastecida desde la componente de 
+generación de una Central Renovable con Capacidad de Almacenamiento, para el proceso 
+de almacenamiento en la ventana de valorización T.  
+𝐸𝑖𝑛𝑖𝑐𝑖𝑎𝑙 𝑇: corresponde a la energía almacenada en la instalación al inicio de la Ventana de 
+Valorización T. Dicha energía deberá adicionarse, total o parcialmente a la 𝐸𝑎𝑙𝑚𝑎𝑐𝑒𝑛𝑎𝑑𝑎 𝑇 
+siempre que, la suma de ambas no supere la capacidad de almacenamiento de la 
+instalación. 
+El Coordinador deberá considerar la aplicación de los respectivos factores de eficiencia para 
+representar, según corresponda, las pérdidas durante el proceso de retiro e inyección de 
+energía de las respectivas instalaciones, de acuerdo con lo establecido en el Capítulo de 
+Programación de la Operación de la NT CyO. 
+Para llevar a cabo la valorización de la 𝐸𝑛𝑒𝑟𝑔í𝑎 𝐷𝑖𝑠𝑝𝑜𝑛𝑖𝑏𝑙𝑒 𝑇, el Coordinador deberá realizar 
+lo siguiente:  
+1. Realizar la construcción de una curva descendente, que dé cuenta de las horas en 
+las cuales se identifican los costos marginales reales horarios1 observados en la 
+𝑉𝑒𝑛𝑡𝑎𝑛𝑎 𝑑𝑒 𝑉𝑎𝑙𝑜𝑟𝑖𝑧𝑎𝑐𝑖ó𝑛 𝑇 de mayor a menor.  
+2. En base a las horas de la curva descendente, se deberá realizar la apertura de 
+dichas horas considerando la misma granularidad utilizada para llevar a cabo la 
+valorización de las transferencias económicas en el mercado de corto plazo. La 
+posición de cada periodo queda determinada por el subíndice “t”, siendo t igual a 1 
+la posición del primer periodo asociado al costo marginal real horario de mayor 
+ 
+1Se entenderá por costo marginal real horario al promedio de los costos marginales reales por los periodos que 
+componen una hora.   
+
+—–——– 
+19 
+ 
+ 
+valor, y la posición t igual a n la última posición del periodo asociado al costo 
+marginal real horario de menor valor.   
+3. En base a lo anterior, se deberá realizar la asignación de energía inyectada y los 
+costos marginales reales para cada posición t, de acuerdo con la operación real de 
+la instalación. A efectos de lo anterior, se considerará la granularidad utilizada en 
+la valorización de las transferencias económicas del mercado de corto plazo. 
+4. Posteriormente, la Energía Disponible se deberá asignar secuencialmente en cada 
+posición t, en adelante Energía Disponible t, hasta alcanzar la totalidad de Energía 
+Disponible, considerando las limitaciones técnicas de la instalación que 
+correspondan.  
+5. En el caso de la última hora de asignación, la colocación de la energía remanente 
+en cada posición t deberá realizarse de forma de maximizar su valorización en la 
+respectiva hora. 
+6. Finalmente, se deberá realizar la valorización de la Energía Disponible t en base a 
+los costos marginales realest de la curva descendente.  
+𝐶𝑜𝑚𝑝𝑜𝑛𝑒𝑛𝑡𝑒 2𝑇:  corresponde a la valorización de la contabilización de las inyecciones físicas 
+y de la Energía Disponible de un SAE o de la CACRCA, según corresponda, para la 
+respectiva Ventana de Valorización 𝑇. Para lo anterior, se deberá realizar el siguiente 
+procedimiento: 
+1. Se deberán contabilizar las inyecciones físicas y valorizadas de la instalación en la 
+operación real, así como también, la Energía Disponible asignada en el numeral 4 
+anterior y su valorización, considerando los periodos de la curva descendente señalada 
+en el numeral 2 anterior.   
+2. La contabilización de la Energía Disponible t y de las inyecciones físicas, deberá iniciar 
+desde la posición t igual a n hasta la posición t igual a 1, hasta alcanzar la 
+𝐸𝑛𝑒𝑟𝑔í𝑎 𝐷𝑖𝑠𝑝𝑜𝑛𝑖𝑏𝑙𝑒 𝑇 determinada previamente.  
+3. En el caso de que la instalación preste un servicio complementario en la última hora de 
+la Ventana de Valorización 𝑇, se deberá realizar el siguiente procedimiento:  
+ 
+a) Descontar de la contabilización señalada en el numeral 2 de la Componente 2, 
+la energía asociada al servicio complementario que ocasiona la pérdida de 
+oportunidad de la venta de energía en el mercado de corto plazo asociada a la 
+respectiva hora.   
+b) En el caso de que la suma de la 𝐸𝑎𝑙𝑚𝑎𝑐𝑒𝑛𝑎𝑑𝑎 𝑇+1más la 𝐸𝑖𝑛𝑖𝑐𝑖𝑎𝑙 𝑇+1 descontada la 
+energía a que hace referencia el literal anterior en la Ventana de Valorización T 
+sea igual o superior a la capacidad de almacenamiento de la instalación, en la 
+ventana de valorización T+1 se deberá identificar la energía determinada en el 
+literal anterior en conjunto con su valorización. Para ello, se contabilizarán las 
+inyecciones realizadas en la operación real de forma cronológica, hasta 
+completar la energía determinada en el literal anterior o hasta el primer retiro 
+de energía efectuado por la instalación, según corresponda. La valorización de 
+esta deberá ser adicionada a la Componente 2 de la Ventana de Valorización 
+T+1. 
+ 
+
+—–——– 
+20 
+ 
+ 
+ 
+La remuneración del Costo de Oportunidad se realizará utilizando el mismo período de 
+facturación considerado en la valorización de las transferencias económicas para el 
+mercado de corto plazo. Para ello, se deberá considerar las ventanas de valorización cuyo 
+término haya ocurrido dentro del periodo de facturación.  
+La presente metodología será aplicable solo a aquellas instalaciones que, en el proceso de 
+subastas de Servicios Complementarios realizado por el Coordinador, cumplan con 
+presentar ofertas por disponibilidad completa2 para la totalidad del periodo subastado, para 
+al menos, cada una de las subcategorías de servicios complementarios de subida 
+establecidas en la sección 3.2.1 del título 3 de la presente resolución, según corresponda. 
+En caso contrario, les serán aplicadas las disposiciones establecidas para las respectivas 
+instalaciones en el Estudio de Costos vigente. 
+Para efectos de la asignación de pagos asociados a empresas generadoras que realicen 
+retiros para dar suministro a clientes finales, para cada instalación, el costo de oportunidad 
+de cada Ventana de Valorización deberá ser distribuido para cada periodo de cálculo del 
+costo marginal real a que hace referencia la Norma Técnica de Coordinación y Operación, 
+a prorrata de las reservas consideradas en la determinación de la 𝐸𝑛𝑒𝑟𝑔í𝑎 𝐷𝑖𝑠𝑝𝑜𝑛𝑖𝑏𝑙𝑒 𝑇. 
+ 
+2.2.2.3 REMUNERACIÓN POR OPERACIÓN CON COSTO VARIABLE MAYOR AL 
+COSTO MARGINAL 
+Cuando una instalación i deba operar fuera de orden de mérito producto de la prestación 
+de algún Servicio Complementario, la componente correspondiente al Costo por Operación 
+con Costo Variable Mayor al Costo Marginal se define de acuerdo con la siguiente expresión: 
+𝑅𝐶𝑉𝑀𝑖= 𝑆𝑜𝑏𝑟𝑒𝑐𝑜𝑠𝑡𝑜𝑖−∑𝐷𝑒𝑠𝑐𝑢𝑒𝑛𝑡𝑜𝑖,𝑠𝑐
+𝑠𝑐
+ 
+𝑆𝑜𝑏𝑟𝑒𝑐𝑜𝑠𝑡𝑜𝑖= ∑𝑀𝑎𝑥{𝐶𝑉𝑖,ℎ−𝐶𝑀𝑔,𝑖,ℎ; 0}
+ℎ𝑡𝑜𝑡
+ℎ=1
+∙𝐸𝑖,ℎ 
+𝐷𝑒𝑠𝑐𝑢𝑒𝑛𝑡𝑜𝑖,𝑠𝑐= ∑𝑀𝑎𝑥{𝐶𝑉𝑖,ℎ−𝐶𝑀𝑔𝑖,ℎ; 0} ∙𝑅𝑒𝑠𝑒𝑟𝑣𝑎𝑖,𝑠𝑐,ℎ∙(1 −𝐹𝐷𝑖,𝑠𝑐,ℎ)
+ℎ𝑡𝑜𝑡
+ℎ=1
+ 
+Donde, 
+𝑅𝐶𝑉𝑀𝑖 : 
+Remuneración por Costo Variable Mayor al Costo Marginal de la instalación i 
+por la prestación de servicios complementarios. 
+ 
+2 Corresponde a la cuantía del recurso que puede prestar la instalación por Servicio Complementario, categorías 
+y subcategorías, y las condiciones específicas asociadas a la prestación de los SSCC correspondiente, conforme a 
+lo establecido en la NT SSCC. 
+
+—–——– 
+21 
+ 
+ 
+𝐸𝑖,ℎ : 
+Energía activa neta generada por la unidad generadora i en el intervalo h, en 
+que se presta el servicio complementario de acuerdo con el programa de 
+operación e instrucciones de operación válidos, por parte del Coordinador 
+Eléctrico Nacional, en los intervalos en que el costo variable de operación de 
+la instalación sea superior al costo marginal del sistema en la barra de 
+valorización de dicha instalación. 
+𝑅𝑒𝑠𝑒𝑟𝑣𝑎𝑖,𝑠𝑐,ℎ : Reserva efectiva aportada por la instalación i en el intervalo h por la prestación 
+del servicio complementario sc, considerando el programa y las instrucciones 
+de operación, el factor de activación del intervalo h por la prestación del 
+servicio complementario sc y las limitaciones técnicas de la instalación i.  
+𝐶𝑉𝑖,ℎ : 
+Costo variable de operación vigente para la instalación i, para el nivel 
+promedio de inyección de energía activa que tuvo durante el intervalo h. En 
+el caso de centrales hidráulicas de embalse se consideran los costos de 
+oportunidad de la energía embalsada correspondiente. Se entenderá por nivel 
+promedio de inyección de energía activa como la potencia activa media en el 
+intervalo h en el cual se presta el servicio complementario. 
+𝐶𝑀𝑔,𝑖,ℎ : 
+Costo marginal promedio en la barra de inyección de la instalación i en el 
+intervalo h en el que presta el servicio complementario. 
+𝐹𝐷𝑖,𝑠𝑐,ℎ : 
+Factor de desempeño de la instalación i en el intervalo h, correspondiente al 
+servicio complementario sc, determinado de conformidad con la normativa 
+vigente. 
+ℎ𝑡𝑜𝑡 : 
+Intervalos totales en el periodo de cálculo.  
+ 
+2.2.2.4 COSTOS POR OPERACIÓN ADICIONAL PARA INSTALACIONES NO 
+TÉRMICAS 
+Cuando una instalación i, cuya energía primaria no provenga de combustibles fósiles, 
+incurra en un costo de operación adicional para la prestación de servicios complementarios 
+por el uso de su recurso primario en un punto de operación de menor rendimiento, la 
+componente correspondiente al Costo por Operación Adicional para Instalaciones No 
+Térmicas se define de acuerdo con la siguiente expresión: 
+𝑅𝐶𝑂𝐴𝑖,𝑠𝑐= ∑𝐶𝑂𝑖,ℎ∙𝑀𝑎𝑥{( 
+𝜌sin 𝑠𝑐 𝑖,ℎ
+𝜌𝑖,ℎ
+−1) ; 0}
+ℎ𝑡𝑜𝑡
+ℎ=1
+∙𝐸𝑖,𝑠𝑐,ℎ∙𝐹𝐷𝑖,𝑠𝑐,ℎ 
+Donde,  
+𝑅𝐶𝑂𝐴𝑖,𝑠𝑐 : 
+Remuneración por Costo de Operación Adicional de la instalación i, de 
+naturaleza no térmica, por la prestación del servicio complementario sc. 
+𝐸𝑖,𝑠𝑐,ℎ : 
+Energía activa neta inyectada por la instalación i en el intervalo h por la 
+
+—–——– 
+22 
+ 
+ 
+prestación del servicio complementario sc. 
+𝐶𝑂𝑖,ℎ : 
+Costo unitario de operación de la instalación i en el intervalo h, considerado 
+en la programación diaria correspondiente. 
+𝜌sin 𝑠𝑐 𝑖,ℎ : 
+Rendimiento de la instalación i en el intervalo h correspondiente al nivel de 
+generación o cota si no hubiera prestado el servicio complementario sc. 
+𝜌𝑖,ℎ : 
+Rendimiento de la instalación i correspondiente a la potencia media 
+efectivamente despachada en el intervalo h. 
+𝐹𝐷𝑖,𝑠𝑐,ℎ : 
+Factor de desempeño de la instalación i en el intervalo h, correspondiente al 
+servicio complementario sc, determinado de conformidad con la normativa 
+vigente. 
+ℎ𝑡𝑜𝑡 : 
+Intervalos totales en el periodo de cálculo.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+—–——– 
+23 
+ 
+ 
+3 
+SERVICIOS COMPLEMENTARIOS Y SUS CATEGORÍAS 
+ 
+ 
+Son Servicios Complementarios los que se indican en el siguiente cuadro, incluyendo sus 
+categorías y subcategorías, según corresponda. 
+Tabla 1: Cuadro resumen SSCC 
+SSCC 
+Categoría SSCC 
+Subcategoría SSCC 
+Control de 
+Frecuencia 
+Control Rápido de 
+Frecuencia (CRF) 
+Control Rápido de Frecuencia por 
+Subfrecuencia (CRF +) 
+Control Rápido de Frecuencia por 
+Sobrefrecuencia (CRF -) 
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF +) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario por Subfrecuencia  
+(CSF +) 
+Control Secundario por Sobrefrecuencia 
+(CSF -) 
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario por Subfrecuencia CTF+ 
+Control Terciario por Sobrefrecuencia CTF- 
+
+—–——– 
+24 
+ 
+ 
+SSCC 
+Categoría SSCC 
+Subcategoría SSCC 
+Cargas Interrumpibles 
+Cargas Interrumpibles 
+Control de Tensión 
+(CT) 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+Control de 
+Contingencias 
+Desconexión de Carga 
+EDAC (EDAC por Subfrecuencia, EDAC por 
+Subtensión, EDAC por Contingencia 
+Específica) 
+DMC 
+Desconexión de 
+Generación 
+EDAG o ERAG (EDAG o ERAG por 
+Sobrefrecuencia y EDAG o ERAG por 
+Contingencia Específica) 
+Plan de Defensa contra 
+Contingencias (PDC) 
+Plan de Defensa contra Contingencias 
+Extremas (PDCE) 
+Plan de Defensa contra Contingencias 
+Críticas (PDCC) 
+Plan de 
+Recuperación de 
+Servicio 
+Partida Autónoma (PA) 
+Partida Autónoma (PA) 
+Aislamiento Rápido (AR) 
+Aislamiento Rápido (AR) 
+Elementos de 
+Vinculación (EV) 
+Elementos de Vinculación (EV) 
+
+—–——– 
+25 
+ 
+ 
+3.1 
+CATEGORÍAS DE SERVICIOS COMPLEMENTARIOS 
+ 
+3.1.1 SERVICIOS DE CONTROL DE FRECUENCIA 
+ 
+Los servicios de Control de Frecuencia corresponden a aquellos servicios que permiten 
+mantener el equilibrio entre la generación y demanda del sistema eléctrico, y, por lo tanto, 
+la frecuencia de éste, de acuerdo con lo establecido en la normativa vigente. La naturaleza 
+de la prestación de este servicio se considera sistémica. 
+ 
+3.1.2 SERVICIOS DE CONTROL DE TENSIÓN 
+ 
+Los servicios de Control de Tensión corresponden a aquellos servicios que permiten 
+mantener la tensión de operación de las barras del sistema eléctrico dentro de una banda 
+predeterminada, establecida en la normativa vigente. La naturaleza de la prestación de 
+este servicio se considera local. 
+ 
+3.1.3 SERVICIOS DE CONTROL DE CONTINGENCIAS 
+ 
+Los servicios de Control de Contingencias corresponden a aquellos servicios que tienen por 
+objetivo evitar la ocurrencia de apagón parcial o total del sistema ante contingencias. La 
+naturaleza de la prestación de este servicio se considera sistémica o local según será 
+definido para cada categoría o subcategoría. 
+ 
+3.1.4 SERVICIOS DE PLAN DE RECUPERACIÓN DE SERVICIO 
+ 
+Los servicios de Plan de Recuperación de Servicio corresponden a aquellos servicios que, 
+una vez ocurrido un apagón parcial o total del sistema eléctrico, permiten restablecer el 
+suministro eléctrico en el menor tiempo posible. La naturaleza de la prestación de este 
+servicio se considera sistémica. 
+
+26 
+—–——– 
+ 
+ 
+ 
+3.2 
+DEFINICIÓN Y CONSIDERACIONES ESPECÍFICAS APLICABLES A CADA 
+SERVICIO COMPLEMENTARIO Y SUS CATEGORÍAS 
+ 
+3.2.1 
+SERVICIOS DE CONTROL DE FRECUENCIA 
+ 
+3.2.1.1 CONTROL RÁPIDO DE FRECUENCIA (CRF) 
+ 
+a. Definición del Control Rápido de Frecuencia 
+ 
+Corresponde a acciones de control automáticas locales que permiten responder 
+rápidamente frente a las desviaciones de frecuencia del sistema eléctrico. Esta categoría 
+de servicio considera las subcategorías de Control Rápido de Frecuencia por Subfrecuencia 
+(CRF+) y de Control Rápido de Frecuencia por Sobrefrecuencia (CRF-). 
+El Tiempo Total de Activación del servicio CRF será de 1 [s], y su mínimo Tiempo de Entrega 
+será de 5 [min]. 
+ 
+b. Remuneración del Control Rápido de Frecuencia  
+ 
+i. 
+Remuneración CRF+ 
+Los componentes que se considerarán para efectos de la remuneración del servicio de 
+CRF+ corresponden a la disponibilidad y activación. 
+El componente de disponibilidad del CRF+, asociado a la remuneración por mantener dicha 
+reserva disponible en el periodo requerido, corresponderá al intervalo de la banda de 
+subfrecuencia por el valor adjudicado en la subasta o licitación, según corresponda, de 
+acuerdo con lo definido por el Coordinador en el Informe SSCC. 
+El componente de activación del CRF+, asociado al pago por la prestación efectiva del 
+servicio, corresponderá a la inyección de energía por subfrecuencia valorizada al costo 
+marginal de la barra de inyección. 
+ 
+ii. 
+Remuneración CRF- 
+El componente que se considerará para efecto de la remuneración del servicio de CRF- 
+corresponde al de activación de dicho servicio. 
+El componente de activación de CRF-, correspondiente al pago por la prestación efectiva del 
+servicio, se remunerará al valor adjudicado en la subasta o licitación según corresponda, 
+de acuerdo con lo definido por el Coordinador en el Informe SSCC. 
+ 
+
+27 
+—–——– 
+ 
+ 
+c. Consideraciones específicas para el Control Rápido de Frecuencia 
+Al diseñar el requerimiento del servicio, el Coordinador podrá exigir, entre otros aspectos, 
+el mínimo de reserva requerido por oferente, y la banda muerta. Asimismo, el Coordinador 
+podrá exigir respuestas proporcionales a los cambios de frecuencia del sistema eléctrico 
+cuando esta se encuentre fuera de la banda muerta, en cuyo caso podrá exigir que en el 
+Tiempo Total de Activación se entregue parcialmente el Recurso Técnico Comprometido. 
+La lógica de control de las instalaciones que participen en el CRF deberá definirse de 
+manera de contribuir con la recuperación de frecuencia y no provocar perturbaciones 
+adicionales. 
+ 
+3.2.1.2 CONTROL PRIMARIO DE FRECUENCIA (CPF) 
+ 
+a. Definición del Control Primario de Frecuencia 
+Corresponde a acciones de control automáticas locales orientadas a contener y corregir las 
+desviaciones de frecuencia del sistema eléctrico. Esta categoría de servicio considera las 
+subcategorías de Control Primario de Frecuencia por Subfrecuencia (CPF+) y de Control 
+Primario de Frecuencia por Sobrefrecuencia (CPF-) 
+El Tiempo Total de Activación del servicio CPF será de 10 [s], y su mínimo Tiempo de 
+Entrega será de 5 [min]. 
+b. Remuneración del Control Primario de Frecuencia 
+ 
+i. 
+Remuneración CPF+ 
+Los componentes que se considerarán para efecto de la remuneración del servicio de CPF+ 
+corresponden a la disponibilidad y activación. 
+El componente de disponibilidad del CPF+, asociado a la remuneración por mantener dicha 
+reserva disponible en el periodo requerido, corresponderá al intervalo de la banda de 
+subfrecuencia por el valor adjudicado en la subasta o licitación según corresponda, de 
+acuerdo con lo definido por el Coordinador en el Informe SSCC. 
+El componente de activación del CPF+, asociado al pago por la prestación efectiva del 
+servicio, corresponderá a la inyección de energía por subfrecuencia valorizada al costo 
+marginal de la barra de inyección. 
+ii. 
+Remuneración CPF- 
+La componente que se considerará para efecto de la remuneración del servicio de CPF- 
+corresponden al de activación de dicho servicio. 
+El componente de activación de CPF-, correspondiente al pago por la prestación efectiva del 
+servicio, se remunerará al valor adjudicado en la subasta o licitación según corresponda, 
+
+28 
+—–——– 
+ 
+ 
+de acuerdo con lo definido por el Coordinador en el informe SSCC. 
+c. Consideraciones específicas para el Control Primario de Frecuencia 
+Al diseñar el requerimiento del servicio, el Coordinador podrá exigir, entre otros aspectos, 
+el mínimo de reserva requerido por oferente, banda muerta, estatismo y velocidad de 
+respuesta. 
+ 
+3.2.1.3 CONTROL SECUNDARIO DE FRECUENCIA (CSF) 
+ 
+a. Definición del Control Secundario de Frecuencia 
+Corresponde a acciones de control destinadas a restablecer la frecuencia del sistema 
+eléctrico a su valor nominal. Esta categoría de servicio considera las subcategorías de 
+Control Secundario de Frecuencia por Subfrecuencia (CSF+) y de Control Secundario de 
+Frecuencia por Sobrefrecuencia (CSF-). 
+El CSF deberá operar de forma centralizada y automática a través de un esquema de 
+control centralizado o AGC.  
+El Tiempo Total de Activación del servicio CSF será de 5 [min], y su mínimo Tiempo de 
+Entrega será de 15 [min]. 
+b. Remuneración del Control Secundario de Frecuencia  
+ 
+i. 
+Remuneración CSF+ 
+Los componentes que se considerarán para efecto de la remuneración del servicio de 
+CSF+ corresponden a la disponibilidad y activación de dicho servicio. 
+El componente de disponibilidad de CSF+, asociado a la remuneración por mantener dicha 
+reserva disponible en el periodo requerido, se remunerará al valor adjudicado en la subasta 
+o licitación, según corresponda, de acuerdo con lo definido por el Coordinador en el Informe 
+SSCC. 
+El componente de activación de CSF+, asociado al pago por la prestación efectiva del 
+servicio, corresponderá a la inyección de energía por subfrecuencia valorizada al costo 
+marginal de la barra de inyección respectiva. 
+ii. 
+Remuneración CSF- 
+El componente que se considerará para efecto de la remuneración del servicio de CSF- 
+corresponde al de activación de dicho servicio. 
+El componente de activación de CSF-, correspondiente al pago por la prestación efectiva 
+del servicio, se remunerará al valor adjudicado en la subasta o licitación según corresponda, 
+de acuerdo con lo definido por el Coordinador en el Informe SSCC. 
+
+29 
+—–——– 
+ 
+ 
+c. Consideraciones específicas para el Control Secundario de Frecuencia 
+Una vez que el Error de Control de Área sea nulo, la activación del servicio CSF+ se realizará 
+en orden creciente de costos variables de las instalaciones que resultaron adjudicadas. 
+Una vez que el Error de Control de Área sea nulo, la activación del servicio CSF- se realizará 
+priorizando aquellas instalaciones adjudicadas que minimicen el costo total de operación 
+del sistema, considerando en dicha priorización los costos variables y los valores ofertados, 
+entre otros. 
+Al diseñar el requerimiento del servicio, el Coordinador podrá exigir, entre otros aspectos, 
+el mínimo de reserva requerido por oferente, el Tiempo de Inicio de Activación del CSF y los 
+requerimientos de tasas de subida o bajada de carga. 
+ 
+3.2.1.4 CONTROL TERCIARIO DE FRECUENCIA (CTF) 
+ 
+a. Definición del Control Terciario de Frecuencia 
+Corresponde a acciones de control activadas por instrucción, en la operación en tiempo 
+real, del Coordinador destinadas a restablecer las reservas del Control Secundario de 
+Frecuencia o incorporar reservas adicionales con el objeto de preparar al sistema eléctrico 
+para responder a desequilibrios respecto de los cuales las reservas por otras categorías de 
+Control de Frecuencia sean insuficientes. Esta categoría de servicio considera las 
+subcategorías de Control Terciario por Subfrecuencia (CTF+) y de Control Terciario por 
+Sobrefrecuencia (CTF-). 
+El Tiempo de Inicio de Activación del CTF será de 5 [min] a partir de la instrucción del 
+Coordinador, y su máximo Tiempo de Entrega será de 1 [h]. 
+b. Remuneración del Control Terciario de Frecuencia  
+ 
+i. 
+Remuneración CTF+ 
+Los componentes que se considerarán para efecto de la remuneración del servicio de 
+CTF+ corresponden a la disponibilidad y activación de dicho servicio. 
+El componente de disponibilidad de CTF+, asociado a la remuneración por mantener dicha 
+reserva disponible en el periodo requerido, se remunerará al valor adjudicado en la subasta 
+o licitación según corresponda, de acuerdo con lo definido por el Coordinador en el Informe 
+SSCC. 
+El componente de activación de CTF+, asociado al pago por la prestación efectiva del 
+servicio, corresponderá a la inyección de energía por subfrecuencia valorizada al costo 
+marginal de la barra de inyección respectiva. 
+ 
+
+30 
+—–——– 
+ 
+ 
+ii. 
+Remuneración CTF- 
+El componente que se considerará para efecto de la remuneración del servicio de CTF- 
+corresponde a la activación de dicho servicio. 
+El componente de activación de CTF-, correspondiente al pago por la prestación efectiva 
+del servicio, se remunerará al valor adjudicado en la subasta o licitación según corresponda, 
+de acuerdo con lo definido por el Coordinador en el Informe SSCC. 
+c. Consideraciones específicas para Control Terciario de Frecuencia 
+La activación del servicio CTF+ se realizará en orden creciente de costos variables de las 
+instalaciones que resultaron adjudicadas.  
+La activación del servicio CTF- se realizará priorizando aquellas instalaciones adjudicadas 
+que minimicen el costo total de operación del sistema, considerando en dicha priorización 
+los costos variables y los valores ofertados, entre otros. 
+Al diseñar el requerimiento del servicio, el Coordinador podrá exigir, entre otros aspectos, 
+el mínimo de reserva requerido por oferente, requerimientos de rampas de subida y de 
+bajada y el Tiempo Total de Activación. Lo anterior podrá ser requerido en atención a 
+proveer de reserva adicional para el control de sobrefrecuencia y subfrecuencia debido a 
+requerimientos sistémicos como desvíos de demanda o generación, entre otros. 
+ 
+3.2.1.5 CARGAS INTERRUMPIBLES (CI) 
+ 
+a. Definición de Cargas Interrumpibles 
+Se entenderá por Cargas Interrumpibles a la reducción de demanda neta del Usuario Final, 
+medida desde el punto de conexión de éstos al sistema eléctrico, bajo instrucción, en la 
+operación en tiempo real, del Coordinador, con el objetivo de reducir la demanda en 
+periodos de alto consumo y baja generación, de gestionar congestiones, de responder ante 
+emergencias sistémicas, entre otros. 
+El Tiempo Total de Activación será de 30 [min] a partir de la instrucción del Coordinador, y 
+el mínimo Tiempo de Entrega será de 2 [h]. 
+b. Remuneración de Cargas Interrumpibles 
+Los componentes que se considerarán para efecto de la remuneración del servicio de CI 
+corresponden a la disponibilidad y activación de dicho servicio. 
+El componente de disponibilidad, asociado a la remuneración por mantener la reserva 
+disponible en el periodo requerido, y el componente de activación, correspondiente al 
+pago por la prestación efectiva del servicio, se remunerarán al valor adjudicado en la 
+subasta o licitación según corresponda, de acuerdo con lo definido por el Coordinador en 
+
+31 
+—–——– 
+ 
+ 
+el Informe SSCC. 
+c. Consideraciones específicas para Cargas Interrumpibles 
+Las reducciones de demanda eléctrica podrán ofrecerse por los Consumidores Finales, 
+individual o agrupadamente. La agrupación de los Consumidores Finales podrá ser realizada 
+por un tercero, en conformidad al artículo 73 del Reglamento SSCC. 
+Al diseñar el requerimiento del servicio, el Coordinador deberá exigir el número máximo 
+de veces que podrá ser requerido el servicio en el periodo en que se encuentre disponible 
+y el tiempo entre activaciones durante el cual el servicio no podrá ser convocado, dicho 
+tiempo no será contabilizado como indisponibilidad, para efectos de los pagos por 
+disponibilidad, por tratarse de la definición misma del servicio.  
+ 
+ 
+ 
+
+32 
+—–——– 
+ 
+ 
+3.2.2 
+SERVICIOS DE CONTROL DE TENSIÓN 
+ 
+3.2.2.1 SERVICIO DE CONTROL DE TENSIÓN (CT) 
+ 
+a. Definición del Control de Tensión 
+Corresponde a acciones de control que permite mantener la tensión de operación de las 
+barras del sistema eléctrico en una banda predeterminada, dentro de los niveles admisibles 
+establecidos en la normativa. La naturaleza de la prestación de este servicio se considera 
+local.  
+b. Remuneración del Control de Tensión 
+Los componentes que se considerarán para efecto de la remuneración del servicio de CT 
+serán los componentes de inversión, operación y/o mantenimiento, al valor adjudicado en 
+la subasta o licitación según corresponda, de acuerdo con lo definido por el Coordinador en 
+el Informe SSCC. 
+Para efectos de la remuneración de la Nueva Infraestructura que se materialice por medio 
+de licitaciones, la prestación de este servicio se considera sistémica. 
+c. Consideraciones específicas para el Control de Tensión 
+Al diseñar el requerimiento del servicio, el Coordinador podrá exigir, entre otros aspectos, 
+el mínimo de reserva requerido por oferente y el requerimiento de controladores de tensión 
+automáticos. Estas exigencias deben ser consideradas dentro de las componentes que se 
+incluyan para efectos de la remuneración del servicio. 
+El Coordinador podrá requerir a un conjunto de instalaciones la implementación de un 
+controlador conjunto de tensión, con el fin de mantener la tensión en una barra en un valor 
+definido. 
+Para efectos de licitaciones de Nueva Infraestructura que, entre sus costos de operación, 
+incluya retiros de energía desde el SEN para realizar la prestación del recurso técnico al 
+sistema, el Coordinador deberá, en la etapa de evaluación de ofertas de la licitación, 
+considerar y dimensionar justificadamente estos retiros. Para estimar los volúmenes de 
+energía retirada, el Coordinador deberá solicitar a los oferentes cualquier información que 
+considere necesaria. Asimismo, para valorizar estos retiros de energía en el proceso de 
+licitación, 
+el 
+Coordinador 
+deberá 
+emplear 
+los 
+costos 
+marginales 
+esperados 
+correspondientes a la barra de retiro respectiva.  
+Por su parte, la Nueva Infraestructura mencionada en el párrafo anterior, participará en 
+los balances de transferencia de energía en la proporción que corresponda a la prestación 
+del servicio complementario de control de tensión. Los retiros valorizados o montos 
+asociados a esta energía serán reconocidos por la empresa propietaria de la Nueva 
+Infraestructura, los cuales deberán ser remunerados en el respectivo balance de energía. 
+
+33 
+—–——– 
+ 
+ 
+Los retiros de energía asociados a esta Nueva Infraestructura no serán sujetos de cargos 
+asociados a usuarios o consumidores finales. 
+Los retiros de energía valorizados para la prestación del SC de CT, ajustados según el 
+factor de desempeño, deberán ser considerados para efectos de la determinación del cargo 
+único a que se refiere el artículo 115° de la Ley.  
+Los montos generados como resultado de las diferencias entre los retiros valorizados reales 
+ocasionados por la operación de la Nueva Infraestructura encargada de proveer el SC de 
+CT y los retiros valorizados proyectados, deben ser reconocidos en la determinación del 
+cargo por Servicios Complementarios, de acuerdo con la normativa vigente.  
+ 
+ 
+ 
+
+34 
+—–——– 
+ 
+ 
+3.2.3 
+SERVICIO DE CONTROL DE CONTINGENCIAS 
+ 
+3.2.3.1 DESCONEXIÓN DE CARGA 
+ 
+a. Definición de Desconexión de Carga 
+Corresponde al desprendimiento automático o manual de carga con la finalidad de 
+preservar la seguridad y calidad de servicio del sistema eléctrico. 
+Los Esquemas de Desconexión Automático de Carga (EDAC) son esquemas de control que 
+operan automáticamente. Dichos esquemas emiten orden de desenganche sobre 
+interruptores asociados a consumos, en condiciones anormales del sistema eléctrico que 
+ponen en riesgo su estabilidad. La activación de los EDAC se produce frente a: límites o 
+umbrales de subfrecuencia, gradientes de disminución de frecuencia, límites de subtensión 
+o señales de desenganche directo emitidas por sistemas de control que detectan 
+contingencias específicas. Se distinguen los siguientes tipos de EDAC: EDAC por 
+subfrecuencia, EDAC por subtensión y EDAC por contingencia específica. 
+Se entenderá por Desconexión Manual de Carga (DMC) a aquellas acciones o instrucciones 
+del Coordinador, necesarias para que los usuarios finales desconecten carga manualmente 
+frente a situaciones de riesgo de la seguridad del sistema eléctrico. 
+La naturaleza de la prestación de los servicios EDAC por subfrecuencia se considera 
+sistémica y los EDAC por subtensión y EDAC por contingencia específica se consideran de 
+naturaleza local. La naturaleza de los servicios de DMC podrá ser local o sistémica, 
+dependiendo de la causa del requerimiento del servicio, según lo determine el Coordinador. 
+b. Remuneración de Desconexión de Carga 
+El componente que se considerará para efecto de la remuneración de los servicios de 
+EDAC por subfrecuencia y el DMC corresponde a la activación de dichos servicios. 
+El componente de activación, asociado al pago por la prestación efectiva del servicio, se 
+remunerará al valor adjudicado en la subasta o licitación según corresponda, de acuerdo 
+con lo definido por el Coordinador en el Informe SSCC. 
+Los componentes que se considerarán para efecto de la remuneración de los servicios de 
+EDAC por subtensión o EDAC por contingencia específica serán los componentes de 
+inversión, operación y/o mantenimiento, al valor adjudicado en la subasta o licitación, 
+según corresponda, de acuerdo con lo definido por el Coordinador en el Informe SSCC.  
+c. Consideraciones específicas para Desconexión de Carga 
+La activación de los DMC deberá ser instruida por el Coordinador como un último recurso 
+para preservar la seguridad y calidad del sistema eléctrico. 
+En el caso de los EDAC, los montos de carga asociado a escalones, umbrales o gradientes 
+
+35 
+—–——– 
+ 
+ 
+deberán adjudicarse de manera que las ofertas más económicas que verifiquen los 
+requisitos técnicos del servicio se otorguen a los escalones que supongan mayor número 
+de operaciones. 
+Las reducciones de demanda eléctrica podrán ofrecerse por los Consumidores Finales, 
+individual o agrupadamente. La agrupación de los Consumidores Finales podrá ser realizada 
+por un tercero, en conformidad al artículo 73 del Reglamento SSCC. 
+ 
+3.2.3.2 DESCONEXIÓN O REDUCCIÓN DE GENERACIÓN 
+ 
+a. Definición de Desconexión o Reducción de Generación 
+Corresponde al desprendimiento o reducción automática de generación o inyección con la 
+finalidad de preservar la seguridad y calidad de servicio frente a condiciones anormales del 
+sistema eléctrico que ponen en riesgo su estabilidad. 
+Los Esquemas de Desconexión o Reducción Automática de Generación (EDAG o ERAG) son 
+esquemas de control que operan automáticamente. Dichos esquemas emiten orden de 
+desenganche sobre interruptores u órdenes a controladores para reducir la generación de 
+unidades o inyección de sistemas de almacenamiento. La activación de los EDAG se 
+produce frente a: límites o umbrales de sobrefrecuencia, y señales de desenganche directo 
+emitidas por sistemas de control que detectan contingencias específicas. Se distinguen 
+EDAG o ERAG por sobrefrecuencia y por contingencia específica. 
+La naturaleza de la prestación del servicio EDAG o ERAG por sobrefrecuencia se considera 
+sistémica, en el caso del servicio EDAG o ERAG por Contingencia Específica su naturaleza 
+se considera local. 
+b. Remuneración de Desconexión o Reducción de Generación 
+El componente que se considerará para efecto de la remuneración del servicio de EDAG o 
+ERAG por sobrefrecuencia corresponde a la activación de dicho servicio. 
+El componente de activación, asociado al pago por la prestación efectiva del servicio, se 
+remunerará al valor adjudicado en la subasta o licitación según corresponda, de acuerdo 
+con lo definido por el Coordinador en el Informe SSCC.  
+Los componentes que se considerarán para efecto de la remuneración del servicio de 
+EDAG por contingencia específica serán los de inversión, operación y/o mantenimiento, al 
+valor adjudicado en la subasta o licitación según corresponda, de acuerdo con lo definido 
+por el Coordinador en el Informe SSCC. 
+c. Consideraciones específicas para Desconexión de Generación 
+Los EDAG o ERAG que se utilicen con el objetivo de aumentar el flujo a través de 
+instalaciones de transmisión no serán considerados como servicios complementarios. 
+
+36 
+—–——– 
+ 
+ 
+ 
+3.2.3.3 SERVICIO DE PLAN DE DEFENSA CONTRA CONTINGENCIAS 
+ 
+a. Definición de Plan de Defensa Contra Contingencias 
+Corresponde al conjunto de acciones automáticas de control correctivo, debidamente 
+coordinadas, que están destinadas a evitar un apagón total o parcial del sistema eléctrico 
+ante la ocurrencia de una contingencia extrema o crítica según corresponda. 
+Esta categoría de servicio considera las subcategorías de Plan de Defensa Contra 
+Contingencias Extremas (PDCE) y de Plan de Defensa Contra Contingencias Críticas 
+(PDCC). La primera tiene por objetivo evitar un apagón total y la segunda un apagón 
+parcial. 
+La naturaleza de la prestación del servicio de PDCE se considera sistémica, mientras que 
+en el caso del PDCC su naturaleza se considera local. 
+b. Remuneración de Plan de Defensa Contra Contingencias 
+Los componentes que se considerarán para efecto de la remuneración de los servicios de 
+PDCE y PDCC serán los componentes de inversión, operación y/o mantenimiento, al valor 
+adjudicado en la subasta o licitación según corresponda, de acuerdo con lo definido por el 
+Coordinador en el Informe SSCC.  
+ 
+ 
+ 
+
+37 
+—–——– 
+ 
+ 
+3.2.4 
+SERVICIOS DE PLAN DE RECUPERACIÓN DE SERVICIO 
+ 
+Corresponden a los servicios que, una vez ocurrido un apagón parcial o total del sistema 
+eléctrico, permiten restablecer el suministro eléctrico en el menor tiempo posible. 
+ 
+3.2.4.1 SERVICIO DE PARTIDA AUTÓNOMA (PA) 
+ 
+a. Definición de Partida Autónoma 
+Corresponde a la capacidad de una unidad generadora o sistema de almacenamiento que, 
+encontrándose fuera de servicio, puede iniciar el proceso de partida de sus instalaciones, 
+energizar líneas, tomar carga y sincronizarse con el sistema, sin contar con suministro de 
+electricidad externo. 
+b. Remuneración de Partida Autónoma 
+Los componentes que se considerarán para efecto de la remuneración del servicio de 
+Partida Autónoma serán los componentes de inversión, operación y/o mantenimiento, al 
+valor adjudicado en la subasta o licitación según corresponda, de acuerdo con lo definido 
+por el Coordinador en el Informe SSCC. La prestación de este servicio deberá ser 
+remunerada en todo momento en forma sistémica. 
+c. Consideraciones específicas para Partida Autónoma 
+Al diseñar el requerimiento del servicio, el Coordinador podrá exigir, entre otros aspectos, 
+el tiempo máximo en el cual la unidad o sistema de almacenamiento deberá 
+partir/sincronizar; tiempo máximo en que la unidad o sistema de almacenamiento deberá 
+alcanzar su plena carga o máxima inyección, tiempo mínimo en el cual deberá mantenerse 
+operando a plena carga o a inyección máxima, y las exigencias para la operación en modo 
+control de carga. 
+ 
+3.2.4.2 SERVICIO DE AISLAMIENTO RÁPIDO (AR) 
+ 
+a. Definición de Aislamiento Rápido 
+Corresponde a la capacidad de una unidad generadora o sistema de almacenamiento para 
+continuar operando en forma aislada, alimentando sólo sus servicios auxiliares, tras su 
+desconexión intempestiva del sistema a consecuencia de un apagón total o parcial. 
+b. Remuneración de Aislamiento Rápido 
+Los componentes que se considerarán para efecto de la remuneración del servicio de 
+Aislamiento Rápido serán los componentes de inversión, operación y/o mantenimiento, al 
+
+38 
+—–——– 
+ 
+ 
+valor adjudicado en la subasta o licitación según corresponda, de acuerdo con lo definido 
+por el Coordinador en el Informe SSCC. La prestación de este servicio deberá ser 
+remunerada en todo momento en forma sistémica. 
+c. Consideraciones específicas para Aislamiento Rápido 
+Al diseñar el requerimiento del servicio, el Coordinador podrá exigir, entre otros aspectos, 
+el tiempo mínimo en el cual la instalación deberá operar en forma estable alimentado solo 
+sus servicios auxiliares, como también aquellos referidos a la coordinación de protecciones 
+y automatismos para la operación en isla. 
+ 
+3.2.4.3 SERVICIO DE EQUIPOS DE VINCULACIÓN (EV) 
+ 
+a. Definición de Equipos de Vinculación 
+Corresponde a la prestación que dan los equipos que permiten sincronizar dos zonas del 
+sistema eléctrico que se hayan mantenido operando en forma de islas independientes. 
+b. Remuneración de Equipos de Vinculación 
+Los componentes que se considerarán para efecto de la remuneración del servicio de 
+Equipos de Vinculación serán los componentes de inversión, operación y/o mantenimiento, 
+al valor adjudicado en la subasta o licitación según corresponda, de acuerdo con lo definido 
+por el Coordinador en el Informe SSCC. La prestación de este servicio deberá ser 
+remunerada en todo momento en forma sistémica. 
+c. Consideraciones específicas para Equipos de Vinculación 
+Al diseñar el requerimiento del servicio, el Coordinador podrá exigir, entre otros aspectos, 
+el tiempo mínimo en el cual se deberá concretar el cierre del vínculo o sincronización de los 
+sistemas, una vez que se presenten las condiciones sistémicas que permitan realizar la 
+acción.  
+ 
+ 
+
+39 
+—–——– 
+ 
+ 
+4 
+ANEXOS 
+ 
+Representación referencial de los tiempos asociados a los servicios de Control de 
+Frecuencia: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+40 
+—–——– 
+ 
+ 
+Tabla 2: Características Técnicas servicios de Control de Frecuencia 
+Característica 
+Técnica 
+Modo de Activación 
+Tiempo de 
+Inicio de 
+Activación 
+Tiempo 
+Total de 
+Activación 
+Mínimo 
+Tiempo de 
+Entrega 
+Máximo 
+Tiempo de 
+Entrega 
+CRF 
+Automático Local 
+- 
+1[s] 
+5[min] 
+ 
+CPF 
+Automático Local 
+- 
+10[s] 
+5[min] 
+ 
+CSF 
+Automático 
+Centralizado 
+- 
+5[min] 
+15[min] 
+ 
+CTF 
+Por instrucción, en 
+la operación en 
+tiempo real, del 
+Coordinador 
+5[min] 
+- 
+- 
+1[h] 
+CI 
+Por instrucción, en 
+la operación en 
+tiempo real, del 
+Coordinador 
+- 
+30 [min] 
+2[h] 
+- 
+
+ 
+ 
+ 
+ARTÍCULO SEGUNDO: Reemplácese el “Informe de Definición de Servicios 
+Complementarios a que se refiere el inciso segundo del artículo 72°-7 de la Ley General 
+de Servicios Eléctricos”, aprobado mediante Resolución Exenta CNE N° 189, de 23 de 
+abril de 2024, por el “Informe de Definición de Servicios Complementarios a que se 
+refiere el inciso segundo del artículo 72°-7 de la Ley General de Servicios Eléctricos”, 
+aprobado por el artículo precedente.  
+ 
+ARTÍCULO TERCERO: Publíquese la presente resolución en forma íntegra en la página 
+web institucional de la Comisión Nacional de Energía, y comuníquese al Director 
+Ejecutivo del Coordinador Independiente del Sistema Eléctrico Nacional, a través de su 
+envío por correo electrónico. 
+ 
+ 
+ARTÍCULO PRIMERO TRANSITORIO: Las disposiciones establecidas en la presente 
+resolución entrarán en vigencia a contar del primer día del segundo mes siguiente a su 
+publicación. 
+ 
+Durante el período comprendido entre la fecha de publicación de esta resolución y su 
+entrada en vigencia, conforme a lo señalado en el párrafo anterior, se deberán aplicar 
+las exigencias establecidas en la Resolución Exenta CNE N°189, de fecha 23 de abril de 
+2024. 
+ 
+ 
+ 
+Anótese, archívese y publíquese. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECRETARIO EJECUTIVO 
+COMISIÓN NACIONAL DE ENERGÍA 
+ 
+ 
+ 
+ 
+ 
+MFH/DZO/MOC/FCP/ERQ/MCB/PMG/DHC/RQM/mhs 
+ 
+DISTRIBUCIÓN: 
+1. 
+Coordinador Eléctrico Nacional. 
+2. 
+Departamento Eléctrico CNE 
+3. 
+Departamento Jurídico CNE 
+4. 
+Of. de Partes CNE 
+Marco Antonio 
+Mancilla 
+Ayancán
+Firmado digitalmente por Marco 
+Antonio Mancilla Ayancán 
+Nombre de reconocimiento (DN): 
+c=CL, o=E-Sign S.A., ou=Terms of use 
+at www.esign-la.com/acuerdoterceros, 
+cn=Marco Antonio Mancilla Ayancán, 
+email=mmancilla@cne.cl 
+Fecha: 2025.09.04 17:54:45 -04'00'

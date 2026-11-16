@@ -1,0 +1,135 @@
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+                                                                                       Santiago, 16 de octubre de 2025 
+OP 281-25 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA CARTA DE06011-25 SOBRE OBSERVACIONES A INFORMES 
+TÉCNICOS DE VERIFICACIÓN DE SSCC 
+REF [1]:  
+CARTA DE06011-25: OBSERVACIONES A INFORMES TÉCNICOS DE 
+VERIFICACIÓN DE SS.CC. DE CENTRALES HE RALCO, PFV FINIS TERRAE, PE 
+SIERRA GORDA ESTE, HP CURILLINQUE Y HE ANTUCO. 
+ 
+De nuestra consideración,  
+En relación con la materia de la Ref., y en el contexto de la Verificación de Servicios 
+Complementarios (SSCC), me refiero a la comunicación de la REF [1] en las que el 
+Coordinador envía observaciones a los Informes Técnicos de Verificación de SSCC de 
+instalaciones de mi representada asociados a los servicios de Control Primario de 
+Frecuencia (CPF), Control Terciario de Frecuencia (CTF) y Control de Tensión (CT), 
+mediante el documento “COR-GO-DCO-SSCC-Centrales_Enel_Generacion-V1”. 
+ 
+Al respecto, informo que para completar la información solicitada en los documentos de 
+observaciones será requerida la ejecución de ensayos, en consecuencia, de acuerdo con 
+lo indicado en las cartas de la REF [1] se adjunta a la presente comunicación un 
+cronograma con las fechas de la ejecución de los ensayos que permitirán recabar la 
+información requerida junto con las fechas para el envío de los Informes Técnicos 
+definitivos. 
+Finalmente, las fechas específicas de los ensayos se informará considerando lo siguiente: 
+ 
+• 
+El envío con al menos 5 días de antelación a la ejecución de las pruebas, las curvas 
+de carga, las que serán cargadas en la correspondiente solicitud de trabajo en el 
+sistema Neomante con estado operativo “PDO”. Adicionalmente, esta información, 
+se enviará al correo electrónico verificación.sscc@coordinador.cl, indicando el N° 
+de aviso de trabajo asociado al sistema Neomante. 
+
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+• 
+En conformidad con el capítulo 5 del “Instructivo Técnico para la Verificación de 
+Instalaciones para la prestación de SSCC”, se enviará el Informe Técnico con los 
+resultados, una vez realizado los ensayos, en un plazo máximo de 15 días. 
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+____________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+cc: verificacion_sscc@coordinador.cl 
+ 
+ 
+
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Anexo I 
+Cronograma para la Ejecución de Ensayos para la Verificación de SSCC 
+ 
+Coordinado 
+Central / 
+Parque 
+Unidad 
+CPF 
+CTF CT 
+Fecha 
+Ensayos 
+ENEL GENERACIÓN CHILE S.A 
+HE RALCO 
+U1 - U2 
+SI 
+SI 
+SI 
+Diciembre 
+2025 
+ENEL GENERACIÓN CHILE S.A 
+HE ANTUCO 
+U1 - U2 
+SI 
+  
+SI 
+Enero 
+2026 
+EMPRESA ELÉCTRICA 
+PEHUENCHE S.A 
+HP CURILLINQUE 
+U1 
+SI 
+  
+SI 
+Noviembre 
+2025 
+ENEL GREEN POWER CHILE S.A PFV FINIS 
+TERRAE 
+- 
+  
+SI 
+SI 
+Febrero  
+2026 
+ENEL GREEN POWER CHILE S.A PE SIERRA 
+GORDA ESTE 
+- 
+  
+SI 
+SI 
+Abril 2026 
+ 

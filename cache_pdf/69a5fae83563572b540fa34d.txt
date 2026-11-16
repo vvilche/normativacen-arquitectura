@@ -1,0 +1,99 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 2 de marzo de 2026 
+DE 01409-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de Parámetros de Potencia 
+Máxima Central PFV Doña Antonia. 
+ 
+ 
+De mi consideración: 
+ 
+En Cumplimiento con lo establecido en el Artículo 24 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. La aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Potencia Máxima de la Central PFV Doña Antonia, en conformidad con el Informe 
+Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo de los establecido por el Artículo 23 del 
+Anexo Técnico en Aplicación, no se recibieron observaciones de Coordinado alguno al 
+Informe Técnico indicado, publicado en la página web del Coordinador mediante la 
+comunicación de la Ref. [2]. Por su parte, el Coordinador no realizó observaciones de 
+carácter técnico al informe mencionado. 
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PFV 
+Doña Antonia se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV Doña Antonia  
+Central/Unidad 
+Potencia 
+Máxima Bruta 
+[MW] 
+SS. AA 
+[MW] 
+Pérdidas en 
+la central (1) 
+[MW] 
+Potencia Máxima 
+Neta (2) 
+[MW] 
+PFV Doña Antonia 
+80,2949 
+0,2023 
+0,7347 
+79,3579 
+(1) Este valor corresponde a las pérdidas en el transformador de poder de la central (0,3021 MW), más 
+las perdidas en el sistema colector y transformador de bloque de la central estimadas en (0,4326 MW). 
+(2) Potencia inyectada en la barra de 110 kV de la S/E Doña Antonia. 
+ 
+Al respecto, comunico a Ud., que los parámetros de Potencia Máxima de la Central PFV 
+Doña Antonia, entrarán en vigencia a partir de las 00:00 horas del día 5 de marzo de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación> Parámetros Operacionales de 
+Unidades Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > Central 
+PFV Doña Antonia > 2026 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/SGM/AHM/adr 
+ 
+ 
+Referencias 
+ 
+[1] Carta S/N del Coordinado Doña Antonia Solar SpA, Ref.: “NUP 2684 PFV Doña Antonia 
+| Informa Entrega de Informe de Potencia Máxima”, de fecha 15 de julio de 2024. Ingreso 
+DE04238-24 
+ 
+[2] Carta DE03784-24, Ref.: “[NUP 2684] Informes Técnicos de Parámetros Operacionales 
+de la Central PFV Doña Antonia, del coordinado Doña Antonia Solar SpA”, de fecha 30 de 
+julio de 2024. 
+ 
+ 

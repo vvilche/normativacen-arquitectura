@@ -1,0 +1,70 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 10 DE MARZO.2025 
+COM-08/2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para marzo del 2025. 
+ 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para marzo 2025. 
+ 
+1) 
+El 26-03-2025 la central PEÑON DIESEL fue activada por CTF (+) entre las 08:07 y las 08:28 con una 
+consigna de 41 MW. Sin embargo, por errores en las instrucciones no fue posible cumplir con la 
+prestación del servicio.  
+Como contexto, la central fue solicitada a las 06:25 a plena carga por orden de metiro, hasta las 
+06:51, momento en que el CDC solicitó ajustar la generación para tener disponible la reserva del 
+horario 07:00 (evidencia de grabación 20250326065118), ajustándose a una generación de 61 MW 
+(PC - 20 MW adjudicados). A las 07:54 el CC de Enlasa se comunicó con el CDC para consultar si 
+era necesario ajustar la generación (bajando carga a 40 MW) para prestar la reserva de 41MW del 
+bloque de las 08:00, pero el CDC no dió instrucción (Evidencia grabación 20250326075418). A las 
+08:03 el centro de control de Enlasa volvió a llamar al CDC para confirmar que no es necesario 
+ajustar a plena carga menos la reserva de 41 MW y nuevamente el CDC no dió instrucción de 
+ajustar, recalcando que la central se mantuviera en los 61 MW. Minutos mas tarde, a las 08:06, el 
+CDC llamó al CC de Enlasa preguntando si alguna central estaba en servicio y qué reserva tenían 
+adjudicada (evidencia grabación 20250326060627). La operadora del CC de Enlasa respondío que 
+la central en particular tenía una reserva adjudicada de 41 MW. Sin embargo, la central no tenia 
+disponibilidad para activar CTF (+) con los 41 MW, ya que se mantenia prestando la reserva del 
+bloque anterior de 20 MW. El operador del CDC solicitó la activación del CTF (+) (evidencia 
+grabación 20250326080722) sin mencionar consigna. El CC de Enlasa ajusta la generación a 41 
+MW, mientras que en el RIO se anotan los 41 MW de la reserva como consigna.  
+ 
+
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+Es importante destacar que, el CC estaba atento a las condiciones del sistema y de seguir la 
+programación, es por esto que de manera anticipada realizó dos llamados para modificar la 
+potencia de despacho de la central y poder disponibilizar la reserva adjudicada en el respectivo 
+bloque. Al no tener disponible la reserva no es posible prestar el servicio instruido. Dado lo anterior, 
+se solicita que se elimine la activación para la central el PEÑON_DIESEL para que quede sin efecto 
+el desempeño.  
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+Gustavo Venegas H. 
+Encargado Titular 
+Enlasa Generación Chile S.A. 

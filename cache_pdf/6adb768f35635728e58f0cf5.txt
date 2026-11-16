@@ -1,0 +1,67 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 23 de octubre de 2026 
+ 
+    
+DE 06983-26 
+Señor 
+Miguel Buzunariz 
+Encargado Titular  
+Enel Generación Chile S.A. 
+Presente 
+Ref.: Solicita antecedentes técnicos respecto 
+del proceso de Verificación de Control 
+Secundario de Frecuencia (CSF-AGC) de HE 
+Antuco. 
+[1] Carta OP 130-26 de Enel Generación Chile 
+S.A., Ref.: “Proceso de Verificación del Servicio 
+Complementario (SC) de Control Secundario 
+de Frecuencia (CSF-AGC) e Incorporación a la 
+Herramienta de Despacho Económico (ED)”, 
+de fecha 05 de octubre de 2026. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y de acuerdo con los antecedentes que dispone 
+este Coordinador, su representada informó mediante carta de la Ref. [1] que la integración 
+al Control Automático de Generación (AGC) de las unidades U1 y U2 de HE Antuco se 
+encuentra prevista para el año 2027, debido a que actualmente las unidades no son 
+capaces de hacer tracking de la potencia activa del AGC requiriendo el reemplazo de los 
+reguladores de velocidad y voltaje. 
+ 
+De acuerdo con lo anterior, solicito a Ud. gestionar con su representada la elaboración y 
+envío de un informe técnico que justifique la imposibilidad de efectuar la integración de las 
+unidades U1 y U2 de HE Antuco al AGC durante el año 2026, en función de lo indicado en 
+el párrafo previo. Dicho informe deberá detallar las limitaciones técnicas identificadas, los 
+antecedentes que respaldan la necesidad de realizar las modificaciones programadas para 
+el año 2027 y las posibles alternativas que permitan adelantar dicho proceso. 
+ 
+La información requerida, solicito a Ud. sea remitida mediante carta, a través del Sistema 
+de 
+Correspondencia 
+del 
+Coordinador, 
+y 
+con 
+copia 
+al 
+correo 
+verificacion.sscc@coordinador.cl, a más tardar el 06 de noviembre de 2026. 
+ 
+Sin otro particular, le saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Cristian Reyes V. 
+ 
+Jefe Departamento Control de la Operación 
+ 
+Coordinador Eléctrico Nacional 
+PGR/cfp 
+c.c.: Sr. Adrián Guzmán – Encargado Suplente Enel Generación Chile S.A. 
+DSCADA/DMAP 

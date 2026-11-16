@@ -1,0 +1,53 @@
+ 
+ 
+Santiago, 16 de junio de 2026 
+ 
+Rodrigo Espinoza V 
+Coordinador Eléctrico Nacional 
+Gerencia de Operación 
+Presente 
+Ref.: Respuesta a solicitud de estado del proceso de verificación de Servicios 
+Complementarios – PE La Flor / DE02788-26 
+Estimados señores: 
+En respuesta a las comunicaciones relativas al proceso de Verificación de 
+Instalaciones de Generación para la Prestación de Servicios Complementarios 
+del Parque Eólico La Flor —en particular la carta DE02788-26 y los correos de 
+seguimiento del Ingeniero Control de Operación de la Gerencia de Operación 
+del Coordinador Eléctrico Nacional—, Vientos de Renaico SpA informa el estado 
+del proceso e indica lo que se expone a continuación. 
+1.   Entrega del Informe de Servicios Complementarios 
+Vientos de Renaico SpA ha completado la revisión de los antecedentes 
+requeridos para la verificación de prestación de Servicios Complementarios del 
+PE La Flor y hace entrega del informe correspondiente al Coordinador Eléctrico 
+Nacional. Dicho informe da cuenta de los servicios complementarios que 
+efectivamente presta la instalación, conforme a sus capacidades técnicas y a 
+los requerimientos normativos vigentes. 
+2.   Declaración respecto al Control Terciario de Frecuencia 
+Vientos de Renaico SpA informa que el Parque Eólico La Flor no presta el 
+Servicio Complementario de Control Terciario de Frecuencia. Lo anterior se 
+fundamenta en estudios técnicos realizados por el fabricante de los 
+aerogeneradores, Vestas Wind Systems A/S, los cuales concluyen que las 
+unidades generadoras modelo V136–3,6 MW instaladas en el PE La Flor no 
+cuentan con la capacidad técnica para implementar el Control Primario de 
+Frecuencia. 
+El Control Primario de Frecuencia constituye un requisito técnico previo e 
+indispensable para la habilitación del Control Terciario de Frecuencia. Los 
+estudios del fabricante establecen que la arquitectura de control de los 
+aerogeneradores Vestas V136 no permite realizar el ajuste de potencia activa 
+
+ 
+ 
+requerido para cumplir con las exigencias del control primario de frecuencia, 
+según los parámetros establecidos en la normativa del Coordinador Eléctrico 
+Nacional. 
+En consecuencia, en el Informe de Servicios Complementarios adjunto, el ítem 
+correspondiente al Control Terciario de Frecuencia se declara como no aplicable 
+(N/A) para la instalación del PE La Flor, lo cual queda debidamente justificado 
+con los antecedentes técnicos del fabricante. 
+Sin otro particular, quedamos atentos a cualquier consulta adicional. 
+Atentamente, 
+Ítalo Perfetti Nazal 
+Área Coordinador Eléctrico 
+Vientos de Renaico SpA 
+italo@vdr.cl 
+ 

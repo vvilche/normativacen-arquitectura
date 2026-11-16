@@ -1,0 +1,204 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 27 de mayo de 2026 
+DE 03563-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Parámetro de Potencia 
+Máxima de la Central Renovable con Capacidad de 
+Almacenamiento PFV-BESS Bolero. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 y 39 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+parámetro de Potencia Máxima de la Central Renovable con Capacidad de 
+Almacenamiento PFV-BESS Bolero, en conformidad con el Informe Técnico recibido 
+mediante la comunicación de la Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 23 del Anexo Técnico en 
+aplicación no se recibieron observaciones de Coordinado alguno al informe técnico ya 
+mencionado, publicado en la página web del Coordinador mediante la comunicación de la 
+Ref. [2]. Por su parte, el Coordinador Eléctrico no tiene observaciones de carácter técnico 
+al informe mencionado. 
+ 
+Conforme a lo anterior, los valores de los parámetros técnicos de Potencia Máxima de la 
+Central PFV-BESS Bolero, se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV-BESS Bolero 
+Central 
+Configuraci
+ón 
+Tiempo de 
+carga / 
+descarga 
+[hrs] 
+Potencia 
+Máxima  
+Bruta [MW] 
+SS/AA 
+[MW] 
+Pérdidas 
+en la 
+central (1) 
+[MW] 
+Potencia 
+Máxima 
+Neta (2)  
+[MW] 
+ 
+PFV-BESS 
+Bolero 
+(CRCA) 
+PFV 
+ 
+- 
+124,4153 
+0,8500 
+ 
+1,5267 
+ 
+122,0386 
+ 
+BESS 
+Descarga 
+3,0167 
+148,8560 
+0,5472 
+ 
+2,9347 
+ 
+145,3741 
+ 
+Carga BESS 
+desde la red 
+ 
+3,8006 
+-143,5890 
+0,6067 
+ 
+2,9259 
+ 
+-147,1216 
+ 
+PFV+BESS
+Generación 
+conjunta 
+ 
+- 
+148,7868 
+1,3372 
+ 
+1,8155 
+ 
+145,6341 
+ 
+BESS carga 
+desde PFV 
+4,7196 
+-115,6302 
+1,3714 
+3,0202 
+N/A(3) 
+ 
+ 
+(1) El detalle de las pérdidas se indica en el Anexo. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+(2) Potencia inyectada en la barra 220 kV S/E Bolero. 
+(3) No aplica debido a que al cargar el BESS desde el PFV no existe un valor de potencia neta referido al lado 
+de alta tensión de la central. 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en la Tabla 1 entrarán en 
+vigencia a partir de las 00:00 horas del 29 de mayo de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > PFV-
+BESS Bolero > 2026 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+    Patricio Valenzuela V. 
+                                                                      Subgerente Análisis y Soporte Operacional 
+                                                                                  Coordinador Eléctrico Nacional 
+PVV/CRV/PPF/PCG/ycl 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Referencias 
+ 
+ 
+ 
+[1] Carta BOL 0014-2026 de Bolero SpA, Ref.: “NUP 5001 – Parque BESS Bolero – Informe 
+de Potencia Máxima”, de fecha 10 de abril de 2026. Ingreso DE03602-26. 
+ 
+[2] Carta DE02863-26, Ref.: [NUP 5001] Informes Técnicos de Potencia Máxima de la 
+Central Renovable con Capacidad de Almacenamiento PFV-BESS Bolero”, de fecha 28 de 
+abril de 2026. 
+ 
+ 
+Anexo 
+ 
+Tabla 2: Desglose de las pérdidas asociadas a las pruebas de Potencia Máxima de la Central 
+PFV-BESS Bolero 
+Central 
+Configuración 
+Pérdidas 
+totales [MW] 
+Pérdidas en el 
+transformador de 
+poder [MW] 
+Pérdidas en sistema 
+colector [MW] 
+BESS-PFV 
+Bolero 
+PFV 
+ 
+1,5267 
+0,3729 
+1,1538 
+BESS modo 
+descarga 
+ 
+2,9347 
+0,5044 
+2,4303 
+Carga BESS 
+desde la red 
+ 
+2,9259 
+0,5090 
+2,4169 
+PFV+BESS 
+modo descarga 
+ 
+1,8155 
+0,4850 
+1,3305 
+Carga BESS 
+desde PFV 
+ 
+3,0202 
+0,0684 
+2,9518 
+ 

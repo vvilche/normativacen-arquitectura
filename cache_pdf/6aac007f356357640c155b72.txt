@@ -1,0 +1,347 @@
+ 
+Santiago, 17 de septiembre de 2026 
+N° _1588231_ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+COORDINADOR ELÉCTRICO NACIONAL 
+Presente 
+At.: Sr. Jorge Vargas C. - Jefe Depto. 
+Modelación y Aplicaciones EMS 
+Ref.: Plan de trabajo para dar 
+cumplimiento al esquema EDAC BF. 
+Ant.: [1] Carta DE02139-25. Solicitud 
+de traslado EDAC. 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, y en atención a los requerimientos asociados al esquema EDAC BF, Ant. [1], se 
+informa lo siguiente: 
+Con el objeto de dar cumplimiento a las exigencias aplicables al referido esquema, las empresas 
+distribuidoras, del Grupo SAESA presentes en el SEN, han definido un plan de trabajo que contempla 
+las acciones necesarias para implementar las adecuaciones técnicas, operacionales y 
+organizacionales requeridas. 
+Para la completitud de dicho plan, se ha tomado contacto y solicitado a Sistema de Transmisión del 
+Sur S.A. (“STS”), en calidad de propietario de las instalaciones de transmisión involucradas, de manera 
+de incorporar los requerimientos técnicos y operacionales necesarios para asegurar su adecuada 
+ejecución. 
+Como parte de este proceso, se adjunta como Anexo A el listado de alimentadores considerados 
+para la implementación del esquema EDAC BF, el cual reemplazará cualquier listado previamente 
+informado o actualmente vigente para estos efectos. 
+Asimismo, se adjunta como Anexo B el plan de trabajo, incluyendo la información proporcionada por 
+STS, el cual establece las principales actividades, hitos y etapas contempladas para su desarrollo. 
+Dicho plan considera actividades de análisis, coordinación, implementación, pruebas y verificación, 
+orientadas a garantizar la correcta habilitación y operación de las instalaciones involucradas, así como 
+la ejecución de las validaciones necesarias para acreditar el cumplimiento de las exigencias asociadas 
+al esquema. 
+Mis representadas mantendrán informado al Coordinador respecto del avance de las actividades 
+comprometidas y pondrán oportunamente a su disposición los antecedentes necesarios para 
+acreditar la implementación de las medidas contempladas y los resultados obtenidos. 
+
+ 
+Sin otro particular, quedamos atentos a sus comentarios, observaciones o requerimientos de 
+información complementaria que estime pertinentes. 
+Sin otro particular, saluda atentamente, 
+SOCIEDAD AUSTRAL DE ELECTRICIDAD S. A. 
+EMPRESA ELÉCTRICA DE LA FRONTERA S. A. 
+COMPAÑÍA ELÉCTRICA OSORNO S. A.  
+ 
+ 
+Alex Salas Salgado 
+Subgerente Operaciones de Distribución 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ANEXO A 
+Listado de alimentadores considerados en la nueva implementación. 
+Escalón 
+Zona 
+Subestación 
+Alimentador 
+Etapa 
+1 
+Araucanía 
+BARRO BLANCO 
+52E2 CAÑAL BAJO A451 
+1 
+ 
+1 
+Charrúa 
+CABRERO 
+52E3 CABRERO CIUDAD A126 
+1 
+ 
+1 
+Araucanía 
+EMPALME 
+52E4 PUENTE GOMEZ A573 
+2 
+ 
+1 
+Araucanía 
+DALCAHUE 
+52E3 ISLA QUINCHAO A572 
+2 
+ 
+2 
+Araucanía 
+ALTO BONITO 
+52E2 CHINQUIHUE A564 
+1 
+ 
+2 
+Araucanía 
+BARRO BLANCO 
+52E1 CON CON A452 
+1 
+ 
+2 
+Araucanía 
+NAHUELBUTA 
+52C1 ROBLERIA A243 
+1 
+ 
+2 
+Araucanía 
+EL LAUREL 
+52E7 NIEBLA A339 
+2 
+ 
+3 
+Araucanía 
+BARRO BLANCO 
+52E3 JULIO BUSCHMANN A489 
+2 
+ 
+3 
+Concepción 
+CAÑETE 
+52E1 TIRUA A131 
+1 
+ 
+3 
+Araucanía 
+LA MISION 
+52E1 SCHILLING A485 
+1 
+ 
+3 
+Araucanía 
+PUERTO MONTT 
+52E6 CRUCERO A559 
+1 
+ 
+3 
+Araucanía 
+PICHIL 
+52E1 PICHIDAMAS A463 
+2 
+ 
+3 
+Araucanía 
+MARIQUINA 
+52E2 LOS COIHUES A330 
+1 
+ 
+4 
+Araucanía 
+ALTO BONITO 
+52E3 LOS AVELLANOS A571 
+1 
+ 
+4 
+Concepción 
+CAÑETE 
+52E2 CAÑETE A130 
+1 
+ 
+4 
+Charrúa 
+LARQUI 
+52E2 QUILLON A135 
+2 
+ 
+4 
+Araucanía 
+PUERTO MONTT 
+52E4 PELLUCO A519 
+1 
+ 
+4 
+Araucanía 
+PUERTO MONTT 
+52E5 PUERTO WILLIAMS A553 
+1 
+ 
+4 
+Araucanía 
+EL LAUREL 
+52E5 ANGACHILLA A337 
+2 
+ 
+5 
+Araucanía 
+EMPALME 
+52E1 EL EMPALME - CALBUCO A509 
+1 
+ 
+5 
+Araucanía 
+LA MISION 
+52E2 MAICOLPUE A486 
+1 
+ 
+5 
+Araucanía 
+LLAIMA 
+52E2 MIRAFLORES A256 
+2 
+ 
+5 
+Araucanía 
+PUERTO MONTT 
+52E1 TORTEL A541 
+2 
+ 
+5 
+Araucanía 
+PUERTO MONTT 
+52E7 JOSE MIGUEL CARRERA A579 
+2 
+ 
+5 
+Araucanía 
+EL LAUREL 
+52E6 LLANCAHUE A338 
+1 
+ 
+5 
+Araucanía 
+PICHIL 
+52E3 CHAN CHAN A490 
+2 
+ 
+6 
+Araucanía 
+ALTO BONITO 
+52E1 PANITAO A563 
+1 
+ 
+6 
+Araucanía 
+DALCAHUE 
+52E2 DALCAHUE A565 
+1 
+ 
+6 
+Araucanía 
+LLAIMA 
+52E3 CAJON A257 
+1 
+ 
+6 
+Araucanía 
+OSORNO 
+52E10 LOS CARRERA A404 
+1 
+ 
+6 
+Araucanía 
+PUERTO MONTT 
+52E2 SANTA MARIA A508 
+2 
+ 
+6 
+Araucanía 
+PICHIL 
+52E2 PUERTO OCTAY A462 
+2 
+ 
+ 
+
+ 
+ 
+ANEXO B 
+Plan resumido de implementación EDAC BF 
+Etapa 
+N° 
+Actividad 
+Responsable 
+Estado 
+Fecha 
+1 
+1 
+Identificar la carga que debe desprender por cada zona las 
+distribuidoras. Estas son: Charrúa - Concepción - Araucanía 
+SAESA 
+Realizado 
+sept-26 
+2 
+Seleccionar alimentadores con configuración EDAC ya 
+configurada en su programación. 
+SAESA 
+Realizado 
+sept-26 
+3 
+Integrar alimentadores y sus parámetros requeridos a SCADA 
+STS. 
+STS 
+Pendiente 
+oct-26 
+4 
+Agendar y ejecutar pruebas SITR con el Coordinador  
+STS 
+Pendiente 
+nov-26 
+5 
+Activar en terreno los EDAC BF. 
+STS 
+Pendiente 
+dic-26 
+2 
+6 
+Elegir nuevos alimentadores para esquema con alternativa de 
+configuración EDAC. 
+SAESA 
+Realizado 
+sept-26 
+7 
+Coordinar con contratista la realización de las pruebas según 
+Guía de Verificación.  
+STS 
+Pendiente 
+mar-27 
+8 
+Integrar alimentadores y sus parámetros requeridos a SCADA 
+STS. 
+STS 
+Pendiente 
+mar-27 
+9 
+Agendar y ejecutar pruebas SITR con el Coordinador 
+STS 
+Pendiente 
+abr-27 
+10 
+Activar en terreno los EDAC BF. 
+STS 
+Pendiente 
+may-27 
+ 

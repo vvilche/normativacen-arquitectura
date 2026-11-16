@@ -1,0 +1,119 @@
+ 
+ 
+ 
+       
+Santiago, 19 de junio de 2026 
+SC-2026-00037 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+Ref.: Respuesta DE03648-26 Aplicación del Art. 7-5 Anexo 
+Técnico de Exigencias Mínimas de Instalaciones Basadas en 
+Convertidores que se conectan al Sistema Eléctrico 
+Nacional, para instalaciones existentes conectadas al SEN. 
+ 
+De mi consideración,  
+En la comunicación individualizada en la referencia, el Coordinador Eléctrica Nacional solicita: 
+• 
+A las empresas titulares de instalaciones IBR tipo Grid-Following (GFL) conectadas al Sistema 
+Eléctrico Nacional (“SEN”), como aquellas con declaración en construcción a la fecha de 
+publicación Anexo Técnico de Exigencias Mínimas de Instalaciones Basadas en Convertidores 
+que se conectan al Sistema Eléctrico Nacional (en adelante, el “AT IBR”), informar su 
+situación de cumplimiento de las nuevas exigencias normativas aplicables;  
+ 
+• 
+A los titulares de Sistemas de Almacenamiento de Energía, o de componentes de 
+almacenamiento de una Central Renovable con Capacidad de Almacenamiento, informar la 
+factibilidad de actualizar sus sistemas para operar como IBR Grid- Forming (GFM); y 
+ 
+• 
+A los titulares de Sistemas de Almacenamiento de Energía, o la componente de 
+almacenamiento de una Central Renovable con Capacidad de Almacenamiento, informar el 
+estado de cumplimiento del artículo 4-5 del AT IBR o, en su defecto, informar cuál sería el 
+plan de adecuación necesario para cumplir con este requerimiento. 
+Al respecto, por medio de la presente y dentro del plazo conferido, vengo en informar lo solicitado 
+respecto de las siguientes instalaciones de mis representadas: 
+Mis representadas son titulares de las siguientes instalaciones IBR GFL conectadas al SEN: 
+ 
+ 
+
+ 
+ 
+Empresa Coordinada 
+Instalaciones 
+Doña Antonia Solar SpA 
+PFV Doña Antonia 
+BESS Doña Antonia (en etapa de Puesta en Servicio) 
+Inversiones Fotovoltaicas SpA 
+PFV Willka 
+BESS Willka (en etapa de Puesta en Servicio) 
+Planta Solar Tocopilla SpA 
+PFV Taira 
+BESS Taira (en etapa de Puesta en Servicio) 
+Tamarico Solar Dos SpA 
+PFV Tamarico 
+BESS Tamarico (en etapa de Puesta en Servicio) 
+ 
+I. 
+Cumplimiento normativo de los artículos 3-9 de la NTSyCS y de los artículos 4-1, 4-2, 
+4-3, 4-4, 4-7 y 6-2 del AT IBR por parte de instalaciones IBR GFL conectadas al SEN y/o 
+declaradas en construcción a la fecha de publicación del AT IBR 
+Actualmente nos encontramos en contacto con el proveedor y/o el fabricante de los inversores de 
+cada una de estas instalaciones, con el objeto de determinar si éstos cumplen con las exigencias a 
+las que hace referencia el artículo 7-5 del AT IBR y, en caso de no ser así, si es posible efectuar 
+adecuaciones para ello, o bien, si existen limitaciones técnicas fundadas que impidan cumplir con 
+los requisitos establecidos. 
+En virtud de lo expuesto, a la fecha, no es posible entregar al Coordinador una respuesta definitiva 
+respecto a la condición en la que se encuentran estas instalaciones, ni tampoco un cronograma 
+definitivo respecto a la entrega de los antecedentes requeridos. 
+Sin perjuicio de lo anterior, manifiesto que mis representadas darán estricto cumplimiento al plazo 
+dispuesto en el artículo 7-5 del AT IBR, por lo que los informes técnicos y planes de adecuación 
+correspondientes serán entregados, a más tardar, el 3 de noviembre de 2026. En cualquier caso, una 
+vez que mis representadas cuenten con un cronograma específico de preparación y entrega de estos 
+antecedentes, éste será comunicado al Coordinador. 
+ 
+II. 
+Factibilidad de actualizar Sistemas de Almacenamiento de Energía, o la componente 
+de almacenamiento de una Central Renovable con Capacidad de Almacenamiento, 
+para operar como una IBR GFM 
+ 
+Respecto a estas instalaciones, y en concordancia con lo dispuesto en el AT IBR, según este ha sido 
+interpretado por la Comisión Nacional de Energía, mediante sus Oficios Ord. CNE Nº 328/2026 y 
+337/2026, se informa al Coordinador que ellas no cuentan con factibilidad de cambiar su modo de 
+operación para operar como una IBR GFM. 
+Esto se debe a que, para que estas instalaciones puedan operar como una IBR GFM, se requiere la 
+adquisición e instalación de nuevos equipos, además de ampliaciones de la capacidad de 
+almacenamiento, todo lo cual configura una adecuación que altera sustancialmente el diseño 
+
+ 
+ 
+original de cada una de esas instalaciones de almacenamiento, tanto en costo, equipamiento, plazos, 
+proyecto financiero y su capacidad de inyección 
+En este sentido, se informa al Coordinador que nuestras representadas presentarán en breve plazo 
+solicitudes de exención total de la aplicación del Título 3 del AT IBR, en conformidad con lo dispuesto 
+en el artículo 7-2 del AT IBR. 
+ 
+III. 
+Cumplimiento normativo del artículo 4-5 del AT IBR por parte de instalaciones 
+sistemas de Almacenamiento de Energía, o la componente de almacenamiento de una 
+Central Renovable con Capacidad de Almacenamiento 
+Actualmente nos encontramos en contacto con el proveedor y/o el fabricante de los inversores de 
+los componentes de almacenamiento de nuestras instalaciones, con el objeto de determinar si éstos 
+cumplen con el artículo 4-5 del AT IBR. En virtud de lo expuesto, a la fecha, no es posible confirmar 
+al Coordinador el estado de cumplimiento de este artículo y si es necesario un plan de adecuación.  
+Tal como se señaló en la sección I de la presente comunicación, una vez que se cuente con un 
+cronograma para la entrega de esta información, se informará éste al Coordinador. 
+Quedamos disponibles frente a cualquier antecedente adicional que se requiera, me despido 
+atentamente, 
+ 
+ 
+ 
+Verónica Bustos Vial 
+Encargada Titular  
+Doña Antonia Solar SpA 
+Inversiones Fotovoltaicas SpA 
+Planta Solar Tocopilla SpA 
+Tamarico Solar Dos SpA 
+ 

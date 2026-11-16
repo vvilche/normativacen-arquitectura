@@ -1,0 +1,522 @@
+{
+ "generado": "2026-11-09T12:11:33",
+ "fuente": {
+  "cartas_registro": 13983,
+  "cartas_con_texto": 5612,
+  "rango": [
+   "2025-01-02",
+   "2026-11-01"
+  ]
+ },
+ "cobertura": {
+  "con_cita_de_norma": 1980,
+  "sin_cita_de_norma": 3632,
+  "pct": 35.3
+ },
+ "materias_macro": [
+  [
+   "Indisponibilidades de generación y transmisión",
+   2706
+  ],
+  [
+   "Servicios Complementarios",
+   2628
+  ],
+  [
+   "Mantenimiento, Desconexión, Fallas y Limitaciones",
+   1477
+  ],
+  [
+   "Plataformas para la operación (SCADA)",
+   1456
+  ],
+  [
+   "Operación Real y Programada",
+   1398
+  ],
+  [
+   "Proyectos y Estudios de Conexión",
+   1230
+  ],
+  [
+   "Auditorías",
+   1131
+  ],
+  [
+   "Transferencias económicas entre empresas",
+   568
+  ],
+  [
+   "Licitaciones de Transmisión",
+   464
+  ],
+  [
+   "Administración y Presupuesto",
+   299
+  ],
+  [
+   "Estudios e Informes",
+   217
+  ],
+  [
+   "Comunicaciones Autoridad/Judiciales",
+   143
+  ],
+  [
+   "Pagos o reliquidaciones de transmisión",
+   79
+  ],
+  [
+   "Planificación de la Transmisión",
+   59
+  ],
+  [
+   "Discrepancias",
+   37
+  ],
+  [
+   "Costos/Precios",
+   29
+  ],
+  [
+   "Información Técnica y Parametros Técnicos",
+   16
+  ],
+  [
+   "Antecedentes Legales Coordinados",
+   15
+  ],
+  [
+   "Inventario/Stock/Disponibilidad (Combustibles)",
+   13
+  ],
+  [
+   "Otra Materia",
+   12
+  ],
+  [
+   "Innovacion",
+   3
+  ],
+  [
+   "Antecedentes Monitoreo de la Competencia",
+   1
+  ],
+  [
+   "Contratos",
+   1
+  ],
+  [
+   "Guías de Aplicación/ Anexos Técnicos/Guías Técnicas/Procedimientos",
+   1
+  ]
+ ],
+ "normas": [
+  {
+   "id": "SYCS",
+   "nombre": "Norma Técnica de Seguridad y Calidad de Servicio",
+   "sigla": "NT SyCS",
+   "dominio": "Operación",
+   "entregables": [
+    {
+     "nombre": "Estudio de Sintonización de PSS",
+     "art": "Título 1-2, art. 1-9",
+     "frecuencia": "Ante cambio de parque o por instrucción",
+     "evidencia": "Informe final publicado y adoptado por las coordinadas"
+    },
+    {
+     "nombre": "Anexos de Servicios Complementarios",
+     "art": "Título 1-2",
+     "frecuencia": "Anual y por cambio de instalación",
+     "evidencia": "Informes EO con ensayos en CSV por tag"
+    },
+    {
+     "nombre": "Plan de acción ante hallazgos",
+     "art": "Título 4",
+     "frecuencia": "Por hallazgo",
+     "evidencia": "Carta de respuesta con cronograma"
+    }
+   ],
+   "cartas": 486,
+   "materias": [
+    [
+     "Auditorías",
+     279
+    ],
+    [
+     "Mantenimiento, Desconexión, Fallas y Limitaciones",
+     91
+    ],
+    [
+     "Plataformas para la operación (SCADA)",
+     42
+    ],
+    [
+     "Servicios Complementarios",
+     34
+    ],
+    [
+     "Indisponibilidades de generación y transmisión",
+     13
+    ]
+   ]
+  },
+  {
+   "id": "SSCC",
+   "nombre": "Norma Técnica de Servicios Complementarios",
+   "sigla": "NT SSCC",
+   "dominio": "Operación",
+   "entregables": [
+    {
+     "nombre": "Informe Técnico de Verificación SSCC",
+     "art": "AT Verificación, art. 9",
+     "frecuencia": "Por servicio y por instalación",
+     "evidencia": "Observaciones del Coordinador o aprobación"
+    },
+    {
+     "nombre": "Anexos de Instalaciones que prestan SSCC",
+     "art": "AT Verificación",
+     "frecuencia": "Anual",
+     "evidencia": "Informe SSCC del año publicado"
+    },
+    {
+     "nombre": "Respuesta a observaciones al ITV",
+     "art": "AT Verificación, art. 9",
+     "frecuencia": "Por observación, plazo de carta",
+     "evidencia": "Carta de respuesta con antecedentes"
+    }
+   ],
+   "cartas": 733,
+   "materias": [
+    [
+     "Servicios Complementarios",
+     710
+    ],
+    [
+     "Estudios e Informes",
+     18
+    ],
+    [
+     "Comunicaciones Autoridad/Judiciales",
+     4
+    ],
+    [
+     "Auditorías",
+     1
+    ]
+   ]
+  },
+  {
+   "id": "ISC",
+   "nombre": "Norma Técnica de Indisponibilidad de Suministro y Compensaciones",
+   "sigla": "NT ISC",
+   "dominio": "Calidad de servicio",
+   "entregables": [
+    {
+     "nombre": "Registro e informe de evento de falla (EAF)",
+     "art": "Art. 4-5",
+     "frecuencia": "Por evento",
+     "evidencia": "Publicación de índices de indisponibilidad y ENS"
+    },
+    {
+     "nombre": "Antecedentes para cálculo de compensaciones",
+     "art": "Art. 4-5 y siguientes",
+     "frecuencia": "Por evento",
+     "evidencia": "Instrucción de pago o reembolso del Coordinador"
+    },
+    {
+     "nombre": "Descargos ante instrucción de pago",
+     "art": "NT ISC",
+     "frecuencia": "Por instrucción",
+     "evidencia": "Carta con descargos y respaldo técnico"
+    }
+   ],
+   "cartas": 642,
+   "materias": [
+    [
+     "Mantenimiento, Desconexión, Fallas y Limitaciones",
+     414
+    ],
+    [
+     "Indisponibilidades de generación y transmisión",
+     225
+    ],
+    [
+     "Operación Real y Programada",
+     2
+    ],
+    [
+     "Transferencias económicas entre empresas",
+     1
+    ]
+   ]
+  },
+  {
+   "id": "CYO",
+   "nombre": "Norma Técnica de Coordinación y Operación",
+   "sigla": "NT CyO",
+   "dominio": "Operación",
+   "entregables": [
+    {
+     "nombre": "Programación de la operación",
+     "art": "Título de operación",
+     "frecuencia": "Diaria y semanal",
+     "evidencia": "Programación publicada por el Coordinador"
+    },
+    {
+     "nombre": "Informe de desviación de la programación",
+     "art": "NT CyO",
+     "frecuencia": "Por desviación",
+     "evidencia": "Justificación aceptada"
+    }
+   ],
+   "cartas": 131,
+   "materias": [
+    [
+     "Transferencias económicas entre empresas",
+     73
+    ],
+    [
+     "Costos/Precios",
+     22
+    ],
+    [
+     "Operación Real y Programada",
+     21
+    ],
+    [
+     "Servicios Complementarios",
+     9
+    ],
+    [
+     "Pagos o reliquidaciones de transmisión",
+     2
+    ]
+   ]
+  }
+ ],
+ "anexos": [
+  {
+   "id": "AT-VERIF",
+   "nombre": "Anexo Técnico Verificación de Instalaciones para la prestación de SSCC",
+   "norma": "SSCC",
+   "entregables": [
+    "Informe Técnico de Verificación",
+    "Anexos de instalación",
+    "Protocolo de prueba"
+   ],
+   "cartas": 597,
+   "materias": [
+    [
+     "Servicios Complementarios",
+     596
+    ],
+    [
+     "Auditorías",
+     1
+    ]
+   ]
+  },
+  {
+   "id": "AT-PMAX",
+   "nombre": "Anexo Técnico Pruebas de Potencia Máxima en Unidades Generadoras",
+   "norma": "SYCS",
+   "entregables": [
+    "Informe de prueba de potencia máxima",
+    "Curvas de carga",
+    "Registro de instrumentos"
+   ],
+   "cartas": 149,
+   "materias": [
+    [
+     "Auditorías",
+     146
+    ],
+    [
+     "Servicios Complementarios",
+     3
+    ]
+   ]
+  },
+  {
+   "id": "AT-PMU",
+   "nombre": "Anexo Técnico Medición Fasorial (PMU/PDC)",
+   "norma": "SYCS",
+   "entregables": [
+    "Estado de implementación de PMU",
+    "Protocolo de verificación",
+    "Informe de cierre"
+   ],
+   "cartas": 81,
+   "materias": [
+    [
+     "Plataformas para la operación (SCADA)",
+     73
+    ],
+    [
+     "Servicios Complementarios",
+     5
+    ],
+    [
+     "Operación Real y Programada",
+     2
+    ]
+   ]
+  },
+  {
+   "id": "AT-EDAC",
+   "nombre": "Anexo Técnico de Automatismos (EDAC/EDAG)",
+   "norma": "SYCS",
+   "entregables": [
+    "Lógica del automatismo",
+    "Protocolo de prueba de desconexión",
+    "Informe de actuación"
+   ],
+   "cartas": 55,
+   "materias": [
+    [
+     "Plataformas para la operación (SCADA)",
+     24
+    ],
+    [
+     "Servicios Complementarios",
+     21
+    ],
+    [
+     "Mantenimiento, Desconexión, Fallas y Limitaciones",
+     7
+    ]
+   ]
+  },
+  {
+   "id": "AT-PRS",
+   "nombre": "Anexo Técnico Plan de Recuperación del Servicio",
+   "norma": "SYCS",
+   "entregables": [
+    "Protocolo de verificación PRS",
+    "Informe de prueba de partida autónoma"
+   ],
+   "cartas": 124,
+   "materias": [
+    [
+     "Servicios Complementarios",
+     100
+    ],
+    [
+     "Estudios e Informes",
+     10
+    ],
+    [
+     "Operación Real y Programada",
+     9
+    ]
+   ]
+  },
+  {
+   "id": "AT-CONS",
+   "nombre": "Anexo Técnico Determinación de Consumos Específicos",
+   "norma": "SYCS",
+   "entregables": [
+    "Informe de consumos específicos",
+    "Respaldo de medición de combustible"
+   ],
+   "cartas": 40,
+   "materias": [
+    [
+     "Auditorías",
+     40
+    ]
+   ]
+  },
+  {
+   "id": "AT-PARAM",
+   "nombre": "Anexo Técnico Definición de Parámetros Técnicos y Operativos",
+   "norma": "SYCS",
+   "entregables": [
+    "Ficha de parámetros técnicos",
+    "Declaración de límites operativos"
+   ],
+   "cartas": 33,
+   "materias": [
+    [
+     "Servicios Complementarios",
+     16
+    ],
+    [
+     "Plataformas para la operación (SCADA)",
+     15
+    ],
+    [
+     "Comunicaciones Autoridad/Judiciales",
+     1
+    ]
+   ]
+  },
+  {
+   "id": "ATSM",
+   "nombre": "Anexo Técnico Sistema de Monitoreo (ATSM)",
+   "norma": "SYCS",
+   "entregables": [
+    "Plan de disponibilidad SITR",
+    "Informe de señales",
+    "Plan de mejoras"
+   ],
+   "cartas": 25,
+   "materias": [
+    [
+     "Plataformas para la operación (SCADA)",
+     25
+    ]
+   ]
+  },
+  {
+   "id": "AT-SITR",
+   "nombre": "Anexo Técnico SITR",
+   "norma": "SYCS",
+   "entregables": [
+    "Plan de implementación SITR",
+    "Informe de pruebas de verificación SCADA"
+   ],
+   "cartas": 205,
+   "materias": [
+    [
+     "Servicios Complementarios",
+     124
+    ],
+    [
+     "Plataformas para la operación (SCADA)",
+     60
+    ],
+    [
+     "Operación Real y Programada",
+     9
+    ]
+   ]
+  },
+  {
+   "id": "AT-SLRP",
+   "nombre": "Anexo Técnico Registro de Protecciones (SLRP)",
+   "norma": "SYCS",
+   "entregables": [
+    "Informe de lectura remota de protecciones",
+    "Registro COMTRADE"
+   ],
+   "cartas": 18,
+   "materias": [
+    [
+     "Plataformas para la operación (SCADA)",
+     7
+    ],
+    [
+     "Operación Real y Programada",
+     7
+    ],
+    [
+     "Mantenimiento, Desconexión, Fallas y Limitaciones",
+     2
+    ]
+   ]
+  }
+ ],
+ "entregables_total": 36
+}

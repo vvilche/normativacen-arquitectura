@@ -1,0 +1,186 @@
+  
+ 
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+Santiago, 16 de junio de 2026 
+ 
+JAV202619 
+ 
+Señor 
+Ramón Castañeda Ponce 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Referencia: Control Rápido de Frecuencia (CRF) como habilitante 
+de la operación en condiciones de baja inercia: impacto sobre la 
+seguridad 
+del 
+sistema, 
+los 
+costos 
+de 
+los 
+Servicios 
+Complementarios, el despacho de generación térmica y el 
+vertimiento de generación renovable variable. 
+ 
+ 
+De nuestra consideración, 
+ 
+Por medio de la presente, Javiera SpA. (en adelante, "Atlas") se dirige a usted, con el objeto de poner 
+en su consideración el rol que el Servicio Complementario de Control Rápido de Frecuencia (CRF) 
+está llamado a cumplir como habilitante de una operación segura y económicamente eficiente 
+del Sistema Eléctrico Nacional (SEN) en un escenario de inercia rotatoria decreciente. A juicio de 
+Atlas, el CRF no debe ser evaluado únicamente como un sustituto contable de las reservas de 
+Control Primario de Frecuencia, sino como una herramienta sistémica que permite operar con 
+menores niveles de inercia sin degradar la seguridad, reduciendo simultáneamente los costos de 
+los Servicios Complementarios, el despacho forzado de generación térmica y los vertimientos de 
+generación renovable variable. La presente comunicación expone dicho planteamiento tomando 
+como referencia el Informe de Servicios Complementarios para el año 2027 en su versión 
+preliminar (en adelante, el "ISSCC 2027"), antecedentes recientes aportados por otros coordinados, 
+y la experiencia internacional comparada. 
+ 
+1. El problema de fondo: el costo creciente de proveer seguridad de frecuencia mediante 
+inercia sincrónica. La transición del SEN hacia una matriz dominada por generación basada en 
+inversores ha reducido la inercia rotatoria disponible, particularmente en las horas de máxima 
+inyección solar. Bajo el paradigma operativo actual, la seguridad de frecuencia ante contingencias 
+se asegura manteniendo en servicio unidades sincrónicas que aportan inercia, lo que en 
+condiciones de baja demanda neta obliga a despachar generación térmica por razones de 
+seguridad y no de mérito económico. El costo de este paradigma ha sido reconocido por los 
+propios proveedores incumbentes: mediante presentación DE05553-26 de 15 de junio de 2026, un 
+coordinado relevante manifestó que el incremento del requerimiento de inercia en la zona norte 
+del sistema ha obligado a despachar de manera forzada la totalidad de las centrales a carbón de 
+dicha zona y ciclos combinados adicionales con el único propósito de proveer inercia, estimando 
+sobrecostos sistémicos del orden de cien millones de dólares anuales adicionales y vertimientos 
+de generación renovable del orden de 1000 GWh al año, además de riesgos asociados al uso de 
+diésel ante la limitada disponibilidad de gas. Si bien aquel antecedente refiere a un requerimiento 
+de inercia de carácter zonal, ilustra con claridad la magnitud del costo de sostener la seguridad de 
+frecuencia exclusivamente sobre la base de recursos sincrónicos, y la conveniencia de disponer de 
+herramientas que permitan relajar dicha exigencia. 
+Docusign Envelope ID: 519056FD-3D76-89BF-802C-3A37DCEA5167
+
+  
+ 
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+2. El CRF permite operar con menor inercia sin degradar la seguridad. La función técnica del 
+CRF es contrarrestar las desviaciones de frecuencia en el primer segundo posterior a una 
+contingencia, conteniendo la tasa de cambio de frecuencia y elevando el valor mínimo alcanzado 
+antes de la actuación del control primario. Al mejorar estos márgenes, el CRF reduce la inercia 
+mínima necesaria para mantener la frecuencia dentro de los estándares. El propio ISSCC 2027 
+reconoce, en su Tabla 5-1, que en condiciones de baja inercia y baja demanda neta —del orden de 
+20 a 30 GVAs y 7.500 MW, características de las horas solares— la tasa de sustitución de reservas 
+de Control Primario mediante CRF alcanza valores de entre 1,35 y 1,44, esto es, cada unidad de CRF 
+desplaza más de una unidad de requerimiento de control primario. En consecuencia, lejos de 
+comprometer la seguridad, el CRF la fortalece, habilitando la operación en los puntos del espacio 
+inercia-demanda donde el sistema es más vulnerable. 
+ 
+3. Impacto sobre los pagos por Servicios Complementarios. La incorporación del CRF reduce el 
+costo total de los Servicios Complementarios de Control de Frecuencia por dos vías. En primer 
+lugar, al reducir el requerimiento conjunto de reservas en las horas de mayor estrechez, disminuye 
+el volumen del servicio que debe ser adquirido y libera capacidad de almacenamiento e hidráulica 
+hacia el mercado de energía y otros servicios. En segundo lugar, amplía y diversifica la base de 
+oferentes: el CRF puede ser provisto por sistemas de almacenamiento y plantas renovables con 
+respuesta sub-segundo, tecnologías cuya participación creciente el ISSCC 2027 identifica como la 
+causa de la mejora sustantiva de las condiciones de competencia en los servicios de control de 
+frecuencia. Una base de oferta más amplia reduce la frecuencia de episodios con conglomerados 
+pivotales —el ISSCC 2027 reconoce que el indicador de competencia del Control Primario por 
+subfrecuencia supera el umbral solo durante más del 50% del tiempo— y, con ello, el recurso a 
+medidas de mitigación de precios y a remuneraciones ex-post asociadas a subastas total o 
+parcialmente desiertas. Cabe hacer presente que el análisis de condiciones de competencia del 
+ISSCC 2027 excluyó expresamente al CRF de su evaluación, según consta en la nota al pie N°49 del 
+Informe. 
+ 
+4. Impacto sobre el despacho de generación térmica y el vertimiento de generación renovable. 
+Al reducir la inercia mínima requerida, el CRF disminuye la necesidad de mantener unidades 
+sincrónicas en servicio por razones exclusivas de seguridad. Ello permite desacoplar generación 
+térmica que hoy opera forzada en mínimos técnicos durante las horas solares, liberando el espacio 
+de despacho correspondiente para la generación renovable variable que actualmente debe ser 
+vertida. El antecedente aportado por el coordinado incumbente cuantifica esta relación de manera 
+directa: la operación forzada de centrales térmicas para proveer inercia es señalada como causa 
+de vertimientos renovables del orden de 1000 GWh anuales. El CRF actúa precisamente sobre este 
+mecanismo, mejorando las condiciones de evacuación de la generación renovable y reduciendo 
+simultáneamente las emisiones y los costos de combustible asociados al despacho térmico de 
+seguridad. 
+ 
+5. La experiencia internacional confirma la viabilidad y los beneficios del CRF en sistemas de 
+baja inercia. Los sistemas eléctricos con alta penetración de recursos basados en inversores han 
+adoptado productos de respuesta rápida de frecuencia como herramienta central para operar con 
+menor inercia. En Australia, el operador AEMO implementó en octubre de 2023 los servicios Very 
+Fast FCAS de un segundo, dimensionando su adquisición en función de la mayor contingencia 
+creíble y de los niveles de inercia operativa, con provisión mayoritaria de sistemas de 
+almacenamiento y respuesta de demanda. En Texas, ERCOT incorporó desde 2020 el Fast 
+Frequency Response, cuyas cantidades se determinan en función de la inercia del sistema, 
+habiéndose estimado que en condiciones de alta penetración de inversores el servicio se provee a 
+costos marginales del orden de 0,3 USD/MWh sin alterar los precios de energía ni de reservas. En 
+Docusign Envelope ID: 519056FD-3D76-89BF-802C-3A37DCEA5167
+
+  
+ 
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+Gran Bretaña, el operador NESO implementó el servicio Dynamic Containment con entrega plena 
+en un segundo, fundamentando que la menor inercia exige servicios más rápidos que reducen el 
+volumen total de respuesta requerido. En Irlanda, el programa DS3 incorporó la respuesta rápida 
+de frecuencia como habilitante del aumento del límite de penetración no sincrónica. En todos 
+estos casos, el producto se adoptó de manera anticipada, antes de que se materializara un déficit 
+estricto de seguridad, en reconocimiento de que su valor principal es habilitar la operación 
+eficiente del sistema en condiciones de baja inercia. 
+ 
+En atención a lo expuesto, Atlas propone respetuosamente al Coordinador: 
+(i) 
+Evaluar el CRF no solo como sustituto de reservas de Control Primario, sino como 
+habilitante de la operación en baja inercia, internalizando en su análisis costo-
+beneficio los sobrecostos del despacho térmico de seguridad, el vertimiento renovable 
+evitado y el menor costo de los Servicios Complementarios; 
+(ii) 
+Avanzar en la habilitación anticipada del servicio, con un requerimiento activable 
+dinámicamente según las condiciones de inercia y demanda del sistema, en línea con 
+la práctica internacional; y  
+(iii) 
+Considerar este análisis de manera coordinada con la definición de los servicios de 
+inercia y capacidad de formación de red actualmente en discusión, de modo que el 
+conjunto de productos minimice el costo sistémico de proveer seguridad de 
+frecuencia en la transición energética.  
+ 
+Asimismo, se solicita a la Unidad de Monitoreo de la Competencia ponderar el impacto pro-
+competitivo de la habilitación del CRF en sus futuros análisis de condiciones de competencia de 
+los Servicios Complementarios de Control de Frecuencia. 
+ 
+Atlas queda a disposición del Coordinador para profundizar los antecedentes expuestos y 
+colaborar en los análisis que se estimen pertinentes. 
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos Miguel Leiva Mora 
+Encargado Suplente 
+Javiera SpA 
+ 
+ 
+ 
+cc: Sr. Paulo Oyanedel S., Director Unidad de Monitoreo de la Competencia - Coordinador Eléctrico Nacional. 
+ 
+Docusign Envelope ID: 519056FD-3D76-89BF-802C-3A37DCEA5167

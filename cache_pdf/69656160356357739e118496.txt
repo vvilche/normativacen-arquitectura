@@ -1,0 +1,41 @@
+Av. Presidente Riesco 5561, Piso 17 
+Las Condes, Santiago, Chile 
+Santiago, 12 de enero de 2026 
+CGET00473-2026 
+Estimada 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Ref.: Aprueba Protocolo de Verificación Plan de 
+Recuperación del Servicio - Equipamiento de 
+Vinculación (PRS-EV) de S/E Pullinque paños 
+B2 y B4 y de S/E Loncoche paños B3 y B6. [1] 
+Carta CGET02972-2025 del Coordinado CGE 
+Transmisión S.A., Ref.: “Observaciones a 
+Protocolos de Verificación de SSCC de EV de 
+S/E Pullinque paños B2 y B4 y S/E Loncoche 
+paños B3 y B6”, de fecha 16 de octubre 2025. 
+Responde DE06746-25 
+En el marco de la verificación de servicios complementarios, tenemos el agrado de remitir 
+el Informe del Experto Técnico (IET) asociado a las pruebas realizadas a los equipos de 
+vinculación de los paños B3 y B6 de S/E Loncoche, en conformidad con el capítulo 5 del 
+“Instructivo Técnico para la Verificación de Instalaciones para la prestación de SSCC” 
+Coordinado 
+Instalación (S/E, Equipo) 
+Paño 
+CGE Transmisión S.A. S/E Loncoche, Línea 66 kV Loncoche – Lastarria N°2 
+B3 
+CGE Transmisión S.A. S/E Loncoche, Línea 66 kV Loncoche – Lastarria N°1 
+B6 
+En anexos: 
+-
+Anexo 1: Informe experto técnico B3 y B6 S/E Loncoche
+-
+Anexo 2: Archivos .occ OMICRON, oscilografías y backup protección asociada a
+las pruebas.
+Sin otro particular, saluda atentamente, 
+P.P.
+Victor Gutierrez González. 
+Encargado Titular 
+CGE Transmisión 
+JCD  Anexo 1,2 

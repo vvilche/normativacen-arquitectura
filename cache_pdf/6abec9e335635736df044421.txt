@@ -1,0 +1,48 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLY & ENERGY MANAGEMENT 
+ 
+Santiago, 1 de octubre de 2026 
+ENGIE N°348/2026
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Respuesta a carta DE05324-26: “EAF
+280/2026: Falla en la línea 66 kV Pozo Almonte - La 
+Cascada HMC.” 
+Ref.: 
+[1] Carta DE05324-26 del Coordinador Eléctrico 
+Nacional, del 12 de agosto de 2026. 
+ 
+De nuestra consideración, 
+ 
+Mediante la presente, informamos que no corresponde a ENGIE Energía Chile S.A. elaborar el Informe Preliminar 
+de Falla (48 Horas) ni el Informe de Falla definitivo (5 días) asociados al evento indicado, dado que la instalación en 
+su totalidad corresponde a HALDEMAN MINING COMPANY S.A. (HMC), según lo constatado en la plataforma 
+Infotecnica (ID Secciones Tramos: 3664, 3665 y 3666). 
+ 
+Finalmente, de acuerdo a los registros esta información está cargada en la plataforma Neomante con el número de 
+evento IF 2026003473. 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+ 
+Juan Muñoz  
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+  
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 

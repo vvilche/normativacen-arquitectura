@@ -1,0 +1,495 @@
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Santiago, 28 de agosto de 2026 
+PE 016-26 
+ 
+Sr. 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA CARTA DE05315-26: INFORMA INCUMPLIMIENTO DE 
+PLAZOS EN LA IMPLEMENTACIÓN DE PMU Y PDC DEL MÓDULO DE 
+MEDICIÓN FASORIAL DEL COORDINADOR. 
+ 
+De nuestra consideración, 
+Me refiero a la comunicación de la REF. [1], mediante la cual ese Coordinador solicita 
+informar fundadamente las razones o circunstancias que explican el incumplimiento de los 
+plazos comprometidos para la implementación de determinados puntos de monitoreo 
+mediante unidades de medición fasorial, PMU, así como las acciones realizadas y aquellas 
+previstas para dar cumplimiento a los requerimientos formulados. 
+Al respecto, Enel Generación Chile S.A. y Enel Green Power Chile S.A. reconocen la 
+importancia que reviste la disponibilidad de información sincrofasorial para la 
+observabilidad, supervisión y operación segura del Sistema Eléctrico Nacional. En 
+consecuencia, ambas compañías han continuado desarrollando las actividades técnicas, 
+contractuales y de comunicaciones necesarias para completar la integración de los puntos 
+de monitoreo identificados en el Anexo de la carta DE05315-26. 
+La implementación considera dos grupos de instalaciones con condiciones diferentes: 
+a) PMU previamente instaladas, respecto de las cuales las actividades pendientes 
+corresponden principalmente a la normalización o habilitación de canales de 
+comunicación, configuración de red, integración al PDC local de Enel, disponibilidad 
+de licencias y ejecución coordinada de pruebas de comunicación e integración con 
+el PDC Corporativo del Coordinador. Estos equipos PMU corresponden a las 
+siguientes instalaciones: 
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Coordinado 
+Elemento 
+Punto De Medida 
+Fuente 
+Fecha 
+Comprometida 
+Estado 
+Enel Generación 
+Chile S.A. 
+HE Antuco U1 
+Bornes De La 
+Unidad 
+DE01285-
+26 
+06-03-2026 
+Existente 
+Enel Generación 
+Chile S.A. 
+HE El Toro U3 
+Bornes De La 
+Unidad 
+DE01285-
+26 
+03-04-2026 
+Existente 
+Enel Generación 
+Chile S.A. 
+TER San 
+Isidro CC1-TG 
+Bornes De La 
+Unidad 
+DE01285-
+26 
+17-04-2026 
+Existente 
+Enel Generación 
+Chile S.A. 
+TER San 
+Isidro II 
+CC1TG 
+Bornes De La 
+Unidad 
+DE01285-
+26 
+17-04-2026 
+Existente 
+Enel Generación 
+Chile S.A. 
+TER Quintero 
+U1 
+Bornes De La 
+Unidad 
+DE01285-
+26 
+17-04-2026 
+Existente 
+Enel Green Power 
+Chile S.A. 
+PE La Cabaña 
+Paño JT1 De Se 
+La Cabaña 
+DE06152-
+25 
+01-08-2025 
+Existente 
+Enel Green Power 
+Chile S.A. 
+PFV Finis 
+Terrae 
+Paño J1 De Se 
+Rande 
+DE01284-
+26 
+10-04-2026 
+Existente 
+Enel Green Power 
+Chile S.A. 
+PFV Sol De 
+Lila 
+Paño JT1 De Se 
+Sol De Lila 
+DE01284-
+26 
+10-04-2026 
+Existente 
+Empresa Eléctrica 
+Pehuenche S.A. 
+HP Curillinque 
+U1 
+Bornes de la 
+Unidad. 
+DE01285-
+26 
+03-04-2026 
+Existente 
+ 
+Respecto de la imposibilidad de completar la integración de las PMU pendientes al PDC de 
+Corporativo del CEN, informamos que actualmente todas las PMU requeridas se 
+encuentran integradas al PDC local de ENEL, sin embargo, se ha presentado una condición 
+de inestabilidad en los servicios de comunicación asociados al protocolo IEEE C37.118, los 
+cuales dejan de operar después de un período de funcionamiento, sin generar errores o 
+alarmas que permitan identificar directamente la causa de la interrupción. 
+Durante el proceso de diagnóstico se realizaron distintas actividades de monitoreo y análisis 
+de los servicios, incluyendo la revisión mediante herramientas de monitoreo de procesos, 
+revisión de Log de eventos de los equipos, sin lograr determinar hasta el momento una 
+causa raíz asociada a la detención de los servicios de comunicación. Esta condición afecta 
+tanto la comunicación entre las PMU y el PDC de ENEL como el intercambio de información 
+entre este último y el PDC del CEN. 
+Considerando lo anterior, y luego de las actividades de diagnóstico realizadas con 
+participación del proveedor SEL, fabricante del equipo, el cual tampoco logra identificar la 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+causa raíz asociada a la detención de los servicios de comunicación, se determinó como 
+medida de solución definitiva el reemplazo del equipamiento actualmente en operación. El 
+nuevo equipamiento ya se encuentra disponible y se está coordinando su intervención e 
+durante la próxima semana, contemplando su instalación, configuración y pruebas de 
+funcionamiento entre el miércoles 2 y viernes 4 de septiembre. 
+Una vez normalizada la operación del PDC y verificada la estabilidad de los servicios de 
+comunicación, se tiene programado retomar las pruebas de integración con el CEN y 
+completar la integración de las PMU pendientes, con el objetivo de regularizar esta 
+condición a la brevedad, lo que será oportunamente informado al Coordinador. 
+ 
+b) Nuevos puntos de monitoreo, cuya implementación requiere completar etapas 
+sucesivas de levantamiento en terreno, ingeniería, adquisición de equipos y 
+licencias, integración de gabinetes, ejecución de pruebas FAT, montaje, pruebas 
+SAT, habilitación de canales de comunicación e integración final con los PDC 
+correspondientes. Estos equipos PMU corresponden a las siguientes instalaciones: 
+ 
+Coordinado 
+Elemento 
+Punto De 
+Medida 
+Fuente 
+Fecha 
+Comprometida 
+Estado 
+Enel Green 
+Power Chile 
+S.A. 
+PFV 
+Chañares 
+En Punto De 
+Control PPC 
+DE08939-
+25 
+30-06-2026 
+En implementación 
+Enel Green 
+Power Chile 
+S.A. 
+PFV 
+Lalackama 
+II 
+En Punto De 
+Control PPC 
+DE08939-
+25 
+30-06-2026 
+En implementación 
+Enel Green 
+Power Chile 
+S.A. 
+PE Taltal 
+En Punto De 
+Control PPC 
+DE08939-
+25 
+30-06-2026 
+En implementación 
+Enel Green 
+Power Chile 
+S.A. 
+PE Valle De 
+Los Vientos 
+En Punto De 
+Control PPC 
+DE08939-
+25 
+30-06-2026 
+En implementación 
+Enel Green 
+Power Chile 
+S.A. 
+PFV 
+Azabache 
+En Punto De 
+Control PPC 
+DE08939-
+25 
+30-06-2026 
+En implementación 
+ 
+Respecto del supuesto incumplimiento asociado a estas instalaciones, cabe señalar que 
+mediante carta OP029-26, remitida al Coordinador el día 12 de febrero de 2026, se informó 
+que las PMU correspondientes a las centrales PFV Chañares, PFV Lalackama I y II, PE Taltal, 
+PE Valle de los Vientos y PFV Azabache concluirían su proceso de implementación el 31 de 
+octubre de 2026, y no el 30 de junio de 2026 como se indica en la comunicación DE05315-26 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+En este sentido, estimamos que la discrepancia observada respecto de la fecha de 30 de junio 
+de 2026 señalada en la comunicación DE05315-26 se origina en una interpretación derivada de 
+la forma en que fue presentada la información en la carta Gantt adjunta a la comunicación 
+OP029-26, la cual entendemos que pudo haber generado confusión, por lo cual, adjuntamos 
+como anexo a esta comunicación, la carta Gantt actualizada sin modificar las fechas indicadas 
+en la comunicación anterior.  
+ 
+ 
+ 
+Para estos efectos, Enel ha desarrollado las siguientes actividades: 
+1. Preparación y actualización de las especificaciones técnicas para la implementación 
+e integración de PMU y PDC de nuevas instalaciones. 
+2. Inicio y desarrollo del proceso de licitación para contratar el suministro, ingeniería, 
+configuración, instalación, pruebas e integración requeridos para las PMU indicadas 
+en el punto b) anterior. 
+3. Levantamiento de antecedentes técnicos asociados a las PMU existentes y a sus 
+canales de comunicaciones, indicadas en el punto a) anterior. 
+4. Revisión de las configuraciones de red y evaluación del redireccionamiento de las 
+PMU de Quintero, San Isidro I y San Isidro II hacia el PDC local de Enel.  
+5. Coordinación con proveedores especializados para normalizar la operación y 
+disponibilidad del PDC local. 
+6. Instalación y configuración de las PMU correspondientes a Antuco, El Toro, Finis 
+Terrae, Sol de Lila, La Cabaña, Quintero, San Isidro I y San Isidro II. 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Adicionalmente, quisiéramos señalar que durante el proceso de integración de las PMU y 
+del PDC con la plataforma del Coordinador hemos enfrentado diversas dificultades técnicas 
+asociadas a la interoperabilidad y puesta en servicio de la solución implementada por 
+nuestro proveedor actual. Considerando lo anterior, y con el propósito de asegurar la 
+continuidad y oportunidad de los proyectos futuros relacionados con medición fasorial, 
+agradeceremos al Coordinador informarnos si existen otros proveedores o integradores que 
+cuenten con experiencia comprobada y soluciones previamente integradas o habilitadas 
+para su plataforma, distintos del proveedor Conecta. Lo anterior resulta especialmente 
+relevante para nuestros procesos internos de contratación y licitación, los cuales requieren 
+contar con alternativas de mercado que permitan evaluar al menos tres oferentes y evitar 
+la condición de proveedor único. 
+ 
+Finalmente, reiteramos el compromiso de Enel Generación Chile S.A. y filiales de completar 
+la implementación e integración de los puntos de medición fasorial pendientes y de 
+mantener informado al Coordinador respecto del avance de las actividades indicadas. 
+ 
+Sin otro particular, saluda atentamente a usted. 
+ 
+ 
+ 
+ 
+ 
+ 
+___________________________________ 
+Miguel Buzunariz R. 
+Encargado CEN. 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ 
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Anexo N°1: Cronograma corregido de implementación de 66 nuevos puntos de 
+medida. 
+ 
+ 
+#
+ACTIVIDAD
+Inicio
+fin
+1
+Instrucción Coordinador (19/08/2025)
+19-08-25 19-08-25
+X
+2
+Revisión y gestión presupuestaria (66 Puntos de monitoreo PMU)
+20-08-25 30-09-25
+X
+X
+X
+X
+X
+3
+Desarrollo Especificaciones Técnicas
+01-09-25 31-10-25
+X
+X
+X
+4
+Licitación
+02-11-25 15-01-26
+X
+X
+X
+X
+X
+5
+Adjudicación
+16-01-26 25-01-26
+X
+6
+Levantamiento para integración de 66 PMU
+25-01-26 20-02-26
+X
+X
+X
+X
+7
+Desarrollo Ingeniería para integración de 66 PMU
+20-02-26 30-04-26
+X
+X
+X
+X
+8
+Compra de equipos, integración gabinetes, pruebas FAT
+15-02-26 31-05-26
+X
+X
+X
+X
+X
+9
+Montaje, Instalación pruebas SAT: ERV Zona Calama (2 PMU)
+01-06-26 31-10-26
+X
+10 Pruebas de Integración CEN PMU: ERV Zona Calama (2 PMU)
+01-06-26 31-10-26
+X
+11 Montaje, Instalación pruebas SAT: ERV Zona Atacama (3 PMU)
+01-06-26 31-10-26
+X
+12 Pruebas de Integración CEN PMU: ERV Zona Atacama (3 PMU)
+01-06-26 31-10-26
+X
+13 Montaje, Instalación pruebas SAT: ERV Zona Centro (8 PMU)
+01-08-26 31-01-27
+X
+X
+X
+14 Pruebas de Integración CEN PMU: ERV Zona Centro (8 PMU)
+01-08-26 31-01-27
+X
+X
+X
+15 Montaje, Instalación pruebas SAT: ERV Zona Sur (3 PMU)
+01-11-26 28-02-27
+X
+16 Pruebas de Integración CEN PMU: ERV Zona Sur (3 PMU)
+01-11-26 28-02-27
+X
+17 Montaje, Instalación pruebas SAT: Centrales Hydro BU Sur (18 PMU) 15-11-26 31-07-27
+X
+X
+X
+X
+X
+X
+18 Pruebas de Integración CEN PMU: Centrales Hydro BU Sur (18 PMU)
+15-11-26 31-07-27
+X
+X
+X
+X
+X
+X
+19 Montaje, Instalación pruebas SAT: Centrales Hydro BU Centro (8 PMU01-05-27 30-09-27
+X
+X
+20 Pruebas de Integración CEN PMU: Centrales Hydro BU Centro (8 PMU01-05-27 30-09-27
+X
+X
+21 Montaje, Instalación pruebas SAT: Centrales Hydro BU Norte (11 PMU01-07-26 31-12-27
+X
+X
+X
+X
+X
+22 Pruebas de Integración CEN PMU: Centrales Hydro BU Norte (11 PMU01-07-27 31-12-27
+X
+X
+X
+23 Montaje, Instalación pruebas SAT: Centrales Térmicas (13 PMU)
+01-06-26 31-03-28
+X
+X
+X
+X
+X
+24 Pruebas de Integración CEN PMU: Centrales Térmicas (13 PMU)
+01-09-27 31-03-28
+X
+X
+X
+X
+25 Ampliación PDC Enel
+01-04-26 30-10-26
+X
+X
+X
+X
+X
+X
+X
+jun-26
+CRONOGRAMA INSTALACIÓN PMU - ESTUDIO 2025
+jul-26
+ago-26
+ene-26
+feb-26
+mar-26
+abr-26
+may-26
+jul-27
+ago-27
+sept-27
+mar-28
+dic-27
+ene-28
+feb-28
+ene-27
+feb-27
+mar-27
+abr-27
+may-27
+jun-27
+ago-25
+sept-25
+oct-25
+nov-25
+dic-25
+sept-26
+oct-26
+nov-26
+oct-27
+nov-27
+dic-26

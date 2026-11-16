@@ -1,0 +1,244 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 02 de julio de 2026 
+DE 04209-26 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Según Lista de Distribución 
+Presente 
+Ref.: Solicitud de antecedentes técnicos que 
+respalden los Informes de Limitación (IL) 
+declarados para la prestación de Control 
+Dinámico de Tensión (CDT). 
+ 
+[1] Carta DE02432-26, Ref.: “Invitación a 
+webinar sobre control dinámico de tensión en 
+parques eólicos, fotovoltaicos y BESS.”, de 
+decha 14 de abril de 2026. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a usted que su representada ha 
+ingresado Informes de Limitación (IL) en la plataforma NeoMante, para las centrales 
+indicadas en el Anexo 1, esto ante una instrucción directa de Control Dinámico de Tensión 
+emitida por parte del Centro de Despacho y Control (CDC) del Coordinador al Centro de 
+Control de su representada.  
+ 
+De acuerdo con lo anterior, solicito a Ud. gestionar con su representada, a más tardar el día 
+16 de julio de 2026, la elaboración y envío de un informe técnico que justifique las 
+limitaciones informadas, identificando las causas asociadas, las restricciones existentes 
+para la operación en modo Control Dinámico de Tensión (CDT), así como las medidas 
+correctivas que se implementarán para normalizar dicha condición, considerando que la 
+capacidad de efectuar CDT de las plantas individualizadas fue confirmada en el proceso de 
+conexión y entrada en operación, sustentado en los modelos dinámicos y documentación 
+técnica proporcionada por los propios Coordinados. 
+ 
+Cabe señalar que la implementación del CDT forma parte de las medidas operacionales 
+definidas por el Coordinador para efectos de mantener la seguridad y calidad del servicio. 
+En este contexto, los análisis desarrollados por el Estudio de Desempeño del Esquema de 
+Desconexión Automática de carga (EDAC) 2026 identifican que, en escenarios de baja 
+demanda, la operación del EDAC puede generar sobretensiones transitorias que, podrían 
+provocar desconexiones no deseadas de instalaciones IBR y PMGD, agravando la 
+condición de subfrecuencia que el EDAC busca contener. De acuerdo con esto, la 
+habilitación del CDT constituye una instrucción del Coordinador orientada a reducir dichos 
+riesgos y contribuir en la estabilidad del sistema eléctrico. 
+ 
+Al respecto, informo a Ud. que el plan previsto para contar con los recursos de CDT fue 
+informado a los Coordinados mediante el Webinar realizado el 16 de abril de 2026, 
+denominado “Control Dinámico de Tensión en Parques Eólicos, Fotovoltaicos y BESS” al 
+cual fueron invitadas las empresas mediante comunicación de la Ref. [1]. En esta instancia 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+se expusieron los fundamentos técnicos de este plan, los criterios de priorización 
+considerados, el procedimiento de instrucción y la estrategia gradual de implementación 
+definida por el Coordinador. Se indicó, además, que el proceso comenzaría con 
+instalaciones con el Servicio Complementario (SC) de Control de Tensión (CT) verificado, 
+y posteriormente, se extendería a instalaciones cuyo desempeño hubiese sido previamente 
+validado mediante los modelos dinámicos homologados aceptados por este Coordinador 
+como requerimiento para obtener la entrada en operación de su central. 
+ 
+Finalmente, cabe hacer presente que, aun cuando los Coordinados mantengan atrasos o 
+tengan pendiente el cierre del proceso de verificación de sus instalaciones, dicha situación 
+no impide que el Coordinador pueda instruir directamente la prestación de dicho control 
+según lo establecido en el artículo transitorio 6-7 de la NT-SSCC, cuando ello sea requerido 
+por razones de seguridad y calidad de servicio del Sistema Eléctrico Nacional. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+PVV/CRV/WJS/adr 
+ 
+C.c.: 
+Sr. Rodrigo Barbagelata S. – Director Unidad de Regulación 
+Sr. Eugenio Quintana P. – Jefe del Departamento de Estudios Eléctricos 
+Sr. Manuel Cartanega B. – Jefe de Turno Nacional 
+Sr. Cristian Reyes V. – Jefe del Departamento de Control de la Operación 
+Sr. Israel Olguín G. – Jefe del Departamento de Análisis de la Operación 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lista de Distribución: 
+ 
+1. Atacama Solar SpA  
+2. AustrianSolar Chile Cuatro SpA  
+3. AustrianSolar Chile Seis SpA  
+4. Cerro Dominador CSP S.A.  
+5. Chungungo S.A.  
+6. Cóndor Energía SpA 
+7. Conejo Solar SpA  
+8. COPEC Renovables SpA  
+9. Fotovoltaica Norte Grande 5 SpA  
+10. Parque Solar Fotovoltaico Sol del Desierto SpA  
+11. Planta Solar San Pedro III SpA  
+12. WPD Duqueco SpA  
+13. WPD Negrete SpA 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo 1: Instalaciones con limitaciones de Control de Tensión registradas en NeoMante 
+Coordinado 
+Instalación 
+N° correlativo 
+de NeoMante 
+Comentario ingresado en plataforma NeoMante 
+Cerro Dominador 
+CSP S.A. 
+PFV Cerro 
+Dominador 
+2026001318 
+PFV Cerro Dominador no puede prestar servicio de control dinámico de tensión debido a que el 
+controlador del parque no tiene habilitada dicha función. 
+Conejo Solar SpA 
+PFV Conejo 
+Solar 
+2026001230 
+PFV Conejo Solar no puede prestar servicio de control dinámico de tensión debido a problema 
+en la activación del modo PV del parque. Causa en investigación 
+Atacama Solar SpA 
+PFV Atacama 
+Solar II 
+2026001840 
+La PFV Atacama Solar no puede prestar servicio complementario por control dinámico de tensión, 
+esto debido a falta de validación del fabricante e implementación de equipos. Central si puede 
+prestar SC de CT por consigna fija o por factor de potencia. 
+AustrianSolar Chile 
+Cuatro SpA 
+PFV 
+Huatacondo 
+2026001841 
+La PFV Huatacondo no puede prestar servicio complementario por control dinámico de tensión, 
+esto debido a falta de validación del fabricante e implementación de equipos. Central si puede 
+prestar SC de CT por consigna fija o por factor de potencia. 
+AustrianSolar Chile 
+Seis SpA 
+PFV La Huella 
+2026001839 
+La PFV la Huella no puede prestar servicio complementario por control dinámico de tensión, esto 
+debido a falta de validación del fabricante e implementación de equipos. Central si puede prestar 
+SC de CT por consigna fija o por factor de potencia. 
+Chungungo S.A. 
+PFV 
+Quilapilún 
+2026001527 
+Central no puede prestar servicio complementario por control dinámico de tensión debido a falta 
+de validación del fabricante de los inversores. Central si puede prestar servicio complementario 
+de CT por consigna figa o por factor de potencia. 
+Cóndor Energía SpA 
+PE Alena  
+2026001895 
+PE Alena no puede prestar servicio de control dinámico de tensión. Causa en investigación. 
+COPEC Renovables 
+SpA 
+PFV Granja 
+Solar 
+2026001555 
+El PPC de Granja Solar está tomando como referencia de control el lado de baja del transformador 
+lo cual impide realizar control dinámico de tensión en S/E Lagunas. Solo puede prestar SSCC de 
+Control de Tensión mediante variación de MVAR. Se revisará situación para corregir lo que 
+aplique 
+Fotovoltaica Norte 
+Grande 5 SpA 
+PFV Uribe 
+Solar 
+2026001544 
+Parque no puede prestar servicio complementario de control dinámico de tensión debido a que 
+PPC no tiene habilitada dicha opción. 
+Parque Solar 
+Fotovoltaico Sol del 
+Desierto SpA 
+PFV Sol del 
+Desierto 
+2026001528 
+Central no puede prestar servicio complementario por control dinámico de tensión debido a falta 
+de validación del fabricante de los inversores. Central si puede prestar servicio complementario 
+de CT por consigna figa o por factor de potencia. 
+Planta Solar San 
+Pedro III SpA 
+PFV Jama 
+2026001842 
+PFV Jama Solar 2 no puede prestar servicio de control dinámico de tensión debido a que no se 
+cuenta con la función. Causa en investigación. 
+WPD Duqueco SpA 
+PE Lomas de 
+Duqueco 
+2026001531 
+PE Duqueco no puede prestar servicio complementario por control dinámico de tensión, esto 
+debido a que falta revisar con el proveedor los valores seteados actualmente en el PPC de 
+absorción/inyección de potencia reactiva. PE si puede prestar servicio complementario de CT por 
+consigna figa o por factor de potencia. 
+WPD Negrete SpA 
+PE Negrete 
+2026001529 
+PE Negrete no puede prestar servicio complementario por control dinámico de tensión, esto 
+debido a que falta revisar con el proveedor los valores seteados actualmente en el PPC de 
+absorción/inyección de potencia reactiva. PE si puede prestar servicio complementario de CT por 
+consigna figa o por factor de potencia. 
+ 

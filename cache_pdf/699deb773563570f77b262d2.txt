@@ -1,0 +1,104 @@
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+Carta ENLI-44-26 
+Santiago, 24 de febrero de 2026 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en atención a lo solicitado mediante carta de Ref.: [2], mediante la cual se 
+reitera la instrucción efectuada a través de la carta de Ref.: [1] donde se requiere a las Empresas 
+Coordinadas migrar sus servicios de PRMTE, WAMS, SLRP y SITR, desde el Data Center ubicado en 
+Avenida Apoquindo N°7071, comuna de Las Condes, perteneciente a la empresa Telefónica, al Data 
+Center del Coordinador, ubicado en Parque Isidora Sur N°1061, comuna de Pudahuel, vengo en informar 
+el estado de avance del proceso de migración de nuestros servicios. 
+ 
+1. Estado de avance de la migración de los servicios. 
+ 
+- 
+Respecto del SLRP: Como es de su conocimiento, nuestra central actualmente no cuenta con 
+protecciones aplicables a la integración con este sistema, por lo cual no existe la necesidad de migrar 
+tal servicio. 
+ 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref: Responde carta DE 00851-26 Informando 
+estado del traslado de servicios de Data Center de 
+Telefónica al Data Center del Coordinador. 
+[1] DE03539-25, de 17 de junio de 2025, informa el 
+proceso de traslado de los servicios PRMTE, WAMS, 
+SLRP y SITR. 
+[2] DE 00851-26, de 11 de febrero de 2026, Traslado 
+de servicios de Data Center de Telefónica al Data 
+Center del Coordinador. 
+[3] Carta ENLI-43-26 (DE01362-26), de 13 de febrero 
+de 2026, Responde carta DE00900-26 Cumplimiento 
+de los planes de implementación de PMU del 
+Módulo de Medición Fasorial del SEN y solicita lo 
+que indica. 
+[4] Carta EN-CO-TI-7, de 19 de febrero de 2026, de 
+EnorChile. 
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+- 
+Respecto de la WAMS: Actualmente nuestra central no tiene PMU instalada, pero está en proceso 
+de implementarla conforme al programa de trabajo actualizado que se le comunicó mediante carta 
+de Ref.: [3], y conforme a lo solicitado en aquella oportunidad, esperamos que dicho equipo 
+establezca un enlace de comunicaciones directo al PDC Corporativo del Data Center ENEA. 
+ 
+Respecto de nuestros servicios de PRMTE y SITR y su migración al Data Center del Coordinador, cabe 
+hacer presente que ellos operan a través del Centro de Control de EnorChile, por lo que ha sido dicha 
+empresa quien ha llevado adelante las gestiones para migrarlos. 
+ 
+En este contexto y conforme a lo informado por EnorChile mediante su carta de Ref.: [4], el estado de 
+las gestiones es el siguiente: 
+ 
+- 
+Respecto del SITR: Con fecha 17 de febrero de 2026 se recibió la confirmación de migración exitosa 
+de sistemas DNP3 e ICCP de EnorChile, quedando regularizada la migración SITR de todas las 
+instalaciones reportadas por estos medios. 
+ 
+- 
+Respecto de la PRMTE: Debido al alto número de medidores que se conectan a este sistema por 
+medio de los canales de EnorChile, ha requerido un extenso tiempo de configuración, tanto en reglas 
+de acceso como en configuraciones de NAT para poder tenerlo listo, por lo cual aún se encuentran 
+trabajando para materializar la migración de este servicio. 
+ 
+2.- Compromiso de Finalización 
+ 
+Es importante destacar que Enlight Investments mantiene una supervisión activa sobre estos procesos 
+desarrollados por EnorChile para asegurar el oportuno cumplimiento de las instrucciones del 
+Coordinador, y estimamos que, de no mediar inconvenientes técnicos, las gestiones de traslado se 
+encontrarán totalmente concluidas en el corto plazo, permitiendo la operación definitiva bajo el nuevo 
+esquema de conectividad en Enea. 
+ 
+ 
+Sin otro particular, lo saluda atentamente, 
+ 
+ 
+ 
+ 
+Mauricio Ortuondo 
+Encargado Suplente 
+Enlight Investments 
+ 
+ 
+ 

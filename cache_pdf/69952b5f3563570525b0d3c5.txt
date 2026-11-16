@@ -1,0 +1,141 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 17 de febrero de 2026 
+DE 01124-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 027 al 029 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 027-2026 al EAF 029-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC > 2026 > Enero > Cálculo por EAF: 
+ 
+1. EAF 027-2026 
+2. EAF 028-2026 
+3. EAF 029-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el viernes 20 de febrero 
+de 2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Cabe mencionar que las interrupciones asociadas a los EAF 028 y 029 no presentaron 
+afectación a Puntos de Control.  
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. María José Reveco – Encargado Titular Transelec S.A. 
+Sr. Tomás Pablo Reyes Vidal – Encargado Titular Distribuidora de Energia Eléctrica Mataquito S.A. 
+Sr. Rodrigo Barrueto Díaz – Encargado Titular Compañía Minera del Pacífico S.A. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Empresa Eléctrica de la Frontera S.A. 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+Sr. Víctor Gutiérrez González – Encargado Titular Compañía General de Electricidad S.A. 
+DBCD/DTE-SSCC/SGASO 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras 
+ 
+EAF (*) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 027-2026 
+20-01-2026 
+Distribuidora de 
+Energia Electrica 
+Mataquito S.A. 
+S/E Castilla 
+NO 
+- 
+No envía la información sobre los consumos afectados 
+en la S/E Castilla. 
+Enviar antecedentes solicitados. 
+EAF 028-2026 
+20-01-2026 
+Empresa Eléctrica 
+de la Frontera S.A. 
+S/E Victoria 
+SI 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido ni adjunta al Informe de Falla de 5 días. No 
+obstante, respecto del contenido recibido no se 
+formulan observaciones de calidad y/o formato, por lo 
+que se incorpora íntegramente al cálculo. 
+(*) En el EAF N° 029 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+ 

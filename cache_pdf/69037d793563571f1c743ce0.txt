@@ -1,0 +1,75 @@
+ 
+Teatinos N°280, Piso 11, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+ 
+       
+                                                                                          Santiago, 30 de octubre de 2025 
+                                                                                                                        DE 06939-25 
+ 
+Señor 
+Encargado Titular 
+Empresas Coordinadas 
+(según lista de distribución) 
+Presente 
+ 
+ 
+Ref.: Implementación 
+y 
+verificación 
+del 
+Esquema de Desconexión Automática 
+de Carga (EDAC) por Baja Frecuencia 
+(BF). 
+[1] Carta DE03371-25 del Coordinador 
+de fecha 05 de junio de 2025. 
+ 
+ 
+De mi consideración: 
+Me refiero a la carta de la Ref. [1], mediante la cual le solicité el plan de trabajo y cronograma 
+que llevaría a cabo para cumplir con la implementación de su esquema EDAC BF propuesto 
+y que fue aprobado por este Coordinador.  
+Al respecto, considerando que ya se ha cumplido el plazo de implementación informado por 
+su representada en respuesta a la carta de la Ref. [1], solicito a usted el envío, a más tardar 
+el 12 de noviembre de 2025, del respectivo informe de pruebas de verificación, confirmación 
+de la implementación de las señales análogas y digitales en sus registros oscilográficos 
+comtrade e información del estado de implementación del envío de señales SITR 
+requeridas para el EDAC BF; todo lo anterior, de acuerdo con lo establecido en la Guía de 
+Verificación de Servicios Complementarios Esquemas de Desconexión de Carga EDAC 
+Subfrecuencia, disponible en nuestra página web: 
+https://www.coordinador.cl/operacion/documentos/proceso-de-verificacion-de-
+instalaciones/instructivos-tecnicos-de-verificacion/version-definitiva-instructivos-tecnicos-
+de-verificacion/instructivos-tecnicos/  
+Finalmente, para efectos del envío de lo solicitado y en caso de consultas, agradeceré 
+dirigirlas directamente a la dirección edac@coordinador.cl y dmap@coordinador.cl . 
+ 
+ 
+ 
+
+ 
+Teatinos N°280, Piso 11, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GO/SGASO/DMAP/DEE/DCO 
+c.c.: Srs. Encargados Suplentes según Lista de Distribución 
+Archivo DE 
+ 
+ 
+ 
+Lista de Distribución: 
+ 
+Minera Meridian Ltda. 
+Proyectos Eléctricos y de Construcción INSTA&PRO SpA 
+ 

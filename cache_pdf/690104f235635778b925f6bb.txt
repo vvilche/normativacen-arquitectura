@@ -1,0 +1,129 @@
+ 
+Santiago, 27 de octubre de 2025 
+OP 291-25 
+ 
+ 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+MATERIA: 
+RESPUESTA CARTA DE 06506-25 “DESCONEXIÓN CENTRAL SAN 
+ISIDRO II DURANTE EL EVENTO DEL 25 DE FEBRERO DE 2025” 
+ 
+REF [1]: 
+CARTA 
+OP 
+135-25 
+(INGRESO 
+DE 
+05120-25) 
+COMPLEMENTA 
+INFORMACIÓN SOBRE DESCONEXIÓN DE LAS CENTRALES SAN 
+ISIDRO I Y II DURANTE EL EVENTO DE 25 DE FEBRERO DE 2025 
+REF [2]: 
+CARTA CD 00214-25 RESPONDE A OFICIO ORDINARIO ELECTRÓNICO 
+N°300273 
+DE 
+LA 
+SUPERINTENDENCIA 
+DE 
+ELECTRICIDAD 
+Y 
+COMBUSTIBLES, DE FECHA 10 DE OCTUBRE DE 2025. CASO TIMES 
+2303641. 
+De nuestra consideración: 
+En relación con su carta DE 06506-25 adjuntamos el Informe Técnico solicitado respecto 
+de la operación automática de desconexión de la Central San Isidro II durante el evento del 
+25 de febrero de 2025.  
+Este Informe tiene como objetivo entregar al Coordinador Eléctrico Nacional los 
+antecedentes necesarios y suficientes que permitan evaluar el comportamiento del sistema 
+de control de la Unidad TG2. 
+La desconexión de la Unidad TG se debió a la activación selectiva de la función de 
+protección de baja presión de aceite de control, activada por una alta demanda que 
+experimentó el Sistema de Control. Esta situación fue generada por las considerables 
+desviaciones en la potencia de salida de la Unidad respecto de su consigna, provocadas 
+éstas por una elevada tasa de cambio de frecuencia eléctrica (RoCoF) durante los primeros 
+segundos del evento en el Sistema Eléctrico Nacional (SEN) combinada con la inercia 
+propia de la máquina. 
+En este contexto, el regulador de velocidad (GOV) de la Unidad, configurado en modo de 
+control de carga (LSCSO) según la última instrucción recibida desde el Centro de 
+Despacho y Control (CDC), respondió ajustando la referencia de combustible para corregir 
+las desviaciones registradas en la potencia activa.  
+Es importante destacar que el aumento abrupto de potencia no fue causado por el Sistema 
+de Control, sino por la perturbación en el Sistema Eléctrico Nacional, expresada en la tasa 
+de cambio de su frecuencia eléctrica, junto con la inercia propia de la máquina, 
+comportamiento consistente con el modo de operación de la Unidad al momento del evento 
+y las características dinámicas de estos reguladores. 
+Por otro parte, respecto de las protecciones eléctricas de la Unidad, equipos ABB REG670, 
+se confirma que ninguna de sus funciones habilitadas operó durante el evento. Estas 
+protecciones actuaron correctamente al recibir el trip externo recibido desde el Sistema de 
+Control, replicándolo hacia los interruptores de potencia, siendo un comportamiento 
+esperado y conforme a su diseño. 
+
+Con el objetivo de esclarecer el comportamiento la Unidad TG2 de la Centra San Isidro II 
+durante el evento del 25 de febrero de 2025, mi representada encomendó a dos consultoras 
+internacionales la realización de análisis independientes: 
+1. Un informe con foco en el comportamiento de las protecciones eléctricas y de los 
+sistemas de control de la Unidad, de velocidad (GOV) y de tensión (AVR); y 
+2. Un segundo informe, centrado en el sistema de control mecánico de la Unidad 
+denominado “Control Oil System”.  
+Ambos documentos, adjuntos a esta comunicación, concluyen que el comportamiento de 
+la Unidad TG2 de la Central San Isidro fue el adecuado, considerando las condiciones 
+impuestas por la perturbación en el SEN y las capacidades de diseño de los equipos. 
+Adicionalmente, en atención a la comunicación enviada por el Coordinador Eléctrico a la 
+Superintendencia de Electricidad y Combustibles de la Ref. [2], en la cual se indica que mi 
+representada habría remitido información incompleta, deseamos manifestar nuestro 
+rechazo a dicha afirmación. 
+Mi representada cumplió oportunamente con la entrega de toda la información solicitada, 
+dentro de los plazos establecidos por la normativa vigente, lo cual se evidencia en el envío 
+de los Informes de Falla de cinco días (IF), que incluyen el detalle de la operación de las 
+protecciones eléctricas que, en última instancia, produjeron la desconexión de la Unidad. 
+Posteriormente, y en iteraciones adicionales con el Coordinador, se nos solicitó información 
+complementaria relacionada con un análisis más detallado de la causa de la desconexión. 
+Estos análisis requirieron trabajos en terreno y recopilación de datos adicionales, motivo 
+por el cual, en la comunicación referida por el Coordinador, es que señalamos que “la causa 
+de la desconexión de la TG de la Unidad continúa bajo estudio.” 
+Pues bien, en el desarrollo de estos análisis complementarios, mi representada remitió 
+nueva información técnica, la cual, en nuestra opinión, permitía concluir que la causa de la 
+desconexión automática de la Unidad TG2 de la Central San Isidro II no tuvo relación con 
+la operación de protección de baja frecuencia, sino que ésta se originó por una alta 
+demanda sobre el Sistema de Control ante las fluctuaciones de potencia que experimentó 
+la Unidad durante la perturbación en el SEN, constituyendo evidencia suficiente para 
+sustentar dicha conclusión. 
+Por otra parte, consideramos pertinente aclarar que el Sistema de Control de aceite se 
+encontraba disponible con todos sus componentes habilitados, sin restricciones y que su 
+bomba de respaldo entró en operación correctamente a la presión configurada, tal como 
+se detalla en el numeral 3 del Informe Técnico adjunto. 
+Con el propósito de garantizar la máxima transparencia técnica, mi representada contrató 
+los estudios antes mencionados, cuyos resultados adjuntos a la presente, confirman que 
+la causa de la operación fue acorde a lo esperado para este tipo de tecnologías y que los 
+equipos respondieron conforme a su diseño. 
+En conclusión, los antecedentes técnicos proporcionados demuestran que la unidad TG2 
+actuó de manera adecuada frente a la perturbación en el SEN, protegiendo la integridad 
+de los equipos mediante la desconexión automática, en línea con las capacidades de 
+diseño y los estándares operativos de la Central San Isidro II. 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación,  
+Le saluda atentamente, 
+ 
+ 
+ 
+ 
+Adrián Guzmán M 
+Encargado (S)  CEN 
+ENEL GENERACIÓN CHILE S.A. 
+
+ANEXOS 
+ 
+- 
+Informe Tecnatom: INFORME FINALCOMPORTAMIENTO TG SAN ISIDRO II EN 
+CERO 25 FEBRERO 
+- 
+Informe Estudios Eléctricos: EE-EN-2025-1868-RB_Analisis_Protecciones_TG_ 
+San_Isidro_2_versión_definitiva 
+- 
+Informe Enel Generación: 25022025 Informe Técnico Aceite control CSI2TG_V4 

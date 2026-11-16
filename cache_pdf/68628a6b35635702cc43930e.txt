@@ -1,0 +1,70 @@
+ 
+ 
+Cerro El Plomo 6000, piso 14
+Las Condes
+Santiago, Región Metropolitana 7560623
+Chile
+T +56 2 2579 5990
+F +56 2 2202 6328
+bhp.com
+ 
+ 
+ 
+ 
+27 de junio de 2025 
+CMCC-250627-0003 
+ 
+ 
+ 
+Sra. Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+ 
+Ref: Carta DE03748-25 del 19 de junio de 2025  
+ 
+ 
+ 
+De nuestra consideración, 
+En atención a las observaciones emitidas por ese organismo respecto a la instalación Cerro Colorado en el 
+marco del análisis EDAC EAF 089-2025.  
+Observaciones a Indicadores Desempeño Servicios Complementarios EDAC – febrero 2025  
+ 1. Envío de información técnica:  
+En relación con lo indicado en el comentario del informe —“No presenta archivo COMTRADE” y 
+“Antecedentes insuficientes (Incorrecta)” como calificación del monto de desconexión—, confirmamos que la 
+información oscilográfica correspondiente fue enviada. Esta incluyó los archivos COMTRADE asociados al 
+evento del 25 de febrero de 2025, los cuales fueron remitidos al despacho de On Group y cargados en 
+Neomante el 28 de febrero de 2025.  
+Adicionalmente, se compartió la planilla Informe de Falla Preliminar CERRO COLORADO 25 FEBRERO 2025, 
+que contiene el detalle técnico del evento y los antecedentes disponibles para su evaluación. Este registro fue 
+cargado también en Neomante el día 28 de febrero de 2025, en archivo subido “IF (1).zip”. 
+2. Condición operativa de Cerro Colorado:  
+La instalación Cerro Colorado se encuentra actualmente en un proceso de preservación. Tal como fue 
+informado al Coordinador mediante la carta DE02342-23, desde enero de 2024 se han paralizado las 
+actividades extractivas y de procesamiento de mineral, por un período de al menos cinco años. 
+En este contexto, la ausencia de señales de potencia en los registros COMTRADE y la imposibilidad de 
+asociarlos a escalones o alimentadores específicos se explican por la condición de no operación de la 
+instalación, lo cual afecta directamente la respuesta esperada del esquema EDAC.  
+ 
+
+ 
+ 
+Esperamos que esta información permita aclarar las observaciones planteadas. Quedamos atentos a 
+cualquier requerimiento adicional.  
+Sin otro particular se despide atentamente, 
+ 
+ 
+ 
+ 
+Felipe Toledo M.  
+Encargado Suplente 
+Compañía Minera Cerro Colorado - BHP 
+Digitally signed by Toledo, Felipe
+DN: cn=Toledo, Felipe, o=BHP 
+Billiton Group Operations Pty Ltd, 
+ou=MULTI-ALLOWED
+Date: 2025.06.27 15:39:29 -04'00'
+Toledo, 
+Felipe

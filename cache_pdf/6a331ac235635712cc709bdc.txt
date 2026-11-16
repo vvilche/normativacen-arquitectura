@@ -1,0 +1,605 @@
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Santiago, 17 de junio de 2026 
+OP 089-26 
+ 
+Sr. 
+Patricio Valenzuela V. 
+Subgerenta de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA 
+CARTA 
+DE03776-26: 
+DESEMPEÑO 
+DEFICIENTE 
+EN 
+LA 
+PRESTACIÓN DE LOS SERVICIOS COMPLEMENTARIOS DE CONTROL 
+PRIMARIO DE FRECUENCIA, CONTROL TERCIARIO DE FRECUENCIA Y 
+CONTROL DE TENSIÓN DE LAS UNIDADES GENERADORAS EN ABRIL DE 
+2026. 
+ 
+De nuestra consideración, 
+ 
+Me refiero a la comunicación DE03776-26 en la que de acuerdo con la información 
+analizada por el Coordinador, se informa que parques y unidades de generación de mi 
+representada han presentado un desempeño de bajo estándar normativo en la prestación 
+de los SSCC de CPF, CTF- y CT manual. Adicionalmente, se solicita el envío de 
+antecedentes para detallar el comportamiento descrito, en específico se solicita lo siguiente: 
+a) Informe técnico que dé cuenta de la causa raíz que origina el desempeño no 
+satisfactorio de la prestación de los SSCC de CPF, CTF y CT, según corresponda. 
+Dicho informe deberá contar al menos con el diagnóstico y la descripción del 
+problema presentado, adjuntando los antecedentes de respaldo y el análisis de 
+variables operacionales que sustenten el motivo del bajo desempeño.  
+b) Indicar las acciones correctivas que ha implementado o implementará con el fin de 
+mejorar el desempeño de sus unidades.  
+c) En el caso de requerir tomar acciones correctivas, deberá enviar un plan de trabajo 
+indicando claramente las actividades a realizar y los plazos en que estas se llevarán 
+a cabo, especificando el impacto esperado de cada acción en el desempeño de las 
+instalaciones.  
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Las instalaciones de mi representada incluidas en la comunicación DE03776-26 son las 
+siguientes: 
+• 
+Unidades generadoras con mal desempeño en CPF durante el mes de abril de 2026. 
+ 
+ 
+ 
+• 
+Unidades generadoras con mal desempeño en CTF durante el mes de abril de 2026. 
+ 
+ 
+• 
+Unidades generadoras con mal desempeño en CT durante el mes de abril de 2026. 
+ 
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Al respecto, en los casos de desempeño deficiente descritos en la comunicación DE03776-
+26 y en su respectivo anexo, no se detalla la hora ni el periodo de no cumplimiento o bajo 
+desempeño, y tampoco se indican los criterios para calificar esos comportamientos como 
+deficientes. En consecuencia, solicitamos respetuosamente a usted detallar las condiciones 
+de no cumplimiento en el caso de CT o bajo desempeño en el caso de CTF- para las 
+instalaciones de mi representada contenidas en la comunicación DE03776-26, indicando la 
+fecha y hora de cada evento analizado. Lo anterior, con el objetivo de enfocar los análisis 
+en periodos específicos, lo que permitirá determinar con mayor claridad las condiciones de 
+la prestación de los SSCC indicados y los motivos por los cuales no fue posible prestar 
+dichos SSCC de acuerdo con los requerimientos contenidos en la Normativa, y de ser 
+necesario informar acciones correctivas. 
+ 
+No obstante, podemos indicar lo siguiente respecto de las instalaciones de mi representada 
+ 
+• 
+PE RENAICO: Analizando el documento CTF 2026_04 y tomando como referencia la 
+columna "J" como el valor de Set Point aplicado en la planta PE Renaico I, se 
+observan coincidencias únicamente en los registros de los días 3 y 20 de abril. 
+Por lo anterior, no queda completamente claro si el valor indicado en la tabla 
+corresponde efectivamente a la consigna aplicada por el CEN. Adicionalmente, no es 
+posible realizar una validación cruzada con la energía generada, ya que el archivo 
+CTF 2026_04 no incorpora dicha información, lo que limita la comparación entre los 
+datos disponibles en nuestros servidores y los registros reportados por el CEN. 
+Agradecemos compartir antecedentes adicionales que permitan efectuar un análisis 
+más detallado y emitir una respuesta técnicamente fundamentada. 
+ 
+• 
+HE EL TORO y HE PEHUENCHE: De acuerdo con lo indicado en la comunicación 
+DE03776-26 y su anexo, se informa un no cumplimiento en la prestación del SC de 
+CT. Al respecto se indica que existe un no cumplimiento en 2 de 5 solicitudes 
+realizadas en las unidades de Central El Toro y en 4 de 10 solicitudes realizadas en 
+las unidades de Central Pehuenche. De acuerdo con nuestros registros se 
+encontraron condiciones en las que hay diferencia entre la referencia de tensión y la 
+tensión medida en bornes, sin embargo, para poder determinar la razón del no 
+cumplimiento se requiere por parte del Coordinador un mayor detalle de los días y 
+horas en las que se realizó la instrucción de participación en el SC de CT. Asimismo, 
+en los casos identificados, nos encontramos realizando los análisis respectivos, por 
+lo que respetuosamente solicitamos un plazo adicional de 10 días para identificar la 
+causa raíz de no cumplimiento de las consignas de control de tensión. 
+ 
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+• 
+PE SIERRA GORDA: De acuerdo con lo indicado en la comunicación DE03776-26 y 
+su anexo, se informa un no cumplimiento en la prestación del SC de CT. Al respecto 
+se indica que existe un no cumplimiento en 2 de 5 solicitudes. Sin embargo, de 
+acuerdo con nuestros registros no se encontraron condiciones de no cumplimiento en 
+la aplicación de consignas de potencia reactiva SC de CT, de acuerdo con la potencia 
+producible del parque en cada momento. Agradecemos compartir antecedentes 
+adicionales que permitan efectuar un análisis más detallado y emitir una respuesta 
+técnicamente fundamentada. 
+ 
+Horario 
+central 
+variación Registro 
+WindNetPro 
+(GAMESA) 
+Registro 
+Reportes 
+Falla 
+Comentario 1 Comentario 2 
+2026-
+04-07 
+02:09:00 
+PE 
+SIERRAGORDA -20 
+Sin Eventos 
+en WTG 
+Sin 
+Eventos 
+Rep.Falla 
+Parque 
+sin 
+problemas en 
+Set 
+Point 
+ajustado. 
+Parque 
+sin 
+problemas para 
+cumplir 
+consigna según 
+producible. 
+2026-
+04-09 
+04:27:00 
+PE 
+SIERRAGORDA -10 
+Sin Eventos 
+en WTG 
+Sin 
+Eventos 
+Rep.Falla 
+Parque 
+sin 
+problemas en 
+Set 
+Point 
+ajustado. 
+Parque 
+sin 
+problemas para 
+cumplir 
+consigna según 
+producible. 
+2026-
+04-09 
+16:04:00 
+PE 
+SIERRAGORDA -20 
+Sin Eventos 
+en WTG 
+Sin 
+Eventos 
+Rep.Falla 
+Parque 
+sin 
+problemas en 
+Set 
+Point 
+ajustado. 
+Parque 
+sin 
+problemas para 
+cumplir 
+consigna según 
+producible. 
+2026-
+04-10 
+00:00:00 
+PE 
+SIERRAGORDA -20 
+Sin Eventos 
+en WTG 
+Sin 
+Eventos 
+Rep.Falla 
+Parque 
+sin 
+problemas en 
+Set 
+Point 
+ajustado. 
+Parque 
+sin 
+problemas para 
+cumplir 
+consigna según 
+producible. 
+2026-
+04-11 
+06:37:00 
+PE 
+SIERRAGORDA -12 
+Sin Eventos 
+en WTG 
+Sin 
+Eventos 
+Rep.Falla 
+Parque 
+sin 
+problemas en 
+Set 
+Point 
+ajustado. 
+Parque 
+sin 
+problemas para 
+cumplir 
+consigna según 
+producible. 
+ 
+ 
+• 
+PFV DON HUMBERTO Y BESS DON HUMBERTO: En respuesta al bajo desempeño 
+de la planta PFV + BESS Don Humberto, y en el contexto del seguimiento de la Carta 
+EGP 066-26, se comparte el estado actual de avance del plan de acción previamente 
+definido. Si bien se registraron algunos atrasos, estos se encuentran actualmente 
+controlados. A continuación, se detalla el análisis realizado para el mes de abril, con 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+el objetivo de determinar las causas del desempeño observado, así como la 
+identificación de nuevas acciones para mejorar y mitigar las desviaciones detectadas. 
+Estado del plan de acción precedente: 
+1 
+Corregir las señales enviadas al CEN para el 
+control del desempeño. 
+Cerrado: 
+Se verificaron las señales ICCP: Ok 
+Adicional en curso que se detectó: 
+Se trabaja en el mejoramiento del cambio 
+hot/Std-by en IEC104 proveedores de 
+sistemas SCADA e SITR 
+2 
+Asegurar operatividad y calidad de los 
+sistemas de comunicación del parque. 
+Se instalo sistema de comunicación 
+satelital de baja orbita, para sustituir 
+FFOO. 
+Queda pendiente la prueba de alta 
+confiabilidad: fecha hasta el 30 de junio. 
+3 
+Consolidar las reglas operativas de 
+habilitaciones de los CPF más 
+especificaciones de CPF (+) / CPF (-) y, 
+evaluar la implementación de entrega de 
+consignas automáticas. 
+Especificaciones CPF + y CPF – 
+realizado. 
+  
+Implementación de lógica de consigna 
+automática por el momento postergada 
+hasta poder contar con el último programa 
+de proveedor de SCADA actualizado con 
+las otras modificaciones solicitadas.  
+ 
+On going: 
+Se trabaja en mejora la lógica de 
+operación “saturación” en PPC que no 
+funciona de forma óptima al modo de 
+operación de SSCC. 
+ 
+ 
+ 
+Con respecto al análisis de informe técnico de desempeño de CPF+ del parque PFV y BESS 
+Don Humberto, estos se detallan en el Anexo I de la presente comunicación. 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación, le saluda 
+atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+__________________________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN. 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ANEXO N°1 
+ Informe técnico de desempeño de CPF+ del parque PFV Don Humberto. 
+Análisis de BESS 
+La evaluación se focalizó en el análisis de eventos tipo g4 (no verificables), en los cuales 
+se presentan cambios de consigna de la unidad, tal como se evidencia en los ejemplos 
+registrados. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Se constata que la mayoría de estos eventos ocurre durante la prestación simultánea de 
+los servicios CPF y AGC. 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En los gráficos analizados (por ejemplo, entre las 03:00 y 04:00), se observa un periodo 
+con factor de desempeño de 100%, donde ambos servicios estaban habilitados; sin 
+embargo, se registraron pocos cambios de consigna, seguidos de la deshabilitación del 
+servicio.  
+Se observa que la respuesta teórica y la real (curvas roja y naranja) son coincidentes hasta 
+aproximadamente las 03:35. Posteriormente, un cambio de consigna genera una desviación 
+entre ambas.  
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Caso del 02-04 Respuesta CPF - =0 Error en potencia de reserva. 
+1. 8:00 
+• 
+La planta se encontraba habilitada para CPF-. 
+• 
+El reporte saturn2e a las 08:00a09:00 clasifica como e2- 
+ 
+• 
+El BESS no aportó el recurso comprometido de 5.24MW. Se puede ver el dato 
+extraído en GEMS donde la planta tiene una saturación en -1MW, es decir no 
+entrega más potencia. 
+• 
+Esta causa puede ser por configuración del valor o disponibilidad de energía. En el 
+grafico se muestra que hubo un cambio a 1MW en la potencia de reserva. 
+• 
+Se debe evaluar automatizar la potencia de reserva para evitar errores de operación. 
+ 
+ 
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 1h50 
+• 
+La planta se encontraba habilitada para CPF- y el aporte de 5,04 MW está bajo en 
+200 kW a lo comprometido. 
+• 
+Cuando el aporte a los 10 segundos es inferior al comprometido, se categoriza como 
+“No realiza CPF” 
+saturación 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+Conclusión análisis BESS:  
+ 
+Se identifican problemas de desempeño asociados a:  
+ 
+• 
+Prestación simultánea de servicios (eventos g4).  
+• 
+Eventos e2+/e2-:  
+No alcanza la respuesta esperada ante variaciones de frecuencia mayores 
+a ±0,2 Hz. 
+• 
+Penalización por desviaciones mínimas (ej.: 200 kW).  
+• 
+Errores en la configuración de la potencia de reserva comprometida.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+Análisis de Solar: 
+Se presentan ejemplos del 1 de abril correspondientes a eventos de categoría f2.  
+A las 09:00 se observa que el error se debe a la no consideración de la consigna (setpoint). 
+El gráfico interno superior derecho del día no incorpora correctamente este valor, mientras 
+que al considerarlo, se valida el correcto desempeño de la planta.  
+En la misma jornada, en la hora siguiente, se evidencia una evaluación de desempeño en 
+CPF+ y CPF-, a pesar de que únicamente CPF(-) estaba activado, lo que sugiere 
+nuevamente una falta de consideración del setpoint.  
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+Caso 02-04  
+Se evidencia que la evaluación errónea del desempeño responde a una interacción entre 
+BESS y Solar. Al habilitar la potencia de reserva mediante AGC del BESS, se genera una 
+variación de potencia asociada a la lógica de control de seguridad para la gestión de 
+capacidad de línea. 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+ 
+Caso 18-04  
+Se observa interferencia de la operación del BESS sobre el Solar, modificando la referencia 
+de setpoint. Durante cambios de carga del BESS, la consigna de referencia del sistema 
+solar deja de ser operativa para efectos de la evaluación de desempeño. 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Resumen: 
+A partir del análisis del BESS (realizado previamente con plan de acción definido) y del 
+análisis del sistema Solar, se concluye que ambos sistemas deben ser evaluados de 
+manera conjunta.  
+Asimismo, la operación debe ser cuidadosamente analizada antes de habilitar 
+simultáneamente servicios en ambas tecnologías. 
+Plan de acción: 
+ 
+• 
+Realizar un análisis integral de la operación conjunta BESS + Solar, incorporando:  
+o Control de potencia integrado  
+o Setpoints de cada PPC  
+o Gestión de capacidad de línea  
+o Impacto en la prestación de CPF y AGC  
+o Fecha objetivo: 26 de junio  
+ 
+• 
+Ejecutar pruebas integradas bajo distintos escenarios operativos BESS + Solar  
+• 
+Planificación: última semana de junio. 
+Ejecución: inicio de julio. 
+ 

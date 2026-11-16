@@ -1,0 +1,99 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+                                                                                        Santiago, 05 de junio de 2025 
+                                                                                                        DE 03371-25 
+Señor 
+Encargado Titular 
+Empresas Coordinadas 
+(según lista de distribución) 
+Presente 
+ 
+Ref.:  Implementación y verificación de la 
+adecuación 
+del 
+Esquema 
+de 
+Desconexión Automática de Carga 
+(EDAC) por Baja Frecuencia (BF). 
+[1] Carta DE02698-21 del Coordinador 
+de fecha 23 de junio de 2021.  
+[2] Carta DE04404-21 del Coordinador 
+de fecha 03 de septiembre de 2021. 
+ 
+De mi consideración: 
+Me refiero al Servicio Complementario de Control de Contingencias, en particular, a 
+la implementación del EDAC por Baja Frecuencia, cuya adecuación se instruyó 
+mediante cartas de la Ref. [1] y [2]. Al respecto, considerando que su representada 
+envió una propuesta de adecuación, la cual ya fue evaluada y aprobada por este 
+Coordinador, le solicito cumplir con el proceso de implementación y verificación del 
+EDAC BF aprobado, a más tardar el 29 de agosto de 2025. 
+Cabe señalar que, conforme a lo establecido en la Guía Técnica de Verificación de 
+EDAC, 
+disponible 
+en 
+nuestro 
+sitio 
+web 
+(https://www.coordinador.cl/wp-
+content/uploads/2020/06/2020.06.01-Guia-de-Verificaci%C3%B3n-EDAC.pdf),  
+corresponde a su representada ejecutar las actividades necesarias para verificar la 
+adecuación implementada, asegurando su correcto funcionamiento conforme a los 
+requerimientos normativos y técnicos vigentes. Lo anterior, incluye el envío de las 
+señales SITR indicadas en la Guía, las cuales son fundamentales para el monitoreo 
+en tiempo real del recurso de desconexión de carga disponible en el EDAC BF y 
+que permiten preservar la seguridad de operación del SEN en caso de requerir su 
+actuación. 
+Para estos efectos, solicito el envío a más tardar el próximo 20 de junio de 2025 
+del plan de trabajo y cronograma que llevará a cabo para cumplir con la 
+implementación y verificación del EDAC BF en el plazo solicitado, esto es el 29 de 
+agosto. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Finalmente, se hace presente la obligación legal que asiste a toda empresa 
+coordinada de proporcionar oportunamente al Coordinador toda la información que 
+éste requiera para el cumplimiento de sus funciones, y que la omisión de esta 
+obligación podrá ser sancionado por la Superintendencia de Electricidad y 
+Combustibles, conforme lo señalado en el Artículo 72-2 de la Ley General de 
+Servicios Eléctricos. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                      
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GO/SGASO/DMAP/DEE/DCO 
+c.c.: Sres. Encargados Suplentes según Lista de Distribución 
+Archivo DE 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Lista de Distribución: 
+ 
+Aguas Antofagasta S.A. 
+Minera Los Pelambres 
+Compañía Minera Teck Quebrada Blanca S.A. 
+Minera Centinela 
+Compañía Minera del Pacífico S.A. 
+Compañía Contractual Minera Candelaria 
+Compañía Minera Lomas Bayas 
+Sociedad Química y Minera de Chile S.A. 
+Papelera Dos S.A. 
+Cristalerías de Chile S.A. 
+Minera Meridian Ltda. 
+Fundición Talleres Ltda. 
+Enaex S.A. 
+Proyectos Eléctricos y de Construcción INSTA&PRO SpA 

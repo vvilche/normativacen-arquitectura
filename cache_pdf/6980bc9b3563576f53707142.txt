@@ -1,0 +1,275 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 02 de febrero de 2026 
+ 
+    
+DE 00733-26 
+ 
+Señores  
+Encargados  
+Empresas Coordinadas  
+Presente 
+Ref.: Acepta Parámetros de Partida y 
+Detención del Sistema de Almacenamiento 
+de Energía BESS Tocopilla. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación 
+de Parámetros de Partida y Detención de Unidades Generadoras” de la Norma 
+Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte del 
+Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención del Sistema de 
+Almacenamiento de Energía BESS Tocopilla, en conformidad con el Informe Técnico 
+recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+mencionado, publicado en la página web del Coordinador mediante la comunicación de la 
+Ref. [2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+en asunto. 
+ 
+Conforme a lo anterior, los valores de los Parámetros de Partida y Detención del Sistema 
+de Almacenamiento de Energía BESS Tocopilla se presentan en las tablas contenidas en 
+el Anexo de la presente carta. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del 4 de febrero de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra disponible en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Parámetros de Partida y Detención > Informes de Determinación 
+de Parámetros de Partida y Detención > BESS Tocopilla > 2026 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+GZV/CRV/PPF/PCG/adr 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Referencias 
+ 
+ 
+[1] Carta N°374/2025 del coordinado Engie Energía Chile S.A., Ref.: “Envía actualización 
+de informe de Potencia Máxima del Proyecto NUP 4832 BESS Tocopilla”, de fecha 23 de 
+diciembre de 2025. Ingreso DE12544-25. 
+ 
+[2] Carta DE00137-26, Ref.: “Informes Técnicos de Parámetros Operacionales de la Central 
+BESS Tocopilla”, de fecha 8 de enero de 2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Parámetros del proceso de partida y detención del Sistema de 
+Almacenamiento de Energía BESS Tocopilla 
+ 
+Tabla 1. Parámetros del proceso de partida en modo carga del Sistema de Almacenamiento de 
+Energía BESS Tocopilla (1) 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – 
+Sincronización 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización – 
+Mínimo Técnico 
+Consumo SSAA [MWh] 
+0,0000 
+0,0058 
+Tiempo [minutos] 
+0,9094 
+1,6667 
+Mínimo Técnico – 
+Potencia Nominal 
+Consumo SSAA [MWh] 
+0,0000 
+0,0173 
+Tiempo [minutos] 
+0,0006 
+4,9500 
+(1) Los valores de potencia máxima y mínima neta del Sistema de Almacenamiento de Energía 
+BESS Tocopilla son de 116,6820 MW y 2,5000 MW respectivamente en modo carga y 
+116,6090 MW y 1,000 MW en modo descarga. 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención en modo carga del Sistema de Almacenamiento de 
+Energía BESS Tocopilla 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia Nominal – 
+Mínimo Técnico  
+Consumo SSAA [MWh] 
+0,0000 
+0,0173 
+Tiempo [minutos] 
+0,0062 
+4,9500 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA [MWh] 
+0,0000 
+0,0038 
+Tiempo [minutos] 
+0,0023 
+1,0833 
+Desconexión – 
+Detención 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+Nota: El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo en Estado Detenido 
+(TMD) son 0 [min]. 
+ 
+Tabla 3. Parámetros del proceso de partida en modo descarga del Sistema de Almacenamiento de 
+Energía BESS Tocopilla (1) 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – 
+Sincronización 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización – 
+Mínimo Técnico 
+Consumo SSAA [MWh] 
+0,0000 
+0,0058 
+Tiempo [minutos] 
+0,9094 
+1,6667 
+Mínimo Técnico – 
+Potencia Nominal 
+Consumo SSAA [MWh] 
+0,0000 
+0,0173 
+Tiempo [minutos] 
+0,0006 
+4,9500 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+(1) Los valores de potencia máxima y mínima neta del Sistema de Almacenamiento de Energía 
+BESS Tocopilla son de 116,6820 MW y 2,5000 MW respectivamente en modo carga y 
+116,6090 MW y 1,000 MW en modo descarga. 
+ 
+Tabla 4. Parámetros del proceso de detención en modo descarga del Sistema de Almacenamiento 
+de Energía BESS Tocopilla 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia Nominal – 
+Mínimo Técnico  
+Consumo SSAA [MWh] 
+0,0000 
+0,0173 
+Tiempo [minutos] 
+0,0062 
+4,9500 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA [MWh] 
+0,0000 
+0,0021 
+Tiempo [minutos] 
+0,0023 
+0,6078 
+Desconexión – 
+Detención 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

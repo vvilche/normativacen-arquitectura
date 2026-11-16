@@ -1,0 +1,106 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 27 de febrero de 2026 
+DE 01351-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de Parámetro de Mínimo Técnico 
+de la Central PFV Desierto de Atacama. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. La aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PFV Desierto de Atacama, en conformidad 
+con el informe técnico recibido mediante la comunicación de la Ref. [1] 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+técnico publicado en la página web del Coordinador mediante carta de la Ref. [2]. Por su 
+parte, el Coordinador envió observaciones de carácter técnico mediante comunicación de 
+la Ref. [3], las cuales fueron subsanadas por el Coordinado Copiapó Solar SpA.  
+ 
+Conforme con lo anterior, los parámetros de mínimo técnico de la central PFV Desierto de 
+Atacama, se presentan en la siguiente tabla: 
+ 
+Tabla 1: Mínimo Técnico de la Central PFV Desierto de Atacama 
+Central/Unidad 
+Mínimo 
+Técnico (1) 
+[MW] 
+SS. AA. (2) 
+[MW] 
+Pérdidas en 
+la central (3) 
+[MW] 
+Potencia Mínima 
+Neta (4) 
+[MW] 
+PFV Desierto de Atacama 
+1,1280 
+0,2689 
+0,4171 
+0,4420 
+(1) Considera la operación del parque completo. 
+(2) Corresponde a la suma de los SS. AA (comunes a la central) y los consumos propios de todos los 
+centros de transformación en operación. 
+(3) Este valor corresponde a las pérdidas en el transformador de poder de la central (0,2393 MW) y las 
+del sistema colector (0,1778 MW) en condición de mínima inyección. 
+(4) Potencia inyectada en la barra de 220 kV de la S/E Desierto de Atacama. 
+ 
+Al respecto, comunico a Ud., que los parámetros de mínimo técnico de la Central PFV 
+Desierto de Atacama, entrarán en vigencia a partir de las 00:00 horas del día 03 de marzo 
+de 2026 
+ 
+ El Informe Técnico final que contiene la justificación de los parámetros indicados 
+anteriormente y las minutas de observaciones al Informe Técnico, enviadas al Coordinado 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Copiapó Solar SpA, han sido publicados en la siguiente ruta del sitio web del Coordinador 
+Eléctrico Nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Mínimo Técnico > Informes de Mínimos Técnicos Unidades 
+Generadoras > Central PFV Desierto de Atacama > 2026 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/PPF/RSM/adr 
+ 
+ 
+Referencias 
+ 
+[1] Carta COM-1657-25 del Coordinado Copiapó Solar SpA, Ref.: “Responde Carta 
+DE06669-25 Observaciones PPOO Desierto de Atacama”, de fecha 02 de diciembre de 
+2025. Ingreso DE12124-25 
+ 
+[2] Carta DE05184-25, Ref.: [NUP 1143] Informes Técnicos de Parámetros Operacionales 
+de la Central PFV Desierto de Atacama”, de fecha 21 de agosto de 2025. 
+ 
+[3] Carta DE06669-25, Ref.: “Observaciones a los Parámetros Operacionales del PFV 
+Desierto de Atacama”, de fecha 21 de octubre de 2025. 
+ 

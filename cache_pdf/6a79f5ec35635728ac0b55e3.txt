@@ -1,0 +1,253 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 10 de agosto de 2026 
+DE 05304-26 
+ 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 270 al 274 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 270-2026 al EAF 274-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Indisponibilidad > 
+Indicadores NTISyC > 2026 > Julio > Cálculo por EAF: 
+ 
+1. EAF 270-2026 
+2. EAF 271-2026 
+3. EAF 272-2026 
+4. EAF 273-2026 
+5. EAF 274-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el jueves 13 de agosto de 
+2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+SBS/ycl 
+ 
+c.c.:  
+Sr. Victor Gutierrez Gonzalez – Encargado titular CGE Transmisión S.A. 
+Sr. Victor Gutierrez Gonzalez – Encargado titular Compañía General de Electricidad S.A. 
+Sra. María José Reveco – Encargada titular Transelec S.A. 
+Sr. Marelf Andres Reyes Faundez – Encargado titular Minera Antucoya. 
+Sr. Patricio Gutiérrez – Encargado titular Minera Centinela. 
+DBCD/DTE-SSCC/SGASO 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 270-2026 
+10-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Quirihue 
+S/E Hualte 
+Parcial 
+Si 
+El alimentador Indura Cobquecura (S/E Quirihue) tiene 
+hora de normalización equivalente previa a la hora de 
+disponibilidad de la barra. 
+ 
+Se solicita detallar el mecanismo de recuperación 
+de estas cargas para este alimentador donde esto 
+se presente, y con el desglose requerido por la 
+SEC, esto es comunal y por zona de tarificación. 
+ 
+El siguiente cliente libre en distribución no se encuentra 
+en las bases de datos del Coordinador: 
+ 
+- 
+MADERERA RIO ITATA II SA (76778630) BA 
+S/E QUIRIHUE 23KV. 
+ 
+Enviar antecedentes corregidos, indicando para el 
+cliente libre la respectiva clave de balance. 
+EAF 271-2026 
+10-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Chañaral 
+Parcial 
+Si 
+Los siguientes clientes libres en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+- 
+EMPRESA 
+NACIONAL 
+DE 
+MINERIA 
+(61703000) BA S/E CHAÑARAL 13.2KV. 
+- 
+METALNORTE 
+INGENIERIA 
+LIMITADA 
+(77646990) BA S/E CHAÑARAL 13.2KV 
+ 
+Enviar antecedentes corregidos, indicando para 
+cada cliente libre la respectiva clave de balance. 
+EAF 272-2026 
+10-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Chañaral 
+Parcial 
+Si 
+Los siguientes clientes libres en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+- 
+EMPRESA 
+NACIONAL 
+DE 
+MINERIA 
+(61703000) BA S/E CHAÑARAL 13.2KV. 
+- 
+METALNORTE 
+INGENIERIA 
+LIMITADA 
+(77646990) BA S/E CHAÑARAL 13.2KV 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+EAF 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+Enviar antecedentes corregidos, indicando para 
+cada cliente libre la respectiva clave de balance. 
+EAF 274-2026 
+12/07/2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Chañaral 
+Parcial 
+Si 
+Los siguientes clientes libres en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+- 
+EXPORTADORA SERGIO RUIZ TAGLE 
+HUMERES LIMITADA (76005335) BA S/E 
+LOS LOROS 23KV BP1. 
+- 
+PARRONALES 
+TINAMOU 
+AGRICOLA 
+LIMITADA (76528525) BA S/E LOS LOROS 
+23KV BP1. 
+- 
+EXPORTADORA RT SPA (76991442) BA S/E 
+LOS LOROS 23KV BP1. 
+- 
+SOC CONTRACTUAL MINERA CAROLA 
+(79664330) BA S/E LOS LOROS 23KV BP1. 
+- 
+AGRICOLA 
+UNI-AGRI 
+COPIAPO 
+SPA 
+(89258800) BA S/E LOS LOROS 23KV BP1. 
+- 
+SOCIEDAD 
+PUNTA 
+DEL 
+COBRE 
+SA 
+(96561560) BA S/E LOS LOROS 23KV BP1. 
+ 
+Enviar antecedentes corregidos, indicando para 
+cada cliente libre la respectiva clave de balance. 
+(*) El EAF N°273 no tuvo afectación de Empresas Distribuidoras. 

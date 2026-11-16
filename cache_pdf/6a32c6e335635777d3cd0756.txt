@@ -1,0 +1,90 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 16 de junio de 2026 
+OLM 0021-2026 
+ 
+ 
+Señor  
+Patricio Valenzuela V 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional  
+ 
+Ref: Responde DE03776-26 sobre desempeño deficiente en la prestación de Servicios 
+Complementarios. 
+[1] DE03776-26, “Desempeño deficiente en la prestación de los Servicios Complementarios 
+de Control Primario de Frecuencia, Control Terciario de Frecuencia y Control de Tensión 
+de unidades generadoras en abril 2026”, de fecha 4 de junio de 2026. 
+ 
+ 
+De mi consideración, 
+ 
+A continuación, se indica información solicitada por Ud. a través de la comunicación 
+indicada en la Ref. [1]: 
+   
+1. Informe técnico que dé cuenta de la causa raíz que origina el desempeño no 
+satisfactorio de la prestación de los SSCC de CPF, CTF y CT, según corresponda. 
+Dicho informe deberá contar al menos con el diagnóstico y la descripción del 
+problema presentado, adjuntando los antecedentes de respaldo y el análisis de 
+variables operacionales que sustenten el motivo del bajo desempeño.  
+ 
+RESP: A partir de la revisión detallada de los antecedentes operacionales, incluyendo 
+consignas instruidas, señales de control y respuesta de las unidades, se pudo determinar 
+que el desempeño no satisfactorio en la prestación del Control Tensión se originó en una 
+desviación operacional puntual, asociada al ingreso incorrecto de la consigna por parte 
+del Operador de la central. 
+En efecto, dicha consigna fue ingresada de manera errónea debido a una interpretación 
+inadecuada del Informe de Verificación de Servicios Complementarios de PE Los Olmos. 
+Como consecuencia, la respuesta de la unidad no se ajustó a los requerimientos 
+establecidos para la prestación del servicio de Control de Tensión. 
+Cabe mencionar que, durante el proceso de revisión no se identificaron fallas en equipos, 
+sistemas de control ni limitaciones técnicas que afecten la capacidad del parque. 
+Asimismo, el análisis de variables operacionales confirma que, con un ingreso correcto 
+de consignas, el Parque Eólico Los Olmos cuenta con la capacidad técnica para cumplir 
+adecuadamente con la prestación del servicio de Control de Tensión. 
+A partir de lo señalado anteriormente, se concluye que la desviación en el desempeño 
+corresponde a un evento aislado, originado exclusivamente en el ingreso incorrecto de 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+la consigna requerida por este Coordinador, y no en una condición técnica del sistema 
+de control.  
+ 
+2. Informar las acciones correctivas que ha implementado o implementará su 
+representada con el fin de mejorar el desempeño de sus unidades.  
+ 
+RESP: En relación con las acciones correctivas, se ha realizado una revisión de los 
+procedimientos internos, junto con la estandarización de criterios operativos, con el 
+objetivo de minimizar el riesgo de ocurrencia de eventos similares en el futuro. 
+  
+3. En el caso de requerir ejecutar acciones correctivas, su representada deberá 
+enviar un plan de trabajo indicando las actividades a realizar y los plazos en que 
+cada una de ellas se llevará a cabo. 
+ 
+RESP: Las acciones correctivas corresponden a mejoras en los procedimientos internos 
+de mi representada para la aplicación de las instrucciones operativas relacionadas con 
+servicios complementarios, situación que ya fue abordada y corregida internamente. En 
+consecuencia, no resulta necesario establecer planes de trabajo. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+Energía Eólica Los Olmos SpA. 
+ 
+ 

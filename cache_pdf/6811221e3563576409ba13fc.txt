@@ -1,0 +1,476 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Santiago, 28 de abril de 2025  
+OP 102 - 25 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operaciones 
+Coordinador Eléctrico Nacional  
+ 
+ 
+MATERIA: 
+ENVÍO DE INFORMACIÓN EN RESPUESTA A CARTA DE 02345-25. 
+ 
+ 
+REF [1]: 
+APLICACIÓN DEL PLAN DE RECUPERACIÓN DE SERVICIO VIGENTE, DE 
+FECHA 17 DE ABRIL DE 2025, COORDINADOR ELÉCTRICO NACIONAL S.A. 
+(CARTA DE 02345-25). 
+ 
+ 
+ 
+De mi consideración, 
+ 
+ 
+En respuesta a su comunicación enviada en la carta DE 02445-25 relacionada con la 
+aplicación del plan de recuperación de servicio vigente y conforme a lo solicitado, 
+presentamos a continuación los antecedentes requeridos: 
+ 
+1. Identificar cuáles instalaciones son telecomandadas y cuáles requieren maniobras 
+manuales en terreno, detallando esta información en cada uno de los equipos que 
+participan en el PRS:  
+ 
+Centrales Térmicas: 
+ 
+La Central Quintero opera de forma telecomandada desde el Centro de Control (Control 
+Room) de Enel Generación Chile S.A. Los equipos y sistemas involucrados en la aplicación 
+del PRS son operados de manera remota y segura conforme a los procedimientos 
+establecidos por Enel.  
+ 
+Las siguientes Centrales Térmicas operan de forma local y requieren de maniobras en 
+terreno para la aplicación del PRS: 
+  
+• 
+Central San Isidro  
+• 
+Central Atacama  
+• 
+Central Taltal  
+• 
+Central Tarapacá  
+ 
+Centrales Hidráulicas: 
+ 
+Todas nuestras centrales hidráulicas son telecomandadas desde el Control Room en 
+Santiago, sin embargo, en caso de emergencia, pueden ser operadas localmente por el 
+personal en terreno. El personal en terreno se detalla en la pregunta 3. 
+ 
+ 
+
+ 
+2
+2. Número de operadores y personal que se mantienen permanentemente en el 
+Centro de Control (24x7), que coordina las instalaciones de su representada, 
+describiendo el respectivo régimen de turno: 
+ 
+En el Centro de Control de Enel Green Power contamos con la siguiente cantidad de 
+profesionales de manera permanente e ininterrumpida: 
+ 
+▪ 
+2 despachadores/operadores por turno de día (Res. Exenta N 1300-6702-2023) 
+▪ 
+1 despachador/operador por turno de noche (Res. Exenta N 1300-6702-2023) 
+ 
+En el Centro de Control de Enel Generación contamos con la siguiente cantidad de 
+profesionales de manera permanente e ininterrumpida: 
+ 
+▪ 
+2 despachadores por turno (Res. Exenta N° 1300-22340-2024) 
+▪ 
+3 operadores por turno (Res. Exenta N° 1300-32757-2024) 
+ 
+ 
+3. Número de operadores en terreno y/o tiempo de traslado hacia las instalaciones, 
+destinados para realizar maniobras manuales y ejecutar la aplicación del PRS, 
+describiendo especialización del personal: 
+ 
+Centrales Térmicas: 
+ 
+El personal de operaciones de cada de una de las centrales térmicas que participa del PRS 
+en Enel se detalla a continuación:  
+ 
+• 
+Central Quintero (operación telecomanda):   
+La Central Quintero cuenta con una dotación en turnos, para realizar labores 
+operacionales en nuestras instalaciones, del siguiente modo:    
+ 
+2 Mantenedor Operador. Turno secuencial de acuerdo Anexo 1.  
+1 Responsable de Operaciones. Jornada 5x2 en horario administrativo  
+ 
+• 
+Central San Isidro:  
+La Central San Isidro cuenta con una dotación permanente de cuatro (4) personas por 
+turno, quienes desempeñan labores operacionales bajo una jornada excepcional 
+establecida de 4x4.  
+ 
+Dotación por turno:  
+3 Operador Térmico.   
+1 Supervisor de Operaciones.  
+ 
+• 
+Central Atacama:  
+La Central Atacama cuenta con una dotación permanente de cuatro (4) personas por 
+turno, quienes desempeñan labores operacionales bajo una jornada excepcional 
+establecida de 7x7.  
+ 
+Dotación por turno:  
+1 Operador Térmico.   
+2 Operador de Terreno  
+1 Supervisor de Operaciones.  
+ 
+• 
+Central Tarapacá:   
+La Central Tarapacá cuenta con una dotación en turnos, para realizar labores 
+operacionales en nuestras instalaciones, del siguiente modo:     
+ 
+1 Mantenedor Operador. Jornada excepcional establecida de 7x7  
+1 Supervisor de Operaciones. Jornada 5x2 en horario administrativo  
+ 
+
+ 
+3
+• 
+Central Taltal:   
+La Central Taltal cuenta con una dotación en turnos, para realizar labores operacionales 
+en nuestras instalaciones, del siguiente modo:     
+ 
+1 Operador Térmico. Jornada excepcional establecida de 8x6  
+1 Supervisor de Operaciones. Jornada 5x2 en horario administrativo  
+ 
+Los detalles de las jornadas de trabajo del personal de terreno se encuentran reguladas 
+conforme al Reglamento Interno de Orden, Higiene y Seguridad (RIOHS) de Enel 
+Generación Chile S.A., el cual se adjunta en el ANEXO 1 RIOHS_ENEL 
+GENERACION_2024. 
+ 
+Especialización del personal:   
+ 
+• 
+Responsable de Operaciones:  
+Formación: Ingeniero civil o de Ejecución de especialidades como Electricidad, 
+Instrumentación y Control, Electrónica, Mecánica, Hidráulica, Termodinámica y 
+Química,  
+ 
+• 
+Supervisor de Operaciones:   
+Formación: Ingeniero Ejecución o Civil.  
+ 
+• 
+Mantenedor Operador: Formación:  
+Ingeniería de ejecución o técnico de nivel superior de especialidad mecánica, eléctrica, 
+control y automatización, química. 
+  
+• 
+Operador Térmico: Formación:  
+Ingeniería de Ejecución o Técnico de Nivel Superior, de las especialidades mecánica, 
+eléctrica, industrial o química.  
+ 
+• 
+Operador de Terreno:  
+Formación: Técnico Industrial Mecánico/Eléctrico/Electrónico. 
+ 
+ 
+Centrales Hidráulicas: 
+ 
+Aunque todas nuestras centrales hidráulicas son telecomandadas desde el Control Room 
+en Santiago, pueden ser operadas localmente en caso de emergencia por el personal en 
+terreno indicado a continuación: 
+ 
+• 
+Central Rapel: tenemos 4 Mantenedores Operadores en turno de 7d x 12 h para la 
+central¸ 2 ingenieros y 2 técnicos de nivel superior, lo que significa un profesional 
+presente en la central en forma permanente. Además, en horario administrativo, se 
+cuenta con su Supervisor (Plant Unit), quien también está disponible en otro horario en 
+caso de requerirse. Este equipo es soportado por un equipo técnico de profesionales de 
+mayor especialización pertenecientes al área de mantenimiento (especialidad 
+mecánica, eléctrica, sistemas de control) y cuyo perfil profesional corresponde a 
+Ingenieros altamente calificados y especializados, quienes están disponibles siempre 
+en caso de necesidad. Los especialistas en sistemas de control son los de mayor 
+participación en la implementación y participación en los PPRS. 
+ 
+• 
+Centrales Pehuenche, Loma Alta y Curillinque: tenemos 5 Mantenedores Operadores 
+en turno de 7d x 12 h (2 ingenieros, 2 técnicos de nivel superior y 1 técnico, todos con 
+vasta experiencia en operación de centrales hidráulicas), lo que significa un profesional 
+presente en la cuenca baja del Maule en forma permanente para atender estas tres 
+centrales. Además, en horario administrativo, se cuenta con su Supervisor (Plant Unit), 
+quien también está disponible en otro horario en caso de requerirse. Este equipo es 
+soportado por un equipo técnico de profesionales de mayor especialización 
+
+ 
+4
+pertenecientes al área de mantenimiento (especialidad mecánica, eléctrica, sistemas 
+de control) y cuyo perfil profesional corresponde a Ingenieros altamente calificados y 
+especializados, quienes están disponibles siempre en caso de necesidad. Los 
+especialistas en sistemas de control son los de mayor participación en la 
+implementación y participación en los PPRS. 
+ 
+• 
+Centrales El Toro, Antuco y Abanico: tenemos 8 Mantenedores Operadores en turno de 
+7d x 12 h (4 ingenieros eléctricos y 4 técnicos de nivel superior, todos con vasta 
+experiencia en operación de centrales hidráulicas), lo que significa dos profesionales 
+presentes en la cuenca del Laja en forma permanente para atender estas tres centrales. 
+Además, en horario administrativo, se cuenta con su Supervisor (Plant Unit), quien 
+también está disponible en otro horario en caso de requerirse. Este equipo es soportado 
+por un equipo técnico de profesionales de mayor especialización pertenecientes al área 
+de mantenimiento (especialidad mecánica, eléctrica, sistemas de control) y cuyo perfil 
+profesional corresponde a Ingenieros altamente calificados y especializados, quienes 
+están disponibles siempre en caso de necesidad. Los especialistas en sistemas de 
+control son los de mayor participación en la implementación y participación en los PPRS. 
+ 
+• 
+Centrales Ralco, Pangue y Palmucho: tenemos 6 Mantenedores Operadores en turno 
+de 7d x 12 h (3 ingenieros y 3 técnicos de nivel superior), todos con vasta experiencia 
+en operación de centrales hidráulicas), lo que significa uno o dos profesionales 
+presentes en la cuenca del Biobío en forma permanente para atender estas tres 
+centrales. Además, en horario administrativo, se cuenta con su Supervisor (Plant Unit), 
+quien también está disponible en otro horario en caso de requerirse. Este equipo es 
+soportado por un equipo técnico de profesionales de mayor especialización 
+pertenecientes al área de mantenimiento (especialidad mecánica, eléctrica, sistemas de 
+control) y cuyo perfil profesional corresponde a Ingenieros altamente calificados y 
+especializados, quienes están disponibles siempre en caso de necesidad. Los 
+especialistas en sistemas de control son los de mayor participación en la 
+implementación y participación en los PPRS. 
+ 
+• 
+Centrales Pullinque y Pilmaiquén: tenemos 2 Mantenedores Operadores de nivel 
+Técnico para cada una de estas centrales, en jornada administrativa (lunes a viernes de 
+08:00 a 17:30 horas). En jornada nocturna, fines de semana y festivos, se dispone de 1 
+Mantenedor Operador en cada planta en régimen de llamado, disponible para asistir en 
+caso de ser necesario. Además, en horario administrativo, se cuenta con un Supervisor 
+(Plant Unit) con centro de trabajo en Pullinque, quien también está disponible para 
+ambas plantas en otro horario en caso de requerirse. Este equipo es soportado por un 
+equipo técnico de profesionales de mayor especialización pertenecientes al área de 
+mantenimiento (especialidad mecánica, eléctrica, sistemas de control) y cuyo perfil 
+profesional corresponde a Ingenieros altamente calificados y especializados, quienes 
+están disponibles siempre en caso de necesidad. Los especialistas en sistemas de 
+control son los de mayor participación en la implementación y participación en los PPRS. 
+ 
+• 
+Central Sauzal: tenemos 4 Mantenedores Operadores en turno de 7d x 12 h para la 
+central¸ todos técnicos de nivel superior, lo que significa un profesional presente en la 
+central en forma permanente. Además, en horario administrativo, se cuenta con su 
+Supervisor (Plant Unit), quien también está disponible en otro horario en caso de 
+requerirse. Este equipo es soportado por un equipo técnico de profesionales de mayor 
+especialización pertenecientes al área de mantenimiento (especialidad mecánica, 
+eléctrica, sistemas de control) y cuyo perfil profesional corresponde a Ingenieros 
+altamente calificados y especializados, quienes están disponibles siempre en caso de 
+necesidad.” 
+ 
+ 
+4. Sistema de comunicaciones principal y de respaldo que utiliza para realizar la 
+coordinación de maniobras entre el Centro de Control de su representada y el 
+personal en terreno:  
+ 
+
+ 
+5
+Las plantas que participan del esquema de recuperación de servicio cuentan con 
+enlaces en una configuración activa – activa. Los proveedores y características están en el 
+archivo adjunto: 
+  
+ENLACES PLANTAS PRS AUTONOMAS Y OTRAS (2025 04 28).xlsx 
+ 
+Estos enlaces tienen niveles de disponibilidad por contrato de 99,7% mensual con el 
+proveedor Telefónica y 99,26% con el proveedor Entel. Sin embargo, dada la configuración 
+en Alta disponibilidad (HA) desplegada en cada planta, implica que el conjunto entrega una 
+disponibilidad superior a 99,99%. 
+ 
+Sobre estos enlaces se establecen los siguientes servicios segmentados en VRF: 
+ 
+a) Teléfonos de red fija dedicados, entre Centro de Control y Plantas. Basado en un 
+sistema de comunicación Avaya de telefonía IP, en una configuración de Alta 
+disponibilidad, con contingencia de sitio (Panamericana y MUT) 
+b) Teléfonos celulares dedicados, Tenemos definidos un set de equipos celulares 
+dedicados en Control Room para comunicación con las diferentes tecnologías.   
+c) Teléfonos satelitales, en cada una de las plantas y Control Room existe un teléfono 
+satelital fijo para comunicación ante contingencias 
+d) Servicios VHF entre plantas y Control Room. 
+ 
+ 
+5. Enviar los procedimientos, guías de maniobra, ERS y/o PPRS establecidos por su 
+representada para ejecutar el PRS, donde se describa las maniobras que son 
+realizadas vía telecomando y las maniobras que deben ser realizadas en terreno para 
+habilitar y energizar cada una de las instalaciones, así como la coordinación con el 
+respectivo COR: 
+ 
+En relación con el requerimiento de información sobre los procedimientos y guías de 
+maniobra establecidos para la ejecución de los PRS, se informa lo siguiente: 
+ 
+Centrales Térmicas: 
+ 
+• Central Quintero: 
+La Central Quintero opera de forma telecomandada desde el Centro de Control (Control 
+Room) de Enel Generación Chile S.A. Los equipos y sistemas involucrados en la 
+aplicación del PRS son operados de manera remota y segura conforme a los 
+procedimientos establecidos por Enel. 
+ 
+Se adjunta Anexo con el detalle de las maniobras: 
+ 
+ANEXO 2 CR- CTQ-GM-SEQ-007_Apagon PPRS 
+ANEXO 3 CTQ-GM-BSDG-003 Cierre contra barra muerta TG1A 
+ANEXO 4 CTQ-GM-BSDG-004 Cierre contra barra muerta TG1B 
+ 
+Las siguientes Centrales Térmicas operan de forma local y requieren de maniobras en 
+terreno para la aplicación del PRS: 
+ 
+• Central San Isidro 
+• Central Atacama 
+• Central Taltal 
+• Central Tarapacá 
+ 
+Se adjunta Anexo con el detalle de las maniobras: 
+ 
+ANEXO 5 ATACAMA ATAC GT01_GT04 N B004 M (Black Out) 
+ANEXO 6 TARAPACA G-300 PRS SEN 
+ANEXO 7 G-300 TALTAL PRS SEN 
+
+ 
+6
+ANEXO 8 Guías de Maniobras San Isidro 
+ 
+En lo referente a la coordinación, y conforme al Estudio del Plan de Recuperación de 
+Servicio – Informe Final 2024 actualmente vigente, en el apartado 3.3 'Vías de 
+Comunicación' se valida el cumplimiento de lo establecido para el Centro de Control de 
+Enel Generación y el COR. Esto asegura una ejecución y supervisión adecuada de las 
+maniobras asociadas a la implementación de PRS en cada una de las centrales 
+previamente mencionadas. 
+ 
+ 
+Centrales Hidráulicas: 
+ 
+• Central Rapel: Para el caso de activación del PRS, esta Central es operada desde Sala 
+de Control Rapel sin necesidad de intervención de equipos en terreno, coordinada a 
+nivel compañía, por personal de Control Room Enel. 
+ 
+Se adjunta Anexo con el detalle de las maniobras: 
+ 
+B-3.4_Partida Autónoma Unidad 1 y cierre en barra muerta_PGP.pdf 
+B-3.5_Partida Autónoma Unidad 2 y cierre en barra muerta_PGP.pdf 
+B-3.6_Partida Autónoma Unidad 3 y cierre en barra muerta_PGP.pdf 
+B-3.7_Partida Autónoma Unidad 4 y cierre en barra muerta_PGP.pdf 
+B-3.8_Partida Autónoma Unidad 5 y cierre en barra muerta_PGP.pdf 
+B-03 Plan Particular De Recuperación de Servicio (Black out) 30092024.pdf 
+ 
+• Central Ralco: Esta Central es telecomandada en toda su operación habitual. No 
+obstante, para el proceso de partida contra barra muerta (CCM), se requiere 
+intervención en terreno, dado que el cierre de los interruptores de potencia de ambas 
+unidades generadoras debe ejecutarse de forma manual y local en la Subestación GIS, 
+esta acción toma como máximo 15 minutos. 
+ 
+Se adjunta Anexo con el detalle de las maniobras: 
+ 
+RAL_-_GM—D_-_32_PARTIDA_DE_UNIDAD_1_RALCO_CON_LINEA_MUERTA.pdf 
+RAL_-_GM—D_-_33_PARTIDA_DE_UNIDAD_2_RALCO_CON_LINEA_MUERTA.pdf 
+PRP – OO- B – 01 PLAN LOCAL RECUPERACION DE SERVICIO.PDF 
+ 
+• Central Pullinque: Todas las unidades generadoras de la Central Pullinque son 
+telecomandadas vía sistema SCADA. 
+ 
+Se adjunta Anexo con el detalle de las maniobras: 
+ 
+GM B.7.4.1_PARTIDA NEGRA_PULL.pdf 
+ 
+• Central Pilmaiquén: Todas las unidades generadoras de la Central Pilmaiquén son 
+también telecomandadas vía SCADA. 
+      Se adjunta Anexo con el detalle de las maniobras: 
+ 
+GM F.10.2_PARTIDA NEGRA_PILM.pdf 
+ 
+• Central El Toro: La Central El Toro es telecomandada desde el Control Room de Enel 
+Green Power. Sin embargo, en caso de emergencia, puede ser operada localmente por 
+el personal en terreno, específicamente por Mantenedores – Operadores (MO) 
+capacitados para ejecutar las maniobras requeridas. 
+ 
+Se adjunta Anexo con el detalle de las maniobras: 
+ 
+C. EL TORO O.OP. AT 2 PLAN GENERAL DE RECUPERACIÓN DE SERVICIO.pdf 
+
+ 
+7
+O. OP. ATA-2 PLAN GENERAL DE RECUPERACIÓN 
+DE 
+SERVICIO 
+CENTRALES DEL LAJA (2).pdf 
+C. EL TODO G.M. CMA 18.1 PRUEBAS DE PARTIDA EN NEGRO Y CIERRE CONTRA 
+BARRA MUERTA UNIDADES N°1,2,3 Y 4 DESDE CEN.pdf 
+C. EL TODO G.M. CMA 18.2 PRUEBAS DE PARTIDA EN NEGRO Y CIERRE CONTRA 
+BARRA MUERTA UNIDADES N°1,2,3 Y 4 DESDE CEZ ANTUCO.pdf 
+ 
+• Central Pehuenche: Esta Central es telecomandada desde el Control Room. Sin 
+embargo, en caso de emergencia, puede ser operada localmente por el personal en 
+terreno, específicamente por los especialistas en sistemas de control. 
+ 
+Se adjunta Anexo con el detalle de las maniobras: 
+ 
+B-16 Plan Particular de recuperación del servicio central Pehuenche_v5.pdf 
+ 
+• Central Pangue: Esta Central es telecomandada desde el Control Room. Sin embargo, 
+en caso de emergencia, puede ser operada localmente por el personal en terreno. 
+ 
+Se adjunta Anexo con el detalle de las maniobras: 
+PAN - OO – B – 01 plan local de recuperación de servicio.doc 
+ 
+• Central Antuco: Esta Central es telecomandada desde el Control Room. Sin embargo, 
+en caso de emergencia, puede ser operada localmente por el personal en terreno. 
+ 
+Se adjunta Anexo con el detalle de las maniobras: 
+ 
+ANT-GM EC-13 PRS.doc 
+C.ANTUCO O. OP. ATA-2-1 PLAN PARTICULAR DE RECUPERACIÓN DE SERVICIO 
+CENTRALES DEL LAJA.doc 
+C. DEL LAJA – O. OP. CRITICAS N°17 PÉRDIDA TOTAL BLACK OUT.doc 
+ 
+• Central Palmucho: Esta Central es telecomandada desde el Control Room. Sin 
+embargo, en caso de emergencia, puede ser operada localmente por el personal en 
+terreno. 
+ 
+Se adjunta Anexo con el detalle de las maniobras: 
+PAL - OO – B – 01 plan local de recuperación de servicio.doc 
+ 
+• Central Cipreses: Esta Central es telecomandada desde el Control Room. Sin embargo, 
+en caso de emergencia, puede ser operada localmente por el personal en terreno. 
+ 
+Se adjunta Anexo con el detalle de las maniobras: 
+ 
+CIP-PR-02 Partida autónoma y cierre contra barra 154 kV Sección 1 muerta 
+Cipreses.doc 
+CIP-PR-04 Pruebas Locales, Partida autónoma y conexión unidades a barra muerta 
+central Cipreses.doc 
+CIP-PR-04 Partida autónoma y conexión de unidades a barra muerta Cipreses.doc 
+CIP-PR-03 Partida autónoma y cierre contra barra 154 kV Sección 1 U3 MMA ODA en 
+servicio.doc 
+CIP-PR-01 Partida autónoma y cierre barra muerta Cipreses[60].doc 
+CIP-PR-AUT Partida autónoma Cipreses.doc 
+ 
+• Central Sauzal: también es telecomandada desde el Control Room en Santiago, sin 
+embargo, en caso de emergencia, pueden ser operadas localmente por el personal en 
+terreno. La Central Sauzal no posee PPRS, ya que requiere que sea coordinada por el 
+CC de Transelec para la sincronización de sus unidades. 
+ 
+ 
+
+ 
+8
+Sin otro particular, y esperando una favorable 
+acogida 
+a 
+la 
+presente 
+comunicación, atentamente se despide, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adrián Guzmán M. 
+Encargado (S) CEN 
+ENEL GENERACIÓN CHILE S.A. y Filiales 
+ 

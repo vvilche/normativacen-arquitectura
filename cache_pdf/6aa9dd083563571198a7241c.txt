@@ -1,0 +1,80 @@
+  
+Corporación Nacional del Cobre de Chile  
+División Andina  
+Av. Santa Teresa 513  
+Los Andes   
+V Región, Chile  
+ www.codelco.com  
+  
+  
+Los Andes, septiembre 15 de 2026  
+  
+DAND-GSER-SSE-09-2026  
+Señor  
+Israel Olguin G.  
+Jefe del Departamento de Análisis de la Operación 
+Coordinador Eléctrico Nacional 
+Presente  
+  
+Asunto: [1] EAF 348/2026 - Apertura del 
+interruptor 52HT de S/E Aconcagua. 
+  
+De nuestra consideración:  
+  
+En respuesta a vuestra carta DE 05966-26 de fecha 07 de septiembre de 2026 y de acuerdo 
+con su solicitud de complementar informe de 5to día por la afectación de nuestras 
+instalaciones por la apertura del interruptor 52 HT de S/E Aconcagua, agregamos la 
+información solicitada en el anexo de la presente carta. 
+ 
+ 
+ 
+ 
+ 
+. 
+ 
+Sin otro particular, saluda atentamente a Ud.  
+  
+ 
+ 
+ 
+ 
+ 
+David Pérez N. 
+Jefe de Unidad Energía  
+CODELCO Andina 
+Cc: 
+ Archivo GSER  
+ Sr. Juan Pablo Cardenas Perez - Encargado Suplente Codelco (División Andina) 
+
+ANEXO 
+ 
+a) Complementar Informe de falla del 5to día, con el correspondiente nivel de detalle, 
+asociado al evento en análisis. En particular, remitir causa definitiva de la afectación 
+de sus consumos, los registros oscilográficos por la operación de protecciones, junto 
+con un análisis de su desempeño, en función de sus ajustes, además de las maniobras 
+ejecutadas para la normalización de las SS/EE KM21, SPPC, Saladillo, Mina y Refugio. 
+ 
+La interrupción del suministro eléctrico en las barras de SS/EE KM 21, Mina y Refugio 
+fue causada por la desconexión forzada del interruptor 52B6 en la S/E Saladillo a las 
+12:45 hrs. del día 20 de julio, esta apertura fue activada por la función de sobrecorriente 
+temporizada (fases A y B), a raíz del fenómeno de galloping en las líneas de 66 kV que 
+produjo acortamiento de distancia entre las fases. Fenómeno ocasionado por el frente 
+de mal tiempo en la zona.  
+ 
+Cabe destacar que la protección eléctrica del interruptor operó según los parámetros 
+previstos. No registro oscilógrafia, lo cual se revisó con especialista, para su solución. 
+ 
+El servicio se normalizó tras la energización del circuito C1 Aconcagua – Saladillo por 
+parte de Celeo Redes y el posterior cierre del interruptor 52B6 en la S/E Saladillo. 
+ 
+La interrupción del suministro eléctrico en las barras de SS/EE SPPC y Saladillo fue 
+causada por la desconexión forzada del interruptor 52HT de transformador de 110/66 
+kV de S/E Aconcagua el servicio se normalizo tras la energización del C1 Aconcagua – 
+Saladillo por parte de Celeo Redes. 
+ 
+ 
+b) Otros antecedentes que considere relevantes en relación con lo solicitado. 
+ 
+Sin antecedentes adicionales que agregar. 
+ 
+ 

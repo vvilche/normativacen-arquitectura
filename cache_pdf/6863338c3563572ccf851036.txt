@@ -1,0 +1,88 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 30 de junio de 2025  
+DE 03973-25 
+ 
+ 
+Señor 
+Álvaro Alarcón M. 
+Encargado Titular 
+ELETRANS III S.A. 
+Presente 
+ 
+ 
+Ref.:  Propuesta de Implementación de puntos de 
+monitoreo del Módulo de Medición Fasorial (MMF) del 
+SEN. 
+[1] Carta ST1-ECEN-0009-2025 (N° de Ingreso 
+DE05767-25) de Eletrans III S.A., de fecha 11 de junio 
+de 2025. 
+Responde carta DE05767-25 
+ 
+De mi consideración: 
+ 
+Me refiero a la carta de la Ref. [1], mediante la cual nos informa que la empresa Transelec 
+no ha dado respuesta a sus requerimientos de conexión de sus PMU hacia los PDC local   
+de esa empresa y, por lo tanto, nos solicita nuestra conformidad para implementar su propio 
+PDC local. 
+ 
+Al respecto, solicito el envío a través del correo dmap@coordinador.cl de los antecedentes 
+con las gestiones y comunicaciones enviadas por su representada y que no han sido 
+respondidas por Transelec, con el fin de poder realizar las gestiones con dicha empresa y 
+que le permitan avanzar con el proceso de conexión. 
+ 
+Por otra parte, sin perjuicio de los señalado anteriormente, estamos de acuerdo en que 
+establezca la comunicación de las señales de PMU mediante conexión directa hasta el PDC 
+Corporativo del Coordinador, es decir, sin pasar por un PDC local y en la medida que ese 
+canal de comunicación permita cumplir con la disponibilidad requerida para el Módulo de 
+Medición Fasorial. 
+ 
+De esta manera, para efectos de llevar a cabo la integración de una PMU directamente al 
+PDC Corporativo del Coordinador, debe considerar lo siguiente: 
+ 
+1. Adquisición de Licencias 
+  
+Para efectos de solicitar información y gestionar la adquisición de las licencias 
+requeridas para la comunicación e integración requerida por cada PMU al PDC 
+Corporativo del Coordinador, deberá comunicarse con el Señor Víctor Reyes J. 
+(victor.reyes@coordinador.cl). 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+2. Direccionamientos y Pruebas de comunicación 
+ 
+Para obtener direccionamientos, solicitar y ejecutar pruebas de comunicación, deberá 
+contactar al Departamento SCADA. (TEC.scada@coordinador.cl) 
+  
+3. Pruebas de integración 
+ 
+Una vez aprobadas las pruebas de comunicaciones, podrá solicitar pruebas de 
+integración de la PMU al aplicativo del MMF, para lo cual deberá contactarse a través 
+de los correos joaquin.mesias@coordinador.cl con copia a DMAP@coordinador.cl. 
+ 
+Finalmente, para efectos de enviar la información solicitada y realizar cualquier consultas 
+respecto a lo indicado en la presente comunicación, agradeceré contactar directamente al 
+correo electrónico dmap@coordinador.cl . 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GO/SGASO/DMAP 
+c.c.: Sr Jaime Acevedo S. - Encargado Suplente ELETRANS III S.A. 
+ 
+ 

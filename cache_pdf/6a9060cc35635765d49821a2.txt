@@ -1,0 +1,41 @@
+ 
+Carta CSP-GE-LT-CEN-0410 
+Santiago, 26 de agosto de 2026 
+ 
+Patricio Valenzuela 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a carta DE 05418-26 
+ 
+En atención a la carta de la Ref., mediante la cual se solicita informar las razones que explican la falta de envío de 
+una nueva versión del Informe de Verificación de Control de Tensión (CT) de la Central PFV Cerro Dominador, 
+informamos lo siguiente: 
+El informe de verificación de Control de Tensión de la Central PFV Cerro Dominador fue elaborado y emitido en 
+diciembre de 2022, de conformidad con la normativa y los criterios de evaluación aplicables al momento de su 
+desarrollo. 
+Con posterioridad, mediante carta DE03625-26 de mayo de 2026, el Coordinador formuló observaciones al referido 
+informe. A raíz de dichas observaciones, se inició un proceso de revisión técnica en conjunto con el consultor 
+responsable de los estudios, con el objeto de evaluar el alcance de las adecuaciones requeridas. 
+Como resultado de este análisis, y considerando el tiempo transcurrido desde la emisión del informe original, se ha 
+determinado que, si bien una parte de las observaciones puede ser abordada mediante actualizaciones 
+documentales y técnicas, ciertos aspectos requerirán la ejecución de ensayos complementarios para incorporar 
+antecedentes asociados a los requerimientos actualmente considerados.  
+Adicionalmente, cabe señalar que la Central PFV Cerro Dominador se encuentra actualmente fuera de servicio. Esta 
+condición limita la ejecución de los ensayos requeridos para completar el proceso de actualización del informe. 
+En virtud de lo anterior, nos encontramos coordinando con el consultor responsable la actualización de los 
+antecedentes y la definición de los ensayos complementarios necesarios, de manera de remitir una nueva versión 
+del informe que atienda adecuadamente las observaciones formuladas. Considerando que los ensayos requeridos 
+deben realizarse con la instalación en servicio, la ejecución de estas actividades estará sujeta a la disponibilidad 
+operacional de la central. 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+_______________________ 
+Sebastián Parra 
+Cerro Dominador CSP S.A. 
+Signed by:Sebastian Parra
+Signed at:2026-08-26 17:35:22 -04:00
+Reason:Firmado por Sebastian Parra

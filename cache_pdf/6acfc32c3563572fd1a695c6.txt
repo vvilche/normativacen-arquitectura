@@ -1,0 +1,347 @@
+ 
+ 
+OR-000280-2026 
+ 
+Santiago, 14/10/2026 
+ 
+Señor 
+Ramón Castañeda P. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA: Respuesta a Carta DE06683-26 - Integración de PE Aurora y PE Cuel a la celda maestra 
+de S/E Charrúa del EDAG Centro-Sur 
+ 
+De nuestra consideración: 
+ 
+En respuesta a su carta DE 06683-26, relacionada con la integración de PE Aurora y PE Cuel a la celda 
+maestra de S/E Charrúa del EDAG Centro-Sur, señalamos lo siguiente. 
+La carta solicita información sobre las definiciones y habilitaciones técnicas pendientes con Aela 
+Generación S.A. (en adelante, "Aela") y sobre la implementación de routers multicliente en S/E 
+Charrúa. 
+Como antecedente general, cabe señalar que, conforme a la "Guía para la Integración de los 
+Recursos EDAG a la Celda Maestra del PDCE Zona Centro-Sur en S/E Charrúa de Transelec" (en 
+adelante, la "Guía"), preparada por Transelec S.A. con base en la normativa vigente y difundida por 
+el Coordinador Eléctrico Nacional (en adelante, el "Coordinador") a los Coordinados el 5 de 
+diciembre de 2025, la implementación del EDAG y de su sistema de comunicaciones hacia el PDCE 
+es responsabilidad del Coordinado instruido por el Coordinador. Dicha responsabilidad comprende 
+la contratación y gestión del enlace con el portador de telecomunicaciones, y su operación y 
+mantenimiento. Por consiguiente, también le corresponde gestionar ante el portador que este 
+implemente oportunamente su router multicliente en S/E Charrúa. La Guía establece expresamente 
+que "la relación técnico – comercial entre el Coordinado y portador es resorte de éstos y no 
+corresponde a Transelec mediar respecto de aquello". A Transelec le corresponde disponer el 
+espacio físico, la energía y el acceso a S/E Charrúa, revisar el proyecto para resguardar sus 
+instalaciones, y suscribir con los portadores los contratos que regulan la instalación de sus equipos 
+en la subestación. 
+Sin perjuicio de lo anterior, Transelec ha buscado agilizar la integración de los Coordinados y ordenar 
+la llegada de los portadores y el uso del espacio en sus subestaciones. Con ese fin, propuso y 
+estableció como condición la instalación de un único router multicliente por portador, que atienda 
+a todos los Coordinados que contraten con él, en lugar de un equipo por Coordinado. Para 
+materializar este esquema, aun cuando no es de su responsabilidad exclusiva, Transelec ha 
+sostenido reuniones con distintos portadores presentes en sus subestaciones y ha estado 
+negociando con algunos de ellos los contratos respectivos. Además, ha puesto a disposición de los 
+Coordinados los Términos de Referencia para solicitar sus propias propuestas a los portadores. Así 
+se lo informó Transelec a Aela por correo de 13 de junio de 2025, incluso antes de que el 
+Coordinador difundiera la Guía, precisando que esta coordinación con las empresas de 
+telecomunicaciones "ha sido una gestión de buena voluntad por parte de Transelec, pero en ningún 
+Docusign Envelope ID: 20F5B486-D91D-888D-8334-7AEE622E2DD2
+
+ 
+ 
+caso implica la contratación directa de servicios, ya que la responsabilidad de implementar la 
+conexión de los PMU/EDAG sigue siendo del Coordinado". 
+a) El detalle de las definiciones y habilitaciones técnicas que les habría solicitado Aela Generación 
+y que aún no ha gestionado, respondido y habilitado. Indicando para cada una de esas 
+definiciones y habilitaciones técnicas el plan de trabajo que está llevando a cabo y la fecha en 
+que quedarán finalizadas. 
+ 
+Revisados nuestros registros, las definiciones y habilitaciones técnicas solicitadas por Aela 
+respecto del EDAG de PE Aurora y PE Cuel han sido respondidas por Transelec, según se detalla en 
+la Tabla N°1. En particular, el punto de interconexión de los Coordinados a la Celda Maestra fue 
+informado a Aela el 21 de marzo de 2025, mediante el envío de la ingeniería del DMZ del EDAG 
+Centro-Sur. Posteriormente, la Guía precisó la arquitectura de conexión: router multicliente del 
+portador alojado en el gabinete de integración al PDCE. 
+Tabla N°1: Requerimientos de Aela y gestiones de Transelec 
+Fecha 
+Requerimiento de 
+Aela 
+Gestión de Transelec 
+11-03-2025 
+Documentos 
+contractuales de la 
+conexión 
+Envío a Aela del borrador de acuerdo de interconexión y sus anexos. 
+21-03-2025 
+Punto de conexión 
+en la Celda Maestra 
+de S/E Charrúa 
+Envío de la ingeniería del DMZ del EDAG Centro-Sur, con el punto 
+destinado a la interconexión de Coordinados externos. 
+21-03-2025 
+Contraparte técnica 
+de Transelec 
+Designación del coordinador técnico de la conexión y propuesta de 
+reunión con SEIS S.A., integrador de la Celda Maestra (reunión realizada el 
+27-03-2025). 
+13-06-2025 
+Visita técnica a S/E 
+Charrúa 
+Visita autorizada y acompañada por Transelec. 
+13-06-2025 
+al 29-07-
+2025 
+Gestión de las 
+comunicaciones y del 
+portador 
+13-06-2025: entrega de los Términos de Referencia para portadores. 
+17-06-2025: entrega de los contactos comerciales de Entel, Telefónica, 
+Claro, GTD y AP Telecom. Se acordó que Aela solicitaría a un portador la 
+instalación del router multicliente. 
+18-06-2025: Aela confirma que establecerá comunicación inmediata con 
+los portadores para revisar factibilidad y tiempos. 
+29-07-2025: Aela informa que solicitó a Entel ser considerada en su 
+solución router multicliente. 
+05-12-2025 
+Arquitectura y 
+puntos de 
+comunicación 
+disponibles en S/E 
+Charrúa 
+Guía difundida por el Coordinador define la arquitectura de conexión. 
+ 
+Hacemos presente que Aela presentó la solicitud formal de integración prevista en la sección 4.2 
+de la Guía recién el 8 de octubre de 2026, mediante carta AEL083C-26. En ella, Aela informa que 
+Docusign Envelope ID: 20F5B486-D91D-888D-8334-7AEE622E2DD2
+
+ 
+ 
+sus equipos EDAG se encuentran en etapa de pruebas SAT locales y que, si bien inicialmente 
+consideró a Entel como portador, actualmente evalúa otros proveedores debido a los plazos 
+asociados a la habilitación del router multicliente. A la fecha, los portadores con los que Transelec 
+ha gestionado la instalación de routers multicliente en S/E Charrúa no han respondido las últimas 
+versiones del contrato ni han comprometido fechas de instalación, según se detalla en el literal b) 
+siguiente. Precisamente por ello, corresponde a Aela, como Coordinado mandatado para 
+implementar su EDAG, requerir e insistir ante los portadores la pronta instalación de su router 
+multicliente. En consecuencia, a la fecha Aela no ha identificado al portador de 
+telecomunicaciones que enviará las señales de su EDAG al PDCE, antecedente que la letra d) de la 
+sección 4.2 de la Guía exige acompañar a la solicitud de integración y que es necesario para definir 
+la conexión de sus comunicaciones en S/E Charrúa. 
+Sin perjuicio de lo anterior, y tal como se ha expuesto, Transelec ha realizado todas las gestiones 
+a su alcance, incluso más allá de su propia responsabilidad, para facilitar la llegada de los 
+portadores a S/E Charrúa. Con el objeto de avanzar en la integración de Aela, Transelec ejecutará 
+el siguiente plan de trabajo: 
+Tabla N°2: Plan de trabajo de Transelec 
+N° 
+Acción 
+Responsable 
+Fecha 
+1 
+Acuse de recibo de la carta AEL083C-26 y designación de las 
+contrapartes comercial y técnica (sección 4.3 de la Guía). 
+Transelec 
+Semana 19 de 
+octubre de 2026 
+2 
+Reunión de inicio del proyecto con Aela, con participación de 
+Tecnología Operacional y de la Gerencia Zonal Sur. 
+Transelec; Aela 
+Octubre 2026 
+3 
+Envío a Aela del Contrato de Integración del EDAG al PDCE, 
+que actualiza el borrador enviado el 11-03-2025. 
+Transelec 
+Octubre 2026 
+4 
+Revisión de ingeniería de los proyectos de Aela (alcance, 
+enlace, firewall y cronograma). 
+Aela 
+presenta; 
+Transelec revisa 
+Post firma del 
+contrato 
+e 
+integración 
+del 
+portador 
+ 
+b) El detalle de las gestiones, acciones específicas y plan de trabajo que está llevando a cabo su 
+representada con cada compañía de telecomunicaciones para materializar la implementación 
+de los router multicliente en S/E Charrúa, de manera que queden disponible para que las 
+empresas coordinadas finalicen la integración de sus comunicaciones a la celda de control 
+maestra durante el presente año. Al respecto, indicar las fechas de firma de cada contrato con 
+las compañías de telecomunicaciones y las fechas en que quedarán disponible los router 
+multicliente en S/E Charrúa para las empresas coordinadas. 
+Tal como se señaló en los antecedentes generales de esta carta, Transelec ha asumido 
+proactivamente el rol de facilitador para habilitar una solución de telecomunicaciones común a 
+todos los Coordinados. Este rol no modifica la responsabilidad que la Guía y normativa vigente 
+asigna a cada Coordinado respecto de la contratación y gestión de su enlace con el portador. 
+Esta iniciativa responde a una restricción física de la subestación. El espacio disponible en la sala de 
+comunicaciones de S/E Charrúa y en sus racks no permite que cada Coordinado instale su propio 
+equipamiento de telecomunicaciones. Por ello, la alternativa técnicamente factible es que cada 
+Docusign Envelope ID: 20F5B486-D91D-888D-8334-7AEE622E2DD2
+
+ 
+ 
+portador instale un único router multicliente, compartido por todos los Coordinados que contraten 
+sus servicios. 
+En este contexto, Transelec contactó a los portadores Entel S.A., Telefónica Empresas Chile S.A., 
+Claro, GTD y AP Telecom. De ellos, solo Entel S.A. y Telefónica Empresas Chile S.A. han perseverado 
+en las gestiones para instalar su router multicliente en S/E Charrúa. El estado de los contratos de 
+Transelec con estos últimos portadores a la fecha es el siguiente: 
+Tabla N°3: Estado de los contratos con portadores para S/E Charrúa 
+Portador 
+Gestiones realizadas 
+Pendiente 
+Fecha de firma 
+Router 
+disponible en 
+S/E Charrúa 
+Entel S.A. 
+Contrato de Habilitación de 
+Infraestructura 
+de 
+Telecomunicaciones 
+12-05 
+y 
+16-06-2026: 
+el 
+portador presenta su solución. 
+22-06 y 03-08-2026: Transelec 
+valida 
+técnicamente 
+el 
+equipamiento. 
+05-08-2026: Transelec envía el 
+borrador de contrato. 
+21-09-2026: Transelec hace 
+seguimiento. 
+Revisión del contrato 
+por parte del portador 
+y 
+pendiente 
+de 
+aprobación interna de 
+inversión. 
+Sin 
+fecha 
+comprometida 
+por el portador. 
+ 
+ Transelec 
+firmará dentro 
+de 5 días hábiles 
+desde 
+su 
+conformidad. 
+Sin 
+fecha 
+comprometida 
+por el portador. 
+Telefónica 
+Empresas 
+Chile S.A. 
+Contrato de Habilitación de 
+Infraestructura 
+de 
+Telecomunicaciones. 
+14-05-2026: 
+propuesta 
+técnico-comercial 
+del 
+portador. 
+30-06-2026: Transelec envía el 
+borrador de contrato. 
+23-07-2026: reunión de inicio 
+de la zona Centro-Sur, que 
+incluye Charrúa. 
+29-07-2026: Transelec entrega 
+la información técnica de la 
+sala de comunicaciones de S/E 
+Charrúa. 
+17-08, 27-08 y 23-09-2026: 
+intercambio de versiones del 
+borrador. 
+28-09-2026: Transelec envía la 
+revisión final con respuesta a 
+todas las observaciones. 
+Conformidad 
+del 
+portador a la versión 
+de 28-09-2026 y su 
+aprobación interna. 
+ 
+Visita 
+técnica 
+del 
+portador 
+a 
+S/E 
+Charrúa, solicitada por 
+Transelec 
+el 
+07-08-
+2026 
+y 
+aún 
+sin 
+respuesta por parte 
+del portador. 
+Sin 
+fecha 
+comprometida 
+por el portador. 
+ 
+Transelec 
+firmará dentro 
+de 5 días hábiles 
+desde 
+su 
+conformidad. 
+Sin 
+fecha 
+comprometida 
+por el portador. 
+ 
+Docusign Envelope ID: 20F5B486-D91D-888D-8334-7AEE622E2DD2
+
+ 
+ 
+Con el objeto de acelerar la disponibilidad del router multicliente en S/E Charrúa, Transelec 
+realizará las siguientes acciones: 
+ 
+• 
+Enviar un recordatorio a Entel y a Telefónica respecto de la última versión del contrato 
+remitida por Transelec, solicitando su conformidad y una fecha comprometida de 
+instalación del router multicliente en S/E Charrúa. 
+• 
+Otorgar al portador acceso a S/E Charrúa para el levantamiento en terreno, en el menor 
+plazo posible una vez que este lo solicite, previo registro de su personal. 
+• 
+Una vez suscrito el contrato, coordinar a la brevedad el acceso y los permisos de trabajo 
+necesarios para que el portador realice el montaje de su router multicliente en la 
+subestación. 
+• 
+Informar el avance de estas gestiones en cada reunión quincenal de seguimiento de la 
+integración a la Celda Maestra que convoca el Coordinador. 
+Considerando que, a la fecha, ningún portador ha suscrito el contrato ni comprometidos plazos de 
+instalación, Transelec continuara desplegando todos los esfuerzos a su alcance para contar con el 
+router multicliente disponible en la S/E Charrúa a la brevedad, no obstante, no es posible asegurar 
+como fecha el 31 de diciembre de 2026. 
+ 
+Sin perjuicio de lo expuesto, Transelec queda a disposición del Coordinador para aclarar o 
+complementar cualquier antecedente de la presente respuesta, e informará oportunamente todo 
+avance relevante en la suscripción de los contratos con los portadores.   
+ 
+Sin otro particular, saludan atentamente a usted 
+TRANSELEC S.A., 
+ 
+ 
+ 
+ 
+ 
+ 
+María José Reveco A. 
+Gerente Gestión de Redes 
+Docusign Envelope ID: 20F5B486-D91D-888D-8334-7AEE622E2DD2

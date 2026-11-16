@@ -1,0 +1,128 @@
+ 
+Huemul Energía SpA 
+Av. Apoquindo 4820, Piso 
+10,  
+Las Condes. Santiago. 
+Chile. 
+ 
+t: +56-(0)2-592 3100 
+e: info-chile@mainstreamrp.com 
+w: mainstreamrp.cl 
+ 
+ 
+CH104-2026 
+ 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+Av. Parque Isidora Sur 1061, Pudahuel 
+Santiago 
+Chile 
+Presente 
+ 
+15 de junio de 2026 
+ 
+Mat.: Responde a carta DE03429-26. 
+Ref.: [1] Carta DE03429-26, Ref.: “Proceso de Verificación del Servicio Complementario (SC) de Control 
+Secundario de Frecuencia (CSF-AGC) e incorporación a la herramienta de despacho económico (ED).” 
+de fecha 20 de mayo de 2026. 
+ 
+De mi consideración: 
+ 
+Me refiero a su carta de la Ref. [1], en donde se solicita actualizar acerca del estado de implementación 
+de enlaces y señales requeridas e integración al SITR/AGC del Coordinador para la incorporación a la 
+herramienta de despacho económico (ED) y la verificación del SC de CSF-AGC. 
+ 
+Al respecto, destacamos que mi representada ya ha logrado realizar la verificación del SC de CSF-AGC 
+y la integración en el módulo ED del SCADA del CEN en las centrales que se indican en el Anexo de la 
+presente carta. Por otro lado, existe avance en el resto de las centrales que no han completado su 
+verificación, lo cual se explica debido a incompatibilidades en las soluciones que se han adoptado a 
+nivel de SCADA/RTU en las respectivas subestaciones. Se espera que esto esté subsanado previo a la 
+fecha requerida por el Coordinador de noviembre 2026 de manera de tener la totalidad de nuestras 
+instalaciones verificadas para el SC de CSF-AGC en dicha fecha. 
+ 
+Finalmente, en Anexo se presenta el estado actual de avance de la integración de cada una de las 
+centrales y un cronograma estimado de las actividades pendientes. 
+ 
+Sin otro particular, le saluda atentamente. 
+ 
+ 
+ 
+__________________ 
+Felipe Fernández Gutiérrez 
+Encargado Suplente 
+Huemul Energía SpA. 
+ 
+Docusign Envelope ID: 54C77E74-30D2-89DD-8217-4FF38AA407E5
+
+ 
+ 
+Anexo: Estado de integración SC CSF-AGC y módulo ED 
+ 
+Coordinado 
+Central 
+Estado 
+Enlaces 
+Adecuaciones RTU 
+Pruebas punto a punto 
+Pruebas funcionales 
+Huemul Energía SpA 
+PFV Valle Escondido 
+No Verificada 
+OK 
+Avance 90% 
+Pendientes 
+Pendientes 
+Huemul Energía SpA 
+PFV Pampa Tigre 
+No Verificada 
+OK 
+Pendientes 
+Pendientes 
+Pendientes 
+Huemul Energía SpA 
+PE Puelche Sur 
+No Verificada 
+OK 
+OK 
+OK 
+Realizadas, 
+pendiente cambios 
+menores y repetir. 
+Huemul Energía SpA 
+PE Llanos del Viento 
+Verificada 
+OK 
+OK 
+OK 
+OK 
+Huemul Energía SpA 
+PE Ckhúri 
+Verificada 
+OK 
+OK 
+OK 
+OK 
+ 
+Cronograma de actividades pendientes 
+ 
+PFV Valle Escondido: 
+• 
+Finalización adecuaciones RTU: agosto 2026 
+• 
+Pruebas punto a punto: octubre 2026 
+• 
+Pruebas funcionales exitosas: noviembre 2026 
+PFV Pampa Tigre: 
+• 
+Adecuaciones RTU: agosto 2026 
+• 
+Pruebas punto a punto: octubre 2026 
+• 
+Pruebas funcionales exitosas: noviembre 2026 
+PE Puelche Sur: 
+• 
+Corrección pendientes pruebas funcionales: septiembre 2026 
+• 
+Pruebas funcionales exitosas: noviembre 2026 
+Docusign Envelope ID: 54C77E74-30D2-89DD-8217-4FF38AA407E5

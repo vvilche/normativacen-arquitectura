@@ -1,0 +1,176 @@
+ 
+Santiago, 09 de octubre de 2026 
+Carta VDR N° 17 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel 
+Presente 
+Ref.: Solicitud de ampliación de plazo para la puesta 
+en servicio del EDAG del Parque Eólico La Flor, 
+asociado al EDAG Centro-Sur del PDCE ZN. 
+Ant.: [1] Carta DE07280-25 del Coordinador, de 
+fecha 10 de noviembre de 2025. 
+[2] Carta DE07914-25 del Coordinador, de fecha 15 
+de diciembre de 2025. 
+[3] Carta de Vientos de Renaico SpA de fecha 05 de 
+febrero de 2026, en respuesta a la carta DE07914-25, 
+con el plan de puesta en servicio informado. 
+De mi consideración: 
+Por medio de la presente, Vientos de Renaico SpA (en adelante, “VDR”), en su calidad de 
+coordinado instruido mediante las cartas de los Ant. [1] y [2] a integrar el Parque Eólico La Flor (en 
+adelante, “PE La Flor”) al EDAG Centro-Sur del PDCE ZN, viene en informar al Coordinador una 
+circunstancia sobreviniente y ajena a su gestión que afecta el plazo de puesta en servicio del 
+proyecto, y en solicitar formalmente la ampliación de dicho plazo hasta el 31 de agosto de 2027, 
+conforme a los antecedentes y al cronograma que se exponen a continuación. 
+1. Antecedentes 
+En cumplimiento de lo instruido por el Coordinador, VDR llevó a cabo el proceso de licitación para la 
+implementación del EDAG del PE La Flor, el cual consiste en la implementación de una protección 
+de sobrefrecuencia local con ajuste fijo y el envío de la información requerida en tiempo real hacia la 
+Celda Maestra de Transelec S.A. en S/E Charrúa. 
+Como resultado de dicho proceso, el proyecto fue adjudicado a la empresa Sistemas Eléctricos 
+Ingeniería y Servicios S.A. (SEIS S.A.), empresa que a su vez se encuentra a cargo de la 
+operación de la Celda Maestra en S/E Charrúa. Esta adjudicación fue una decisión técnica 
+deliberada orientada a asegurar la plena compatibilidad e integración del recurso del PE La Flor con 
+la Celda Maestra, minimizando riesgos en las etapas de integración, pruebas y habilitación. 
+De acuerdo con lo anterior, VDR informó al Coordinador mediante la carta del Ant. [3] un plan de 
+trabajo con puesta en servicio prevista para fines del año 2026. 
+2. Causa del retraso: circunstancia no imputable a VDR ni a su contratista 
+SEIS S.A. comunicó formalmente a VDR (Anexo 1) que el fabricante del equipamiento considerado 
+en el proceso de licitación, Schweitzer Engineering Laboratories, Inc. (SEL), presenta actualmente 
+plazos de entrega que, según la experiencia reciente de SEIS, se encuentran entre 32 y 35 
+semanas. Dicha comunicación adjunta la carta oficial de SEL (Anexo 2), en la cual el propio 
+fabricante declara lo siguiente: 
+●​ Que SEL experimenta plazos de entrega extendidos y retrasos en los envíos de varias líneas 
+de productos, producto de transiciones en sus procesos de producción, una demanda 
+sostenida a nivel mundial y limitaciones en el suministro de componentes y materiales. 
+Página 1 
+
+ 
+●​ Que esta situación afecta particularmente a equipos para aplicaciones industriales, incluyendo 
+los switches Ethernet de la serie SEL-27XX, los equipos SEL-7XX y la plataforma SEL-224X 
+(Axion). 
+●​ Que el aumento de la demanda de manufactura electrónica afecta a toda la industria y a los 
+tiempos de entrega de diversos fabricantes, por lo que no se trata de una condición particular 
+de un proveedor. 
+Como puede apreciarse, se trata de una circunstancia sobreviniente, externa y de alcance global, 
+que no fue posible prever al momento de informar el plan de trabajo del Ant. [3], y cuya ocurrencia 
+no resulta imputable a VDR ni a SEIS S.A. Ninguna gestión al alcance de VDR permite reducir el 
+plazo de fabricación del proveedor. 
+Asimismo, VDR evaluó la alternativa de reemplazar el equipamiento o el proveedor. Sin embargo, 
+dicha alternativa no permitiría reducir el plazo, por cuanto implicaría redefinir condiciones 
+comerciales, rehacer definiciones técnicas, y, eventualmente, enfrentar las mismas restricciones de 
+suministro que, según el propio fabricante, afectan a toda la industria. En consecuencia, mantener 
+el equipamiento y el contratista adjudicados constituye la alternativa que permite alcanzar la puesta 
+en servicio en el menor plazo posible. 
+3. Medidas adoptadas por VDR para mitigar el impacto 
+VDR no ha esperado la llegada del equipamiento para avanzar. Con el objeto de reducir al mínimo 
+el impacto del retraso sobre la seguridad del sistema, y en particular sobre la función que el PE La 
+Flor debe cumplir dentro del EDAG, se están ejecutando las siguientes acciones: 
+a) Medida transitoria de sobrefrecuencia en S/E Nahuelbuta. En paralelo a la implementación 
+definitiva, VDR se encuentra gestionando la habilitación del escalón 2 (51,6 Hz) en la protección del 
+paño de S/E Nahuelbuta al que se conecta el PE La Flor, de modo de contar con la función de 
+sobrefrecuencia requerida mientras se completa la integración de la celda local a la Celda Maestra. 
+Dado que dicha subestación es de propiedad de un tercero, su propietario ha condicionado el 
+cambio de ajustes a contar con un Estudio de Coordinación y Ajuste de Protecciones (ECAP) 
+aprobado por el Coordinador. 
+Considerando que los elementos de tensión y frecuencia no se coordinan selectivamente con las 
+protecciones de los paños adyacentes, VDR consultó al Departamento de Análisis de la Operación 
+del Coordinador (Anexo 3) cuál es el conducto regular para habilitar estos elementos en una 
+protección en servicio, si basta una minuta técnica con los ajustes propuestos en lugar de un ECAP 
+completo, y si el escalón de sobrefrecuencia puede tramitarse en la misma solicitud. Sin perjuicio de 
+lo anterior, y para no perder tiempo, VDR ya se encuentra en conversaciones con una empresa 
+consultora especializada para elaborar el instrumento que el Coordinador determine. 
+b) Ejecución en paralelo de todas las actividades que no dependen del equipamiento. De 
+forma simultánea al proceso de adquisición, VDR y SEIS S.A. ejecutarán el desarrollo de la 
+ingeniería de detalle, la habilitación de los enlaces de comunicaciones hacia la Celda Maestra de 
+S/E Charrúa y la construcción del gabinete, de manera que, una vez recibido el equipamiento, solo 
+resten las actividades de montaje, configuración, pruebas y habilitación. 
+4. Cronograma reformulado 
+En virtud de lo anterior, VDR presenta el siguiente cronograma reformulado para la puesta en 
+servicio del EDAG del PE La Flor: 
+N° 
+Actividad 
+Plazo estimado 
+1 
+Emisión de orden de compra de equipamiento SEL a SEIS 
+Octubre 2026 
+2 
+Elaboración del ECAP o minuta técnica de ajustes, según 
+lo que indique el Coordinador (Anexo 3), y presentación al 
+propietario de S/E Nahuelbuta 
+Noviembre 2026 
+Página 2 
+
+ 
+N° 
+Actividad 
+Plazo estimado 
+3 
+Habilitación transitoria del escalón 2 (51,6 Hz) en la 
+protección de S/E Nahuelbuta 
+Diciembre 2026 (sujeto a aprobación 
+del Coordinador y del propietario) 
+4 
+Ingeniería de detalle y revisión con SEIS como operador 
+de la Celda Maestra de S/E Charrúa 
+Octubre 2026 – Febrero 2027 
+5 
+Habilitación de enlaces de comunicaciones hacia la Celda 
+Maestra de S/E Charrúa 
+Mayo 2027 
+6 
+Construcción y cableado del gabinete EDAG 
+Junio 2027 
+7 
+Recepción del equipamiento SEL (32 a 35 semanas desde 
+la orden de compra) 
+Junio 2027 
+8 
+Montaje de equipos, configuración, pruebas en fábrica y 
+en sitio 
+Julio 2027 
+9 
+Pruebas de integración con Celda Maestra, verificación y 
+habilitación ante el Coordinador 
+Julio 2027 – Agosto 2027 
+Los plazos de las actividades 7 a 9 se encuentran condicionados a la fecha efectiva de entrega del fabricante. 
+VDR informará oportunamente al Coordinador cualquier variación que comunique SEL o SEIS S.A. 
+5. Solicitud 
+En mérito de lo expuesto, y considerando (i) que la causa del retraso es externa y no imputable a 
+VDR ni a su contratista, según consta en la comunicación oficial del fabricante; (ii) que VDR ha 
+actuado con diligencia, adjudicando el proyecto a la empresa que opera la Celda Maestra; (iii) que 
+se están ejecutando en paralelo todas las actividades que no dependen del equipamiento; y (iv) que 
+VDR se encuentra gestionando la habilitación de escalón 2 en S/E Nahuelbuta, se solicita 
+respetuosamente al Coordinador aprobar la ampliación del plazo de puesta en servicio del 
+EDAG del PE La Flor hasta el 31 de agosto de 2027, conforme al cronograma presentado en el 
+numeral 4. 
+6. Compromisos de VDR 
+Para asegurar la trazabilidad del avance y la debida coordinación, VDR se compromete a: 
+●​ Informar al Coordinador la fecha de habilitación del escalón 2 (51,6 Hz) en S/E Nahuelbuta, 
+una vez aprobados los ajustes por el Coordinador y el propietario de la instalación. 
+●​ Comunicar de forma inmediata cualquier hecho que pudiera modificar el cronograma 
+presentado, así como cualquier oportunidad de adelantar la puesta en servicio. 
+ 
+Sin otro particular, le saluda atentamente, 
+Italo Perfetti Nazal 
+Área Coordinador Electrico 
+Vientos de Renaico SpA 
+Anexos: 
+Anexo 1: Comunicación de SEIS S.A. a VDR, “Tiempos de fabricación de equipos SEL”, de fecha 9 
+de octubre de 2026. 
+Anexo 2: Comunicación de Schweitzer Engineering Laboratories, Inc. (SEL), “Plazos de Entrega 
+Equipos SEL”, de fecha 24 de agosto de 2026. 
+Anexo 3: Correo electrónico de Sinecpro, en representación de VDR, al Departamento de Análisis 
+de la Operación del Coordinador (daop@coordinador.cl), “Consulta conducto regular – 
+Página 3 
+
+ 
+Implementación de elementos de tensión y frecuencia en paño PE La Flor, S/E Nahuelbuta”, de 
+fecha 9 de octubre de 2026. 
+c.c.: Departamento DMAP, Coordinador Eléctrico Nacional (dmap@coordinador.cl) 
+Departamento DAOP, Coordinador Eléctrico Nacional (daop@coordinador.cl) 
+Sr. Gonzalo Escobar, Coordinador Técnico Proyecto EDAG PDCE, Transelec S.A. 
+(gescobar@transelec.cl) 
+Página 4 

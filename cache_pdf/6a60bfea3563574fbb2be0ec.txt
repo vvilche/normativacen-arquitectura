@@ -1,0 +1,87 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 22 de julio de 2026 
+DE 04874-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Parámetro de Mínimo Técnico 
+de la unidad HP Queltehues U3. 
+[1] Carta AES 0004-2024 de AES Andes S.A., Ref.: 
+“Respuestas a observaciones Informe de Mínimo 
+Técnico de la Central HP Queltehues U3”, de fecha 
+10 de enero del 2024. Ingreso DE00299-24. 
+[2] Carta DE00539-24, Ref.: “[NUP 3557] Informe de 
+Mínimo Técnico de la Unidad HP Queltehues U3, 
+del coordinado AES Andes S.A.”, de fecha 26 de 
+enero del 2024. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+parámetro de Mínimo Técnico de la unidad HP Queltehues U3, en conformidad con el 
+Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 10 del Anexo Técnico en 
+aplicación, no se recibieron observaciones de Coordinado alguno al informe técnico ya 
+mencionado, publicado en la página web del Coordinador mediante la comunicación de la 
+Ref. [2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme a lo anterior, los valores del parámetro de Mínimo Técnico de la Central 
+Hidroeléctrica Queltehues U3, se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Mínimo Técnico de la Central Hidroeléctrica Queltehues U3 
+Central 
+Potencia Bruta [MW] 
+SS/AA 
+[MW] 
+Pérdidas en la 
+central (1) [MW] 
+Potencia 
+Mínima Neta (2) 
+[MW] 
+HP Queltehues U3 
+0,7000 
+0,000 
+0,0600 
+0,6400 
+(1) Las pérdidas en la central incluyen pérdidas en el sistema colector y pérdidas en el transformador de poder 
+de la unidad. 
+(2) Potencia inyectada en la barra 12 kV en el paño CG3 de la S/E Queltehues. 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en la Tabla 1 entrarán en 
+vigencia a partir de las 00:00 horas del 24 de julio de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Mínimo Técnico > Informes de Mínimos Técnicos Unidades 
+Generadoras > HP Queltehues U3 > 2026 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PVV/CRV/SGM/PCG/adr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

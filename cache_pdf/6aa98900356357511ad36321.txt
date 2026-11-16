@@ -1,0 +1,50 @@
+Panamericana, Norte Km 1405 s/n 
+Postal Address: Antonio Bellet 292 of.706 – Providencia, Santiago, Chile 
+ 
+ 
+ 
+ 
+Señor 
+Coordinador Eléctrico Nacional.  
+ 
+Presente 
+Antofagasta, 15 de Septiembre del 2026. 
+ 
+Ref.: Respuesta Requerimiento N° 1000097 
+– Guía Técnica de Buenas Prácticas y 
+Requerimientos 
+Base 
+para 
+Sistemas 
+SCADA y SITR. 
+De nuestra consideración: 
+ 
+Junto con saludar, y en atención al Requerimiento N° 1000097, mediante el cual se solicita a las 
+Empresas Coordinadas revisar la “Guía Técnica de Buenas Prácticas y Requerimientos Base para 
+Sistemas SCADA y SITR” y remitir las observaciones, comentarios o propuestas de mejora que se 
+estimen pertinentes, informamos que Mantos Blancos ha efectuado la revisión del documento. 
+Como resultado de esta revisión, y para efectos del proceso de consulta señalado, Mantos Blancos 
+no presenta observaciones, comentarios ni propuestas de modificación a la versión de la Guía 
+remitida por el Coordinador. 
+Asimismo, como antecedente complementario, informamos que actualmente Mantos Blancos 
+mantiene la reportabilidad de las señales SITR requeridas por el Coordinador, encontrándose éstas 
+operativas y disponibles para su reporte, en concordancia con los requerimientos aplicables.  
+En consecuencia, no se incorporan observaciones en la planilla dispuesta para este proceso de 
+consulta. 
+En caso de que el Coordinador estime necesario contar con algún antecedente o aclaración 
+adicional respecto de la presente respuesta, Mantos Blancos queda disponible para atender 
+oportunamente dicho requerimiento a través de los canales establecidos. 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+ROGER DÍAZ GONZÁLEZ. 
+Jefe Distribución Eléctrica. 
+SI Eléctrica & Instrumentación. 
+FONO: +56 9 66592642 
+ 
+“Valoramos la Vida y cuidamos la Energía” 
+ 
+ 
+ 

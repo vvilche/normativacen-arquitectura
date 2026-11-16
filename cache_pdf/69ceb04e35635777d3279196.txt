@@ -1,0 +1,174 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+ 
+GM N°2026-026 
+01 de abril de 2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref: Actualización Respuesta Desempeño CT Manual Nueva Renca– febrero 2026 
+ 
+En relación con la aclaración a las respuestas enviadas por mi representada en relación con la 
+evaluación del desempeño de los Servicios Complementarios, durante el mes de febrero de 2026, 
+publicada mediante carta DE01769-26 de fecha 18 de marzo de 2026, tenemos las siguientes 
+actualizaciones: 
+1. Enviar la curva PQ provisoria que considere la limitación provocada por el tap el día 01 de 
+abril de 2026. Lo anterior debido a que se requiere información ajustada a la operación 
+real de la máquina para la toma de decisiones operacionales por parte de este 
+Coordinador. 
+Respecto de la solicitud de actualización de la curva PQ, se informa que actualmente la 
+central opera cuidando y monitoreando el sistema de regulación de tensión y la interacción 
+con la red interna de la central. 
+A la fecha, aún se están realizando simulaciones para poder concluir de manera definitiva si 
+existen o no restricciones que correspondan a una limitación en la curva PQ, pudiendo estar 
+influenciadas por condiciones operacionales específicas o criterios de operación adoptados 
+en terreno. En este contexto, se encuentran en desarrollo simulaciones eléctricas en 
+plataforma DigSilent, considerando distintos escenarios representativos del sistema, con el 
+objetivo de: 
+• 
+Evaluar el comportamiento de la unidad en la zona de absorción de potencia reactiva, 
+• 
+Cuantificar el impacto del rango de regulación de los transformadores involucrados, 
+• 
+Determinar si existe una limitación efectiva que deba reflejarse en la curva PQ. 
+En virtud de lo anterior, y con el fin de asegurar que la información reportada represente 
+adecuadamente la condición real de la unidad, la actualización de la curva PQ será remitida 
+una vez finalizado este proceso de revisión, lo cual se espera durante la semana del 13 de 
+abril de 2026. Mientras tanto, la curva PQ vigente se mantiene como referencia de la 
+capabilidad de la unidad, sujeta a las verificaciones en curso. 
+ 
+
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+2. Indicar claramente el trabajo que se realizará para solucionar de manera definitiva esta 
+limitación. La carta de Ref. [6] (carta enviada el 6 de marzo) no menciona si el tap será 
+cambiado por un equipo nuevo u otra acción. Al no existir claridad sobre el trabajo a 
+realizar este Coordinador considera excesivo el aumento de plazo (abril a diciembre) para 
+el cierre del plan. 
+Como se mencionó en el punto anterior, actualmente se encuentra en desarrollo un análisis 
+técnico integral orientado a identificar y definir la solución más adecuada para abordar la 
+condición observada en la operación de la central en relación al Control de Tensión. 
+En particular, las actividades en curso consideran: 
+• 
+Evaluación del comportamiento del sistema de regulación de tensión de la unidad 
+en interacción con la red interna de la central. 
+• 
+Análisis del rango operativo de los transformadores involucrados y su impacto en la 
+prestación de potencia reactiva. 
+• 
+Revisión de la estrategia de control de tensión, incluyendo eventuales ajustes en la 
+lógica de operación. 
+Adicionalmente, en caso de confirmarse la necesidad de implementar mejoras en la 
+operación, se contempla el desarrollo y ajuste de ventanas de control o estrategias 
+operacionales específicas, orientadas a optimizar la prestación del servicio de control de 
+tensión, el cual pudiera requerir desarrollo por parte de especialistas, validación mediante 
+simulaciones, pruebas en terreno, y coordinación con el equipo de operaciones para su 
+correcta aplicación, siendo este el plazo máximo de implementación. 
+En este contexto, el plazo previamente informado (abril a diciembre) considera no solo la 
+etapa de diagnóstico, sino también el desarrollo, validación e implementación segura de las 
+soluciones que eventualmente se definan. En caso de detectar que nos es necesario una 
+inversión mayor o adquisición de equipo relevantes espera que el palzo se ajuste al mes de 
+junio de 2026. 
+Cabe destacar que, una vez finalizado el proceso de simulación en curso, se podrá precisar 
+con mayor claridad si la solución corresponde a ajustes operacionales, modificaciones en la 
+estrategia de control, o intervenciones de mayor alcance, lo cual será oportunamente 
+informado a ese Coordinador junto con un cronograma actualizado. 
+3. Se solicita informar el estado de avance del plan a la fecha. 
+TAREA 
+PROGRESO 
+INICIO 
+FIN 
+1. Identificación de causas raíz de menor desempeño 
+  
+  
+  
+Levantamiento información CEN y NR 
+100% 
+2-1-26 
+15-1-26 
+Verificación SITR 
+100% 
+15-1-26 
+21-1-26 
+Revisión desempeño 
+100% 
+21-1-26 
+5-3-26 
+Informe Coordinador 
+100% 
+15-1-26 
+5-3-26 
+2. Análisis curva PQ y acciones correctivas 
+  
+  
+  
+Verificación curva PQ mediante simulaciones 
+85% 
+30-1-26 
+13-4-26 
+
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+Levantamiento de condiciones seguras de operación 
+70% 
+28-1-26 
+17-4-26 
+Evaluación de requerir ensayos 
+70% 
+13-4-26 
+30-4-26 
+Ejecución de medidas derivadas de la evaluación 
+20% 
+23-4-26 
+15-10-26 
+3. Plan de consolidación 
+  
+  
+  
+Verificación señales SITR utilizadas para el SSCC 
+90% 
+30-1-26 
+10-3-26 
+Informe de cierre 
+50% 
+30-3-26 
+13-4-26 
+Comunicación al Coordinador 
+0% 
+13-4-26 
+13-4-26 
+4. Monitoreo Control de Tensión 
+  
+  
+  
+Monitoreo de desempeño 
+0% 
+15-10-26 29-12-26 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+Carolina Vélez K. 
+Encargada Titular 
+Generadora Metropolitana SpA 
+ 
+ 

@@ -1,0 +1,229 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Santiago, 13 de marzo de 2026 
+DE 01690-26 
+ 
+ 
+Señores 
+Encargados 
+Según Lista de Distribución 
+Presente 
+ 
+Ref. 
+Cumplimiento 
+de 
+los 
+planes 
+de 
+implementación de PMU del Módulo de 
+Medición Fasorial del SEN. 
+[1] Carta DE04823-25, de fecha 19 de 
+agosto de 2025, Instruye implementación y 
+solicita plan de trabajo para implementación 
+de puntos de monitoreo de Módulo Fasorial 
+del SEN. 
+De mi consideración: 
+Me refiero a la carta de la Ref. [1], mediante la cual le solicité el envío del correspondiente plan de 
+trabajo y cronograma detallado que llevará a cabo para cumplir con la implementación de los 
+puntos de monitoreo mediante PMU instruidos a su representada. Al respecto, informamos que se 
+encuentra en curso un monitoreo mensual de dicho cronograma y, según los antecedentes 
+disponibles, su representada tiene hitos comprometidos que finalizan en febrero de 2026, por lo 
+que le solicito informar, a más tardar el próximo día 20 de marzo de 2026, lo siguiente: 
+• 
+Estado actual de la implementación por punto de monitoreo de su representada, indicados en 
+el Anexo. 
+• 
+Porcentaje de avance de los hitos en ejecución y pendientes (detallando si la PMU se 
+encuentra instalada en terreno, si finalizó la implementó de los canales de comunicaciones al 
+PDC local o corporativo según corresponda, estado de avance de la implementación de un 
+PDC local (sólo si corresponde) y el estado de adquisición de las licencias de comunicaciones 
+de PMU requeridas. 
+• 
+Cualquier desviación respecto de los plazos originalmente comprometidos, junto con su 
+respectiva justificación. 
+Finalmente, en caso de requerir consultas adicionales, agradezco derivarlas directamente a través 
+del correo DMAP@coordinador.cl . 
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GO/SGASO/DMAP 
+Incluye: Lo indicado 
+c.c.: 
+Sres. Encargados Suplentes, según lista de Distribución 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ANEXO 
+ 
+Coordinado 
+Elemento  
+Punto de medida 
+ANTU ENERGY SPA 
+PMG VILLA LONGAVI 
+En punto de control PPC 
+AUSTRIANSOLAR CHILE SEIS SPA 
+PFV LA HUELLA 
+En punto de control PPC 
+BIOENERGÍAS FORESTALES SPA 
+TER SANTA FE 
+Bornes de la unidad 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC BUCALEMU U1 
+Bornes de la unidad 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC BUCALEMU U2 
+Bornes de la unidad 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC LAJA U1 
+Bornes de la unidad 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC LAJA U2 
+Bornes de la unidad 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC PACIFICO U1 
+Bornes de la unidad 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC PACIFICO U2 
+Bornes de la unidad 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC PACIFICO U3 
+Bornes de la unidad 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC CORDILLERA 
+Bornes de la unidad 
+BOLERO SPA 
+PFV BOLERO (C456) 
+Paño J3 de SE Bolero 
+COMASA SPA 
+TER LAUTARO U1 
+Bornes de la unidad 
+COMASA SPA 
+TER LAUTARO U2 
+Bornes de la unidad 
+COPIAPÓ SOLAR SPA 
+Proy. PFV Central Desierto de 
+Atacama (DDA) 
+Lado AT del transformador 
+elevador del parque 
+EL PELÍCANO SOLAR COMPANY SPA 
+PFV EL PELICANO (C426) 
+Paño JT1 de SE El Pelícano 
+ELEKTRA GENERACIÓN S.A. 
+TER CONSTITUCION 
+Bornes de la unidad 
+ELEKTRA GENERACIÓN S.A. 
+TER CHILOE 
+Bornes de la unidad 
+EMPRESA DE TRANSMISIÓN 
+ELÉCTRICA TRANSEMEL S.A. 
+T2D S/E DUQUECO BT1 
+lado AT o BT del transformador 
+EMPRESA ELÉCTRICA VALLENAR S.A. 
+TER MAITENCILLO 
+Bornes de la unidad 
+ENERGÍA EÓLICA LOS OLMOS SPA 
+PE LOS OLMOS (C1757) 
+Paño JT1 de SE Los Olmos 
+GPG GENERACIÓN DISTRIBUIDA SPA 
+PMG PFV SOLAR PALERMO 
+En punto de control PPC 
+GR LIUN SPA 
+PFV TAMANGO 
+En punto de control PPC 
+IBEREÓLICA CABO LEONES II S.A. 
+PFV SAN PEDRO (C1672) 
+Paño JT1 de SE Lasana 
+IMELSA ENERGÍA SPA 
+TER CENIZAS 
+Bornes de la unidad 
+PARQUE EÓLICO LOS CURUROS SPA 
+PE LOS CURUROS (C318) 
+Paño JT1 de SE Central La 
+Cebada 
+PARQUE FOTOVOLTAICO NUEVO 
+QUILLAGUA SPA 
+PFV NUEVO QUILLAGUA II 
+En punto de control PPC 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+PARQUE FOTOVOLTAICO NUEVO 
+QUILLAGUA SPA 
+BESS NUEVO QUILLAGUA II 
+Punto de control del BESS 
+PARQUE FOTOVOLTAICO NUEVO 
+QUILLAGUA SPA 
+BESS NUEVO QUILLAGUA 
+Punto de control del BESS 
+PARQUE SOLAR LEYDA SPA 
+PFV LEYDA 
+En punto de control PPC 
+STATKRAFT EOLICO S.A. 
+PE LOS CERRILLOS 
+En punto de control PPC 
+STATKRAFT EOLICO S.A. 
+PE CARDONAL 
+En punto de control PPC 
+STATKRAFT EOLICO S.A. 
+PE MANANTIALES 
+En punto de control PPC 
+TAMARUGAL SOLAR SPA 
+BESS ESTELA 
+Punto de control del BESS 
+TRALKA SPA 
+PFV QUILMO 
+En punto de control PPC 
+WPD DUQUECO SPA 
+PE LOMAS DE DUQUECO 
+En punto de control PPC 
+WPD NEGRETE SPA 
+PE NEGRETE 
+En punto de control PPC 
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Lista de Distribución 
+ 
+  
+ Antu Energy SpA 
+ AustrianSolar Chile Seis SpA 
+ Bioenergías Forestales SpA 
+ Bolero SpA 
+ Copiapó Solar SpA 
+ Comasa SpA 
+ El Pelícano Solar Company SpA 
+ Elektra Generación S.A. 
+ Empresa de Transmisión Eléctrica Transemel S.A. 
+ Empresa Eléctrica Vallenar S.A. 
+ Energía Eólica Los Olmos SpA 
+ GPG Generación Distribuida SpA 
+ GR Liun SpA 
+ Ibereólica Cabo Leones II S.A. 
+ Imelsa Energía SpA 
+ Parque Eólico Los Cururos SpA 
+ Parque Fotovoltaico Nuevo Quillagua SpA 
+ Parque Solar Leyda SpA 
+ Statkraft Eólico S.A. 
+ Tamarugal Solar SpA 
+ Tralka SpA 
+ WPD Duqueco SpA 
+ WPD Negrete SpA 
+ 

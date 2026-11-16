@@ -1,0 +1,90 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 21 de enero de 2026 
+ 
+    
+DE 00380-26 
+Señor 
+Eliseo López 
+Encargado Titular  
+Generación Solar SpA 
+Presente 
+Ref.: Solicitud normalización de ajustes en el 
+controlador potencia-frecuencia del BESS PFV 
+María Elena. 
+[1] Carta S/N, Ref.: “Envío informe de CPF 
+Proyecto BESS María Elena NUP 4786”, de 
+fecha 05 de agosto de 2025.  
+Responde a ingreso DE07561-25. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, informo a usted que este Coordinador ha 
+identificado que la respuesta que presenta el controlador de potencia-frecuencia del BESS 
+PFV María Elena, es afectada por una rampa de toma y bajada de carga, la cual impide 
+que la instalación pueda entregar la totalidad de su aporte dentro de los tiempos definidos 
+en la normativa.  
+ 
+Al respecto, este Coordinador emitió observaciones que fueron respondidas mediante la 
+comunicación de la Ref. [1], en donde indica lo siguiente: 
+ 
+Literal f) “…los ensayos presentados en la nueva versión del informe se han desarrollado 
+considerando la rampa de toma y reducción de carga desactivada, a efectos de representar 
+el cambio que se implementará en el PPC del proyecto.” 
+ 
+Considerando lo establecido en el artículo 3-17 de la Norma Técnica de Seguridad y Calidad 
+de Servicio (NTSyCS), donde se señala que el ajuste que deben implementar las unidades 
+generadoras, así como los parques eólicos, fotovoltaicos y sistemas de almacenamiento 
+para la prestación del Control Primario de Frecuencia, será determinado por el Coordinador 
+en atención a la seguridad y calidad del servicio, se solicita a su representada implementar 
+los cambios en comprometidos por su representada, con el fin de no limitar el aporte de la 
+unidad al CPF.  
+ 
+Considerando lo planteado, y conforme a lo establecido en el Artículo 4-18 de la Norma 
+Técnica de Servicios Complementarios (NT-SSCC), se solicita a su representada lo 
+siguiente: 
+1. Enviar mediante carta y con copia al correo verificacion.sscc@coordinador.cl a más 
+tardar el 30 de enero de 2026, un plan de trabajo orientado a normalizar el aporte 
+de CPF de la instalación, eliminando la restricción actual. Este plan deberá 
+contemplar el envío de un informe con los resultados del comportamiento de la 
+instalación, en un plazo no superior a marzo de 2026, donde deberá incluir los 
+análisis de las pruebas efectivas que se especifican en el numeral 2. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+2. Realizar pruebas de operatividad con el fin de verificar que el controlador de 
+potencia/frecuencia del BESS se encuentra ajustado acorde con las características 
+presentes en el Informe Técnico de CPF presentado en comunicación de la Ref. [1]. 
+Para ello, deberá ejecutar al menos lo siguiente:  
+• 
+Activar el CPF en el BESS PFV María Elena (BESS Generación Solar) 
+durante un periodo mínimo de una hora y registrar el comportamiento del 
+controlador de CPF del BESS en lo que respecta a su respuesta. 
+• 
+Ejecutar en al menos un punto de carga, tanto en el modo carga como en el 
+modo descarga, ensayos de escalón de +/-0,2 Hz y +/-0,7 Hz y medir 
+respuesta por 5 minutos. 
+ 
+ 
+Cualquier consulta al respecto, dirigirla al mail verificacion.sscc@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+                                                         Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+CRV/DIR/WJS/adr 
+c.c.:  
+Sr. Bruno Arnold – Encargado Suplente Generación Solar SpA. 
+ 
+ 
+ 

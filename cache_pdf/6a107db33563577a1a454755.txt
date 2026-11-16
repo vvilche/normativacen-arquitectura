@@ -1,0 +1,375 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+ 
+Santiago, 22 de mayo de 2026  
+DE 03450-26 
+ 
+ 
+Señores 
+Encargados Titulares Empresas PMGD  
+Según lista de distribución 
+Presente 
+ 
+Ref.: Instruye integración y envío de señales SITR a 
+PMGD en zona de congestión 
+De mi consideración,  
+ 
+Me refiero a lo dispuesto en los artículos 4-1 y 4-2 del Capítulo 4 de la Norma Técnica de 
+Seguridad y Calidad de Servicio (NT SyCS) los cuales establecen que la obligación de los 
+Coordinados de suministrar al Coordinador toda la información en tiempo real que este 
+considere necesaria para una adecuada coordinación de la operación del Sistema Eléctrico 
+Nacional (SEN). Dicho requerimiento se materializa a través del Sistema de Información en 
+Tiempo Real (SITR), cuyas variables y parámetros técnicos y operativos se definen en el 
+Anexo Técnico "Definición de Parámetros Técnicos y Operativos para el Envío de Datos al 
+SITR". 
+Al respecto, y considerando que su representada posee instalaciones donde se presentan 
+congestiones en el sistema de transmisión zonal, resulta fundamental que este Coordinador 
+disponga de la información para la supervisión en tiempo real necesaria para ejercer las 
+funciones de despacho y control establecidas en el Título 2-6 de la NT SyCS, a fin de 
+preservar la seguridad instantánea del suministro y el cumplimiento de los estándares de 
+Seguridad y Calidad de Servicio. La ausencia o indisponibilidad de las señales SITR de un 
+PMGD emplazado en una zona de congestión compromete la capacidad del Coordinador 
+de gestionar restricciones operativas en tiempo real, afectando la confiabilidad del sistema. 
+En consecuencia, se instruye a su representada que implemente y habilite las señales SITR 
+que se detallan en el Anexo N°1 "Listado de Señales SITR Requeridas" adjunto a esta 
+comunicación, en un plazo no superior a 30 días hábiles. Dicho listado corresponde al 
+conjunto mínimo de variables necesarias para la supervisión operacional de su instalación. 
+Para dar cumplimiento a lo anterior, se requiere que su representada realice las siguientes 
+acciones:  
+a) Completar los datos del Anexo N°1 adjunto según corresponda a las características de 
+su instalación, y remitir dicha información al correo pgp.sitr@coordinador.cl en un plazo no 
+superior a 15 días hábiles contados desde la recepción de la presente comunicación. El 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Coordinador responderá dicho listado indicando los códigos TAG (Tags) correspondientes 
+para la implementación de cada señal.  
+b) Una vez obtenida la conformidad del listado de señales por parte del Coordinador, 
+solicitar la coordinación de las pruebas de integración al correo TEC.scada@coordinador.cl. 
+Las señales implementadas deberán cumplir con las especificaciones técnicas establecidas 
+en los Artículos 7 al 10 del Anexo Técnico "Definición de Parámetros Técnicos y Operativos 
+para el Envío de Datos al SITR".  
+c) Garantizar, posterior a la integración exitosa de las señales, una disponibilidad de la 
+información igual o superior al 99,5% mensual, conforme a lo establecido en el Artículo 4-
+13 de la NT SyCS.  
+Para consultas o coordinación técnica, su representada deberá contactarse con el 
+Departamento de Confiabilidad y Soporte Técnico de este Coordinador a través del correo 
+electrónico pgp.sitr@coordinador.cl. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+DCST/ycl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Anexo 1  
+Listado de Señales SITR Requeridas 
+ 
+Descripción 
+del Tipo de 
+Equipo 
+Elemento 
+del 
+Sistema de 
+Potencia 
+Descripción de la señal 
+requerida 
+Unidad de 
+medida 
+Tipo de 
+Señal 
+Estación 
+Meteorológica 
+PMGD 
+Velocidad del Viento 
+m/s 
+Análogo 
+Estación 
+Meteorológica 
+PMGD 
+Dirección del Viento 
+° 
+Análogo 
+Estación 
+Meteorológica 
+PMGD 
+Temperatura Módulos a la 
+altura de los paneles solares 
+°C 
+Análogo 
+Estación 
+Meteorológica 
+PMGD 
+Irradiancia (Global: Parques 
+sin seguidor/Directa: Parques 
+con seguidor) 
+W/m2 
+Análogo 
+Otros equipos PMGD 
+Disponibilidad Parque según 
+recurso primario 
+MW 
+Análogo 
+Otros equipos PMGD 
+Potencia activa neta generada  MW 
+Analógica 
+Otros equipos PMGD 
+Potencia reactiva neta 
+generada  
+MVAr 
+Analógica 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Lista de distribución 
+ 
+SE 
+PMGD 
+Coordinado 
+Cabrero 
+PMGD PFV QUINTACABRERO 
+SOL DEL SUR 9 SPA 
+PMGD PFV CABRERO SOLAR 
+CABRERO SOLAR SPA 
+PMGD PFV CORTIJO 
+APOLO SOLAR SPA 
+PMGD PFV EL RESPLANDOR 
+IMPULSO SOLAR EL RESPLANDOR SPA 
+PMGD TER YUMBEL 
+ESPINOS S.A. 
+PMGD TER ORAFTI 
+ORAFTI CHILE S.A. 
+PMGD PFV MOYA 
+SUVAN SOLAR SPA 
+Chacahuín 
+PMGD PFV SAN ANTONIO 
+CUENCA SOLAR SPA 
+PMGD PFV LAS CATITAS 
+PFV LAS CATITAS SPA 
+PMGD PFV LINARES SOLAR 
+CARBON FREE CHILE SPA 
+PMGD PFV CIPRES 
+CIPRÉS SPA 
+Panimávida 
+PMGD PFV MERCURIO SUR 
+LOS LIBERTADORES SOLAR SPA 
+PMGD PFV SATURNO NORTE 
+LOS LIBERTADORES SOLAR SPA 
+PMGD HP ROBLERIA 
+HIDROELÉCTRICA ROBLERIA SPA 
+Chimbarongo 
+PMGD PFV VENTISQUERO SOLAR 
+TOESCA RENOVABLES SPA 
+PMGD PFV EL ROMERAL 
+CARBON FREE CHILE SPA 
+PMGD PFV PARQUE SOLAR MEMBRILLO 
+FOTOVOLTAICA AVELLANO SPA 
+PMGD PFV CHIMBARONGO 
+IEH SOLAR CHILE SPA 
+Cholguán 
+PMGD PFV TOPACIO 
+PARQUE SOLAR ESMERALDA SPA 
+PMGD PFV LOS BANOS 
+PARQUE SOLAR ESMERALDA SPA 
+PMGD PFV SGT TUCAPEL 
+RAVENNA SOLAR SPA 
+PMGD PFV YUNGAY II TRILALEO 
+MVC SOLAR 17 SPA 
+PMGD PFV CHOLGUAN 
+RAVENNA SOLAR SPA 
+PMGD PFV PELLIN 
+SOLAR TI QUINCE SPA 
+Duqueco 
+PMGD PFV DOÑA REGINA SOLAR 
+PACIFIC SPA 
+PMGD PFV SANTA PAMELA 
+RUBÉN SOLAR SPA 
+PMGD PFV SAN EUGENIO SOLAR 
+SAN EUGENIO SOLAR SPA 
+PMGD PFV DUQUECO SOLAR 
+COCHARCAS SOLAR SPA 
+PMGD PFV PUELCHE SOLAR 
+EMOAC SPA 
+PMGD PFV SDSI 
+TOESCA RENOVABLES SPA 
+PMGD TER ANCALI 
+AGRÍCOLA ANCALÍ LIMITADA 
+Quereo 
+PMGD PFV MAIMALICAN 
+PS MAIMALICAN SPA 
+PMGD PFV FLORENCIA SOLAR 
+ENFRAGEN CHILE SOLAR SPA 
+PMGD TER EL FARO 
+SCL III SPA 
+PMGD PFV NORTE CHICO 
+TRALKA SPA 
+PMGD TER RAMADILLA 
+GENERADORA LA CALERA SPA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+SE 
+PMGD 
+Coordinado 
+PMGD TER CONCHALI 
+QUEMCHI GENERADORA DE 
+ELECTRICIDAD S.A. 
+Retiro 
+PMGD PFV EL PICHON 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV LOS GORRIONES 
+TRALKA SPA 
+Alhue 
+PMGD PFV LA BRUJULA 
+PS LA BRUJULA SPA 
+PMGD PFV CUARZO 
+ENEL GREEN POWER CHILE S.A. 
+PMGD PFV AHE BUENAS YERBAS 
+SETF ENERGÍAS RENOVABLES SPA 
+PMGD PFV FARAMALLA 
+PARQUE FOTOVOLTAICO FARAMALLA SPA 
+PMGD PFV LA ESTANCIA 
+CARBON FREE CHILE SPA 
+El Peumo 
+PMGD PFV SAN RAMIRO 
+PELEQUÉN SUR SPA 
+PMGD PFV EL SAUCE 
+CHESTER SOLAR V SPA 
+PMGD PFV EL ROBLE 
+CHESTER SOLAR IV SPA 
+PMGD PFV PARQUE FOTOVOLTAICO EL SHARON 
+ENEL GREEN POWER CHILE S.A. 
+Santa Rosa 
+PMGD PFV MORA 
+PMGD PFV MORA 
+PMGD PFV LO CHACON 
+PFV LO CHACÓN SPA 
+PMGD PFV PARQUE ALHUE 
+MEMBRILLO SOLAR SPA 
+PMGD PFV LO SIERRA 
+PARQUE SOLAR H6 SPA 
+PMGD PFV GR SANTA ROSA 
+GR CHAQUIHUE SPA 
+PMGD PFV DON ANDRONICO 
+PARQUE SOLAR CANCHA SPA 
+Vicuña 
+PMGD PFV SOFIA 
+GPG GENERACIÓN DISTRIBUIDA SPA 
+PMGD PFV OLIVIER 
+GPG GENERACIÓN DISTRIBUIDA SPA 
+PMGD PFV OLIVIA 
+GPG GENERACIÓN DISTRIBUIDA SPA 
+PMGD PFV SANTA FRANCISCA 
+CVE PROYECTO DIECISIETE SPA 
+PMGD PFV GABRIELA 
+ENFRAGEN CHILE SOLAR SPA 
+PMGD PFV LUNA DEL NORTE 
+TRALKA SPA 
+PMGD PFV SOL DEL NORTE 
+TRALKA SPA 
+PMGD PFV TAMBO REAL 
+GENERADORA ELÉCTRICA KALTEMP LTDA. 
+Monte Patria 
+PMGD PFV LAS MAJADAS 
+SONNEDIX CHILE INVERSIONES 3 SPA 
+PMGD TER MONTE PATRIA 
+ELEKTRA GENERACIÓN S.A. 
+PMGD PFV SIRIMAVO 
+PACIFIC SPA 
+PMGD PFV PARQUE SOLAR EL PALQUI 
+FÉNIX SOLAR SPA 
+PMGD HP LA PALOMA 
+HIDROPALOMA S.A. 
+Ovalle 
+PMGD PFV PARQUE SOLAR OVALLE NORTE 
+PARQUE SOLAR OVALLE NORTE SPA 
+PMGD PFV LA CHIMBA BIS 
+LA CHIMBA BIS SPA 
+PMGD PFV SANTA CLARA 
+IMPULSO SOLAR LAS LLOYSAS SPA 
+PMGD PFV TALHUEN 
+REDEN TALHUEN SOLAR SPA 
+PMGD PFV AMPARO DEL SOL 
+SONNEDIX CHILE INVERSIONES 3 SPA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+SE 
+PMGD 
+Coordinado 
+PMGD PFV LAGUNILLA 
+IEH SOLAR CHILE SPA 
+PMGD PFV ALTURAS DE OVALLE 
+IEH SOLAR CHILE SPA 
+PMGD PFV RAMIREZ DEL VERANO SOLAR 
+PACIFIC SPA 
+PMGD PFV LA CHAPEANA 
+LA CHAPEANA SPA 
+PMGD PFV SANTA LUCIA 
+SONNEDIX METRO EXPANSION SPA 
+PMGD PFV LOS NOGALES 
+GPG GENERACIÓN DISTRIBUIDA SPA 
+PMGD PFV ORQUIDEA SOLAR 
+CVE PROYECTO QUINCE SPA 
+PMGD PFV PASTRAN 
+ENFRAGEN CHILE SOLAR SPA 
+PMGD PFV SAMO BAJO 
+SAMO BAJO SPA 
+PMGD PFV RECOLETA 
+DIEGO DE ALMAGRO SOLAR 3 S.A. 
+PMGD PFV SUNHUNTER 
+ENFRAGEN CHILE SOLAR SPA 
+PMGD PFV GRANATE 
+ENFRAGEN CHILE SOLAR SPA 
+PMGD PFV ANAKENA 
+ENFRAGEN CHILE SOLAR SPA 
+PMGD PFV PRETTY FIELD 
+CAMPO LINDO SPA 
+PMGD PFV LAS MOLLACAS 
+LAS MOLLACAS SPA 
+ 

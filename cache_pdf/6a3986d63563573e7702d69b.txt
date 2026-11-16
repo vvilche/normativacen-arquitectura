@@ -1,0 +1,210 @@
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Santiago, 19 de junio de 2026 
+OP 090-26 
+ 
+Sr. 
+Patricio Valenzuela V. 
+Subgerenta de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA 
+CARTA 
+DE04102-26: 
+CUMPLIMIENTO 
+DE 
+EXIGENCIAS 
+NORMATIVAS DE LAS SEÑALES SITR PARA LA PRESTACIÓN DE SSCC DE 
+ENEL GENERACIÓN CHILE S.A. Y ENEL GREEN POWER S.A. 
+ 
+De nuestra consideración, 
+En relación con su carta de la referencia, mediante la cual se solicita informar sobre las 
+medidas implementadas y el plan de trabajo asociado a la normalización de señales SITR 
+para la verificación de la prestación de Servicios Complementarios (SSCC), nuestras 
+representadas Enel Generación Chile S.A. y Enel Green Power Chile S.A. se informa lo 
+siguiente: 
+ 
+1. Consideraciones generales 
+Enel Generación Chile S.A. y Enel Green Power Chile S.A. han desarrollado un proceso 
+sistemático de revisión de la calidad de las señales SCADA reportadas a la plataforma 
+SITR, considerando los criterios establecidos en el Anexo Técnico “Definición de 
+Parámetros Técnicos y Operativos para el Envío de Datos al SITR”, en particular 
+respecto de: 
+• 
+Disponibilidad mensual de información ≥ 99,5% 
+• 
+Validez de datos (razonabilidad y refresco) 
+En este contexto, se han identificado casos puntuales de señales que presentan 
+comportamientos consistentes con: 
+• 
+Desviaciones en criterios de razonabilidad. 
+• 
+Inconsistencias asociadas a escalamiento o modelación de variables. 
+• 
+Condiciones de refresco no homogéneas. 
+• 
+Interacciones entre sistemas de control local y sistemas de adquisición. 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Estos aspectos se encuentran actualmente en proceso de análisis detallado junto a 
+proveedores tecnológicos (OEM/SCADA), dado que parte de las variables involucradas 
+dependen de configuraciones de origen en sistemas de control de las unidades. 
+ 
+2. Medidas implementadas 
+A la fecha, se han ejecutado las siguientes acciones: 
+• 
+Revisión y validación de telemetrías críticas asociadas a variables eléctricas 
+(P, Q, V) en las instalaciones indicadas en Anexo 1 de su carta. 
+• 
+Ajustes de escalamiento y límites operativos en sistemas locales de 
+adquisición de datos, para mejorar consistencia de datos en TER QUINTERO. 
+• 
+Normalización parcial de señales, se han eliminado las bandas muertas para las 
+señales de Q y V en la central Pangue, adicional a la ya informada TER Taltal. 
+• 
+Implementación de monitoreo interno de calidad de señal, incorporando 
+alarmas de calidad, refresco y coherencia. 
+Se han efectuado validaciones desde terreno con las señales de HE Pilmaiquén, las 
+cuales se mantienen en evaluación, ya que vemos que al igual que en todos los sitios de 
+ENEL, se actualizan los datos cada 2 segundos, aun cuando el valor se mantenga sin 
+variación. 
+En el caso de TER Atacama, se han efectuado validaciones desde terreno las cuales se 
+mantienen en evaluación, ya que vemos que al igual que en todos los sitios de ENEL, se 
+actualizan los datos cada 2 segundos, aun cuando el valor se mantenga sin variación. 
+Estas medidas han permitido mejorar progresivamente la calidad de un subconjunto de 
+señales, sin perjuicio de que subsisten casos que requieren intervenciones adicionales. 
+ 
+3. Plan de trabajo 
+Se ha definido el siguiente plan de trabajo para la regularización de las señales 
+observadas: 
+Línea de 
+acción 
+Descripción 
+Plazo 
+estimado 
+Impacto esperado 
+Diagnóstico 
+avanzado 
+Análisis de señales(TAGs 
+observados), incluyendo 
+validación contra sistemas 
+locales 
+Corto plazo 
+Identificación de posibles 
+problemas debido a la 
+banda muerta del 2% en 
+cumplimiento con la 
+NTSCS. 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Línea de 
+acción 
+Descripción 
+Plazo 
+estimado 
+Impacto esperado 
+Intervención 
+RTU 
+Ajustes de configuración, 
+filtros y eliminación de 
+banda muerta. 
+Corto–
+mediano 
+plazo 
+Cambio de valor de datos 
+en menos de 30 segundos. 
+Pruebas y 
+validación 
+Verificación conjunta de 
+señales en SITR 
+Mediano 
+plazo 
+Asegurar cumplimiento de 
+criterios AT-SITR 
+Monitoreo 
+continuo 
+Implementación de control 
+de calidad permanente 
+Permanente 
+Sostenibilidad del 
+desempeño 
+ 
+Las actividades anteriores consideran una priorización de las señales asociadas a 
+verificación de SSCC. 
+Finalmente, se informan las fechas tentativas asociadas a los hitos indicados en la carta de 
+la REF [1]: 
+ITEM 
+NOMBRE DE LA TAREA 
+FECHA DE 
+INICIO 
+FECHA DE 
+TÉRMINO 
+1 
+Diagnóstico avanzado 
+18-06-2026 
+30-07-2025 
+2 
+Ajustes de configuración, filtros y 
+eliminación de banda muerta. 
+01-08-2026 
+30-08-2026 
+ 
+3 
+Verificación conjunta de señales 
+en SITR 
+01-09-2026 
+15-09-2026 
+4 
+Implementación de control de 
+calidad permanente 
+22-06-2026 
+Permanente 
+ 
+4. Consideraciones finales 
+Las empresas reafirman su compromiso con el cumplimiento de las exigencias normativas 
+vigentes y la mejora continua de la calidad de la información reportada al SITR. 
+Cabe señalar que parte de las normalizaciones requeridas dependen de configuraciones y 
+ajustes en sistemas de control provistos por terceros, lo que implica plazos asociados a 
+procesos de diagnóstico, validación técnica externa y contratación de servicios. 
+Sin embargo, es importante señalar que ENEL actualiza los datos cada 2 segundos, aun 
+cuando el valor sea el mismo, esto debido a que no supera la banda muerta del 2%, por lo 
+cual se observan valores iguales en periodos superiores a 30 segundos. 
+Sin perjuicio de lo anterior, se continuará avanzando con la mayor celeridad posible en la 
+implementación de las medidas identificadas, manteniendo informado al Coordinador sobre 
+los avances relevantes. 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN. 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+ 
+ 
+ 

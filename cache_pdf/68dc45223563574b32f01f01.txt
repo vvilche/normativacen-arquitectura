@@ -1,0 +1,200 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 30 de septiembre de 2025 
+DE 06127-25 
+Señor 
+Javier Toro C. 
+Encargado Titular 
+Acciona Energía Chile Holdings S.A. 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Control Secundario de Frecuencia e integración 
+al Despacho Económico de la Central PE San 
+Gabriel. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), se ha realizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+automático del GMS/SCADA de la Central PE San Gabriel. Como resultado de este 
+proceso, la central mencionada queda habilitada para la prestación del mencionado servicio 
+complementario a partir de las 00:00 del día 02 de octubre de 2025. 
+ 
+Por otra parte, para efectos de elaborar el correspondiente Informe Técnico de Verificación 
+según lo establecido en la Guía de Verificación de Control de Frecuencia, le solicito envíe 
+a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 30 de octubre 
+de 2025, la siguiente información asociada al parque: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+ 
+Los reportes técnicos que justifican la verificación de la capacidad de la prestación del SC 
+de CSF de la central mencionada se encuentran publicados en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Secundario de Frecuencia > Central PE San Gabriel 
+ 
+Dado lo anterior, para que la central PE San Gabriel pueda participar de las subastas de 
+CSF, deberán completar el proceso de solicitud de incorporación a la plataforma de 
+subastas. Para ello, su representada deberán presentar los antecedentes indicados en las 
+Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, la central en asunto podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del Control Secundario de Frecuencia. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse al correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+C.c.: 
+Sr. Felipe Escobar – Encargado Suplente Acciona Energía Chile Holdings S.A. 
+DCO/DMAP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central  
+PE San Gabriel 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE San Gabriel 
+• 
+Potencia máxima bruta: 183 [MW] 
+• 
+Potencia máxima neta: 178,2 [MW] 
+• 
+Potencia mínima bruta: 0,6 [MW] 
+• 
+Potencia mínima neta: 0,08 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado para la central PE 
+San Gabriel. 
+ 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+PE San 
+Gabriel 
+ 
+Eólico 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+18,3 
+ 
+Bajada 
+18,3 
+ 
+Aporte CSF [MW] (1) 
+Subida 
+91,5 
+ 
+Bajada 
+-91,5 
+ 
+Límite de regulación superior [MW]  
+178,2 
+ 
+Límite de regulación inferior [MW]  
+5,0 
+ 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a potencia activa neta, podrán verse 
+modificados si se actualizan los parámetros operacionales de la central PE San Gabriel. 
+(2) El límite inferior se fija en 5 MW, valor hasta donde se consigue una rampa lineal de bajada y sin detención de 
+aerogeneradores.  
+ 

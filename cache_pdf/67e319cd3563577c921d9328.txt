@@ -1,0 +1,246 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 25 de marzo de 2025 
+DE 01780-25 
+Señor 
+Miguel Buzunariz R. 
+Encargado Titular 
+Enel Green Power Chile S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Primario de 
+Frecuencia (CPF) de la Central PFV Guanchoi. 
+Responde a Ingreso DE00104-25. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación del Servicio Complementario (SC) enviado por su representada mediante 
+carta de las Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en el Artículo 
+4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el 
+proceso de verificación del Servicio Complementario (SC) de Control Primario de 
+Frecuencia (CPF) de la Central PFV Guanchoi. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio a partir de las 00:00 del 27 de marzo de 2025, considerando los 
+recursos indicados en el anexo a la presente carta. 
+Al respecto, en el anexo a la presente comunicación se presenta la información indicada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del SC de la central mencionada se encuentra publicado en la siguiente ruta de 
+la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control 
+Primario de Frecuencia > Central PFV Guanchoi 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar los equipos necesarios para medir el desempeño de la prestación del SC de 
+CPF, que en este caso corresponden a un medidor potencia/frecuencia con 
+resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2].  Pese a no contar 
+con las señales necesarias para evaluar el desempeño en la prestación, la central 
+PFV Guanchoi quedará habilitada para prestar el Servicio Complementario (SC) de 
+Control Primario de Frecuencia (CPF), pudiendo ser instruida por este Coordinador 
+para prestar dicho servicio. En dicho caso, la evaluación de estás instrucciones será 
+“No Verificable”. 
+• 
+Considerando lo anterior, en base a los artículos 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional, para la evaluación de desempeño se podrán utilizar medios 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+alternativos para poder realizar la evaluación de desempeño de la prestación del 
+SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Adicionalmente, la Central PFV Guanchoi podrá participar de las subastas de CPF una vez 
+que complete el proceso de solicitud de incorporación a la plataforma de subastas. Para 
+ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DIR/PGR/adr 
+c.c.: Empresas Coordinadas 
+Sr. Adrián Guzmán M. – Encargado Suplente Enel Green Power Chile S.A. 
+ 
+Referencias: 
+ 
+[1] Carta EGP 001-25, Ref.: “ENVÍO DE INFORMES DE ENSAYOS DE VERIFICACIÓN DE 
+SERVICIOS COMPLEMENTARIOS DE CONTROL PRIMARIO DE FRECUENCIA, 
+PARQUES FOTOVOLTAICOS GUANCHOI Y CAMPOS DEL SOL DE ENEL GREEN 
+POWER CHILE S.A” de fecha 08 de enero de 2025. Ingreso: DE00104-25. 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 
+> 
+Instructivos 
+Técnicos 
+> 
+Protocolo 
+de 
+envío 
+de 
+registros 
+Potencia/Frecuencia para la evaluación del CPF 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central PFV 
+Guanchoi. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV Guanchoi (Potencia máxima neta 356,60 [MW]) 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia 
+(CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Central con rango de ajuste de estatismo (R) del 2% al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados desde el sistema SCADA por el 
+especialista del fabricante con la central en pleno funcionamiento. 
+• 
+Estatismo (R) se encuentra ajustado al 8%. 
+• 
+En el caso de la banda muerta, los ensayos se realizaron con un valor de ± 25 [mHz], 
+quedando este valor ajustado en el controlador. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Enel Green Power 
+Chile S.A. para su Central PFV Guanchoi. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+SSCC 
+  
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+  
+  
+  
+Valor determinado 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2 – 8% 
+Estatismo 
+8% 
+Rango de ajuste Banda muerta [mHz] 
+25 – 200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+356,60 
+Límite de regulación inferior [MW] (3) 
+0,6975 
+Aportes (4) 
+ BM = 25 [mHz]  
+R = 8% 
+10 segundos 
+Aporte +0,2[Hz] [MW] 
+-16,52 
+Aporte -0,2[Hz] [MW] 
+16,18 
+Aporte +0,7[Hz] [MW] 
+-62,66 
+Aporte -0,7[Hz] [MW] (5) 
+62,44 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-16,45 
+Aporte -0,2[Hz] [MW] 
+16,30 
+Aporte +0,7[Hz] [MW] 
+-62,76 
+Aporte -0,7[Hz] [MW] (5) 
+62,44 
+(1) Las pruebas de verificación del SC de CPF se realizaron únicamente con una banda muerta ajustada en 25 [mHz].  
+(2) Correspondiente a la Potencia Máxima Neta aprobada por el Coordinador.  
+ 
+(3) Correspondiente a la Potencia Mínima Neta aprobada por el Coordinador, considerando la totalidad de los inversores 
+funcionando. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 140 MW.  
+ 
+ 
+(5) Se asigna el valor teórico debido a que al momento de los ensayos el parque tenía una limitación de 176 MW. 
+ 
+ 
+ 
+ 

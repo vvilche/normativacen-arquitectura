@@ -1,0 +1,154 @@
+   
+Una empresa del Grupo Anglo American plc 
+Anglo American Sur S.A. 
+Isidora Goyenechea 2800, piso 46, Las Condes, Santiago, Chile. T +56 (2)230-6000 
+ 
+COBRE 
+Anglo American Sur S.A. 
+Los Bronces 
+Isidora Goyenechea 2800, piso 46 
+Las Condes, Santiago 
+CP: 7550647 
+Chile 
+ 
+Señor 
+Víctor Velar 
+Subgerente de Estudios y Simulación en Tiempo Real 
+Coordinador Eléctrico Nacional 
+Presente 
+Santiago, 08 de junio de 2026 
+S-AAS402-0626-2425 
+ 
+Mat. 
+: Consulta sobre procedimiento aplicable para la 
+realización de un ECAP del parque de instalaciones de 220 kV y 
+66 kV de Anglo American Sur S.A. 
+ 
+De nuestra consideración, 
+Junto con saludar, nos dirigimos a usted con el objeto de efectuar una consulta formal respecto del procedimiento aplicable 
+para la realización de un Estudio de Coordinación y Ajuste de Protecciones (ECAP) del parque completo de instalaciones de 220 
+kV y 66 kV de Anglo American Sur S.A. (en adelante AAS), y solicitar la orientación del Coordinador Eléctrico Nacional en los 
+aspectos que se detallan a continuación. 
+I.    ANTECEDENTES 
+AAS tiene la necesidad de realizar un ECAP integral de todas sus instalaciones de alta tensión en los niveles de 220 kV y 66 kV. 
+Este estudio tiene por objeto revisar y actualizar la coordinación y los ajustes de las protecciones de su sistema eléctrico, 
+garantizando la correcta operación, la seguridad de las instalaciones y el cumplimiento de las normas técnicas vigentes. 
+Cabe destacar que, al momento de la presente consulta, no se han identificado ni predeterminado cambios específicos en los 
+ajustes de protección como resultado preestablecido del estudio. En consecuencia, y a priori, este ECAP no estaría encuadrado 
+en la figura de una Modificación No Relevante (MNR) ni de una Modificación Relevante (MR), en los términos de la normativa 
+vigente, por cuanto no implicaría modificaciones físicas a las instalaciones de conexión. Sin perjuicio de lo anterior, es posible 
+que del desarrollo del estudio emerjan ajustes o modificaciones puntuales, cuyo encuadramiento normativo será evaluado 
+oportunamente. 
+En este contexto, AAS estima necesario organizar con el Coordinador el procedimiento a seguir antes de dar inicio formal al 
+estudio, especialmente considerando que las instalaciones de AAS en los niveles de 220 kV y 66 kV son contiguas o están 
+conjuntamente conectadas con instalaciones de Celeo Redes, Transelec y AES Andes. Dado que los ajustes de protección de 
+estas empresas pueden verse afectados por los resultados del ECAP, y viceversa, AAS considera indispensable que dichas 
+empresas participen coordinadamente en el proceso, bajo marcos y plazos que garanticen una coordinación efectiva. 
+ 
+ 
+ 
+ 
+ 
+
+   
+Una empresa del Grupo Anglo American plc 
+Anglo American Sur S.A. 
+Isidora Goyenechea 2800, piso 46, Las Condes, Santiago, Chile. T +56 (2)230-6000 
+ 
+COBRE 
+Anglo American Sur S.A. 
+Los Bronces 
+Isidora Goyenechea 2800, piso 46 
+Las Condes, Santiago 
+CP: 7550647 
+Chile 
+ 
+II.   CONSULTAS 
+En atención a lo expuesto, AAS formula las siguientes consultas al Coordinador: 
+1.   Procedimiento aplicable para un ECAP no asociado a un proyecto MNR/MR 
+Dado que el ECAP descrito no constituye, a priori, una MNR ni una MR, se consulta si existe un proceso o procedimiento formal 
+regulado por el Coordinador para este tipo de estudios técnicos independientes. En particular, se solicita al Coordinador que 
+indique:  
+(a) si el ECAP debe ser informado o ingresado ante el Coordinador mediante algún mecanismo específico. 
+(b) cuáles serían las etapas y plazos del proceso. 
+(c) si corresponde que el Coordinador emita algún tipo de resolución o pronunciamiento técnico como resultado del 
+estudio. 
+ 
+2.   Carta de Escenarios Mínimos (CEM) 
+La Carta de Escenarios Mínimos (CEM) es un instrumento fundamental que define los escenarios que deben analizarse en los 
+estudios técnicos de interconexión. Sin embargo, en el contexto de un ECAP no encuadrado como proyecto MNR/MR, no resulta 
+claro quién debe elaborar o proponer dicha carta ni cuál es el procedimiento para hacerlo. Al respecto, se consulta al 
+Coordinador: 
+a) ¿Corresponde al Coordinador elaborar y emitir la CEM para este estudio, de manera análoga a lo que ocurre en un 
+proceso MNR/MR? 
+b) ¿Puede AAS, en su calidad de empresa coordinada que impulsa el estudio, proponer directamente la CEM al 
+Coordinador para su aprobación? En caso afirmativo, ¿cuál es el mecanismo y el formato para hacerlo? 
+c) ¿Es posible que AAS proponga una CEM que contemple la participación de Celeo, Transelec y AES como empresas 
+directamente involucradas, de forma que los escenarios mínimos del estudio sean acordados entre todas las partes 
+y validados por el Coordinador? 
+3.   Participación de empresas con instalaciones conjuntas 
+Dado que las instalaciones de AAS en los niveles de 220 kV y 66 kV son contiguas o están conjuntamente conectadas a 
+instalaciones de Celeo, Transelec y AES, los resultados del ECAP pueden tener implicancias directas en los ajustes de protección 
+de dichas empresas. Por ello, AAS estima conveniente que estas participen coordinadamente en el estudio. Al respecto, se 
+consulta: 
+a) ¿Es posible que el Coordinador notifique formalmente a Celeo, Transelec y AES sobre la realización del ECAP, de modo 
+que puedan participar en su desarrollo y proponer escenarios adicionales de manera análoga al derecho que la normativa 
+reconoce a las Empresas Involucradas en un proyecto MNR/MR? 
+b) ¿Pueden Celeo, Transelec y AES quedar sujetas a los mismos plazos que se aplican a las Empresas Involucradas en un 
+proceso MNR/MR (incluyendo, entre otros, el plazo de 5 días hábiles para proponer estudios adicionales destinados a la 
+CEM), a fin de garantizar una participación coordinada y eficiente? 
+c) ¿Qué mecanismo formal existe para incorporar a Celeo, Transelec y AES al proceso del ECAP, considerando la ausencia 
+de una figura de MNR/MR en este caso? 
+d) ¿Cuál es el mecanismo formal mediante el cual una empresa cuyas instalaciones resulten directamente afectadas por 
+las recomendaciones del ECAP debe revisar y pronunciarse sobre los ajustes propuestos? 
+e) ¿Qué instancia o autoridad valida o aprueba los ajustes de protección recomendados para instalaciones de terceros, y 
+bajo qué plazos debe hacerse? 
+f) En caso de que una Empresa Involucrada no acepte o discrepe de los ajustes recomendados por el Estudio, ¿existe 
+algún mecanismo de resolución ante el Coordinador? 
+
+   
+Una empresa del Grupo Anglo American plc 
+Anglo American Sur S.A. 
+Isidora Goyenechea 2800, piso 46, Las Condes, Santiago, Chile. T +56 (2)230-6000 
+ 
+COBRE 
+Anglo American Sur S.A. 
+Los Bronces 
+Isidora Goyenechea 2800, piso 46 
+Las Condes, Santiago 
+CP: 7550647 
+Chile 
+ 
+III.  SOLICITUD 
+Por todo lo expuesto, AAS solicita respetuosamente al Coordinador: 
+1.   Informar a AAS sobre el procedimiento normativo aplicable para la realización del ECAP descrito, precisando si corresponde 
+ingresarlo mediante algún proceso formal ante el Coordinador o si puede ejecutarse bajo un esquema diferente al de un 
+proyecto MNR/MR. 
+2.   Pronunciarse sobre quién debe elaborar o proponer la Carta de Escenarios Mínimos en el contexto de este estudio, e indicar 
+el mecanismo para hacerlo. 
+3.   Indicar el mecanismo para incorporar formalmente a Celeo Redes, Transelec y AES Andes al proceso del ECAP, y pronunciarse 
+sobre la viabilidad de que estas empresas queden sujetas a los mismos plazos que las Empresas Involucradas en un proyecto 
+MNR/MR. 
+4. Informar a AAS cuál es el mecanismo formal mediante el cual Celeo Redes, Transelec y AES Andes deben revisar, pronunciarse 
+e implementar los ajustes de protección que el ECAP recomiende en sus instalaciones, señalando si el Coordinador cumple 
+algún rol en la validación de dichos ajustes o en la resolución de eventuales discrepancias. 
+Quedamos a entera disposición del Coordinador para entregar cualquier antecedente técnico adicional que se requiera para 
+pronunciarse al respecto. 
+ 
+Saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+_______________________________ 
+Joan Fuenzalida Pimentel 
+Encargado Suplente 
+Anglo American Sur S.A. 
+Fuenzalida 
+Pimentel, 
+Joan
+Digitally signed by 
+Fuenzalida Pimentel, 
+Joan 
+Date: 2026.06.08 
+12:26:39 -04'00'

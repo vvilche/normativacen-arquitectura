@@ -1,0 +1,244 @@
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Santiago, 11 de diciembre de 2025 
+DE 07884-25 
+ 
+ 
+Señores 
+Según Lista de Distribución  
+Presente 
+ 
+ 
+ 
+Ref.: Actualiza limitación de inyección de 
+PMGD periodo diciembre 2025 – mayo 
+2026.  
+[1] Carta DE 07596-25, de fecha 27 de 
+noviembre de 2025. Informa publicación 
+del “Estudio de Verificación de Posibles 
+Congestiones 
+en 
+Instalaciones 
+de 
+Transmisión Zonal por Inyección de 
+PMGD”. 
+ 
+De mi consideración: 
+ 
+Como es de su conocimiento, este Coordinador elabora un estudio semestral para ratificar si 
+los PMGD originarán congestiones en el sistema eléctrico, de acuerdo con el grado de 
+avance efectivo de las obras del sistema de transmisión zonal, los niveles de demanda 
+proyectados y el grado de avance de la conexión de los PMGD involucrados. 
+ 
+A continuación, en el contexto de la revisión periódica de los antecedentes y publicación del 
+estudio de la Ref. [1], informo a ustedes que este Coordinador ha definido establecer el 
+límite de la restricción de inyección de los PMGD de acuerdo con lo señalado en anexo 
+adjunto; por lo tanto, desde esta fecha los PMGD indicados cuentan con la autorización para 
+operar a la capacidad de inyección mencionada.  
+ 
+Lo anterior, en virtud de lo dispuesto en el Artículo 88 del DS88/2019 y el Artículo 3-45 de la 
+Norma Técnica de Conexión y Operación de PMGD, que establecen que es posible levantar 
+esta limitación del PMGD cuando se constata que su operación no provoca el nivel de 
+congestión previsto originalmente. 
+ 
+Cabe indicar que la actualización realizada:  
+ 
+• 
+Es aplicable sólo a la limitación asociada al sistema de transmisión zonal 
+correspondiente y no se pronuncia respecto de las eventuales limitaciones en el 
+sistema de distribución, materia que es supervisada por la respectiva empresa 
+concesionaria.  
+ 
+• 
+Queda sujeta a nuevas actualizaciones que se realicen en los estudios técnicos 
+asociados al Artículo 3-45 de la NTCO.  
+ 
+
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+• 
+Es temporal, en la medida que sea necesario recalcular las limitaciones por la 
+incorporación de otros medios de generación con solicitudes de conexión previas, y 
+lo establecido por la respectiva empresa concesionaria de distribución. 
+ 
+• 
+No está garantizada, en la medida que las inyecciones del PMGD están siempre 
+supeditadas a las condiciones operacionales y restricciones reales del sistema, por lo 
+que podrían ser limitadas por seguridad en la programación o en la operación en 
+tiempo real del SEN. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+RBS/REV/EZA/DFD/RMZ/jav 
+Incluye: Lo indicado 
+c.c.:  
+Sr. Mauricio Funes H. – Secretario Ejecutivo (S) Comisión Nacional de Energía. 
+Sra. Marta Cabeza V., Superintendenta de Electricidad y Combustibles.  
+Sr. Rodrigo Barbagelata S. – Director de la Unidad de Regulación.  
+Sr. Paulo Oyanedel S. – Director de la Unidad de Monitoreo de la Competencia.  
+Sr. Rodrigo Espinoza V. – Gerente de Operación.  
+Sr. Erick Zbinden A. – Gerente de Planificación y Desarrollo de la Red. 
+Grupo Correspondencia asociado a PMGD 
+Grupo Correspondencia asociado a Distribuidoras 
+ 
+
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Lista de Distribución 
+ 
+1. Comisión Nacional de Energía 
+2. Superintendencia de Electricidad y Combustibles 
+3. Compañía General de Electricidad S.A.  
+4. Empresa Eléctrica de la Frontera S.A. 
+5. PMGD PFV COLLANCO (Blue Solar Uno SPA) 
+6. PMGD PFV LIEBRE DE VERANO (Guallatiri SPA) 
+7. PMGD PFV SAN PEDRO (GR Coigüe SpA) 
+8. PMGD PARQUE SOLAR DOS PINOS (Zelble SpA) 
+9. PMGD PFV PARQUE SOLAR ARIS (PARQUE SOLAR ARIS SPA) 
+10. PMGD PFV SIRIMAVO (Rauquen SpA) 
+11. PMGD PFV LA HUERTA (La Huerta SPA) 
+12. PMGD PFV PLAZA SUNLIGHT (PLAZA SUNLIGHT SPA) 
+13. PMGD PFV LA GONZALINA DE TUNICHE SUNLIGHT (El Parral Solar SpA)
+
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Anexo 1: Instalaciones Zonales 
+ 
+Nombre PMGD 
+Subestación 
+Distribuidora 
+Potencia 
+Nominal 
+PMGD [MW] 
+Potencia 
+Restringida en su 
+ICC Informada 
+por la Empresa 
+Distribuidora 
+[MW] 
+Flujo Neto 
+Transformador 
+[MVA] 
+Resultado 
+Capacidad 
+Disponible en 
+Transformador 
+[MVA] 
+Potencia de 
+Inyección 
+Máxima [MW] 
+PMGD PFV COLLANCO 
+CONSTITUCIÓN 
+CGE 
+9 
+7.1 
+-2.68 
+2.00 
+9.00 
+PMGD PFV LIEBRE DE VERANO (1) 
+ISLA DE MAIPO 
+CGE 
+9 
+7.54 
+4.46 
+10.49 
+7.98 
+PMGD PFV SAN PEDRO 
+LAS ARAÑAS 
+CGE 
+3 
+0 
+4.82 
+6.57 
+3.00 
+PMGD PARQUE SOLAR DOS PINOS 
+MARQUESA 
+CGE 
+3 
+0.663 
+-3.03 
+5.54 
+3.00 
+PMGD PFV PARQUE SOLAR ARIS 
+MONTE NEGRO 
+FRONTERA 
+9 
+3.2 
+20.80 
+22.27 
+9.00 
+PMGD PFV SIRIMAVO 
+MONTE PATRIA 
+CGE 
+3 
+1.05 
+1.73 
+2.93 
+3.00 
+PMGD PFV LA HUERTA (2) 
+PARRONAL 
+CGE 
+2.97 
+2.2 
+-0.16 
+0.36 
+2.56 
+PMGD PFV PLAZA SUNLIGHT 
+SALAMANCA 
+CGE 
+9 
+0 
+10.07 
+15.13 
+9.00 
+PMGD PFV LA GONZALINA DE TUNICHE SUNLIGHT (3) 
+TUNICHE 
+CGE 
+9 
+0.097 
+-2.08 
+5.12 
+4.48 
+ 
+(1) No es posible liberar la potencia total de este PMGD. De acuerdo con los resultados del estudio, el elemento serie Desconectador ID 30285 presenta una capacidad de 
+25,98 MVA, mientras que la suma total de potencia de los PMGD conectados a dicho elemento alcanza 25,54 MVA. En consecuencia, solo existe una disponibilidad de 0,44 
+MVA, la cual puede asignarse como margen adicional de inyección para este PMGD, resultando en una capacidad máxima de inyección de 7,98 MW. 
+ 
+(2) No es posible liberar la potencia total de este PMGD. De acuerdo con los resultados del estudio, el T2D S/E PARRONAL BT presenta una capacidad de 5,52 MVA con 
+demanda mínima, mientras que la suma total de potencia de los PMGD conectados a dicho elemento alcanza 5,16 MVA. En consecuencia, solo existe una disponibilidad de 
+0,36 MVA, la cual puede asignarse como margen adicional de inyección para este PMGD, resultando en una capacidad máxima de inyección de 2,56 MW. 
+ 
+(3) No es posible liberar la potencia total de este PMGD. De acuerdo con los resultados del estudio, el elemento serie TC ID 11273 presenta una capacidad de 7,48 MVA, 
+mientras que la suma total de potencia de los PMGD conectados a dicho elemento alcanza 3.097 MVA. En consecuencia, solo existe una disponibilidad de 4,38 MVA, la cual 
+puede asignarse como margen adicional de inyección para este PMGD, resultando en una capacidad máxima de inyección de 4,48 MW. 

@@ -1,0 +1,100 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 17 de octubre de 2025 
+DE 06638-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación del Parámetro de Mínimo 
+Técnico de la Central PFV CEME 1. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. La aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PFV CEME 1, en conformidad con el 
+informe técnico recibido mediante la comunicación de la Ref. [1] 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+técnico citado, publicado en la página web del Coordinador mediante carta de la Ref. [2]. 
+Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado.  
+ 
+Conforme con lo anterior, los parámetros de mínimo técnico de la central PFV CEME 1, se 
+presentan en la siguiente tabla: 
+ 
+Tabla 1: Mínimo Técnico de la Central PFV CEME 1 
+Central/Unidad 
+Mínimo Técnico (1) 
+[MW] 
+SS. AA (2) 
+[MW] 
+Pérdidas en 
+la central (3) 
+[MW] 
+Potencia Mínima 
+Neta (4) 
+[MW] 
+PFV CEME 1 
+4,6686 
+0,6994 
+0,5517 
+3,4175 
+(1) Considera la operación del parque completo. 
+(2) Corresponde a la suma de los SS/AA y los consumos propios de todos los centros de transformación 
+en operación. 
+(3) Este valor corresponde a las pérdidas en el transformador de poder de la central (0,1904 MW) y las 
+del sistema colector (0,3613 MW) en condición de mínima inyección. 
+(4) Inyectada en la barra de 220 kV de S/E Miraje.  
+ 
+Al respecto, comunico a Ud., que los parámetros de mínimo técnico de la Central PFV 
+CEME 1, entrarán en vigencia a partir de las 00:00 horas del día 21 de octubre de 2025. 
+ 
+ El Informe Técnico final que contiene la justificación de los parámetros indicados 
+anteriormente han sido publicado en la siguiente ruta del sitio web del Coordinador Eléctrico 
+Nacional: 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > Mínimo 
+Técnico > Informes de Mínimos Técnicos Unidades Generadoras > Central PFV CEME 
+1 > 2025 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/PPF/RSM/adr 
+ 
+CC: 
+DPRO, DTE-SSCC, DTPT, SGASO.  
+ 
+Referencias 
+ 
+[1] Carta GMH N°2024-079 del Coordinado GM Holdings S.A., Ref.: “Determinación de 
+Mínimos Técnicos PFV CEME 1 (NUP 3251 Etapa 2)”, de fecha 05 de junio de 2024. 
+Ingreso DE03493-24. 
+ 
+[2] Carta DE03307-24, Ref.: “[NUP 3251 Etapa 2] Informes Técnicos de Parámetros 
+Operacionales de la Central PFV CEME 1, del coordinado GM Holdings S.A.”, de fecha 28 
+de junio de 2024. 

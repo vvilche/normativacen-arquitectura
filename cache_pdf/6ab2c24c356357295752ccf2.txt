@@ -1,0 +1,61 @@
+ 
+ 
+   
+ 
+ 
+Acciona Energía. Isidora Goyenechea 2800, Of. 3201. Edificio Titanium La Portada, Las Condes. Santiago, Chile. 
+ 
+Santiago, 22 de septiembre de 2026. 
+ACC.ECH.128.26 
+ 
+Señor: 
+Rodrigo Espinoza V 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+De nuestra consideración: 
+ 
+ 
+En relación con la materia de la referencia, el Coordinador Eléctrico Nacional mediante la carta DE05854-26 
+solicitó a mi representada la entrega de antecedentes técnicos de los relés con función de gradiente de 
+frecuencia. Se adjuntan a la presente comunicación los documentos que dan respuesta a los antecedentes 
+requeridos, los cuales se listan a continuación: 
+ 
+• 
+Planilla con los antecedentes requeridos: Anexo_2_Planilla_reles_ROCOF_EDAC_EDAG_RA. 
+• 
+Correo del 02 de septiembre de 2026 con la consulta al fabricante: Solicitud de antecedentes técnicos 
+– función Derivada de Frecuencia (81R) – INGETEAM MD3. 
+• 
+Manual del fabricante declarado en la planilla: UME_INGEPAC_EF_MD. 
+  
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado Suplente 
+Acciona Energía Chile Holdings, S.A. 
+ 
+REF. 
+: 
+Responde a carta DE05854-26 
+Digitally signed by:
+Luis Lorca Arenas
+DN: CN = Luis 
+Lorca Arenas
+Date: 2026.09.22 
+08:49:07 -03'00'
+Luis 
+Lorca 
+Arenas

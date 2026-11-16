@@ -1,0 +1,75 @@
+BARRICK CHILE 
+AV. Ricardo Lyon 222, Piso 9, Providencia, Santiago 
+ 
+Tel + 56 22 340 2022 
+www.barrickchile.com 
+ 
+Coquimbo, 17 de septiembre del 2026 
+TE-014/2026 
+Señor 
+Victor Reyes Jara 
+Jefe de departamento SCADA  
+Coordinador Eléctrico Nacional  
+PRESENTE 
+ 
+Ref.: Se informa causa de pérdida de disponibilidad 
+SITR y plan de acción ejecutado.  
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, nos dirigimos a usted con el propósito de informar que COMPAÑÍA 
+MINERA NEVADA SpA ha solucionado los problemas que afectaron, durante los meses de junio, 
+julio y agosto de 2026, la disponibilidad y reportabilidad del Sistema de Información en Tiempo Real 
+(SITR). Los eventos que dieron lugar a dichos problemas se iniciaron con pérdidas de datos en el 
+extremo correspondiente a la S/E Lama, registrándose posteriormente afectaciones en la S/E Tres 
+Quebradas, lo que se tradujo en niveles de reportabilidad inferiores a los exigidos en la Norma 
+Técnica de Seguridad y Calidad de Servicio (NTSyCS). 
+ 
+De acuerdo con los antecedentes técnicos recopilados, las afectaciones al enlace principal de 
+comunicaciones se debieron a cortes de canales de fibra óptica del cable OPGW, que generaron 
+interrupciones y condiciones de inestabilidad a los equipos asociados a la transmisión de información 
+hacia el sistema SITR. 
+ 
+Asimismo, y conforme a los antecedentes disponibles a la fecha, las condiciones meteorológicas 
+adversas registradas durante el período señalado en las regiones de Coquimbo y Atacama 
+imposibilitaron realizar inspecciones físicas a los equipos extremos de la fibra óptica. 
+ 
+ 
+Una vez restablecidas las condiciones de acceso y disponibilidad necesarias para intervenir con 
+especialistas en las subestaciones eléctricas, se activó el correspondiente plan de normalización, 
+coordinando las acciones en terreno destinadas a identificar, aislar y corregir las condiciones que 
+afectaban la continuidad del servicio de las vías de comunicaciones.  
+ 
+En el marco de este plan, durante las últimas actividades en terreno que se desarrollaron durante los 
+días 8 y 9 de septiembre de 2026, se ejecutaron trabajos de diagnóstico, reparación y normalización, 
+con el apoyo de empresas especializadas en sistemas de comunicaciones, los que permitieron 
+recuperar la continuidad y estabilidad del enlace principal y la comunicación de toda la red SITR. 
+ 
+
+Como resultado de las acciones implementadas, se logró restablecer completamente el enlace y 
+comunicaciones, recuperando el 100 % de la disponibilidad de los datos SITR. 
+ 
+Adicionalmente, como parte de las acciones preventivas y de mejoras destinadas a evitar la 
+recurrencia de otro evento similar, nos encontramos trabajando en la planificación de actividades 
+orientadas a mejorar la disponibilidad de las señales SITR. Dichas actividades podrían considerar la 
+implementación de mantenimientos preventivos y/o correctivos, destinados a robustecer la 
+infraestructura de comunicaciones, mejorar los mecanismos de supervisión y monitoreo, y fortalecer 
+la capacidad de respuesta ante eventuales contingencias que puedan afectar la continuidad del 
+servicio. 
+ 
+Sin otro particular, y esperando que los antecedentes expuestos sean de utilidad para los fines 
+correspondientes, saluda atentamente. 
+ 
+ 
+Guillermo Bolados García 
+Encargado Titular 
+Compañía Minera Nevada Spa. 
+ 
+Guillermo 
+Bolados,4
+~OU=User
+Firmado digitalmente 
+por Guillermo 
+Bolados,4~OU=User 
+Fecha: 2026.09.17 
+09:41:19 -03'00'

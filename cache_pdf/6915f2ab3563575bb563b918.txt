@@ -1,0 +1,189 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 13 de noviembre de 2025 
+DE 07275-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de Parámetros de Partida y 
+Detención de la Central PFV Teno Solar. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros de Partida y Detención de Unidades Generadoras” de la Norma Técnica de 
+Seguridad y Calidad de Servicio, comunico a Ud. La aceptación por parte del Coordinador 
+Eléctrico Nacional de los Parámetros de Partida y Detención de la Central PFV Teno Solar, 
+en conformidad con el Informe Técnico final recibido mediante la comunicación de la Ref. 
+[1]. 
+ 
+Adicionalmente, se deja en constancia que en el plazo establecido por el Artículo 11 del 
+Anexo Técnico en aplicación no se recibieron observaciones de coordinado alguno al 
+informe publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador Eléctrico Nacional presentó observaciones de carácter 
+técnico mediante las comunicaciones de las Ref. [3] y [4], las cuales fueron subsanadas por 
+el coordinado Enlasa Generación Chile S.A. 
+ 
+Conforme con lo anterior, los valores de Parámetros de Partida y Detención de la Central 
+PFV Teno Solar se presentan en las tablas contenidas en el Anexo de la presente carta2 
+ 
+En cumplimiento del Artículo 13 del Anexo Técnico en mención, los parámetros para los 
+procesos de Partida y Detención mencionados entrarán en vigencia a partir de las 00:00 
+horas del 18 de noviembre de 2025. 
+ 
+La versión final del informe de Parámetros de Partida y Detención que contiene la 
+justificación de los parámetros indicados anteriormente ha sido publicada en la siguiente 
+ruta de la página del Coordinador Eléctrico nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Parámetros de Partida y Detención > Informes de Determinación de 
+Parámetros de Partida y Detención > Central PFV Teno Solar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+CRV/SGM/RSM/adr 
+ 
+ 
+Referencias 
+[1] Carta OPE-217/2023 del Coordinado Enlasa Generación Chile S.A., Ref.: “Actualización 
+de Parámetros de Partida y Detención central PMG Teno Solar”, de fecha 02 de octubre 
+de 2023. Ingreso DE05891-23. 
+[2] Carta DE05186-23, Ref.: “Informe de Parámetros de Partida y Detención de la Central 
+PFV Teno Solar, del Coordinado Enlasa Generación Chile S.A.”, de fecha 26 de octubre 
+de 2022. 
+[3] Carta DE00282-23, Ref.: “Observaciones al Informe de Parámetros de Partida y 
+Detención de la Central PFV Teno Solar, del Coordinado Enlasa Generación Chile S.A.”, 
+de fecha 18 de enero de 2023. 
+[4] Carta DE02038-23, Ref.: “Observaciones al Informe de Parámetros de Partida y 
+Detención de la Central PFV Teno Solar, del Coordinado Enlasa Generación Chile S.A.”, 
+de fecha 11 de mayo de 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+Anexo: Parámetros del Proceso de Partida y Detención de la Central PFV Teno Solar 
+ 
+ 
+Tabla 1. Parámetros del Proceso de Partida de la Central PFV Teno Solar (1) 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – 
+Sincronización 
+Consumo SSAA [MWh] 
+0,0000 
+0,0008 
+Tiempo [minutos] 
+5,0000 
+5,0000 
+Sincronización – 
+Mínimo Técnico 
+Consumo SSAA [MWh] 
+0,0000 
+0,0001 
+Tiempo [minutos] 
+0,6500 
+0,6500 
+Mínimo Técnico – 
+Potencia Nominal 
+Consumo SSAA [MWh] 
+0,0002 
+0,0085 
+Tiempo [minutos] 
+5,5667 
+5,5667 
+(1) Los valores de potencia máxima y mínima de la Central PFV Teno Solar son de 6,9572 MW 
+y 0,0090 MW respectivamente.  
+ 
+Tabla 2. Parámetros del Proceso de Detención de la Central PFV Teno Solar 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia Nominal – 
+Mínimo Técnico  
+Consumo SSAA [MWh] 
+0,0002 
+0,0061 
+Tiempo [minutos] 
+5,2667 
+5,2667 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0833 
+0,0833 
+Desconexión – 
+Detención 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0833 
+0,0833 
+ 
+Nota: El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo de Detención 
+(TMD) son 0 [min]. 
+ 

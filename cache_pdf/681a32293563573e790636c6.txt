@@ -1,0 +1,319 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 6 de mayo de 2025 
+DE 02625-25 
+ 
+Señora 
+Stephanie Crichton N. 
+Encargada Titular 
+Parque Solar Leyda SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario de Frecuencia y Control Terciario de 
+Frecuencia de la central PFV Leyda. 
+Responde Ingresos DE02172-25 y DE02173-25 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante cartas de las Ref. [1] y Ref. [2], comunico a Ud. que en cumplimiento 
+con lo establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los SSCC de Control Primario de 
+Frecuencia (CPF) y Control Terciario de Frecuencia (CTF) de la central PFV Leyda.  
+ 
+Como resultado de este proceso, la central mencionada quedará habilitada para la 
+prestación del mencionado servicio a partir de las 00:00 del jueves 8 de mayo de 2025, 
+considerando los recursos indicados en Anexo de la presente carta.  
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF y CTF de la central PFV Leyda se han publicado en la siguiente ruta 
+de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia: 
+ 
+1. > Control Primario de Frecuencia > PFV Leyda 
+2. > Control Terciario de Frecuencia > PFV Leyda 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [3].  Pese a no contar 
+con las señales necesarias para evaluar el desempeño en la prestación, la Central 
+PFV Leyda quedará habilitada para prestar el Servicio Complementario (SC) de 
+Control Primario de Frecuencia (CPF), pudiendo ser instruida por este Coordinador 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+para prestar dicho servicio. En dicho caso, la evaluación de estás instrucciones será 
+“No Verificable”. 
+• 
+Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, para la evaluación de desempeño se podrán utilizar 
+medios alternativos para poder realizar la evaluación de desempeño de la prestación 
+del SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, la central PFV Leyda podrá participar de las subastas de Control de Frecuencia, 
+una vez que complete el proceso de solicitud de incorporación a la plataforma de subastas. 
+Para ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/BGA/adr 
+ 
+Referencias: 
+ 
+[1] Carta S/N, Ref.: “NUP 1717 PFV Leyda |Entrega Informe final de Verificación de Servicio 
+Complementario – Control Primario de Frecuencia (SSCC-CPF)”, de fecha 11 de marzo de 
+2025. Ingreso DE02172-25. 
+ 
+[2] Carta S/N, Ref.: “NUP 1717 PFV Leyda |Entrega Informe final de Verificación de Servicio 
+Complementario – Control Terciario de Frecuencia (SSCC-CTF)”, de fecha 11 de marzo de 
+2025. Ingreso DE02173-25. 
+ 
+[3] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 2020.06.01 > Instructivos Técnicos > Protocolo de envío de registros 
+Potencia/Frecuencia para la evaluación del CPF 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de PFV Leyda 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV Leyda (Potencia máxima neta 80,7 MW) 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia  
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Central con rango de ajuste de estatismo del 0% al 100%. 
+• 
+El estatismo y banda muerta pueden ser ajustados con la unidad en servicio por el 
+especialista del PPC del parque fotovoltaico. 
+• 
+Estatismo (R) actual se encuentra ajustado al 5%, respecto a una potencia base 
+igual a su potencia máxima neta (80,0 MW).  
+b) Control Terciario de Frecuencia: 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Parque Solar Leyda 
+SpA 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en las páginas siguientes. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+a) Control Primario de Frecuencia: 
+SSCC 
+  
+Control de Frecuencia 
+Categoría 
+  
+Control Primario de Frecuencia 
+Subcategoría 
+  
+CPF+ y CPF- 
+  
+  
+  
+Valor determinado 
+Características del 
+Controlador de Frecuencia 
+Rango de ajuste Estatismo 
+0 - 100% 
+Estatismo 
+5% 
+Rango de ajuste Banda muerta [mHz] 
+25 - 200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+80,7 
+Límite de regulación inferior [MW] (3) 
+0,8 
+Aportes (4) 
+BM = 25 [mHz] 
+R= 5% 
+10 segundos 
+Aporte +0,2 [Hz] [MW] 
+-5,5 
+Aporte -0,2 [Hz] [MW] 
+5,5 
+Aporte +0,7 [Hz] [MW] 
+-21,6 
+Aporte -0,7 [Hz] [MW] 
+21,6 
+5 minutos 
+Aporte +0,2 [Hz] [MW] 
+-5,5 
+ 
+Aporte -0,2 [Hz] [MW] 
+5,7 
+Aporte +0,7 [Hz] [MW] 
+-21,6 
+Aporte -0,7 [Hz] [MW] 
+21,6 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. Cada 
+vez que el parque sea instruido para prestar CPF deberá realizarlo con una BM de 25 mHz. 
+(2) Correspondiente a la Potencia Máxima neta declarada al Coordinador. 
+(3) Correspondiente al Mínimo Técnico neto de la central, declarado al Coordinador en el Informe de Control 
+Primario de Frecuencia. Este valor a la fecha se encuentra en proceso de revisión, por lo que este límite podría 
+verse afectado al momento de aceptar el parámetro, en caso de poder alcanzar un valor de operación menor 
+sin emplear acciones manuales de detención de inversores.  
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 73,5 [MW] y 57,5 [MW] 
+respectivamente. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+b) Control Terciario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+PFV Leyda 
+Solar 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+16,0 
+Bajada 
+16,0 
+Tasa máxima de operación 
+[MW/min] 
+Subida 
+Sin limitación 
+Bajada 
+Sin limitación 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+Bajada 
+<5 
+Aporte CTF [MW] 
+Subida 
+79,9 
+Bajada 
+-79,9 
+Límite de regulación superior [MW] (1) 
+80,7 
+Límite de regulación inferior [MW] (1) 
+0,8 
+(1) Los límites de regulación y el aporte máximo de CTF podrán verse modificados si se actualizan los parámetros 
+operacionales del PFV Leyda. 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+PFV Leyda 
+Solar 
+Tiempo hasta sincronización [min] 
+N/A 
+Tiempo hasta mínimo técnico [min]  
+0,033 
+Reserva Fría [MW]  
+80,7 
+ 
+ 

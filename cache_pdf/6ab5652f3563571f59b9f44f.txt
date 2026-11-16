@@ -1,0 +1,119 @@
+ 
+ 
+ 
+Santiago, 24 de septiembre de 2026. 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: 
+Solicita pronunciamiento sobre exigencias de integración de  
+PMGD a sistemas SCADA de CGE y envío de señales al SITR. 
+ 
+ 
+De mi consideración: 
+ 
+A través de la presente comunicación, RTN Solar SpA (la “Sociedad”), Rol Único Tributario N°  
+76.738.835-7, en su calidad de titular del proyecto PMGD RTN, nos dirigimos a usted en relación con 
+el documento denominado «Exigencias para Integración de PMGD a Sistemas SCADA de CGE», 
+mediante el cual dicha distribuidora informa los requisitos técnicos y económicos que aplicará al 
+monitoreo y control de los PMGD conectados a sus redes y al envío de señales SITR del Coordinador. 
+En este contexto, solicitamos que, en el ámbito de sus competencias, el Coordinador se pronuncie sobre 
+las siguientes materias y precise su relación con la normativa vigente: 
+ 
+1. Enlace de comunicaciones. CGE exige que la integración de los PMGD a su sistema SCADA 
+se realice mediante un enlace MPLS contratado exclusivamente con Entel o Telefónica Si bien 
+el artículo 10 del Anexo Técnico «Definición de Parámetros Técnicos y Operativos para el 
+Envío de Datos al SITR» dispone que los PMGD sujetos a dicha obligación deben transmitir 
+sus señales al Coordinador a través de la empresa distribuidora, no establece expresamente el 
+uso de tecnología MPLS ni restringe la elección del proveedor. Por ello, solicitamos al 
+Coordinador precisar si, para efectos de la recepción de señales en el SITR, existe algún 
+requisito técnico que impida utilizar una solución de comunicaciones distinta, siempre que 
+cumpla 
+las 
+exigencias 
+normativas 
+de 
+calidad, 
+seguridad 
+y 
+disponibilidad. 
+ 
+2. Costos de implementación, operación y monitoreo. CGE anuncia un pago único por la 
+integración al monitoreo del punto de conexión y un cargo mensual por planta que comprende, 
+entre otros conceptos, personal de su centro de operaciones, servidores, software, 
+mantenimiento de SCADA, redes internas y sistemas de ciberseguridad. El artículo 89 bis del 
+DS N.º 88, de 2019, publicado en 2020, con sus modificaciones posteriores, dispone que los 
+costos en que incurran las distribuidoras relacionados con la operación y monitoreo de los 
+PMGD serán de cargo de estos últimos. Sin embargo, el documento de CGE no informa los 
+montos ni la metodología para determinar y asignar dichos costos. Solicitamos indicar el 
+instrumento y procedimiento aplicables para establecer estos cobros, así como el nivel de 
+desglose 
+y 
+respaldo 
+que 
+deberá 
+proporcionarse 
+a 
+los 
+titulares 
+de 
+PMGD. 
+ 
+
+ 
+ 
+3. Disponibilidad del enlace y responsabilidad ante fallas de comunicación. CGE exige 
+conectividad «24×7×365» para el enlace PMGD–CGE, utilizado tanto para su monitoreo como 
+para el envío de señales al SITR, sin precisar cómo medirá su disponibilidad ni cómo atribuirá 
+las fallas. Solicitamos aclarar su relación con el mínimo de 99,5 % mensual del artículo 8 del 
+Anexo Técnico SITR y con el artículo 9-19 de la NTCO PMGD, así como precisar cómo se 
+distinguirán las responsabilidades de cada parte ante una pérdida de comunicación y confirmar 
+que una eventual desconexión del PMGD se sujetará a las condiciones del artículo 9-7 de la 
+NTCO 
+PMGD. 
+ 
+4. Costos integración al SITR. CGE contempla un pago de implementación y un cargo mensual 
+por el envío de señales al SITR, adicionales a los previstos para el monitoreo y control del punto 
+de conexión, aunque ambas funciones utilizan el mismo enlace PMGD–CGE. Solicitamos 
+precisar qué equipos, actividades y costos son exclusivos de cada función, cuáles se comparten 
+y qué criterio se aplicará para imputar estos últimos. Asimismo, solicitamos indicar el 
+instrumento y procedimiento que fundamentan los cobros, junto con el desglose y respaldo que 
+se entregará a los titulares de PMGD. 
+ 
+En virtud de lo expuesto, solicitamos al Coordinador pronunciarse, dentro del ámbito de sus 
+competencias, sobre los requisitos de comunicación y envío de señales al SITR y su relación con las 
+exigencias informadas por CGE. Así como también, agradeceremos que el Coordinador indique si 
+identifica algún requisito propio del SITR que justifique costos de integración independientes de los 
+asociados al monitoreo del punto de conexión. Respecto de las cuestiones cuya resolución corresponda 
+a otra autoridad, agradeceremos que se nos indique expresamente el organismo y procedimiento 
+pertinentes, 
+a 
+fin 
+de 
+encauzar 
+la 
+consulta 
+por 
+la 
+vía 
+que 
+corresponda. 
+ 
+Adjuntamos para su conocimiento el documento de exigencias emitido por CGE. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fabiola Silva Berríos  
+p.p. RTN Solar 
+Apoderado 
+ 

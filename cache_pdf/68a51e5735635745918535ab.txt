@@ -1,0 +1,347 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 19 de agosto de 2025  
+DE 04823-25 
+ 
+Señores/as 
+Encargados 
+Según Lista de Distribución 
+Presente 
+ 
+Ref.:  Instruye implementación y solicita plan de 
+trabajo para implementación de puntos de monitoreo 
+del Módulo de Medición Fasorial del SEN. 
+[1]:  “Estudio para la Implementación del Módulo de 
+Medición Fasorial” de 2025. 
+ 
+De mi consideración: 
+Me refiero a la implementación del Módulo de Medición Fasorial, establecido en el Anexo 
+Técnico Sistema de Monitoreo (ATSM) de la Norma Técnica de Seguridad y Calidad de 
+Servicio (NTSyCS) y, en particular, a la implementación de los puntos de monitoreo en 
+instalaciones de su representada definidos mediante el Estudio de la Ref [1], 
+correspondiente al año 2025 y que se encuentra disponible en nuestro sitio web 
+(https://www.coordinador.cl/operacion/documentos/plataformas-para-la-operacion/modulo-
+de-medicion-fasorial/). 
+Al respecto, instruyo a su representada la implementación de los puntos de monitoreo, 
+mediante PMU, establecidos en el Estudio señalado y, para lo cual le solicito envíe a más 
+tardar el próximo 1 de septiembre de 2025 el correspondiente plan de trabajo y cronograma 
+detallado que llevará a cabo para cumplir con esa implementación, de acuerdo con los 
+plazos máximos establecidos en el ATSM, tanto para realizar la adecuación de sus 
+instalaciones como para la implementación de PMU junto con sus canales de comunicación 
+hacia los PDC correspondientes. Sin perjuicio de lo anterior y los plazos máximos 
+normativos, una vez recibidos los planes de trabajo y cronogramas, este Coordinador 
+priorizará la implementación de los puntos de monitoreo asociados a las instalaciones en 
+500 kV y las centrales ERV por sobre los 50 MW. 
+Finalmente, para efectos de enviar copia de la información solicitada y realizar consultas 
+respecto de lo instruido en la presente carta, agradeceré dirigirlas a la dirección electrónica 
+dmap@coordinador.cl . Adicionalmente, en Anexo a la presente se encuentran otros 
+contactos necesarios para la integración de PMU a los PDC locales y Corporativo. 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+Incluye: Lo Indicado 
+c.c.: Sres. Encargados Suplentes, según lista de Distribución 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Anexo 
+Contactos para la integración de PMU a PDC 
+ 
+1. Adquisición de Licencias 
+Para efectos de solicitar información y gestionar la adquisición de licencias requeridas para 
+la comunicación e integración de cada PMU al PDC Corporativo del Coordinador, deberá 
+comunicarse con el Señor Víctor Reyes J. (victor.reyes@coordinador.cl). 
+ 
+Cabe recordar que, para efectos de gestionar la integración de las PMU a los PDC locales 
+de Maitencillo, Alto Jahuel, Ancoa o Charrúa, propiedad de Transelec, deberá contactarse 
+con la Sra. Macarena Tamayo (mtamayo@transelec.cl).  
+ 
+2. Direccionamientos y Pruebas de comunicación 
+Para obtener direccionamientos, solicitar y ejecutar pruebas de comunicación, deberá 
+contactar al Departamento SCADA. (TEC.scada@coordinador.cl). 
+ 
+3. Pruebas de integración 
+Una vez aprobadas las pruebas de comunicaciones, deberá solicitar pruebas de integración 
+de la PMU al aplicativo del MMF, para lo cual deberá contactar a los correos electrónicos 
+joaquin.mesias@coordinador.cl , con copia a dmap@coordinador.cl . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Lista de Distribución 
+ 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+AELA EÓLICA LLANQUIHUE SPA 
+AELA EÓLICA NEGRETE SPA 
+AELA EÓLICA SARCO SPA 
+AES ANDES S.A. 
+ALBA SPA 
+ALFA TRANSMISORA DE ENERGÍA S.A. 
+ALMEYDA SPA 
+ALTO JAHUEL TRANSMISORA DE ENERGÍA S.A. 
+ALTO MAIPO SPA 
+AMANECER SOLAR SPA 
+ANDES GENERACIÓN SPA 
+ANDES SOLAR II SPA 
+ANDES SOLAR IV SPA 
+ANDINO SOLAR SPA 
+AR ALENA SPA 
+AR CERRO TIGRE SPA 
+AR ESCONDIDO SPA 
+AR LLANOS DEL VIENTO SPA 
+AR PAMPA SPA 
+AR PUELCHE SUR SPA 
+AR TCHAMMA SPA 
+AR VALLE ESCONDIDO SPA 
+ARAUCO BIOENERGÍA SPA 
+ARCADIA GENERACIÓN SOLAR S.A. 
+ASESORÍAS G-51 SPA 
+ASOC. DE CANAL. SOCIEDAD DEL CANAL DE MAIPO 
+ASOCIACIÓN DE CANALISTAS DEL CANAL ZAÑARTU 
+ATACAMA SOLAR SPA 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+AUSTRIANSOLAR CHILE SEIS SPA 
+AUSTRIANSOLAR CHILE UNO SPA 
+BESS DE GENERACIÓN SOLAR SPA 
+BESS DEL DESIERTO SPA 
+BIOENERGÍAS FORESTALES SPA 
+BOLERO SPA 
+CALA MORRITOS POWER SPA 
+CELULOSA ARAUCO Y CONSTITUCIÓN S.A. 
+CEME 1 SPA 
+CENTRAL CARDONES S.A. 
+CENTRAL COLMITO S.A. 
+CENTRAL YUNGAY S.A. 
+CERRO DOMINADOR PV S.A. 
+CGE TRANSMISIÓN S.A. 
+CHARRÚA TRANSMISORA DE ENERGÍA S.A. 
+CHILQUINTA TRANSMISIÓN S.A. 
+CHUNGUNGO S.A. 
+CI NMF I ARENA PROJECTCO SPA 
+CMPC MADERAS SPA 
+CMPC PULP SPA. 
+CMS SPVI SPA 
+CMS SPVII SPA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+COLBÚN S.A. 
+COMASA SPA 
+COMPAÑÍA BARRICK CHILE GENERACIÓN SPA 
+COMPAÑÍA DOÑA INÉS DE COLLAHUASI SCM 
+CONEJO SOLAR SPA 
+CONSORCIO SANTA MARTA 
+CONSORCIO SANTA MARTA S.A. 
+COPEC RENOVABLES SPA 
+COPIAPO SOLAR SPA 
+CRISTALES SPA 
+CUMBRES SPA 
+DON ARTURO SPA 
+DON ESTEBAN SPA 
+DOÑA ANTONIA SOLAR SPA 
+DUQUECO SPA 
+EL PELÍCANO SOLAR COMPANY SPA 
+ELÉCTRICA CENIZAS S.A. 
+ELÉCTRICA CIPRESILLOS SPA 
+ELÉCTRICA DIGUA SPA 
+ELÉCTRICA MOKA SPA 
+ELÉCTRICA NUEVA ENERGÍA S.A. 
+ELÉCTRICA PUNTILLA S.A. 
+ELEKTRA GENERACIÓN S.A. 
+EMPRESA DE TRANSMISIÓN ELÉCTRICA TRANSEMEL S.A. 
+EMPRESA ELÉCTRICA ANGAMOS SPA 
+EMPRESA ELÉCTRICA CAPULLO S.A. 
+EMPRESA ELÉCTRICA CARÉN S.A. 
+EMPRESA ELÉCTRICA CIPRES SPA 
+EMPRESA ELÉCTRICA COCHRANE SPA 
+EMPRESA ELÉCTRICA DIEGO DE ALMAGRO SPA 
+EMPRESA ELECTRICA EL PINAR SPA 
+EMPRESA ELÉCTRICA GUINDO SANTO SPA 
+EMPRESA ELÉCTRICA LA LEONERA S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+EMPRESA ELÉCTRICA PEUMO SPA 
+EMPRESA ELÉCTRICA PILMAIQUÉN S.A. 
+EMPRESA ELÉCTRICA RAULI SPA 
+EMPRESA ELÉCTRICA RUCATAYO S.A. 
+EMPRESA ELÉCTRICA VALLENAR S.A. 
+EMPRESA ELÉCTRICA VENTANAS SPA 
+EMPRESA ELÉCTRICAS AGUAS DEL MELADO SPA 
+ENAP REFINERÍAS S.A. 
+ENAP REFINERIAS S.A. - ACONCAGUA 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+ENERGÍA CERRO EL MORADO S.A. 
+ENERGÍA COYANCO S.A. 
+ENERGÍA EÓLICA LOS OLMOS SPA 
+ENERGÍA EÓLICA MESAMÁVIDA SPA 
+ENERGÍA EÓLICA SAN MATÍAS SPA 
+ENERGÍA PACÍFICO S.A. 
+ENERGÍA SIETE SPA 
+ENERGIAS ALCONES SPA 
+ENERGÍAS UCUQUER DOS S.A. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ENGIE ENERGÍA CHILE S.A. 
+ENLASA GENERACIÓN CHILE S.A. 
+ENLIGHT INVESTMENTS SPA 
+ENORCHILE S.A. 
+EÓLICA LA ESPERANZA S.A. 
+EÓLICA LA ESTRELLA SPA 
+EÓLICA MONTE REDONDO SPA 
+ESPINOS S.A. 
+ESTEPA SOLAR SPA 
+FOTOVOLTAICA NORTE GRANDE 1 SPA 
+FOTOVOLTAICA NORTE GRANDE 5 SPA 
+GAS SUR S.A. 
+GENERACIÓN DE ENERGÍA NUEVA DEGAN SPA 
+GENERACIÓN SOLAR SPA 
+GENERADORA ANTILHUE SPA 
+GENERADORA CAIMANES SPA 
+GENERADORA DEL PACÍFICO SPA 
+GENERADORA METROPOLITANA SPA 
+GENERADORA NORTH WEST SPA 
+GENERADORA SOL SOLIV SPA 
+GEOTÉRMICA DEL NORTE S.A. 
+GPG GENERACIÓN DISTRIBUIDA SPA 
+GPG SOLAR CHILE 2017 SPA 
+GR ALGARROBO SPA 
+GR LENGA SPA 
+GR LIUN SPA 
+GR MORRO MORENO SPA 
+GR NAHUELBUTA SPA 
+GR PEUMO SPA 
+GR PIÑOL SPA 
+GR TOROMIRO SPA 
+GUACOLDA ENERGÍA SPA 
+HIDROANGOL SPA 
+HIDROELÉCTRICA EL PASO SPA 
+HIDROELÉCTRICA EMBALSE ANCOA SPA 
+HIDROELÉCTRICA LA CONFLUENCIA S.A. 
+HIDROELÉCTRICA LA HIGUERA S.A. 
+HIDROELÉCTRICA ÑUBLE SPA 
+HIDROELÉCTRICA RÍO COLORADO S.A. 
+HIDROELÉCTRICA RÍO LIRCAY S.A. 
+HIDROELÉCTRICA SAN ANDRÉS SPA 
+HIDROENERSUR SPA 
+HIDROMOCHO S.A. 
+HIDROPALMAR SPA 
+IBEREÓLICA CABO LEONES II S.A. 
+INACAL S.A. 
+INNOVACIÓN ENERGÍA S.A. 
+INTERCHILE S.A. 
+INVERSIONES FOTOVOLTAICAS SPA 
+INVERSIONES HORNITOS SPA 
+JAVIERA SPA 
+KDM ENERGÍA S.A. 
+LARQUI SOLAR SPA 
+LAS PALMAS FV SPA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+LICÁN SPA 
+LOS GUINDOS GENERACIÓN SPA 
+MADERAS ARAUCO S.A. 
+MANTOS COPPER S.A. 
+MANZANO SOLAR SPA 
+MODENA SOLAR SPA 
+NEOMAS SPA 
+NIRIVILO TRANSMISORA DE ENERGÍA S.A. 
+NORACID S.A. 
+NORVIND S.A. 
+PACIFIC HYDRO CHACAYES S.A. 
+PACIFIC HYDRO CHILE S.A. 
+PACIFIC HYDRO PUNTA SIERRA SPA 
+PAPELES CORDILLERA SPA 
+PARQUE EÓLICO ATACAMA SPA 
+PARQUE EÓLICO CABO LEONES I S.A. 
+PARQUE EÓLICO CAMPO LINDO SPA 
+PARQUE EÓLICO EL ARRAYÁN SPA 
+PARQUE EÓLICO EL MAITÉN SPA 
+PARQUE EÓLICO LEBU-TORO SPA 
+PARQUE EÓLICO LOS CURUROS SPA 
+PARQUE EOLICO PUNTA DE TALCA SPA 
+PARQUE EÓLICO SAN GABRIEL SPA 
+PARQUE FOTOVOLTAICO NUEVO QUILLAGUA SPA 
+PARQUE SOLAR CACHIYUYO SPA 
+PARQUE SOLAR CONVENTO SPA 
+PARQUE SOLAR DOÑA CARMEN SPA 
+PARQUE SOLAR FOTOVOLTAICO LUZ DEL NORTE SPA 
+PARQUE SOLAR FOTOVOLTAICO SOL DEL DESIERTO SPA 
+PARQUE SOLAR LEYDA SPA 
+PARQUE SOLAR QUILMO SPA 
+PARQUE SOLAR TANGUA SPA 
+PARQUE SOLAR VILLA LONGAVÍ SPA 
+PARQUE SOLAR VIVEROS SPA 
+PARQUE TALINAY ORIENTE S.A. 
+PATAGUILLA SOLAR SPA 
+PE CABO LEONES III SPA 
+PE CANCURA SPA 
+PFV DOMEYKO SPA 
+PFV ITAHUE SPA 
+PLANTA SOLAR SAN JUAN SPA 
+PLANTA SOLAR SAN PEDRO III SPA 
+PLANTA SOLAR TOCOPILLA SPA 
+POZO ALMONTE SOLAR 3 S.A. 
+PRIME ENERGÍA QUICKSTART SPA 
+PUNTA DEL SOL SPA 
+PUNTA PALMERAS S.A. 
+PV SALVADOR S.A. 
+QANQIÑA SPA 
+RA SOLAR SPA 
+RÍO ALTO SPA 
+RÍO TRANQUILO S.A. 
+RIVAZZURRA SOLAR SPA 
+RUCASOL SPA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+SAGESA S.A. 
+SAN ANDRÉS SPA 
+SAN JUAN S.A. 
+SANTA BARBARA SPA 
+SANTIAGO SOLAR S.A. 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A. 
+SOCIEDAD CONCESIONARIA EMBALSE CONVENTO VIEJO S.A. 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+SOLAR ELENA SPA 
+SOLAR LOS LOROS SPA 
+SOLAR TI TREINTA Y CUATRO SPA 
+SOLAR TI VEINTIDOS SPA 
+SOLAR TI VEINTITRÉS SPA 
+STATKRAFT EOLICO S.A. 
+TAMAKAYA ENERGÍA SPA 
+TAMARICO SOLAR DOS SPA 
+TAMARUGAL SOLAR SPA 
+TERCERA REGIÓN SOLAR SPA 
+TRANSELEC S.A. 
+TRANSMISORA ELÉCTRICA DEL NORTE S.A. 
+TRANSMISORA PARINAS S.A. 
+TRANSQUINTA S.A. (CONSORCIO CHILQUINTA-LUZLINARES) 
+TSGF SPA 
+VENEZIA SOLAR SPA 
+VIENTOS DE RENAICO SPA 
+WPD DUQUECO SPA 
+WPD MALLECO SPA 
+WPD NEGRETE SPA 

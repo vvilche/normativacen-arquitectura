@@ -1,0 +1,260 @@
+ 
+ 
+Parque Isidora Oriente N°1061, Piso 2, Pudahuel – Teléfono: (+562) 2424 6300 
+ 
+         www.coordinador.cl 
+ 
+Santiago, 31 de marzo de 2026 
+ 
+DE 02154-26 
+ 
+Señores  
+Encargados  
+Según Lista de Distribución  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.:  Inicio de Marcha Blanca de herramienta de 
+recepción de Proyección de Demanda de 
+corto plazo de Clientes Libres y Distribuidoras 
+mediante Conecta CEN. 
+ 
+Señores Encargados: 
+ 
+En el marco de la Norma Técnica de Coordinación y Operación del Sistema Eléctrico 
+Nacional, Capítulo de Programación de la Operación, y según se establece en los artículos 
+2-140 y 2-141, las Empresas Distribuidoras y los Clientes Libres conectados directamente 
+al Sistema de Transmisión deberán enviar al Coordinador una proyección de demanda de 
+corto plazo. 
+ 
+Para dar cumplimiento de lo anterior, me es grato informar que el Coordinador ha 
+desarrollado una herramienta que permitirá la recepción de estas proyecciones conforme 
+a lo dispuesto en el artículo 2-148 de la mencionada Norma Técnica. Esta herramienta se 
+encuentra 
+disponible 
+a 
+través 
+del 
+aplicativo 
+llamado 
+Conecta 
+CEN 
+(https://omnicanal.coordinador.cl/).  
+ 
+Para su uso y el cumplimiento normativo de su representada, es importante que cumpla 
+con los siguientes pasos previos para el exitoso ingreso de la información: 
+ 
+• 
+Como encargados de una empresa coordinada, deberán estar registrados como 
+Encargados ante el Registro Único de Coordinados REUC. En caso contrario, 
+podrán solicitar al Titular de la empresa que los registre como “Usuario del Sistema 
+de Correspondencia” en el sitio web www.reuc.coordinador.cl.  
+• 
+Al ingresar a Conecta CEN, se deberá seleccionar la empresa coordinada 
+correspondiente y descargar la plantilla, la cual contendrá la información específica 
+de las Subestaciones (barras) o puntos de retiro asociados a su representada. Los 
+puntos de retiro fueron modelados según la información contenida en los contratos 
+de suministro que son informados regularmente al Coordinador.  
+• 
+Al completar los campos con la proyección de demanda de corto plazo en cada 
+plantilla, se deben considerar las reglas de generales establecidas en el Anexo 1.  
+• 
+Se debe tener presente que la estructura del archivo no es modificable. En caso 
+contrario, la plantilla no será reconocida por la herramienta.  
+ 
+Para conocer los detalles de la información que deberán cargar en la herramienta y el 
+chequeo de los requisitos previos para ingresar, los invitamos cordialmente a participar en 
+un Taller Técnico expositivo a realizarse de manera online. Este Taller se dividirá en 2 
+grupos con dedicación especial a cada segmento. Para su registro, deberá ingresar en los 
+siguientes links: 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Parque Isidora Oriente N°1061, Piso 2, Pudahuel – Teléfono: (+562) 2424 6300 
+ 
+         www.coordinador.cl 
+ 
+ 
+ 
+ 
+Sesión 
+Fecha 
+Enlace 
+Recepción de proyecciones 
+de demanda de corto plazo 
+para Clientes Libres en 
+Transmisión 
+06 de abril – 12:00 
+Link 
+Recepción de proyecciones 
+de demanda de corto plazo 
+para Empresas 
+Distribuidoras 
+06 de abril – 16:00 
+Link 
+ 
+Con este taller, se dará inicio al periodo de Marcha Blanca hasta el día 29 de mayo de 2026 
+y que contempla la recepción de consultas relacionadas al proceso. Luego de dicha fecha, 
+la plataforma será el único medio formal para la entrega de esta información.  
+ 
+Finalmente, recordamos a usted que según lo indicado en el artículo 72°-2 de la Ley 
+General de Servicios Eléctricos: los Coordinados están obligados a proporcionar 
+oportunamente al Coordinador y actualizar toda la información, en forma cabal, completa y 
+veraz, que requiera para el cumplimiento de sus funciones.  
+La omisión del deber de información, sea que medie requerimiento de información o cuando 
+proceda sin mediar aquél, así como la entrega de información falsa, incompleta o 
+manifiestamente errónea, o el incumplimiento a lo dispuesto en el presente artículo, serán 
+sancionadas por la Superintendencia 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+Javier Urbina Fuentes 
+ 
+Jefe Departamento Pronósticos 
+ 
+Coordinador Eléctrico Nacional 
+ 
+ 
+BAM/ycl 
+Incl. Lo indicado 
+c.c.: 
+Sr. Marcelo Bobadilla M., Gerente Mercados 
+Sr. Juan Marcos Donoso N., Jefe Departamento de Programación 
+Sr. Juan Pablo Ávalos, Subgerente de Programación y Análisis Económico 
+ 
+ 
+
+ 
+ 
+Parque Isidora Oriente N°1061, Piso 2, Pudahuel – Teléfono: (+562) 2424 6300 
+ 
+         www.coordinador.cl 
+ 
+ 
+Lista de Distribución. 
+ 
+Acueducto San Isidro Quilapilún SpA 
+Agrocomercial A.S. Ltda. 
+Aguas Antofagasta S.A. 
+Albemarle Limitada 
+Algorta Norte S.A. 
+Anglo American Sur S.A. 
+Arauco Bioenergía SpA 
+Bioenergías Forestales SpA 
+Cbb Cales S.A. 
+Cemento Polpaico S.A. 
+Cementos Bío Bío del Sur S.A. 
+Chilquinta Distribución S.A. 
+CIA. Minera Mantos de Oro 
+Cleanairtech Sudamérica S.A. 
+Codelco (Corporación Nacional del Cobre) 
+Compañía Contractual Minera Candelaria 
+Compañía Contractual Minera Ojos del Salado 
+Compañía Distribuidora de Energía Eléctrica CODINER S.A. 
+Compañía Doña Inés de Collahuasi SCM 
+Compañía Eléctrica de Osorno S.A 
+Compañía Eléctrica del Litoral S.A. 
+Compañía Explotadora de Minas S.C.M. 
+Compañía General de Electricidad S.A. 
+Compañía Minera Cerro Colorado Ltda 
+Compañía Minera Cerro Negro S.A. 
+Compañía Minera del Pacífico S.A. 
+Compañía Minera Lomas Bayas 
+Compañía Minera Maricunga 
+Compañía Minera Teck Carmen de Andacollo 
+Compañía Minera Teck Quebrada Blanca S.A. 
+Compañía Minera Zaldívar LTDA 
+Compañía Minera Zaldívar SpA 
+Compañía SCM Minera Lumina Copper Chile 
+Compañía Siderurgica Huachipato S.A. 
+Complejo Metalúrgico Altonorte S.A. 
+Cooperativa de Abastecimiento de Energía Eléctrica Curico LTDA. 
+Cooperativa de Abastecimiento de Energía Eléctrica Socoroma Ltda 
+Cooperativa de Consumo de Energía Eléctrica Chillán Ltda. 
+Cooperativa Eléctrica Charrúa Ltda. 
+Cooperativa Eléctrica Los Angeles LTDA 
+Cooperativa Eléctrica Paillaco Ltda 
+Cooperativa Regional Eléctrica Llanquihue Ltda 
+Cooperativa Rural Eléctrica Río Bueno Ltda. 
+Cristalerías de Chile S.A. 
+Distribuidora de Energia Electrica Mataquito S.A. 
+Distribuidora Eléctrica S.A. 
+EcoMetales Limited, Agencia en Chile 
+ 
+ 
+ 
+ 
+EFE Valparaíso S.A. 
+EKA CHILE S.A. 
+Empresa de los Ferrocarriles del Estado 
+Empresa de Transporte de Pasajeros Metro S.A. 
+Empresa Eléctrica de Aysén S.A. 
+Empresa Eléctrica de Casablanca S.A. 
+Empresa Eléctrica de la Frontera S.A. 
+Empresa Eléctrica de Magallanes S.A. 
+Empresa Eléctrica Municipalidad de Til Til 
+Empresa Eléctrica Puente Alto S.A. 
+Empresa Nacional de Minería, Fundición Hernán Videla Lira 
+Empresas Lipigas S.A. 
+Enaex S.A. 
+ENAP Refinerías S.A. 
+Enel Colina S.A. 
+Enel Distribución Chile S.A. 
+Energía de Casablanca S.A. 
+ENTEL PCS Telecomunicaciones S.A. 
+Forestal y Papelera Concepción S.A. 
+Fundición Talleres Ltda. 
+GNL Quintero S.A. 
+Grace S.A. 
+Guanaco Compañía Minera SpA 
+Haldeman Mining Company S.A. 
+Industria Chilena de Alambre S.A. 
+Inversiones y Servicios Dataluna LTDA 
+Lo Espejo Data Center SpA 
+Luzlinares S.A. 
+Luzparral S.A. 
+Mantos Copper S.A. 
+Mantoverde S.A. 
+Masisa S.A. 
+Melon S.A. 
+Minera Altos de Punitaqui Ltda 
+Minera Antucoya 
+Minera Centinela 
+Minera Escondida Ltda. 
+Minera HMC S.A. 
+Minera Las Cenizas S.A. 
+Minera Los Pelambres 
+Minera Meridian Ltda. 
+Minera Spence S.A. 
+Minera Valle Central S.A. 
+Moly-Cop Chile S.A. 
+Nueva Atacama S.A. 
+Occidental Chemical Chile Ltda. 
+Pampa Camarones SpA 
+Papelera Dos S.A. 
+
+ 
+ 
+Parque Isidora Oriente N°1061, Piso 2, Pudahuel – Teléfono: (+562) 2424 6300 
+ 
+         www.coordinador.cl 
+ 
+Petroquim S.A. 
+Planta Recuperadora de Metales SpA 
+Sierra Gorda SCM 
+Sociedad Austral de Electricidad S.A. 
+Sociedad Contractual Minera Atacama Kozan 
+Sociedad Contractual Minera El Abra 
+Sociedad Contractual Minera Franke 
+Sociedad Contractual Minera Tres Valles 
+Sociedad de procesamiento de Molibdeno Ltda 
+Sociedad GNL Mejillones S.A. 
+Sociedad Química y Minera de Chile S.A. 
+ 

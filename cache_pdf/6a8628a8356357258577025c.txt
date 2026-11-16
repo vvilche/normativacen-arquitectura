@@ -1,0 +1,120 @@
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Minuta de Respuesta a Observaciones: 
+Informe Análisis de Control Secundario de Frecuencia (CSF) 
+CENTRAL TENO GAS 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+- 4 -
+1. ALCANCE 
+La presente minuta responde a las observaciones levantadas por el Coordinador 
+Eléctrico Nacional con respecto al Informe de Análisis de Control Secundario de 
+Frecuencia (CSF) de Central TER Teno Gas, con código COG-GO-DCO-SSCC-TER 
+Teno Gas emitido el día 05 de agosto de 2026. 
+2. TOPOLOGÍA DE LA CENTRAL 
+La central Teno Gas cuenta con 31 unidades generadoras, distribuidas a nivel de control 
+y operación en 5 naves según el siguiente esquema: 
+- 
+Nave 1: Unidades 1 a 6. 
+- 
+Nave 2: Unidades 7 a 12. 
+- 
+Nave 3: Unidades 13 a 18. 
+- 
+Nave 4: Unidades 19 a 26. 
+- 
+Nave 5: Unidades 27 a 31. 
+ 
+Figura 1: Diagrama Unilineal General Central Teno Gas 
+Adicionalmente, en los anexos de este informe, se encuentra el plano con el arreglo físico 
+de los motores en la central.  
+
+ 
+ 
+ 
+ 
+ 
+- 5 -
+3. ARQUITECTURA Y FILOSOFIA DE CONTROL DE POTENCIA 
+ACTIVA 
+Se aclara que la central no cuenta con un sistema de control centralizado tipo Master 
+Plant. No existe un elemento lógico ni un controlador intermedio a nivel de nave o de 
+central capaz de recibir una consigna global de potencia activa y distribuirla 
+automáticamente entre las unidades. Esto se evidencia en el arreglo de control actual de 
+la central (se adjunta imagen de respaldo), donde cada unidad opera de manera 
+independiente respecto de su punto de operación.  
+ 
+ 
+Figura 2: Pantalla SCADA Orden de Consigna de Potencia 
+ 
+El control de potencia activa se realiza de manera individual y descentralizada a nivel de 
+cada motor. Cada una de las 31 unidades generadoras cuenta con su propia interfaz de 
+control y requiere la confirmación manual e independiente de su orden de consigna de 
+potencia (kW) por parte del operador en la pantalla SCADA. 
+No existe un comando unificado o señal grupal que permita enviar consignas de potencia 
+activa simultáneas a una nave o al conjunto de la central. Toda variación de carga exige 
+que el operador ajuste la consigna en la pantalla de cada generador (ver Figura 2). 
+ 
+
+ 
+ 
+ 
+ 
+ 
+- 6 -
+4. DESCRIPCIÓN DEL ARRANQUE DE LAS UNIDADES 
+GENERADORAS 
+La orden de arranque de la central se ejecuta a nivel de grupos por nave. En este proceso, 
+el operador selecciona las naves requeridas para dar cumplimiento a la instrucción de 
+despacho emitida por el Centro de Despacho y Control (CDC) según se aprecia en la 
+imagen: 
+ 
+Figura 3: Pantalla SCADA Arranque Nave 5 
+ 
+Vale destacar también que de acuerdo con el Informe de Parámetros de Partida y 
+Detención de la central: 
+- 
+Sincronización inicial: Tras la orden de arranque, el proceso de sincronización 
+inicial alcanza 1,2 MW en 4,5 minutos. 
+- 
+Alcanzar Mínimo Técnico: La rampa ascendente hasta alcanzar el Mínimo Técnico 
+Global de la central (37,2 MW) requiere un tiempo de 10,33 minutos o 5,83 minutos 
+desde la sincronización. 
+- 
+Plena Carga: La operación a plena carga (53,85 MW) se alcanza a los 13,25 
+minutos totales desde el inicio de la secuencia. 
+
+ 
+ 
+ 
+ 
+ 
+- 7 -
+ 
+Figura 4: Curva de arranque de la Central Teno Gas desde mínimo técnico 
+5. CONCLUSIÓN 
+En virtud de los antecedentes técnicos expuestos, se deja de manifiesto que la Central 
+Teno Gas opera bajo una arquitectura de control basada en ajustes individuales y 
+manuales por unidad generadora, sin disponer de un sistema de control centralizado 
+(Master Plant) ni de mecanismos de regulación automática y simultánea de potencia 
+activa a nivel de planta. 
+6. ANEXOS  
+Junto a este documento se anexan los siguientes archivos: 
+1 
+Informe Técnico de Parámetros de Partida y Detención de la Central TER Teno 
+Gas. 
+2 
+Plano Topología de la Central Teno Gas 

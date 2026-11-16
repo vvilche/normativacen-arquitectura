@@ -1,0 +1,58 @@
+ 
+ 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Avenida parque Isidora Nº1061 Pudahuel 
+Parque industrial ENEA 
+PRESENTE. 
+ 
+REF: Respuesta a carta DE 05312-25 Restricción Operativa de central PE Lomas de 
+Duqueco IL2025000933. 
+ 
+En relación con su carta DE 05312-25, de fecha 27 de agosto de 2025, mediante la cual se 
+solicita remitir antecedentes técnicos que respalden la limitación forzada que afecta a la 
+generación de la central PE Lomas de Duqueco, y a la carta DE 09326-25, donde se requirió 
+una prórroga para la entrega de dicha información hasta el 28 de noviembre de 2025, 
+informamos lo siguiente: 
+ 
+Adjunto a la presente se remite el informe técnico elaborado por mi representada, en el cual 
+se analizan los eventos registrados en el PE Lomas de Duqueco asociados a consignas de 
+absorción cercanas a −20 MVAr, durante el periodo diciembre 2024 – abril 2025. 
+ 
+El análisis desarrollado concluye que los eventos observados corresponden al paso a modo 
+seguro de los aerogeneradores, al operar fuera del rango de diseño de potencia reactiva del 
+parque (±19,4 MVAr, definidos en el PPC). Asimismo, se verifica que la curva PQ de diseño del 
+parque cumple y envuelve el polígono mínimo exigido por la NTSyCS. La causa principal 
+identificada corresponde a una desalineación entre las consignas operativas y los límites de 
+diseño considerados en el modelo de referencia actualmente utilizado por nuestro Centro de 
+Control. 
+ 
+Respecto del proceso de normalización, se propone actualizar el modelo de referencia, 
+incorporando explícitamente los límites de potencia reactiva del parque, y coordinar que las 
+consignas de operación se mantengan dentro del rango de ±19,4 MVAr en el Punto de 
+Conexión, con el fin de evitar nuevas activaciones de los modos de resguardo. 
+ 
+Bajo este contexto y considerando los antecedentes técnicos expuestos, estimamos que se 
+encuentran dadas las condiciones para revisar y levantar la Instrucción de Limitación 
+IL2025000933, en función de los criterios operacionales señalados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+Diego Muñoz Arriagada 
+Encargado Titular 
+wpd Duqueco SpA 

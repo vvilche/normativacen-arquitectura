@@ -1,0 +1,1261 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 12 de septiembre de 2025 
+ 
+    
+DE 05684-25 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Publicación de Indicadores de Desempeño 
+de Servicios Complementarios prestados durante 
+el mes de julio 2025, segunda versión. 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página web 
+del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de los 
+Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de julio 2025. 
+Estos indicadores fueron considerados en la versión definitiva del IVTE de dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador en la 
+siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2025 > Julio 2025 > Versión 2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las 
+observaciones recibidas para la primera versión del Informe. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ASA/adr 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de julio 2025 
+consideradas en la versión 2. 
+ 
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Enlasa 
+CTF 
+TER 
+TRAPÉN 
+Fecha: 
+03-07-2025 
+16:42 
+ El 03-07-2025 la central TRAPEN_DIESEL 
+recibe instrucción de activación por CTF (+) a las 
+16:42, con hora de finalización a las 17:03. Sin 
+embargo, en el RIO se señala que la activación 
+fue entre las 16:55 y 17:03. Esto genera que se 
+evalúe el desempeño utilizando como base la 
+potencia registrada a las 16:55, cuando al 
+central 
+ya 
+se 
+encontraba 
+en 
+servicio, 
+perjudicando directamente la evaluación dos y 
+tres de la activación. Se adjunta la grabación 
+“20250703164205” donde se evidencia la hora 
+de inicio real para la evaluación. Se solicita que 
+se corriga la hora de inicio de la activación y se 
+recalcule factor de desempeño.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y se 
+corrobora que TER Trapén fue instruida a prestar 
+CTF+ a las 16:42 horas, por lo que se modifica el 
+RIO. 
+ 
+Dicho lo anterior, el indicador se recalcula, por lo 
+que la respuesta cambia a 100%, lo que se traduce 
+en un factor de desempeño de 100%. 
+2 
+Enlasa 
+CTF 
+TER TENO 
+Fecha: 
+08-07-2025 
+08:02 
+El 08-07-2025 la central TENO_DIESEL recibe 
+instrucción de activación por CTF(+) a las 08:02 
+con hora de finalización a las 08:21. Sin 
+embargo en el RIO se señala que la activación 
+fue entre las 07:23 y las 08:21, perjudicando la 
+evaluación dos de la activación. Se adjunta la 
+grabación 
+“20250708080225” 
+donde 
+se 
+evidencia la hora de inicio real para la 
+evaluación. Se solicita que se corrija la hora de 
+inicio y se recalcule el factor de desempeño.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y se 
+corrobora que TER Teno fue instruida a prestar 
+CTF+ a las 08:02 horas, por lo que se modifica el 
+RIO. 
+ 
+Dicho lo anterior, el indicador se recalcula, por lo 
+que la respuesta cambia a 81%, lo que se traduce 
+en un factor de desempeño de 81%. 
+3 
+Enlasa 
+CTF 
+TER 
+TRAPÉN 
+Fecha: 
+14-07-2025 
+16:24 
+El 
+14-07-2025 
+a 
+las 
+16:24 
+la 
+central 
+TRAPEN_DIESEL recibe una instrucción de 
+activación de CTF (+) por 68 MW, en cuyo 
+momento, la central se encontraba en servicio 
+por disponibilidad de CTF (-). En el archivo 
+No se acoge observación - Aclaración 
+ 
+Se analizan los antecedentes y mediciones SCADA, 
+las cuales muestran que la señal de potencia activa 
+de la unidad permaneció invariante entre las 16:20 y 
+las 16:33 horas. Esta condición no cumple con los 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+“CTF_202507” se señala que la activación no 
+cumple con la evaluación uno. Sin embargo, la 
+central si aumenta la potencia entregada, 
+cumpliendo con las evaluaciones dos y tres. Se 
+solicita 
+esclarecer 
+las 
+razones 
+del 
+incumplimiento en la evaluación uno. En su 
+defecto recalcular el factor de desempeño de 
+esta activación considerando el cumplimiento de 
+la 
+evaluación 
+uno. 
+Además, 
+se 
+sugiere 
+incorporar los resultados del cálculo de la 
+evaluación uno para mayor trazabilidad.  
+criterios de calidad definidos en el artículo 13 del 
+Anexo Técnico “Definición de Parámetros Técnicos y 
+Operativos para el Envío de Datos al SITR” y es la 
+causa de la evaluación de 0%. Dicho lo anterior el 
+indicador se mantiene. 
+ 
+Dado esto, el coordinado debe revisar sus señales 
+en sistema SCADA, para lo cual tiene que contactar 
+directamente 
+al 
+área 
+TI 
+SCADA 
+al 
+mail 
+tec.scada@coordinador.cl. 
+4 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 
+05-07-2025 
+09:50 
+Se califica como NC, pero la planta presta el 
+SSCC según sus límites establecidos, tal como 
+se observa en las imágenes n°1 a n°9. Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.07_Respuesta_CT” 
+de 
+la 
+V1, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe 
+un error en el registro mostrado en las columnas 
+“I” y “J” correspondientes a las evaluaciones 
+“t10Q” y “t15Q” respectivamente, debido a que 
+todos estos registros, referentes a la central PFV 
+Malgarida, tienen valor de -30 para todas las 
+instrucciones en cuestión; y en consecuencia 
+entendemos que esto estaría impactando en la 
+evaluación 
+del 
+Factor 
+de 
+Desempeño, 
+calificando todos los registros como “NC” cuando 
+se puede apreciar en las imágenes n°1 a n°9, 
+que la central estableció los movimientos de 
+consigna de reactivos entre 1 y 5 minutos a la 
+consigna final requerida. Lo que dista de lo 
+evaluado en la BBDD utilizada. Por último, he de 
+señalar que el problema antes mencionado 
+ocurrió 
+igualmente 
+para 
+el 
+informe 
+de 
+Se acoge la observación. 
+ 
+La señal de SCADA de potencia reactiva usada 
+inicialmente, corresponde a la potencia en el lado de 
+baja tensión del transformador elevador de la 
+central.   
+ 
+Esta señal, no tiene la calidad adecuada para la 
+evaluación del desempeño de la instalación en dicha 
+instrucción, por lo que se realizan ajustes para usar 
+una señal alternativa. Esta correspondió a la 
+potencia reactiva en el lado de alta tensión del 
+transformador elevador. 
+ 
+Dicha evaluación identifica que la central cumplió 
+con la instrucción solicitada por CDC de absorber -
+30 MVAr. 
+ 
+Dicho lo anterior el indicador de respuesta a 100%, 
+ya que la instrucción cambió su categoría “No 
+Verificable” a “Cumple”. 
+ 
+Sin perjuicio de lo anterior se solicita al coordinado 
+regularizar las señales integradas en el sistema 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+desempeño del mes de junio. 
+SCADA, para lo cual debe contactar directamente al 
+área TI SCADA al mail tec.scada@coordinador.cl.  
+5 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 
+06-07-2025 
+05:19 
+Se califica como NC, pero la planta presta el 
+SSCC según sus límites establecidos, tal como 
+se observa en las imágenes n°1 a n°9. Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.07_Respuesta_CT”de 
+la 
+V1, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe 
+un error en el registro mostrado en las columnas 
+“I” y “J” correspondientes a las evaluaciones 
+“t10Q” y “t15Q” respectivamente, debido a que 
+todos estos registros, referentes a la central PFV 
+Malgarida, tienen valor de -30 para todas las 
+instrucciones en cuestión; y en consecuencia 
+entendemos que esto estaría impactando en la 
+evaluación 
+del 
+Factor 
+de 
+Desempeño, 
+calificando todos los registros como “NC” cuando 
+se puede apreciar en las imágenes n°1 a n°9, 
+que la central estableció los movimientos de 
+consigna de reactivos entre 1 y 5 minutos a la 
+consigna final requerida. Lo que dista de lo 
+evaluado en la BBDD utilizada. Por último, he de 
+señalar que el problema antes mencionado 
+ocurrió 
+igualmente 
+para 
+el 
+informe 
+de 
+desempeño del mes de junio. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°4. 
+6 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 
+12-07-2025 
+09:42 
+Se califica como NC, pero la planta presta el 
+SSCC según sus límites establecidos, tal como 
+se observa en las imágenes n°1 a n°9. Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.07_Respuesta_CT”de 
+la 
+V1, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°4. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+un error en el registro mostrado en las columnas 
+“I” y “J” correspondientes a las evaluaciones 
+“t10Q” y “t15Q” respectivamente, debido a que 
+todos estos registros, referentes a la central PFV 
+Malgarida, tienen valor de -30 para todas las 
+instrucciones en cuestión; y en consecuencia 
+entendemos que esto estaría impactando en la 
+evaluación 
+del 
+Factor 
+de 
+Desempeño, 
+calificando todos los registros como “NC” cuando 
+se puede apreciar en las imágenes n°1 a n°9, 
+que la central estableció los movimientos de 
+consigna de reactivos entre 1 y 5 minutos a la 
+consigna final requerida. Lo que dista de lo 
+evaluado en la BBDD utilizada. Por último, he de 
+señalar que el problema antes mencionado 
+ocurrió 
+igualmente 
+para 
+el 
+informe 
+de 
+desempeño del mes de junio. 
+7 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 
+15-07-2025 
+08:46 
+Se califica como NC, pero la planta presta el 
+SSCC según sus límites establecidos, tal como 
+se observa en las imágenes n°1 a n°9. Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.07_Respuesta_CT”de 
+la 
+V1, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe 
+un error en el registro mostrado en las columnas 
+“I” y “J” correspondientes a las evaluaciones 
+“t10Q” y “t15Q” respectivamente, debido a que 
+todos estos registros, referentes a la central PFV 
+Malgarida, tienen valor de -30 para todas las 
+instrucciones en cuestión; y en consecuencia 
+entendemos que esto estaría impactando en la 
+evaluación 
+del 
+Factor 
+de 
+Desempeño, 
+calificando todos los registros como “NC” cuando 
+se puede apreciar en las imágenes n°1 a n°9, 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°4. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+que la central estableció los movimientos de 
+consigna de reactivos entre 1 y 5 minutos a la 
+consigna final requerida. Lo que dista de lo 
+evaluado en la BBDD utilizada. Por último, he de 
+señalar que el problema antes mencionado 
+ocurrió 
+igualmente 
+para 
+el 
+informe 
+de 
+desempeño del mes de junio. 
+8 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 
+16-07-2025 
+08:02 
+Se califica como NC, pero la planta presta el 
+SSCC según sus límites establecidos, tal como 
+se observa en las imágenes n°1 a n°9. Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.07_Respuesta_CT”de 
+la 
+V1, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe 
+un error en el registro mostrado en las columnas 
+“I” y “J” correspondientes a las evaluaciones 
+“t10Q” y “t15Q” respectivamente, debido a que 
+todos estos registros, referentes a la central PFV 
+Malgarida, tienen valor de -30 para todas las 
+instrucciones en cuestión; y en consecuencia 
+entendemos que esto estaría impactando en la 
+evaluación 
+del 
+Factor 
+de 
+Desempeño, 
+calificando todos los registros como “NC” cuando 
+se puede apreciar en las imágenes n°1 a n°9, 
+que la central estableció los movimientos de 
+consigna de reactivos entre 1 y 5 minutos a la 
+consigna final requerida. Lo que dista de lo 
+evaluado en la BBDD utilizada. Por último, he de 
+señalar que el problema antes mencionado 
+ocurrió 
+igualmente 
+para 
+el 
+informe 
+de 
+desempeño del mes de junio. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°4. 
+9 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 
+18-07-2025 
+00:50 
+Se califica como NC, pero la planta presta el 
+SSCC según sus límites establecidos, tal como 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°4. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+se observa en las imágenes n°1 a n°9. Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.07_Respuesta_CT”de 
+la 
+V1, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe 
+un error en el registro mostrado en las columnas 
+“I” y “J” correspondientes a las evaluaciones 
+“t10Q” y “t15Q” respectivamente, debido a que 
+todos estos registros, referentes a la central PFV 
+Malgarida, tienen valor de -30 para todas las 
+instrucciones en cuestión; y en consecuencia 
+entendemos que esto estaría impactando en la 
+evaluación 
+del 
+Factor 
+de 
+Desempeño, 
+calificando todos los registros como “NC” cuando 
+se puede apreciar en las imágenes n°1 a n°9, 
+que la central estableció los movimientos de 
+consigna de reactivos entre 1 y 5 minutos a la 
+consigna final requerida. Lo que dista de lo 
+evaluado en la BBDD utilizada. Por último, he de 
+señalar que el problema antes mencionado 
+ocurrió 
+igualmente 
+para 
+el 
+informe 
+de 
+desempeño del mes de junio. 
+10 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 
+19-07-2025 
+03:47 
+Se califica como NC, pero la planta presta el 
+SSCC según sus límites establecidos, tal como 
+se observa en las imágenes n°1 a n°9. Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.07_Respuesta_CT” 
+de 
+la 
+V1, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe 
+un error en el registro mostrado en las columnas 
+“I” y “J” correspondientes a las evaluaciones 
+“t10Q” y “t15Q” respectivamente, debido a que 
+todos estos registros, referentes a la central PFV 
+Malgarida, tienen valor de -30 para todas las 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°4. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+instrucciones en cuestión; y en consecuencia 
+entendemos que esto estaría impactando en la 
+evaluación 
+del 
+Factor 
+de 
+Desempeño, 
+calificando todos los registros como “NC” cuando 
+se puede apreciar en las imágenes n°1 a n°9, 
+que la central estableció los movimientos de 
+consigna de reactivos entre 1 y 5 minutos a la 
+consigna final requerida. Lo que dista de lo 
+evaluado en la BBDD utilizada. Por último, he de 
+señalar que el problema antes mencionado 
+ocurrió 
+igualmente 
+para 
+el 
+informe 
+de 
+desempeño del mes de junio. 
+11 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 
+20-07-2025 
+01:28 
+Se califica como NC, pero la planta presta el 
+SSCC según sus límites establecidos, tal como 
+se observa en las imágenes n°1 a n°9. Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.07_Respuesta_CT” 
+de 
+la 
+V1, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe 
+un error en el registro mostrado en las columnas 
+“I” y “J” correspondientes a las evaluaciones 
+“t10Q” y “t15Q” respectivamente, debido a que 
+todos estos registros, referentes a la central PFV 
+Malgarida, tienen valor de -30 para todas las 
+instrucciones en cuestión; y en consecuencia 
+entendemos que esto estaría impactando en la 
+evaluación 
+del 
+Factor 
+de 
+Desempeño, 
+calificando todos los registros como “NC” cuando 
+se puede apreciar en las imágenes n°1 a n°9, 
+que la central estableció los movimientos de 
+consigna de reactivos entre 1 y 5 minutos a la 
+consigna final requerida. Lo que dista de lo 
+evaluado en la BBDD utilizada. Por último, he de 
+señalar que el problema antes mencionado 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°4. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+ocurrió 
+igualmente 
+para 
+el 
+informe 
+de 
+desempeño del mes de junio. 
+12 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 
+20-07-2025 
+21:05 
+Se califica como NC, pero la planta presta el 
+SSCC según sus límites establecidos, tal como 
+se observa en las imágenes n°1 a n°9. Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.07_Respuesta_CT”de 
+la 
+V1, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe 
+un error en el registro mostrado en las columnas 
+“I” y “J” correspondientes a las evaluaciones 
+“t10Q” y “t15Q” respectivamente, debido a que 
+todos estos registros, referentes a la central PFV 
+Malgarida, tienen valor de -30 para todas las 
+instrucciones en cuestión; y en consecuencia 
+entendemos que esto estaría impactando en la 
+evaluación 
+del 
+Factor 
+de 
+Desempeño, 
+calificando todos los registros como “NC” cuando 
+se puede apreciar en las imágenes n°1 a n°9, 
+que la central estableció los movimientos de 
+consigna de reactivos entre 1 y 5 minutos a la 
+consigna final requerida. Lo que dista de lo 
+evaluado en la BBDD utilizada. Por último, he de 
+señalar que el problema antes mencionado 
+ocurrió 
+igualmente 
+para 
+el 
+informe 
+de 
+desempeño del mes de junio. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°4. 
+13 
+Acciona 
+CT 
+PE SAN 
+GABRIEL 
+Fecha: 
+07-07-2025 
+21:48 
+Se califica como NV, pero en dicho periodo ST 
+San Gabriel se encontraba con los datos 
+congelados, sin embargo, de la tabla 1, se 
+observa 
+que 
+el 
+parque 
+se 
+encontraba 
+absorbiendo la consigna solicitada en los 
+tiempos normados. 
+No se acoge la observación. 
+ 
+La evaluación de CT manual para la unidad 
+corresponde a No Verificable (NV) ya que la señal 
+de 
+potencia 
+reactiva 
+de 
+la 
+unidad 
+medida 
+directamente desde SCADA permaneció invariante 
+el durante la duración de la instrucción. Esta 
+condición no cumple con los criterios de calidad 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+definidos en el artículo 13 del Anexo Técnico 
+“Definición de Parámetros Técnicos y Operativos 
+para el Envío de Datos al SITR”.  
+ 
+Adicionalmente, los datos adjuntos en el anexo no 
+cuentan con la información de su origen, por lo que 
+la evaluación se mantiene. 
+  
+Dicho lo anterior se solicita al coordinado regularizar 
+las señales integradas en el sistema SCADA, para lo 
+cual debe contactar directamente al área TI SCADA 
+al mail tec.scada@coordinador.cl. 
+14 
+Acciona 
+CT 
+PE 
+TOLPAN 
+SUR 
+Fecha: 
+08-07-2025 
+02:02 
+Se califica como NV, pero en dicho periodo ST 
+Tolpán Sur se encontraba con los datos 
+congelados, sin embargo, de la tabla 2, se 
+observa 
+que 
+el 
+parque 
+se 
+encontraba 
+absorbiendo la consigna solicitada en los 
+tiempos normados. 
+No se acoge la observación. 
+ 
+La evaluación de CT manual para la unidad 
+corresponde a No Verificable (NV) ya que la señal 
+de 
+potencia 
+reactiva 
+de 
+la 
+unidad 
+medida 
+directamente desde SCADA permaneció invariante 
+el durante la duración de la instrucción. Esta 
+condición no cumple con los criterios de calidad 
+definidos en el artículo 13 del Anexo Técnico 
+“Definición de Parámetros Técnicos y Operativos 
+para el Envío de Datos al SITR”.  
+ 
+Adicionalmente, los datos informados en el anexo no 
+cuentan con la información de su origen, por lo que 
+la evaluación se mantiene. 
+  
+Dicho lo anterior se solicita al coordinado regularizar 
+las señales integradas en el sistema SCADA, para lo 
+cual debe contactar directamente al área TI SCADA 
+al mail tec.scada@coordinador.cl. 
+15 
+Acciona 
+CT 
+PE 
+TOLPAN 
+SUR 
+Fecha: 
+10-07-2025 
+03:20 
+Se califica como NC, pero a las 03:17 mediante 
+hotline, CDC solicita la absorción de -10 MVAr 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y se 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+en primera instancia, para posteriormente a las 
+3:19 solicitar absorber -20 MVAr en total. Lo 
+anterior de muestra en la tabla 3. 
+corrobora que PE Tolpán Sur fue instruida a prestar 
+CT manual el día 10 de julio a las 03:17 horas con 
+una consigna de -20 MVAr. por lo que se realiza la 
+modificación en los registros RIO. 
+ 
+Dicho lo anterior, el indicador se recalcula, por lo 
+que la respuesta cambia a 100%, lo que se traduce 
+en un factor de desempeño del día 10-07-2025 de 
+100%. 
+16 
+Acciona 
+CTF 
+PFV 
+Almeyda 
+Fecha: 
+28-07-2025 
+11:08 
+Se califica C3 con “0”, pero observando la tabla 
+4, PFV Almeyda realizó la variación de -37MW 
+solicitados hasta el momento en que la 
+instrucción fue finalizada. 
+No se acoge la observación. 
+ 
+La tabla adjunta por el coordinado corresponde a 
+potencia reactiva, lo que no es consistente con la 
+prestación del servicio CTF. Adicionalmente, los 
+datos no cuentan con la información de origen, por 
+lo que el indicador se mantiene. 
+17 
+Colbún 
+CTF 
+UG Colbún 
+2 
+Fecha: 
+01.07.2025 
+15:23:00 
+(UTC-4) 
+De acuerdo con el registro RIO del Coordinador 
+la instrucción duró menos de 15 minutos, 
+activándose 
+el 
+servicio 
+a 
+las 
+15:23 
+y 
+desactivándose a las 15:34. En este contexto no 
+se cumple con el tiempo mínimo que se requiere 
+para entregar la reserva instruida para este 
+servicio.  
+Solicitud: Revisar tiempo de instrucción y 
+corregir evaluación si corresponde 
+No se acoge la observación. - Aclaración.  
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de CTF 
+tiene una duración menor a 15 minutos se evalúa 
+considerando los movimientos de la unidad que se 
+espera se hagan en ese lapso. En este caso se 
+evalúa cumplir con el criterio C1. Dicho lo anterior el 
+indicador se mantiene. 
+18 
+Colbún 
+CTF 
+CT 
+Nehuenco I 
+Fecha: 
+06.07.2025 
+10:55:00 
+(UTC-4) 
+De acuerdo con el registro de grabaciones de 
+Colbún SA, a las 10:55 se recibe la instrucción 
+de activar el servicio de subida por 65 MW, sin 
+embargo a las 10:59, 4 minutos después, el 
+Coordinador llama nuevamente indicando que 
+se debe llevar a la central a plena carga por 
+despacho económico, en este contexto la central 
+Se acoge la observación.  
+ 
+Se analizan los antecedentes y grabaciones y se 
+corrobora que la unidad fue solicitada a plena carga 
+durante la prestación del CTF+. Dicho lo anterior, el 
+indicador se recalcula, por lo que la respuesta 
+cambia a 100%, lo que se traduce en un factor de 
+desempeño de 100%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+no cumple con la instrucción de CTF por cuanto 
+finalmente sube más de lo instruido. Se adjunta 
+grabación. 
+Solicitud: 
+Revisar 
+contexto 
+operacional 
+y 
+reevaluar si corresponde. 
+19 
+Colbún 
+CTF 
+UG Colbún 
+2 
+Fecha: 
+07.07.2025 
+07:13:00 
+(UTC-4) 
+De acuerdo con el registro de grabaciones de 
+Colbún SA se recibe la instrucción de activar el 
+servicio de bajada para ambas unidades 
+simultáneamente, en este contexto, dado que el 
+operador debe elegir primero a una unidad para 
+cambiar su estado de carga, es que la otra 
+queda fuera de cumplimiento para la primera 
+etapa de evaluación que corresponde a los 
+primeros 5 minutos, asimismo se observa que en 
+el resto de las etapas la unidad responde según 
+lo requerido entregando toda su reserva a los 15 
+minutos y la mantiene hasta la finalización de la 
+instrucción. Para complementar lo anterior se 
+puede observar que en este caso la unidad N°1 
+cumple con las tres etapas de evaluación, ya 
+que 
+fue 
+la 
+primera 
+en 
+ser 
+consignada. 
+Solicitud: Revisar y reevaluar si corresponde. 
+No se acoge la observación. 
+ 
+Es responsabilidad del coordinado contar con el 
+número de operadores necesarios para cumplir con 
+las instrucciones dadas por CDC. Dicho lo anterior el 
+indicador se mantiene. 
+ 
+20 
+Colbún 
+CTF 
+UG Colbún 
+2 
+Fecha: 
+09.07.2025 
+06:23:00 
+(UTC-4) 
+De acuerdo con el registro de grabaciones de 
+Colbún SA se recibe la instrucción de activar el 
+servicio de subida en la unidad por 30 MW, sin 
+embargo el Coordinador en su documento 
+"CTF_202507" evalúa a la central con 92 MW. 
+Se 
+adjunta 
+grabación. 
+Solicitud: Revisar instrucción y reevaluar si 
+corresponde. 
+Se acoge la observación.  
+ 
+Se analizan los antecedentes y grabaciones y se 
+corrobora que la unidad fue solicitada a prestar 
+CTF+ con una consigna de 30 MW por lo que se 
+modifica el registro RIO.  
+ 
+Dicho lo anterior, el indicador se recalcula, por lo 
+que la respuesta cambia a 100%, lo que se traduce 
+en un factor de desempeño de 100%. 
+21 
+Colbún 
+CTF 
+UG Colbún Fecha: 
+10.07.2025 
+17:01:00 
+(UTC-4) Se acoge la observación.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Al revisar el contexto operacional y registro de 
+grabaciones, se observa que la unidad se 
+encontraba operando a plena carga, a las 16:58 
+horas se recibe el llamado indicando que debe 
+bajar dejando la reserva correspondiente del 
+Control 
+Terciario 
+de 
+Frecuencia 
+que 
+correspondía a las 17:00 horas. Posteriormente, 
+3 minutos luego de ese llamado, se recibe la 
+instrucción de activar el CTF de subida en 
+condiciones que la unidad estaba comenzando a 
+bajar carga. Dado lo anterior la unidad 
+prácticamente se mantiene operando a plena 
+carga 
+durante 
+la 
+instrucción 
+sin 
+realizar 
+movimientos en su potencia activa. Cabe 
+mencionar que dada la cota del embalse Colbún 
+en esta época la potencia máxima es cercana a 
+los 
+200 
+MW. 
+Solicitud: 
+Revisar 
+contexto 
+operacional 
+y 
+reevaluar si corresponde. 
+ 
+Se analizan los antecedentes y grabaciones y se 
+corrobora que la unidad fue solicitada a plena carga 
+durante la prestación del CTF+. Adicionalmente se 
+corrobora que la unidad HE Colbún U1 fue 
+considerada en el programa con una potencia 
+máxima de 192 MW, lo que es consistente con las 
+mediciones SCADA. 
+ 
+Dicho lo anterior, el indicador se recalcula, por lo 
+que la respuesta cambia a 100%, lo que se traduce 
+en un factor de desempeño de 100%. 
+22 
+Colbún 
+CTF 
+CT 
+Nehuenco I 
+Fecha: 
+14.07.2025 
+19:46:00 
+(UTC-4) 
+De acuerdo con el registro de grabaciones e 
+instrucciones de SSCC de Colbún SA no se 
+observa la activación del servicio en la hora 
+señala por el Coordinador, de hecho la unidad 
+no realiza ningún movimiento de potencia activa 
+manteniendose en el estado de plena carga. 
+Solicitud: 
+Revisar 
+si 
+esta 
+instrucción 
+efectivamente 
+se 
+realizó 
+y 
+reevaluar 
+en 
+consecuencia. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora que la 
+central TER Nehuenco no fue instruida para la 
+prestación de CTF en la fecha y hora indicada por lo 
+que se modifica RIO.  
+ 
+Dicho lo anterior, el indicador pasa a categoría “No 
+Participa”. 
+23 
+Colbún 
+CTF 
+PFV Diego 
+de Almagro 
+Sur 
+Fecha: 
+19.07.2025 
+ 
+12:08:00 
+(UTC-4) 
+De acuerdo con el registro RIO del Coordinador 
+la 
+planta 
+se 
+encontraba 
+participando 
+simultáneamente del CPF, asimismo, se recibe 
+la instrucción de bajar 68 MW, pero dada la 
+condición operacional solo pudo bajar 34 MW 
+No se acoge la observación. 
+ 
+La unidad no presenta datos de potencia/frecuencia 
+para el mes de julio que permitan probar que la 
+unidad prestó el servicio de CPF de forma 
+adecuada. Debido a lo anterior no es posible 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+hasta su Mínimo Técnico, por otra parte, al estar 
+participando del CPF simultáneamente no puede 
+mantener la reserva instruida y por momentos 
+incluso baja de su Mínimo Técnico debido a la 
+acción 
+del 
+Control 
+de 
+Frecuencia. 
+Solicitud: Se solicita revisar la prestación 
+simultánea 
+de 
+servicios 
+y 
+reevaluar 
+considerando esta condición 
+verificar si existió un ajuste de consigna consistente 
+con lo instruido por CDC para el servicio de CTF 
+durante la prestación de CPF. En función de lo 
+anterior, el indicador se mantiene. 
+24 
+Colbún 
+CTF 
+UG 
+Candelaria 
+2 
+Fecha: 
+21.07.2025 
+08:36:00 
+(UTC-4) 
+De acuerdo con el registro RIO del Coordinador 
+la unidad se encontraba participando del CPF 
+simultáneamente, en este contexto no puede 
+mantener el aporte instruido por cuanto la 
+potencia activa se mueve en función de la 
+frecuencia. Cabe mencionar que la unidad 
+cumple con las primeras etapas de evaluación 
+del 
+servicio. 
+Solicitud: Revisar prestación simultánea de 
+servicios 
+y 
+reevaluar 
+considerando 
+esta 
+condición. 
+Se acoge la observación. 
+ 
+Se analizan las señales SCADA de la operación de 
+la unidad, constatando que hubo un cambio de 
+consigna acorde a la instrucción del CTF durante la 
+prestación conjunta con el servicio de CPF. Dicho lo 
+anterior, el indicador de respuesta se recalcula 
+quedando en 100% para esta instrucción. 
+25 
+Colbún 
+CTF 
+UG Colbún 
+2 
+Fecha: 
+21.07.2025 
+22:22:00 
+(UTC-4) 
+De acuerdo con el registro RIO del Coordinador 
+la instrucción duró menos de 15 minutos, 
+activándose 
+el 
+servicio 
+a 
+las 
+22:22 
+y 
+desactivándose a las 22:30. En este contexto no 
+se cumple con el tiempo mínimo que se requiere 
+para 
+entregar 
+la 
+reserva 
+instruida. 
+Solicitud: Revisar tiempo de instrucción y 
+corregir evaluación si corresponde 
+No se acoge la observación. - Aclaración.  
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de CTF 
+tiene una duración menor a 15 minutos se evalúa 
+considerando los movimientos de la unidad que se 
+espera se hagan en ese lapso. En este caso se 
+evalúa cumplir con el criterio C1. Dicho lo anterior el 
+indicador se mantiene. 
+ 

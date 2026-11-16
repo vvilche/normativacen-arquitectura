@@ -1,0 +1,186 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 12 de septiembre de 2025 
+DE 05600-25 
+Señor 
+Jaime Acevedo Salinas 
+Encargado Titular 
+Chilquinta Transmisión S.A 
+Presente 
+Ref.: EAF 261/2025 - Apertura intempestiva de los 
+interruptores 52CT1 y 52CT2 de S/E Linares Norte 
+De mi consideración: 
+Me refiero a la apertura intempestiva de los interruptores 52CT1 y 52CT2 de S/E Linares 
+Norte, ocurrida a las 22:40 horas del día 11 de junio de 2025, en la cual se vieron 
+involucradas instalaciones de su representada. 
+ 
+Al respecto, con el objetivo de aclarar debidamente las causas y consecuencias de los 
+eventos en cuestión, en conformidad con lo que establece el Título 6-7, y en particular, el 
+Artículo 6-44 de la Norma Técnica de Seguridad y Calidad de Servicio, y en virtud de las 
+modificaciones aplicadas al proceso de los Estudios para Análisis de Falla, instruidas por la 
+Superintendencia de Electricidad y Combustibles mediante las Resoluciones Exentas 
+N°30989-2019 y N°30891-2019, solicito a usted remitir al Coordinador antes de las 18:00 
+horas del día 15 de septiembre de 2025, la siguiente información: 
+ 
+Se solicita aclarar el punto exacto de la falla, indicando si ocurrió aguas arriba o 
+aguas abajo del interruptor 52C4, el cual registra una operación presuntamente 
+fallida según los eventos mostrados a continuación. Para estos efectos, se considera 
+que el interruptor 52C4 correspondería al interruptor 52C1 según unilineal de la S/E 
+Linares Norte (página siguiente) y al equipo denominado “31-4392” del alimentador 
+Linares Sur según lo indicado en el diagrama unilineal incluido en su Informe de 
+Falla de 5 días. 
+ 
+ 
+ 
+HIST_TIMESTAMP
+TEXT
+CATEGORY
+AREA
+EXCDEF
+LOCATION
+EVENT
+RTU_TIME
+MS
+BAD_RTU_TIME
+11/06/2025 22:40:04s
+Int.13.2kV 52C4 Al.LINARES SUR ABIERTO
+ALARM1A
+CQTSTS
+S224
+LN
+0 11/06/2025 18
+150
+1
+11/06/2025 22:40:04s
+Int.13.2kV 52C4 Al.LINARES SUR CERRADO
+ALARM1A
+CQTSTS
+S202
+LN
+1 11/06/2025 18
+117
+1
+11/06/2025 22:40:04s
+Int.13.2kV 52C4 Al.LINARES SUR ABIERTO
+ALARM1A
+CQTSTS
+S224
+LN
+0 11/06/2025 18
+410
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 ALARMA
+ALARM4A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+835
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 NORMAL
+ALARM4A
+CQTSTS
+S202
+LN
+1 11/06/2025 22
+335
+1
+11/06/2025 22:40:04s
+Int.13.2kV 52CT1 TR-1 ABIERTO
+ALARM1A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+880
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 ALARMA
+ALARM4A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+869
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 NORMAL
+ALARM4A
+CQTSTS
+S202
+LN
+1 11/06/2025 22
+372
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 ALARMA
+ALARM4A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+373
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 NORMAL
+ALARM4A
+CQTSTS
+S202
+LN
+1 11/06/2025 22
+874
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 ALARMA
+ALARM4A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+876
+1
+11/06/2025 22:40:04s
+Int.13.2kV 52CT2 TR-2 ABIERTO
+ALARM1A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+975
+1
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Motivo por el cual una falla ocurrida en el alimentador Linares Sur se propagó, 
+ocasionando la apertura de los interruptores 52CT1 y 52CT2 de la S/E Linares Norte, 
+acompañado de la coordinación de protecciones vigente entre los paños CT1, CT2, 
+C1 y C2 (este último equipo denominado “31-4391” del alimentador Linares Norte, 
+según lo indicado en el diagrama unilineal incluido en su Informe de Falla de 5 días). 
+ 
+Envío de un diagrama unilineal que identifique de manera precisa las protecciones 
+que operaron y las que no lo hicieron correctamente durante el evento. Además, la 
+topología previa a la falla en el recinto de distribución en S/E Linares Norte, en 
+particular el estado del desconectador 89CS-3 (equipo denominado 89C2-4 según 
+lo indicado en el diagrama unilineal incluido en su Informe de Falla de 5 días), con 
+el objetivo de analizar la propagación de la falla y fundamentar el motivo de la 
+apertura por protecciones del interruptor 52CT2. 
+ 
+Considerando la ubicación de los TTPP que le entregan la medida de tensión a la 
+barra 66 kV de S/E Linares Norte, se solicita aclarar el comportamiento anormal de 
+las señales de tensión previo a la falla (que se evidencia de los registros de 
+protecciones del paño CT2). 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+ Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. Cristián Martínez Vergara - Encargado Suplente de la empresa Chilquinta Transmisión S.A. 
+DAOP/ngm 

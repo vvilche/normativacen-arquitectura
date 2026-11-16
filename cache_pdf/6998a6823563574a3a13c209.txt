@@ -1,0 +1,57 @@
+Sociedad Contractual Minera El Abra
+Planta: Camino Conchi Viejo, Km, 75 S/N
+San José de El Abra S/N, Casilla 79, Calama, Chile
++56 (55) 2818 300 Teléfono
++56 (55) 2818 700 Fax
+ 
+ 
+     Calama, 19 de febrero de 2026 
+                                                                                                                       
+SCMEA/ N°01/2026 
+ 
+Tecnología SCADA / T.I. Infraestructura 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: 
+Informa 
+pérdida 
+de 
+enlace 
+comunicación S/E El Abra – S/E Crucero. 
+ 
+De nuestra consideración: 
+Junto con transmitir el saludo de mi representada, mediante la presente misiva informamos la pérdida de 
+enlace de comunicación existente entre S/E El Abra y S/E Crucero. afectando la transferencia de data 
+correspondiente a Servicios Complementarios, impactando negativamente nuestro porcentaje de 
+cumplimiento normativo. 
+Esta condición anómala surge transcurrido el frente de mal tiempo acentuado este martes 17 de febrero 
+en la zona precordillerana de la Región de Antofagasta, generando una contingencia climática en 
+nuestras Instalaciones de Faena y proceso productivo.  
+Nuestra evaluación en sitio a concluido de forma preliminar que, durante acciones de mitigación 
+nocturnas frente a socavación de terrenos y labores de canalización de aguas, maquinaría durante 
+movimiento de material generó dañó el Tendido de Fibra canalizada de forma soterrada en el sector, 
+evento registrado a las 01:30 horas de la madrugada del día 18 de febrero. 
+Las acciones inmediatas asumidas por mi representada están enfocadas a recuperar y normalizar a la 
+brevedad este enlace de comunicación, siendo puntualizadas a continuación: 
+ 
+Mediciones e intervención en sitio con proveedor del servicio a fin de encontrar tramo de Fibra 
+Óptica dañado.  
+ 
+Reparación o reemplazo de tramo de Fibra Óptica afectado. 
+ 
+Verificación y pruebas de Enlace de Comunicación. 
+Desde ya agradecemos su comprensión considerando la condición expuesta, reiterando nuestro 
+compromiso de restaurar en menor tiempo posible el enlace de comunicación mencionado. 
+Sin otro particular, le saluda atentamente, 
+ 
+Marco O. Leiva Morales 
+Jefe General Servicios de Mantenimiento Eléctrico 
+Encargado Titular SCM El Abra 
+Marco Leiva 
+Morales
+Digitally signed by 
+Marco Leiva 
+Morales 
+Date: 2026.02.19 
+16:40:34 -03'00'

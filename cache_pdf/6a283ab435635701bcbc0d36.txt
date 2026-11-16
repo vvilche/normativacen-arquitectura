@@ -1,0 +1,206 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIOENERGIAS FORESTALES 
+Agustinas 1343, Santiago, Chile 
+www.cmpc.cl 
+www.cmpc.com 
+ 
+ 
+Santiago, 08 de junio de 2026 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional  
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+BF-E-CYR-2026-026: 
+Respuesta a carta DE03776-26. 
+Desempeño deficiente en la prestación de los Servicios 
+Complementarios de Control Primario de Frecuencia, 
+Control Terciario de Frecuencia y Control de Tensión de las 
+unidades generadoras abril 2026. 
+ 
+[1] DE03776-26: Desempeño deficiente en la prestación de 
+los Servicios Complementarios de Control Primario de 
+Frecuencia, Control Terciario de Frecuencia y Control de 
+Tensión de unidades generadoras en abril 2026. 
+[2] Carta DE03133-26 Publicación de Indicadores de 
+Desempeño de Servicios Complementarios prestados 
+durante el mes de abril de 2026 e Indicadores de 
+Desempeño de SSCC EDAC del mes de marzo de 2026. 
+[3] BF-E-CAE-2026-032: Respuesta a carta DE01769-26. 
+Desempeño deficiente en la prestación de los Servicios 
+Complementarios de Control Primario de Frecuencia, 
+Control Terciario de Frecuencia y Control de Tensión de las 
+unidades generadoras febrero 2026. 
+ 
+De nuestra consideración: 
+ 
+Por la presente, y en relación con lo dispuesto en la comunicación de la referencia [1], vengo en responder 
+formalmente a su comunicación de la referencia, mediante la cual se notificaron presuntos desvíos y un 
+desempeño calificado bajo el estándar normativo en las prestaciones de los Servicios Complementarios (SSCC) 
+de Control Primario de Frecuencia (CPF), Control Terciario de Frecuencia (CTF) y/o Control de Tensión (CT) 
+durante el mes de abril de 2026 respecto de nuestras unidades generadoras.   
+ 
+Al respecto, y en línea con el compromiso permanente de la Compañía con la seguridad, confiabilidad y 
+
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIOENERGIAS FORESTALES 
+Agustinas 1343, Santiago, Chile 
+www.cmpc.cl 
+www.cmpc.com 
+eficiencia en la operación del Sistema Eléctrico Nacional, hacemos entrega de los antecedentes solicitados. Para 
+efectos de una exposición clara y estructurada, y de conformidad con el estado administrativo y operativo de 
+nuestras instalaciones, se subdivide la presente respuesta en los apartados requeridos: 
+ 
+UNIDADES CON PLAN DE TRABAJO VIGENTE 
+ 
+En este apartado, se expone la situación técnico-operativa y el respectivo estado de avance de aquellas 
+instalaciones de mi representada que disponían de un plan de trabajo debidamente comprometido con 
+anterioridad a la notificación de la carta de la referencia [1], correspondiendo específicamente a las unidades 
+TER CMPC Laja, TER CMPC Pacífico y TER Santa Fe. 
+ 
+Al respecto, corresponde hacer presente que los compromisos regulatorios asumidos por mi representada, 
+acordados inicialmente en sesión de trabajo con el equipo técnico del Coordinador y posteriormente 
+formalizados mediante la carta de la referencia [3], se encuentran orientados a la ejecución de pruebas de 
+verificación de Servicios Complementarios (SSCC), en conjunto con el desarrollo de un estudio especializado 
+cuyo objeto fundamental es validar y determinar la capacidad de modulación de nuestras calderas de biomasa.  
+Sobre el particular, cumplimos con informar que el referido estudio fue adjudicado formalmente a Valmet, 
+fabricante de nuestras calderas de biomasa, la cual inició las tareas de levantamiento de información 
+operacional hace dos semanas, estimándose un plazo de cuatro meses para la entrega del informe final técnico 
+consolidado. 
+ 
+En forma paralela, y con el objeto de dar cumplimiento a los hitos de normalización, mi representada manifestó 
+formalmente al Coordinador su intención de ejecutar las pruebas de verificación de SSCC el pasado 03 de junio 
+de 2026. En tal sentido, informamos que iniciaremos la licitación del servicio de Experto Técnico para cumplir 
+con el plan trazado. 
+ 
+I. UNIDADES SIN PLAN DE TRABAJO VIGENTE 
+ 
+En lo concerniente a aquellas unidades generadoras individualizadas en la carta [1] que carecían de un plan de 
+acción previo, categoría en la cual se circunscribe específicamente la central TER CMPC Cordillera, explotada 
+por Bioenergías Forestales SpA, esta parte procedió a ejecutar un proceso de levantamiento técnico de su 
+situación operacional actual. Como resultado directo de dicha auditoría interna, se han constatado 
+discrepancias sustantivas respecto al número de horas cuyo desempeño ha sido calificado bajo el estándar 
+normativo por el Coordinador. Los antecedentes fundantes se exponen detalladamente en el Título III del 
+presente instrumento. 
+ 
+ 
+
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIOENERGIAS FORESTALES 
+Agustinas 1343, Santiago, Chile 
+www.cmpc.cl 
+www.cmpc.com 
+ 
+II. 
+ANTECEDENTES Y FUNDAMENTOS DE LA OBSERVACIÓN 
+ 
+La 
+presente 
+observación 
+se 
+fundamenta 
+en 
+la 
+evaluación 
+preliminar 
+contenida 
+en 
+el 
+archivo SSCC_Desempeno_Abril_2026_V1-1 publicado mediante la referencia [2] y posteriormente ratificada en 
+el archivo SSCC_Desempeno_Abril_2026_V2 sin carta conductora, (en adelante, Informe de desempeño SSCC) 
+específicamente en lo referido a la prestación del recurso técnico de Control Terciario de Frecuencia de la 
+central Ter CMPC Cordillera. 
+ 
+1. 
+Evaluación de Desempeño: Según el Registro de Instrucciones Operacionales (RIO), nuestra central 
+recibió un total de 42 instrucciones de activación (componentes de subida y bajada), de los cuales los 
+indicadores preliminares publicados en el Informe de desempeño SSCC califican como "exitosa" 
+únicamente una (1) de dichas activaciones. 
+2. 
+Verificación Técnica Interna: Tras una interrogación de nuestros registros SCADA, se ha constatado 
+que la central Ter CMPC Cordillera modificó su consigna de operación cumpliendo con los parámetros 
+y tiempos establecidos en la normativa y regulación vigente para la gran mayoría de los eventos 
+instruidos. 
+3. 
+Evidencia de Cumplimiento:  se adjuntan como anexo a la presente comunicación registros de 
+instrucciones RIO contrastados con las tendencias de generación de la central. Esta evidencia 
+demuestra de manera fehaciente que la respuesta técnica de la unidad fue correcta y oportuna, 
+incluso en aquellos escenarios donde la instrucción de operación fue inferior a los 5 minutos, de 
+manera tal que se puede validar el carácter material de la entrega del recurso técnico. En suma, de las 
+42 instrucciones de activación recibidas por Ter CMPC Cordillera, a juicio de esta parte solo 6 han 
+tenido un desempeño deficiente, por lo tanto, en función del criterio de selección establecido en el 
+Anexo 2026.04_Respuesta_CPF_CTF_CT_abril_2026 adjunto a comunicación [1], no se acreditaría un 
+incumplimiento. 
+ 
+ 
+III. 
+PETITORIO 
+ 
+En virtud de lo expuesto y de la normativa que rige la prestación de Servicios Complementarios, solicitamos al 
+Coordinador Eléctrico Nacional: 
+a) 
+Primero: tener por respondida en tiempo y forma la carta de referencia [1] 
+b) 
+Segundo: Proceder con una revisión integral de las instrucciones asignadas a la central Ter CMPC 
+Cordillera durante el periodo en cuestión, rectificando la calificación de desempeño en aquellos 
+eventos donde se acredite el debido cumplimiento. 
+ 
+Adicionalmente, Bioenergías Forestales SpA manifiesta su preocupación respecto a que la metodología de 
+
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIOENERGIAS FORESTALES 
+Agustinas 1343, Santiago, Chile 
+www.cmpc.cl 
+www.cmpc.com 
+cálculo actual del factor de desempeño dado que no refleja fielmente el espíritu del servicio complementario, 
+el cual busca incentivar y reconocer la entrega efectiva del recurso para la seguridad del Sistema. Consideramos 
+que existe una brecha cuando unidades que han aportado el recurso solicitado son calificadas de forma 
+insatisfactoria. No obstante lo anterior, haremos nuestros mejores esfuerzos para ajustar nuestros tiempos de 
+operación de forma tal que la actuación de nuestra central sea validada en función de la metodología de cálculo 
+del factor de desempeño. 
+ 
+ 
+Sin otro particular, saluda atentamente. 
+ 
+ 
+ 
+ 
+ 
+ 
+Sergio Zamora Ramírez 
+Encargado Titular de Bioenergías Forestales SpA & CMPC 
+ 
+CC:  verificación.SSCC@coordinador.cl, Unidad de Regulación & Comercialización 
+ 

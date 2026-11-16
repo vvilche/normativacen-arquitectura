@@ -1,0 +1,179 @@
+ 
+ 
+Información Interna del Grupo SAESA.
+N° 1588028 
+Santiago, 02 de septiembre de 2026 
+Señor 
+Rodrigo Espinoza V 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Ref.: Respuesta a Carta DE 05713-26. 
+Solicitud de antecedentes respecto a 
+pérdida de telecontrol y supervisión del 
+25 de agosto de 2026.  
+ 
+Junto con saludar, en atención a la carta DE 05713-26 de fecha 26 de agosto de 2026, mediante la 
+cual se solicitan antecedentes respecto de la pérdida de telecontrol y supervisión registrada el 25 de 
+agosto de 2026, se informa lo siguiente: 
+a) Identificación de las instalaciones afectadas: Se adjunta Anexo N°1 con el listado de instalaciones 
+afectadas por la pérdida de telecontrol y supervisión. 
+b) Determinación de la causa raíz: La indisponibilidad se debió a una falla en uno de los dos enlaces 
+de comunicaciones del proveedor GTD utilizados entre los sitios principal y de respaldo de la 
+plataforma SCADA. Ante dicha contingencia no fue posible realizar la conmutación automática hacia 
+el enlace de respaldo, debido a que existían configuraciones pendientes para dejar completamente 
+operativo dicho mecanismo. Esta situación fue corregida y regularizada durante la madrugada del 
+28 de agosto de 2026. 
+c) Acciones adoptadas: Como medida correctiva se aceleró la implementación de la configuración 
+faltante del enlace secundario entre sitios, provisto por Movistar. Adicionalmente, se completaron 
+las pruebas de alta disponibilidad y de los automatismos de conmutación automática ante fallas, 
+quedando finalizadas durante la madrugada del 28 de agosto de 2026. 
+d) Plan de trabajo: El plan de trabajo definido para evitar la recurrencia de eventos similares consistió 
+en completar la configuración pendiente de los enlaces redundantes y realizar pruebas integrales de 
+funcionamiento y conmutación. Dichas actividades ya fueron ejecutadas y completadas 
+satisfactoriamente. 
+e) Otros antecedentes: A la fecha de esta comunicación los mecanismos de redundancia y 
+conmutación automática entre enlaces de comunicaciones se encuentran implementados y 
+probados. No se informan antecedentes adicionales distintos de los ya señalados. 
+Al efecto, acompañamos a la presente el Anexo N°1 que contiene el detalle de las instalaciones 
+afectadas por el evento. 
+
+ 
+ 
+Información Interna del Grupo SAESA.
+ 
+Sin otro particular, saluda atentamente a usted. 
+ 
+Claudio Castillo Echegaray 
+Subgerente de Operación y Mantenimiento 
+SOCIEDAD TRANSMISORA METROPOLITANA S. A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Información Interna del Grupo SAESA.
+Anexo 1: 
+Listado de subestaciones afectadas afectadas 
+Subestación  
+Coordinado 
+S/E LAS ACACIAS 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LO AGUIRRE 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LOS ALMENDROS 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E ALONSO DE CORDOVA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E ANDES 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E APOQUINDO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E BATUCO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E BICENTENARIO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E BUIN 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E CHENA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E CHICUREO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E CLUB HIPICO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LA CISTERNA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E CERRO NAVIA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E COLACO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E CURACAVI 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LA FLORIDA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LA DEHESA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LAMPA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LA REINA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LO BOZA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LO PRADO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LOS DOMINICOS 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LO VALLEDOR 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E MAIPU 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E MALLOCO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E EL MANZANO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E MOVIL 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E OCHAGAVIA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E PAJARITOS 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E PANAMERICANA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E LA PINTANA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E PUNTA PEUCO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E PUDAHUEL 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E PUQUILLAY 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A 
+S/E QUILICURA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+
+ 
+ 
+Información Interna del Grupo SAESA.
+S/E QUINTA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E RECOLETA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E RENCA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E SANTA ROSA SUR 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E RUNGUE 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E SAN CRISTOBAL 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E SAN JOAQUIN 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E SAN JOSE 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E SAN BERNARDO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E SANTA ELENA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E SANTA MARTA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E SAN PABLO 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E SAN RAQUEL 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+S/E VITACURA 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+ 
+ 

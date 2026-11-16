@@ -1,0 +1,885 @@
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300  
+ www.coordinador.cl 
+ 
+Santiago, 22 de abril de 2025 
+DE 02388-25 
+  
+Señores  
+Encargados  
+Empresas Coordinadas    
+(Según lista de distribución)  
+Presente  
+  
+Ref.: Comunica atraso en el proceso de 
+Verificación de Instalaciones de Generación 
+para 
+la 
+Prestación 
+de 
+Servicios 
+Complementarios de acuerdo con Cronograma 
+Vigente. 
+[1] Carta DE02344-25, Ref.: “Actualización del 
+Cronograma de verificación de Servicios 
+Complementarios (SSCC) en instalaciones 
+existentes de Generación y Almacenamiento”, 
+de fecha 17 de abril de 2025. 
+ 
+De mi consideración:  
+   
+En relación con la materia de la referencia y de acuerdo con lo establecido en el 
+cronograma de verificación de Servicios Complementarios (SSCC) de instalaciones 
+existentes de Generación y Almacenamiento, publicado mediante carta de la Ref. [1], 
+se comunica el atraso en el envío de los informes de verificación de las instalaciones de 
+vuestra representada y que se listan en el Anexo 1 de la presente comunicación.  
+ 
+Es importante recordar que el proceso de verificación de SSCC considera varias etapas 
+y se realiza según lo establecido en el Anexo Técnico “Verificación de Instalaciones para 
+la Prestación de SSCC” de la NT de SSCC y en las Guías de Verificación elaborados 
+por este Coordinador, las que se encuentran publicadas en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso 
+de Verificación de Instalaciones > Instructivos Técnicos de Verificación  
+ 
+Considerando lo planteado, se solicita a su representada lo siguiente: 
+1. Informar las razones que justifican el no haber enviado en plazo los informes de 
+verificación de SSCC de sus instalaciones de generación, indicando las acciones 
+que ha tomado o tomará para que a futuro no se generen nuevos retrasos. 
+2. La entrega de un plan de regularización que considere el envío de los mencionados 
+informes de verificación en un plazo máximo de 30 días hábiles, contados desde 
+la recepción de la presente carta. Dicho plan debe considerar al menos las etapas y 
+fechas límite asociadas, específicamente en lo que respecta a la fecha de envío de 
+los protocolos de pruebas, fecha en que llevará a cabo lo ensayos y la fecha de 
+envío del respectivo informe. Cabe destacar que este plan no debe alterar la entrega 
+de los informes programados de otras instalaciones para los próximos meses por 
+parte de su representada.  
+ 
+La información solicitada deberá ser enviado mediante carta y con copia al correo 
+electrónico verificacion.SSCC@coordinador.cl, a más tardar el 28 de abril de 2025.  
+ 
+ 
+
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300  
+ www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+  
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GZV/CRV/adr 
+ 
+Incl.: Archivo “2025.02.18 Cronograma Verificación SSCC Generación 2024-2028_publicado_filtrado 
+atraso.xlsx”. 
+ 
+ 
+Lista de distribución:  
+ 
+• 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+• 
+AELA GENERACIÓN S.A. 
+• 
+AES ANDES S.A. 
+• 
+ANDES SOLAR II SPA 
+• 
+ARAUCO BIOENERGÍA S.A. 
+• 
+ARCADIA GENERACION SOLAR S.A. 
+• 
+ASOC. DE CANAL. SOCIEDAD DEL CANAL DE MAIPO 
+• 
+NUEVA ATACAMA SOLAR S.A. 
+• 
+AUSTRIANSOLAR CHILE SEIS SPA 
+• 
+BIOENERGÍAS FORESTALES SPA 
+• 
+COLBÚN S.A. 
+• 
+CONEJO SOLAR SPA 
+• 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+• 
+ENERGÍA CERRO EL MORADO S.A. 
+• 
+ENGIE ENERGÍA CHILE S.A. 
+• 
+FOTOVOLTAICA NORTE GRANDE 5 SPA 
+• 
+INVERSIONES FOTOVOLTAICAS SPA 
+• 
+JAVIERA SPA 
+• 
+PARQUE EÓLICO EL ARRAYÁN SPA 
+• 
+PARQUE SOLAR FOTOVOLTAICO SOL DEL DESIERTO SPA 
+• 
+SANTIAGO SOLAR S.A. 
+• 
+TSGF SPA 
+• 
+VIENTOS DE RENAICO SPA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Anexo 1: Instalaciones con entrega de Informe de Verificación de SSCC atrasados según Cronograma de Verificación de 
+instalaciones de Generación 2024-2028 versión 2025.02.18 
+ 
+ 
+A continuación, se listan las instalaciones que tienen pendiente el envío de Informe de Verificación de SSCC según el cronograma emitido en 
+carta de la Ref. [1] 
+ 
+Cabe destacar que de acuerdo con lo establecido en el artículo 4-5 de la NTSSCC, la verificación de las instalaciones mencionadas, por ser 
+consideradas existentes en el presente régimen de SSCC, podrán realizar los ensayos y respectivos informes por el titular de las instalaciones 
+mediante personal propio o mediante un tercero, lo que deberá ser notificado oportunamente al Coordinador al momento de enviar el plan de 
+trabajo para normalizar el presente requerimiento normativo. En dicho sentido, para estas instalaciones no es necesario que el Coordinador 
+valide al Experto Técnico, pero éste si revisará y aprobará los protocolos de verificación, los cuales deberán ser enviados al Coordinador al 
+menos 15 días previos a la fecha estimada de realización de los ensayos. 
+ 
+En el caso de la verificación del Servicio Complementario de Control Secundario de Frecuencia (CSF), es el Coordinador quien cumple el rol 
+de Experto Técnico. Por lo tanto, y a efectos de coordinar las actividades y concretar la verificación del CSF, deberá tomar contacto con el 
+Departamento de Modelación y Aplicaciones EMS al correo dmap@coordinador.cl. En el Anexo 2 a la presente carta se encuentra el listado 
+de señales requeridas en este proceso, las que de ser necesario deberá regularizar, en forma previa, con el Departamento SCADA y SITR del 
+Coordinador. 
+ 
+Tabla N°1: Instalaciones retrasadas en la entrega del Informe de verificación de SSCC 
+N° 
+Coordinado 
+Unidad 
+CPF CSF 
+CTF 
+giro 
+CTF 
+frío 
+CT 
+PA 
+AR 
+Fecha envío informe 
+según cronograma 
+Días de 
+atraso 
+1 ACCIONA ENERGÍA CHILE 
+HOLDINGS S.A. 
+PFV EL ROMERO 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+feb-25 
+47 
+2 AELA GENERACIÓN S.A. 
+HP MAMPIL U1 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+feb-25 
+47 
+3 AELA GENERACIÓN S.A. 
+HP MAMPIL U2 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+feb-25 
+47 
+4 AELA GENERACIÓN S.A. 
+HP PEUCHEN U1 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+dic-24 
+106 
+5 AELA GENERACIÓN S.A. 
+HP PEUCHEN U2 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+dic-24 
+106 
+6 AELA GENERACIÓN S.A. 
+PE AURORA (U1-U43) 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+dic-24 
+106 
+7 AELA GENERACIÓN S.A. 
+PE CUEL (U1-U22) 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+dic-24 
+106 
+8 AELA GENERACIÓN S.A. 
+PE SARCO (U1-U50) 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+dic-24 
+106 
+
+ 
+ 
+ 
+N° 
+Coordinado 
+Unidad 
+CPF CSF 
+CTF 
+giro 
+CTF 
+frío 
+CT 
+PA 
+AR 
+Fecha envío informe 
+según cronograma 
+Días de 
+atraso 
+9 AELA GENERACIÓN S.A. 
+PFV SALVADOR 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+dic-24 
+106 
+10 AELA GENERACIÓN S.A. 
+PFV SAN ANDRES 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+dic-24 
+106 
+11 AES ANDES S.A. 
+HP MAITENES U1 
+NO 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+dic-24 
+106 
+12 AES ANDES S.A. 
+HP MAITENES U2 
+NO 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+dic-24 
+106 
+13 AES ANDES S.A. 
+HP MAITENES U3 
+NO 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+dic-24 
+106 
+14 AES ANDES S.A. 
+TER CAMPICHE U1 
+SI 
+SI 
+SI 
+NO 
+SI 
+NO 
+NO 
+dic-24 
+106 
+15 AES ANDES S.A. 
+TER NUEVA VENTANAS 
+U1 
+SI 
+SI 
+SI 
+NO 
+SI 
+NO 
+NO 
+dic-24 
+106 
+16 ANDES SOLAR II SPA 
+PFV ANDES SOLAR II 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+mar-25 
+16 
+17 ARAUCO BIOENERGÍA S.A. 
+TER NUEVA ALDEA II U1 
+SI 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+ene-25 
+75 
+18 ARAUCO BIOENERGÍA S.A. 
+TER NUEVA ALDEA U1 
+SI 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+ene-25 
+75 
+19 ARAUCO BIOENERGÍA S.A. 
+TER NUEVA ALDEA U2 
+SI 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+dic-24 
+106 
+20 ARAUCO BIOENERGÍA S.A. 
+TER VIÑALES U1 
+SI 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+ene-25 
+75 
+21 ARCADIA GENERACION SOLAR 
+S.A. 
+PFV DIEGO DE ALMAGRO 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+feb-25 
+47 
+22 ASOC. DE CANAL. SOCIEDAD 
+DEL CANAL DE MAIPO 
+HP FLORIDA II U1 
+NO 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+mar-25 
+16 
+23 ASOC. DE CANAL. SOCIEDAD 
+DEL CANAL DE MAIPO 
+HP FLORIDA II U2 
+NO 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+mar-25 
+16 
+24 NUEVA ATACAMA SOLAR S.A. 
+PFV ATACAMA SOLAR II 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+mar-25 
+16 
+25 AUSTRIANSOLAR CHILE SEIS 
+SPA 
+PFV LA HUELLA 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+feb-25 
+47 
+26 BIOENERGÍAS FORESTALES SPA 
+TER CMPC LAJA 
+SI 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+mar-25 
+16 
+27 BIOENERGÍAS FORESTALES SPA 
+TER CMPC PACIFICO 
+SI 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+mar-25 
+16 
+28 COLBÚN S.A. 
+HE ANGOSTURA U1 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+dic-24 
+106 
+29 COLBÚN S.A. 
+HE ANGOSTURA U2 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+ene-25 
+75 
+30 COLBÚN S.A. 
+HE ANGOSTURA U3 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+ene-25 
+75 
+31 COLBÚN S.A. 
+HE COLBUN U1 
+SI 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+feb-25 
+47 
+32 COLBÚN S.A. 
+HE COLBUN U2 
+SI 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+feb-25 
+47 
+33 COLBÚN S.A. 
+HP BLANCO U1 
+SI 
+SI 
+SI 
+NO 
+SI 
+NO 
+NO 
+dic-24 
+106 
+
+ 
+ 
+ 
+N° 
+Coordinado 
+Unidad 
+CPF CSF 
+CTF 
+giro 
+CTF 
+frío 
+CT 
+PA 
+AR 
+Fecha envío informe 
+según cronograma 
+Días de 
+atraso 
+34 COLBÚN S.A. 
+HP RUCUE U1 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+ene-25 
+75 
+35 COLBÚN S.A. 
+HP RUCUE U2 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+ene-25 
+75 
+36 COLBÚN S.A. 
+TER NEHUENCO CC1-TG 
+SI 
+SI 
+SI 
+NO 
+SI 
+NO 
+NO 
+ene-25 
+75 
+37 COLBÚN S.A. 
+TER NEHUENCO CC1-TG 
+TER NEHUENCO CC1-TV 
+SI 
+SI 
+SI 
+NO 
+SI 
+NO 
+NO 
+ene-25 
+75 
+38 COLBÚN S.A. 
+TER NEHUENCO II CC1-TG 
+SI 
+NO 
+SI 
+NO 
+SI 
+NO 
+NO 
+ene-25 
+75 
+39 COLBÚN S.A. 
+TER NEHUENCO II CC1-TG 
+TER NEHUENCO II CC1-TV 
+SI 
+SI 
+SI 
+NO 
+SI 
+NO 
+NO 
+ene-25 
+75 
+40 CONEJO SOLAR SPA 
+PFV CONEJO SOLAR 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+mar-25 
+16 
+41 EMPRESA ELÉCTRICA 
+PEHUENCHE S.A. 
+HP CURILLINQUE U1 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+ene-25 
+75 
+42 ENERGÍA CERRO EL MORADO 
+S.A. 
+PFV DOÑA CARMEN 
+SOLAR 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+feb-25 
+47 
+43 ENGIE ENERGÍA CHILE S.A. 
+PFV TAMAYA SOLAR 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+mar-25 
+16 
+44 FOTOVOLTAICA NORTE GRANDE 
+5 SPA 
+PFV LA CRUZ SOLAR 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+ene-25 
+75 
+45 FOTOVOLTAICA NORTE GRANDE 
+5 SPA 
+PFV URIBE SOLAR 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+mar-25 
+16 
+46 INVERSIONES FOTOVOLTAICAS 
+SPA 
+PFV WILLKA 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+mar-25 
+16 
+47 JAVIERA SPA 
+PFV JAVIERA 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+ene-25 
+75 
+48 PARQUE EÓLICO EL ARRAYÁN 
+SPA 
+PE EL ARRAYAN (U1-U50) 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+ene-25 
+75 
+49 PARQUE SOLAR FOTOVOLTAICO 
+SOL DEL DESIERTO SPA 
+PFV SOL DEL DESIERTO 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+dic-24 
+106 
+50 SANTIAGO SOLAR S.A. 
+PFV SANTIAGO SOLAR 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+feb-25 
+47 
+51 TSGF SPA 
+PFV SANTA ISABEL 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+ene-25 
+75 
+52 VIENTOS DE RENAICO SPA 
+PE LA FLOR (U1-U9) 
+SI 
+SI 
+SI 
+SI 
+SI 
+NO 
+NO 
+ene-25 
+75 
+ 
+▪ 
+Los días de atraso son contados al 31 de marzo de 2025. 
+▪ 
+El detalle del estado del proceso y de los SSCC con informes de verificación atrasados se puede ver en archivo Excel “2025.02.18 
+Cronograma Verificación SSCC Generación 2024-2028_publicado_filtrado atraso.xlsx”. 
+ 
+
+ 
+ 
+ 
+Anexo 2: Listado de Señales necesarias para Control Secundario de Frecuencia 
+(AGC) 
+ 
+Unidades convencionales (Centrales Térmicas e Hidráulicas) 
+Digitales 
+Descripción 
+Local / Remoto (En Despacho Económico o Local) 
+Local (Uso de consigna local cuando la unidad no 
+está en control del AGC) / Remoto (Uso de consigna 
+remota proveniente del AGC)  
+Estado de Interruptor 
+Corresponde al interruptor de sincronización de la 
+unidad 
+Analógicos 
+Analógicos 
+Retorno de consigna enviada desde el Coordinador 
+(MW) 
+Confirmación de que la consigna fue recibida o leída 
+por el controlador de la unidad 
+Límite superior de la Unidad (MW) 
+Valor efectivo utilizado por la unidad 
+Límite inferior de la Unidad (MW) 
+Mínimo técnico informado 
+Rampa de subida (MW/Min) 
+Rampa de subida utilizada para el AGC 
+Rampa de bajada (MW/Min) 
+Rampa de bajada utilizada para el AGC 
+Potencia generada (MW) 
+Se refiere a la potencia bruta de la unidad 
+Set Point 
+Set Point 
+Consigna de Despacho Económico 
+Recepción de una consigna remota proveniente del 
+AGC 
+Unidades de ERV (Parques Fotovoltaicos y Eólicos) 
+Digitales 
+Descripción 
+Local / Remoto (En Despacho Económico o Local) 
+Local (Uso de consigna local cuando el parque no 
+está en control del AGC) / Remoto (Uso de consigna 
+remota proveniente del AGC)  
+Estado de Interruptor 
+Interruptor en el punto de conexión 
+Analógicos 
+Analógicos 
+Retorno de consigna enviada desde el Coordinador 
+(MW) 
+Confirmación de que la consigna fue recibida o leída 
+por el controlador de la unidad 
+Límite superior de la Unidad (MW) 
+Corresponde a la Potencia Máxima disponible en 
+MW. 
+Límite inferior de la Unidad (MW) 
+Mínimo técnico informado 
+Rampa de subida (MW/Min) 
+Rampa de subida utilizada para el AGC 
+Rampa de bajada (MW/Min) 
+Rampa de bajada utilizada para el AGC 
+Potencia generada (MW) 
+Potencia generada por el parque en el punto de 
+conexión 
+Set Point 
+Set Point 
+Consigna de Despacho Económico 
+Recepción de una consigna remota proveniente del 
+AGC 
+ 
+ 

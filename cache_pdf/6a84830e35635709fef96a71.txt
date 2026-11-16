@@ -1,0 +1,262 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+Santiago, 18 de agosto de 2026 
+DE 05501-26 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 300 al 307 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 300-2026 al EAF 307-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Indisponibilidad > 
+Indicadores NTISyC > 2026 > Julio > Cálculo por EAF: 
+ 
+1. EAF 300-2026 
+2. EAF 301-2026 
+3. EAF 302-2026 
+4. EAF 303-2026 
+5. EAF 304-2026 
+6. EAF 305-2026 
+7. EAF 306-2026 
+8. EAF 307-2026 
+ 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el viernes 21 de agosto 
+de 2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. Victor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+Sr. Luis Antonio Olivares Garcia – Encargado Titular Minera Altos de Punitaqui Ltda. 
+Sr. María José Reveco – Encargado Titular Transelec S.A. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Sociedad Austral de Electricidad S.A. 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Empresa Eléctrica de la Frontera S.A. 
+Sr. Pablo Juan Roberto Leal Vester  – Encargado Titular Compañía Distribuidora de Energía Eléctrica CODINER 
+S.A. 
+Sr. José Rodrigo Lucero Chilovitis – Encargado Titular Compañía Minera Zaldívar LTDA. 
+Sr. Víctor Manuel Salinas Barrera – Encargado Titular Empresa Eléctrica Capullo S.A. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Compañía Eléctrica de Osorno S.A. 
+Sr. Juan Alfonso Veloso Molina – Encargado Titular Sistema de Transmisión del Sur S.A. 
+DBCD/DTE-SSCC/SGASO 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 301-2026 
+16-07-2026 
+Sociedad Austral de 
+Electricidad S.A. 
+S/E Panguipulli 
+SI 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. No obstante, respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que se incorpora íntegramente al 
+cálculo. 
+EAF 302-2026 
+16-07-2026 
+Compañía 
+Distribuidora de 
+Energía Eléctrica 
+CODINER S.A. 
+S/E Pillanlelbún 
+S/E Lautaro 
+No 
+- 
+No envía anexo del IF5D con el CPPH y desglose 
+comunal exigido por la SEC, para la S/E Pillanlelbún y 
+la S/E Lautaro 
+ 
+Enviar Antecedentes solicitados 
+EAF 302-2026 
+16-07-2026 
+Empresa Eléctrica 
+de Frontera S.A. 
+S/E Pillanlelbún 
+S/E Lautaro  
+S/E Llaima 
+Si 
+Si 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. No obstante, respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que se incorpora íntegramente al 
+cálculo. 
+EAF 305-2026   
+16-07-2026   
+Compañía Eléctrica 
+de Osorno S.A. 
+S/E Aihuapi  
+ S/E Chirre  
+ S/E Rio Bonito 
+SI 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. No obstante, respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que se incorpora íntegramente al 
+cálculo.   
+EAF 305-2026   
+16-07-2026   Sociedad Austral de 
+Electricidad S.A.   
+S/E Melipulli  
+ S/E Chirre  
+ S/E Aihuapi   
+SI 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. No obstante, respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+formato, por lo que se incorpora íntegramente al 
+cálculo.  
+EAF 306-2026 
+16-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Vicuña 
+Parcial 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido.  
+ 
+Respecto del alimentador Rivadavia (PA S/E VICUÑA 
+E2), se observa que la información presentada no da 
+cumplimiento al ejercicio de desagregación comunal 
+requerido. 
+En 
+particular, 
+para 
+la 
+comuna 
+de 
+PAIGUANO se informan múltiples registros asociados 
+a una misma hora de desconexión y una misma hora 
+de normalización, desagregando entre ellos los clientes 
+afectados y los antecedentes de energía, en 
+circunstancias que correspondía consolidar dicha 
+información en un único registro. 
+ 
+Se solicita entregar información corregida. 
+(*) Los EAF N°300, N°303 no tuvieron afectación de Empresas Distribuidoras. 
+(**) En el EAF N°302 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+(**) En los EAF N°304 y 307 la información recibida de la empresa distribuidora Sociedad Austral de Electricidad S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+(**) En los EAF N°304 y 307 la información recibida de la empresa distribuidora Compañía Eléctrica De Osorno S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+ 
+ 
+ 

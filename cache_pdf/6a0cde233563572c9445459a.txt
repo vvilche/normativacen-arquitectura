@@ -1,0 +1,289 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ Santiago, 19 de mayo de 2026 
+DE 03424-26 
+ 
+Señores  
+Encargados 
+Según Lista de Distribución 
+Presente 
+ 
+Ref. Cumplimiento de los planes de 
+implementación de PMU del Módulo 
+de Medición Fasorial (MMF) del SEN 
+[1] Carta DE04823-25, de fecha 19 
+de 
+agosto 
+de 
+2025, 
+“Instruye implementación y solicita 
+plan de trabajo para implementación 
+de puntos de monitoreo de Módulo 
+Fasorial del SEN”.  
+De mi consideración: 
+Me refiero a la carta de la Ref. [1], mediante la cual solicitamos el envío de un plan de trabajo 
+y cronograma detallado para cumplir con la implementación de los puntos de monitoreo 
+mediante PMU instruidos. Al respecto, dado que su representada informó plazos finales de 
+implementación para abril de 2026 y que, de acuerdo con los antecedentes que disponemos 
+a la fecha aún no ha cumplido con la integración de la PMU al MMF, solicito nos informe a 
+más tardar el próximo 25 de mayo de 2026, para cada uno de sus puntos de monitoreo 
+indicados en el Anexo, lo siguiente: 
+a) El estado de avance de los hitos del proyecto, en particular, aquellos que se 
+encuentran vencidos. 
+b) Las medidas que está llevando a cabo para efectos de remediar el atraso en la 
+implementación y cumplir con el hito final de implementación. 
+c) Indicar, en particular, lo siguiente: 
+i. 
+Si la PMU ya se encuentra instalada en terreno. 
+ii. 
+Si ya finalizó la implementación de los canales de comunicaciones al PDC 
+local y/o corporativo, según corresponda. 
+iii. 
+Si ya adquirió la o las licencias de comunicaciones requeridas para 
+comunicar cada PMU al PDC del Coordinador. 
+ 
+Por otra parte, le recuerdo la obligación legal que tienen todas las empresas coordinadas de 
+proporcionar al Coordinador la información requerida para el ejercicio de sus funciones, 
+conforme a lo dispuesto en el artículo 72-2 de la Ley General de Servicios Eléctricos.  
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+La omisión de esta obligación podría ser objeto de fiscalización y sanción por parte de la 
+Superintendencia de Electricidad y Combustibles. Considerando lo anterior, informo a Ud. que 
+el incumplimiento a lo solicitado en esta comunicación, junto con los antecedentes que nos 
+proporcione, serán puesto en conocimiento de la Superintendencia de Electricidad y 
+Combustibles (SEC) para los fines que dicha entidad estime pertinentes. 
+ 
+Asimismo, se deja constancia de que el presente requerimiento no constituye una prórroga del 
+plazo originalmente conferido, sino únicamente una instancia para que su representada 
+entregue los antecedentes que estime pertinentes respecto del eventual incumplimiento 
+detectado. 
+ 
+Finalmente, para efectos de enviar lo solicitado y en caso de requerir consultas adicionales, 
+derivarlas directamente a través del correo DMAP@coordinador.cl . 
+ 
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CAE/ycl 
+Incluye: Lo indicado 
+c.c.: Sres. Encargados Suplentes, según lista de Distribución 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ANEXO 
+     Puntos del módulo de medición fasorial consultados 
+ 
+ 
+Coordinado 
+Elemento  
+Punto de medida 
+ARCADIA GENERACIÓN SOLAR 
+S.A. 
+PFV PAMPA SOLAR NORTE 
+En punto de control PPC 
+ARCADIA GENERACIÓN SOLAR 
+S.A. 
+PFV DOMEYKO 
+Paño JT1 de SE Hades 
+AUSTRIANSOLAR CHILE SEIS SPA 
+PFV LA HUELLA 
+En punto de control PPC 
+CGE TRANSMISIÓN S.A. 
+T2D S/E VICUÑA HT1 
+lado AT o BT del transformador 
+CGE TRANSMISIÓN S.A. 
+T2D S/E GRANEROS BT2 
+lado AT o BT del transformador 
+CGE TRANSMISIÓN S.A. 
+T2D S/E RENGO BT2 
+lado AT o BT del transformador 
+CGE TRANSMISIÓN S.A. 
+T2D S/E SAN CARLOS BT2 
+lado AT o BT del transformador 
+CGE TRANSMISIÓN S.A. 
+T2D S/E ALCONES BT2 
+lado AT o BT del transformador 
+CGE TRANSMISIÓN S.A. 
+T2D S/E CHILLAN BT4 
+lado AT o BT del transformador 
+CGE TRANSMISIÓN S.A. 
+T2D S/E LOS ANGELES (CGE) 
+BT5 
+lado AT o BT del transformador 
+COMASA SPA 
+TER LAUTARO U1 
+Bornes de la unidad 
+COMASA SPA 
+TER LAUTARO U2 
+Bornes de la unidad 
+COMPAÑÍA TRANSMISORA DEL 
+NORTE GRANDE S.A. 
+TAP OFF PACHACAMA - LAS 
+VEGAS 110KV C1 
+Paño H1 de SE Las Vegas 
+COMPAÑÍA TRANSMISORA DEL 
+NORTE GRANDE S.A. 
+KAPATUR - LABERINTO 220KV 
+C1 
+Paño J11 de SE Laberinto 
+DOÑA ANTONIA SOLAR SPA 
+PFV DOÑA ANTONIA 
+En punto de control PPC 
+EL PELÍCANO SOLAR COMPANY 
+SPA 
+PFV EL PELICANO 
+Paño JT1 de SE El Pelícano 
+ELETRANS S.A. 
+SECCIONADORA SAN ANDRES 
+- CARDONES 220KV L2 C2 
+Paño J12 de SE Cardones 
+EMPRESA DE TRANSMISIÓN 
+ELÉCTRICA TRANSEMEL S.A. 
+T2D S/E DUQUECO BT1 
+lado AT o BT del transformador 
+IBEREÓLICA CABO LEONES II S.A. 
+PE CABO LEONES II 
+Paño J1 de SE Cabo Leones II 
+IBEREÓLICA CABO LEONES II S.A. 
+PFV SAN PEDRO 
+Paño JT1 de SE Lasana 
+INVERSIONES FOTOVOLTAICAS 
+SPA 
+PFV WILLKA 
+Paño JT1 de SE Willka 
+MLP TRANSMISION S.A. 
+STATCOM S/E EL CHACAY ET1 Paños J11 y J12 de SE El 
+Chacay 
+PARQUE EÓLICO ATACAMA SPA 
+PE ATACAMA 
+Paño JT1 de SE Iberatacama 
+PARQUE SOLAR LEYDA SPA 
+PFV LEYDA 
+En punto de control PPC 
+PLANTA SOLAR TOCOPILLA SPA 
+PFV TAIRA 
+Lado AT del transformador 
+elevador del parque 
+PUNTA PALMERAS S.A. 
+PE PUNTA PALMERAS 
+En punto de control PPC 
+SANTIAGO SOLAR S.A. 
+PFV SANTIAGO SOLAR 
+En punto de control PPC 
+(52HT1) 
+STATKRAFT EOLICO S.A. 
+PE LOS CERRILLOS 
+En punto de control PPC 
+STATKRAFT EOLICO S.A. 
+PE CARDONAL 
+En punto de control PPC 
+STATKRAFT EOLICO S.A. 
+PE MANANTIALES 
+En punto de control PPC 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+Lista de Distribución 
+ 
+ 
+Arcadia Generación Solar S.A. 
+AustrianSolar Chile Seis SpA 
+CGE Transmisión S.A. 
+Comasa SpA 
+Compañía Transmisora del Norte Grande S.A. 
+Doña Antonia Solar SpA 
+El Pelícano Solar Company SpA 
+Eletrans S.A. 
+Empresa de Transmisión Eléctrica Transemel S.A. 
+Ibereólica Cabo Leones II S.A. 
+Inversiones Fotovoltaicas SpA 
+MLP Transmisión S.A. 
+Parque Eólico Atacama SpA 
+Parque Solar Leyda SpA 
+Planta Solar Tocopilla SpA 
+Punta Palmeras S.A. 
+Santiago Solar S.A. 
+Statkraft Eólico S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

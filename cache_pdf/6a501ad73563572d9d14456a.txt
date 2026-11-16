@@ -1,0 +1,474 @@
+ 
+Parque Isidora #1061 Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+  
+Santiago, 09 de Julio de 2026 
+ 
+DE 04627-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas  
+Según lista de distribución 
+Presente 
+ 
+Ref.: 
+Seguimiento 
+de 
+planes 
+de 
+acción 
+cumplimiento de disponibilidad SITR. 
+ 
+De mi consideración:  
+En relación con la materia de referencia, me dirijo a usted en su calidad de encargado de 
+su empresa coordinada, debido al incumplimiento en la disponibilidad de información del 
+Sistema de Información en Tiempo Real (SITR), la cual se encuentra por debajo de los 
+niveles exigidos en la Norma Técnica de Seguridad y Calidad de Servicio (NTSyCS). 
+En este contexto, y con el objeto de informar adecuadamente a la Superintendencia de 
+Electricidad y Combustibles (SEC) respecto del grado de cumplimiento y de los planes de 
+acción presentados por las empresas coordinadas que se encuentran en situación de 
+incumplimiento conforme a la NTSyCS en lo relativo a la disponibilidad de información del 
+SITR, cuyo estándar corresponde a un cumplimiento mensual mínimo de 99,5%, se 
+solicita a usted dar respuesta al requerimiento efectuado a través de la plataforma 
+ConectaCEN del Coordinador hasta el 24 de julio de 2026, el cual constituye el canal 
+oficial para estos efectos y no se tomarán otros medios de respuesta. 
+Se deja expresa constancia de que la presentación de un plan de acción no exime ni 
+sustituye la obligación de dar cumplimiento a los niveles de disponibilidad exigidos por la 
+NTSyCS, manteniéndose plenamente vigente la responsabilidad de su representada 
+respecto de dichos estándares. 
+Para 
+su 
+gestión, 
+puede 
+acceder 
+mediante 
+el 
+siguiente 
+enlace: 
+https://omnicanal.coordinador.cl/, presionando el botón “Mi Coordinador”. 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Víctor Reyes Jara 
+Jefe de Departamento SCADA 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+VRJ/adr 
+ 
+ 
+
+ 
+Parque Isidora #1061 Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ANEXO 1 – Lista de Distribución 
+ 
+• 
+AELA GENERACIÓN S.A. 
+• 
+AES ANDES S.A. 
+• 
+AGROCOMERCIAL A.S. LTDA. 
+• 
+AGUAS ANTOFAGASTA S.A. 
+• 
+ALBA SPA 
+• 
+ALGORTA NORTE S.A. 
+• 
+ALTO MAIPO SPA 
+• 
+AMANECER SOLAR SPA 
+• 
+ANA MARÍA S.A. 
+• 
+ANDES SOLAR II SPA 
+• 
+ANDES SOLAR III SPA 
+• 
+ANDES SOLAR IV SPA 
+• 
+ANGLO AMERICAN SUR S.A. 
+• 
+ANTU ENERGY SPA 
+• 
+ARAUCO BIOENERGÍA SPA 
+• 
+ARCADIA GENERACIÓN SOLAR S.A. 
+• 
+ASESORÍAS G-51 SPA 
+• 
+ATACAMA SOLAR SPA 
+• 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+• 
+BESALCO TRANSMISIÓN SPA 
+• 
+BESS DEL DESIERTO SPA 
+• 
+BIOENERGÍAS FORESTALES SPA 
+• 
+BOLERO SPA 
+• 
+CEMENTO POLPAICO S.A. 
+• 
+CEMENTOS BÍO BÍO CENTRO S.A. 
+• 
+CEMENTOS BÍO BÍO DEL SUR S.A. 
+• 
+CENTELLA TRANSMISIÓN S.A. 
+• 
+CENTRAL COLMITO S.A. 
+• 
+CENTRAL YUNGAY S.A. 
+• 
+CERRO DOMINADOR CSP S.A. 
+• 
+CFC HOLDINGS SPA 
+• 
+CGE TRANSMISIÓN S.A. 
+• 
+CIA. MINERA MANTOS DE ORO 
+• 
+CLEANAIRTECH SUDAMÉRICA S.A. 
+• 
+CODELCO (CORPORACIÓN NACIONAL DEL COBRE) 
+• 
+COLBÚN S.A. 
+• 
+COMASA SPA 
+• 
+COMPAÑÍA BARRICK CHILE GENERACIÓN SPA 
+• 
+COMPAÑÍA CONTRACTUAL MINERA CANDELARIA 
+• 
+COMPAÑÍA DOÑA INÉS DE COLLAHUASI SCM 
+• 
+COMPAÑÍA MINERA CERRO COLORADO LTDA 
+• 
+COMPAÑÍA MINERA DEL PACÍFICO S.A. 
+• 
+COMPAÑÍA MINERA LOMAS BAYAS 
+• 
+COMPAÑÍA MINERA NEVADA SPA 
+• 
+COMPAÑÍA MINERA TECK QUEBRADA BLANCA S.A. 
+• 
+COMPAÑÍA MINERA ZALDÍVAR SPA 
+• 
+COMPAÑÍA SCM MINERA LUMINA COPPER CHILE 
+• 
+COMPAÑÍA SIDERURGICA HUACHIPATO S.A. 
+
+ 
+Parque Isidora #1061 Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+• 
+COMPAÑÍA TRANSMISORA LA CEBADA S.A. 
+• 
+COMPAÑÍA TRANSMISORA SUR S.A. 
+• 
+COMPLEJO METALÚRGICO ALTONORTE S.A. 
+• 
+CÓNDOR ENERGÍA SPA 
+• 
+CONEJO SOLAR SPA 
+• 
+CONSORCIO SANTA MARTA S.A. 
+• 
+COOPERATIVA DE CONSUMO DE ENERGÍA ELÉCTRICA CHILLÁN LTDA. 
+• 
+COOPERATIVA ELÉCTRICA PAILLACO LTDA 
+• 
+COPEC RENOVABLES SPA 
+• 
+COPIAPÓ SOLAR SPA 
+• 
+ECOMETALES LIMITED, AGENCIA EN CHILE 
+• 
+EDELNOR TRANSMISIÓN S.A. 
+• 
+EDGECONNEX CHILE V SPA 
+• 
+EFE VALPARAÍSO S.A. 
+• 
+EKA CHILE S.A. 
+• 
+EL PELÍCANO SOLAR COMPANY SPA 
+• 
+ELEKTRA GENERACIÓN S.A. 
+• 
+EMPRESA DE LOS FERROCARRILES DEL ESTADO 
+• 
+EMPRESA DE TRANSMISIÓN ELÉCTRICA TRANSEMEL S.A. 
+• 
+EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A. 
+• 
+EMPRESA ELÉCTRICA ANGAMOS SPA 
+• 
+EMPRESA ELÉCTRICA CAPULLO S.A. 
+• 
+EMPRESA ELÉCTRICA CARÉN S.A. 
+• 
+EMPRESA ELÉCTRICA LA LEONERA S.A. 
+• 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+• 
+EMPRESA ELÉCTRICA VENTANAS SPA 
+• 
+EMPRESA ELÉCTRICAS AGUAS DEL MELADO SPA 
+• 
+ENAEX S.A. 
+• 
+ENAP REFINERÍAS S.A. 
+• 
+ENEL GENERACIÓN CHILE S.A. 
+• 
+ENEL GREEN POWER CHILE S.A. 
+• 
+ENERGÍA CERRO EL MORADO S.A. 
+• 
+ENERGÍA EÓLICA LOS OLMOS SPA 
+• 
+ENERGÍA EÓLICA MESAMÁVIDA SPA 
+• 
+ENERGÍA EÓLICA SAN MATÍAS SPA 
+• 
+ENERGÍA PACÍFICO S.A. 
+• 
+ENERGÍAS UCUQUER DOS S.A. 
+• 
+ENGIE ENERGÍA CHILE S.A. 
+• 
+ENORCHILE S.A. 
+• 
+EÓLICA LA ESPERANZA S.A. 
+• 
+EÓLICA MONTE REDONDO SPA 
+• 
+ESPINOS S.A. 
+• 
+FOTOVOLTAICA DE LOS ANDES SPA 
+• 
+FOTOVOLTAICA DEL DESIERTO SPA 
+• 
+FOTOVOLTAICA SOL DEL NORTE SPA 
+• 
+FUNDICIÓN TALLERES LTDA. 
+• 
+GENERACIÓN SOLAR SPA 
+• 
+GENERADORA ANTILHUE SPA 
+• 
+GENERADORA METROPOLITANA SPA 
+• 
+GEOTÉRMICA DEL NORTE S.A. 
+• 
+GNL QUINTERO S.A. 
+• 
+GR ALGARROBO SPA 
+
+ 
+Parque Isidora #1061 Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+• 
+GR CHAÑAR SPA 
+• 
+GR SOLIS TRANSMISIÓN SPA 
+• 
+GRACE S.A. 
+• 
+GUANACO COMPAÑÍA MINERA SPA 
+• 
+HIDROELECTRICA DON EUGENIO SPA 
+• 
+HIDROELECTRICA DOS VALLES SPA 
+• 
+HIDROELÉCTRICA EL PASO SPA 
+• 
+HIDROELÉCTRICA EMBALSE ANCOA SPA 
+• 
+HIDROELÉCTRICA LA CONFLUENCIA S.A. 
+• 
+HIDROELÉCTRICA LA HIGUERA S.A. 
+• 
+HIDROELÉCTRICA LOS CORRALES SPA 
+• 
+HIDROELÉCTRICA PALACIOS SPA 
+• 
+HIDROELÉCTRICA PIEDRAS NEGRAS SPA 
+• 
+HIDROELÉCTRICA PUNTA DEL VIENTO SPA 
+• 
+HIDROELÉCTRICA RÍO COLORADO S.A. 
+• 
+HIDROELÉCTRICA SAN ANDRÉS SPA 
+• 
+HIDROENERSUR SPA 
+• 
+HIDROPALMAR SPA 
+• 
+HUEMUL ENERGÍA SPA 
+• 
+IMELSA ENERGÍA SPA 
+• 
+INDURA S.A. 
+• 
+INNERGEX ENERGÍA RENOVABLE SPA 
+• 
+INTERCHILE S.A. 
+• 
+INVERSIONES HORNITOS SPA 
+• 
+INVERSIONES Y SERVICIOS DATALUNA LTDA 
+• 
+KELTI S.A. 
+• 
+LARQUI SOLAR SPA 
+• 
+LITORAL TRANSMISIÓN S.A. 
+• 
+MANTOVERDE S.A. 
+• 
+MELON S.A. 
+• 
+MINERA ANTUCOYA 
+• 
+MINERA CENTINELA 
+• 
+MINERA ESCONDIDA LTDA. 
+• 
+MINERA HMC S.A. 
+• 
+MINERA LAS CENIZAS S.A. 
+• 
+MINERA LOS PELAMBRES 
+• 
+MINERA MERIDIAN LTDA. 
+• 
+MINERA SPENCE S.A. 
+• 
+MOLY-COP CHILE S.A. 
+• 
+NORVIND S.A. 
+• 
+NOVA ANDINO LITIO SPA. 
+• 
+OCCIDENTAL CHEMICAL CHILE LTDA. 
+• 
+PACIFIC HYDRO CHACAYES S.A. 
+• 
+PACIFIC HYDRO CHILE S.A. 
+• 
+PACIFIC HYDRO PUNTA SIERRA SPA 
+• 
+PALMUCHO S.A. 
+• 
+PAPELERA DOS S.A. 
+• 
+PARQUE EÓLICO ANTOFAGASTA SPA 
+• 
+PARQUE EÓLICO CAMPO LINDO SPA 
+• 
+PARQUE EÓLICO EL ARRAYÁN SPA 
+• 
+PARQUE EÓLICO EL MAITÉN SPA 
+• 
+PARQUE EÓLICO LEBU-TORO SPA 
+
+ 
+Parque Isidora #1061 Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+• 
+PARQUE EÓLICO LOS CURUROS SPA 
+• 
+PARQUE EOLICO PUNTA TALCA SPA 
+• 
+PARQUE FOTOVOLTAICO NUEVO QUILLAGUA SPA 
+• 
+PARQUE SOLAR FOTOVOLTAICO LUZ DEL NORTE SPA 
+• 
+PARQUE TALINAY ORIENTE S.A. 
+• 
+PE CANCURA SPA 
+• 
+PETROQUIM S.A. 
+• 
+PLANTA SOLAR SAN PEDRO III SPA 
+• 
+POZO ALMONTE SOLAR 2 S.A. 
+• 
+POZO ALMONTE SOLAR 3 S.A. 
+• 
+PROYECTOS ELÉCTRICOS Y DE CONSTRUCCIÓN INSTA&PRO SPA 
+• 
+PV SALVADOR S.A. 
+• 
+RED ELÉCTRICA DEL NORTE 2 S.A. 
+• 
+RED ELÉCTRICA DEL NORTE S.A. 
+• 
+RÍO ALTO SPA 
+• 
+RUCASOL SPA 
+• 
+SAN JUAN S.A. 
+• 
+SANTA ESTER SOLAR SPA 
+• 
+SIERRA GORDA SCM 
+• 
+SISTEMA DE TRANSMISIÓN DEL CENTRO S.A. 
+• 
+SISTEMA DE TRANSMISIÓN DEL NORTE S.A. 
+• 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A. 
+• 
+SOCIEDAD AUSTRAL DE TRANSMISIÓN TRONCAL S.A. 
+• 
+SOCIEDAD CONCESIONARIA EMBALSE CONVENTO VIEJO S.A. 
+• 
+SOCIEDAD CONSTRUCTORA DE OBRAS HIDRÁULICAS SpA 
+• 
+SOCIEDAD CONTRACTUAL MINERA EL ABRA 
+• 
+SOCIEDAD GENERADORA AUSTRAL S.A. 
+• 
+SOCIEDAD GNL MEJILLONES S.A. 
+• 
+SOCIEDAD QUÍMICA Y MINERA DE CHILE S.A. 
+• 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+• 
+SOLAR ELENA SPA 
+• 
+SOLAR LOS LOROS SPA 
+• 
+SONNEDIX COX ENERGY CHILE SPA 
+• 
+SONNEDIX DON GOYO TRANSMISIÓN S.A. 
+• 
+TAMAKAYA ENERGÍA SPA 
+• 
+TRANSCHILE CHARRÚA TRANSMISIÓN S.A. 
+• 
+TRANSMISORA BAQUEDANO S.A. 
+• 
+TRANSMISORA ELÉCTRICA CORDILLERA SPA 
+• 
+TRANSMISORA ELÉCTRICA DEL NORTE S.A. 
+• 
+TSGF SPA 
+• 
+VENEZIA SOLAR SPA 
+• 
+VIENTOS DE RENAICO SPA 
+• 
+WPD DUQUECO SPA 

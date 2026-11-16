@@ -1,0 +1,317 @@
+ 
+ 
+ 
+REF.: 
+Declara en construcción el proyecto Servicios 
+Complementarios de Control de Tensión por 
+Aportes de Potencia de Corto Circuito en la S/E 
+Monte Mina. SE3, de Transelec Holding Rentas 
+Ltda. 
+ 
+ 
+SANTIAGO, 17 de abril de 2026 
+ 
+ 
+RESOLUCIÓN EXENTA Nº 190 
+ 
+VISTOS: 
+ 
+a) Las facultades establecidas en la letra h) del artículo 9° del 
+D.L. N° 2.224, de 1978, que crea el Ministerio de Energía y 
+la 
+Comisión 
+Nacional 
+de 
+Energía, 
+en 
+adelante 
+e 
+indistintamente “la Comisión”, modificado por la Ley N° 
+20.402, que crea el Ministerio de Energía; 
+ 
+b) Lo establecido en el artículo 72°-17 del D.F.L. N° 4, de 2006, 
+del Ministerio de Economía, Fomento y Reconstrucción, que 
+fija el texto refundido, coordinado y sistematizado del D.F.L. 
+N° 1, de 1982, del Ministerio de Minería, y sus 
+modificaciones 
+posteriores, 
+en 
+particular, 
+aquellas 
+introducidas por la Ley N° 20.936, en adelante, "Ley General 
+de Servicios Eléctricos" o "la Ley"; 
+ 
+c) Lo dispuesto en la Ley N° 19.880, que establece las Bases 
+de los Procedimientos Administrativos que rigen los Actos de 
+los Órganos de la Administración del Estado; 
+ 
+d) El Decreto Supremo N° 125, de 2017, del Ministerio de 
+Energía, que, en su artículo primero, aprueba Reglamento 
+de la Coordinación y Operación del Sistema Eléctrico 
+Nacional, publicado en el Diario Oficial el 20 de diciembre de 
+2019, y que en su Capítulo 1 del Título II, fija plazos, 
+requisitos y condiciones para declarar en construcción las 
+nuevas instalaciones de generación y transmisión que se 
+interconecten al sistema eléctrico en los términos del artículo 
+72°-17 de la Ley General de Servicios Eléctricos, con 
+excepción 
+de 
+los 
+Pequeños 
+Medios 
+de 
+Generación 
+Distribuida, en adelante, “Reglamento de la Coordinación y 
+Operación del Sistema Eléctrico Nacional”; 
+ 
+e) El Decreto Supremo N° 88, de 2019, del Ministerio de 
+Energía, 
+que 
+aprueba 
+Reglamento 
+para 
+Medios 
+de 
+Generación de Pequeña Escala, publicado en el Diario Oficial 
+el 8 de octubre de 2020, en adelante “Reglamento de 
+MGPE”; 
+ 
+f) El Decreto Supremo N° 37, de 2019, del Ministerio de 
+Energía, que aprueba Reglamento de los Sistemas de 
+Transmisión y de la Planificación de la Transmisión, 
+publicado en el Diario Oficial el 25 de mayo de 2021, en 
+
+ 
+ 
+ 
+adelante e indistintamente “Reglamento de Transmisión y 
+Planificación”; 
+ 
+g) La Ley N° 21.180 del Ministerio Secretaría General de la 
+Presidencia, de 25 de octubre de 2019, “Ley de 
+Transformación Digital del Estado”; 
+ 
+h) El Decreto con Fuerza de Ley N° 1 del Ministerio Secretaría 
+General de la Presidencia, de 9 de noviembre de 2020, que 
+Establece normas de aplicación del artículo N° 1 de la Ley 
+N° 21.180, de Transformación Digital del Estado, respecto 
+de los procedimientos administrativos regulados en leyes 
+especiales que se expresan a través de medios electrónicos 
+y determina la gradualidad para la aplicación de la misma 
+Ley, a los órganos de la Administración del Estado que indica 
+y las materias que les resultan aplicables; 
+ 
+i) La solicitud de Declaración en Construcción del proyecto 
+SSCC de Control de Tensión por aportes de potencia de corto 
+circuito en la S/E Monte Mina (N° 37671656), realizada por 
+la empresa Transelec Holding Rentas Ltda., el 10 de febrero 
+de 2026 a través de la Plataforma Digital de Declaración en 
+Construcción; 
+ 
+j) El cumplimiento de los antecedentes y documentos 
+indicados en el artículo 19° del Reglamento de Coordinación 
+y Operación del Sistema Eléctrico Nacional y las respuestas 
+satisfactorias de parte de Transelec Holding Rentas Ltda. a 
+las observaciones emitidas por esta Comisión, el 31 de 
+marzo de 2026; 
+ 
+k) Lo dispuesto en el Decreto Exento RA N° 166, de 23 de julio 
+de 2024, del Ministerio de Energía, que establece orden de 
+subrogación del cargo de Secretario Ejecutivo de la Comisión 
+Nacional de Energía; y, 
+ 
+l) Lo señalado en la Resolución N° 36, de 2024, de la 
+Contraloría General de la República. 
+ 
+CONSIDERANDO: 
+ 
+1) Que, el inciso primero del artículo 72°-17 de la Ley señala 
+que los propietarios u operadores de nuevas instalaciones de 
+generación y transmisión que se interconecten al sistema 
+eléctrico deberán previamente presentar una solicitud a la 
+Comisión para que éstas sean declaradas en construcción; 
+ 
+2) Que, en virtud del artículo citado precedentemente, la 
+Comisión 
+declarará 
+en 
+construcción 
+sólo 
+aquellas 
+instalaciones que cuenten con, al menos, los permisos 
+sectoriales, las órdenes de compra, el cronograma de obras 
+y los demás requisitos que establezca el reglamento, que 
+permitan acreditar fehacientemente la factibilidad de la 
+construcción de dichas instalaciones; 
+ 
+
+ 
+ 
+ 
+3) Que, el Reglamento de Coordinación y Operación del 
+Sistema Eléctrico Nacional fijó los plazos, requisitos y 
+condiciones para declarar en construcción las nuevas 
+instalaciones 
+de 
+generación 
+y 
+transmisión 
+que 
+se 
+interconecten al sistema eléctrico en los términos del artículo 
+72°-17 de la Ley General de Servicios Eléctricos; 
+ 
+4) Que, el Reglamento de MGPE fijó los plazos, requisitos y 
+condiciones para declarar en construcción los nuevos 
+Pequeños Medios de Generación Distribuidos que se 
+interconecten al sistema de distribución en los términos del 
+artículo 72°-17 de la Ley General de Servicios Eléctricos; 
+ 
+5) Que, en cumplimiento de lo dispuesto en el artículo 21° del 
+Reglamento de la Coordinación y Operación del Sistema 
+Eléctrico Nacional, esta Comisión debe declarar en 
+construcción los proyectos que cumplan las exigencias 
+establecidas en la Ley, en el referido reglamento y en el 
+Reglamento de MGPE respecto a los PMGD, mediante su 
+incorporación en la resolución exenta mensual que dicte al 
+efecto; 
+ 
+6) Que, el Reglamento de Transmisión y Planificación establece 
+las disposiciones aplicables al régimen de acceso abierto a 
+que se encuentran sujetos los sistemas de transmisión, al 
+proceso de planificación de la transmisión y al proceso de 
+licitación de las obras de expansión, así como las demás 
+materias necesarias para el adecuado desarrollo de los 
+procesos señalados; 
+ 
+7) Que, teniendo en cuenta la implementación de la Plataforma 
+Digital de Declaración en Construcción con base en lo 
+establecido en los literales g) y h) de vistos, y la debida 
+eficiencia en los distintos actos administrativos a cargo de 
+esta Comisión, se considera razonable efectuar resoluciones 
+de declaración en construcción individuales y digitales por el 
+o los proyectos respectivos, que serán sistematizadas 
+posteriormente en una única resolución exenta de carácter 
+mensual; 
+ 
+8) Que, en atención a los antecedentes ingresados a la 
+Plataforma Digital de Declaración en Construcción, de 
+acuerdo a lo indicado en el literal i) de vistos, y a las 
+respuestas a las observaciones realizadas por esta Comisión 
+de acuerdo a lo indicado en el literal j) de vistos, el titular 
+del proyecto ha acompañado los documentos requeridos 
+para la declaración en construcción del proyecto SSCC de 
+Control de Tensión por aportes de potencia de corto circuito 
+en la S/E Monte Mina; y, 
+ 
+9) Que, a la luz de lo establecido en los considerandos 
+anteriores, corresponde que esta Comisión dicte la 
+resolución 
+exenta 
+mediante la 
+cual 
+se 
+declare en 
+construcción el proyecto que indica. 
+ 
+ 
+
+ 
+ 
+ 
+RESUELVO: 
+I. 
+Declárese en construcción el siguiente proyecto del Sistema Eléctrico Nacional, por haberse 
+dado cumplimiento a las exigencias y requisitos establecidos en el artículo 72°-17 de la Ley, 
+en el Reglamento de la Coordinación y Operación del Sistema Eléctrico Nacional y en el 
+Reglamento de MGPE, según corresponda: 
+ 
+Proyecto 
+Propietario 
+Fecha estimada 
+de 
+Interconexión 
+Tipo de 
+Proyecto 
+Potencia 
+Neta 
+[MVA] 
+Capacidad 
+instalada 
+[MVA] 
+Ubicación 
+Punto de 
+Conexión 
+SSCC de Control de 
+Tensión por aportes 
+de potencia de 
+corto circuito en la 
+S/E Monte Mina.SE3 
+Transelec 
+Holding 
+Rentas Ltda. 
+sept-27 
+Transmisión-
+Condensador 
+Sincrónico 
+92,0 
+92,0 
+Región de 
+Antofagasta 
+S/E Monte 
+Mina 220kV 
+ 
+II. 
+Considérese e incorpórese el o los proyectos individualizados anteriormente en la resolución 
+exenta mensual expedida a efecto de dar cumplimiento al artículo 21° del Reglamento de 
+la Coordinación y Operación del Sistema Eléctrico Nacional. 
+ 
+III. 
+Notifíquese la presente resolución exenta al Coordinador Independiente del Sistema 
+Eléctrico Nacional. 
+ 
+Anótese y archívese. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECRETARIO EJECUTIVO (S) 
+COMISIÓN NACIONAL DE ENERGÍA 
+ 
+ 
+ 
+DZO/LZG/PMP/ABA/LAN/MCL 
+ 
+DISTRIBUCIÓN: 
+ 
+- 
+Transelec Holding Rentas Ltda. 
+- 
+Ministerio de Energía 
+- 
+Superintendencia de Electricidad y Combustibles 
+- 
+Coordinador Independiente del Sistema Eléctrico Nacional 
+- 
+Departamento Eléctrico CNE 
+- 
+Departamento Jurídico CNE 
+- 
+Oficina de Partes CNE 
+Mauricio 
+Javier Funes 
+Huerta
+Firmado digitalmente por Mauricio 
+Javier Funes Huerta 
+Nombre de reconocimiento (DN): 
+c=CL, o=E-Sign S.A., ou=Terminos 
+de uso en www.esign-la.com/
+acuerdoterceros, cn=Mauricio Javier 
+Funes Huerta, email=mfunes@cne.cl 
+Fecha: 2026.04.17 12:04:31 -04'00'

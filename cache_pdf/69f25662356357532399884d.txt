@@ -1,0 +1,173 @@
+DECLARACIÓN JURADA 
+Cambios de Centro de Control (CC) de instalaciones coordinadas 
+ 
+Marcar tipo de solicitud (puede marcar una o más según corresponda): 
+☐  Cambio de nombre de centro de control (CC). 
+☐  Cambio de centro de control (CC) producto de un cambio de propiedad. 
+☐  Cambio de centro de control (CC) producto de la decisión de un Coordinado de implementar un centro 
+de control (CC) nuevo. 
+☒  Cambio de centro de control (CC) por decisión de un Coordinado de realizar la coordinación con 
+otro centro de control (CC) existente distinto al actual. 
+☐  Cambio de centro de control (CC) que involucra una solicitud de autorización para un centro de 
+control común que opere instalaciones simultáneamente de más de un Coordinado. 
+☐  Otro asociado a cambio de Centro de control: [indicar detalle de solicitud a continuación] 
+_____________________________________________________________________________________ 
+En Santiago, a 16 de abril de 2026, Jorge Arturo Arrigorriaga González y Eduardo Antonio Araya Rivera, 
+en representación de Besalco Transmisión SpA RUT 76.975.911-5, y Eduardo Tagle Gana y Olivia B. Heuts, 
+en representación de Transelec S.A. RUT 76.555.400-4, venimos a declarar que conocemos y aceptamos lo 
+siguiente: 
+a) Que, para el cumplimiento de las funciones de operación en tiempo real establecidas en la Ley General de 
+Servicios Eléctricos, los reglamentos y las normas técnicas vigentes, Besalco Transmisión SpA requiere 
+disponer de un centro de control para la operación de las siguientes instalaciones: 
+a. Barras: 3423-3424-3425-3426 
+b. Desconectadores: 
+20754-20753-20752-20751-20750-20749-20748-20747-20746-20745-20744-
+20743-20742-20741-20740-20739-20738-20737-20736-20735-20734-20733-20732-20731-20730 
+c. Equipos de Comunicación: 594-595 
+d. Interruptores: 15098-15099-15100-15101-15102-15103-15104-15105-15106 
+e. Paños: 30082-30081-30080-30079-30078-30077-30076-30075-30074-30073-30072 
+f. 
+Pararrayos: 5781-5782-5783-5784-5785-5786-5787 
+g. Secciones Tramos: 3893-3894 
+h. Sistemas de Protección: 22058-22057-22056-22055-22054-22053-22052-22051-22050-22049-
+22048 
+ 
+ 
+ 
+
+i. 
+Subestaciones: 2294 
+j. 
+Teleprotecciones: 337-338 
+k. Transformadores 2D: 3340 
+l. 
+Transformadores Auxiliares: 1274 
+m. Transformadores de Potencial: 10686-10687-10688-10689 
+b) Que, de conformidad con lo establecido en el artículo 121 del Reglamento de la Coordinación y Operación 
+del Sistema Eléctrico Nacional, aprobado por Decreto Supremo N°125 de 2019, la empresa Besalco Energía 
+Renovable S.A. RUT 76.249.099-4 solicita autorización al Coordinador para dar cumplimiento a dicha 
+obligación a través del centro de control denominado CNOT, de propiedad de Transelec S.A., empresa que 
+prestará el servicio de centro de control a mi representada respecto de las instalaciones indicadas en a), 
+desde el día 27 de septiembre de 2021.  
+c) Que, CNOT, de propiedad de Transelec S.A., opera actualmente las siguientes instalaciones: barras, 
+desconectadores, equipos de comunicación, interruptores, paños, pararrayos, secciones tramos, sistemas de 
+protección, 
+subestaciones, 
+teleprotecciones, 
+transformadores 
+2D, 
+transformadores 
+auxiliares 
+y 
+transformadores de potencial de propiedad de Besalco Transmisión SpA. 
+d) Que, el centro de control CNOT, de propiedad de Transelec S.A., cumple con todos los requisitos 
+establecidos en la Ley General de Servicios Eléctricos, el Reglamento de la Coordinación y Operación del 
+Sistema Eléctrico Nacional, aprobado por Decreto Supremo N°125 de 2019, la NTSyCS y demás normativa 
+vigente para los centros de control de empresas coordinadas, y efectuará la operación de las instalaciones 
+indicadas en la letra a) precedente cumpliendo las instrucciones del Coordinador y la normativa aplicable.  
+e) Que, no obstante, de acuerdo con lo establecido en el artículo 72º-14 de la Ley General de Servicios 
+Eléctricos, Besalco Transmisión SpA es el único responsable en todo momento e individualmente, por el 
+cumplimiento de todas las obligaciones relativas a las instalaciones indicadas en la letra a) precedente, entre 
+otros, de la operación en tiempo real de sus instalaciones que serán operadas mediante el centro de control 
+CNOT, de propiedad de Transelec S.A. 
+f) 
+Que, la solicitud para autorización de un centro de control común que opere instalaciones simultáneamente 
+de más de un Coordinado se hará efectiva previa aprobación del Coordinador, a partir de la fecha que este 
+organismo lo autorice. 
+g) Que, mi representada requiere modificar la denominación del centro de control BESALCO ENERGÍA 
+RENOVABLE S.A., por el nombre Transelec S.A., manteniendo en todo momento las mismas instalaciones 
+que coordina el actual centro de control y bajo las actuales condiciones de operación y comunicación con el 
+Centro de Despacho y Control (CDC) del Coordinador, modificación que se hará efectiva previa aprobación 
+del Coordinador, a partir de la fecha que este organismo disponga.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+h) Que, cualquier modificación del centro de control designado será informada al Coordinador por BESALCO 
+TRANSMISIÓN SPA con la debida antelación, para su evaluación y autorización, debiendo en todo momento 
+contar con un centro de control para la operación de sus instalaciones coordinadas, de acuerdo con la 
+normativa vigente. 
+ 
+ 
+ 
+ 
+ 
+______________________________ 
+Jorge Arturo Arrigorriaga González 
+Besalco Transmisión SpA 
+Empresa Solicitante 
+ 
+ 
+ 
+ 
+ 
+_________________________ 
+Eduardo Araya Rivera 
+Besalco Transmisión SpA 
+Empresa Solicitante 
+ 
+ 
+ 
+ 
+ 
+ 
+______________________ 
+Eduardo Tagle Gana 
+Transelec S.A. 
+Empresa propietaria del Centro de Control 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________ 
+Olivia B. Heuts 
+Transelec S.A. 
+Empresa propietaria del Centro de Control 
+ 
+NOTA: ESTA DECLARACIÓN DEBERÁ SER AUTORIZADA ANTE NOTARIO O SUSCRITA MEDIANTE FIRMA 
+ELECTRÓNICA AVANZADA POR LOS RESPECTIVOS ENCARGADOS TITULARES DE LAS EMPRESAS QUE 
+SUSCRIBEN. 
+EN CASO EL CENTRO DE CONTROL SEA OPERADO POR UNA EMPRESA TERCERA NO COORDINADA, 
+ESTA DECLARACIÓN DEBERÁ CONTENER LA INFORMACIÓN Y ESTAR SUSCRITA POR EL 
+REPRESENTANTE LEGAL DE DICHA EMPRESA, DEBIENDO ACOMPAÑARSE A LA MISMA LA ESCRITURA 
+DE PODERES DE DICHO REPRESENTANTE LEGAL Y LA VIGENCIA DE PODERES DE UNA ANTIGÜEDAD 
+DE NO MÁS DE 30 DÍAS HÁBILES A LA FECHA DE LA SUSCRIPCIÓN DE LA DECLARACIÓN. 
+ 
+Eduardo 
+Antonio 
+Araya Rivera
+Firmado 
+digitalmente por 
+Eduardo Antonio 
+Araya Rivera 
+Fecha: 2026.04.16 
+14:35:17 -04'00'
+Jorge Arturo 
+Arrigorriaga
+Firmado digitalmente 
+por Jorge Arturo 
+Arrigorriaga 
+Fecha: 2026.04.21 
+11:26:37 -04'00'
+EDUARDO 
+JOSE TAGLE 
+GANA
+Firmado digitalmente 
+por EDUARDO JOSE 
+TAGLE GANA 
+Fecha: 2026.04.28 
+10:55:16 -04'00'
+OLIVIA 
+HEUTS 
+GOEN
+Firmado 
+digitalmente por 
+OLIVIA HEUTS GOEN 
+Fecha: 2026.04.28 
+15:26:28 -04'00'

@@ -1,0 +1,65 @@
+ 
+ 
+ 
+ 
+ 
+OP - 55 - 25 
+ 
+   FECHA:    07/03/2025 
+                Pág.      1 de 1 
+Sr.     
+RODRIGO ESPINOZA V. 
+ GERENTE DE OPERACIÓN 
+COORDINADOR ELÉCTRICO NACIONAL 
+Dirección 
+Av. Parque Isidora 1061, Pudahuel 
+Teléfono 
+(56) (2) 2424 6300 
+Remite 
+ 
+MIGUEL BUZUNARIZ R. 
+ENCARGADO CEN 
+ENEL GENERACIÓN CHILE S.A 
+Dirección 
+ 
+Roger de Flor 2725, piso 18, Las Condes 
+Teléfono 
+ 
+(56) (2) 2630 9000 
+ 
+MATERIA: 
+OBSERVACIONES A GUÍA TÉCNICA DE VERIFICACIÓN DE CONTROL DE 
+TENSIÓN. 
+ 
+De mi consideración, 
+ 
+Junto con saludar muy cordialmente, me refiero a la comunicación DE00930-25 en la que 
+se indica la publicación de una actualización de la Guía Técnica para el Proceso de 
+Verificación de Instalaciones para la prestación de SSCC de Control de Tensión, solicitando 
+enviar nuestros comentarios al documento. 
+ 
+Al respecto, indicamos nuestras observaciones: 
+ 
+• 
+En relación con lo indicado en el apartado 6. Ensayos para la verificación de 
+parques eólicos y fotovoltaicos, referente a la ejecución de ensayos con y sin 
+recurso primario específicamente para plantas fotovoltaicas, podemos indicar que 
+las condiciones de operación de nuestras plantas de tecnología fotovoltaica en el 
+punto de conexión sin la presencia de recurso primario están fuera de lo requerido 
+en el artículo 3-9 de la NTSyCS para la curva PQ de este tipo de parques, puesto 
+que se requiere una absorción de potencia activa del parque para abastecer las 
+pérdidas de las instalaciones de media tensión. Bajos estas condiciones la potencia 
+activa vista desde el punto de conexión es negativa, estando entonces en el tercer 
+y cuarto cuadrante del diagrama PQ. En consecuencia no nos parece aplicable la 
+ejecución de ensayos sin la presencia de recurso primario en plantas fotovoltaicas 
+para el proceso de verificación del SC de Control de Tensión.  
+ 
+Sin otro particular, atentamente se despide, 
+ 
+ 
+ 
+ 
+Miguel Buzunariz R. 
+Encargado CEN 
+ENEL GENERACIÓN CHILE S.A. y Filiales. 
+ 

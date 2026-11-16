@@ -1,0 +1,56 @@
+ 
+ 
+ 
+San Pedro de la Paz, 26 de marzo de 2026 
+CPP N° 005-26 
+ 
+Señor 
+Nicolás García M. 
+Ingeniero de Análisis de la Operación 
+Gerencia de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Plan de Acción por EAF 087/2025 - Apertura 
+intempestiva del interruptor 52AR de S/E 
+Concepción - Responde a OP01417-25. 
+ 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, en relación a su correo electrónico de fecha 20 de marzo de 2026, 
+mediante el cual solicita la confirmación de ejecución exitosa de las acciones correctivas 
+detalladas en el cronograma de trabajo de nuestra carta OP01417-25, se viene en informar 
+lo siguiente: 
+ 
+Con fecha de 19 de febrero de 2026, mediante carta CPP Nº002-26, se notificó por el 
+sistema de correspondencia del coordinador (CARTA139156-26) que la segunda semana de 
+febrero del año en curso, Papelera Dos S.A. finalizó sus trabajos de implementación del 
+Esquema de Desconexión Automática de Carga (EDAC) por Baja Frecuencia (BF). En esta 
+comunicación se adjuntó el protocolo de pruebas de “VERIFICACION RELE EDAC – CPP 
+PLANTA SAN PEDRO”, correspondiente al Esquemas de Desprendimiento Automático de 
+Carga por Baja Frecuencia (EDAC). 
+ 
+El 4 de marzo de 2026 el Sr. Eduardo Meza, Ingeniero del Departamento Modelación y 
+Aplicaciones EMS, de Gerencia Operación del Coordinador, informó a Papelera Dos que el 
+informe de verificación del esquema EDAC BF fue aprobado (se adjunta correo) e indicó los 
+pasos siguientes para la integración de las señales SITR. En seguimiento a esto, el 10 de 
+marzo de 2026, Papelera Dos solicitó la emisión del listado SITR EDAC BF, obteniendo 
+respuesta por parte del Departamento de Confiabilidad y Soporte Técnico el pasado 19 de 
+marzo (se adjunta correo). 
+ 
+Actualmente, nos encontramos preparando la documentación necesaria para coordinar las 
+pruebas de las señales SITR correspondientes. 
+
+ 
+ 
+Sin otro particular, le saluda cordialmente, 
+ 
+ 
+ 
+ 
+ 
+_________________________ 
+Jaime Cantero 
+Encargado Titular 
+Papelera Dos S.A. 

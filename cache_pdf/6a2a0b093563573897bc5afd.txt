@@ -1,0 +1,84 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 10 de junio de 2026 
+MAT 0015-2026 
+ 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+Ref: Observaciones a Indicadores Desempeño Servicios Complementarios – mayo 
+2026.  
+[1] DE03768-26, “Publicación de Indicadores de Desempeño de Servicios Complementarios 
+prestados durante el mes de mayo de 2026”, de fecha 05 de junio de 2026. 
+ 
+ 
+De mi consideración, 
+ 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. con el propósito de presentar 
+observaciones a los índices de desempeño de Servicios Complementarios publicados 
+mediante la comunicación de la Ref. [1]. 
+ 
+Al respecto, en Anexo a la presente se encuentran las observaciones en comento.  
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+Energía Eólica San Matías SpA. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Anexo 
+ 
+Central 
+Inicio 
+Termino 
+Instrucción 
+Observación 
+PE San 
+Matías 
+12/05/2026 
+05:53 hrs 
+12/05/2026 
+06:16 hrs 
+CTF(-) / 10 MW 
+ 
+PE San Matías no se encontraba asignado en 
+la programación de la operación del día 12 de 
+mayo de 2026 para la provisión de reserva de 
+bajada de CTF durante el bloque en que 
+recibió la activación en comento. Asimismo, el 
+parque presentaba una inyección de 0 MW 
+debido a la ausencia de recurso primario al 
+momento en que se emitió la instrucción 
+durante la OTR. 
+ 
+En virtud de lo anterior, se solicita no 
+considerar la evaluación por activación 
+asociada a este evento y asignar un 100% de 
+desempeño para dicho horario, dado que se 
+trata de una instrucción cuya activación no 
+correspondía. 
+Tabla1: Observaciones a Índices de Desempeño de SSCC 

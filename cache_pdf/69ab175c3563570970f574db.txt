@@ -1,0 +1,91 @@
+ 
+ 
+Santiago, 6 de marzo de 2026 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional (CEN) 
+Presente. 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref. [1] DE 01003-26 Desempeño deficiente en la 
+prestación de los Servicios Complementarios de Control 
+Primario de Frecuencia, Control Terciario de Frecuencia 
+y Control de Tensión de las unidades generadoras.
+ 
+De nuestra consideración: 
+ 
+En mi representación de Santiago Solar S.A., y en respuesta a la comunicación en referencia, carta 
+DE 01003-26, por medio de la cual se informa el atraso en el proceso de Verificación de 
+Instalaciones de Generación para la prestación de Servicios Complementarios (SSCC), se exponen 
+las justificaciones técnicas y el plan de remediación para nuestra central: 
+ 
+1. Justificación Técnica y Razones del Retraso 
+ 
+- 
+Restricción por Potencia Máxima: El 18 de julio de 2025, planteamos la ejecución de ensayos 
+entre julio y agosto. Sin embargo, atendiendo a la recomendación de este Coordinador de 
+realizar las pruebas con al menos el 80% de la potencia máxima, se determinó reprogramarlas 
+para el periodo de alta radiación a partir de septiembre de 2025. 
+ 
+- 
+Desafíos Técnicos con el Simulador de Frecuencia (CPF): Al no contar la planta con un 
+simulador de frecuencia físico, se realizaron gestiones exhaustivas con el fabricante. Esto 
+derivó en la actualización del software del PPC (solicitud Neomante 2025117188) el 30 de 
+octubre de 2025. Tras resultados no exitosos, se realizaron nuevos ajustes el 26 de noviembre 
+de 2025 (solicitud Neomante 2025128821). Finalmente, en febrero de 2026, el fabricante 
+confirmó la imposibilidad técnica de implementar dicha funcionalidad, concluyendo que la 
+verificación debe realizarse mediante frecuencia natural o simulaciones. 
+ 
+2. Acciones Realizadas y Estado de los Servicios 
+ 
+Actualmente Santiago Solar, se encuentra en coordinación con Experto Técnico y Fabricante de 
+controlador de planta (PPC) para la ejecución de los protocolos validados para los servicios de CPF, 
+CTF y CT. 
+ 
+ 
+
+A continuación, se presenta el siguiente cronograma de ejecución para los ensayos pendientes: 
+ 
+Fecha (2026) 
+Actividad / Protocolo 
+Nivel de Ejecución 
+08 de abril 
+Control de Tensión (CT) 
+Nivel Inversor 
+09 de abril 
+Control de Tensión (CT) 
+Nivel Planta 
+14 de abril 
+Control de Tensión (CT) 
+Nivel Planta 
+15 de abril 
+Control Terciario de Frecuencia 
+(CTF) 
+Nivel Planta 
+16 de abril 
+Control Primario de Frecuencia 
+(CPF) 
+Nivel Planta 
+ 
+Santiago Solar se compromete a realizar el envío de los respectivos informes posterior a la 
+finalización de los ensayos indicados en este plan, respetando los plazos normativos establecidos 
+para entrega y revisión por parte del Coordinador Eléctrico Nacional. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Constanza Leal R 
+Encargada Titular 
+Santiago Solar S.A 
+ 
+ 

@@ -1,0 +1,1742 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 30 de enero de 2025 
+ 
+    
+DE 00634-25 
+ 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+de 
+Indicadores 
+de 
+Desempeño de Servicios Complementarios 
+prestados durante el mes de diciembre 2024, 
+segunda versión. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página 
+web del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de 
+los Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de 
+diciembre 2024. Estos indicadores fueron considerados en la versión definitiva del IVTE de 
+dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador 
+en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2024 > Diciembre 2024 
+> Versión 2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las 
+observaciones recibidas para la primera versión del Informe. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+JKH/ASA/adr 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados 
+durante el mes de diciembre 2024 consideradas en la versión 2. 
+ 
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 01-12-2024 Hora: 8 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Respecto al punto base, se están revisando los 
+antecedentes a efectos de determinar la causa raíz 
+de lo que indica. Se debe considerar que la diferencia 
+respecto al punto base se debe a temas de 
+predicciones, por lo que independiente de la revisión 
+que hará el Coordinador, su representada debe 
+mejorar dichas predicciones, con el fin de que el 
+punto base asignado sea más ajustado a la realidad. 
+2 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 01-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+3 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 05-12-2024 Hora: 8 
+252 segundos de "non tracking" al inicio de la hora, 
+no corresponden (venía bajando la consigna al 
+inicio de la hora). El resto del tiempo sigue la 
+consigna de manera correcta. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+4 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 07-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+5 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 08-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+6 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 08-12-2024 Hora: 10 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+7 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 10-12-2024 Hora: 8 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+8 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 11-12-2024 Hora: 9 
+176 segundos de "non tracking" al inicio de la hora, 
+no corresponden (venía bajando la consigna al 
+inicio de la hora). El resto del tiempo sigue la 
+consigna de manera correcta, salvo período con 
+bajo recurso. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+9 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 13-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+10 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 15-12-2024 Hora: 14 
+Entre las 14:00 y las 14:26 la central estuvo con 
+una consigna de 5 MW y con una potencia de 5 
+MW. Se registraron períodos de "non tracking" la 
+primera media hora, lo cual no corresponde a la 
+respuesta real del parque. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+11 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 18-12-2024 Hora: 13 
+Agregar (aparece en RIO). 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+12 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 18-12-2024 Hora: 15 
+La central presentó un seguimiento correcto de la 
+consigna, no corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+13 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 19-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+14 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 20-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+15 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 21-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+16 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 21-12-2024 Hora: 18 
+La central presentó un seguimiento correcto de la 
+consigna, no corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+17 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 22-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+18 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 22-12-2024 Hora: 10 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+19 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 22-12-2024 Hora: 18 
+La central presentó un seguimiento correcto de la 
+consigna, no corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+20 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 24-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+21 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 24-12-2024 Hora: 10 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+22 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 24-12-2024 Hora: 18 
+La central presentó un seguimiento correcto de la 
+consigna, no corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+23 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 25-12-2024 Hora: 8 
+Penalización al inicio de la hora por el descenso 
+inicial y posterior aumento de la consigna. Central 
+sigue correctamente la consigna hasta las 8:20. 
+Luego, recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+24 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 25-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+25 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 26-12-2024 Hora: 9 
+Recurso por debajo de la consigna gran parte de la 
+hora. No corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+26 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 26-12-2024 Hora: 18 
+La central presentó un seguimiento correcto de la 
+consigna, no corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+27 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 27-12-2024 Hora: 12 
+Agregar (aparece en RIO). 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+28 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 28-12-2024 Hora: 8 
+Penalización al inicio de la hora por el descenso 
+inicial y posterior aumento de la consigna. Central 
+sigue correctamente la consigna durante los 
+períodos que tiene recurso disponible. Los demás 
+períodos el recurso está por debajo de la consigna. 
+No corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+29 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 28-12-2024 Hora: 9 
+Recurso por debajo de la consigna gran parte de la 
+hora. No corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+30 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 30-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+31 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 30-12-2024 Hora: 20 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+32 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 31-12-2024 Hora: 9 
+Recurso 
+por 
+debajo 
+de 
+la 
+consigna. 
+No 
+corresponde penalizar desempeño. 
+En revisión. 
+ 
+Ver respuesta a la observación N°1. 
+33 
+Enlasa 
+Generación 
+Chile S.A. 
+CTF 
+TER El Peñón 
+Fecha: 
+31-12-2024 
+Hora 
+05:32 
+El 31 de diciembre se menciona una activación por 
+CTF(+) para la central PENON_DIESEL entre las 
+5:32 y las 6:14. Sin embargo, esta instrucción no 
+fue recibida por el centro de control, y por lo tanto, 
+no se llevó a cabo la activación en el horario 
+indicado. Se han revisado los registros de 
+comunicación con el CDC y no se tienen llamadas 
+durante el periodo mencionado. Se solicita eliminar 
+esta activación del cálculo de desempeños, 
+considerando que el centro de control no recibió 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y CDC determina que 
+la instrucción de CTF no fue solicitada por lo que la 
+instrucción se elimina. 
+ 
+Dicho lo anterior, el indicador se recalcula, por lo 
+que la respuesta cambia a No Activado, lo que se 
+traduce en un factor de desempeño de 100%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+instrucción de activación y la central no entró en 
+servicio.  
+34 
+Colbún S.A. 
+CTF 
+CH La Mina 
+Fecha: General 
+De acuerdo con el documento "CTF_202410" y los 
+registros RIOS se da instrucciones de activación 
+del CTF a la central en condiciones que se 
+programa a nivel de unidad generadora. Asimismo 
+se evalúa a la central completa y se le asigna esa 
+evaluación 
+a cada unidad generadora por 
+separado 
+lo 
+que 
+no 
+es 
+consistente. 
+Solicitar: Se solicita dar instrucciones a nivel de 
+unidad generadora y evaluar en consecuencia. 
+Aclaración. 
+ 
+Las instrucciones de activación del servicio de CTF 
+son en base a las necesidades del sistema, según 
+sea definido por el programa e instruido por el CDC.  
+Al respecto, la evaluación del factor activación de 
+Control Terciario de Frecuencia se realiza de manera 
+consistente con la instrucción entregada por el CDC, 
+que en este caso fue de prestar el servicio por la 
+central completa. Dado esto, en la evaluación, se 
+consideran las potencias, rampas y señales de 
+ambas unidades en conjunto. El desempeño en 
+cuestión de la Central, se asigna a cada una de las 
+unidades. 
+35 
+Colbún S.A. 
+CTF 
+PFV Diego de 
+Almagro Sur 
+Fecha: 
+09.12.2024 
+16:09:00 
+(UTC-3) 
+De acuerdo con el registro RIO la activación del 
+CTF de bajada se produce a las 16:09 horas, sin 
+embargo, en el mismo registro se observa que a 
+las 16:13 se producen la activación de prorratas de 
+generación llevando al Parque a Mínimo Técnico. 
+Dado lo anterior el Parque no puede cumplir con 
+mantener la reserva activada por el CTF. Ver 
+archivo 
+RIO 
+adjunto. 
+Solicitud: Favor revisar el contexto operacional y 
+reevaluar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina que la 
+unidad estuvo afecta a prorrata durante la prestación 
+de CTF por lo que el indicador se recalcula, quedando 
+la respuesta evaluada en 100%. 
+36 
+Colbún S.A. 
+CTF 
+UG Angostura 
+1 
+Fecha: 
+25.12.2024 
+07:00:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún a las 06:47 se recibe un llamado del 
+operador del Coordinador para ajustar la unidad a 
+potencia máxima, posteriormente a las 07:00 se 
+recibe otro llamado desde el centro de despacho 
+del Coordinador para activar el CTF de subida, sin 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina 
+mediante las grabaciones que CDC instruyó la 
+operación de las unidades HE Angostura U1 y U2 en 
+potencia máxima a las 06:47 horas. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+embargo, al estar la unidad en potencia máxima, el 
+operador le menciona que debe mantener esta 
+condición ya que se activa el servicio mencionado. 
+Revisar 
+grabaciones 
+adjuntas. 
+Solicitud: Favor revisar registro de llamadas y 
+reevaluar. 
+Dicho lo anterior, el indicador se recalcula, por lo 
+que la respuesta cambia a 100%, lo que se traduce 
+en un factor de desempeño de 100%. 
+37 
+Colbún S.A. 
+CTF 
+UG Angostura 
+2 
+Fecha: 
+25.12.2024 
+07:00:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún a las 06:47 se recibe un llamado del 
+operador del Coordinador para ajustar la unidad a 
+potencia máxima, posteriormente a las 07:00 se 
+recibe otro llamado desde el centro de despacho 
+del Coordinador para activar el CTF de subida, sin 
+embargo, al estar la unidad en potencia máxima, el 
+operador le menciona que debe mantener esta 
+condición ya que se activa el servicio mencionado. 
+Revisar 
+grabaciones 
+adjuntas. 
+Solicitud: Favor revisar registro de llamadas y 
+reevaluar. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°36. 
+38 
+Colbún S.A. 
+CTF 
+UG Canutillar 
+2 
+Fecha: 
+27.12.2024 
+20:39:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún a las 20:39 se recibe un llamado del 
+operador del Coordinador para ajustar la unidad a 
+mínimo técnico y no para la activación del CTF de 
+bajada por 4 MW como se consigna en el RIO. 
+Revisar 
+grabación 
+adjunta. 
+Solicitud: Favor revisar registro de llamadas y 
+reevaluar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina 
+mediante las grabaciones que CDC instruyó la 
+operación de la unidad HE Canutillar U2 en mínimo 
+técnico y no una activación de CTF. 
+ 
+Dicho lo anterior, el indicador se recalcula, por lo 
+que la respuesta cambia a 100%, lo que se traduce 
+en un factor de desempeño de 100%. 
+39 
+Colbún S.A. 
+CTF 
+UG La Mina 1 
+Fecha: 
+30.12.2024 
+18:05:00 
+(UTC-3) 
+En el documento "CTF_202412" se evalúa a la 
+central completa y no a cada unidad por separado. 
+Por otra parte, De acuerdo con el registro de 
+grabaciones de Colbún se recibe la insrtucción 
+No se acoge la observación. 
+ 
+Las reglas de operación definen que los recursos 
+técnicos disponibles para prestar SSCC son sólo 
+aquellos establecidos en los respectivos anexos del 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+para activar el CTF de bajada por 7 MW, en 
+condiciones 
+que 
+la 
+unidad 
+se 
+encontraba 
+generando 7 MW, en consecuencia, se procede a 
+sacar a la unidad fuera de servicio. El Coordinador 
+evalúa que la unidad no cumple ya que debió 
+quedarse operando en su mínimo técnico, 4,2 MW, 
+sin embargo la unidad no tiene problema para salir 
+de servicio en estas circunstancias para aportar 
+toda la reserva instruida, asimismo, una vez 
+finalizada la instrucción, la unidad entró en 
+operación nuevamente generando nuevamente 7 
+MW. 
+Revisar 
+grabación 
+adjunta. 
+Solicitud: Favor evaluar la instrucción por unidad, 
+revisar el contexto operacional y reevaluar. 
+Informe de SSCC de 2024. Dicho anexo indica que el 
+MT a nivel de central son 4,2MW. 
+ 
+Adicionalmente, cabe destacar que la unidad no 
+puede salir de operación sin la instrucción de CDC, 
+por lo que la unidad debió reducir su generación hasta 
+su mínimo técnico y no salir de operación. Dicho lo 
+anterior el indicador se mantiene.  
+ 
+40 
+Colbún S.A. 
+CTF 
+UG La Mina 2 
+Fecha: 
+30.12.2024 
+18:05:00 
+(UTC-3) 
+En el documento "CTF_202412" se evalúa a la 
+central completa y no a cada unidad por separado. 
+Por otra parte, en este caso particular la unidad se 
+encontraba 
+fuera 
+de 
+servicio. 
+Solicitud: Favor evaluar la instrucción por unidad, 
+revisar el contexto operacional y reevaluar. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°34. 
+41 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PFV Almeyda 
+Fecha: Todo el mes 
+El 
+documento 
+"SSCC_Desempeno_Diciembre_2024_V1" 
+no 
+considera en las hojas "CPF Horario" y "CPF 
+Mensual" a la central solar fotovoltaica PFV 
+Almeyda dentro del listado de ambas hojas, esto 
+siendo que la central prestó recurrentemente el 
+servicio de Control Primario de Frecuencia y cuyos 
+antecedentes 
+que 
+permitirían 
+verificar 
+el 
+desempeño fueron enviados al Coordinador en el 
+formato requerido. 
+Se acoge la observación – En Revisión. 
+ 
+Se incorpora la central PFV Almeyda en el cálculo de 
+indicadores de Control Primario de Frecuencia, 
+siendo evaluada con un factor de desempeño 
+mensual de 0% debido a que los registros fueron 
+catalogados como “No Verificables”. 
+ 
+Lo anterior debido a que los registros terminaron de 
+ser procesados cuando ya se habían calculado los 
+factores de desempeño utilizados en la versión 
+definitiva del IVTE. Dicho lo anterior, la evaluación de 
+los registros será considerada en una reliquidación 
+posterior. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+42 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PFV Usya 
+Fecha: Todo el mes 
+El documento 
+ "SSCC_Desempeno_Diciembre_2024_V1" 
+no 
+considera en las hojas "CPF Horario" y "CPF 
+Mensual" a la central solar fotovoltaica PFV Usya 
+dentro del listado de ambas hojas, esto siendo que 
+la central prestó recurrentemente el servicio de 
+Control 
+Primario 
+de 
+Frecuencia 
+y 
+cuyos 
+antecedentes 
+que 
+permitirían 
+verificar 
+el 
+desempeño fueron enviados al Coordinador en el 
+formato requerido. 
+Se acoge la observación. 
+ 
+Se incorpora la central PFV Usya en el cálculo de 
+indicadores de Control Primario de Frecuencia, 
+siendo evaluada con un factor de desempeño de 
+87%. 
+ 
+43 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CTF 
+PFV Malgarida 
+Fecha: 
+12-12-2024 
+11:17 
+Instrucción se observa sólo en RIO, pero 
+verificando las grabaciones de las llamadas del 
+día, la instrucción no fue solicitada por CDC 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y CDC determina que 
+la instrucción de CTF no fue solicitada por lo que la 
+instrucción se elimina. 
+ 
+Dicho lo anterior, el indicador se recalcula, por lo que 
+la respuesta cambia a No Activado, lo que se traduce 
+en un factor de desempeño de 100%. 
+44 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CTF 
+PFV Malgarida 
+Fecha: 
+19-12-2024 
+17:01 
+Se evalúa con mal desempeño el C1, pero la planta 
+llegó al tc2 a las 17:06, prestando ya el delta P 
+solicitado. 
+A continuación, se adjunta imagen para demostrar 
+lo comentado. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina que los 
+registros recibidos en SCADA, entre las 16:53 y 17:10 
+horas no cumplió con los criterios de calidad definidos 
+en el Anexo Técnico “Definición de Parámetros 
+Técnicos y Operativos para el Envío de Datos al 
+SITR”. Lo anterior significó que la categoría C1 fuera 
+evaluada con 0.  
+ 
+Adicionalmente, los datos informados en el anexo 
+enviado por su representada en el período de 
+observación no cuentan con la información del origen 
+de estos, característica mínima para poder ser 
+considerado. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Si requiere regularizar las señales integradas en el 
+sistema SCADA, contactar directamente al área TI 
+SCADA al mail tec.scada@coordinador.cl.  
+45 
+Engie 
+Energía Chile 
+S.A. 
+Disponib. TER Tocopilla 
+U16 
+Fecha: 
+01-12-2024 
+hasta 
+07-12-2024 
+U16 estuvo con mantenimiento mayor desde el 08-
+11-2024 hasta el 07-12-2024 a las 18:43 hrs (SD 
+2024115586.). Se observa que para CPF, CSF, 
+CTF y CT se registra durante el periodo 
+disponibilidad de 0%, se solicita no calificar con 0% 
+durante dicho periodo. 
+No se acoge la observación - Aclaración 
+ 
+La unidad TER Tocopilla U16 presenta 0% de 
+disponibilidad debido a la solicitud Neomante 
+N°2024004949 y no por la solicitud indicada en la 
+observación. La primera solicitud corresponde a un 
+informe de falla que indica explícitamente que la 
+central no se encuentra disponible para la prestación 
+de SSCC desde el 29-10-2024.  
+ 
+Dicho lo anterior la evaluación no cambia y se 
+mantiene el 0% de desempeño en los servicios de 
+frecuencia y el 0% en el servicio de Control de 
+Tensión. 
+46 
+Engie 
+Energía Chile 
+S.A. 
+Disponib. TER Tocopilla 
+U16 
+Fecha: 
+10-12-2024 
+hasta 
+12-12-2024 
+También en el periodo del 10-12-2024 hasta el 12-
+12-2024 con SCF 2024127727 desconexión 
+forzada es a raíz de ruidos extraños en SE 
+TOCOPILLA 220 kV, se solicita no calificar con 0% 
+durante dicho periodo. 
+No se acoge la observación - Aclaración 
+ 
+La unidad TER Tocopilla U16 presenta 0% de 
+disponibilidad debido a la solicitud Neomante 
+N°2024001934 y no por la solicitud indicada en la 
+observación. La primera solicitud corresponde a un 
+informe de falla que indica explícitamente que la 
+central no se encuentra disponible para la prestación 
+de SSCC de frecuencia desde el 10-12-2024.  
+ 
+Cabe destacar que la unidad no fue penalizada en su 
+disponibilidad en el servicio de Control de Tensión. 
+Dicho lo anterior la evaluación no cambia y se 
+mantiene el 0% de desempeño en los servicios de 
+frecuencia y el 100% en el servicio de Control de 
+Tensión. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+47 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 12-12-2024 hora 0  
+SCF 2024127727 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+48 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 12-12-2024 hora 1 
+SCF 2024127727 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+49 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 12-12-2024 hora 2 
+SCF 2024127727 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+50 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 12-12-2024 hora 3 
+SCF 2024127727 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+51 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 12-12-2024 hora 4 
+SCF 2024127727 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+52 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 12-12-2024 hora 5 
+SCF 2024127727 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+53 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 12-12-2024 hora 6 
+SCF 2024127727 
+No se acoge la observación. 
+ 
+No es una observación. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+54 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 12-12-2024 hora 21 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+55 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 12-12-2024 hora 22 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+56 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 13-12-2024 hora 13 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+57 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 13-12-2024 hora 14 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+58 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 13-12-2024 hora 15 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+59 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 15-12-2024 hora 17 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+60 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 15-12-2024 hora 19 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+61 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 17-12-2024 hora 8 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+62 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 17-12-2024 hora 15 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+63 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 17-12-2024 hora 19 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+64 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 17-12-2024 hora 20 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+65 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 20-12-2024 hora 5 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+66 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 21-12-2024 hora 1 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+67 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 21-12-2024 hora 2 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+68 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 21-12-2024 hora 3  
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+69 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 21-12-2024 hora 5 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+70 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 21-12-2024 hora 11 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+71 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 21-12-2024 hora 12 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+72 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 21-12-2024 hora 13 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+73 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 24-12-2024 hora 4 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+74 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 24-12-2024 hora 6 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+75 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 28-12-2024 hora 14 
+No fue solicitado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+76 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 28-12-2024 hora 15 
+No fue solicitado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+77 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 28-12-2024 hora 16  
+No fue solicitado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+78 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 
+29-12-2024 
+hora 
+0 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+79 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 
+29-12-2024 
+hora 
+1 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+80 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 
+29-12-2024 
+hora 
+2 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+81 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 
+29-12-2024 
+hora 
+4 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+82 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 
+29-12-2024 
+hora 
+10 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+83 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 
+29-12-2024 
+hora 
+11 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+84 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 
+29-12-2024 
+hora 
+12 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+85 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Fecha: 
+29-12-2024 
+hora 
+20 
+Corrector de frecuencia activado 
+No se acoge la observación. 
+ 
+No es una observación. 
+No presenta probatorios de ningún tipo y no señala 
+observación alguna. 
+ 

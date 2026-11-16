@@ -1,0 +1,517 @@
+ 
+ 
+Av. Del Parque 4160, Torre A, Piso 3 
+Ciudad Empresarial, Huechuraba, Santiago 
+Mesa Central: (+56 2) 25711500 
+Santiago, 06 de abril de 2026 
+26-LGGCT-LGGSPA-GG-C-CEN-009 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Electrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel 
+ 
+ 
+Presente 
+ 
+ 
+ 
+ 
+Ref.: Verificación de SSCC Empresa Los Guindos 
+Generación SpA. 
+[1] Carta DE01004-26 enviada por el CEN el 11 de febrero 
+de 2026. 
+ 
+De nuestra consideración, 
+ 
+Por medio de la presente y en cumplimiento de nuestras obligaciones, la empresa Los 
+Guindos Generación SpA (“Los Guindos”) se dirige a usted, con relación a la carta de 
+referencia [1], para informar a su autoridad que Los Guindos se ve en la obligación de 
+reprogramar la fecha de ejecución de los ensayos en sitio y la entrega de los informes de 
+verificación de SSCC previstos en abril 2026 para el mes de agosto 2026, según cronograma 
+actualizado (tabla 1). 
+ 
+ 
+Actividades 
+Fecha de inicio 
+Fecha de 
+termino 
+Estado 
+2026 
+[dd/mm/YY] 
+[dd/mm/YY] 
+  
+ene 
+feb 
+mar 
+abr 
+may 
+jun 
+jul 
+ago 
+sept 
+oct 
+nov 
+dic 
+1 
+Adjudicación y Formalización del Contrato 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1.1 
+Cotizacion y Formalización de Oferta 
+  
+15-12-2025 
+04-01-2026 
+Ejecutado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1.2 
+Adjudicación y Firma del Contrato 
+  
+05-01-2026 
+19-01-2026 
+Ejecutado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+Consolidación de Informacion Técnica 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2.1 
+Reunion de Inicio y Solicitud de Informacion Técnica 
+20-01-2026 
+23-01-2026 
+Ejecutado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2.2 
+Recopilación de informacion 
+26-01-2026 
+29-01-2026 
+Ejecutado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2.3 
+Consolidación de Informacion 
+30-01-2026 
+03-02-2026 
+Ejecutado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3 
+Informe Previos a las pruebas 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3.1 
+Informe de Curva de Capacidad Máxima Teórica - 
+U1 
+04-02-2026 
+20-02-2026 
+Ejecutado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3.2 
+Informe de Curva de Capacidad Máxima Teórica - 
+U2 
+04-02-2026 
+20-02-2026 
+Ejecutado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3.3 
+Procedimiento de pruebas - U1 
+  
+23-02-2026 
+20-03-2026 
+Ejecutado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3.4 
+Procedimiento de pruebas - U2 
+  
+23-02-2026 
+20-03-2026 
+Ejecutado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+4 
+Coordinaciones 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+4.1 
+Revisión del procedimiento por parte del CEN 
+06-04-2026 
+04-05-2026 
+En proceso 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+4.2 
+Resolución de observaciones y procedimiento 
+definitivo 
+05-05-2026 
+08-06-2026 
+Programado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+4.3 
+Coordinación con soporte técnico de fabricantes 
+15-06-2026 
+30-06-2026 
+Programado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+5 
+Ensayos en terreno 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+5.1 
+Ensayos en Sitio Unidad 1 y Unidad 2 
+27-07-2026 
+02-08-2026 
+Programado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+6 
+Informes Finales 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+6.1 
+Informe Final CT Los Guindos - U1 
+03-08-2026 
+23-08-2026 
+Programado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+6.2 
+Informe Final CT Los Guindos - U2 
+03-08-2026 
+23-08-2026 
+Programado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Tabla 1. Cronograma detallado Proyecto a firme 
+
+ 
+ 
+Av. Del Parque 4160, Torre A, Piso 3 
+Ciudad Empresarial, Huechuraba, Santiago 
+Mesa Central: (+56 2) 25711500 
+Al respecto, informamos que por motivos de disponibilidad del experto técnico elegido por 
+Los Guindos (Estudios Eléctricos), recien se pudo concretar la contratación de sus servicios 
+en el mes de enero de 2026, a partir de esta fecha, junto al experto técnico, se realizó la 
+elaboración y revisión interna de los protocolos de pruebas/verificación de los SSCC de 
+nuestras unidades, las cuales se adjuntan en esta carta para la revisión por parte del 
+Coordinador Electrico Nacional (CEN).  
+ 
+Por otra parte, informar que estamos en proceso de cotizacion para la contratación de los 
+especialistas extranjeros del AVR (Andritz y GEV) y Gobernadores (GEV), para la ejecución 
+de las pruebas en sitio, para la semana del 27 de julio. 
+ 
+Según lo solicitado, adjuntamos a esta carta el formulario con las respuestas a las consultas 
+realizadas en la carta de referencia [1], las cuales tambien se indican a continuación: 
+ 
+1. Informar las fechas en que enviará los informes de verificación y/o ejecutará los 
+hitos pendientes del proceso de verificación de los cuales se hace consulta en el 
+anexo, esto es el envío de protocolos de pruebas y la fecha en que llevará a cabo 
+los ensayos.  
+ 
+o Los Guindos, presenta para la revisión por parte del CEN, los protocolos de 
+pruebas/verificación de SSCC de nuestras unidades, elaborado por nuestro 
+experto técnico Estudios Eléctricos.  
+ 
+o El cronograma presentado en esta carta contempla la ejecución de las pruebas 
+en sitio para la semana del 27 de julio.  
+ 
+2. Indicar las acciones que ha tomado o tomará para que no se comprometa el plazo 
+de envío del Informe de Verificación indicado en el punto 1. 
+ 
+o Informar que estamos en proceso de cotizacion para la contratación de los 
+especialistas extranjeros del AVR (Andritz y GEV) y Gobernadores (GEV). 
+ 
+3. Informar si las actividades pendientes del punto 1 ponen en riesgo el 
+cumplimiento del envío del punto 1 dado que éstas son necesarias para avanzar 
+en la entrega del Informe de Verificación en cuestión. 
+ 
+
+ 
+ 
+Av. Del Parque 4160, Torre A, Piso 3 
+Ciudad Empresarial, Huechuraba, Santiago 
+Mesa Central: (+56 2) 25711500 
+o Según lo establecido en el cronograma no se identifica actividades/hitos que 
+impidan entregar el informe final de verificación de SSCC de Los Guindos en 
+el mes de agosto. 
+ 
+Con este particular motivo, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________ 
+José Gabriel Flores T. 
+Encargado Titular 
+Los Guindos Generación SpA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cc.: Gerencia General/Gerencia de Planta/Gerencia Financiera 
+cc.: Correspondencia O&Ml/Carta 26-LGGCT-LGGSPA-GG-C-CEN-009 

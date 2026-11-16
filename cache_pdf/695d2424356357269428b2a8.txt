@@ -1,0 +1,86 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLY & ENERGY MANAGEMENT 
+ 
+Santiago, 6 de enero de 2026 
+ENGIE N°002/2026
+ 
+ 
+Señor 
+Jorge Luis Gallegos Mellado 
+Ingeniero de Análisis de la Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Plan de Acción por EAF 419-2024 - Apertura 
+automática del interruptor 52ETT de S/E Tap Off Vítor 
+N°2 Móvil 
+ 
+De nuestra consideración, 
+ 
+En atención a lo solicitado mediante su correo del asunto, en el cual se nos solicita confirmación respecto a la 
+ejecución exitosa de las tareas necesarias para la sincronización en forma automática de la estampa de tiempo de 
+las protecciones involucradas (S/E Central Pampa Camarones), con el fin de cumplir con la Hora Oficial (UTC - 0) 
+establecida en la NTSyCS. 
+ 
+Por medio de la presente, y en relación con el compromiso de sincronización automática de la estampa de tiempo 
+de las protecciones según la Norma Técnica de Seguridad y Calidad de Servicio (NTSyCS), ENGIE Energía Chile 
+S.A. informa una actualización en el cronograma de ejecución para la S/E Central Pampa Camarones. 
+ 
+Si bien originalmente se contempló la ejecución para el periodo de octubre a diciembre de 2025, nos vemos en la 
+necesidad de reprogramar dichas tareas. Esta modificación responde a una falla técnica detectada en la tarjeta de 
+comunicación de los equipos, lo cual impide la correcta sincronización con el sistema GPS y que según el programa 
+presentado en nuestra carta ENGIE N°159/2025 es la única actividad pendiente para cumplir con lo comprometido: 
+ 
+Actividad 
+Periodo Estimado Descripción Técnica 
+Compra de repuesto 
+Abr-2026 
+Adquisición y reemplazo de la tarjeta de comunicación que 
+presenta fallas técnicas. 
+Carga de estación IEC 
+61850 
+Mayo - Junio 2026 
+Configuración y carga de parámetros en el sistema de control 
+y SCADA de la planta2. 
+Configuración y pruebas 
+de estampa de tiempo. 
+Ejecución de la sincronización GPS para cumplir con la Hora 
+Oficial (UTC-0) según la NTSYCS 
+ 
+ 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Estableciendo la primera semana de junio de 2026 como fecha definitiva para finalizar la sincronización y validación 
+de la estampa de tiempo 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+ 
+ 
+Juan Muñoz  
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 

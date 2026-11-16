@@ -1,0 +1,201 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Santiago, 20 de abril de 2026 
+DE 02587-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Publicación Índices de Indisponibilidad 
+Norma Técnica de Indisponibilidad de Suministro 
+y Compensaciones asociados a interrupciones 
+programadas y de curso forzoso de marzo 
+2026. 
+ 
+ 
+De mi consideración: 
+ 
+Mediante la presente, y en conformidad con lo establecido en el Artículo 3-10 de la 
+Norma Técnica de Indisponibilidad de Suministro y Compensaciones (NTISyC), 
+comunico a usted que la información correspondiente a las indisponibilidades 
+programadas y de curso forzoso del mes de marzo de 2026 se encuentra publicada, 
+y puede ser descargada desde el Sitio Web del Coordinador Eléctrico Nacional en 
+la ruta que se indica a continuación. 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > 
+Indicadores > NTISyC > 2026 > Marzo > Cálculo por Desconexión Programada 
+y Forzada 
+ 
+Su representada podrá realizar observaciones a los cálculos de los índices 
+mencionados hasta el 23 de abril de 2026, mediante carta y con copia al correo 
+electrónico ind.suministro@coordinador.cl, indicando en el asunto “Observaciones 
+a cálculos de indicadores de indisponibilidad programadas y curso forzoso marzo 
+2026”. Cabe destacar que las observaciones deben enmarcarse en lo establecido 
+en el Artículo 4-9 de la mencionada norma. 
+ 
+Adicionalmente, en el Anexo 1 a la presente carta se encuentra una evaluación de 
+la calidad de antecedentes solicitados a las empresas distribuidoras mediante las 
+cartas de la Ref. [2-5], según los formatos requeridos por la SEC en la carta de la 
+Ref. [1]. Cabe destacar que en los casos donde la información requerida no se 
+ajuste a las condiciones establecidas en las comunicaciones mencionadas o ésta 
+no haya sido enviada en los plazos correspondientes, esta situación será informada 
+a la SEC.  
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Finalmente, he de informar que, en caso de no recibirse la información faltante, 
+especificada en los Anexos, el cálculo de indicadores se realizará con los 
+antecedentes disponibles. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+ 
+JDM/ycl 
+ 
+c.c.:  
+Sr. Víctor Gutiérrez González – Encargado Titular Compañía General de Electricidad S.A.  
+Sr. Kandinsky Dintrans Pérez – Encargado Titular Empresa Eléctrica de la Frontera S.A.  
+Sr. Pablo Juan Roberto Leal Vester – Encargado Titular Compañía Distribuidora de Energía Eléctrica CODINER 
+S.A.  
+Sr. Alberto Sánchez Polanco – Encargado Titular Cooperativa Eléctrica Charrúa Ltda.  
+DBCD/DTE-SSCC/SGASO 
+ 
+ 
+Referencias: 
+[1] Oficio Electrónico N° 121688 de la Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el envío de información de acuerdo con 
+lo que indica”, de fecha 14 de junio de 2022.   
+[2] Carta DE02292-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de marzo de 
+2026.” de fecha 08 de abril de 2026. Dirigida a Compañía General de Electricidad S.A.   
+[3] Carta DE2294-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de marzo de 
+2026.” de fecha 08 de abril de 2026. Dirigida a Compañía Distribuidora de Energía Eléctrica 
+CODINER S.A.    
+[4] Carta DE02295-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de marzo de 
+2026.” de fecha 08 de abril de 2026. Dirigida a Cooperativa Eléctrica Charrúa Ltda.   
+[5] Carta DE02296-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de marzo de 
+2026.” de fecha 08 de abril de 2026. Dirigida a Empresa Eléctrica de la Frontera S.A.   
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Anexo 1: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras  
+ 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+SD2026018097  
+07-03-2026  
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Bollenar 
+SI  
+SI  
+La información recibida de la empresa 
+distribuidora 
+Compañía 
+General 
+de 
+Electricidad S.A. fue recibida en plazo y en 
+forma, e incorporada al cálculo.  
+SD2026029369  
+20-03-2026  
+Compañía 
+Distribuidora de 
+Energía 
+CODINER S.A.  
+S/E Traiguén 
+SI  
+SI 
+La información recibida de la empresa 
+distribuidora 
+Compañía 
+Distribuidora 
+de 
+Energía CODINER S.A. fue recibida en plazo y 
+en forma, e incorporada al cálculo.  
+SD2026026158  
+12-03-2026  
+Cooperativa 
+Eléctrica Charrúa 
+Ltda.  
+S/E Faenas 
+Pangue 
+NO 
+- 
+No envía anexo con los alimentadores que 
+fueron afectados según la Solicitud de 
+Desconexión SD2026026158 para la S/E con 
+consumos afectados mencionada (Solicitado 
+en comunicación DE02295-26).   
+  
+Enviar antecedentes solicitados.  
+SD2026026158  
+12-03-2026  
+Empresa Eléctrica 
+de la Frontera 
+S.A.  
+S/E Faenas 
+Pangue  
+SI  
+ SI 
+La información recibida de la empresa 
+distribuidora Empresa Eléctrica de la Frontera 
+S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo.  
+SD2026029369  
+20-03-2026  
+Empresa Eléctrica 
+de la Frontera 
+S.A.  
+S/E Traiguén  
+SI  
+SI  
+La información recibida de la empresa 
+distribuidora Empresa Eléctrica de la Frontera 
+S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo.  
+SD2026033710  
+31-03-2026  
+Empresa Eléctrica 
+de la Frontera 
+S.A. 
+S/E Curacautín  
+SI  
+SI  
+La información recibida de la empresa 
+distribuidora Empresa Eléctrica de la Frontera 
+S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo.  
+ 
+ 

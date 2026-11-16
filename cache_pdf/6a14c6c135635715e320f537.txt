@@ -1,0 +1,70 @@
+ 
+ENERGIA Nº 41-26 
+ 
+Santiago, 25 de mayo de 2026 
+ 
+Señora 
+Raicit Guevara Díaz 
+Ingeniero de Análisis de la Operación 
+Gerencia de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Operación del EDAC-BF en el SEN – EAF’s 150 y 159-2025 – Responde ingreso DE03409-26 
+ 
+De nuestra consideración: 
+En relación con su comunicación DE03409-26, informamos que las acciones comprometidas en el plan de 
+trabajo presentado en nuestra carta DE09050-25 fueron ejecutadas en su totalidad. Durante el año 2025 
+se realizaron las coordinaciones preliminares, la recepción de los módulos I/O de relé EDAC-BF, el montaje 
+y cableado de borneras TC, y las pruebas de funcionamiento. Estas actividades permitieron completar la 
+incorporación de las señales requeridas y asegurar la correcta operación del sistema. 
+ 
+Respecto de las señales, se incorporaron las de potencia activa y reactiva, las corrientes de los paños 
+RENCA y OCHAGAVÍA, junto con las señales binarias de estado de interruptores de alimentación (apertura 
+y cierre). La implementación de estas señales se encuentra documentada en el Informe de Adecuación 
+Sistema EDAC (Rev. B), mientras que la validación de su transmisión y funcionamiento en el SITR (SCADA) 
+del Coordinador se acreditó en el Informe de Pruebas EDAC-SITR (Rev. 0), ambos elaborados conforme a 
+lo establecido en la Guía de Verificación de Servicios Complementarios – EDAC Subfrecuencia. 
+ 
+Adicionalmente, y conforme a lo señalado en el correo del Sr. Fabián Alvarado Díaz, Ingeniero de 
+Modelación y Aplicaciones EMS del Coordinador, se confirma que el envío de todas las señales y alarmas 
+requeridas al SITR fue implementado de acuerdo con el listado solicitado al Departamento de 
+Confiabilidad y Soporte Técnico. Dicho correo valida que los informes de verificación fueron aprobados y 
+que las pruebas resultaron satisfactorias. 
+
+ 
+En consecuencia, el sistema EDAC-BF se encuentra regularizado y en operación, cumpliendo con lo 
+establecido en el Título 6-7 y en el Artículo 6-44 de la Norma Técnica de Seguridad y Calidad de Servicio, 
+por lo que no amerita un nuevo plan de trabajo. 
+ 
+En caso de dudas o consultas, se solicita canalizarlas a través del Sr. Cristian Soto Soto, al correo 
+csoto@metro.cl o al teléfono (2)29373044. 
+ 
+Saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+José Pereira Suárez 
+Gerencia Corporativa de Ingeniería  
+Metro S.A. 
+ 
+ 
+ 
+ 
+ 
+Adj: INFORME ADECUACIÓN SISTEMA EDAC (Rev. B).pdf 
+         INFORME PRUEBAS EDAC-SITR (Rev. 0).pdf 
+         Correo_Fabian Alvarado.pdf 
+José 
+Antonio 
+Pereira 
+Suárez
+Firmado 
+digitalmente por 
+José Antonio 
+Pereira Suárez 
+Fecha: 2026.05.25 
+11:43:34 -04'00'

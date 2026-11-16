@@ -1,0 +1,49 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 12 DE DICIEMBRE.2025 
+COM-41/2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para noviembre del 
+2025. 
+ 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para noviembre 2025 
+ 
+1) 
+El día 15-11-2025 la central TRAPEN_DIESEL entra en servicio por activación de CTF (+) a las 07:55, 
+con instrucción de salida a las 08:35. Sin embargo, en el Registro de Instrucción de Operación se 
+ingresó la hora de finalización a las 08:36, afectando la evaluación c3 de la activación. Se adjunta la 
+grabación "20251115083421" como evidencia. Se solicita modificar el tiempo de finalización de la 
+activación del 15-11-2025 a las 07:55 de la hoja de cálculo,  "CTF_202511" y recalcular el 
+desempeño de la activación mencionada. 
+2) 
+El día 15-11-2025 la central TRAPEN_DIESEL entra en servicio por activación de CTF (+) a las 08:43, 
+con instrucción de salida a las 09:03. Sin embargo, en el Registro de instrucción de operación se 
+ingresó la hora de finalización a las 09:43, afectando la evaluación c3 de la activación. Se adjunta la 
+grabación "20251115090254" como evidencia. Se solicita modificar el tiempo de finalización de la 
+activación del 15-11-2025 a las 08:49 de la hoja de cálculo,  "CTF_202511" y recalcular el 
+desempeño de la activación mencionada.  
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+Gustavo Ossa H. 
+Encargado Titular 
+Enlasa Generación Chile S.A. 

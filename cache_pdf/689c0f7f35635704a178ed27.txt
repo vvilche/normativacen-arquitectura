@@ -1,0 +1,257 @@
+ 
+Santiago, 12 de agosto de 2025. 
+  ACC.ECH.110.25 
+Señor: 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe Desempeño Servicios Complementarios – junio 2025. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de julio 2025, que fue publicado en su página web y cuya publicación fue comunicada a través 
+de la carta DE 04865-25 de fecha 7 de agosto de 2025. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+Felipe Escobar Tapia 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC JUNIO 2025 V1 
+Servicio Complementario – CT 
+Planta: PFV Malgarida 
+Timestamp 
+Planta 
+Consigna Planta 
+[MVAr] 
+Registro RIO 
+[MVAr] 
+Hora INICIO 
+registro RIO 
+Comentario 
+05-07-2025 
+9:51 
+-60 
+-60 
+05-07-2025 
+09:50 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos, tal como se observa en las imágenes 
+n°1 a n°9. 
+Se solicita revisar el documento “2025.07_Respuesta_CT”de la V1, específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe un error en el registro mostrado en las columnas “I” y “J” 
+correspondientes a las evaluaciones “t10Q” y “t15Q” respectivamente, debido a que todos estos registros, 
+referentes a la central PFV Malgarida, tienen valor de -30 para todas las instrucciones en cuestión; y en 
+consecuencia entendemos que esto estaría impactando en la evaluación del Factor de Desempeño, calificando 
+todos los registros como “NC” cuando se puede apreciar en las imágenes n°1 a n°9, que la central estableció los 
+movimientos de consigna de reactivos entre 1 y 5 minutos a la consigna final requerida. Lo que dista de lo 
+evaluado en la BBDD utilizada. 
+Por último, he de señalar que el problema antes mencionado ocurrió igualmente para el informe de desempeño 
+del mes de junio. 
+06-07-2025 
+5:21 
+-60 
+-60 
+06-07-2025 
+05:19 
+12-07-2025 
+9:43 
+-60 
+-60 
+12-07-2025 
+09:42 
+15-07-2025 
+8:47 
+-60 
+-60 
+15-07-2025 
+08:46 
+16-07-2025 
+8:03 
+-60 
+-60 
+16-07-2025 
+08:02 
+18-07-2025 
+0:51 
+-60 
+-60 
+18-07-2025 
+00:50 
+19-07-2025 
+3:48 
+-60 
+-60 
+19-07-2025 
+03:47 
+20-07-2025 
+1:29 
+-60 
+-60 
+20-07-2025 
+01:28 
+20-07-2025 
+21:06 
+-60 
+-60 
+20-07-2025 
+21:05 
+ 
+
+ 
+ 
+Imagen 1: Reactivos PFV Malgarida para instrucción 05-07-2025 9:50. 
+ 
+ 
+Imagen 2: Reactivos PFV Malgarida para instrucción 06-07-2025 05:19. 
+ 
+ 
+
+ 
+ 
+ 
+Imagen 3: Reactivos PFV Malgarida para instrucción 12-07-2025 09:42. 
+ 
+Imagen 4: Reactivos PFV Malgarida para instrucción 15-07-2025 08:46. 
+
+ 
+ 
+Imagen 5:Reactivos PFV Malgarida para instrucción 16-07-2025 08:02. 
+ 
+Imagen 6:Reactivos PFV Malgarida para instrucción 18-07-2025 00:50. 
+
+ 
+Imagen 7:Reactivos PFV Malgarida para instrucción 19-07-2025 03:47. 
+ 
+ 
+ 
+Imagen 8: Reactivos PFV Malgarida para instrucción 20-07-2025 01:28 
+
+ 
+Imagen 9: Reactivos PFV Malgarida para instrucción 20-07-2025 21:05. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Planta PE San Gabriel 
+Timestamp 
+Planta 
+Consigna en 
+Planta 
+[MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO Comentario 
+07-07-2025 
+21:49 
+-45 
+-45 
+07-07-2025 
+21:48 
+Se califica como NV, pero en dicho periodo ST San Gabriel se encontraba con los 
+datos congelados, sin embargo, de la tabla 1, se observa que el parque se 
+encontraba absorbiendo la consigna solicitada en los tiempos normados. 
+ 
+ 
+ 
+Tabla 1: Potencia reactiva PE San Gabriel para instrucción 07-07-2025 21:48. 
+ 
+ 
+ 
+ 
+
+Planta PE Tolpán Sur 
+Timestamp 
+Planta 
+Consigna en 
+Planta 
+[MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO Comentario 
+08-07-2025 
+2:03 
+-20 
+-20 
+08-07-2025 
+02:02 
+Se califica como NV, pero en dicho periodo ST Tolpán Sur se encontraba con los 
+datos congelados, sin embargo, de la tabla 2, se observa que el parque se 
+encontraba absorbiendo la consigna solicitada en los tiempos normados. 
+10-07-2025 
+3:19 
+-10 
+-20 
+10-07-2025 
+03:20 
+Se califica como NC, pero a las 03:17 mediante hotline, CDC solicita la absorción 
+de -10 MVAr en primera instancia, para posteriormente a las 3:19 solicitar 
+absorber -20 MVAr en total. Lo anterior de muestra en la tabla 3. 
+ 
+ 
+Tabla 2: Potencia reactiva PE Tolpán Sur para instrucción 08-07-2025 02:02. 
+
+ 
+ 
+ 
+Tabla 3: Potencia reactiva PE Tolpán Sur para instrucción 10-07-2025 03:17 y 03:20. 
+ 
+ 
+ 
+ 
+ 
+
+Servicio Complementario – CTF 
+Planta PFV Almeyda 
+Timestamp 
+Planta 
+Consigna 
+en 
+Planta 
+[MW] 
+Registro 
+en RIO 
+[MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro 
+RIO 
+Comentario 
+28-07-2025 
+10:45 
+2 
+-37 
+28-07-2025 
+10:45 
+28-07-2025 
+11:08 
+Se califica C3 con “0”, pero observando la tabla 4, PFV Almeyda realizó la 
+variación de -37MW solicitados hasta el momento en que la instrucción fue 
+finalizada. 
+ 
+ 
+Tabla 4: Potencia activa PFV Almeyda para instrucción 28-07-2025 10:45. 

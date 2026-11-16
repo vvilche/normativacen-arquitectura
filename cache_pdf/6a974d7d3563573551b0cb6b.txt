@@ -1,0 +1,74 @@
+ 
+ 
+Santiago, 1 de septiembre de 2026 
+PS 2615 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Ref.: Respuesta a carta DE05315-26 — “Incumplimiento de plazos en la 
+implementación de PMU y PDC del Módulo de Medición Fasorial del 
+Coordinador”, de 21 de agosto de 2026 
+[1]  Carta DE00901-26 del Coordinador, “Solicita plan de trabajo para implementación de 
+puntos de monitoreo del Módulo de Medición Fasorial del SEN”, de 6 de febrero de 
+2026. 
+[2]  Carta DE04823-25 del Coordinador, “Instruye implementación y solicita plan de trabajo 
+para implementación de puntos de monitoreo del Módulo de Medición Fasorial del 
+SEN”, de 19 de agosto de 2025. 
+De nuestra consideración, 
+En representación de El Pelícano Solar Company SpA, RUT 76.337.599-4, damos respuesta a 
+la carta de la referencia, informando las razones que explican el atraso en la implementación del 
+punto de monitoreo mediante PMU, así como el plan de acción definido para su regularización. 
+I.   Razones del atraso 
+La PMU se encuentra instalada y conectada a la red local de la central. La implementación no 
+pudo cerrarse dentro del plazo comprometido porque quedaron pendientes las validaciones 
+técnicas de la comunicación extremo a extremo entre la PMU, la red local, el enlace MPLS y el 
+PDC corporativo del Coordinador. 
+Se trata, en consecuencia, de una brecha de configuración y validación de comunicaciones, y no 
+de una falta de implementación del equipamiento. Mientras esas validaciones no se completen 
+no es posible ejecutar ni documentar las pruebas formales de integración con el Coordinador, 
+que constituyen el cierre del proceso. 
+II.   Plan de acción 
+Con el apoyo del especialista Splight, ya contratado para estos efectos, se ha definido el siguiente 
+plan de trabajo, cuya ejecución se ha programado entre el 1 y el 30 de septiembre de 2026: 
+Etapa 
+Plazo 
+Actividades 
+Etapa 1 
+1 al 15 de septiembre 
+Levantamiento de la configuración actual de la PMU, del PDC y de los 
+equipos de comunicaciones. Validación de direccionamiento IP, 
+máscara, gateway, VLAN, rutas y puertos requeridos. Verificación de la 
+ruta de comunicación desde la PMU hacia el enlace MPLS. 
+Etapa 2 
+16 al 25 de 
+septiembre 
+Pruebas locales de generación, calidad y recepción de datos fasoriales. 
+Pruebas de conectividad hacia los servicios del Coordinador. 
+Corrección de las observaciones que se identifiquen, y repetición y 
+documentación de las pruebas técnicas. 
+Etapa 3 
+26 al 30 de 
+septiembre 
+Consolidación de los respaldos de las pruebas realizadas y 
+comunicación al Coordinador del término de las actividades, solicitando 
+la validación de la recepción de datos en el PDC corporativo. 
+ 
+
+ 
+Conforme a este plan, esperamos que al 30 de septiembre de 2026 se encuentren completadas 
+las actividades bajo responsabilidad de la central. En esa oportunidad comunicaremos al 
+Coordinador que la PMU se encuentra operativa y transmitiendo, y solicitaremos que valide la 
+recepción de los datos fasoriales de la instalación en el PDC corporativo, a fin de confirmar la 
+correcta integración del punto de monitoreo. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+____________________________________ 
+Benjamín Rivadeneira T. 
+Encargado Titular 
+El Pelícano Solar Company SpA 
+ 
+c.c.: DMAP@coordinador.cl 

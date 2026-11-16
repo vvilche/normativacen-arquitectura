@@ -1,0 +1,245 @@
+                                                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 1de 2 
+  
+Santiago, 08 de septiembre de 2025 
+DE 025 Status Semana 6 EDAG SPIII 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+Ref.: Reporte Semanal Implementación EDAG - PFV San Pedro III  
+- Semana 6 
+ 
+De nuestra consideración: 
+Por medio de la presente, y en representación del proyecto Planta Fotovoltaica San Pedro III SpA, informamos el estado de 
+avance semanal de la implementación del Esquema de Desconexión Automática de Generación (EDAG) del Plan de Defensa 
+Contra Contingencias Extremas (PDCE) de la Zona Norte, en cumplimiento de lo instruido en carta DE-02068-25. 
+ 
+Cronograma 
+ 
+Actividad 
+Semana 1 
+Semana 2 
+Semana 3 
+Semana 4 
+Semana 5 
+Semana 6 
+Semana 7 
+Semana 8 
+Semana 9 
+Semana 10 
+Semana 11 
+Semana 12 
+Semana 13 
+Semana 14 
+Semana 15 
+Semana 16 
+Semana 17 
+Semana 18 
+Semana 19 
+Semana 20 
+Semana 21 
+Semana 22 
+Finalización de 
+bases de licitación 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Proceso de licitación 
+y adjudicación 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Definición de 
+factibilidad técnica 
+integración 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Inicio de 
+implementación 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Puesta en servicio 
+definitiva 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ACTIVIDADES REALIZADAS EN LA SEMANA 
+Durante las últimas semanas se llevaron a cabo las siguientes actividades: 
+1. Bases de licitación: Documento técnico-comercial con 90% de avance total: 
+• 
+Sección técnica 100% completada con especificaciones detalladas EDAG 
+
+                                                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 2de 2 
+  
+• 
+Sección comercial y administrativa 80% finalizada 
+• 
+Establecidos criterios de evaluación técnica y económica 
+2. Contacto con proveedores: Completado análisis técnico-comercial con 3 empresas especializadas: 
+• 
+Realización de reuniones técnicas detalladas con proveedores 
+• 
+Recibida retroalimentación técnica que optimizó especificaciones finales 
+• 
+Acordados términos preliminares de participación en licitación 
+3. Factibilidad técnica: Documento con 85% de avance que incluye: 
+• 
+Arquitectura de integración con EDAG zonal existente 
+• 
+Análisis de compatibilidad con protecciones actuales 
+• 
+Protocolo de comunicaciones con celda maestra ENGIE 
+• 
+Plan preliminar de pruebas y comisionamiento 
+4. Coordinación interna: 
+• 
+Preparación de infraestructura en sala de control 
+• 
+Identificación de puntos de conexión para sistema EDAG  
+ 
+HITOS CRÍTICOS 
+• 
+Adjudicación definitiva: Programada para semana 8 
+• 
+Kick-off de implementación: Proyectado para semana 9 
+• 
+Integración con EDAG Fase 0: Coordinación en curso según tabla 10-2 del Informe SSCC 2026 
+ 
+OBSERVACIONES 
+Considerando que actualmente la unidad Solar Jama I y II (parte de nuestro complejo) se encuentra implementada en EDAG 
+Fase 0 a los 51.5 Hz, se está coordinando la migración al esquema definitivo PDCE. 
+ 
+Confirmamos el envío del próximo reporte semanal el día 22 de septiembre de 2025. 
+ 
+Sin otro particular, y reiterando nuestro compromiso con la implementación segura y eficaz del EDAG, quedamos atentos a 
+sus comentarios.   
+ 
+Agradecemos de antemano su gestión, quedamos atentos. 
+Saludos cordiales 
+ 
+ 
+ 
+ 
+ 
+  
+Eliseo López Nitsche 
+Encargado Titular 
+Planta Fotovoltaica San Pedro III Spa 
+ 

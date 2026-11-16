@@ -1,0 +1,58 @@
+CORRELATIVO DE 06131-2 
+Asunto: RESPONDE CARTA DE09548-25. Implementación PMU OPDENERGY 
+Generación SpA 
+ 
+ 
+De: Joaquin Mesias Bustamante <joaquin.mesias@coordinador.cl>  
+Enviado el: martes, 30 de septiembre de 2025 10:35 
+Para: cortiz@opdenergy.com 
+CC: fcarcos@opdenergy.com; Jorge Vargas Cáceres <Jorge.Vargas@coordinador.cl> 
+Asunto: RESPONDE CARTA DE09548-25. Implementación PMU OPDENERGY Generación SpA 
+ 
+Señor 
+Carlos Ortiz Gajardo 
+Encargo Titular 
+OPDENERGY Generación SpA. 
+Presente 
+ 
+De nuestra consideración, 
+En atención a su comunicación y al cronograma propuesto para la implementación de 
+Unidades de Medición Fasorial (PMU), informamos lo siguiente: 
+1. Canal de comunicaciones: 
+Es posible utilizar el canal actualmente destinado a la Plataforma de Recepción de 
+Medidas de Transferencias Económicas (PRMTE), siempre que se implementen VRF 
+distintas, de manera de garantizar la segregación y seguridad de los flujos de 
+información asociados. 
+2. Central PE La Estrella: 
+Se solicita especificar la fecha de implementación del proyecto, la cual no puede ser 
+superior al plazo normativo de 8 meses. 
+3. Central PFV Sol de los Andes: 
+Conforme a lo instruido en el Estudio de PMU del presente año, el cronograma de 
+implementación debe estar enfocado en el monitoreo del parque fotovoltaico (PFV), 
+independientemente de la futura incorporación de un sistema de almacenamiento. El 
+sistema de almacenamiento al ser superior a 9 MW será instruido en un estudio 
+posterior.  
+Al respecto, en el caso de parques con capacidad de almacenamiento, se les 
+solicitará implementar una PMU para el parque (en su punto de control del PPC) y 
+otra PMU para el almacenamiento (en su punto de control del PPC), pero no nos 
+queda claro si el BESS será instalado en DC, es decir, a nivel de inversores del 
+parque, de manera de saber si son separables sus mediciones o no. Favor aclarar 
+este punto. Por lo tanto, le solicito el envío de un diagrama detallado de la futura 
+configuración parque+BESS, identificando claramente ambas instalaciones y los 
+puntos de control de sus respectivos PPC. 
+ 
+ 
+
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Joaquin Mesias Bustamante 
+Ingeniero del Departamento Modelación y Aplicaciones EMS 
+Gerencia Operación 
+  
+Santiago de Chile 
+Tel: +56224246300 
+ www.coordinador.cl 
+  
+  
+ 

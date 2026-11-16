@@ -1,0 +1,557 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 24 de marzo de 2026 
+DE 001905-26 
+ 
+ 
+Señor 
+Miguel Buzunariz 
+Encargado Titular 
+Enel Generación Chile S.A. 
+Empresa Eléctrica Pehuenche S.A. 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio 
+Complementario 
+de 
+Control 
+Secundario de Frecuencia e integración al 
+Despacho Económico de las centrales de Enel 
+Generación 
+S.A 
+y 
+Empresa 
+Eléctrica 
+Pehuenche S.A. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), ha finalizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+automático del GMS/SCADA de las unidades de las centrales HE Cipreses, HE El Toro, HE 
+Ralco, HE Rapel y HE Pehuenche. 
+ 
+Como resultado de este proceso, las centrales mencionadas han validado su estado de 
+verificadas bajo el régimen vigente de SSCC. 
+ 
+Los reportes técnicos que justifican la verificación de la capacidad de la prestación del SC 
+de CSF de las centrales se encuentran publicados en la siguiente ruta de la página web del 
+Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Secundario de Frecuencia: 
+ 
+1. > Central HE Cipreses 
+2. > Central HE El Toro 
+3. > Central HE Ralco 
+4. > Central HE Rapel 
+5. > Central HE Pehuenche 
+ 
+Las centrales mencionadas podrán ser instruidas de manera directa por el Coordinador 
+Eléctrico Nacional en la prestación del Control Secundario de Frecuencia. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PGR/ycl 
+ 
+C.c.: 
+Sr. Adrián Guzmán – Encargado Suplente Enel Generación Chile S.A. y Empresa Eléctrica Pehuenche S.A. 
+DCO/DMAP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de las centrales de 
+Enel Generación S.A. y Empresa Eléctrica Pehuenche 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central HE Cipreses: 
+• 
+Unidad 1: 
+- 
+Potencia máxima bruta: 33,64 [MW]. 
+- 
+Potencia mínima bruta: 0 [MW]. 
+• 
+Unidad 2: 
+- 
+Potencia máxima bruta: 33,47 [MW]. 
+- 
+Potencia mínima bruta: 20,00 [MW]. 
+• 
+Unidad 3: 
+- 
+Potencia máxima bruta: 30,86 [MW]. 
+- 
+Potencia mínima bruta: 0 [MW]. 
+b) Central HE El Toro: 
+• 
+Unidad 1: 
+- 
+Potencia máxima bruta: 113,43 [MW]. 
+- 
+Potencia mínima bruta: 0 [MW]. 
+• 
+Unidad 2: 
+- 
+Potencia máxima bruta: 111,97 [MW]. 
+- 
+Potencia mínima bruta: 0 [MW]. 
+• 
+Unidad 3: 
+- 
+Potencia máxima bruta: 113,45 [MW]. 
+- 
+Potencia mínima bruta: 0 [MW]. 
+• 
+Unidad 4: 
+- 
+Potencia máxima bruta: 113,20 [MW]. 
+- 
+Potencia mínima bruta: 0 [MW]. 
+c) Central HE Ralco: 
+• 
+Unidad 1: 
+- 
+Potencia máxima bruta: 389,53 [MW]. 
+- 
+Potencia mínima bruta: 90 [MW]. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+• 
+Unidad 2: 
+- 
+Potencia máxima bruta: 390,94 [MW]. 
+- 
+Potencia mínima bruta: 90 [MW]. 
+d) Central HE Rapel: 
+• 
+Unidad 1: 
+- 
+Potencia máxima bruta: 76,05 [MW]. 
+- 
+Potencia mínima bruta: 45 [MW]. 
+• 
+Unidad 2: 
+- 
+Potencia máxima bruta: 76,22 [MW]. 
+- 
+Potencia mínima bruta: 40 [MW]. 
+• 
+Unidad 3: 
+- 
+Potencia máxima bruta: 73,30 [MW]. 
+- 
+Potencia mínima bruta: 45 [MW]. 
+• 
+Unidad 4: 
+- 
+Potencia máxima bruta: 72,11 [MW]. 
+- 
+Potencia mínima bruta: 40 [MW]. 
+• 
+Unidad 5: 
+- 
+Potencia máxima bruta: 79,52 [MW]. 
+- 
+Potencia mínima bruta: 65 [MW]. 
+e) Central HE Pehuenche: 
+• 
+Unidad 1: 
+- 
+Potencia máxima bruta: 286,99 [MW]. 
+- 
+Potencia mínima bruta: 126,00 [MW]. 
+• 
+Unidad 2: 
+- 
+Potencia máxima bruta: 286,47 [MW]. 
+- 
+Potencia mínima bruta: 126,00 [MW]. 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+No se detectan condiciones específicas relevantes distintas a las establecidas por la 
+normativa en aplicación para los SSCC en aprobación. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Enel Generación 
+Chile S.A y Empresa Eléctrica Pehuenche S.A para sus centrales. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) HE Cipreses: 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación Tecnología 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+U3 
+Central HE 
+Cipreses 
+Hidráulica 
+de Embalse 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+9 
+9 
+9 
+Bajada 
+9 
+9 
+9 
+Aporte CSF [MW] (1) 
+Subida 
+17 
+10 
+25 
+Bajada 
+-17 
+-10 
+-25 
+Límite de regulación superior 
+[MW]  
+22 
+30 
+30 
+Límite de regulación inferior 
+[MW] 
+5 
+20 
+5 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a la potencia activa bruta, podrán verse 
+modificados si se actualizan los parámetros operacionales de la central HE Cipreses. 
+ 
+b) HE El Toro: 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación Tecnología 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+U3 
+U4 
+Central HE 
+El Toro 
+Hidráulica 
+de Embalse 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+20 
+20 
+20 
+20 
+Bajada 
+20 
+20 
+20 
+20 
+Aporte CSF [MW] (1) 
+Subida 
+100 
+100 
+100 
+100 
+Bajada 
+-100 
+-100 
+-100 
+-100 
+Límite de regulación superior 
+[MW]  
+110 
+110 
+113 
+113 
+Límite de regulación inferior 
+[MW] 
+10 
+10 
+10 
+10 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a la potencia activa bruta, podrán verse 
+modificados si se actualizan los parámetros operacionales de la central HE El Toro. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+c) HE Ralco: 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación Tecnología 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+Central HE 
+Ralco 
+Hidráulica 
+de Embalse 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+20 
+20 
+Bajada 
+20 
+20 
+Aporte CSF [MW] (1) 
+Subida 
+100 
+100 
+Bajada 
+-100 
+-100 
+Límite de regulación superior 
+[MW]  
+345 
+345 
+Límite de regulación inferior 
+[MW] 
+95 
+95 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a la potencia activa bruta, podrán verse 
+modificados si se actualizan los parámetros operacionales de la central HE Ralco. 
+ 
+d) HE Rapel: 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación Tecnología 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+U3 
+U4 
+U5 
+Central HE 
+Rapel 
+Hidráulica 
+de Embalse 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+20 
+20 
+20 
+20 
+20 
+Bajada 
+20 
+20 
+20 
+20 
+20 
+Aporte CSF [MW] (1) 
+Subida 
+30 
+30 
+30 
+30 
+30 
+Bajada 
+-30 
+-30 
+-30 
+-30 
+-30 
+Límite de regulación superior 
+[MW]  
+75 
+75 
+75 
+74,98 
+75 
+Límite de regulación inferior 
+[MW] 
+45 
+45 
+45 
+45 
+65 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a la potencia activa bruta, podrán verse 
+modificados si se actualizan los parámetros operacionales de la central HE Rapel. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+e) HE Pehuenche: 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación Tecnología 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+Central HE 
+Pehuenche 
+Hidráulica 
+de Embalse 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+20 
+20 
+Bajada 
+20 
+20 
+Aporte CSF [MW] (1) 
+Subida 
+100 
+100 
+Bajada 
+-100 
+-100 
+Límite de regulación superior 
+[MW]  
+275 
+275 
+Límite de regulación inferior 
+[MW] 
+130 
+130 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a la potencia activa bruta, podrán verse 
+modificados si se actualizan los parámetros operacionales de la central HE Pehuenche. 
+ 
+ 

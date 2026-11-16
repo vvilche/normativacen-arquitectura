@@ -1,0 +1,60 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+GM N°2025-046 
+11 de junio de 2025 
+ 
+Señorita 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref: Observaciones a Indicadores Desempeño Servicios Complementarios – mayo 2025 
+ 
+En relación con el Informe de desempeño preliminar de servicios complementarios de mayo 2025 
+publicado mediante carta DE 03379-25 de fecha 06 de junio de 2025, tenemos las siguientes 
+observaciones: 
+SSCC 
+Central 
+Observaciones 
+CTF 
+General 
+Se solicita agregar al documento CTF_202501.csv el valor de la potencia en 
+t0+30 seg, t0+5 min, t0 +5,5 min y t0+6 min.  
+CTF 
+Central Nueva Renca 
+El día 09/05/2025 se solicita activación de CTF a las 00:42 horas, luego a las 
+00:45 horas se solicita la central a Mínimo Técnico (MT) y finalización de 
+activación de CTF a las 1:04 horas. Las instrucciones de activación de CTF y 
+consigna directa de manera traslapada son incompatibles. Se solicita 
+terminar la evaluación del CTF en el momento que se da la instrucción directa 
+de llevar a la central a MT. 
+ 
+El día 14/05/2025 se solicita activación de CTF a las 11:12 horas, luego a las 
+11:24 horas se solicita la central a MT y finalización de activación de CTF a las 
+11:30 horas. Las instrucciones de activación de CTF y consigna directa de 
+manera traslapada son incompatibles. Se solicita terminar la evaluación del 
+CTF en el momento que se da la instrucción directa de llevar a la central a 
+MT. 
+ 
+El día 14/05/2025 se solicita activación de CTF a las 12:16 horas, luego a las 
+12:34 horas se solicita la central a MT y finalización de activación de CTF a las 
+13:02 horas. Las instrucciones de activación de CTF y consigna directa de 
+manera traslapada son incompatibles. Se solicita terminar la evaluación del 
+CTF en el momento que se da la instrucción directa de llevar a la central a 
+MT. 
+ 
+Se solicita también revisar como se evalua el CTF cuando está el CPF activado, 
+ya que la instrucción de CTF puede ser contrararia a lo que se requiere por 
+CPF, impactando el desempeño del CTF. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+Carolina Vélez K. 
+Encargada Titular 
+Generadora Metropolitana SpA 

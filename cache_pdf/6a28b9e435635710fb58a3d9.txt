@@ -1,0 +1,150 @@
+ 
+Santiago, 9 de junio de 2026 
+OP 083-26 
+Señor  
+Ramon Castañeda P.  
+Director Ejecutivo  
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+MATERIA: 
+PRESTACIÓN 
+SIMULTÁNEA 
+DE 
+SERVICIOS 
+COMPLEMENTARIOS 
+DE 
+CONTROL PRIMARIO Y SECUNDARIO DE FRECUENCIA EN UNIDADES 
+GENERADORAS GENERAL ELECTRIC, QUE AFECTA A LAS CENTRALES: 
+ATACAMA, TALTAL Y QUINTERO. 
+REF [1]:  
+DE03776-26, EN LO RELATIVO A LA CENTRAL QUINTERO. 
+ 
+ 
+Por medio de la presente, informamos que las Unidades Generadoras de las Centrales 
+Atacama, Quintero y Taltal, todas ellas equipadas con tecnología General Electric Mark 
+V/VI, Speedtronic, disponen de una lógica de control que impide la prestación simultánea 
+de los servicios complementarios de Control Primario de Frecuencia (CPF) y Control 
+Secundario de Frecuencia (CSF). 
+. 
+El fundamento técnico de esta condición se describe a continuación: 
+ 
+El Control Secundario de Frecuencia (CSF) es implementado mediante señales de Control 
+Automático de Generación (AGC), las cuales actúan directamente como referencia de carga 
+(set-point) del regulador de la unidad. Este esquema opera utilizando un lazo de control 
+Proporcional–Integral (PI) de carga, equivalente al modo de Carga Preseleccionada, cuyo 
+objetivo es mantener la potencia activa en torno a una consigna fija. En este modo de 
+operación, la lógica de control inhibe la respuesta natural de la unidad ante variaciones de 
+frecuencia del sistema. 
+ 
+Por otra parte, el Control Primario de Frecuencia (CPF) requiere que la unidad opere en 
+modo droop, en el cual la regulación de potencia se realiza a través de un control 
+proporcional (P) en función de las desviaciones de frecuencia, permitiendo una variación 
+automática de la potencia activa. Para que este mecanismo funcione correctamente, es 
+condición necesaria que los lazos de control de carga de tipo PI, tanto internos como 
+externos (AGC), se encuentren desactivados. 
+ 
+En consecuencia, los modos de control requeridos para la prestación de CPF y CSF son 
+mutuamente excluyentes, dado que ambos actúan sobre la misma variable de proceso 
+(potencia activa) mediante filosofías de control incompatibles. La activación simultánea 
+genera un conflicto: el CSF fija una carga constante mientras el CPF exige variaciones 
+
+ 
+dinámicas. Esto deriva en un funcionamiento degradado de la unidad, en su respuesta al 
+CPF. 
+ 
+Esta condición no corresponde a un problema operativo ni de sintonía, sino a una limitación 
+estructural del diseño del sistema de control, situación que ha sido evidenciada tanto en 
+análisis técnicos como en la operación real de las unidades, afectando particularmente el 
+cumplimiento del servicio de CPF cuando el CSF es solicitado en paralelo. 
+ 
+En virtud de lo anterior, y considerando el marco de cumplimiento regulatorio y técnico 
+exigido para los Servicios Complementarios, solicitamos respetuosamente que esta 
+condición técnica sea considerada por el Coordinador Eléctrico Nacional en los procesos de 
+programación, asignación y despacho, evitando la asignación simultánea de los servicios de 
+CPF y CSF a las unidades de Central Atacama, Taltal y Quintero en su configuración actual. 
+ 
+Adicionalmente, es relevante señalar que la presente comunicación no responde a un 
+cambio reciente en la lógica de control de las unidades, sino a una mayor evidencia 
+operativa acumulada en el tiempo, asociada a la asignación simultánea de Servicios 
+Complementarios por parte del sistema. 
+ 
+Históricamente, si bien la central ha operado bajo la misma filosofía de control, la 
+ocurrencia simultánea de solicitudes efectivas de CPF y CSF había sido limitada, lo que no 
+había permitido identificar de manera concluyente el impacto técnico de dicha condición 
+en el desempeño del servicio de Control Primario de Frecuencia. 
+ 
+Sin embargo, en el período reciente, el incremento en la utilización y exigencia simultánea 
+de Servicios Complementarios, junto con un mayor nivel de seguimiento del desempeño 
+operativo y de cumplimiento regulatorio, ha puesto en evidencia que la activación 
+concurrente de CPF y CSF genera efectos sistemáticos de degradación en la respuesta 
+primaria de frecuencia, los cuales son consistentes con las limitaciones propias del diseño 
+del sistema de control de las unidades. 
+ 
+En este contexto, y con el objetivo de asegurar una correcta operación, se ha estimado 
+necesario formalizar este antecedente ante el Coordinador Eléctrico Nacional, de manera 
+que dicha condición técnica sea considerada en los procesos de programación y asignación 
+de servicios. 
+ 
+La presente comunicación busca, por tanto, prevenir asignaciones técnicamente 
+incompatibles, evitar eventuales incumplimientos no imputables a la operación de la 
+centrales, y resguardar la correcta prestación de los Servicios Complementarios en el 
+sistema eléctrico nacional. 
+ 
+Sin otro particular, y quedando a disposición para complementar esta información con 
+mayores antecedentes técnicos si así se estima necesario, saluda atentamente, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________ 
+Miguel Buzunáriz R. 
+Encargado (S) CEN 
+ENEL GENERACIÓN CHILE S.A. 
+ 
+ 
+ 
+
+ 
+Anexo Gráficas de Datos Operacionales 
+ 
+ 
+ 
+Potencia Activa y Frecuencia Unidad TG1B Central Quintero con AGC Conectado. Respuesta 
+Degradada del CPF. 
+ 
+ 
+ 
+Potencia Activa y Frecuencia Unidad TG1B Central Quintero con AGC Desconectado. Respuesta 
+Correcta al CPF. 
+ 
+
+ 
+ 
+ 
+ 
+Extracto Manual de Operación  
+ 
+Operación en Modo Droop: 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Modo de Operación Load Preselect (CSF) 
+ 
+ 
+ 

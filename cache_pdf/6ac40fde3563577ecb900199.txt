@@ -1,0 +1,76 @@
+Chacabuco 792 Piso 2, San Fernando, Chile 
+www.tinguiriricaenergia.cl 
+ 
+ 
+ 
+ 
+HIDROELÉCTRICA LA HIGUERA S.A.  
+Página 1/1 
+Santiago, 5 de octubre de 2026  
+ 
+   
+ 
+Nro.: 
+HLH-2026-2733 
+ 
+ 
+Señores: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora Sur 1061, Pudahuel 
+Santiago 
+ 
+Atención: Patricio Valenzuela Vásquez 
+ 
+REF.  Complementa respuesta a carta DE05315-26 – Actualización implementación segundo punto de 
+monitoreo PMU  
+ 
+ 
+De nuestra consideración: 
+ 
+En complemento a nuestra carta HLH-2026-2719, de fecha 28 de agosto de 2026, mediante la cual se 
+informó el retraso del proyecto de implementación del segundo punto de monitoreo mediante PMU, 
+venimos en actualizar los antecedentes relativos a su ejecución. 
+ 
+A la fecha, el equipo PMU correspondiente al proyecto ya se encuentra disponible en la central La Higuera. 
+Durante las próximas semanas, la empresa contratista realizará las actividades de montaje e instalación de 
+los equipos en terreno. 
+ 
+Sin perjuicio de lo anterior, en el marco de las coordinaciones necesarias para la integración de las nuevas 
+PMU al Módulo de Medición Fasorial del Coordinador, Transelec informó que actualmente no dispone de 
+capacidad técnica en sus PDC para incorporar y transmitir las señales correspondientes a la nueva PMU. 
+ 
+Esta condición modifica la solución de comunicaciones considerada originalmente para el proyecto, por lo 
+que actualmente se encuentran en evaluación las alternativas técnicas que permitan efectuar la integración 
+y transmisión de las señales requeridas al Coordinador. 
+ 
+En consecuencia, no resulta posible mantener las fechas informadas mediante carta HLH-2026-2719. En 
+atención a lo anterior, Hidroeléctrica La Higuera S.A. solicita una extensión del plazo para completar la 
+implementación del segundo punto de monitoreo PMU. 
+ 
+Una vez definida la solución técnica de comunicaciones y establecidos los plazos asociados a su 
+implementación, se remitirá al Coordinador un nuevo programa de trabajo con las fechas actualizadas para 
+la ejecución y término del proyecto. 
+ 
+ 
+Sin otro particular, se despide atentamente, 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Sepúlveda 
+Encargado 
+Hidroeléctrica La Higuera S.A. 
+ 

@@ -1,0 +1,135 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+SUPPLY ENERGY MANAGEMENT 
+ 
+Santiago, 8 de mayo de 2026 
+ENGIE N°131/2026
+ 
+ 
+Señor 
+Lionel Roa B. 
+Subgerente Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: 
+Declara 
+costos 
+adicionales 
+por 
+modificaciones en la lógica del Controlador Central 
+del EDAG Zona Norte por envío de disparos a celdas 
+de media tensión de los controladores locales 
+instalados en el PE Kallpa, en el PFV Tamaya, en el 
+PFV Capricornio.  
+[1] Carta DE04998-25 (Anexo 1) 
+[2] Carta DE01881-25 (Anexo 2) 
+De nuestra consideración, 
+ 
+En la comunicación de la referencia [1], se informó al Coordinador los costos mensuales de operación de 
+los controladores asociados al EDAG Zona Norte, instalados por mi representada, los cuales  actualmente 
+se consideran en el proceso de pago en función de su desempeño, entre ellos, los señalados a 
+continuación:  
+ 
+• 
+Controlador Central: 122,88 UF/mes  
+• 
+Controlador Local del PFV Capricornio: 89,51 UF/mes 
+ 
+Por su parte, mediante la comunicación de la referencia [2], el Coordinador aprobó los costos declarados 
+para los nuevos controladores a implementar, los cuales se indican a continuación:  
+ 
+• 
+Controlador del PE Kallpa: 85,06 UF/mes 
+• 
+Controlador del PFV Tamaya: 76,26 UF/mes 
+ 
+Adicionalmente, el Estudio de Plan de Defensa Contra Contingencias  emitido en Octubre/2025 (Anexo 
+3), establece requerimientos específicos para la operación de instalaciones con sistemas de 
+almacenamiento, entre los cuales se destacan:  Ref. punto 5.1.1 en la página 57): 
+ 
+• 
+Inciso 1.1.1, numeral 2, letra c): La necesidad de que las centrales  ERV estén diferenciadas de 
+su almacenamiento para evitar la desconexión del BESS en carga.  
+ 
+• 
+Inciso 1.1.1, numeral 2, letra e): La necesidad de dejar en los últimos escalones de desconexión 
+ante situaciones de sobrefrecuencia  a las centrales ERV que estén haciendo SSCC.  
+ 
+Para poder cumplir con  los requerimientos anteriores, necesitamos hacer lo siguiente: 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Inciso 1.1.1, numeral 2, letra c): Para las instalaciones que tienen sistemas de almacenamiento de 
+energía (BESS) que son el PE Kallpa, el PFV Tamaya y el PFV Capricornio, los disparos se deben 
+enviar a las  celdas de media tensión del PFV, ya no solamente al interruptor principal del parque 
+para evitar la desconexión del BESS en carga ante la ocurrencia de una contingencia. Para 
+mayores detalles sobre las modificaciones que debemos hacer en terreno, se les solicita revisar 
+los incisos 4.1, 4.2 y 4.3 del Anexo 4. 
+ 
+• 
+1.1.1, numeral 2, inciso e): Modificar la lógica de operación del Controlador Central con el objetivo 
+de  incluir como criterio de desconexión el estado de la  prestación de SSCC de cada una de las 
+instalaciones participantes en el automatismo. Para mayores detalles sobre las modificaciones 
+que debemos hacer en terreno, se les solicita revisar el inciso 4.4 del Anexo 4. 
+ 
+Debido a lo señalado anteriormente, a continuación se  declaran los costos adicionales necesarios para 
+cumplir con estos nuevos requerimientos según lo evidencia la tabla del inciso 1 del Anexo 4, 
+considerando que el pago se hará durante 48 meses:  
+ 
+• 
+Controlador Central: 12,71 UF/mes (Ver nota 1) 
+• 
+PFV Capricornio: 6,97 UF/mes (Ver Nota 1) 
+• 
+PFV Tamaya:7,95 UF/mes (Ver Nota 2) 
+• 
+PE Kallpa: 9,36 UF/mes (Ver Nota 2) 
+ 
+Nota 1: Se informará debidamente cuando se haga la implementación.  
+Nota 2: La implementación ya fue ejecutada y probada exitosamente.   
+ 
+Cabe señalar que este proyecto será realizado por la empresa SEIS S.A. quien fue la encargada de 
+implementar todos controladores asignados a Engie Energía Chile.  
+ 
+Por otro lado, se informa que el anexo de contrato donde se formaliza este trabajo adicional está en 
+proceso de redacción. 
+ 
+Sin otro particular, lo saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ Juan Muñoz Tapia 
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 
+ 
+Muñoz 
+Juan
+Firmado digitalmente 
+por Muñoz Juan 
+Fecha: 2026.05.08 
+15:43:38 -04'00'

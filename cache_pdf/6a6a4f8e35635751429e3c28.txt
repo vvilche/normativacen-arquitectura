@@ -1,0 +1,37 @@
+ 
+Carta CSP-GE-LT-CEN-0407 
+Santiago, 28 de julio de 2026 
+ 
+ 
+Patricio Valenzuela 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a carta DE 04209-26 
+ 
+De nuestra consideración: 
+En atención a la carta DE 04209-26, mediante la cual se solicitan antecedentes técnicos que respalden el Informe de 
+Limitación declarado para la prestación del Servicio Complementario de Control Dinámico de Tensión (CDT) de la 
+Central PFV Cerro Dominador, informamos lo siguiente. 
+Se realizó una revisión técnica del Power Plant Controller (PPC), con el objeto de verificar las funcionalidades 
+disponibles para la prestación del Control Dinámico de Tensión. Como resultado de dicha revisión, se constató que 
+la funcionalidad asociada al Control Dinámico de Tensión requería una verificación adicional respecto de su 
+habilitación para la prestación del servicio. En ese contexto, y considerando los antecedentes disponibles al momento 
+de registrar el Informe de Limitación en la plataforma NeoMante, se declaró la limitación correspondiente para la 
+prestación del Servicio Complementario de Control Dinámico de Tensión. 
+Adicionalmente, cabe señalar que la PFV Cerro Dominador permanece actualmente fuera de servicio. Una vez que 
+la central retorne a operación, y de acuerdo con las definiciones técnicas que se adopten respecto de esta 
+funcionalidad, se realizarán las acciones que resulten necesarias para su habilitación, así como las verificaciones y 
+validaciones operacionales que correspondan. 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+_______________________ 
+Sebastián Parra 
+Cerro Dominador CSP S.A. 
+Signed by:Sebastian Parra
+Signed at:2026-07-28 20:22:47 -04:00
+Reason:Firmado por Sebastian Parra

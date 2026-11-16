@@ -1,0 +1,600 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 29 de enero de 2026 
+ 
+    
+DE 00585-26 
+ 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Publicación de Indicadores de Desempeño 
+de Servicios Complementarios prestados durante 
+el mes de diciembre 2025, segunda versión. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página web 
+del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de los Indicadores 
+de Desempeño de Servicios Complementarios prestados durante el mes de diciembre 2025. Estos 
+indicadores fueron considerados en la versión definitiva del IVTE de dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador en la 
+siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2025 > Diciembre 2025 > 
+Versión 2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las observaciones 
+recibidas para la primera versión del Informe. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ASA/adr 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de diciembre 
+2025 consideradas en la versión 2. 
+ 
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Enlasa 
+CTF 
+TER Teno 
+Fecha: 
+11-12-2025 
+08:30 
+El 11-12-2025 a las 08:30, el CDC activa la central 
+TENO_DIESEL 
+por 
+CTF 
+(+), 
+recibiendo 
+la 
+instrucción de finalización a las 08:47. Sin embargo, 
+en el Registro de Instrucción de Operación (RIO) se 
+indica que la una instrucción de salida fue a las 09:09 
+afectando la evaluación 3 del desempeño de la 
+activación. 
+Se 
+adjuntan 
+las 
+grabaciones 
+20251211084605 
+y 
+20251211084703 
+como 
+evidencia de la hora de finalización real.  Se solicita 
+que se modifique la hora de finalización de la 
+activación y se recalculé el desempeño. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la hora de 
+finalización fue a las 08:47. Dicho lo anterior se 
+actualiza RIO y el factor de desempeño se 
+recalcula y pasa a 84%. 
+2 
+Enlasa 
+CTF 
+TER Trapen 
+Fecha: 
+15-12-2025 
+23:18 
+El 15-12-2025 a las 23:18, el CDC activa la central 
+TRAPEN_DIESEL por CTF (+), recibiendo la 
+instrucción de finalización el 16-12-2025 a las 00:11. 
+Se 
+ha 
+identificado 
+que 
+en 
+el 
+archivo 
+“CTF_202512” la activación se divide en dos, la 
+primera el 15-12-2025 entre 23:18 y 23:59, y 
+la segunda el 16-12-2025 entre las 00:00 y 00:11. A 
+pesar que la segunda activación registrada tiene un 
+periodo menor a 15 minutos en el informe de 
+desempeños, el periodo presenta un desempeño 0. 
+Se adjuntan las grabaciones 20251215231819 y 
+20251216001131 
+como 
+evidencia de las horas de inicio y fin de la activación 
+Se solicita eliminar la activación del día 16-12-2025 
+a las 00:00 y se modifique la hora de finalización de 
+la activación del día 15-12-2025 a las 23:18. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que estas dos 
+anotaciones en realidad corresponden a una sola 
+instrucción, la cual inicia a las 23:18 y finaliza a las 
+00:11. Dicho lo anterior se actualiza RIO, se 
+elimina la instrucción de 00:00 a 00:11 y el factor 
+de desempeño se recalcula y pasa a 92%. 
+3 
+Enlasa 
+CTF 
+TER Trapen 
+Fecha: 
+29-12-2025 
+07:07 
+El 29-12-2025 a las 07:07, El CDC activa la central 
+TRAPEN_DIESEL por CTF (+), recibiendo la 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+instrucción de finalización a las 07:17. Sin embargo, 
+en el Registro de Instrucción de Operación se 
+menciona que la una instrucción de entrada por el 
+CDC fue a las 07:10 y la de salida a las 08:09 
+afectando la evaluación de desempeño. Se adjuntan 
+las 
+grabaciones 
+20251229070720 
+y 
+20251229071740 como evidencia de la hora real de 
+inicio y fin de la activación. Se solicita que se 
+modifique la hora de inicio y  fin de la activación y se 
+defina 
+un 
+desempeño 
+del 100% considerando que el periodo de activación 
+fue menor a 15 minutos. 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la hora de inicio 
+fue a las 07:10 y finalización fue a las 08:09. Dicho 
+lo anterior se actualiza RIO y el factor de 
+desempeño se recalcula y pasa a 100%. 
+4 
+Colbún S.A. 
+CTF 
+HE Colbún 
+U1 
+Fecha: 
+04.12.2025 
+01:12:00 
+(UTC-3) 
+ De acuerdo con el registro RIO la instrucción se da 
+a las 01:12 en condición que también estaba bajo la 
+prestación simultánea de CPF. La unidad cumple 
+con la evaluación 1 y 2 de la instrucción sin embargo 
+al estar participando del CPF simultáneamente no 
+puede mantener el aporte. El servicio de subida por 
+lo general tiene un efecto en la frecuencia que 
+provoca su aumento, por lo que tal y como se puede 
+notar en la evaluación de la unidad, el aporte va 
+disminuyendo en la medida que transcurre el tiempo 
+y el resto de unidades instruidas para el CTF de 
+subida en el sistema también realizan su aporte. 
+Solicitud: Revisar prestación simultánea de servicio 
+CPF y CTF y reevaluar. 
+Se acoge la observación. 
+ 
+Se analizan las señales SCADA de la operación 
+de la unidad, constatando que hubo un cambio de 
+consigna acorde a la instrucción del CTF durante 
+la prestación conjunta con el servicio de CPF. 
+ 
+Dicho lo anterior, el indicador de respuesta se 
+recalcula 
+quedando 
+en 
+100% 
+para 
+esta 
+instrucción. 
+5 
+Colbún S.A. 
+CTF 
+HE Canutillar 
+U1 
+Fecha: 
+06.12.2025 
+14:59:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún SA se recibe instrucción a  las 14:59 de subir 
+a plena carga con la unidad por reasignación, se 
+adjunta 
+grabación. 
+Asimismo, 
+en 
+el 
+archivo 
+CTF_202512 indica que el tiempo en el cual se 
+evalúa la etapa 2 que mide el aporte a los 15 
+minutos, se realizó a las 15:01 en condiciones que la 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que el monto 
+instruido por CDC es equivalente a subir a plena 
+carga. Dicho lo anterior se ajusta el monto 
+instruido en RIO, se recalcula la respuesta y esta 
+pasa a 96,64%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+instrucción 
+se 
+da 
+a 
+las 
+14:59. 
+Solicitud: Favor revisar instrucción recibida y 
+tiempos de evaluación. 
+6 
+Colbún S.A. 
+CTF 
+PE San Juan 
+Fecha: 
+07.12.2025 
+20:02:00 
+(UTC-3) 
+En el documento CTF_202512 se considera como el 
+Mínimo Técnico del Parque 0,24 MW, sin embargo 
+ese valor corresponde a la condición de un solo 
+aerogenerador en servicio, el Mínimo Técnico del 
+Parque Completo es de 19 MW. Se adjunta informe 
+de 
+MT 
+del 
+Parque. 
+Solicitud: Se solicita cambiar el Mínimo Técnico del 
+Paque para la evaluación del CTF considerando la 
+operación del Parque completo y no solo de un 
+aerogenerador. 
+No se acoge la observación – Aclaración. 
+ 
+El informe enviado por su representada y 
+aprobado por el coordinador informa un mínimo 
+técnico de 0,235MW (potencia neta). Este valor 
+fue establecido vía carta DE05284-20 en octubre 
+de 2020 en consistencia con el informe de mínimo 
+técnico. 
+ 
+En aquel informe la central es capaz de apagar 
+sus 
+aerogeneradores 
+hasta 
+alcanzar 
+una 
+operación estable de 0,235 MW de potencia neta 
+sin presentar limitaciones de ningún tipo, por lo 
+que la central es capaz de alcanzar este valor sin 
+problemas. 
+ 
+Dicho lo anterior, el mínimo técnico a considerar 
+en la evaluación se mantiene y el indicador no 
+cambia. En caso de que requiera actualizar su 
+parámetro operacional de mínimo técnico, se 
+solicita el envío del informe actualizado vía carta 
+en correspondencia. 
+7 
+Colbún S.A. 
+CTF 
+PE San Juan 
+Fecha: 
+13.12.2025 
+20:07:00 
+(UTC-3) 
+En el documento CTF_202512 se considera como el 
+Mínimo Técnico del Parque 0,24 MW, sin embargo 
+ese valor corresponde a la condición de un solo 
+aerogenerador en servicio, el Mínimo Técnico del 
+Parque Completo es de 19 MW. Se adjunta informe 
+de 
+MT 
+del 
+Parque. 
+Solicitud: Se solicita cambiar el Mínimo Técnico del 
+Paque para la evaluación del CTF considerando la 
+No se acoge la observación – Aclaración. 
+ 
+El informe enviado por su representada y 
+aprobado por el coordinador informa un mínimo 
+técnico de 0,235MW (potencia neta). Este valor 
+fue establecido vía carta DE05284-20 en octubre 
+de 2020 en consistencia con el informe de mínimo 
+técnico. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+operación del Parque completo y no solo de un 
+aerogenerador. 
+En aquel informe la central es capaz de apagar 
+sus 
+aerogeneradores 
+hasta 
+alcanzar 
+una 
+operación estable de 0,235 MW de potencia neta 
+sin presentar limitaciones de ningún tipo, por lo 
+que la central es capaz de alcanzar este valor sin 
+problemas. 
+ 
+Dicho lo anterior, el mínimo técnico a considerar 
+en la evaluación se mantiene y el indicador no 
+cambia. En caso de que requiera actualizar su 
+parámetro operacional de mínimo técnico, se 
+solicita el envío del informe actualizado vía carta 
+en correspondencia. 
+8 
+Colbún S.A. 
+CTF 
+PFV Diego 
+de Almagro 
+Sur 
+Fecha: 
+21.12.2025 
+18:04:00 
+(UTC-3) 
+De acuerdo con el RIO la unidad se encontraba en 
+prorrata al momento de recibir la instrucción, 
+asimismo se recibe la reasignación y activación del 
+servicio de bajada, y junto con ello la instrucción de 
+llevar 
+al 
+Parque 
+a 
+Mínimo 
+Técnico. 
+Solicitud: 
+Revisar 
+contexto 
+operacional 
+e 
+instrucciones y reevaluar en consecuencia. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y se 
+determina que la unidad recibió la instrucción de 
+bajar a Mínimo Técnico al prestar el servicio. 
+Dicho lo anterior se modifica el RIO y el indicador 
+de respuesta se recalcula y pasa a 100%. 
+9 
+Colbún S.A. 
+CTF 
+PE San Juan 
+Fecha: 
+24.12.2025 
+00:00:00 
+(UTC-3) 
+En el documento CTF_202512 se considera como el 
+Mínimo Técnico del Parque 0,24 MW, sin embargo 
+ese valor corresponde a la condición de un solo 
+aerogenerador en servicio, el Mínimo Técnico del 
+Parque Completo es de 19 MW. Se adjunta informe 
+de 
+MT 
+del 
+Parque. 
+Solicitud: Se solicita cambiar el Mínimo Técnico del 
+Paque para la evaluación del CTF considerando la 
+operación del Parque completo y no solo de un 
+aerogenerador. 
+No se acoge la observación – Aclaración. 
+ 
+El informe enviado por su representada y 
+aprobado por el coordinador informa un mínimo 
+técnico de 0,235MW (potencia neta). Este valor 
+fue establecido vía carta DE05284-20 en octubre 
+de 2020 en consistencia con el informe de mínimo 
+técnico. 
+ 
+En aquel informe la central es capaz de apagar 
+sus 
+aerogeneradores 
+hasta 
+alcanzar 
+una 
+operación estable de 0,235 MW de potencia neta 
+sin presentar limitaciones de ningún tipo, por lo 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+que la central es capaz de alcanzar este valor sin 
+problemas. 
+ 
+Dicho lo anterior, el mínimo técnico a considerar 
+en la evaluación se mantiene y el indicador no 
+cambia. En caso de que requiera actualizar su 
+parámetro operacional de mínimo técnico, se 
+solicita el envío del informe actualizado vía carta 
+en correspondencia. 
+10 Colbún S.A. 
+CTF 
+PE San Juan 
+Fecha: 
+24.12.2025 
+15:07:00 
+(UTC-3) 
+El Parque sube lo requerido que es equivalente a su 
+potencia disponible, luego se producen variaciones 
+de viento que no permiten mantener el 75% de la 
+reserva activada. La reserva se puede ir gestionando 
+dependiendo de la disponibilidad del Parque, sin 
+embargo una vez se activa el servicio esta queda 
+sujeta a la variación del viento. Cabe mencionar que 
+al momento de activar el servicio la reserva estaba 
+disponible y esto se puede observar en el 
+documento CTF_202512 ya que en la segunda 
+evaluación la unidad tiene un desempeño de 100% 
+por entregar todo la reserva asignada en 15 minutos. 
+Solicitud: Evaluar instrucción considerando la 
+variabilidad del recurso mientras se activa el 
+servicio. 
+No se acoge la observación. 
+ 
+Las instrucciones de CTF dadas por el CDC son 
+definidas directamente desde el programa, el cual 
+se construye con las predicciones y pronóstico de 
+viento proporcionadas por su representada. Dicho 
+lo anterior se solicita la mejora de dichos 
+pronósticos con el fin que el programa sea más 
+ajustado a la realidad. 
+11 Colbún S.A. 
+CTF 
+PE San Juan 
+Fecha: 
+24.12.2025 
+16:21:00 
+(UTC-3) 
+El Parque sube lo requerido que es equivalente a su 
+potencia disponible, luego se producen variaciones 
+de viento que no permiten mantener el 75% de la 
+reserva activada. La reserva se puede ir gestionando 
+dependiendo de la disponibilidad del Parque, sin 
+embargo una vez se activa el servicio esta queda 
+sujeta a la variación del viento. Cabe mencionar que 
+al momento de activar el servicio la reserva estaba 
+disponible y esto se puede observar en el 
+No se acoge la observación. 
+ 
+Las instrucciones de CTF dadas por el CDC son 
+definidas directamente desde el programa, el cual 
+se construye con las predicciones y pronóstico de 
+viento proporcionadas por su representada. Dicho 
+lo anterior se solicita la mejora de dichos 
+pronósticos con el fin que el programa sea más 
+ajustado a la realidad. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+documento CTF_202512 ya que en la segunda 
+evaluación la unidad tiene un desempeño de 100% 
+por entregar todo la reserva asignada en 15 minutos. 
+Solicitud: Evaluar instrucción considerando la 
+variabilidad del recurso mientras se activa el 
+servicio. 
+12 
+Acciona 
+CT 
+PE Tolpan 
+Sur 
+Fecha: 
+02-12-2025 
+02:30 
+Se califica como NV, sin embargo, el parque 
+comienza a descender de 0 a -10 MVAr 
+a las 2:31:38, según lo instruido por el CDC. Se 
+adjunta 
+Figura 
+1 
+y 
+Tabla 
+1 
+mostrando lo anteriormente mencionado. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y señales SCADA, 
+donde se constata que la central presenta su señal 
+de potencia reactiva estática en un valor cercano 
+a cero durante toda la duración de la instrucción, 
+por lo que el desempeño no cambia. 
+ 
+Esta condición no cumple con los criterios de 
+calidad definidos en el artículo 13 del Anexo 
+Técnico “Definición de Parámetros Técnicos y 
+Operativos para el Envío de Datos al SITR”. Dicho 
+lo anterior el indicador se mantiene.  
+ 
+Dado esto, el coordinado debe revisar sus señales 
+en sistema SCADA, para lo cual tiene que 
+contactar directamente al área TI SCADA al mail 
+tec.scada@coordinador.cl 
+13 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 
+29-12-2025 
+11:00 
+Se califica como NC, sin embargo, la instrucción fue 
+realizada 
+por 
+pruebas 
+solicitadas por el CEN según DI2025140527, 
+además, 
+se 
+cita 
+el 
+comentario 
+indicado 
+en RIO: “Por pruebas se solicita cambiar a modo P-
+V 
+y 
+bajar 
+1 
+kV 
+(consigna 
+de 
+tensión 231 kV)”. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se comprueba que 
+esta instrucción correspondió a una prueba en 
+modo de control P-V. Dicho lo anterior el 
+desempeño diario se recalcula y pasa a 100%. 
+ 

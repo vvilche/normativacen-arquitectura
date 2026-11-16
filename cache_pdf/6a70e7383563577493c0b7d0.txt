@@ -1,0 +1,80 @@
+ 
+  
+ 
+ 
+ 
+ 
+Av. Argentina 1  
+Edificio Barón, Piso 6 
+Valparaíso  
+Región de Valparaíso 
+ 
+ST1-ECEN-0016-2026 
+Valparaíso, 30 de julio de 2026 
+ 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+COORDINADOR ELÉCTRICO NACIONAL 
+Presente 
+ 
+ 
+ 
+Ref.: Complementa respuesta a carta DE 04334-26 del 24 de junio de 2026 con 
+Observaciones a los Informes de Verificación de SSCC de EV de S/E Cardones, S/E 
+Diego de Almagro y S/E Carrera Pinto. 
+ 
+ 
+ 
+De nuestra consideración, 
+ 
+En complemento a nuestra carta ST1-ECEN-0014-2026 y en atención a la carta indicada 
+en la referencia, mediante la cual el Coordinador Eléctrico Nacional formuló observaciones 
+a los Informes Técnicos de Verificación del Servicio Complementario de Equipos de 
+Vinculación (EV) para el Plan de Recuperación de Servicio (PRS-EV) correspondientes a 
+S/E Cardones (paños J12 y J13), S/E Diego de Almagro (paños J5 y J7) y S/E Carrera 
+Pinto (paño J5), y en relación a las consultas adicionales sobre la función de 
+sincronización en los relés ABB REC670, venimos en informar a usted lo siguiente:  
+1. Respecto a la condición de Barra Viva – Línea Viva (BV-LV) en el relé ABB REC670, 
+se confirma que la función de sincronismo (SESRSYN/25) no dispone de un 
+parámetro específico etiquetado como umbral máximo absoluto de tensión. Por 
+tanto, se confirma la condición indicada por el Coordinador en orden a que el límite 
+máximo operativo de tensión para permitir dicha sincronización queda 
+determinado por la tensión máxima de servicio de las instalaciones, 
+correspondiente a 245 kV fase-fase para el nivel de 220 kV, según lo establecido 
+en el Estudio de Tensiones de Servicio vigente y la NTSyCS. 
+2. En relación con la parametrización de los relés, se precisa que la tensión base 
+configurada corresponde a UBase = 230 kV. Para los parámetros de supervisión 
+de tensión (UHighBusSynch, UHighLineSynch, UHighBusSC y UHighLineSC), el 
+relé posee un rango de catálogo de hasta 120.0% UBase (276 kV), mientras que 
+el parámetro UMaxEnerg se encuentra ajustado al 110.0% UBase (253 kV). 
+3. Al respecto, se destaca que la operación de los Equipos de Vinculación está 
+supeditada a la coordinación e instrucción de los Centros de Control dentro de los 
+márgenes de la tensión máxima de servicio de 245 kV. No obstante, con el objeto 
+
+ 
+de acotar de forma explícita en la parametrización de las protecciones dicho límite 
+normativo de 245 kV, nuestra representada ha considerado ajustar el parámetro 
+UMaxEnerg al valor de 106.5% UBase (equivalente a 244.95 kV ≈ 245 kV).  
+4. Considerando que la medida señalada corresponde a una precisión de 
+parametrización que no altera las condiciones operacionales ni de coincidencia de 
+fase, frecuencia y tensión ya ensayadas en terreno, solicitamos a usted confirmar 
+si requiere la implementación de dicho ajuste. Una vez que el Coordinador autorice 
+el cambio propuesto, nuestra representada gestionará oportunamente la 
+modificación de los ajustes en los IED involucrados y procederá con la entrega de 
+los Informes Técnicos de Verificación en su versión final, con el propósito de dar 
+por concluidas las observaciones del proceso. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Álvaro Alarcón Molina 
+Encargado Titular 
+ELETRANS S.A. 
+ 
+ 
+ 

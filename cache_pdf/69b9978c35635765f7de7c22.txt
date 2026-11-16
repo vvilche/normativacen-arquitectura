@@ -1,0 +1,83 @@
+Santiago, 04 de marzo de 2026
+CTN 0002-2026
+Señor Ernesto Huber J. 
+Director Ejecutivo
+Coordinador Eléctrico Nacional
+Ref: Solicitud de Inicio del Proceso de Conexión (SIPC) Proyecto Aumento de 
+capacidad Línea 2x220kV Nueva Zaldivar-Monte Mina (ex Likanantai) por decreto 
+exento N°185 de 2021 correspondiente a los planes de expansión. 
+   De mi consideración,
+Mediante la presente en atención a lo establecido en el Artículo 7 del Anexo Técnico 
+“Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI”, mi 
+representada solicita el inicio del proceso de conexión para el Proyecto Aumento de 
+capacidad Línea 2x220kV Nueva Zaldivar-Monte Mina (ex Likanantai) por decreto exento 
+N°185 de 2021 correspondiente a los planes de expansión., ubicado en la comuna de 
+Antofagasta, región de Antofagasta.
+El proyecto Aumento de capacidad Línea 2x220kV Nueva Zaldivar-Monte Mina (ex 
+Likanantai), incluye cambio de conductor de dicha línea y cambio de equipamiento de los 
+paños de línea de ambas Subestaciones.
+Para el desarrollo del proyecto se contempla dos etapas, las cuales de acuerdo con lo 
+informado por el Coordinador Eléctrico Nacional debe quedar plasmados en separación 
+por propietario. 
+En este caso Compañía Transmisora Norte S.A. es dueña de los paños ID22801y 
+ID22802 incluyendo su equipamiento lo cual está ubicado en la Subestación Nueva 
+Zaldívar de 220kV. Además, incluye la línea 2x220kV Nueva Zaldivar – Torre1A S/E 
+Monte Mina (Secciones de tramo ID4864 y ID4865).
+Transmisora Parinas S.A. es dueña de los paños de línea (J13 y J16) en la Subestación 
+Monte Mina y la sección de tramo línea 2x220kV Torre1A S/E Monte Mina – S/E Monte 
+Mina (Secciones de tramo ID 4862 y ID 4863). 
+      Los Conquistadores 1730 | Providencia, Santiago Teléfono: (56-2) 2686-8900
+
+NUP única en dos etapas:
+Etapa 1 asociada a la Compañía Transmisora Norte:
+•
+S/E Nueva Zaldívar: Cambio de Equipos C1 y C2.
+•
+Línea de Transmisión: cambio de conductor desde la S/E Nueva Zaldívar a la 
+Torre1A S/E Monte Mina.
+Etapa 2 asociada a la Transmisora Parinas S.A:
+•
+S/E Monte Mina: cambio de Equipos C1 y C2.
+•
+Línea de Transmisión: cambio de conductor sección de tramo línea 2x220kV Torre1A 
+a la S/E Monte Mina.
+La estrategia constructiva consiste en realizar cada Etapa por circuito y se considera de 
+la siguiente forma:
+•
+PES Parcial: Energización del circuito 1 en su totalidad.
+•
+PES Final: Energización del circuito 2 en su totalidad.
+En cada una de las PES, la ruta crítica consiste en los trabajos de paños, considerando 
+desenergización de cada circuito por un periodo de 3 a 4 meses sin posibilidad de 
+reposición.
+En el Formulario denominado: “Solicitud Inicio Proceso Conexión (SIPC)”, se adjuntan los 
+antecedentes solicitados en el mencionado Artículo 7 del Anexo Técnico “Requisitos 
+Técnicos Mínimos de Instalaciones que se Interconectan al SI” que aplican para esta 
+solicitud a la propietaria Compañía Transmisora Norte S.A.
+Sin otro particular saluda atentamente a Ud.,
+Paola Hartung Martínez
+Representante Legal
+Compañía Transmisora Norte SA
+  Los Conquistadores 1730 | Providencia, Santiago Teléfono: (56-2) 2686-8900
+
+Electronic Record of Contracts
+This document was generated as a record of certain contracts created, accepted and stored electronically.
+Summary of Contracts
+This document contains the following contracts.
+Title
+ID
+Letter (cen and AES)
+543b9d8c-1bdb-4abc-b92f-46f93f6a16c9
+Contract signed by:
+Paola Hartung
+Signer ID:
+99ddb086-4e1a-490e-8002-db6ce80bcb2b
+Email:
+paola.hartung@aes.com
+Date / Time:
+Mar 4, 2026 at 4:39 PM UTC
+IP Address:
+186.11.119.138
+User Agent:
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/144.0.3719.115 
+Version/18.0 Mobile/15E148 Safari/604.1

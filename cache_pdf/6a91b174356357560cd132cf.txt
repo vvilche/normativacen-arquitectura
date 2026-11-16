@@ -1,0 +1,193 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+ 
+ 
+Santiago, 28 de agosto de 2026 
+DE 05652-26 
+ 
+Señor 
+Mauricio Utreras S. 
+Director Ejecutivo 
+GIE Asociación Gremial 
+Presente 
+ 
+Ref.: Consultas y solicitud de Aclaración de 
+exigencias para PMGDs establecidas en cartas 
+Coordinador. 
+[1] Carta GIE 20260710-0, de fecha 10 de julio de 
+2026, “Consultas y solicitud de aclaración de 
+exigencias para PMGDs establecidas en cartas 
+Coordinador” 
+[2] Carta DE 03474-26, de fecha 22 de mayo de 
+2026, “Estandarización y extracción automática de 
+registros 
+oscilográficos 
+de 
+protecciones 
+en 
+instalaciones PMGD” 
+[3] Carta DE 03450-26, de fecha 22 de mayo de 
+2026, “Instruye integración y envío de señales 
+SITR a PMGD en zona de congestión” 
+[4] Carta DE 04040-26, de fecha 11 de junio de 
+2026, “Aclara proceso para integración y envío de 
+señales SITR a PMGD en zona de congestión” 
+Responde ingreso OP01641-26. 
+ 
+De mi consideración,  
+ 
+Me refiero a la comunicación de la Ref. [1], mediante la cual su representada solicita 
+a este Coordinador aclarar dudas respecto a exigencias que el Coordinador ha 
+instruido a Pequeños Medios de Generación Distribuidos (PMGD) en las cartas de 
+la Ref. [2], [3] y [4], en particular al requerimiento de registros oscilográficos y 
+señales para el Sistema de Información en Tiempo Real (SITR). 
+ 
+En relación con el requerimiento asociado a la incorporación de registros 
+oscilográficos y extracción y almacenamiento automático de dichos registros, cabe 
+señalar que el mismo tiene por finalidad contar con información respecto del registro 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+ 
+ 
+de protecciones de manera oportuna, completa y homologada, de tal manera que 
+este Coordinador pueda evaluar en forma eficiente y efectiva la actuación de las 
+protecciones, conforme a las exigencias normativas. Tal solicitud se enmarca en lo 
+dispuesto en el Anexo Técnico de Sistema de Monitoreo, que permite al 
+Coordinador solicitar la incorporación al módulo de registro de protecciones 
+eléctricas del Sistema de Monitoreo (SM), de aquellas instalaciones del SI que 
+estime convenientes, así como de la obligación de las empresas coordinadas de 
+entregar al Coordinador información completa, oportuna, cabal y veraz para el 
+cumplimiento de sus funciones. 
+ 
+Con respecto al requerimiento de señales para el SITR, cabe señalar que, para 
+aquellas unidades de tecnología térmica, dicho requerimiento se limita a las señales 
+de potencia activa y reactiva generada. 
+ 
+Al respecto, si bien este tipo de unidades puede presentar costos variables 
+superiores a los de las unidades basadas en energías renovables variables y, por 
+tanto, una menor probabilidad de encontrarse en operación durante determinados 
+períodos de congestión no es posible asegurar que su operación no pueda contribuir 
+a una condición de congestión en instalaciones del sistema de transmisión zonal.  
+ 
+En ese sentido, de acuerdo con el Artículo 102° del Decreto Supremo 88 de 2019, 
+del Ministerio de Energía, ante una contingencia o congestión, o una previsión de 
+estas, que ponga en riesgo la seguridad y calidad de servicio del sistema eléctrico, 
+el Coordinador deberá limitar las inyecciones de los PMGD siguiendo un criterio de 
+eficiencia económica, de acuerdo con lo que determine la normativa vigente. En 
+consecuencia, disponer de las señales de potencia activa y reactiva de estas 
+instalaciones resulta necesario para contar con información suficiente para la 
+supervisión de su operación y la adecuada gestión de eventuales restricciones 
+operativas. 
+ 
+Cabe señalar que las exigencias de incorporación de PMGD al SITR no tienen su 
+origen en el Decreto Supremo N° 32, de 2025 (“DS N°32”), sino que ya se 
+encontraban establecidas en el Anexo Técnico “Definición de Parámetros Técnicos 
+y Operativos para el Envío de Datos al SITR”, el cual contempla expresamente su 
+aplicación a los PMGD y faculta al Coordinador para establecer exigencias 
+diferenciadas de señales de acuerdo con su capacidad, tecnología, disponibilidad o 
+impacto sistémico, entre otros criterios técnicos. 
+ 
+Asimismo, los plazos transitorios establecidos por el DS N°32 señalados en relación 
+con esta materia no resultan aplicables al requerimiento específico de envío de 
+señales de potencia activa y reactiva efectuado mediante las Ref. [3] y [4]. En 
+particular, el plazo establecido en el artículo primero transitorio se refiere a la 
+implementación y operación, por parte del Coordinador, de las herramientas 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+ 
+ 
+automáticas de despacho contempladas en el artículo 117 bis del Reglamento, 
+mientras que el plazo establecido en el artículo tercero transitorio se refiere 
+específicamente a la aplicación de los ajustes previstos en los artículos 45 bis y 126 
+para las instalaciones conectadas a redes de distribución así como a determinadas 
+consideraciones asociadas a la potencia disponible. 
+ 
+Por lo tanto, dichas disposiciones transitorias no modifican ni postergan las 
+obligaciones preexistentes de integración y envío de señales al SITR actualmente 
+exigibles conforme a la NT SyCS y su Anexo Técnico, las cuales sustentan el 
+requerimiento efectuado mediante las Ref. [3] y [4]. 
+ 
+De otro lado, este Coordinador reconoce que el proceso de integración de estas 
+señales requiere la coordinación con la Empresa Distribuidora correspondiente, 
+considerando que el envío de las medidas del PMGD al SITR debe efectuarse a 
+través del enlace de comunicación existente entre dicha empresa y el Coordinador, 
+conforme fue aclarado mediante la carta de la Ref. [4]. 
+ 
+En consideración a las dificultades y eventuales plazos asociados al proceso de 
+integración de señales, en particular aquellos derivados de la necesaria 
+coordinación con las respectivas Empresas Distribuidoras, aquellos Coordinados 
+que presenten dificultades para dar cumplimiento a lo requerido deberán informar 
+dicha situación a este Coordinador, acompañando los antecedentes que la 
+justifiquen y un plan de trabajo, y cronograma para la implementación de las señales 
+requeridas, que considere las gestiones y plazos necesarios para materializar su 
+integración al SITR. De igual manera, en el caso de la estandarización de archivos 
+Comtrade y la extracción automática de esos registros oscilográficos, el 
+Coordinador reconoce que podría implicar en algunos casos un grado de 
+adecuación mayor y, por lo tanto, lo deben informar justificadamente con los 
+antecedentes que respalden un tiempo mayor de implementación. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                      
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DCST/adr 
+ 
+ 
+
+CORREO DE ENVÍO A EMPRESA NO COORDINADA 
+GIE ASOCIACIÓN GREMIAL 
+CARTA DE05652-26 
+ 
+ 
+De: Alejandra Domínguez Rivera  
+Enviado el: viernes, 28 de agosto de 2026 9:38 
+Para: mutreras@gie.cl 
+CC: cnegrete@gie.cl; Rodrigo Espinoza Vilches <Rodrigo.Espinoza@coordinador.cl>; Luis Calabran 
+Guerrero <Luis.Calabran@coordinador.cl>; Alberto Trigueros Baratta 
+<Alberto.Trigueros@coordinador.cl> 
+Asunto: Adjunta carta DE05652-26 del Coordinador Eléctrico Nacional  
+ 
+Estimado don Mauricio: 
+ 
+Junto con enviarle un cordial saludo, adjunto carta DE05652-26 Ref.: Consultas y 
+solicitud de Aclaración de exigencias para PMGDs establecidas en cartas 
+Coordinador, y que corresponde a respuesta a su carta ingresada a nuestro sistema 
+bajo el correlativo OP01641-26. 
+Agradeceré confirmar por esta via, la correcta recepción del correo y su adjunto. 
+Atentamente, 
+ 
+ 
+ 
+Alejandra Domínguez R. 
+Secretaria 
+Gerencia Personas y Administración 
+  
+Santiago de Chile 
+Tel: +56 2 2424 6411 
+ www.coordinador.cl 
+  
+  
+  
+ 

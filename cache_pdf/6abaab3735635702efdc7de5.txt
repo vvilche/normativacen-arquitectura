@@ -1,0 +1,213 @@
+Santiago, 28 de septiembre de 2026 
+Señor: 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+Ref.: requerimientos técnicos necesarios  
+para el monitoreo y control de los PMGD 
+De nuestra consideración: 
+Junto con saludar, desde CFC Holdings como responsable de la explotación comercial de 12 PMGD´s (según 
+listado en el Anexo 1) conectados a las redes de distribución de CGE, nos dirigimos a usted con el objeto de 
+plantear una serie de inquietudes respecto de las exigencias de monitoreo, control y reporte al Sistema de 
+Información en Tiempo Real (“SITR”) que han comenzado a analizarse a raíz de la entrada en vigor de la 
+Norma Técnica de Conexión y Operación de PMGD en instalaciones de Media Tensión, fijada por la 
+Resolución Exenta N°69, de 2026, de la Comisión Nacional de Energía (“NTCO 2026”), del Oficio Circular 
+Electrónico N°336142, de 1 de junio de 2026, de la Superintendencia de Electricidad y Combustibles, y en 
+respuesta a las cuales surge el documento “Exigencias para Integración de PMGD a Sistemas SCADA de 
+CGE”, remitido por dicha empresa distribuidora hacia a los titulares de PMGD conectados a su red. 
+Como es de su conocimiento, estos nuevos requerimientos técnicos imponen exigencias de diseño, 
+operación y costeo que no fueron contempladas en la ingeniería original ni en el diseño as-built de los 
+proyectos PMGD actualmente en operación. Es en ese contexto que sometemos a su consideración las 
+siguientes observaciones: 
+1. Ausencia de metodología tarifaria para los costos de implementación y operación (Art. 89° bis, D.S. 
+N°88) 
+CGE ha informado que “todos los costos de implementación, de uso de sistemas y de operación que el 
+PMGD deba pagar... serán informados posteriormente”, invocando el artículo 89° bis del D.S. N°88 como 
+fundamento para trasladar dichos costos íntegramente a los PMGD. Sin embargo, a diferencia de lo 
+dispuesto para las obras de conexión en el artículo 10-2 de la NTCO 2026 —que contempla un mecanismo 
+transitorio de valorización mientras no se dicte la resolución tarifaria correspondiente, con la 
+Superintendencia como instancia dirimente en caso de desacuerdo—, no se advierte un mecanismo 
+equivalente aplicable a los costos de integración SCADA/SITR. Ello deja a los PMGD en una posición de 
+vulnerabilidad frente a valores fijados unilateralmente por la distribuidora, sin metodología, techo ni 
+instancia de revisión conocida. Solicitamos a ese Coordinador evaluar la pertinencia de instar a la autoridad 
+competente a la pronta propuesta de una metodología y de sugerir, en el intertanto, un mecanismo de 
+control o referencia de precios. 
+ 
+2. Exclusividad de proveedores de telecomunicaciones y proporcionalidad de la exigencia de redundancia 
+El documento de CGE limita la contratación del enlace de datos MPLS exclusivamente a dos proveedores 
+(Entel y Telefónica), y plantea —aunque sin exigirlo de manera categórica— que solo una arquitectura con 
+dos enlaces redundantes, idealmente de distintos proveedores y tecnologías, permitiría garantizar la 
+continuidad de servicio. El artículo 9-19 de la NTCO 2026 dispone únicamente que los enlaces y el nivel de 
+disponibilidad de la información “deben ser acorde a los estándares aplicados en las redes de distribución 
+de la respectiva Empresa Distribuidora”, sin exigir exclusividad de proveedores ni redundancia obligatoria. 
+Nos preocupa que esta exigencia —no explícita en la norma técnica— eleve significativamente los costos 
+
+de implementación, restrinja la libre contratación de servicios de telecomunicaciones por parte de los 
+PMGD, y genere un eventual cuello de botella de capacidad si numerosos proyectos deben contratar 
+enlaces con solo dos proveedores de manera simultánea a nivel nacional. 
+3. Ausencia de un estándar de disponibilidad cuantificado para el enlace de monitoreo NTCO 
+A diferencia del reporte SITR, para el cual la NTSyCS 2025 establece una exigencia explícita de disponibilidad 
+mensual mínima de 99,5% según menciona CGE en su documento, la NTCO 2026 no define un umbral 
+cuantitativo de disponibilidad para el enlace de monitoreo y control hacia el sistema SCADA de la 
+distribuidora. Esta ambigüedad normativa es especialmente relevante considerando que, conforme al 
+artículo 9-7 de la NTCO 2026, la pérdida de señal de monitoreo faculta a la distribuidora para desconectar 
+al PMGD del sistema de distribución. La ausencia de un estándar objetivo y verificable deja dicha facultad 
+sujeta a un margen de apreciación de la distribuidora. 
+ 
+4. Insuficiencia de los plazos de implementación para proyectos ya en operación  
+Los plazos establecidos en los artículos 10-3, 10-5 y 10-6 de la NTCO 2026 —así como los plazos adicionales 
+dispuestos por el Oficio Circular SEC N°336142— exigen a los PMGD ya operativos adecuar su ingeniería, 
+contratar enlaces de telecomunicaciones, coordinar ventanas de intervención con la distribuidora en plazos 
+de entre 4 y 12 meses. Dichos plazos no consideran que estos proyectos fueron diseñados, construidos y 
+puestos en servicio con anterioridad a la entrada en vigor de estas exigencias, generando costos por incurrir 
+en plazos muy cortos desde el punto de vista de los ejercicios normales de presupuesto de los PMGD´s -
+anuales- y a los que se suma el riesgo de restricción de capacidad ya señalado en el punto 2, considerando 
+que solo dos proveedores de telecomunicaciones se encuentran habilitados para prestar el servicio 
+requerido. 
+ 
+5. Ausencia de instancia de consulta previa a los PMGD y de un procedimiento claro de reclamación 
+Las especificaciones técnicas que en definitiva rigen la integración (como el documento de CGE analizado) 
+son elaboradas unilateralmente por cada Empresa Distribuidora, sin que se contemple una instancia formal 
+de consulta o comentarios por parte de los PMGD. Asimismo, no resulta claro si el Formulario F16 
+“Controversias SEC”, concebido para el proceso de conexión, resulta aplicable a controversias relativas a 
+las exigencias de monitoreo, control y reporte SITR posteriores a la puesta en servicio, lo que genera 
+incertidumbre sobre la vía idónea para plantear desacuerdos técnicos u objeciones a los eventuales valores 
+que vaya a cobrar la distribuidora. 
+ 
+6. Riesgo de aplicación de medidas preventivas de limitación de inyección o desconexión 
+El Oficio Circular SEC N°336142 señala que, ante incumplimientos de las exigencias de actualización de 
+protecciones, la Empresa Distribuidora “podrá adoptar las medidas operativas necesarias para resguardar 
+la seguridad del sistema, incluyendo la limitación de inyección o la desconexión del PMGD”, medidas que 
+se mantendrían “hasta que se verifique el íntegro cumplimiento”. Nos preocupa que dichas medidas 
+puedan aplicarse ante incumplimientos originados en las inconsistencias normativas, indefiniciones de 
+costos y limitaciones de mercado antes señaladas, es decir, por causas no imputables al PMGD, sin que 
+exista claridad sobre una vía expedita de descargo antes de la aplicación de tales medidas. 
+
+En atención a lo expuesto, solicitamos respetuosamente a ese Coordinador: 
+a) Evaluar la conveniencia de instar a la Comisión Nacional de Energía a la pronta dictación de la 
+metodología tarifaria prevista en el artículo 89° bis del D.S. N°88, así como la publicación de valores de 
+referencia aplicables en el intertanto; 
+b) Revisar la proporcionalidad de las exigencias de exclusividad de proveedores de telecomunicaciones y de 
+redundancia de enlaces impuestas por las Empresas Distribuidoras, verificando su conformidad con el 
+artículo 9-19 de la NTCO 2026; 
+c) Definir un estándar de disponibilidad mínima aplicable al enlace de monitoreo NTCO, en términos 
+equivalentes a los ya establecidos para el SITR; 
+d) Propiciar una instancia formal de consulta a los PMGD, previo a la entrada en vigencia de especificaciones 
+técnicas unilaterales de las Empresas Distribuidoras, y aclarar la vía procedimental aplicable a controversias 
+relativas a estas materias; y 
+e) Considerar criterios de razonabilidad y proporcionalidad en la aplicación de medidas preventivas de 
+limitación de inyección o desconexión, cuando el incumplimiento se origine en causas no imputables al 
+propietario u operador del PMGD. 
+Quedamos atentos a sus comentarios y disponibles para profundizar en cualquiera de los puntos señalados 
+en la instancia que estime pertinente. 
+Atentamente. 
+ 
+ 
+ 
+___________________________ 
+José Cubillo Cordero 
+Gerente de Operaciones 
+CFC Holdings SpA. 
+ 
+ 
+
+ANEXO 1 
+ 
+Cartas emitidas por el coordinador: Cambios de contrato de explotación Porfolio 
+2 
+ 
+(Ref. Facturación centralizada) 
+Empresa 
+Coordinada 
+ID 
+Site Name 
+SPV 
+RUT 
+Carta  
+Fecha 
+CFC Holdings SpA 
+CL203 
+Nihue 
+Nihue Solar SpA 
+77.202.668-4 
+DE01887-24 
+2024-04-12 
+CFC Holdings SpA 
+CL204 
+Batres 
+Cobena Energia SpA (itahue Solar) 
+76.920.629-9 
+DE01882-24 
+2024-04-12 
+CFC Holdings SpA 
+CL205 
+Pencahue 
+Hiruela Energia SpA 
+76.350.355-0 
+DE01867-24 
+2024-04-12 
+CFC Holdings SpA 
+CL206 
+Paine 
+PSF Paine SpA 
+77.363.388-6 
+DE01878-24 
+2024-04-12 
+CFC Holdings SpA 
+CL207 
+Puangue 
+PSF Puangue SpA 
+77.363.445-9 
+DE01873-24 
+2024-04-12 
+CFC Holdings SpA 
+CL208 
+COA 
+Acuario Solar SpA 
+77.139.382-9 
+DE01872-24 
+2024-04-12 
+CFC Holdings SpA 
+CL209 
+Pequen 
+Pequen SpA 
+76.996.721-4 
+DE01871-24 
+2024-04-12 
+CFC Holdings SpA 
+CL211 
+Quemados 
+PSF Quemados SPA 
+77.363.446-7 
+DE01865-24 
+2024-04-12 
+CFC Holdings SpA 
+CL212 
+La Gamboina 
+PSF La Gambonia SPA 
+77.363.348-7 
+DE01864-24 
+2024-04-12 
+CFC Holdings SpA 
+CL214 
+El Peral 
+PSF El Peral SPA 
+77.388.859-0 
+DE01859-24 
+2024-04-12 
+CFC Holdings SpA 
+CL215 
+Champa 
+Energías Renovables Champa 
+77.147.248-6 
+DE01866-24 
+2024-04-12 
+CFC Holdings SpA 
+CL216 
+Petorca 
+PSF Petorca SPA 
+77.363.444-0 
+DE01861-24 
+2024-04-12 
+ 

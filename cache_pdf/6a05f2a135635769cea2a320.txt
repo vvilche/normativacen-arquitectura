@@ -1,0 +1,52 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ContourGlobal 
+Chile 
+ 
+Isidora Goyenechea 3000 
+Piso 19 — Las condes Santiago 
+ 
+contourglobal.com 
+ContourGlobal Limited 
+Registered Office: Tintagel House, 92 Albert Embankment, London, United Kingdom, SE1 7TY 
+Registered in England & Wales - Company Number 10982736 
+Asunto: Entrega de arquitectura de comunicaciones e informe de disponibilidad – PFV Víctor Jara y 
+BESS Víctor  
+ 
+ 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, y en atención a lo solicitado mediante carta DE 02464-26, de fecha 14 de abril de 2026, 
+del Coordinador Eléctrico Nacional, relacionada con el proceso de verificación del Servicio Complementario 
+de Control Secundario de Frecuencia de la CRCA PFV Víctor Jara y BESS Víctor Jara, por medio de la 
+presente hacemos entrega de los siguientes antecedentes: 
+1. Layout y/o diagrama simple correspondiente a la arquitectura de comunicaciones. 
+2. Informe y/o certificado de disponibilidad del sistema de comunicaciones implementado para la 
+integración al AGC, acreditando el cumplimiento del 99,95% de disponibilidad requerido.  
+Los antecedentes antes señalados se adjuntan a la presente para los fines correspondientes. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+_____________________________ 
+Richard Cortes 
+Pp. GR Chañar SpA  
+ 
+Santiago, 13 de mayo del 2026 
+To: 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CARTA N°     GR-CHL0005A-254/2026 

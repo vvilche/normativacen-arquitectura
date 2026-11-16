@@ -1,0 +1,310 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 1 de 3 
+ 
+INSTRUYE 
+EL 
+PAGO 
+DE 
+COMPENSACIONES QUE INDICA. 
+ 
+VISTOS:  
+ 
+ Lo dispuesto en la Ley N°18.410, Orgánica de la 
+Superintendencia de Electricidad y Combustibles; en la Ley N° 19.880, sobre Bases de los 
+Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del 
+Estado; en el D.F.L. Nº4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, 
+(en adelante Ley Eléctrica o LGSE); en el D.S. Nº327, de 1997, del Ministerio de Minería, 
+Reglamento de la Ley Eléctrica (en adelante el Reglamento Eléctrico); en el D.S. Nº31, de 2017, del 
+Ministerio de Energía, que Aprueba reglamento para la determinación y pago de las 
+compensaciones por indisponibilidad de suministro eléctrico (en adelante Reglamento de 
+Compensaciones); en la Norma Técnica de Indisponibilidad de Suministro y Compensaciones, de 
+2020, de la CNE (en adelante NTISyC); lo establecido en las Resolución N°36, de 2024, de la 
+Contraloría General de la República, sobre trámite de toma de razón, y 
+ 
+ 
+CONSIDERANDO: 
+ 
+1°. Que el Título 3-2 de la norma NTISyC señala los 
+estándares de indisponibilidad de suministro por eventos, fallas o desconexiones programadas. Por 
+su parte, el numeral 11, del artículo 3°, de la Ley 18.410, señala que le corresponde a la 
+Superintendencia de Electricidad y Combustibles, en adelante la Superintendencia, revisar los 
+antecedentes asociados a un evento que provoque indisponibilidad de suministro, a fin de 
+determinar si los hechos configuran un caso de fuerza mayor. Así también, los artículos 14°, 16° y 
+17° del Reglamento de Compensaciones señalan que la Superintendencia determinará si procede 
+o no el pago de compensaciones, debiendo indicar los límites máximos a compensar por cada 
+empresa responsable; que en caso de que proceda el pago de compensaciones, deberá instruir a 
+las empresas suministradoras de los usuarios finales afectados, su pago en la facturación más 
+próxima, o en aquella que determine; y que, efectuado el pago, las empresas suministradoras dentro 
+del plazo de 15 días hábiles deberán acreditar dicha situación ante esta Superintendencia.  
+ 
+2°. Que, mediante carta DE 04579-26 del 07.07.2026, 
+ingreso SEC N° 405025, el Coordinador Eléctrico Nacional ha informado a esta Superintendencia 
+que los eventos se excedieran los estándares de indisponibilidad establecidos en el Título 3-2, de 
+la norma NTISyC de acuerdo con lo que se señala en la Tabla 1. 
+ 
+Tabla 1. Punto de control y sus estándares  
+Punto de Control 
+Sist. Tx Origen Evento 
+Redundancia Estándar T. [h] 
+Estándar Frec 
+BA S/E POTRERILLOS 110KV BP1/ CODELCO 
+CHILE - DIVISIÓN EL SALVADOR 
+Dedicado 
+SI 
+2 
+2 
+ 
+3°. Que, según carta del CEN, los coordinados 
+afectados y sus respectivos suministradores, son las empresas señaladas en la Tabla 2. 
+ 
+Tabla 2. Datos de los coordinados afectados y sus respectivos suministradores 
+Clientes Afectados 
+Rut 
+Afectado 
+Suministrador 
+Porcentaje 
+suministro 
+CODELCO CHILE - DIVISIÓN EL SALVADOR 
+61704000-k 
+COLBÚN S.A. 
+100,00% 
+ 
+4°. Que, de acuerdo con la carta del CEN, los eventos 
+señalados en la Tabla 3 han contribuido a superar los estándares del punto de control señalado en 
+Tabla 1 de esta resolución, durante el periodo de control en análisis. 
+ 
+Tabla 3. Eventos que contribuyeron a superar los estándares durante periodo de control 
+Evento 
+Fecha 
+Evento 
+Eint del 
+evento 
+[MWh] 
+Instalación donde se produce evento 
+Propietaria u operadora de la instalación 
+EAF 240-2021 
+24-08-2021 
+44,56 
+DIEGO DE ALMAGRO - TAP PV 
+SALVADOR 110KV C1 
+CODELCO CHILE - DIVISIÓN EL 
+SALVADOR 
+EAF 241-2021 
+24-08-2021 
+17,82 
+LLANTA - SALVADOR 110KV C1 
+CODELCO CHILE - DIVISIÓN EL 
+SALVADOR 
+RESOLUCION EXENTA ELECTRONICA N° 41737
+Santiago, 02 de Septiembre de 2026
+V°B° ALS/JNS/MAL/MCP/NMM
+https://wlhttp.sec.cl/timesM/global/imgPDF.jsp?pa=4329992&pd=5194371&pc=2500801
+Caso:2500801 Acción:4329992 Documento:5194371
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 2 de 3 
+ 
+Evento 
+Fecha 
+Evento 
+Eint del 
+evento 
+[MWh] 
+Instalación donde se produce evento 
+Propietaria u operadora de la instalación 
+EAF 286-2021 
+28-09-2021 
+59,66 
+LLANTA - SALVADOR 110KV C2 
+CODELCO CHILE - DIVISIÓN EL 
+SALVADOR 
+EAF 013-2022 
+14-01-2022 
+5,99 
+S/E POTRERILLOS H3 
+CODELCO CHILE - DIVISIÓN EL 
+SALVADOR 
+EAF 039-2022 
+05-02-2022 
+14,74 
+LLANTA - POTRERILLOS 110KV C2 
+CODELCO CHILE - DIVISIÓN EL 
+SALVADOR 
+ 
+5°. Que, esta Superintendencia ha determinado que 
+los eventos señalados en la Tabla 3, sean calificados como interrupciones de suministro eléctrico 
+no autorizados, de responsabilidad de la empresa propietaria u operadora de la instalación 
+donde ocurre el evento, debido a que las causales de estas no reúnen copulativamente, los 
+requisitos señalados en el considerando 4°, de la Res. Ex. SEC N°30988, de fecha 14.11.2019, para 
+calificarla como caso fortuito o fuerza mayor. 
+ 
+6°.  Que, utilizando los datos informados en la carta del 
+CEN y siguiendo la metodología señalada en el Título 3-4, de la norma NTISyC, se obtuvo el valor 
+de la ENS a compensar asignada a cada empresa responsable de los diferentes eventos señalados 
+en la Tabla 3. Dicho resultado se muestra en la Tabla 4. Cabe señalar que, a partir de esta tabla, 
+solo se mostrarán los clientes afectados que presenten efectivamente una ENS por la cual deban 
+recibir compensación, excluyéndose aquellos casos con ENS igual a cero. 
+ 
+Tabla 4. Cálculo de ENS asignada a cada responsable, por cada evento, por cada afectado 
+ 
+Empresa Responsable 
+Clientes Afectados 
+ENS asignada a 
+empresa [MWh] 
+CODELCO CHILE - DIVISIÓN EL SALVADOR 
+CODELCO CHILE - DIVISIÓN EL SALVADOR 
+98,21 
+ 
+7°. Que, en consideración a que los eventos 
+analizados ocurrieron en instalaciones eléctricas que no están destinadas a prestar el servicio 
+público de distribución, provocaron indisponibilidad de suministro a usuarios finales, no se 
+encuentran autorizados en conformidad a la Ley y los reglamentos y se encuentran fuera de los 
+estándares señalados en la norma NTISyC; en virtud de lo señalado en el artículo 72°-20 de la 
+LGSE, en los artículos 3° y 16° del Reglamento de Compensaciones y en el artículo 4-15 de la 
+NTISyC, esta Superintendencia procederá a instruir el pago de compensaciones. 
+ 
+8°. Que, en virtud de lo señalado en el Reglamento de 
+Compensaciones, en la Tabla 5, se indican los datos para el cálculo del monto de compensaciones. 
+Cabe señalar que la tasa de cambio del dólar utilizado es el observado el día que ocurrió el evento 
+o del último día hábil bancario anterior a la fecha del evento, si es que el evento ocurrió en un día 
+no hábil. 
+ 
+Tabla 5. Datos para el cálculo del monto de compensaciones a clientes libres y regulados respectivamente. 
+Evento 
+Fecha 
+Evento 
+Tasa de 
+Cambio 
+ [$/UD$] 
+Decreto 
+PNCP 
+Fecha pub 
+decreto 
+Res ITD 
+PNCP 
+Fecha 
+resolución 
+CEPMM  
+[US$/MWh] 
+EAF 240-2021 
+24-08-2021 
+783,3 
+3T 
+22-03-2021 
+35 
+01-02-2021 
+83,484 
+EAF 241-2021 
+24-08-2021 
+783,3 
+3T 
+22-03-2021 
+35 
+01-02-2021 
+83,484 
+EAF 286-2021 
+28-09-2021 
+795,48 
+3T 
+22-03-2021 
+35 
+01-02-2021 
+83,484 
+EAF 013-2022 
+14-01-2022 
+821,87 
+9T 
+26-02-2022 
+19 
+10-01-2022 
+82,428 
+EAF 039-2022 
+05-02-2022 
+817,29 
+9T 
+26-02-2022 
+19 
+10-01-2022 
+82,428 
+ 
+9°. Que, aplicando lo señalado en el artículo segundo 
+transitorio, del Reglamento de Compensaciones, la ENS asignadas de la tabla 4, y los datos 
+señalados en la tabla 5, se procedió a calcular los montos que deben compensar cada una de las 
+empresas responsables de los eventos que contribuyeron a superar los estándares de 
+indisponibilidad de suministro durante el periodo de control en análisis. Dichos resultados son 
+mostrados en la Tabla 6.  
+ 
+Tabla 6.  Monto que debe compensar cada empresa responsable al respectivo afectado por cada evento 
+Empresa Responsable 
+Clientes Afectados 
+ Compensación [$]  
+CODELCO CHILE - DIVISIÓN EL SALVADOR 
+CODELCO CHILE - DIVISIÓN EL SALVADOR 
+              65.261.067  
+ 
+RESOLUCION EXENTA ELECTRONICA N° 41737
+Santiago, 02 de Septiembre de 2026
+V°B° ALS/JNS/MAL/MCP/NMM
+https://wlhttp.sec.cl/timesM/global/imgPDF.jsp?pa=4329992&pd=5194371&pc=2500801
+Caso:2500801 Acción:4329992 Documento:5194371
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 3 de 3 
+ 
+RESUELVO: 
+ 
+ 
+ 
+ 
+1º Que, en consideración que la empresa propietaria de 
+las instalaciones donde se produce la falla corresponde también al cliente libre afectado no se 
+procederá con las instrucciones de pagos y procedimientos estipulados en los artículos 16, 17 y 20 
+del Reglamento de Compensaciones.  
+ 
+ 
+ 2º Que, de acuerdo con lo establecido en los artículos 
+18ºA y 19º de la ley N° 18.410, esta Resolución podrá ser impugnada interponiendo dentro de 5 
+días hábiles un recurso de reposición ante esta Superintendencia y/o de reclamación, dentro de 
+diez días hábiles ante la Corte de Apelaciones que corresponda. La interposición del recurso de 
+reposición se podrá realizar en las oficinas de la Superintendencia o a través de Oficina de Partes 
+Virtual. En ambos casos, la presentación del recurso suspenderá el plazo de 10 días para reclamar 
+de ilegalidad ante los tribunales de justicia.  
+ 
+ 
+ 3º Que, de presentarse información ésta deberá ser 
+proporcionada por escrito ante esta Superintendencia, acompañando todos los antecedentes que 
+sean pertinentes. Toda la información entregada deberá indicar como referencia: Caso TIMES N° 
+2500801. 
+ 
+ANÓTESE, NOTIFÍQUESE Y ARCHÍVESE 
+ 
+ 
+ 
+ 
+MARTA CABEZA VARGAS 
+Superintendenta de Electricidad y Combustibles  
+RESOLUCION EXENTA ELECTRONICA N° 41737
+Santiago, 02 de Septiembre de 2026
+V°B° ALS/JNS/MAL/MCP/NMM
+https://wlhttp.sec.cl/timesM/global/imgPDF.jsp?pa=4329992&pd=5194371&pc=2500801
+Caso:2500801 Acción:4329992 Documento:5194371
+           Firmado digitalmente por
+Marta Cabeza Vargas

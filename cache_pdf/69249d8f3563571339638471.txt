@@ -1,0 +1,54 @@
+ 
+Santiago, 21 de noviembre de 2025 
+PE2525 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a Observaciones al Informe Técnico de Verificación de SS.CC. de Control 
+Terciario de Frecuencia – Central PFV El Pelícano 
+De nuestra consideración, 
+ 
+En atención a la carta DE 07412-25 y conforme a lo dispuesto en el Artículo 9 del Anexo 
+Técnico de Verificación de Instalaciones para la prestación de SS.CC., informamos que 
+hemos incorporado las observaciones indicadas por el Coordinador en la versión modificada 
+del informe. 
+ 
+En particular, se han realizado los siguientes ajustes al informe: 
+ 
+ Se incorpora en el capítulo 3 la metodología para estimar el MT Neto a partir de 
+registros de operación real y modelos disponibles en las bases de datos del 
+Coordinador. 
+ En la sección 4.4 se precisa el criterio de tiempo de sincronización según lo 
+solicitado. 
+ Adicionalmente, se han anexado las tablas requeridas y se adjunta el documento de 
+observaciones del Coordinador, en el que se responde cada punto como 
+comentario. 
+ 
+Las nuevas versiones del informe han sido remitidas en cumplimiento de los plazos 
+establecidos. Para cualquier consulta adicional respecto de las observaciones o el contenido 
+del informe, quedamos atentos a sus comentarios o requerimientos. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+______________________________________ 
+Benjamín Rivadeneira 
+Encargado Titular 
+El Pelícano Solar 
+ 
+ 
+
+ 
+Anexos:  
+ 
+ 2507 - El Pelicano (Verificación SSCC CTF 3) 
+ DCO-SSCC-CTF-PFV El Pelicano 
+ registros_pelicano_15min 
+ PE2512 Respuesta a solicitud DE 03999-25 – Restricción Operativa de Central PFV 
+El Pelícano 
+ Informe Técnico PPyD Central FV El Pelícano_Rev2. 
+ Confirmación de modificación de rampas – Pelícano Solar 
+ 10.3_Tabla_resultados_CTF 

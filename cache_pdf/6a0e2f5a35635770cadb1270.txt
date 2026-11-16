@@ -1,0 +1,726 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+Santiago, 20 de mayo de 2026 
+DE 03429-26 
+ 
+ 
+Señores 
+Encargados Empresas Coordinadas 
+(Según lista de distribución) 
+Presente 
+Ref.: Proceso de Verificación del Servicio 
+Complementario (SC) de Control Secundario 
+de Frecuencia (CSF-AGC) e incorporación a la 
+herramienta de despacho económico (ED). 
+[1] Carta DE01036-25, Ref.: “Actualización del 
+Cronograma de verificación de Servicios 
+Complementarios (SSCC) en instalaciones 
+existentes de Generación y Almacenamiento”, 
+de fecha 18 de febrero de 2025. 
+[2] Carta DE01003-26, Ref.: “Comunica atraso 
+en el proceso de Verificación de Instalaciones 
+de Generación para la Prestación de Servicios 
+Complementarios de acuerdo con Cronograma 
+Vigente”, de fecha 11 de febrero de 2026. 
+[3] Carta DE01004-26, Ref.: “Proceso de 
+Verificación de Instalaciones de Generación 
+para 
+la 
+Prestación 
+de 
+Servicios 
+Complementarios próximos a 
+vencer de 
+acuerdo con Cronograma Vigente”, de fecha 11 
+de febrero de 2026. 
+ 
+ 
+De mi consideración:  
+ 
+Me refiero a la exigencia establecida en la NTSyCS para las instalaciones de 
+generación, particularmente, al Artículo 3-6, literales f) e i), relacionados con la 
+obligación de disponer en dichas instalaciones del control y entradas para efectos 
+de recibir una consigna de potencia activa, expresada en MW, desde el Control 
+Automático de Generación (AGC), para efectos de modificar su generación de 
+potencia activa, habilitándolas para participar en el servicio complementario de CSF.  
+ 
+Cabe destacar que, de acuerdo con lo establecido en el artículo 4-2 de la NTSSC, 
+toda instalación interconectada al SEN destinada a la prestación de SSCC deberá 
+someterse a la verificación de los recursos técnicos asociados a dicha 
+infraestructura, de acuerdo con el modo que lo efectúe el Coordinador, con 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+independencia del mecanismo de materialización, estando sus instalaciones 
+identificadas como potenciales prestadores del SC de CSF, en conformidad al 
+cronograma de verificación de instalaciones de generación 2024-2028, comunicado 
+mediante carta de la Ref. [1] y en conformidad a los Anexos del Informe de SSCC 
+2026. 
+ 
+Al respecto, y conforme al cronograma antes citado, en anexo a la presente 
+comunicación se describen las unidades que deben ser integradas durante el 
+presente año, individualizando aquellas que se encuentran en incumplimiento 
+respecto de las instrucciones emitidas por este Coordinador por plazo de integración 
+vencido.  
+ 
+Cabe destacar que el Coordinador ha estado haciendo seguimiento de la 
+verificación de SSCC de instalaciones de generación y almacenamiento, 
+identificando las instalaciones atrasadas y aquellas con plazo próximo a vencer -
+respecto del cronograma comunicado en carta de la Ref. [1]- siendo las últimas 
+comunicaciones emitidas las cartas de las Ref. [2] y [3]. En estas cartas se ha 
+solicitado a los coordinados justificar la razón de su retraso, así como el envío de 
+un plan de trabajo para subsanar el retraso en la verificación de los SSCC de la 
+instalación, e informando las etapas que deben cumplirse para integrar una 
+instalación de generación al AGC y al Despacho Económico del SCADA del 
+Coordinador. 
+ 
+En efecto, y como es de su conocimiento, con el objetivo de impulsar la 
+automatización de las instrucciones de Despacho Económico (ED) -que emite el 
+Centro de Despacho y Control-, aprovechando la instancia de implementación y 
+verificación de la señal asociada al servicio de CSF, este Coordinador ha impulsado 
+y logrado a la fecha -junto con los Coordinados- integrar al AGC/ED 115 unidades. 
+ 
+Cabe destacar que, como fuera comunicado por el Coordinador, el enlace bajo el 
+cual una unidad se verifica para entregar el servicio de CSF vía AGC, puede ser 
+utilizado -sin tener que integrar un nuevo enlace- para emitir las consignas de 
+Despacho Económico (ED), esto a través del mismo módulo AGC, solución eficiente 
+y que cumple con los estándares requeridos, que ha sido implementada por los 
+Coordinados que han integrado sus unidades al ED a la fecha. 
+ 
+Conforme con esto, y acorde con las metas de automatización planteadas por el 
+Coordinador, informo a Ud. que, con el objetivo de emitir ajustes de generación a 
+unidades de igual costo variables (Prorratas) se prevé poner en marcha blanca el 
+módulo ED a fines del 2026. Conforme con esto, durante el presente año el 
+Coordinador priorizará la incorporación al AGC/ED de su SCADA las unidades cuya 
+potencia sea igual o superior a 50 MW, las que también se encuentran descritas en 
+Anexo 1 de la presente comunicación. Esto sin perjuicio de permitir durante el 
+presente año integrar unidades de menor capacidad a aquellos Coordinados que lo 
+requieran. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+ 
+Al respecto, resulta relevante comunicar a Ud. que el módulo ED se pondrá en 
+marcha blanca a fines del 2026 -con el objetivo antes indicado- con aquellas 
+unidades que a esa fecha se encuentren integradas al AGC/ED. Esto implica que el 
+Coordinador deberá aplicar un criterio diferenciado de prioridad de colocación, 
+instruyendo consignas preventivas (límites operativos de seguridad) -debido a la 
+gestión manual de instrucciones- a aquellas centrales que no se encuentren 
+incorporadas al AGC, las que podrían verse afectadas con una menor colocación. 
+ 
+Considerando lo expuesto, y con el objetivo de gestionar y actualizar el cronograma 
+de trabajo previsto, y a la vez permitir la regularización de los incumplimientos antes 
+descritos, solicito a Ud. gestionar con su representada el envío, a más tardar el 29 
+de mayo del presente, de lo siguiente: 
+ 
+a. Informe con estado de implementación de enlaces y señales requeridas y su 
+correspondiente integración al SITR/AGC del Coordinador, considerando al 
+menos el avance en la ejecución de las siguientes etapas: 
+i. 
+Enlaces no implementados.  
+ii. 
+Enlaces implementados en instalaciones de su representada. 
+iii. 
+Pruebas punto a punto ejecutadas sobre los enlaces implementados, 
+verificando su integración al SITR con el Coordinador -gestionada con 
+el Departamento SCADA- y correspondiente recepción de señales. 
+iv. 
+Pruebas funcionales de integración al Despacho Económico vía AGC, 
+programadas con el Coordinador, conforme a los informado en Anexo 
+2 de la comunicación de la Ref. [2], gestionadas con el Departamento 
+de Modelación y Aplicaciones EMS. 
+ 
+b. Cronograma con hitos y plazos específicos en que ejecutará cada etapa 
+listada en literal a) anterior, considerando como plazo máximo para el término 
+de la implementación el mes de noviembre de 2026. 
+ 
+Hago presente a Ud. que, para los casos que se encuentran con plazos vencidos, 
+dicho cronograma requerido se solicita únicamente para efectos de conocer las 
+medidas adoptadas o en curso para corregir el incumplimiento, y no implica la 
+concesión de un nuevo plazo para la verificación e integración instruida.  
+ 
+En caso de cualquier consulta, éstas pueden ser dirigidas a la dirección de correo 
+DMAP@coordinador.cl 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+ 
+Finalmente, comunico a Ud. que, de no recibir respuesta a la presente 
+comunicación, el Coordinador adoptará las medidas que estime pertinente, 
+incluyendo la eventual notificación de los incumplimientos descritos, y aquellos que 
+se generen, a la Superintendencia de Electricidad y Combustibles (SEC). 
+ 
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                      
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+Lista de distribución: 
+1. 
+Aela Generación S.A. 
+2. 
+Amanecer Solar SpA 
+3. 
+Andes Solar II SpA. 
+4. 
+Arcadia Generación Solar S.A. 
+5. 
+AustrianSolar Chile Cuatro SpA. 
+6. 
+Bolero SpA. 
+7. 
+Central Colmito S.A. 
+8. 
+Cerro Dominador CSP S.A. 
+9. 
+Chungungo S.A. 
+10. Colbún S.A. 
+11. Copec Renovable SpA. 
+12. Cóndor Energía SpA. 
+13. El Pelícano Solar Company SpA. 
+14. Enel Generación Chile S.A. 
+15. Enel Green Power Chile S.A. 
+16. Energía Eólica Los Olmos SpA. 
+17. Energía Eólica Mesamávida SpA. 
+18. Engie Energía Chile S.A. 
+19. Fotovoltaica Norte Grande 5 SpA. 
+20. Generación Solar SpA. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+21. Huemul Energía SpA. 
+22. Opdenergy Generación SpA. 
+23. Parque Eólico Atacama SpA. 
+24. Parque Eólico El Arrayán SpA. 
+25. Parque Solar Fotovoltaico Sol Del Desierto SpA. 
+26. Río Alto SpA. 
+27. Santiago Solar S.A. 
+28. Solar Elena SpA. 
+29. Sonnedix Cox Energy Chile SpA. 
+30. TSGF SpA. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+ANEXO 1: Listado de unidades a verificar en CSF según cronograma. 
+ 
+N° 
+Coordinado 
+Unidad 
+Fecha 
+cronograma de 
+verificación 
+Estado respecto del 
+cronograma de 
+verificación (vencido/en 
+plazo) 
+Fecha comprometida en 
+respuesta a cartas DE01003-26 
+y DE01004-26 / insistencia por 
+correo 
+1 
+AELA GENERACIÓN S.A. 
+PE AURORA (U1-U43) 
+dic-24 
+Vencido 
+oct-26 
+2 
+AELA GENERACIÓN S.A. 
+PE SARCO (U1-U50) 
+dic-24 
+Vencido 
+oct-26 
+3 
+AELA GENERACIÓN S.A. 
+PFV SALVADOR 
+dic-24 
+Vencido 
+may-26 (5) 
+4 
+ANDES SOLAR II SPA 
+PFV ANDES SOLAR II 
+mar-25 
+Vencido 
+may-26 (5) 
+5 
+ARCADIA GENERACION 
+SOLAR S.A. 
+PFV CARRERA 
+PINTO 
+may-25 
+Vencido 
+jun-26 
+6 
+ARCADIA GENERACION 
+SOLAR S.A. 
+PFV DOMEYKO 
+ago-25 
+Vencido 
+may-26 (5) 
+7 
+ARCADIA GENERACION 
+SOLAR S.A. 
+PFV PAMPA SOLAR 
+NORTE 
+oct-25 
+Vencido 
+jun-26 
+8 
+AUSTRIANSOLAR CHILE 
+CUATRO SPA 
+PFV HUATACONDO 
+jun-25 
+Vencido 
+Sin respuesta (2) 
+9 
+BOLERO SPA 
+PFV BOLERO 
+jul-25 
+Vencido 
+may-26 (5) 
+10 
+CENTRAL COLMITO S.A. 
+TER COLMITO U1 
+mar-26 
+Vencido 
+Sin fecha (3) 
+11 
+CERRO DOMINADOR CSP 
+S.A. 
+CSP CERRO 
+DOMINADOR 
+ene-25 
+Vencido 
+Sin fecha (4) 
+12 
+CERRO DOMINADOR CSP 
+S.A. 
+PFV CERRO 
+DOMINADOR (1) 
+ago-26 
+En plazo 
+ago-26 
+13 
+CHUNGUNGO S.A. 
+PFV QUILAPILUN 
+dic-25 
+Vencido 
+jul-26 
+14 
+COLBÚN S.A. 
+PFV DIEGO DE 
+ALMAGRO SUR (1) 
+dic-26 
+En plazo 
+dic-26 
+15 
+COLBÚN S.A. 
+TER NEHUENCO 9B 
+U1 
+jun-26 
+En plazo 
+jun-26 
+16 
+COLBÚN S.A. 
+TER SANTA MARIA 
+U1 (1) 
+dic-26 
+En plazo 
+dic-26 
+17 
+CÓNDOR ENERGÍA SPA 
+PE ALENA (U1-U18) 
+may-25 
+Vencido 
+sept-26 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+N° 
+Coordinado 
+Unidad 
+Fecha 
+cronograma de 
+verificación 
+Estado respecto del 
+cronograma de 
+verificación (vencido/en 
+plazo) 
+Fecha comprometida en 
+respuesta a cartas DE01003-26 
+y DE01004-26 / insistencia por 
+correo 
+18 
+CÓNDOR ENERGÍA SPA 
+PFV RIO ESCONDIDO 
+jun-25 
+Vencido 
+oct-26 
+19 
+COPEC RENOVABLE SPA 
+PFV GRANJA SOLAR 
+jul-25 
+Vencido 
+Sin fecha (3) 
+20 
+EL PELÍCANO SOLAR 
+COMPANY SPA 
+PFV EL PELICANO 
+jul-25 
+Vencido 
+Sin respuesta (2) 
+21 
+ENEL GENERACIÓN CHILE 
+S.A. 
+HE ANTUCO U1 
+abr-25 
+Vencido 
+jul-27 
+22 
+ENEL GENERACIÓN CHILE 
+S.A. 
+HE ANTUCO U2 
+abr-25 
+Vencido 
+jul-27 
+23 
+ENEL GENERACIÓN CHILE 
+S.A. 
+HE PANGUE U1 
+abr-25 
+Vencido 
+Sin respuesta (2) 
+24 
+ENEL GENERACIÓN CHILE 
+S.A. 
+HE PANGUE U2 
+abr-25 
+Vencido 
+Sin respuesta (2) 
+25 
+ENEL GENERACIÓN CHILE 
+S.A. 
+PE CANELA II (U1-
+U40) 
+may-26 
+Vencido 
+Sin fecha (3) 
+26 ENEL GREEN POWER CHILE 
+S.A. 
+PE LA CABAÑA 
+feb-26 
+Vencido 
+jul-26 
+27 ENEL GREEN POWER CHILE 
+S.A. 
+PE RENAICO I (U1-
+U44) 
+dic-25 
+Vencido 
+jul-26 
+28 ENEL GREEN POWER CHILE 
+S.A. 
+PE RENAICO II (U45-
+U76) 
+dic-25 
+Vencido 
+jul-26 
+29 ENEL GREEN POWER CHILE 
+S.A. 
+PE SIERRA GORDA 
+ESTE (U1-U56) 
+ene-26 
+Vencido 
+jul-26 
+30 ENEL GREEN POWER CHILE 
+S.A. 
+PE TALTAL (U1-U33) 
+nov-25 
+Vencido 
+jul-26 
+31 ENEL GREEN POWER CHILE 
+S.A. 
+PE VALLE DE LOS 
+VIENTOS (U1-U45) 
+ene-26 
+Vencido 
+Sin fecha (3) 
+32 
+ENEL GENERACIÓN CHILE 
+S.A. 
+PFV AZABACHE 
+dic-25 
+Vencido 
+jul-26 
+33 ENEL GREEN POWER CHILE 
+S.A. 
+PFV CAMPOS DEL 
+SOL 
+feb-26 
+Vencido 
+jul-26 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+N° 
+Coordinado 
+Unidad 
+Fecha 
+cronograma de 
+verificación 
+Estado respecto del 
+cronograma de 
+verificación (vencido/en 
+plazo) 
+Fecha comprometida en 
+respuesta a cartas DE01003-26 
+y DE01004-26 / insistencia por 
+correo 
+34 ENEL GREEN POWER CHILE 
+S.A. 
+PFV FINIS TERRAE 
+abr-26 
+Vencido 
+jul-26 
+35 ENEL GREEN POWER CHILE 
+S.A. 
+PFV GUANCHOI 
+ene-26 
+Vencido 
+dic-26 
+36 ENEL GREEN POWER CHILE 
+S.A. 
+PFV LALACKAMA 
+abr-26 
+Vencido 
+jul-26 
+37 ENEL GREEN POWER CHILE 
+S.A. 
+PFV LAS SALINAS 
+feb-26 
+Vencido 
+jul-26 
+38 ENEL GREEN POWER CHILE 
+S.A. 
+PFV MANZANO 
+feb-26 
+Vencido 
+jul-26 
+39 ENEL GREEN POWER CHILE 
+S.A. 
+PFV SOL DE LILA 
+nov-25 
+Vencido 
+dic-26 
+40 ENEL GREEN POWER CHILE 
+S.A. 
+PFV VALLE DEL SOL 
+nov-25 
+Vencido 
+dic-26 
+41 
+ENERGÍA EÓLICA LOS 
+OLMOS SPA 
+PE LOS OLMOS (U1-
+U23) 
+abr-25 
+Vencido 
+jun-26 
+42 
+ENERGIA EÓLICA 
+MESAMAVIDA SPA 
+PE MESAMAVIDA 
+(U1-U12) 
+abr-25 
+Vencido 
+jul-26 
+43 
+ENGIE ENERGÍA CHILE S.A. 
+PE CALAMA (U1-U36) 
+dic-25 
+Vencido 
+jun-26 
+44 
+ENGIE ENERGÍA CHILE S.A. 
+PFV COYA 
+sept-25 
+Vencido 
+may-26 
+45 
+ENGIE ENERGÍA CHILE S.A. 
+PFV TAMAYA SOLAR 
+mar-25 
+Vencido 
+sept-26 
+46 
+FOTOVOLTAICA NORTE 
+GRANDE 5 SPA 
+PFV LA CRUZ SOLAR 
+ene-25 
+Vencido 
+Sin fecha (3) 
+47 
+FOTOVOLTAICA NORTE 
+GRANDE 5 SPA 
+PFV URIBE SOLAR 
+mar-25 
+Vencido 
+feb-27 
+48 
+GENERACIÓN SOLAR SPA 
+PFV MARIA ELENA 
+nov-25 
+Vencido 
+Sin respuesta (2) 
+49 
+HUEMUL ENERGÍA SPA 
+PE PUELCHE SUR 
+(U1-U32) 
+nov-25 
+Vencido 
+dic-26 
+50 
+HUEMUL ENERGÍA SPA 
+PFV PAMPA TIGRE 
+jul-25 
+Vencido 
+ene-27 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+N° 
+Coordinado 
+Unidad 
+Fecha 
+cronograma de 
+verificación 
+Estado respecto del 
+cronograma de 
+verificación (vencido/en 
+plazo) 
+Fecha comprometida en 
+respuesta a cartas DE01003-26 
+y DE01004-26 / insistencia por 
+correo 
+51 
+HUEMUL ENERGÍA SPA 
+PFV VALLE 
+ESCONDIDO 
+nov-25 
+Vencido 
+ene-27 
+52 
+OPDENERGY GENERACIÓN 
+SPA 
+PFV SOL DE LOS 
+ANDES (U1-U20) 
+oct-25 
+Vencido 
+may-26 (5) 
+53 
+PARQUE EÓLICO ATACAMA 
+SPA 
+PE ATACAMA (U1-
+U27) 
+may-25 
+Vencido 
+Sin respuesta (2) 
+54 
+PARQUE EÓLICO EL 
+ARRAYÁN SPA 
+PE EL ARRAYAN (U1-
+U50) 
+ene-25 
+Vencido 
+abr-26 (5) 
+55 
+PARQUE SOLAR 
+FOTOVOLTAICO SOL DEL 
+DESIERTO SPA 
+PFV SOL DEL 
+DESIERTO 
+dic-24 
+Vencido 
+abr-26 (5) 
+56 
+RÍO ALTO SPA 
+PE SAN PEDRO II 
+(U1-U13) 
+nov-25 
+Vencido 
+jun-26 
+57 
+AMANECER SOLAR SPA 
+PFV LLANO DE 
+LLAMPOS 
+dic-25 
+Vencido 
+Sin fecha (3) 
+58 
+SANTIAGO SOLAR S.A. 
+PFV SANTIAGO 
+SOLAR 
+feb-25 
+Vencido 
+abr-26 (5) 
+59 
+SOLAR ELENA SPA 
+PFV ELENA (U1-U3) 
+abr-25 
+Vencido 
+Sin fecha (3) 
+60 
+SONNEDIX COX ENERGY 
+CHILE SPA 
+PFV MESETA DE LOS 
+ANDES 
+jul-25 
+Vencido 
+jun-26 
+61 
+TSGF SPA 
+PFV SANTA ISABEL 
+ene-25 
+Vencido 
+jul-26 
+(1) Fecha comprometida en las cartas DE01003-26 y DE01004-26. 
+(2) Sin respuesta: el Coordinado no respondió las consultas relacionadas con el SC de CSF. 
+(3) Sin fecha: A la fecha, no se dispone de una actualización respecto al avance del proceso de verificación ni de una nueva fecha comprometida 
+por parte del Coordinado. 
+(4) La instalación estuvo fuera de operación durante 3 años. Se debe retomar el proceso de verificación de SSCC. 
+(5) El Coordinado comprometió fechas para marzo, abril y mayo de 2026, sin embargo, no ha cumplido con el compromiso de verificación. 
+ 

@@ -1,0 +1,70 @@
+ 
+Santiago, 11 de julio de 2025 
+PE2512 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operaciones 
+Coordinador Eléctrico Nacional 
+Santiago 
+ 
+Ref.: Respuesta a solicitud DE 03999-25 – Restricción Operativa de Central PFV El 
+Pelícano 
+ 
+De nuestra consideración, 
+ 
+En atención a su solicitud referida a la restricción operativa de la Central PFV El Pelícano 
+(Informe N° 2025000946 ingresado en plataforma Neomante con fecha 03 de mayo de 
+2025), informamos lo siguiente: 
+ 
+1. Aclaración respecto al comportamiento de los inversores 
+ 
+Lamentamos la confusión generada por la redacción contenida en la instrucción del 
+sistema Neomante, donde se señaló que los inversores realizan un “reinicio diario 
+programado previo al inicio de la generación”. Lo correcto es indicar que los equipos 
+efectúan un proceso de sincronismo previo, durante el cual verifican las condiciones 
+eléctricas del sistema (tensión y frecuencia) antes de iniciar la inyección de energía. 
+ 
+Este comportamiento corresponde al diseño estándar de los inversores y se encuentra 
+descrito en el Informe de Partida y Detención del año 2018, previamente entregado al 
+Coordinador. 
+ 
+2. Informe técnico de respaldo 
+ 
+El informe técnico que respalda esta operación corresponde al documento presentado 
+como parámetros de partida y detención de la planta con fecha 2018, elaborado por 
+nuestro equipo técnico y entregado oportunamente al Coordinador. En él se detalla la 
+lógica de operación de los inversores, incluyendo su comportamiento al inicio de cada 
+jornada. 
+ 
+
+ 
+En términos generales, este proceso de sincronismo ocurre antes del amanecer, en el  
+momento en que los equipos detectan la presencia de tensión en la red y niveles 
+mínimos de irradiancia. El horario de inicio de este proceso varía según la época del año, 
+oscilando típicamente entre las 06:00 y 08:00 h. Durante este periodo, los inversores 
+realizan una verificación de las condiciones eléctricas del sistema, asegurando que los 
+parámetros se encuentren dentro de los rangos establecidos por el fabricante antes de 
+comenzar su operación. 
+ 
+Conforme a lo observado en terreno y la experiencia operativa, este proceso no debiese 
+extenderse por más de 40 minutos, tras lo cual los inversores comienzan la entrega de 
+energía activa y reactiva. 
+ 
+Esperamos que esta información permita aclarar adecuadamente la restricción operativa 
+informada y quedamos atentos ante cualquier requerimiento adicional o aclaración 
+necesaria. 
+ 
+Atentamente, 
+ 
+ 
+ 
+ 
+ 
+______________________________________ 
+Benjamín Rivadeneira 
+Encargado Suplente 
+El Pelícano Solar 
+ 
+ 
+ 
+Anexos: Informe Técnico PPyD Central FV El Pelícano_Rev2 

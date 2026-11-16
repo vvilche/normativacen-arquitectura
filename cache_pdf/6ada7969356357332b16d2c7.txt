@@ -1,0 +1,203 @@
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Santiago, 22 de octubre de 2026 
+EGP 140-26 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA 
+CARTA 
+DE06812-26: 
+INCUMPLIMIENTO 
+EN 
+LA 
+IMPLEMENTACIÓN DEL EDAG DE LA ZONA CENTRO SUR, DE ACUERDO CON 
+PLAZO INSTRUIDO Y COMPROMETIDO. 
+ 
+De nuestra consideración, 
+Por medio de la presente, y en respuesta a la carta DE06812-26, de fecha 15 de octubre 
+de 2026, mediante la cual el Coordinador Eléctrico Nacional solicita informar las razones 
+que han impedido completar dentro del plazo comprometido la integración de los parques 
+eólicos La Cabaña, Renaico I y Renaico II al Esquema de Desconexión Automática de 
+Generación, EDAG, de la Zona Centro-Sur, junto con los antecedentes que respalden dicha 
+situación, le informamos lo siguiente. 
+  
+1. Estado de implementación de las protecciones de sobrefrecuencia de los parques 
+eólicos. 
+De acuerdo con lo instruido en la comunicación del CEN, carta DE07914-25, las funciones 
+locales de protección de sobrefrecuencia requeridas para la incorporación de los tres 
+parques al EDAG de la Zona Centro-Sur se encuentran implementadas y habilitadas en 
+sus respectivos sistemas de protección, con los siguientes ajustes: 
+ 
+Instalación 
+Ajuste de sobrefrecuencia Temporización 
+Estado 
+PE Renaico II 
+51,4 Hz 
+Sin retardo 
+Implementado 
+PE La Cabaña 
+51,6 Hz 
+Sin retardo 
+Implementado 
+PE Renaico I 
+51,8 Hz 
+Sin retardo 
+Implementado 
+ 
+Los ajustes implementados y sus correspondientes registros de configuración o PrintOut 
+fueron informados previamente al Coordinador. En particular, los antecedentes de Renaico  
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+I fueron remitidos el 17 de agosto de 2026, los de La Cabaña el 21 de agosto de 2026 y los 
+de Renaico II el 24 de agosto de 2026, dejando acreditada la habilitación de las funciones 
+de sobrefrecuencia instruidas para los tres parques. 
+En consecuencia, la condición actualmente pendiente no corresponde a la 
+parametrización ni a la habilitación local de las funciones de sobrefrecuencia, sino a 
+la finalización de la infraestructura y configuración de comunicaciones necesarias para 
+transmitir la información requerida en tiempo real hacia la Celda Maestra ubicada en S/E 
+Charrúa y ejecutar posteriormente las pruebas de integración y verificación de extremo a 
+extremo. 
+ 
+2. Estado de las comunicaciones 
+A la fecha, se encuentra en proceso la habilitación de las redes y del enrutamiento requerido 
+para transportar las señales requeridas de los PE La Cabaña, PE Renaico I y PE Renaico 
+II hacia la Celda Maestra de S/E Charrúa. 
+Durante el desarrollo de los trabajos se verificó que no se dispone de servicios directos del 
+proveedor de telecomunicaciones utilizado para la VRF EDAG en el área donde se ubican 
+los parques. Esta condición obligó a diseñar e implementar una solución alternativa, 
+consistente en incorporar las señales de los parques a la red de Enel y, desde ella, efectuar 
+su enrutamiento hacia la infraestructura de telecomunicaciones asociada a la VRF EDAG y 
+a S/E Charrúa.  
+La solución, por lo tanto, requiere integrar las señales de los tres parques a través de la 
+infraestructura ubicada en las SSEE Renaico y Mulchén, para lo cual ha sido necesario 
+complementar la infraestructura de comunicaciones existente, incorporar tarjetas de 
+comunicación adicionales y realizar configuraciones y trabajos presenciales en terreno.  
+ 
+3. Razones del atraso respecto del plazo comprometido 
+El tiempo de atraso respecto de la fecha informada inicialmente, correspondiente al 30 de 
+septiembre de 2026, se produjo principalmente debido a las dificultades técnicas 
+identificadas durante la integración y el enrutamiento de las señales hacia la red del 
+proveedor de telecomunicaciones, según lo indicado en el punto anterior. 
+En particular, durante la ejecución se presentaron las siguientes condiciones: 
+1. Inexistencia de conectividad directa del proveedor en el sector de los parques. La 
+solución inicialmente considerada no podía materializarse directamente desde las 
+instalaciones, por lo que fue necesario desarrollar una arquitectura alternativa 
+utilizando la red de Enel como medio de transporte intermedio. 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+2. Necesidad de infraestructura adicional. La arquitectura alternativa requirió 
+incorporar hardware y tarjetas de comunicaciones adicionales en S/E Mulchén y 
+Radio Estación Mulchén, además de ejecutar intervenciones y configuraciones en 
+S/E Renaico. 
+3. Dificultades en la integración y propagación de la VRF EDAG. Los trabajos y 
+pruebas efectuados evidenciaron problemas para establecer la conectividad a 
+través de la red MPLS y propagar correctamente las VLAN asociadas al servicio. 
+Estas condiciones requirieron revisiones adicionales sobre equipos CPE, rutas de 
+transporte y equipos intermedios de la red. 
+4. Necesidad de coordinar intervenciones en infraestructura en servicio. Parte de las 
+actividades exige trabajos presenciales, permisos de acceso, coordinación con los 
+responsables de las redes y, cuando corresponda, solicitudes de intervención en 
+instalaciones que mantienen otros servicios activos. 
+5. Condiciones para el acceso a terreno. Algunas intervenciones programadas han 
+debido ser reprogramadas debido a condiciones climáticas que afectan el acceso 
+seguro 
+a 
+los 
+emplazamientos, 
+particularmente 
+a 
+la 
+infraestructura 
+de 
+comunicaciones asociada a S/E Mulchén. 
+Las dificultades señaladas no afectaron la implementación local de las protecciones de 
+sobrefrecuencia, que se encuentra concluida, sino que han incidido específicamente en la 
+habilitación del canal de comunicaciones y, consecuentemente, en la posibilidad de 
+completar la verificación integral con la Celda Maestra de S/E Charrúa. 
+ 
+4. Actividades pendientes 
+Para finalizar la incorporación de los PE La Cabaña, PE Renaico I y PE Renaico II al EDAG 
+de la Zona Centro-Sur se están desarrollando las siguientes actividades: 
+• 
+Complementación de la infraestructura de comunicaciones en S/E Mulchén y Radio 
+Estación Mulchén. 
+• 
+Instalación o habilitación del hardware y de las tarjetas de comunicación requeridas. 
+• 
+Configuraciones internas en S/E Renaico. 
+• 
+Integración de las señales de los tres parques a la red de Enel. 
+• 
+Enrutamiento de las señales hacia la VRF EDAG. 
+• 
+Validación de conectividad hasta la Celda Maestra de S/E Charrúa. 
+• 
+Pruebas de comunicación, señales y respuesta extremo a extremo. 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+A la fecha, la solución técnica ha sido definida, la infraestructura requerida ha sido 
+identificada y las actividades se encuentran incorporadas al plan de trabajo en ejecución.  
+ 
+ 
+Asimismo, no se identifican actualmente dependencias técnicas de terceros que no se 
+encuentren abordadas dentro del plan de implementación. 
+5. Cronograma actualizado 
+De acuerdo con la programación vigente, se considera el siguiente cronograma: 
+Actividad 
+Periodo programado 
+Trabajos en terreno y configuraciones en 
+las instalaciones 
+19 al 30 de octubre de 2026 
+Configuración 
+y 
+habilitación 
+del 
+networking interno 
+2 al 13 de noviembre de 2026 
+Validación integral de las comunicaciones 
+y coordinación de pruebas con la Celda 
+Maestra 
+A continuación de la habilitación del 
+networking, sujeto a coordinación con las 
+contrapartes involucradas 
+ 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación, le saluda 
+atentamente, 
+ 
+ 
+ 
+ 
+ 
+_________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN 
+ENEL GREEN POWER CHILE S.A. 

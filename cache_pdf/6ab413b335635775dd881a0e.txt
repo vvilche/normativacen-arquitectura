@@ -1,0 +1,61 @@
+Opdenergy Generación S.p.A. Los Militares 5953, Oficina 1803, Las Condes - Santiago 
+ 
+ 
+OPDE-CL-GR-0890 
+21 de septiembre de 2026 
+ 
+ 
+Sr. Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional (CEN) 
+Av. Parque Isidora Sur 1061, Pudahuel  
+ 
+Presente 
+ 
+Ref: Carta DE 05854-26, Solicita antecedentes técnicos de los relés con función de gradiente de 
+frecuencia (ROCOF) asociados a esquemas EDAC y EDAG. 
+ 
+De nuestra consideración, 
+ 
+Nos dirigimos a usted en atención a la carta citada en la referencia, a fin de informar que actualmente 
+nos encontramos desarrollando el proceso de implementación del proyecto. 
+ 
+A la fecha, los equipos se encuentran en fase de suministro, considerando los retrasos comunicados 
+por el fabricante SEL, empresa encargada de suministrar el equipamiento que será implementado en 
+el PFV Sol de Los Andes. Dichos retrasos fueron informados oportunamente mediante comunicaciones 
+anteriores y también han sido expuestos en las reuniones quincenales de seguimiento convocadas por 
+ese Coordinador. 
+ 
+Una vez realizadas satisfactoriamente las pruebas FAT, remitiremos formalmente toda la 
+documentación e información correspondiente a los antecedentes técnicos de los relés señalados. 
+ 
+Cabe señalar que nuestra representada mantiene su compromiso de adoptar todas las medidas 
+necesarias para cumplir con los plazos establecidos. En este sentido, informaremos oportunamente 
+cualquier novedad, una vez que dispongamos de una actualización respecto de las fechas de 
+suministro y recepción del equipamiento. 
+ 
+Agradecemos su comprensión y quedamos atentos a sus comentarios. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos Ortiz Gajardo 
+Representante Legal 
+Opdenergy Generación S.p.A. 
+ 
+ 
+CARLOS 
+RODOLFO ORTIZ 
+GAJARDO
+Firmado digitalmente 
+por CARLOS RODOLFO 
+ORTIZ GAJARDO 
+Fecha: 2026.09.22 
+17:32:34 -03'00'

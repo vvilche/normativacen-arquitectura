@@ -1,0 +1,70 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 28 de agosto de 2026 
+ATA 0033-2026 
+ 
+ 
+Señor  
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+Ref: Informa sobre Proceso de Verificación de Control de Tensión de instalaciones 
+asociadas a la instrucción de Control Dinámico de Tensión (CDT). 
+[1] Carta DE05628-26, “Proceso de Verificación de Control de Tensión de instalaciones 
+asociadas a la instrucción de Control Dinámico de Tensión (CDT), en el marco de las 
+medidas operacionales definidas por el Coordinador Eléctrico Nacional”, de fecha 21 de 
+agosto de 2026. 
+[2] Carta ATA 0031-2026, “Informa plan de trabajo para verificación de Servicios 
+Complementarios”, de fecha 7 de agosto de 2026. 
+ 
+ 
+De mi consideración, 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. con el objeto de informar el estado de 
+avance del proceso de Verificación de Control de Tensión de la instalación PFV Atacama 
+Solar II, en respuesta a la solicitud efectuada mediante la comunicación de la Ref. [1]. 
+ 
+Al respecto, las actividades de ensayo fueron programadas inicialmente para desarrollarse 
+entre los días 11 y 14 de agosto de 2026. Sin embargo, debido a los eventos meteorológicos 
+registrados durante dicho período, las pruebas debieron extenderse hasta el 18 de agosto. 
+No obstante, no fue posible disponer de las condiciones operacionales estables necesarias 
+para completar la totalidad de los ensayos requeridos. Las solicitudes de Neomante 
+asociadas a los trabajos en comento corresponden a las siguientes: DI2026083893, 
+DI2026083894, DI2026083895, DI2026083897 y DI2026091390. 
+ 
+Por otra parte, PFV Atacama Solar II se encuentra desconectada del SEN debido a trabajos 
+relacionados con el NUP 4563, los cuales finalizan el próximo 30 de agosto de 2026. En 
+este contexto, y considerando la fecha prevista para la recuperación operacional de la 
+planta, se estima retomar y completar las actividades pendientes de verificación entre los 
+días 2 y 4 de septiembre de 2026, previa coordinación con el experto técnico responsable 
+del proceso. Los ensayos anteriores se encuentran programados mediante la solicitud 
+DI2026099400 en el sistema Neomante. 
+ 
+En consideración a lo expuesto, mi representada actualiza el compromiso informado 
+mediante la comunicación de la Ref. [2], respecto de la entrega del Informe Final de 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Verificación de Control de Tensión, cuya remisión se efectuará a más tardar el 30 de 
+septiembre de 2026. 
+ 
+Finalmente, informo a Ud. que a la fecha PFV Atacama Solar II no posee limitaciones 
+vigentes asociadas a sus capacidades de prestación de Control de Tensión. 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+Atacama Solar SpA. 

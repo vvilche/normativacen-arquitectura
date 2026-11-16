@@ -1,0 +1,67 @@
+ 
+ 
+ 
+143-2025 
+ 
+ 
+ 
+ 
+ 
+ 
+             Santiago, 11 de noviembre de 2025 
+ 
+ 
+ 
+Señor 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional  
+Presente 
+Ref.: Responde carta DE06923-25, solicitud de 
+revisión de archivos de cálculo de la reliquidación de 
+Transferencias Económicas de Energía y Servicios 
+Complementarios Enero a junio 2023, y extensión de 
+plazo para observaciones. 
+ 
+De nuestra consideración: 
+De acuerdo con la revisión de los archivos relacionados con la carta de referencia publicada con fecha 
+29 de octubre de 2025, se ha detectado que no se disponibilizó toda la documentación necesaria para 
+realizar la revisión correspondiente. 
+ 
+En particular, respecto al mes de enero de 2023, reliquidación R02P, en la carpeta: 
+“01 
+Resultados_2301_R01P\01 
+Balance 
+de 
+Energía\04 
+Sobrecostos” 
+se encuentran archivos correspondientes al mes de febrero de 2023, en lugar de los de enero de 2023. 
+Por 
+ejemplo, 
+en 
+vez 
+del 
+archivo 
+“Sobrecostos_PD_2301_R02P.xlsm”, 
+se 
+encuentra 
+“Sobrecostos_PD_2302_R01P.xlsm”, lo que impide realizar la revisión del cálculo de los Sobrecostos 
+por partida y detención de las unidades del mes de enero de 2023. 
+ 
+Por este motivo, solicito revisar toda la documentación asociada a esta reliquidación y corregir los 
+archivos según corresponda. 
+ 
+Adicionalmente, dado que esta situación provoca un retraso en la revisión, solicito considerar un plazo 
+adicional para la entrega de nuestras observaciones, acorde con la tardanza en la corrección de los 
+archivos en la plataforma Plabacom. 
+ 
+Agradecemos de antemano su colaboración y quedamos atentos a cualquier comentario o actualización 
+sobre este tema. 
+Sin otro particular, se despide atentamente 
+ 
+ 
+ 
+Felipe Valdés A.  
+Encargado Titular 
+Guacolda Energía SpA 
+Docusign Envelope ID: D9FF1427-4987-4EA1-AF28-58B75FBABEB1

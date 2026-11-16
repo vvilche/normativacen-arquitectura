@@ -1,0 +1,143 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 03 de noviembre de 2025 
+DE 06964-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de los Parámetros de Partida y 
+Detención de la Central PE Los Olmos. 
+[1] Carta 0024-2025 del Coordinado Energía 
+Eólica Los Olmos SpA, Ref.: “NUP 3661 – Envío 
+de Informe de Parámetros de Partida y Detención 
+(PPyD)”, de fecha 15 de septiembre de 2025.  
+[2] Carta DE06198-25, Ref.: “[NUP 3661] Informes 
+Técnicos de Parámetros Operacionales de la 
+central PE Los Olmos”, de fecha 03 de octubre de 
+2025. 
+Responde a Ingreso DE09558-25. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+PE Los Olmos, en conformidad con el Informe Técnico recibido mediante la comunicación 
+de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+indicado, publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+PE Los Olmos se presentan en el anexo de la presente comunicación. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del 05 de noviembre de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Parámetros de Partida y Detención > Informes Determinación de 
+Parámetros para Procesos de Partida y Detención de Unidades Generadoras > Parque 
+Eólico Los Olmos > 2025 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+GZV/CRV/PPF/PBA/adr 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Parámetros del proceso de partida y detención de Central PE Los Olmos. 
+ 
+Tabla 1. Parámetros del proceso de partida Central PE Los Olmos (1). 
+Etapa 
+Parámetro 
+Aerogenerador 
+Central 
+Partida – Sincronización 
+Consumo SSAA [MWh] 
+0,000000 
+0,000000 
+Tiempo [minutos] 
+0,000000 
+0,000000 
+Sincronización – Mínimo 
+Técnico 
+Consumo SSAA [MWh] 
+0,000033 
+0,000104 
+Tiempo [minutos] 
+0,133333 
+0,016667 
+Mínimo Técnico – Potencia 
+Nominal 
+Consumo SSAA [MWh] 
+0,000129 
+0,033504 
+Tiempo [minutos] 
+0,650000 
+5,383333 
+(1) Los valores de potencia máxima y mínima netos del PE Los Olmos son de 109,1301 MW y 
+0,2630 MW respectivamente.  
+ 
+ 
+Tabla 2. Parámetros del proceso de detención Central PE Los Olmos. 
+Etapa 
+Parámetro 
+Aerogenerador 
+Central 
+Potencia Nominal – Mínimo 
+Técnico 
+Consumo SSAA [MWh] 
+0,000046 
+0,034541 
+Tiempo [minutos] 
+0,183333 
+5,550000 
+Mínimo Técnico – Desconexión 
+Consumo SSAA [MWh] 
+0,000013 
+0,000104 
+Tiempo [minutos] 
+0,050000 
+0,016667 
+Desconexión – Detención 
+Consumo SSAA [MWh] 
+0,000000 
+0,000000 
+Tiempo [minutos] 
+0,000000 
+0,000000 
+ 
+ 
+NOTA: El tiempo mínimo de operación (TMO) y tiempo mínimo de detención (TMD) 
+son 0 [min]. 

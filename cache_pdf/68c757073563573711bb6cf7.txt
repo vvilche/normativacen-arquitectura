@@ -1,0 +1,150 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 12 de septiembre de 2025 
+DE 05744-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de Parámetros de Partida y 
+Detención de la Central PE Calama. 
+[1] 
+Carta 
+ENGIE 
+N°213/2023, 
+Ref.: 
+“Observaciones a Informe Técnico de Parámetros 
+de Partida y Detención de PE Calama”, de fecha 6 
+de diciembre de 2023. 
+[2] 
+Carta 
+DE05792-23, 
+Ref.: 
+“Informe 
+de 
+Parámetros de Partida y Detención de la Central 
+PE Calama, del coordinado Engie Energía Chile 
+S.A.”, de fecha 23 de diciembre de 2023. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+PE Calama, en conformidad con el Informe Técnico recibido mediante la comunicación de 
+la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+indicado publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+PE Calama se presentan en las tablas contenida en el Anexo. 
+ 
+Al respecto, comunico a Ud., que este parámetro entrará en vigencia a partir de las 00:00 
+horas del 16 de septiembre de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+y la tabla con el detalle de los parámetros pueden ser descargados en la siguiente ruta del 
+sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras Parámetros de Partida y Detención > Informes Determinación de 
+Parámetros para Procesos de Partida y Detención de Unidades Generadoras > 
+Central PE Calama > 2023 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+GZV/SGM/DIR/adr 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo1: Parámetros de Partida y Detención Central PE Calama 
+ 
+Tabla 1. Parámetros del proceso de partida Central PE Calama(1). 
+Etapa 
+Parámetro 
+Aerogenerador 
+Central 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0052 
+Tiempo [minutos] 
+0,0800 
+0,3300 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0004 
+0,0537 
+Tiempo [minutos] 
+1,4500 
+5,9500 
+ 
+(1) La Potencia Máxima y Mínima bruta del PE Calama es 163,1180 MW y 9,8919 MW respectivamente 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención Central PE Calama. 
+Etapa 
+Parámetro 
+Aerogenerador 
+Central 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0002 
+0,0782 
+Tiempo [minutos] 
+0,3700 
+6,1300 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0001 
+Tiempo [minutos] 
+0,0800 
+0,0200 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 

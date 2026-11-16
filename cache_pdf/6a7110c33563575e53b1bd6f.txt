@@ -1,0 +1,149 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 3 de agosto de 2026 
+DE 05151-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 261 al 262 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 261-2026 al EAF 262-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Indisponibilidad > 
+Indicadores NTISyC > 2026 > Julio > Cálculo por EAF: 
+ 
+1. EAF 261-2026 
+2. EAF 262-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el jueves 6 de agosto de 
+2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+SBS/ycl  
+c.c.:  
+Sr. Juan Alfonso Veloso Molina – Encargado Titular Sistema de Transmisión del Sur S.A. 
+Sr. Cristian Aurelio Jara Ramirez – Encargado Titular Cooperativa Rural Eléctrica Río Bueno Ltda. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Compañía Eléctrica de Osorno S.A. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Sociedad Austral de Electricidad S.A. 
+Sr. Francisco Allende Ramírez – Encargado Titular Compañía Minera Cerro Colorado Ltda. 
+DBCD/DTE-SSCC/SGASO 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 262-2026 
+05-07-2026 
+Compañía Eléctrica 
+de Osorno S.A. 
+S/E Aihuapi 
+S/E Chirre 
+S/E Los Negros 
+S/E Río Bonito 
+Parcial 
+Si 
+Los siguientes clientes libres en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+LACTEOS DEL SUR S.A. (76716680) BA S/E LOS 
+NEGROS 23KV 
+AGRICOLA MILLAHUE LIMITADA (99565130) BA S/E 
+LOS NEGROS 23KV 
+ 
+Enviar antecedentes corregidos, indicando cada 
+cliente libre la respectiva clave de balance. 
+EAF 262-2026 
+05-07-2026 
+Cooperativa Rural 
+Eléctrica Río Bueno 
+Ltda. 
+S/E Chirre 
+Parcial 
+Si 
+No informa mecanismo de recuperación para el 
+alimentador "Chamul Ranco" asociado al paño PA S/E 
+CHIRRE E2, cuya hora de normalización es previa a la 
+hora de disponibilidad de la barra. 
+ 
+Se solicita detallar el mecanismo de recuperación 
+de estas cargas para este alimentador donde esto 
+se presente, y con el desglose requerido por la 
+SEC, esto es comunal y por zona de tarificación. 
+(*) El EAF N° 261 no tuvo afectación de Empresas Distribuidoras. 
+(**) En los EAF N°262 la información recibida de la empresa distribuidora Sociedad Austral de Electricidad S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+ 

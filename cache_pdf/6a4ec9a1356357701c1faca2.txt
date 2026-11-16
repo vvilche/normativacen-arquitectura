@@ -1,0 +1,102 @@
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+Santiago, 07 de julio de 2026
+BOL 0029-2026
+Señora 
+Marta Cabeza Vargas 
+Superintendenta de Electricidad y Combustibles
+Superintendencia de Electricidad y Combustibles
+Ref: Caso TIMES 2471730.
+[1] Oficio SEC Nº340108, de fecha 30 de junio de 2026. 
+[2] Carta CD N°00102-26, de fecha 19 de junio de 2026.
+[3] Carta DE04842-26 (BOL 0025-2026), de fecha 19 de mayo de 2026.
+[4] Carta DE03245-26, de fecha 13 de mayo de 2026.
+[5] Carta DE01313-26 (BOL 0003-2026), de fecha 13 de febrero de 2026.
+De mi consideración,
+En relación con lo solicitado por medio del oficio indicado en la Ref. [1], y lo informado por 
+el Coordinador Eléctrico Nacional (en adelante “Coordinador”) a Ud. a través de la 
+comunicación indicada en la Ref. [2], puedo comentar lo siguiente:
+1) El Coordinador a través de la comunicación indicada en la Ref. [2] informó a Ud. que 
+mi representada Bolero SpA, no dio respuesta a la comunicación DE03245-26 de 
+fecha 13 de mayo de 2026. Al respecto, comento que dicha comunicación fue 
+respondida por mi representada mediante la carta indicada en la Ref. [3], según 
+consta en el Sistema de Correspondencia del Coordinador. Mediante esta última 
+comunicación, mi representada informó que tuvo retrasos en la implementación de 
+la señal de potencia disponible, sin embargo, a la fecha de dicha comunicación (19 
+de mayo de 2026) la señal se encontraba implementada e integrada al SITR del 
+Coordinador. Sin perjuicio de lo anterior, en relación con la respuesta a la 
+comunicación DE03245-26, el Coordinador Eléctrico Nacional solicitó responder la 
+carta en comento mediante la plataforma Conecta CEN, sin embargo, el formato 
+establecido en dicha plataforma no permitía entregar una explicación completa a la 
+situación expuesta por el Coordinador. De esta forma, mi representada dio 
+respuesta a la observación indicada por el Coordinador, mediante la comunicación 
+de la Ref. [3], a través del Sistema de Correspondencia del Coordinador Eléctrico 
+Nacional, el cual se encuentra establecido como un medio formal de intercambio de 
+comunicaciones entre las empresas coordinadas y el Coordinador. 
+2) El Coordinador, a través de la comunicación indicada en la Ref. [2] informó a Ud. 
+que la potencia generada máxima nunca alcanza la potencia disponible. En vista de 
+lo antes expuesto, mi representada ha revisado el proceso que permite obtener la 
+
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+señal de potencia disponible de la central, encontrando oportunidades de mejora 
+que serán implementados para determinar una señal más precisa y acorde a lo 
+requerido. A mayor abundamiento, el cálculo de la señal de potencia disponible 
+puede arrojar un valor mayor al que es posible de generar por la central, lo cual 
+radica en la variable de cálculo que representa la disponibilidad de inversores (en 
+adelante la “Variable”). La central Bolero posee un total de 94 inversores, en donde 
+cada inversor está compuesto por cuatro módulos. La variable de disponibilidad de 
+cada inversor es del tipo discreta, ya que puede representar dos valores posibles: 
+0% o 100% reflejando la disponibilidad de cada inversor, sin considerar estados 
+intermedios. Cabe precisar que el valor de 0% se refleja cuando existe la 
+indisponibilidad de los cuatro módulos del inversor. 
+Para mejorar la condición anterior, se actualizará el proceso de cálculo de la señal 
+de potencia disponible, con el objetivo de representar de manera más precisa el 
+comportamiento real de los componentes de la central, incorporando de forma 
+secuencial los estados intermedios de capacidad de los distintos sistemas que 
+componen la cadena de generación y evacuación de la planta. Este enfoque 
+permitirá representar de forma adecuada las limitaciones físicas y operacionales de 
+la central en cada instante, mejorando la fidelidad y representatividad del cálculo de 
+potencia disponible.
+El plazo previsto para la implementación de estas mejoras es de tres meses, con 
+fecha estimativa de término para la primera semana de octubre 2026.
+Sin otro particular, saluda atte.
+Paola Hartung M.
+p.p. Bolero SpA
+cc: 
+Consejo Directivo – Coordinador Eléctrico Nacional.
+Sr. Ramón Castañeda P. – Director Ejecutivo Coordinador Eléctrico Nacional.
+
+Electronic Record of Contracts
+This document was generated as a record of certain contracts created, accepted and stored electronically.
+Summary of Contracts
+This document contains the following contracts.
+Title
+ID
+Letter (sec and AES)
+7723073f-d164-4efd-8c31-f843bfa10ef7
+Contract signed by:
+Paola Hartung
+Signer ID:
+107e37f9-c8aa-4e30-bd7c-e83e42e1ef0b
+Email:
+paola.hartung@aes.com
+Date / Time:
+Jul 7, 2026 at 10:44 PM UTC
+IP Address:
+186.11.83.113
+User Agent:
+Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/149.0.4022.96 
+Version/26.0 Mobile/15E148 Safari/604.1

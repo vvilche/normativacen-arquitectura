@@ -1,0 +1,255 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 19 de agosto de 2025 
+DE 05143-25 
+Señor 
+Francisco Yévenes M. 
+Encargado Titular 
+Sonnedix Cox Energy Chile SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Terciario de 
+Frecuencia de la Central PFV Meseta de los Andes. 
+[1] Carta SXC-013-25 de Sonnedix Cox Energy Chile 
+SpA, Ref.: “Remite informe Servicio Complementario 
+de Control Terciario de Frecuencia de la central PFV 
+Meseta de los Andes”, de fecha 19 de junio de 2025.  
+Responde a Ingreso DE06022-25 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado 
+el proceso de verificación del Servicio Complementario (SC) de Control Terciario de 
+Frecuencia (CTF) de la Central PFV Meseta de los Andes. 
+ 
+Como resultado de este proceso, la central mencionada quedará habilitada para la 
+prestación del mencionado servicio a partir de las 00:00 del 21 de agosto de 2025, 
+considerando los recursos indicados en anexo de la presente carta.  
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NT-SSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CTF de la Central PFV Meseta de los Andes se ha publicado en la siguiente 
+ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central PFV Meseta de los Andes 
+ 
+Finalmente, la Central PFV Meseta de los Andes podrá participar de las subastas de CTF 
+una vez que complete el proceso de solicitud de incorporación a la plataforma de subastas. 
+Para ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Sin perjuicio de lo anterior, la central en asunto podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del Control Terciario de Frecuencia. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+DIR/PGR/adr 
+c.c.:  
+Sr. Claudio Silva B. – Encargado Suplente Sonnedix Cox Energy Chile SpA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central  
+PFV Meseta de los Andes 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV Meseta de los Andes 
+• Potencia máxima bruta 152,46 [MW] 
+• Potencia máxima neta 148,89 [MW] 
+• Potencia mínima bruta 3,59 [MW] 
+• Potencia mínima neta 2,52 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Terciario de 
+Frecuencia  
+Control Terciario de Frecuencia por Subfrecuencia 
+(CTF+) 
+Control Terciario de Frecuencia por Sobrefrecuencia 
+(CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia: 
+• 
+El gradiente de carga no puede ser modificado por el operador con la central en 
+servicio, y solo puede ser configurado con un rango ±20% Pnom/min. 
+• 
+El tiempo de activación de CTF depende del tiempo que se demora el operador en 
+consignar el nuevo valor de referencia de potencia, debiendo activarse en menos 
+de 5 min de acuerdo con las definiciones del SC. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Sonnedix Cox 
+Energy Chile SpA 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en la página siguiente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Combustible 
+Parámetro 
+Valor determinado 
+PFV Meseta 
+de los Andes 
+Solar 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+29,700 
+ 
+Bajada 
+29,700 
+ 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+30,492 
+ 
+Bajada 
+30,492 
+ 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] (2) 
+Subida 
+146,37 
+ 
+Bajada 
+-146,37 
+ 
+Límite de regulación superior [MW] (3) 
+152,46 
+ 
+Límite de regulación inferior [MW] (3) 
+3,59 
+ 
+(1) Tasa de subida y bajada de carga máxima limitada al 20% de Pnom. 
+(2) La reserva se determina como la diferencia entre las potencias netas máxima y mínima de la central correspondientes 
+a 148,89 [MW] y 2,52 [MW]. 
+ 
+(3) Los límites de regulación, correspondientes a la potencia bruta, y el aporte máximo de CTF podrán verse modificados 
+si se actualizan los parámetros operacionales de la central. 
+ 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Central 
+Combustible 
+Parámetro 
+Valor 
+determinado 
+PFV Meseta de los 
+Andes 
+Solar 
+Tiempo hasta sincronización [min] 
+0,00 
+ 
+Tiempo hasta mínimo técnico [min] 
+0,31 
+ 
+Reserva Fría [MW]  
+148,89 
+ 
+ 
+ 
+ 

@@ -1,0 +1,94 @@
+ 
+Cerro El Plomo 6000, piso 14
+Las Condes
+Santiago, Región Metropolitana 7560623
+Chile
+T +56 2 2579 5990
+F +56 2 2202 6328
+bhp.com
+ 
+ 
+ 
+ 
+21 de julio de 2026 
+TMKYA-260721-0024 
+ 
+ 
+Sr. Victor Utreras N. 
+Subgerente de Administración 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+ 
+Ref: Informa medidas para pago oportuno de Cargo por Servicio Público – Caso TIMES 2401418  
+ 
+[1] Oficio Circular Electrónico N°340766 de la Superintendencia de Electricidad y Combustibles, de fecha 7 
+de julio de 2026. 
+ 
+[2] Carta DE04319-26 del Coordinador Eléctrico Nacional, de fecha 23 de junio de 2026. 
+ 
+ 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, Tamakaya Energía SpA (“Tamakaya”) se refiere a la notificación recibida mediante 
+oficio de Ref. [1] respecto del retraso registrado en el pago de la factura correspondiente al Cargo por Servicio 
+Público del mes de abril 2026, informado por el Coordinador Eléctrico Nacional a la Superintendencia de 
+Electricidad y Combustibles mediante carta de Ref. [2]. 
+ 
+En primer término, lamentamos el inconveniente ocasionado por el retraso en el pago de la factura. Hacemos 
+presente que, al momento de recibir la referida notificación, Tamakaya ya había identificado la situación y 
+gestionado internamente la ejecución del pago, regularizando completamente la obligación pendiente. Esto 
+fue informado mediante correo electrónico al equipo del Coordinador Eléctrico Nacional, con fecha 23 de junio 
+de 2026. 
+ 
+Sin perjuicio de lo anterior, con el objeto de reforzar nuestros controles internos y prevenir la ocurrencia de 
+situaciones similares en el futuro, hemos implementado las siguientes medidas: 
+ 
+1. Mejora en el control de saldos disponibles de órdenes de compra en sistema, incorporando 
+revisiones periódicas que permitan asegurar la existencia de saldo suficiente para el procesamiento 
+automático de las facturas asociadas al Cargo por Servicio Público. 
+ 
+2. Fortalecimiento del proceso de pago automático, verificando que, una vez recibida la factura y 
+cumplidas las validaciones internas correspondientes, el sistema ejecute oportunamente la 
+instrucción de pago sin requerir intervenciones adicionales. 
+ 
+3. Implementación de un control adicional posterior a la liberación del documento para pago, 
+consistente en la revisión y descarga del comprobante de pago directamente desde la plataforma 
+bancaria. Esta verificación permite confirmar que la transacción ha sido efectivamente procesada y 
+abonada en plazo, cerrando formalmente el ciclo de pago. 
+ 
+Estimamos que las medidas descritas fortalecerán significativamente nuestros mecanismos de control y 
+seguimiento, reduciendo el riesgo de eventuales retrasos futuros. 
+
+ 
+Reiteramos nuestro compromiso con el cumplimiento oportuno de todas las obligaciones derivadas de nuestra 
+participación en el Sistema Eléctrico Nacional y quedamos a disposición de ese Coordinador para 
+proporcionar cualquier antecedente adicional que estime pertinente. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Felipe Toledo M. 
+Encargado Suplente 
+Tamakaya Energía SpA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cc: Superintendencia de Electricidad y Combustibles 
+ 
+Digitally signed by Toledo, Felipe
+DN: cn=Toledo, Felipe, o=BHP
+Group Operations Pty Ltd,
+ou=MULTI-ALLOWED
+Date: 2026.07.21 18:35:42 -04'00'
+Toledo,
+Felipe

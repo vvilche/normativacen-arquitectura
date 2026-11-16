@@ -1,0 +1,72 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 09 DE JULIO .2025 
+COM-18/2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para junio del 2025. 
+ 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para junio 2025. 
+ 
+1) 
+El 26-06-2025 a las 07:22, la central PEÑON_DIESEL tiene asociada en el RIO una activación 
+por CTF(+) de 78.9 MW. Sin embargo, la central no recibió una instrucción de activación del 
+CDC, por lo que la central no fue despachada. Se adjunta la (Grabación: 20250626072131) 
+como evidencia que en el horario mencionado solo se recibe instrucción de TENO_DIESEL y 
+TRAPEN_DIESEL.  
+Se solicita que se elimine la activación del calculo de desempeños ya que genera descuentos 
+sobre la subasta adjudicada.  
+2) 
+El 25-06-2025 a las 08:00 la central TENO_DIESEL entra en servicio para prestar disponibilidad 
+de CTF(-) en el bloque de las 08:00 con MT+44 MW (Grabación: 20250625075554). 
+Posteriormente, a las 08:04 la central recibe instrucción de activación de CTF(+) con 13.6 MW 
+(Grabación: 20250625080421), mientras se mantenia subiendo carga para llegar al total de 
+disponibilidad de CTF(-). Estas condiciones generan que en el archivo “CTF_202506” se 
+registre una potencia inicial de 23.8 MW, que adicional a la instrucción de 13.6 MW, calcula el 
+desempeño de la activación de CTF(+) sobre 37.4 MW, a pesar que entre ambas instrucciones 
+la central debía subir a 58 MW. Como resultado, se obtiene la evaluación 3 en 0% de 
+cumplimiento ya que se alcanza una potencia media superior.  
+Se solicita pronunciarse sobre la correcta operación de la central en casos como este. Si al 
+momento de la activacion de CTF(+): se sobrescribe la instrucción de disponibilidad de CTF(-) 
+dada anteriormente, tal que, la central deba subir solo a 37.4 MW (23.8+13.6 MW), priorizando 
+el correcto desempeño de la central, y, adicionalmente, a que consigna de potencia deberá 
+
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+volver una vez que la activación del servicio correspondiente haya terminado, o; en el caso que 
+se mantengan ambas instrucciones, cual sería  el procedimiento de calculo de desempeño y la 
+operación esperada. 
+ 
+Es de extrema relevancia esclarecer la disyuntiva presentada en el punto (2), puesto que la incertidumbre 
+de operación en casos como este puede afectar tanto a la seguridad y coordinación del sistema eléctrico 
+nacional, como al correcto desempeño y remuneración de los servicios entregados. 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+Andrés Guerra C. 
+Encargado Suplente 
+Enlasa Generación Chile S.A. 

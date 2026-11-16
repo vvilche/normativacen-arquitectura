@@ -1,0 +1,108 @@
+ 
+ 
+ENEL GREEN POWER CHILE S.S. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Santiago, 12 de febrero de 2026 
+EGP 019-26 
+ 
+Señorita 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA CARTA DE00819-26 PUBLICACIÓN DE INDICADORES DE 
+DESEMPEÑO DE SERVICIOS COMPLEMENTARIOS PRESTADOS DURANTE EL 
+MES DE ENERO DE 2026. 
+ 
+De mi consideración, 
+Me refiero a la comunicación DE00819-26 en la que indica la publicación de los Indicadores 
+de Desempeño de Servicios Complementarios prestados durante el mes de enero de 2026. 
+Al respecto, a continuación, enviamos comentarios asociados a los índices de desempeño de 
+CPF del BESS El Manzano y Don Humberto. En nuestra consideración se debe incluir en los 
+periodos de análisis de la prestación del SC de CPF el efecto que genera en la respuesta la 
+prestación conjunta de CSF por medio del AGC, ya que al no ser considerado se presentan 
+desempeños de bajo cumplimiento de las instalaciones. Como ejemplo se incluyen dos 
+periodos de evaluación de el BESS El Manzano donde se observa que mejora la evaluación al 
+considerar los Setpoint recibidos desde el AGC. 
+23 de enero de 2026 
+• 
+Registro desde SATURNe 
+En la siguiente figura se observa un mal desempeño de CPF y un cálculo de estatismo que no 
+cumple con lo requerido ni ajustado en el BESS. 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.S. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+• 
+Registro SCADA (Tomado desde sistema PI) 
+En la parte superior de figura se observa una representación de lo calculado por el sistema 
+SATURNe, y en la parte inferior se observa el cálculo de la respuesta al considerar la consigna 
+proveniente desde el AGC. En la parte inferior derecha se observa una respuesta de estatismo 
+ajustada a lo requerido por normativa. 
+ 
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.S. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+16 de enero de 2026 
+• 
+Registro desde SATURNe 
+En la siguiente figura se observa un mal desempeño de CPF y un cálculo de estatismo que no 
+cumple con lo requerido ni ajustado en el BESS. 
+ 
+ 
+• 
+Registro SCADA (Tomado desde sistema PI) 
+En la primera figura se observa la potencia en el periodo analizado, luego en la segunda y 
+tercera figura se observa el cálculo de estatismo considerando un ajuste de la consigna 
+proveniente de AGC y sin considerar el ajuste.  
+
+ 
+ 
+ENEL GREEN POWER CHILE S.S. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+ 
+ 
+En consecuencia, con el objetivo de representar correctamente la respuesta de CPF cuando 
+existe una prestación conjunta de CSF, se solicita considerar en el cálculo de los índices de 
+desempeño la consigna proveniente desde el AGC. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.S. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Sin otro particular y esperando una favorable acogida de esta comunicación, atentamente se 
+despide, 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN. 
+ ENEL GREEN POWER CHILE S.A. 
+ 
+ 

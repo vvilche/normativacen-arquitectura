@@ -1,0 +1,229 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 25 de marzo de 2025 
+DE 01665-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de los Parámetros de Partida y 
+Detención de la Central PE La Cabaña y BESS PE 
+La Cabaña, del coordinado Enel Green Power 
+Chile S.A. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+PE La Cabaña y BESS PE La Cabaña, justificado en el Informe Técnico final recibido 
+mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+técnico publicado en la página web del Coordinador mediante carta de la Ref. [2]. Por su 
+parte, el Coordinador emitió observaciones de carácter técnico al coordinado Enel Green 
+Power S.A., que fueron atendidas en el informe final publicado en la ruta indicada más 
+adelante. 
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+PE La Cabaña y BESS PE La Cabaña se presentan en el Anexo a la presente carta. Al 
+respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 00:00 
+horas del 27 de marzo de 2025. 
+ 
+El informe técnico final que contiene la justificación de los parámetros indicados 
+anteriormente ha sido publicado en la siguiente ruta del sitio web del Coordinador Eléctrico 
+Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Parámetros de Partida y Detención > Informes Determinación de 
+Parámetros para Procesos de Partida y Detención de Unidades Generadoras > 
+Central PE La Cabaña 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+PPF/DIR/adr 
+ 
+Referencias: 
+ 
+[1] Carta EGP 115-24 del Coordinado Enel Green Power Chile S.A., Ref.: “BESS Parque 
+Eólico La Cabaña: Respuesta a observaciones de los informes de Parámetros 
+Operacionales.”, de fecha 16 de octubre de 2024. Ingreso DE06010-24. 
+ 
+[2] Carta DE05647-24, Ref.: “[NUP 4697] Informes Técnicos de Parámetros Operacional es 
+de la Central BESS PE La Cabaña y ampliación, del coordinado Enel Green Power Chile 
+S.A.”, de fecha 28 de octubre de 2024. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central PE La Cabaña y 
+BESS PE La Cabaña 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PE La Cabaña. 
+Etapa 
+Parámetro 
+ 
+Aerogenerador 
+Central 
+Completa 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0001 
+Tiempo [minutos] 
+0,1333 
+0,6166 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0014 
+0,0075 
+Tiempo [minutos] 
+1,9500 
+10,3167 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PE La Cabaña. 
+Etapa 
+Parámetro 
+ 
+Aerogenerador 
+Central 
+Completa 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0005 
+0,0003 
+Tiempo [minutos] 
+0,6833 
+4,616 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0001 
+0,0002 
+Tiempo [minutos] 
+0,3166 
+0,9500 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+ 
+Tabla 3. Parámetros del proceso de partida del BESS PE La Cabaña. 
+Etapa 
+Parámetro 
+Inversor 
+BESS 
+Completo 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0001 
+0,1296 
+Tiempo [minutos] 
+0,1090 
+4,7983 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Tabla 4. Parámetros del proceso de detención de BESS PE La Cabaña. 
+Etapa 
+Parámetro 
+Inversor 
+BESS 
+Completo 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0001 
+Tiempo [minutos] 
+0,0032 
+0,0037 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+ 

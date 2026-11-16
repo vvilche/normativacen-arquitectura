@@ -1,0 +1,86 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 20 de mayo de 2026 
+AEL041C-26 
+Señor 
+Jorge Luis Gallegos Mellado  
+Ingeniero de Análisis de la Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Responde DE03263-26 EAF 239-2025 - Apertura 
+intempestiva del interruptor 52CTSA5 de S/E Central 
+Mampil 
+ 
+ 
+De nuestra consideración: 
+ 
+Nos referimos a la carta DE03263-26, a través de la cual el Coordinador solicita antecedentes adicionales 
+respecto a la apertura intempestiva del interruptor 52CTSA5 de S/E Central Mampil, ocurrida a las 21:44 
+horas del día 02 de junio de 2025. 
+ 
+En relación con lo anterior, a continuación indicamos nuestras respuestas a las consultas enviadas: 
+ 
+• 
+Confirmación de ejecución exitosa de la normalización de la estampa de tiempo de la protección 
+GE-350 de la S/E Central Mampil, lo que fue comprometido por su representada para estar concluido el 
+20 de abril de 2026.  
+ 
+R: Hasta el momento se completó satisfactoriamente la inspección y análisis detallado del registro de 
+protecciones, lo cual implicó un nuevo ECAP y nueva propuesta para mejorar la performance del equipo 
+GE845 (involucrado en el segundo cronograma). En cuanto a la normalización de la estampa horaria, se 
+logró levantar una posible solución e implementación, pero esta quedó pendiente esperando la 
+desconexión de la SE Mampil para realizar de manera segura los trabajos, pero esto no se ha podido 
+realizar debido a que las solicitudes de desconexión han sido rechazadas en las últimas dos ocasiones 
+(enero y abril).  
+ 
+  
+• 
+Confirmación de ejecución exitosa de la implementación de los cambios de ajustes en la 
+protección GE845 del paño CTSA5 de S/E Central Mampil, lo que fue comprometido por su representada 
+para estar concluido el 30 de abril de 2026.  
+ 
+R: Respecto a este punto, se obtuvo la aprobación del ECAP en diciembre del 2025, por lo cual se planificó 
+una desconexión para implementar los cambios y realizar las pruebas durante el mes de enero (la SD fue 
+rechazada), se intentó nuevamente realizar durante abril y las SD solicitadas también fueron rechazadas. 
+ 
+Docusign Envelope ID: 611C0EE3-3FA8-8D97-82DA-440CBEF4E55D
+
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+Para ambos casos, además de necesitar la aprobación del CEN para desconectar la subestación, estamos 
+directamente ligados a la factibilidad de que Coopelan pueda respaldar sus consumos a otro alimentador 
+y así nos pueda dar una ventana de trabajo para desenergizar la barra de 23 kV de SE Mampil. 
+ 
+Actualmente no tenemos una fecha concreta para realizar las intervenciones pendientes, pero 
+coordinaremos nuevamente con la Cooperativa para tener claro los posibles rangos de fechas para realizar 
+estos trabajos durante los próximos meses.  
+ 
+Adjunto a esta carta podrá encontrar una actualización de los cronogramas de ambos puntos, 
+considerando que para cerrar estos casos solo queda pendiente la implementación de las soluciones, lo 
+que se espera y estima poder realizar en los próximos 3 a 4 meses, dependiendo de la mejor oportunidad 
+y condiciones operacionales que se presenten.  
+ 
+ 
+Sin otro particular saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos De La Fuente V. 
+Encargado Titular 
+Aela Generación S.A. 
+Docusign Envelope ID: 611C0EE3-3FA8-8D97-82DA-440CBEF4E55D

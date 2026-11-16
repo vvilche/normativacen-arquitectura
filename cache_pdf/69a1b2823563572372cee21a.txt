@@ -1,0 +1,199 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 27 de febrero de 2026 
+DE 01352-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de Parámetros de Partida y 
+Detención de la Central PFV Desierto de Atacama. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros de Partida y Detención de Unidades Generadoras” de la Norma Técnica de 
+Seguridad y Calidad de Servicio, comunico a Ud. La aceptación por parte del Coordinador 
+Eléctrico Nacional de los Parámetros de Partida y Detención de la Central PFV Desierto de 
+Atacama, en conformidad con el Informe Técnico recibido mediante la comunicación de la 
+Ref. [1]. 
+ 
+Adicionalmente, se deja en constancia que en el plazo establecido por el Artículo 11 del 
+Anexo Técnico en aplicación no se recibieron observaciones de coordinado alguno al 
+informe mencionado publicado en la página web del Coordinador mediante la comunicación 
+de la Ref. [2]. Por su parte, este Coordinador efectuó observaciones de carácter técnico 
+mediante la comunicación de la Ref. [3]. al informe antes mencionado, las cuales fueron 
+respondidas por el coordinado Copiapó Solar SpA sin generar modificación al informe 
+técnico. 
+ 
+Conforme con lo anterior, los valores de Parámetros de Partida y Detención de la Central 
+PFV Desierto de Atacama se presentan en las tablas contenidas en el Anexo de la presente 
+carta. 
+ 
+En cumplimiento del Artículo 13 del Anexo Técnico en mención, los parámetros para los 
+procesos de Partida y Detención mencionados entrarán en vigencia a partir de las 00:00 
+horas del 03 de marzo de 2026. 
+ 
+El informe de Parámetros de Partida y Detención que contiene la justificación de los 
+parámetros indicados anteriormente puede ser descargada en la siguiente ruta de la página 
+del Coordinador Eléctrico nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Parámetros de Partida y Detención > Informes de 
+Determinación de Parámetros de Partida y Detención > Central PFV Desierto de 
+Atacama > 2026 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/PPF/RSM/adr 
+ 
+ 
+Referencias 
+ 
+[1] Carta COM-1633-25 del Coordinado Copiapó Solar SpA, Ref.: “Entrega Informes 
+Técnicos asociados a Pruebas de Parámetros de Generación Proyecto NUP 1143 PFV 
+Desierto de Atacama”, de fecha 31 de julio de 2025. Ingreso DE07296-25 
+ 
+[2] Carta DE05184-25, Ref.: [NUP 1143] Informes Técnicos de Parámetros Operacionales 
+de la Central PFV Desierto de Atacama”, de fecha 21 de agosto de 2025. 
+ 
+[3] Carta DE06669-25, Ref.: “Observaciones a los Parámetros Operacionales del PFV 
+Desierto de Atacama”, de fecha 21 de octubre de 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central PFV Desierto 
+de Atacama 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PFV Desierto de Atacama (1) 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – 
+Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización – 
+Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0004 
+Tiempo [minutos] 
+0,0500 
+0,0500 
+Mínimo Técnico – 
+Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0205 
+Tiempo [minutos] 
+0,2167 
+4,5833 
+(1) Los valores de potencia máxima y mínima neta de la Central PFV Desierto de Atacama son 
+de 235,4181 MW y 0,4420 MW respectivamente.  
+ 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PFV Desierto de Atacama 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia Nominal – 
+Mínimo Técnico  
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0199 
+Tiempo [minutos] 
+0,1667 
+4,4500 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0003 
+Tiempo [minutos] 
+0,0500 
+0,0500 
+Desconexión – 
+Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+Nota: El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo de Detención 
+(TMD) son 0 [min]. 
+ 

@@ -1,0 +1,135 @@
+ 
+ 
+ 
+GO N°157/2026 
+Santiago, 12 de agosto de 2026 
+ 
+Señor  
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ant.: [1] Carta DE04647-26, del 10 de julio de 2026, Ref.: “Observaciones a los Protocolos de 
+Verificación de Servicios Complementarios de las Centrales HP Los Quilos y HP Quilleco”. 
+ 
+[2] Anexo Carta DE04767-26, Ref.: “Observaciones a los Protocolos de Verificación de 
+Servicios Complementarios de las centrales HP Los Quilos y HP Quilleco” 
+ 
+[3] Carta GO Nº104/2026, del 28 de mayo de 2026, Ref.: “Procedimiento de Ensayos de 
+Verificación de Servicios Complementarios de las centrales Los Quilos y Quilleco”. 
+ 
+[4] Carta GO Nº051/2026, del 05 de marzo de 2026, Ref.: “Respuesta a comunicación por 
+atrasos en el proceso de Verificación de Instalaciones de Generación para la Prestación de 
+Servicios Complementarios de acuerdo con Cronograma Vigente”. 
+[5] Carta GM Nº217/2022, del 02 de diciembre de 2022, Ref.: “Informa medidas para la 
+operación de las unidades de generación del Complejo Aconcagua”. 
+[6] Carta DE01075-20, del 03 de marzo de 2020, Ref.: “Aceptación de parámetros de partida 
+y detención de unidades hidroeléctricas Quilleco 1 y 2 y Carena 1 a 4”. 
+[7] Carta DE04697-19, del 28 de agosto de 2019, Ref.: “Aceptación de parámetros de partida 
+y detención de unidades hidroeléctricas del coordinado Colbún S.A.” – Los Quilos 1 y 2. 
+ 
+Ref.: 
+Responde las observaciones del Coordinador emitidas a los Protocolos de Verificación de 
+Servicios Complementarios de las Centrales HP Los Quilos y HP Quilleco. 
+ 
+ 
+De nuestra consideración:  
+ 
+En atención a la carta indicada en el Ant. [1], mediante la cual el Coordinador Eléctrico Nacional 
+formuló las observaciones de Ant. [2] a los Protocolos de Verificación de Servicios Complementarios 
+de las Centrales HP Los Quilos y HP Quilleco. Informo que Colbún S.A. revisó dichas observaciones 
+en conjunto con el consultor contratado para este servicio. Y como resultado de este análisis 
+agradeceré considerar los siguientes comentarios: 
+ 
+En particular, y respecto de la observación del documento Ant. [2], numeral 3.1, literal a) 
+referida a incluir la verificación del servicio complementario de Control Primario de 
+Frecuencia (CPF) en las unidades de la central HP Los Quilos, estimamos pertinente reiterar 
+
+ 
+ 
+las restricciones que presentan las centrales de la cuenca del Aconcagua para participar en el 
+control primario de frecuencia, las cuales fueron informadas con anterioridad al Coordinador 
+mediante las comunicaciones indicadas en los Ant. [4] y [5]. 
+ 
+ 
+Respecto a la observación del documento Ant. [2], numeral 3.2, literal b) el Coordinador nos 
+solicita incorporar en el protocolo de control terciario de frecuencia, una sección de CTF frío. 
+Quisiera precisar que no lo vemos necesario, por cuanto según el último documento para 
+verificación de control de frecuencia, emitido por el Coordinador el 25 de julio del 2025, 
+señala que "Para verificar la capacidad de una instalación participante en el CTF, se 
+tomarán como insumo los parámetros de partida y detención aprobados por el Coordinador 
+y vigentes a la fecha de la validación".  
+ 
+En este contexto, y considerando que las unidades 1, 2 y 3 de la central Los Quilos, 1 y 2 de 
+la central Quilleco tienen aprobados los Informes de parámetros de partida y detención, 
+mediante Ant. [6] y [7], se solicita que el servicio CTF frío sea verificado por el Coordinador 
+usando los documentos ya aprobados para estas unidades.  
+ 
+El resto de las observaciones fueron acogidas y atendidas en la nueva versión de cada protocolo, estos 
+documentos se adjuntan como anexos a la presente comunicación. 
+Se remitirá copia de la presente comunicación y sus antecedentes al correo electrónico 
+verificacion.sscc@coordinador.cl, conforme a lo solicitado por el Coordinador. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Sebastián Ruiz-Tagle Mena 
+Encargado Titular 
+COLBÚN S.A. 
+ 
+Adjunta: Anexo_Carta_GON157-2026.zip 
+ 
+
+ 
+ 
+ 
+Detalle Anexo Carta GON157-2026 
+ 
+HP Los Quilos 
+ 
+EE-MI-2026-2051-RA_Minuta_Rta_Obs_Procedimientos_HP_Los_Quilos_U1_U2_U3 
+Unidad 1:  
+ 
+EE-EN-2026-1331-RB_Procedimiento_SSCC_CT_HP_Los_Quilos_U1 
+ 
+EE-EN-2026-1331-RB_Diagrama_PQ_Teórico_Máximo_HP_Los_Quilos_U1 
+ 
+EE-EN-2026-1270-RB_Procedimiento_Ensayos_CTF_HP_Los_Quilos_U1 
+Unidad 2: 
+ 
+EE-EN-2026-1342-RB_Procedimiento_SSCC_CT_HP_Los_Quilos_U2 
+ 
+EE-EN-2026-1342-RB_Diagrama_PQ_Teórico_Máximo_HP_Los_Quilos_U2 
+ 
+EE-EN-2026-1324-RB_Procedimiento_Ensayos_CTF_HP_Los_Quilos_U2 
+Unidad 3: 
+ 
+EE-EN-2026-1345-RB_Procedimiento_SSCC_CT_HP_Los_Quilos_U3 
+ 
+EE-EN-2026-1345-RB_Diagrama_PQ_Teórico_Máximo_HP_Los_Quilos_U3 
+ 
+EE-EN-2026-1326-RB_Procedimiento_Ensayos_CTF_HP_Los_Quilos_U3 
+ 
+HP Quilleco 
+ 
+EE-MI-2026-2072-RA_Minuta_Rta_Obs_Procedimientos_HP_Quilleco_U1_U2 
+Unidad 1:  
+ 
+EE-EN-2024-0792-RB_Procedimiento_Ensayos_SSCC_CT_HP_Quillecos_U1 
+ 
+EE-EN-2024-0792-RB_Diagrama_PQ_Teórico_Máximo_HP_Quilleco_U1 
+ 
+EE-EN-2026-2065-RA_Procedimiento_Ensayos_SSCC_CPF_HP_Quilleco_U1 
+ 
+EE-EN-2026-1256-RB_Procedimiento_Ensayos_SSCC_CTF_HP_Quillecos_U1 
+Unidad 2: 
+ 
+EE-EN-2024-0793-RB_Procedimiento_CT_Ensayos_SSCC_HP_Quillecos_U2 
+ 
+EE-EN-2024-0793-RB_Diagrama_PQ_Teórico_Máximo_HP_Quilleco_U2 
+ 
+EE-EN-2026-2066-RA_Procedimiento_Ensayos_SSCC_CPF_HP_Quilleco_U2 
+ 
+EE-EN-2026-1265-RB_Procedimiento_Ensayos_SSCC_CTF_HP_Quillecos_U2 
+  

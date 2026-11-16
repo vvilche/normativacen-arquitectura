@@ -1,0 +1,296 @@
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                  Agustinas 1343 Piso 4, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+1 
+Santiago, 13 de abril 2026 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte operacional. 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+BF-E-CAE-2026-043: Respuesta a DE02321-
+26. Seguimiento medidas correctivas EAF 150 
+y 159 -2025 – Operación del EDAC-BF en el 
+SEN – Responde a DE00459-26. 
+[1] DE02321-26: EAF 150 y 159-2025 - 
+Operación del EDAC-BF en el SEN - RESPONDE 
+A DE00459-26 
+De nuestra consideración,  
+Por medio de la presente y en relación a lo solicitado, damos respuesta a lo indicado en 
+carta DE02321-26 asociada al seguimiento de medidas correctivas correspondientes a 
+los EAF N°150/2025 y N°159/2025 relativos a la operación del Esquema de Desconexión 
+Automática de Carga (EDAC-BF) en el Sistema Eléctrico Nacional. Al respecto, en 
+concordancia con lo indicado en carta BF-E-CAE-2026-003, informamos que respecto a 
+la ejecución de las tareas de reemplazo del relé asociado al EDAC-BF en la S/E Procart, 
+se informa que dichas actividades han sido reprogramadas debido a demoras en el 
+suministro del equipamiento y la respectiva coordinación con detenciones de área 
+necesarias para el reemplazo de equipos en terreno. En virtud de lo anterior, se adjunta 
+un cronograma actualizado que detalla las nuevas fechas comprometidas. 
+Finalmente, se deja constancia que las actividades se mantienen en desarrollo según la 
+nueva planificación, por lo que, cualquier hito relevante o condición que pudiera afectar 
+su ejecución será oportunamente informado al Coordinador. 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marcelo Lagos Peña. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+Encargado Suplente Bioenergías Forestales SpA.  
+
+ 
+        BIOENERGIAS FORESTALES 
+ 
+ 
+ 
+ 
+                  
+Agustinas 1343 Piso 4, Santiago, Chile  
+ 
+ 
+ 
+    www.cmpc.com 
+  
+2 
+ 
+ANEXO 1: Cronograma actualizado de Trabajo EDAC Planta Maule 
+ 
+  
+Estado 
+2025 
+2026 
+MAR ABR MAY JUN JUL AGO SEP OCT NOV DIC ENE FEB MAR ABR MAY 
+JUN 
+JUL AGO SEP OCT 
+Planificación y 
+requerimientos 
+EDAC. 
+Finalizado   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Suministros 1 
+Finalizado   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Protocolización de 
+equipos (P1 y P3)  Finalizado   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Puesta en Servicio 
+de relés (P1 y P3) 
+(DI2025122703) 
+Finalizado 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Suministros 2  
+Finalizado   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Protocolización de 
+equipos y 
+alambrado 
+(P3,P6,Q9) 
+Pendiente   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Puesta en Servicio 
+de relés 
+Pendiente   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Ejecución de 
+Pruebas SITR 
+Pendiente 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Entrada en 
+Operación 
+*Emisión carta al 
+CEN - PES de 
+cargas EDAC 
+Pendiente   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Tabla 1 Cronograma actualizado de Trabajo EDAC – Maule 
+ 

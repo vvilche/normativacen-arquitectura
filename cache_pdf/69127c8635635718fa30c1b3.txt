@@ -1,0 +1,183 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+                                                                                                                           
+                             
+ 
+ 
+ 
+Señores 
+Encargados 
+Según Lista de Distribución 
+Presente 
+      Santiago, 10 de noviembre de 2025 
+   DE 07280-25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+De mi consideración: 
+Ref.: Incorporación 
+de unidades generadoras 
+adicionales al EDAG de la Zona Centro Sur del 
+PDCE ZN 
+[1] Carta DE 03967-25, de fecha 30 de junio de 2025, 
+publicación 
+del 
+Informe 
+de 
+Servicios 
+Complementarios 2026, versión junio 2025. 
+Me refiero a la carta de la Ref. [1], mediante la cual se comunicó la publicación del Informe de 
+Servicios Complementarios 2026 (ISSCC 2026) en su versión definitiva y, en particular, a lo 
+indicado en la sección 7.3.2.1 EDAG por Contingencia Específica literal c) EDAG asociado a PDCE 
+Zona Norte. 
+ 
+Específicamente, en el ISSCC se señala que el automatismo asociado al EDAG por Contingencia 
+Específica de la Zona Centro Sur, deberá considerar la implementación de desprendimiento de 
+generación por ajuste fijo de sobrefrecuencia y el envío de información hacia la Celda Maestra de 
+la SE Charrúa, considerando a las unidades generadoras indicadas en la Tabla 7.13 del Informe 
+ya mencionado y que se incluye en Anexo. 
+ 
+Al respecto, y para efectos de dar inicio a sus respectivos proyectos, cito a su representada a una 
+reunión técnica telemática, para el día jueves 13 de noviembre de 2025 a las 11:00 hrs, para 
+presentarle mayores detalles del proceso, definir los planes de trabajo, datos de contacto, entre 
+otra información necesaria y aclarar sus dudas respecto del proyecto que deberá implementar. La 
+respectiva cita TEAM les será enviada hoy a sus correos electrónicos. 
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+GO/SGASO/DMAP 
+Incluye: Lo indicado. 
+c.c.: 
+Sres. Encargados Suplentes, según lista de Distribución 
+Encargada Titular y Suplente de Transelec S.A. 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+                                                                                                                           
+                             
+ 
+ 
+Lista de Distribución 
+ 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+AELA GENERACIÓN S.A. 
+COLBÚN S.A. 
+CÓNDOR ENERGÍA SPA   
+EMPRESA ELÉCTRICA VENTANAS SPA 
+ENEL GENERACIÓN CHILE S.A. 
+ENERGÍA EÓLICA LOS OLMOS SPA   
+ENERGÍA EÓLICA MESAMÁVIDA SPA   
+ENERGÍA EÓLICA SAN MATÍAS SPA   
+ENGIE ENERGÍA CHILE S.A. 
+HUEMUL ENERGÍA SPA   
+OPDENERGY GENERACIÓN SPA   
+PARQUE EÓLICO CAMPO LINDO SPA   
+STATKRAFT EOLICO S.A.   
+TRANSELEC S.A. 
+VIENTOS DE RENAICO SPA   
+WPD DUQUECO SPA 
+WPD MALLECO SPA   
+WPD NEGRETE SPA  
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+                                                                                                                           
+                             
+ 
+ANEXO 
+Lista de unidades generadoras ERV a integrarse al EDAG ZN 
+ 
+ 
+Coordinado 
+Unidad o central 
+Ajuste 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+PE SAN GABRIEL 
+51.4 [Hz] 
+PE TOLPAN SUR 
+51.8 [Hz] 
+AELA GENERACIÓN S.A. 
+PE CUEL 
+51.4 [Hz] 
+PE AURORA 
+51.4 [Hz] 
+COLBÚN S.A. 
+TER NEHUENCO CC1-TV 
+51.5 [Hz] @ 4 s 
+CÓNDOR ENERGÍA SPA   
+PE ALENA 
+51.8 [Hz] 
+EMPRESA ELÉCTRICA VENTANAS SPA 
+TER NUEVA VENTANA 
+51.5 [Hz] @ 4 s 
+ENEL GENERACIÓN CHILE S.A. 
+HE RAPEL 
+51.5 [Hz] @ 4 s 
+TER SAN ISIDRO II CC1-TV 
+51.5 [Hz] @ 4 s 
+PE RENAICO II 
+51.4 [Hz] 
+PE LA CABAÑA 
+51.6 [Hz] 
+PE RENAICO I 
+51.8 [Hz] 
+ENERGÍA EÓLICA LOS OLMOS SPA   
+PE LOS OLMOS 
+51.6 [Hz] 
+ENERGÍA EÓLICA MESAMÁVIDA SPA   
+PE MESAMAVIDA 
+51.8 [Hz] 
+ENERGÍA EÓLICA SAN MATÍAS SPA   
+PE SAN MATIAS 
+51.4 [Hz] 
+ENGIE ENERGÍA CHILE S.A. 
+PE SAN PEDRO 
+51.4 [Hz] 
+PE SAN PEDRO II 
+51.4 [Hz] 
+HUEMUL ENERGÍA SPA   
+PE PUELCHE SUR 
+51.6 [Hz] 
+OPDENERGY GENERACIÓN SPA   
+PE LA ESTRELLA 
+51.6 [Hz] 
+PARQUE EÓLICO CAMPO LINDO SPA   
+PE CAMPO LINDO 
+51.8 [Hz] 
+STATKRAFT EOLICO S.A.   
+PE CARDONAL 
+51.4 [Hz] 
+PE MANANTIALES 
+51.8 [Hz] 
+PE LOS CERRILLOS 
+51.8 [Hz] 
+VIENTOS DE RENAICO SPA   
+PE LA FLOR 
+51.6 [Hz] 
+WPD DUQUECO SPA 
+PE LOMAS DE DUQUECO 
+51.8 [Hz] 
+WPD MALLECO SPA   
+PE MALLECO NORTE 
+51.4 [Hz] 
+PE MALLECO SUR 
+51.6 [Hz] 
+WPD NEGRETE SPA   
+PE NEGRETE 
+51.8 [Hz] 
+ 
+ 
+ 

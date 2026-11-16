@@ -1,0 +1,125 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+Santiago, 14 de enero de 2026 
+DE 00268-26 
+Señora 
+María José Reveco A. 
+Encargada Titular 
+Transelec Holdings Rentas Ltda. 
+Presente 
+Ref.: Resultado de Ensayos de Verificación de 
+Servicios Complementarios – Control de Tensión (CT) 
+de reactor en SE Nueva Ancud. 
+[1] Carta OR-000016-2026 de Transelec Holdings 
+Rentas Ltda., Ref.: “Respuesta a observaciones de 
+Informe 
+Técnico 
+de 
+Verificación 
+de 
+Servicios 
+Complementarios – Control de Tensión (CT) del 
+proyecto NUP 3886 Reactor en S/E Nueva Ancud (NR 
+AT) (OA-D185/2021)”, de fecha 12 de enero de 2026.  
+Responde Ingreso DE00286-26. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión el informe técnico de 
+verificación de Servicios Complementarios (SSCC) enviado por su representada mediante la 
+carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 4-16 
+de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el proceso de 
+Verificación de Servicios Complementarios de Control de Tensión (CT) del Reactor de la S/E 
+Nueva Ancud, propiedad de Transelec Holdings Rentas Ltda.  
+ 
+Como resultado de este proceso, la instalación indicada queda habilitada para la prestación de 
+dicho servicio, mediante el recurso técnico identificado en el Anexo 1 de la presente carta. 
+ 
+El informe técnico que justifica la Verificación de Servicios Complementarios de Control de 
+Tensión (CT) de la instalación ya mencionada se encuentra publicado en el sitio web del 
+Coordinador en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Transmisión > Control de 
+Tensión > Reactores > S/E Nueva Ancud 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GZV/CRV/PBA/PCG/adr 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+Anexo 1: Resultados Proceso de Verificación de Servicios 
+Complementarios de Control de Tensión (CT) del Reactor de la S/E Nueva Ancud 
+1. Identificación de Instalaciones Verificadas 
+Reactor en S/E Nueva Ancud paño JZ1, con una capacidad de absorción nominal de 50 
+[MVAr]. 
+ 
+2. Servicios Complementarios que presta la instalación 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+ 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+• 
+El tiempo que transcurre desde que se recibe la orden de energizar el reactor hasta que 
+se concreta efectivamente la maniobra es de 3 [min] para el reactor JZ1 de S/E Nueva 
+Ancud, limitándose a las operaciones internas de la subestación. 
+• 
+El Control de Tensión se realiza en barra 220kV de SE Nueva Ancud. 
+ 
+4. La indicación relativa a la existencia de medios alternativos de envío de señales, según 
+Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Transelec Holdings Rentas 
+Ltda. para su instalación asociada a la S/E Nueva Ancud. 
+ 
+5. Cuantía del recurso que puede prestar la instalación por Servicio Complementario, 
+categorías y subcategorías. 
+Se verifica un (1) reactor, marca HYOSUNG, con una capacidad nominal de 50 [MVAr] en la 
+S/E Nueva Ancud perteneciente a Transelec Holdings Rentas Ltda.  
+A continuación, se indica la capacidad y tipo de unidad del reactor. 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión  
+Subcategoría 
+Control de Tensión  
+Modos de Control 
+Control de Potencia Reactiva y 
+Control de Tensión 
+Instalación 
+Tensión [pu] 
+ 
+Condición 
+Potencia Reactiva Máxima [MVAr] 
+0,93  
+0,95 
+1,00 
+1,05  
+1,07  
+Reactor SE Nueva Ancud 
+Máxima 
+Absorción 
+43,644 
+45,542 
+50,462 
+55,634 
+57,774 
+ 

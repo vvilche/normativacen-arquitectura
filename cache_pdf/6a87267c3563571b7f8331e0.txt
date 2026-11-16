@@ -1,0 +1,114 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl
+Santiago, 20 de agosto de 2026 
+DE 05566-26 
+Señor 
+Diego Arenas 
+Gerente División Sistemas 
+Contac Ingenieros 
+Presente 
+Ref.: Requerimiento de actualización de 
+información 
+sobre 
+incidente 
+de 
+Ciberseguridad. 
+De mi consideración: 
+De acuerdo los antecedentes contenidos en el último Informe Preliminar de Incidente de 
+Ciberseguridad Rev. B y correo de actualización del viernes 14 agosto, agradecemos 
+puedan informar el estado actualizado del incidente y los plazos comprometidos para las 
+actividades que aún se encuentran pendientes. 
+En particular, necesitamos contar con una actualización de la situación que permita conocer 
+con claridad al menos los siguientes antecedentes: 
+•
+Estado del incidente: indicar expresamente el estado actual de las actividades de
+repuesta en términos de contención, erradicación y recuperación, diferenciando
+aquellas completadas de las que continúan en ejecución, junto con sus respectivos
+plazos estimados de cierre.
+•
+Soporte empresas especializadas: Indicar el nombre de las empresas que están
+brindando apoyo en la respuesta del incidente o análisis forense
+•
+Alcance actualizado: Indicar las categorías de infraestructura comprometida
+detectada a la fecha (activos de desarrollo, finanzas y administración, etc.)
+•
+Vector de ataque y causa raíz: detallar los resultados de la investigación respecto
+del mecanismo mediante el cual fueron comprometidas inicialmente las
+credenciales, el acceso inicial utilizado por el atacante, la utilización posterior de
+dichas credenciales, movimiento lateral, mecanismos de persistencia y forma
+mediante la cual se desplegó el ransomware, indicando además la causa raíz
+identificada o el estado actual de su investigación
+•
+Indicadores de Compromiso (IoC): informar los IoC identificados durante la
+investigación, tales como direcciones IP, dominios/URL, hashes, archivos,
+procesos, software instalado, cuentas comprometidas, equipos involucrados u otros
+indicadores que permitan efectuar verificaciones adicionales
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl
+•
+Exfiltración de información: determinar qué información fue accedida y/o extraída
+o alcance estimado de la información comprometida y evidencia utilizada para
+concluir que no existiría información del Coordinador afectada
+•
+Controles de seguridad: identificar los controles preventivos, detectivos o de
+respuesta que resultaron inexistentes, insuficientes o que no operaron según lo
+esperado y que permitieron la materialización o propagación del incidente
+•
+Medidas de remediación: indicar cuales medidas de remediación de están
+tomando, su estado, fecha de compromiso y pendientes de implementar.
+•
+Erradicación: acciones ejecutadas para eliminar mecanismos de persistencia,
+cuentas o sesiones comprometidas, artefactos maliciosos y cualquier otro elemento
+asociado al ataque (incluir las verificaciones para determinar que no persiste
+actividad maliciosa)
+•
+Recuperación: estado de restauración de los sistemas afectados, controles
+aplicados antes de su reincorporación, validación de respaldos y plazo estimado
+para alcanzar la recuperación completa
+•
+Investigación forense: estado de la investigación especializada indicada en el
+informe, cronología, principales hallazgos obtenidos a la fecha, actividades
+pendientes y plazo previsto para contar con conclusiones definitivas
+•
+Informes periódicos: mientras el incidente permanezca abierto, solicitamos una
+actualización de la información con una periodicidad de al menos una vez por
+semana. Ante cualquier reactivación del incidente, nuevo hallazgo relevante,
+ampliación del alcance o identificación de un nuevo incidente relacionado, se deberá
+realizar una notificación inmediata
+Agradeceremos que estos antecedentes sean incorporados en una nueva revisión del 
+Informe de Incidente, incluyendo el estado de las actividades, responsables, plazos 
+comprometidos y acciones pendientes, entregado a más tardar el 25 de agosto de 2026. 
+Asimismo, solicitamos informar la fecha estimada para disponer del informe final de cierre 
+del incidente. 
+Sin otro particular, saluda atentamente a usted, 
+Víctor Reyes Jara 
+Jefe de departamento SCADA 
+Coordinador Eléctrico Nacional 
+VRJ/ycl 
+
+1
+De:
+Yesenia Canales Lopez
+Enviado el:
+jueves, 20 de agosto de 2026 10:41
+Para:
+darenas@contac.cl
+CC:
+Carola Irlanda Díaz Quiroz; Victor Reyes Jara
+Asunto:
+Se adjunta carta DE05566-26 Requerimiento de actualización de información
+Datos adjuntos:
+DE 05566-26 Carta Solicitud de información.pdf
+Señor Diego Arenas: 
+Junto con saludarlo y por especial encargo del Señor Vítor Reyes J., jefe de Departamento SCADA del Coordinador 
+Eléctrico Nacional, se adjunta carta de la referencia: Requerimiento de Actualización de Información sobre incidente 
+de Ciberseguridad.  
+Agradeceremos a usted confirmar su recepción a este correo electrónico. 
+Se despide atentamente 
+Yesenia Canales 
+Secretaria 
+Gerencia Personas y Administración
+Santiago de Chile 
+Tel: +56 2 2424 2444 
+www.coordinador.cl 

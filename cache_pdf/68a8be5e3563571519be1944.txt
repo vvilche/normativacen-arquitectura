@@ -1,0 +1,86 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 22 de agosto de 2025 
+DE 04979-25 
+Señor  
+Sebastián Ruiz-Tagle  
+Encargado Titular 
+Colbún S.A. 
+Presente 
+Ref.: Solicita aclarar comportamiento de la Central 
+PFV Diego de Almagro Sur en la prestación del Control 
+Primario de Frecuencia. 
+[1] Carta GO N°147/2024 del coordinado Colbún S.A., 
+Ref.: 
+“Observaciones 
+al 
+Informe 
+Técnico 
+de 
+Verificación de SSCC de la Central PFV Diego de 
+Almagro Sur”, de fecha 19 de agosto de 2024 
+[2] Carta DE04857-24, Ref.: “Resultado del Proceso de 
+Verificación de los SSCC de CPF y CTF de la Central 
+PFV Diego de Almagro Sur”, de fecha 26 de 
+septiembre de 2024. 
+De mi consideración: 
+ 
+En relación con la materia indicada en la referencia, se ha observado en la operación en 
+tiempo real que la prestación del Servicio Complementario de Control Primario de 
+Frecuencia (CPF) de la Central PFV Diego de Almagro Sur no se ajusta a lo esperado, 
+según lo establecido en el Informe de Verificación del Control Primario de Frecuencia 
+enviado mediante carta de la Ref. [1], aprobado mediante carta de la Ref. [2]. 
+ 
+En las Figuras 1 y 2 se muestra el comportamiento de la central en momentos en que fue 
+instruida para prestar el servicio de CPF durante los días 16 y 19 de julio. En ambas 
+ocasiones la instalación no presenta una respuesta acorde a la característica de la 
+prestación del servicio. Asimismo, se observa que la respuesta de la central presenta un 
+comportamiento con oscilaciones que alcanzan variaciones de hasta 100 MW en un periodo 
+de 20 segundos. Esta situación, que también se ha evidenciado en la operación en tiempo 
+real en distintos días, compromete la estabilidad y seguridad del sistema, además de 
+dificultar la gestión del control de frecuencia por parte del Centro de Despacho y Control. 
+ 
+Figura 1: Respuesta PFV Diego de Almagro Sur, 16 de julio 2025. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Figura 2: Respuesta PFV Diego de Almagro Sur, 19 de julio 2025. 
+ 
+ 
+Frente a esta situación, y conforme a lo establecido en el Artículo 4-18 de la Norma Técnica 
+de Servicios Complementarios (NT SSCC), se solicita a su representada lo siguiente: 
+ 
+1. Enviar un informe explicativo que describa las razones técnicas del comportamiento 
+presentado por la central PFV Diego de Almagro Sur, así como las medidas 
+adoptadas por Colbún S.A. para evitar que este comportamiento no deseado se 
+repita en la operación en tiempo real. 
+2. Presentar un plan de trabajo orientado a normalizar comportamiento esperado de la 
+central. Este plan deberá contemplar una fecha de término no superior a un mes 
+calendario desde la fecha límite de respuesta a esta comunicación e incluir la 
+realización de la prueba indicada en el numeral 3. 
+3. Realizar pruebas de operatividad con el fin de verificar que el controlador de 
+potencia/frecuencia de la central opere correctamente y con las características 
+validadas en la carta de la Ref. [2], una vez ejecutadas las acciones correctivas 
+correspondientes. Para ello, se deberá activar el CPF en la Central Diego de 
+Almagro Sur durante un periodo mínimo de una hora, y remitir un informe con los 
+resultados del comportamiento de la central, mediante carta y con copia al correo 
+verificacion.sscc@coordinador.cl.  
+ 
+Considerando lo anterior, se solicita enviar a más tardar el 5 de septiembre del 2025, 
+mediante carta, el informe explicativo y el plan de trabajo solicitados en los numerales 1 y 
+2. 
+   
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+CRV/DIR/adr 
+ 

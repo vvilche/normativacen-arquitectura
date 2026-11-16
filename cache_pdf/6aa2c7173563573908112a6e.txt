@@ -1,0 +1,70 @@
+ 
+  
+    CARTA CA CENT 53/2026  
+Santiago, 09 de septiembre de 2026  
+  
+Señor  
+Diego Perales Roehrs  
+Gerente Legal y Regulación 
+Coordinador Eléctrico Nacional  
+Presente  
+ 
+  
+  
+  
+  
+Ref.: Carta DE005990-26, de 07 de septiembre de 2026. Priorización de incumplimientos 
+informados a la Superintendencia de Electricidad y Combustibles.  
+ 
+Responde a: Antecedentes relativos a las pruebas de verificación de funcionamiento SCADA 
+del Plan de Recuperación de Servicio, período 2025.  
+ 
+De nuestra consideración:  
+ 
+Nos dirigimos a usted en representación de Centella Transmisión S.A., en relación con la carta 
+de la referencia tomamos conocimiento y, particularmente, con la información incorporada en 
+su Anexo, numeral 3.3.1, letra b), relativa a las pruebas de verificación del funcionamiento 
+SCADA asociadas al Plan de Recuperación de Servicio (PRS) del período 2025.  
+ 
+Sobre el particular, solicitamos tener presente que, a la fecha de emisión de la carta mediante 
+la cual el Coordinador informó a la Superintendencia de Electricidad y Combustibles la 
+priorización de los incumplimientos, Centella Transmisión S.A. ya había ejecutado las pruebas 
+PRS correspondientes al período 2025 y contaba con el respectivo Informe de Certificación de 
+fecha 12 de agosto de 2026.  
+ 
+En efecto, las actividades de verificación fueron realizadas durante junio de 2026 e incluyeron 
+pruebas en la S/E Centella, en el Centro de Control, la conmutación de enlaces de 
+comunicación, la prueba de avalancha de datos y la conmutación entre los servidores SCADA 
+principal y de respaldo. El informe de certificación concluye que las pruebas de redundancia de 
+alimentación del Centro de Control y de los servidores SCADA fueron exitosas, que la plataforma 
+mantuvo su continuidad operacional y que las comunicaciones y el envío de información al 
+Coordinador se mantuvieron durante los ejercicios ejecutados.  
+ 
+
+Por consiguiente, la condición consignada en el Anexo de la carta DE005990-26, que identifica 
+a Centella Transmisión S.A. con un avance real de 0% y señala que no habría respondido al 
+requerimiento de realización de pruebas SCADA, no refleja el estado material de cumplimiento 
+existente al 07 de septiembre de 2026. A esa fecha, las pruebas ya se encontraban ejecutadas 
+y certificadas, sin perjuicio de las observaciones y oportunidades de mejora consignadas en el 
+informe técnico.  
+ 
+En mérito de lo expuesto, solicitamos al Coordinador actualizar y complementar los 
+antecedentes remitidos a la Superintendencia de Electricidad y Combustibles, dejando 
+constancia de que Centella Transmisión S.A. había realizado las pruebas PRS del período 2025 
+antes de la fecha en que se informó la priorización. Asimismo, solicitamos que el Informe de 
+Certificación adjunto sea considerado como antecedente de respaldo para la rectificación o 
+aclaración que corresponda.  
+ 
+La presente comunicación tiene por objeto asegurar que la información puesta a disposición 
+de la autoridad refleje de manera completa, actualizada y trazable el estado de cumplimiento 
+de nuestra representada.  
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+Jorge Pérez Cruz  
+Gerente Tecnico de Transmisión.  
+Centella Transmisión S.A. 
+Adj: Lo indicado  
+  

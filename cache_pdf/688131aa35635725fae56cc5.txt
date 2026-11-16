@@ -1,0 +1,80 @@
+ 
+Santiago, 23 de julio de 2025. 
+ACC.ECH.082.25 
+Señor: 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional. 
+Av. Parque Isidora N° 1061, Pudahuel 
+Santiago de Chile Chile 
+ 
+REF.:  DE 04229-25 INSTRUYE HABILITAR PROTECCIÓN DE SOBREFRECUENCIA 
+EN UNIDADES ERV PARA INCORPORARSE AL EDAG TRANSITORIO FASE 0. 
+ 
+En respuesta a su carta de la referencia, fechada el 15 de julio, respecto a su instrucción para implementar 
+los ajustes en las protecciones de sobre frecuencia en nuestras unidades generadoras, conforme al ISSCC 
+2026, en el que solicita el envío de un plan de trabajo indicando las actividades que se llevarán a cabo para 
+implementar estos ajustes antes del 15 de agosto de 2025, presentamos a continuación el listado de 
+actividades y el respectivo cronograma. 
+ 
+Actividades: 
+- 
+Levantamiento de Información 
+- 
+Planificación de intervenciones en cada Parque 
+- 
+Implementación ajustes de sobrefrecuencia instruidos 
+- 
+Emisión de Protocolos, incluyendo los Printouts de los equipos de protección 
+ 
+Cronograma Estimado de Ejecución: 
+ 
+Figura 1: Cronograma Implementación Ajustes de Frecuencia, conforme ISCC 2026 
+ 
+Respecto a la implementación de los ajustes de sobrefrecuencia, hacemos notar que hay dos aspectos que 
+no se especifican ni en sus cartas ni en el ISSCC 2026, los cuales se detallan a continuación: 
+ 
+- 
+Retardo de Operación Función de Sobrefrecuencia. 
+- 
+Requerimiento de redundancia de la función de Sobrefrecuencia. 
+ 
+Con el fin de no retrasar la implementación de los ajustes de sobrefrecuencia, y a la espera de una repuesta 
+por vuestra parte de estos puntos, Acciona considerará implementar la función de sobrefrecuencia sin 
+retardo de tiempo y en un solo equipo de protección, preferentemente en el equipo de protección del 
+Transformador Principal del parque. Esto estará sujeto a las prestaciones de dicho equipo, y no se 
+considera implementar la función de sobre frecuencia de forma redundante. 
+21 22 23 24 25 26 27 28 29 30 31
+1
+2
+3
+4
+5
+6
+7
+8
+9 10 11 12 13 14 15
+1
+Levantamiento de Información
+2
+Planificación
+3
+Implementación ajustes de sorbrefrecuencia
+4
+Emisión Protocolos
+Julio
+Agosto
+Actividad
+Ítem
+
+En caso de tener discrepancia respecto a estas consideraciones, solicitamos respetuosamente que nos 
+informen a la brevedad posible. 
+ 
+ 
+Sin otro particular, le saludan atentamente, 
+ 
+ 
+ 
+Felipe Escobar 
+Encargado Suplente 
+Acciona Energía Chile Holdings, S.A. 

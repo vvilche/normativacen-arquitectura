@@ -1,0 +1,123 @@
+ 
+Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 300  
+www.coordinador.cl 
+Santiago, 30 de septiembre de 2025 
+ 
+DE 06148-25 
+Señor 
+Marcelo Abril Labra 
+Jefe División de Ingeniería de Electricidad 
+Superintendencia de Electricidad y Combustibles 
+Presente 
+ 
+ 
+REF.: Actualización de Índices de Indisponibilidad de 
+Suministro de Clientes Libres en Transmisión, Clientes 
+Regulados y Libres en Distribución para el EAF 089-2025. 
+Determinación de la asignación conforme a la metodología 
+informada en la carta de la Ref. [2] y su cuantificación. 
+Caso TIMES 2001237. 
+ 
+[1] Carta DE01993-25 Ref.: “Caso Times N°2170038. 
+Comunicación de Índices de Indisponibilidad y EnS según 
+Norma Técnica de Indisponibilidad de Suministro y 
+Compensaciones para el EAF 089 del año 2025.” de 
+fecha 04 de abril de 2025. 
+ 
+[2] Carta DE05587-25 Ref.: “Actualización Índices de 
+Indisponibilidad de Suministro de Clientes Libres en 
+Transmisión para el EAF 089-2025.” de fecha 04 de 
+septiembre de 2025. 
+[3] Carta DE05335-25 Ref.: “Complementa requerimiento 
+de información. Caso Times N°2001237.” de fecha 27 de 
+agosto de 2025, del Coordinador Eléctrico Nacional a la 
+Superintendencia de Electricidad y Combustibles. 
+[4]  Carta DE02709-25 Ref. “Of. SEC N°276864 de 1 de 
+abril de 2025. Eventos desencadenados EAF089/2025. 
+Caso Times 2001237” de 07 de mayo de 2025. 
+De mi consideración, 
+ 
+Nos referimos a lo requerido por esa Superintendencia en su Oficio Ordinario Electrónico 
+N°284246 de la SEC, de fecha 26 de mayo de 2025, mediante el cual instruye a este 
+Coordinador identificar y cuantificar la Energía No Suministrada (EnS) atribuible a cada 
+empresa participante, conforme a los procedimientos de cálculo establecidos en la Norma 
+Técnica de Indisponibilidad de Suministro y Compensaciones (NTISyC), lo que fue 
+atendido mediante carta DE03668-25 del 16 de junio de 2025. 
+ 
+Al respecto, en Anexo 1 se acompaña la actualización de los cálculos de los Índices de 
+Indisponibilidad de Suministro asociada a los Clientes Libres en Transmisión, informados 
+en cartas de la Ref. [1] y [2]. En esta entrega se agregan los índices para Clientes 
+
+ 
+Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 300  
+www.coordinador.cl 
+Regulados y Libres en Distribución y se actualiza la información previamente enviada 
+conforme a los nuevos antecedentes remitidos por las empresas coordinadas y al estándar 
+de información exigido por la Superintendencia para estos procesos. 
+ 
+Asimismo, en Anexo 2 se especifica a las empresas concesionarias de distribución que no 
+entregaron a este Coordinador la información requerida para los cálculos, de acuerdo con 
+lo instruido.  
+ 
+Por otra parte, en Anexo 3 se entrega nuestra propuesta para la determinación de la 
+asignación de la EnS, conforme a la metodología informada en la carta de la Ref. [3] y su 
+cuantificación. Hacemos presente que la propuesta para la determinación y cuantificación 
+referida ha sido realizada por este Coordinador, según lo instruido expresamente por esa 
+Superintendencia mediante el Oficio Ordinario antes señalado (OF.N°284246), cumpliendo 
+con lo establecido en el Artículo 72°-20 de la Ley General de Servicios Eléctricos y la 
+NTISyC. Lo anterior, es para efectos de que pueda realizar la determinación de los 
+eventuales pagos de compensaciones, así como llevar a cabo la asignación de 
+responsabilidades por la Energía Interrumpida al o los Coordinados que sean definidos 
+como responsables del origen de la falla y su propagación, esto último de acuerdo a lo 
+expresamente indicado por el artículo 2-5 de la Norma Técnica antes referida. 
+ 
+Cabe destacar que hemos recibido una serie de observaciones por parte de empresas 
+coordinadas, las que fueron revisadas y ponderadas en su mérito, particularmente las que 
+se referían a los cálculos realizados. Sin embargo, considerando la complejidad del 
+proceso y el hecho de que, tal como se señaló en carta de la Ref. [4], la normativa vigente 
+no contempla una metodología específica para discriminar y asignar la energía no 
+suministrada ante eventos como el del 25 de febrero pasado, existen una serie de 
+observaciones asociadas a la metodología, razón por lo que hemos considerado pertinente 
+adjuntar las observaciones recibidas en el Anexo 4. 
+ 
+Ante un hecho inédito en el sistema, como fue el apagón total del suministro eléctrico, el 
+Coordinador ha realizado un análisis técnico exhaustivo para identificar los elementos que 
+participaron en el origen y propagación de la falla, así como en los tiempos de recuperación 
+de servicio. En este trabajo se analizaron aspectos como tiempos de desconexión de 
+centrales de generación y operación de recursos de control de contingencias que fueron 
+instruidos a distintas empresas. 
+ 
+Junto con esto, en cumplimiento de lo instruido por la Superintendencia, el Coordinador 
+definió la metodología ya indicada, para asignar la EnS que fuera simple, reproducible y 
+trazable, la que se hace cargo de la complejidad que tiene este tipo situaciones, donde se 
+han desencadenado una serie de eventos que no se pueden analizar de forma aislada. 
+ 
+ 
+ 
+
+ 
+Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 300  
+www.coordinador.cl 
+Finalmente, quedamos a disposición de la Superintendencia para atender cualquier 
+consulta que pudiera surgir sobre la metodología elaborada y/o los cálculos efectuados. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+          Ernesto Huber J. 
+      Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+Incl.: Lo indicado 
+Anexo 4: Link enviado por correo electrónico. 
+c.c.: Empresas Coordinadas 
+Interrupciones@sec.cl 
+ 
+Sr. Jack Nahmías Suárez - Jefe Unidad Técnica de Generación y Transporte de Electricidad de la SEC. 

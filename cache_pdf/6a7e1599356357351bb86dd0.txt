@@ -1,0 +1,156 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 12 de agosto de 2026 
+OLM 0025-2026 
+ 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+Ref: Observaciones a Indicadores Desempeño Servicios Complementarios – julio 
+2026.  
+[1] DE05255-26, “Publicación de Indicadores de Desempeño de Servicios Complementarios 
+prestados durante el mes de julio de 2026 e Indicadores de Desempeño de SSCC EDAC 
+del mes de junio de 2026”, de fecha 07 de agosto de 2026. 
+ 
+ 
+De mi consideración, 
+ 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. con el propósito de presentar 
+observaciones a los índices de desempeño de Servicios Complementarios publicados 
+mediante la comunicación de la Ref. [1]. 
+ 
+Al respecto, en Anexo a la presente se encuentran las observaciones en comento.  
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+Energía Eólica Los Olmos SpA. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Anexo 
+ 
+Unidad 
+Inicio 
+Termino 
+Instrucción Comentario 
+PE LOS 
+OLMOS 
+14/07/2026 
+15:43 hrs 
+14/07/2026 
+16:38 hrs 
+CTF(+) 
+95 MW 
+Instrucción es registrada en RIO-SSCC como 
+CTF(+) indicando “SUBE 95 MW”. Sin embargo, y 
+según 
+grabación 
+anexada 
+a 
+la 
+presente 
+comunicación, la instrucción dada en Operación de 
+Tiempo Real corresponde a CTF(-) “BAJA 95 MW”. 
+ 
+Se solicita corregir y reevaluar dicho período. 
+ 
+ 
+PE LOS 
+OLMOS 
+14/07/2026 
+15:53 hrs 
+14/07/2026 
+16:39 hrs 
+CTF(+) 
+44 MW 
+Según lo revisado por mi representada, no se 
+cuenta con registros (escritos/grabaciones de voz) 
+que acrediten la solicitud de activación en cuestión 
+y explicitada en el RIO-SSCC. 
+ 
+Se solicita eliminar la instrucción de activación 
+considerada, en vista de que no existen registros 
+de grabación que den cuenta de la instrucción en 
+comento. 
+ 
+PE LOS 
+OLMOS 
+14/07/2026 
+18:13 hrs 
+14/07/2026 
+18:35 hrs 
+CTF(-) 
+79 MW 
+A las 18:13 horas se instruyó la activación de CTF 
+(-) por un monto de 79 MW. No obstante, a pesar 
+de haberse registrado un parámetro ptc3delta = -
+79.59821229 MW, el período C3 fue evaluado con 
+un 0% de cumplimiento.  
+ 
+Por un lado, el valor de MT para CTF, según los 
+anexos del informe de SSCC vigente, corresponde 
+a 10.82 MW. Por otro lado, el MT aceptado 
+mediante la carta DE03111-22 corresponde a 
+0,2630 MW. Esta discrepancia entre los valores de 
+MT disponibles habría derivado en la definición de 
+la base de cálculo "con_base" utilizando un 
+parámetro que no representa adecuadamente las 
+condiciones 
+aplicables. 
+Lo 
+anterior 
+resulta 
+particularmente relevante considerando que la 
+instalación respondió a la instrucción recibida de 
+acuerdo con su capacidad técnica disponible, 
+alcanzando una variación de potencia consistente 
+con la magnitud solicitada. 
+ 
+En consecuencia, se solicita revisar el criterio 
+utilizado para la determinación de "con_base" 
+hacia un valor de 79 MW y reevaluar el período C3, 
+de 
+manera 
+que 
+la 
+evaluación 
+refleje 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+adecuadamente el desempeño efectivo de la 
+instalación frente a la instrucción emitida. 
+ 
+Tabla1: Observaciones a Índices de Desempeño de SSCC 
+ 

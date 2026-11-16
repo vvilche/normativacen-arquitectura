@@ -1,0 +1,258 @@
+CE-11-2025-DATE  / Pág. 1 de 2
+ 
+Diego de Almagro 
+Transmisora de Energía S.A 
+ 
+ 
+ 
+Diego de Almagro Transmisora de Energía S.A 
+RUT: 76.536.654-2 
+Av. Apoquindo 4501 | Piso 19 
+Oficina 1902 | Las Condes 
+7580128 Santiago 
+T. + +562 3319 7200 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Santiago, Chile 
+ 
+                                                                                                                Santiago, 27 de junio de 2025 
+ 
+ 
+n/ref:   CE-11-2025-DATE – Respuesta carta DE02920-25 “Comunica atraso en proceso de Verificación de 
+Instalaciones de Transmisión para la Prestación de Servicios Complementarios”. Envío de plan de trabajo. 
+ 
+ 
+De nuestra consideración 
+ 
+                                   En relación con el compromiso estipulado en la carta CE-10-2025-DATE, correspondiente   
+al envío del plan de trabajo del proceso de verificación de Servicios Complementarios (SSCC) de las instalaciones 
+de Transmisión de mi representada, se adjunta dicho plan en el Anexo N°1. 
+ 
+ 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+por 
+David Zamora Mesías  
+Gerente de Operaciones  
+Diego de Almagro Transmisora de Energía S.A. 
+ 
+romulo.perez@
+celeogroup.co
+m
+Firmado digitalmente por 
+romulo.perez@celeogrou
+p.com 
+Fecha: 2025.06.27 
+13:29:50 -04'00'
+
+CE-11-2025-DATE  / Pág. 2 de 2
+ 
+Diego de Almagro 
+Transmisora de Energía S.A 
+ 
+ 
+ 
+Diego de Almagro Transmisora de Energía S.A 
+RUT: 76.536.654-2 
+Av. Apoquindo 4501 | Piso 19 
+Oficina 1902 | Las Condes 
+7580128 Santiago 
+T. + +562 3319 7200 
+Anexo N°1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coordinado
+Subestación
+Instalación
+Paño
+SSCC
+Fecha de entrega de 
+informe de verificación 
+de SSCC
+Diego de Almagro Transmisora de Energía S.A.
+S/E Illapa 220 kV
+ Línea 220 kV Illapa - Diego de Almagro C2 
+J1
+EV
+oct-25
+Diego de Almagro Transmisora de Energía S.A.
+S/E Illapa 220 kV
+Línea 220 kV Illapa - Diego de Almagro C2 (Intermedio)
+J2
+EV
+oct-25
+Diego de Almagro Transmisora de Energía S.A.
+S/E Illapa 220 kV
+ Línea 220 kV Illapa - Diego de Almagro C3 
+J3
+EV
+oct-25
+Diego de Almagro Transmisora de Energía S.A.
+S/E Illapa 220 kV
+ Línea 220 kV Illapa - Diego de Almagro C1
+J4
+EV
+oct-25
+Diego de Almagro Transmisora de Energía S.A.
+S/E Illapa 220 kV
+Línea 220 kV Illapa - Carrera Pinto C3 (Intermedio)
+J5
+EV
+oct-25
+Diego de Almagro Transmisora de Energía S.A.
+S/E Illapa 220 kV
+ Línea 220 kV Illapa - Carrera Pinto C3 
+J6
+EV
+oct-25
+Diego de Almagro Transmisora de Energía S.A.
+S/E Illapa 220 kV
+Línea 220 kV Illapa - Carrera Pinto C2 (Intermedio)
+J8
+EV
+nov-25
+Diego de Almagro Transmisora de Energía S.A.
+S/E Illapa 220 kV
+ Línea 220 kV Illapa - Carrera Pinto C2 
+J9
+EV
+nov-25
+Diego de Almagro Transmisora de Energía S.A.
+S/E Illapa 220 kV
+Línea 220 kV Illapa - Carrera Pinto C1 (Intermedio)
+J11
+EV
+nov-25
+Diego de Almagro Transmisora de Energía S.A.
+S/E Illapa 220 kV
+ Línea 220 kV Illapa - Carrera Pinto C1 
+J12
+EV
+nov-25
+Cronograma de Verificación de SSCC en instalaciones de Transmisión 

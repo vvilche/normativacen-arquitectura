@@ -1,0 +1,188 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 25 de febrero de 2025 
+DE 01243-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Acepta Parámetros de Partida y Detención 
+de la Central PFV Tamarico, del Coordinado 
+Tamarico Solar Dos SpA. 
+[1] Carta TAM-E-005-24, Ref.: “NUP 876 PFV 
+Tamarico Fase I – Informa Entrega de Informe de 
+Parámetros de Partida y Detención V2”, de fecha 
+30 de diciembre de 2024. Ingreso DE07504-24.  
+[2] Carta DE00296-25, Ref.: “[NUP 876] Informes 
+Técnicos de Parámetros Operacionales del PFV 
+Tamarico, de Tamarico Solar Dos SpA.”, de fecha 
+15 de enero de 2025. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+PFV Tamarico, en conformidad con el Informe Técnico recibido mediante la comunicación 
+de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+indicado publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+PFV Tamarico se presentan en el anexo de la presente comunicación. 
+ 
+Al respecto, comunico a Ud., que este parámetro entrará en vigencia a partir de las 00:00 
+horas del 28 de febrero de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > 
+Parámetros de Partida y Detención > Informes Determinación de Parámetros para 
+Procesos de Partida y Detención de Unidades Generadoras > PFV Tamarico 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+                            
+ 
+ 
+Gretchen Zbinden V. 
+                                                           Subgerente de Análisis y Soporte Operacional 
+ 
+Coordinador Eléctrico Nacional 
+ 
+JKH/PPF/DGQ/adr 
+c.c.:  Sr. Luis Fredes – Encargado Titular Tamarico Solar Dos SpA 
+SGESO/DCO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central PFV Tamarico 
+ 
+ 
+Tabla 1. Parámetros del proceso de partida Central PFV Tamarico. 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0004 
+0,0006 
+Tiempo [minutos] 
+0,7167 
+0,1000 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0001 
+0,0304 
+Tiempo [minutos] 
+0,1473 
+5,0678 
+ 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención Central PFV Tamarico. 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0261 
+Tiempo [minutos] 
+0,0133 
+4,3511 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0002 
+0,0014 
+Tiempo [minutos] 
+0,4166 
+0,2333 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+ 
+NOTA: El tiempo mínimo de operación (TMO) y tiempo mínimo de detención (TMD) 
+son 0 [min]. 

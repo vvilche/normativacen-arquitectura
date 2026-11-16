@@ -1,0 +1,100 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 6 de marzo de 2026 
+ 
+    
+DE 01546-26 
+Señor 
+Eliseo López 
+Encargado Titular  
+Generación Solar SpA 
+Presente 
+Ref.: Solicitud de cronograma de actividades 
+para envío de información para CSF y 
+respuesta sobre limitación para cargar desde la 
+red de BESS PFV María Elena (BESS 
+Generación Solar). 
+Responde a ingreso: DE01518-26. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en respuesta a las consultas efectuadas 
+mediante comunicación Ref. [1], este Coordinador solicita a Generación Solar SpA remitir 
+un cronograma detallado, indicando plazos y fechas comprometidas para el cumplimiento 
+del envío de la información requerida para completar el proceso de verificación del Control 
+Secundario de Frecuencia (CSF) del BESS PFV María Elena. 
+ 
+El plazo total de ejecución no podrá exceder los 30 días corridos a partir de la fecha de 
+solicitud de respuesta de la presente comunicación. Para estos efectos, el cronograma 
+deberá contemplar el envío de la siguiente información: 
+1. Certificado de disponibilidad correspondiente al canal provisto por Entel, el cual, en 
+conjunto con el canal Hispasat, permite alcanzar la disponibilidad global requerida 
+de 99,95%. 
+2. Envío de registros frecuencia/potencia para la verificación del desempeño de la 
+prestación del CPF del BESS PFV María Elena. 
+Respecto la fuente utilizada para el envío de datos de desempeño, se informa que no es 
+mandatorio que corresponda a un sistema de medición dedicado. En este sentido, la PMU 
+mencionada en carta de la Ref. [1] podrá ser utilizada para el envío de los registros 
+frecuencia/potencia, siempre que se cumpla con la resolución exigida, formato y 
+procedimiento de carga de archivos indicado en la carta de la Ref. [2]. 
+ 
+En cuanto a la implementación de un método transitorio de envío, se aclara que este 
+corresponde a un mecanismo de envío manual, el cual deberá cumplir con una resolución 
+de 1 segundo para las variables requeridas en carta de la Ref. [2]. Dicho mecanismo tendrá 
+carácter transitorio, pudiendo implementarse exclusivamente por un período acotado de 
+tiempo, conforme a lo establecido en la Norma Técnica de Servicios Complementarios. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+Respecto a lo planteado en la carta DE00379-26, mediante la cual se verifican los SSCC 
+de CPF, CSF y CTF del BESS PFV María Elena, en particular a la siguiente indicación 
+“Cabe destacar que, a la fecha de emisión de esta carta de verificación (20/01/2026), el 
+BESS PFV María Elena no tiene permitido cargarse desde la red”, se informa que dicha 
+observación corresponde a la información disponible al momento de la emisión de la 
+referida carta, pudiendo esta condición ser modificada a solicitud del titular de la instalación. 
+ 
+Respecto al marco normativo, según lo establecido en el Decreto Supremo N°70 y a la 
+Norma Técnica de Coordinación y Operación del Sistema Eléctrico Nacional, este 
+Coordinador ratifica que es posible que la instalación realice retiros desde la red. Sin 
+perjuicio de lo anterior, para habilitar dichos retiros se requiere una autorización de este 
+Coordinador mediante el régimen de Acceso Abierto. Para lo anterior, su representada debe 
+ingresar un proyecto fehaciente mediante la plataforma de Acceso Abierto. En relación con 
+lo anterior, en caso de tener consultas respecto de cómo realizar ese proceso, las puede 
+realizar al siguiente correo acceso.abierto@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/DIR/PGR/WJS/adr 
+c.c.:  
+Sr. Bruno Arnold – Encargado Suplente Generación Solar SpA. 
+ 
+ 
+Referencias: 
+ 
+[1] Carta S/N de Generación Solar SpA, Ref.: “Respuesta Carta DE 00379-26 - Sobre 
+DE00379-26 y carga del BESS de Generación Solar”, de fecha 18 de febrero de 2026. 
+Ingreso DE01518-26 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva CF 2025.07.31 > Protocolo de envío de registros Potencia/Frecuencia para 
+la evaluación del CPF 
+ 

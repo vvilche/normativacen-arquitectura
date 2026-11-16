@@ -1,0 +1,201 @@
+ 
+Alfa  
+Transmisora de Energía S.A 
+ 
+ 
+ 
+Alfa Transmisora de Energía S.A 
+RUT: 77.337.345-0 
+CE-062-2026-ALFATX   / Pág. 1 de 2
+Av. Apoquindo 4501 | Piso 19 
+Oficina 1902 | Las Condes 
+7580128 Santiago 
+T. +562 3319 7200 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Santiago, Chile 
+                                                                                                                                           Santiago, 19 de agosto de 2026 
+ 
+n/ref: CE-166-2026-ALFATX Envío de protocolos de Verificación de Servicios Complementarios de Equipos (SSCC) de 
+Vinculación de S/E Colbun, S/E Ancoa, S/E Alto Jahuel, S/E Quillota y S/E San Luis. 
+ 
+De nuestra consideración: 
+ 
+En relación con el Instructivo Técnico Verificación de Instalaciones para la Prestación de Servicios Complementarios, 
+y la reprogramación de la implementación de SSCC informada en Carta CE-156-2026-ALFATX, realizamos el envío de 
+los protocolos de verificación de Equipos de Vinculación de las instalaciones indicadas en la referencia. 
+ 
+A continuación, se detallan los protocolos adjuntos: 
+ 
+Coordinado 
+Subestación 
+Instalación 
+Paño 
+SSCC 
+Protocolo de 
+verificación 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Alto Jahuel 
+LT 220kV Alto Jahuel - Maipo N°1 
+J10 
+EV 
+PE-VSC-32 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Alto Jahuel 
+LT 220kV Alto Jahuel - Maipo N°2 
+J3 
+EV 
+PE-VSC-31 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Ancoa 
+LT 220kV Ancoa - Colbún 
+J9 
+EV 
+PE-VSC-30 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Colbún 
+Línea 220kV Colbún - 
+Seccionadora Puente Negro N°1 
+J7 
+EV 
+PE-VSC-29 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Colbún 
+Configuración en anillo 
+J1 
+EV 
+PE-VSC-25 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Colbún 
+Configuración en anillo 
+J2 
+EV 
+PE-VSC-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Colbún 
+Configuración en anillo 
+J3 
+EV 
+PE-VSC-27 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Colbún 
+Configuración en anillo 
+J4 
+EV 
+PE-VSC-28 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Quillota 
+LT 220kV Quillota - San Luis N°1 
+J5 
+EV 
+PE-VSC-33 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Quillota 
+LT 220kV Quillota - San Luis N°2 
+J6 
+EV 
+PE-VSC-34 
+Alfa Transmisora de 
+Energía S.A. 
+S/E San Luis 
+LT 220kV San Luis - Quillota N°1 
+J11 
+EV 
+PE-VSC-36 
+Alfa Transmisora de 
+Energía S.A. 
+S/E San Luis 
+LT 220kV San Luis - Quillota N°2 
+J9 
+EV 
+PE-VSC-35 
+ 
+ 
+ 
+
+ 
+Alfa  
+Transmisora de Energía S.A 
+ 
+ 
+ 
+Alfa Transmisora de Energía S.A 
+RUT: 77.337.345-0 
+CE-062-2026-ALFATX   / Pág. 2 de 2
+Av. Apoquindo 4501 | Piso 19 
+Oficina 1902 | Las Condes 
+7580128 Santiago 
+T. +562 3319 7200 
+ 
+ 
+Finalmente, se anexan los protocolos para revisión: 
+ 
+• 
+Anexo 1 Protocolos de Verificación SSCC-EV 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+David Zamora Mesías  
+Gerente de Operaciones  
+Alfa Transmisora de Energía S.A. 
+David Germán 
+Zamora 
+Mesías
+Firmado digitalmente 
+por David Germán 
+Zamora Mesías 
+Fecha: 2026.08.21 
+10:42:00 -04'00'

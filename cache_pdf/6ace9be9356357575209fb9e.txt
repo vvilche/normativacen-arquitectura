@@ -1,0 +1,66 @@
+                  
+Santiago de Chile, 13 de octubre de 2026 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Ref.:  Respuesta Carta DE03450-26 - Integración y 
+envío de señales SITR. 
+[1] DE03450-26 de fecha 22 de mayo de 2026, 
+“Instruye integración y envío de señales SITR a 
+PMGD en zona de congestión”. 
+[2] DE 04040-26 de fecha 11 de junio de 2026, 
+“Aclara proceso para integración y envío de 
+señales SITR a PMGD en zona de congestión”. 
+ 
+De nuestra consideración, 
+ 
+Por medio de la presente, Fotovoltaica Avellano SpA, en su calidad de titular del PMGD PFV 
+PARQUE SOLAR MEMBRILLO viene en informar el estado de avance asociado a la implementación 
+y envío de señales al Sistema de Información en Tiempo Real (SITR), conforme a lo instruido 
+mediante las cartas Ref. [1], y Ref. [2].  En cumplimiento de lo solicitado, nuestra representada 
+remitió oportunamente al Coordinador los antecedentes correspondientes a las señales requeridas 
+para la instalación y ha continuado desarrollando las gestiones técnicas necesarias para avanzar en 
+su implementación. 
+ 
+De acuerdo con lo precisado mediante la carta de Ref. [2], la integración al SITR requiere 
+implementar un enlace hacia el sistema de comunicación de la empresa distribuidora 
+correspondiente, de manera que el envío de las medidas del PMGD al Coordinador se realice a través 
+de la infraestructura de comunicaciones de dicha distribuidora. 
+ 
+En este contexto, nuestra representada ha coordinado esta materia con CGE Distribución S.A., 
+empresa distribuidora a la cual se encuentra conectado el PMGD. Al respecto, CGE ha informado 
+que la incorporación de estas señales forma parte de un nuevo proyecto actualmente en desarrollo 
+para dar cumplimiento a los requerimientos normativos vigentes, estimando un horizonte de 
+implementación de al menos un año. 
+ 
+Paralelamente, nuestra representada se encuentra avanzando en las adecuaciones internas 
+necesarias para disponer de las señales solicitadas y preparar la instalación para su posterior 
+integración. 
+ 
+Sin perjuicio de lo anterior, considerando que la puesta en servicio final del envío de señales al SITR 
+depende necesariamente de la disponibilidad de la solución de comunicaciones que actualmente se 
+encuentra desarrollando CGE, estimamos que no resulta posible completar la integración dentro del 
+plazo originalmente establecido en la carta de Ref. [1]. 
+ 
+En virtud de lo expuesto, solicitamos respetuosamente al Coordinador considerar los antecedentes 
+señalados y establecer un nuevo plazo para la implementación definitiva de la integración SITR, 
+considerando el cronograma de habilitación informado por CGE Distribución S.A. 
+ 
+
+                  
+Nuestra representada mantiene plena disposición para continuar avanzando en todas aquellas 
+actividades que se encuentren dentro de su ámbito de responsabilidad y coordinar oportunamente 
+las etapas posteriores de integración una vez que la infraestructura de la empresa distribuidora se 
+encuentre disponible. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Matías Burton 
+Encargado Titular 
+Fotovoltaica Avellano SpA 
+ 

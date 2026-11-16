@@ -1,0 +1,72 @@
+ 
+Santiago, 17 de junio 2026 
+ 
+ 
+Señores Coordinador Eléctrico Nacional  
+Verificación SSCC  
+Proceso de Verificación de Instalaciones 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+ 
+Ref.: Carta DE01004-26 Verificación de SS.CC. centrales Hidroeléctrica El Paso SpA 
+ 
+ 
+De nuestra consideración: 
+ 
+ 
+Tenemos el agrado de adjuntar en Anexo a la presente comunicación el documento “EE-EN-2015-
+1331-RA_Informe_Homologación_ElPaso”. Este informe cuenta con pruebas asociadas al SSCC y CSF 
+solicitadas en carta DE01004-26, las cuales fueron realizadas hace algunos años atrás.  
+ 
+Según la guía de verificación de servicios complementarios - control de tensión, las pruebas se 
+pueden 
+encontrar 
+en 
+el 
+documento 
+adjunto 
+“EE-EN-2015-1331-
+RA_Informe_Homologación_ElPaso” en las siguientes páginas: 
+ 
+- 
+Respuesta temporal lazo de regulación de tensión: se encuentra en páginas 22 y 23 para Unidad 
+N°1, para Unidad N°2 en p.32-33-34 y para Unidad N°3 en p.43-44-45. 
+ 
+- 
+Ensayos de techo de excitación y limites electrónicos: se encuentran en p.17-18-19. Considerar 
+que esta prueba según el informe es válida para las 3 Unidades. 
+ 
+- 
+Respuestas del sistema de excitación con actuación de los limitadores de subexcitación: ensayos 
+se encuentran en páginas 21-22-23-24-25 (como modelo matemático). Mientras que las 
+pruebas por unidad se encuentran en las siguientes páginas: 
+o Unidad N°1 Pag 29-30-31-32 
+o Unidad N°2 Pag 40-41-42-43 
+o Unidad N°3 sin pruebas UEL 
+ 
+- 
+Respuesta del sistema de excitación con actuación de los limitadores de sobreexcitación: en la 
+página N°20 se muestra modelo matemático del limitador de Sobre-excitacion OEL. Para las 
+unidades, se encuentran en las siguientes páginas: 
+o Unidad N°1 26-27-28-29 
+o Unidad N°2 36-37-38-39 
+o Unidad N°3 sin pruebas OEL. 
+ 
+ 
+
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Firma Representante Legal 
+  Nombre: René Ilabaca Davis 
+  
+ 
+ 
+ 
+            RUT: 15.642.496-K 

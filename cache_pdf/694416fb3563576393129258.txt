@@ -1,0 +1,100 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 17 de diciembre de 2025 
+DE 08070-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de Parámetro de Mínimo Técnico 
+de la Central PMG PFV Solar Palermo. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PMG PFV Solar Palermo, en conformidad 
+con el informe técnico recibido mediante la comunicación de la Ref. [1] 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+técnico indicado, publicado en la página web del Coordinador mediante carta de la Ref. [2]. 
+Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado.  
+ 
+Conforme con lo anterior, los parámetros de mínimo técnico de la central PMG PFV Solar 
+Palermo, se presentan en la siguiente tabla: 
+ 
+Tabla 1: Mínimo Técnico de la Central PFV Solar Palermo 
+Central/Unidad 
+Mínimo Técnico (1) 
+[MW] 
+SS/AA (2) 
+[MW] 
+Pérdidas en la 
+central (3) 
+[MW] 
+Potencia Mínima 
+Neta (4) 
+[MW] 
+PFV Solar Palermo 
+0,1334 
+0,0017 
+0,0105 
+0,1212 
+(1) Considera la operación del parque completo. 
+(2) Corresponde a la suma de los SS/AA (comunes a la central) y los consumos propios de todos los 
+centros de transformación en operación. 
+(3) El valor total de pérdidas en la central corresponde a las pérdidas en la red de media tensión de la 
+central. 
+(4) Inyectada en la barra de 23 kV de la S/E Peumo.  
+ 
+Al respecto, comunico a Ud., que los parámetros de mínimo técnico de la Central PMG PFV 
+Palermo Solar, entrarán en vigencia a partir de las 00:00 horas del 23 de diciembre de 
+2025. 
+ 
+El Informe Técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > Mínimo 
+Técnico > Informes de Mínimos Técnicos Unidades Generadoras > Central PFV 
+Palermo Solar > 2025 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+CRV/PPF/RSM/adr 
+ 
+ 
+Referencias 
+ 
+[1] Carta 20241119-GPGGD-CEN-0263-NRR del Coordinado GPG Generación Distribuida 
+SpA, Ref.: “NUP 2993 Envía Informe de Determinación de Mínimo Técnicos en Unidades 
+Generadoras”, de fecha 19 de noviembre de 2024. Ingreso DE06647-24 
+ 
+[2] Carta DE06446-24, Ref.: Informe de Mínimo Técnico de la Central PFV Solar Palermo, 
+del Coordinado GPG Generación Distribuida SpA”, de fecha 06 de diciembre de 2024. 
+ 
+ 

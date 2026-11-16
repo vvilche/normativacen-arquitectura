@@ -1,0 +1,100 @@
+CORRELATIVO DE 05896-25 
+Asunto: RESPONDE CARTA DE09007-25. Implementación SLRP SQM 
+ 
+ 
+ 
+Señor 
+Angelo Veroiza 
+Sociedad Quimica y Minera de Chile 
+Presente 
+ 
+ 
+De: Joaquin Mesias Bustamante <joaquin.mesias@coordinador.cl>  
+Enviado el: miércoles, 17 de septiembre de 2025 10:44 
+Para: Angelo Veroiza <angelo.veroiza@sqm.com> 
+CC: Jorge Vargas Cáceres <Jorge.Vargas@coordinador.cl>; rodrigo.godoy@sqm.com; Alejandra 
+Domínguez Rivera <Alejandra.Dominguez@coordinador.cl> 
+Asunto: RESPONDE CARTA DE09007-25. Implementación SLRP SQM 
+ 
+Estimado, 
+Hemos tomado conocimiento de la planificación informada para la implementación del 
+sistema de Lectura Remota de Protecciones (SLRP), la cual se encuentra programada a partir 
+del mes de octubre. 
+En este contexto, solicitamos que, a partir de dicha fecha, nos hagan llegar el estado de 
+avance de la implementación. 
+ 
+A continuación, le indico el resumen del proceso completo del SLRP:  
+  
+1. Para solicitar nuevos segmentos de IP favor contactar a TEC.scada@coordinador.cl. 
+2. Para pruebas de comunicaciones entre la Planta y el SLRP del CEN, conforme lo 
+indica el Anexo N°1 del proyecto de implementación SLRP,  contactar con 
+ti.infraestructura@coordinador.cl. 
+3. Con las etapas anteriores validadas por equipo CEN, se procede a revisar 
+sincronización y estructura de Carpetas, según lo establecido en el Anexo N°2 del 
+SLRP, por equipo DMAP@coordinador.cl. 
+4. Para el envío de oscilo grafías y diccionarios para ser validados, donde se indique a 
+qué hace referencia cada canal análogo y digital registrado en la oscilo grafía de 
+manera específica y explícita. Deberá enviar los archivos COMTRADE asociados a 
+cada una de las protecciones que hacen parte del proyecto SLRP a Joaquín Mesías 
+Bustamante <joaquin.mesias@coordinador.cl>, con copia a @DMAP, para ser 
+validados. 
+5. El coordinado deberá subir a las carpetas del SLRP los ajustes de las protecciones en 
+formato propietario (no print-out ni pdfs), lo cual se valida por equipo 
+DMAP@coordinador.cl. 
+6. El Coordinado debe enviar Ingeniería de Detalle del Proyecto, en particular 
+documentos donde se indique la solución implementada, así como los protocolos de 
+pruebas FAT ejecutados. Los protocolos de pruebas deben contener los tiempos 
+
+asociados a la recolección de oscilo grafías en el concentrador local. La informacion 
+debe ser enviada al equipo DMAP@coordinador.cl. 
+ 
+7. Pruebas de integración al SLRP: 
+• 
+Solicitud de pruebas 
+▪ 
+El Coordinado realiza la solicitud por Neomante para ejecutar las 
+pruebas. 
+• 
+Notificación de pruebas 
+▪ 
+El Coordinado informa a DMAP@coordinador.cl los días y horarios en 
+que se llevarán a cabo las pruebas. 
+• 
+Ejecución y registro 
+▪ 
+El Coordinado llevará a cabo las pruebas y una vez realizadas debe 
+adjuntar un archivo Excel (se adjunta formato) con: 
+• 
+La información de los tiempos  registrados. 
+• 
+Confirmación de que las pruebas se realizaron. 
+• 
+Evidencia de carga 
+▪ 
+Con la información recibida, DMAP@coordinador.cl revisará que los 
+archivos se hayan sincronizado correctamente y emitirá los resultados 
+de las pruebas realizadas. 
+8.  
+  
+Las etapas 3,4,5,6 pueden ser realizadas en paralelo. 
+  
+Por otro lado, la documentación exigida se encuentra en el sitio web del coordinador el cual 
+se encuentra en el siguiente enlace: 
+https://www.coordinador.cl/operacion/documentos/plataformas-para-la-
+operacion/modulo-de-registro-de-protecciones-electricas/slrp/. 
+  
+ 
+Agradecemos desde ya su colaboración y quedamos atentos a la información solicitada. 
+Saludos cordiales, 
+  
+ 
+Joaquin Mesias Bustamante 
+Ingeniero del Departamento Modelación y Aplicaciones 
+EMS 
+Gerencia Operación 
+  
+Santiago de Chile 
+Tel: +56224246300 
+ www.coordinador.cl 
+  
+ 

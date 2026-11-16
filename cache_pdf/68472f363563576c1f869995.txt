@@ -1,0 +1,119 @@
+ 
+www.coordinadorelectrico.cl 
+ 
+Santiago, 9 de junio de 2025 
+DE 03450-25 
+ 
+Señor 
+Encargado 
+Empresa Coordinada 
+Presente 
+ 
+ 
+ 
+Ref.:  Informa inicio de marcha blanca el 1 de julio 
+de la plataforma OMNICANAL, módulo 
+OMNIDATA proceso BAEN 
+ 
+ 
+Sr. Encargado:  
+ 
+Como es de su conocimiento, el Coordinador emite mensualmente los cuadros de pago de 
+transferencias de energía, los que se determinan sobre la base de distintas fuentes de 
+información. Entre ellas se encuentran las medidas físicas de inyección y retiro de energía 
+reportadas a través del sistema PRMTE, conforme con el Título 4.5 de la Norma Técnica 
+de Seguridad y Calidad de Servicio, así como las medidas de energía de contratos 
+comerciales informadas por las Empresas Coordinadas mediante la plataforma de 
+Transferencia de Archivos (IFC1). 
+ 
+Al respecto, es importante destacar que, la entrega de datos de medición para los procesos 
+BAEN (Balance de Transferencias de Energía mercado spot) y BADX (Balance de 
+Transferencias de Energía de Empresas Distribuidoras) a través de la plataforma 
+Transferencia de Archivos, realizados por las Empresas Coordinadas, presenta dos 
+problemas generalizados y recurrentes:  i) incumplimiento de los plazos establecidos en la 
+normativa vigente, y ii) la calidad de los datos deficiente (datos incorrectos, incompletos, o 
+bien, corresponden a estimaciones y no a datos reales, etc.). 
+ 
+En virtud de lo expuesto previamente, se hace evidente la existencia de diversos 
+inconvenientes en el cumplimiento de los plazos normativos establecidos para la entrega 
+de los balances en cuestión, así como en la calidad de éstos. Entre los inconvenientes 
+originados podemos mencionar:  errores de valorización por datos de medición incorrectos, 
+necesidad de corrección o estimación de datos que son muy relevantes para los balances, 
+entre otros. Lo cual redunda en atrasos y errores en el proceso de balance de 
+transferencias.  Esto puede originar un impacto significativo a las Empresas Coordinadas 
+que deben cobrar o pagar por sus inyecciones y retiros, aumentando el riesgo de 
+incumplimiento de la cadena de pagos del mercado eléctrico, así como ineficiencia en sus 
+procesos. 
+ 
+Por ello, tras una fase piloto realizada en 2024, que sirvió para validar algunos procesos y 
+funcionalidades, desde el mes de enero de 2025 el Coordinador ha estado trabajando en el 
+diseño y desarrollo de una plataforma que permita administrar los datos recibidos de las 
+
+ 
+www.coordinadorelectrico.cl 
+Empresas Coordinadas y a la vez, validar su calidad. En esta primera etapa nos hemos 
+enfocado en el proceso BAEN, que, actualmente se realiza con la carga de datos en 
+la plataforma Transferencia de Archivos.   
+ 
+Esta nueva plataforma se denomina OMNICANAL y dentro de ella está incluido el módulo 
+OMNIDATA, cuya principal funcionalidad y ventaja es la estandarización en el medio de 
+interacción de entrega de información de las Empresas Coordinadas a través de este único 
+punto de entrega de datos, así como los resultados de la validación de esa información por 
+parte del Coordinador, lo que permitirá una mejor trazabilidad y calidad de la información 
+recibida, así como el monitoreo del cumplimiento en cuanto a plazos y contenido de la carga 
+de información. 
+ 
+Por otro lado, es importante destacar que OMNIDATA permitirá interactuar con PLABACOM 
+(plataforma de balance comercial que inició su operación el 2 de junio de 2025), de modo 
+de facilitar el procesamiento de la información, que ya contará con un alto grado de 
+confiabilidad. 
+ 
+Dado lo anterior, tenemos el agrado de informar a usted que hemos finalizado 
+satisfactoriamente la fase inicial de desarrollo del nuevo módulo de requisición de datos 
+OMNIDATA, incorporando en esta primera etapa el proceso BAEN. 
+ 
+A fin de que el uso de OMNIDATA disponga de un período de aprendizaje y sea exitoso, 
+hemos considerado prudente definir el siguiente cronograma:  
+ 
+1. Fase 1: Inicio de Marcha Blanca: A partir del 1 de julio de 2025, que consistirá en 
+cargar en forma paralela la información tanto en Transferencia de Archivos como en 
+OMNIDATA, siendo el canal oficial Transferencia de Archivos para efectos del 
+ingreso de información hacia el Coordinador durante este período. 
+2. Fase 2: Inicio de Operación: A partir del 1 de agosto de 2025, que consistirá en 
+cargar en forma única la información por medio de OMNIDATA, midiendo la calidad 
+de datos y entregando alertas de incumplimientos. 
+3. Fase 3: Entrada en Régimen: A partir del 1 de diciembre de 2025, que consistirá 
+en cargar en forma única la información por medio de OMNIDATA, con calidad de 
+datos medida, 100% de calidad exigida para ingresar datos hacia el Coordinador y 
+emisión de informes de incumplimientos.  
+ 
+Es imprescindible contar con vuestra activa participación en esta transformación que apunta 
+a alcanzar mayor eficacia y eficiencia, tanto en los procesos internos de las Empresas 
+Coordinadas como en los procesos del Coordinador, y para ello, hacemos hincapié en el 
+cumplimiento del cronograma anteriormente informado. 
+ 
+ 
+ 
+
+ 
+www.coordinadorelectrico.cl 
+Finalmente, hacemos presente que tan pronto se disponga de la información mensual de la 
+fase 2. Inicio de Operación, el Coordinador informará a la Superintendencia de Electricidad 
+y Combustibles el nivel de cumplimiento en la entrega de información de cada Empresa 
+Coordinada, en calidad y oportunidad de entrega. Desde la fase 3., a partir del 1 de 
+diciembre de 2025, no se aceptará información que no cumpla con el 100% de 
+validación en integridad y entregada dentro de los plazos normativos. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Marcelo Bobadilla M. 
+Gerente de Mercados 
+Coordinador Eléctrico Nacional 
+ 
+LRB/YCL 

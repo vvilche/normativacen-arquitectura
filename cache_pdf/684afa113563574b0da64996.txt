@@ -1,0 +1,48 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+GMH N°2025-076 
+11 de junio de 2025 
+ 
+Señorita 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref: Observaciones a Indicadores Desempeño Servicios Complementarios – mayo 2025 
+ 
+En relación con el Informe de desempeño preliminar de servicios complementarios de mayo 2025 
+publicado mediante carta DE 03379-25 de fecha 06 de junio de 2025, tenemos las siguientes 
+observaciones: 
+SSCC 
+Central 
+Observaciones 
+CTF 
+PFV CEME1 
+El día 14/05/2025 a las 11:12 horas se considera un Pt0 de 195 MW y según 
+nuestro registros la potencia en ese instante era de 218 MW. Se solicita 
+corregir la evaluación utilizando los valores correspondientes a los tiempos. 
+ 
+El día 14/05/2025 se solicita activación de CTF a las 12:23 horas, luego a las 
+12:33 horas se da instrucción directa de consiga por seguridad del sistema y 
+finalización de activación de CTF a las 12:47 horas. Las instrucciones de 
+activación de CTF y consigna directa de manera traslapada son 
+incompatibles. Se solicita terminar la evaluación del CTF en el momento que 
+se da la instrucción directa. 
+ 
+El día 16/05/2025 se solicita activación de CTF de bajada de 113 MW, sin 
+embargo, aparecen 93MW consignados en el documento de evaluación. Se 
+solicita corregir requerimiento de CTF al instruido en tiempo real y realizar la 
+evaluación acorde a este. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+Carolina Vélez K. 
+Encargada Titular 
+GM Holdings S.A. 

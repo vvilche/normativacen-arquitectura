@@ -1,0 +1,74 @@
+ 
+ 
+ 
+SANTIAGO, 22 DE SEPTIEMBRE DE 2025 
+COM-28/2025 
+ 
+Señor 
+Lionel Roa Burgos 
+ 
+Subgerente de Transacciones de Mercados 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Informe definitivo Estudio de Costos de Desgaste 
+de Servicios Complementarios (SSCC). 
+ 
+De nuestra consideración,  
+ 
+En relación con la publicación del informe definitivo del Estudio de Costos de Desgaste de servicios 
+complementarios, y en particular al valor asignado al costo de desgaste para unidades con tecnología de 
+motor de combustión interna, mediante la presente comunicación manifestamos formalmente nuestra 
+preocupación respecto a los cambios metodológicos introducidos en la versión final del estudio.  
+Los nuevos valores publicados presentan una variación sustancial con respecto a la versión preliminar, lo 
+que constituye implicancias directas en la remuneración de las ofertas de servicios complementarios. Esta 
+variación se sustenta en una reformulación del cálculo, cuyos fundamentos técnicos no han sido 
+debidamente informados ni justificados en el documento publicado ni en la versión preliminar.  
+En particular, nos referimos a la incorporación del “factor de horas anuales activas”, calculado como el 
+promedio de horas de activación de 19 unidades para todos los servicios de control de frecuencia. Aplicar 
+un factor de estas características requiere que sea representativo y trazable, de modo que los coordinados 
+tengan la posibilidad de validar su pertinencia.  
+Resulta cuestionable que dicho factor se haya estimado como un promedio ponderado de una muestra 
+acotada de unidades, sin distinguir entre los distintos servicios prestados, considerando que la mayoría de 
+las unidades participan en un único servicio. Lo mínimo exigible en este contexto es que se calculen factores 
+diferenciados por tipo de servicio, obteniendo el total de horas activadas por servicio, ponderado por el 
+total de horas del período. Estos factores, además, no son publicados de manera mensual por el 
+Coordinador, por lo que no son verificables ni contrastables y no existe un fundamento adecuado de 
+consideración en esta parte del proceso, el que además pareciera afectar en doble instancia al proceso de 
+subasta de servicios complementarios (primero en el cálculo de costo de desgaste y segundo en el proceso 
+de optimización diario). 
+ 
+Adicionalmente, se han identificado otras variaciones que carecen de respaldo técnico claro, lo que dificulta 
+la validación de los resultados:  
+
+ 
+ 
+ 
+ 
+1) 
+En el cálculo de "Costo anual de OyM US$/Año", el factor multiplicador del costo total de inversión 
+es diferente dependiendo la tecnología, este valor presenta una variación con respecto al cálculo 
+preliminar, cambio que no se justifica en los informes (0,01 vs 0,02). 
+2) 
+En el cálculo de "Costo fijo total US$/MW-hora" el divisor que representa la cantidad de horas 
+anuales es menor para las tecnologías Carbón y TV 2053 horas, versus 8760 que corresponde a las 
+horas del año. 
+ 
+En virtud de lo anterior, solicitamos que se justifiquen y/o corrijan los comentarios antes expuestos. Además, 
+que el informe publicado asociado a la carta DE 05827-25, sea sometido a un periodo formal de 
+observaciones, que permita a los coordinados analizar en profundidad los cambios aplicados y solicitar 
+aclaraciones técnicas respecto a los fundamentos del cálculo, el cual tiene modificaciones y cálculos no 
+expresados en la versión preliminar del proceso. 
+ Asimismo, solicitamos que se postergue la entrada en vigencia de los nuevos valores hasta que se haya 
+completado dicho proceso de revisión, con el fin de resguardar la transparencia y equidad en la aplicación 
+de los parámetros que rigen la prestación de servicios complementarios. 
+ 
+Quedamos atentos a sus comentarios y a la definición del procedimiento que permita canalizar 
+adecuadamente las observaciones al documento.  
+ 
+ 
+ 
+Gustavo Venegas H. 
+Encargado Titular 
+Enlasa Generación Chile S.A. 

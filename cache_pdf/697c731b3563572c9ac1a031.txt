@@ -1,0 +1,131 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 29 de enero de 2026 
+DE 00620-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 568 al 570 del año 2025. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 568-2025 al EAF 570-
+2025 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC 2025 > Diciembre > Cálculo por EAF: 
+ 
+1. EAF 568-2025 
+2. EAF 569-2025 
+3. EAF 570-2025 
+ 
+Cabe mencionar que la interrupción asociada al EAF 568-2025 no presentó afectación a 
+Puntos de Control.  
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el martes 3 de febrero de 
+2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. Víctor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Rodrigo Lara – Encargado Titular Empresa Nacional de Minería, Fundición Hernán Videla Lira 
+Sr. Felipe Antonio Valdés Aránguiz – Encargado Titular Guacolda Energía SpA 
+Sr. Guillermo Eduardo Guerra Godoy – Encargado Titular Transmisora Eléctrica Cordillera SpA 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+DBCD/DTE-SSCC/SGASO 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 569-2025 
+31-12-2025 
+Compañía General 
+de Electricidad S.A. 
+S/E Puente Alto 
+(TEC) 
+Si 
+Parcial 
+Los clientes libres del alimentador "CASAS VIEJAS” en 
+el anexo de información adicional se señala que las 
+cargas se recuperaron por la barra principal, sin 
+embargo, la barra principal de la S/E Puente Alto (TEC) 
+estuvo disponible entre 22 y 35 minutos después de las 
+horas de normalización equivalente informadas por la 
+empresa. 
+ 
+Por lo tanto, se solicita detallar el mecanismo de 
+recuperación de estas cargas para cada uno de los 
+alimentadores donde esto se presente, y con el 
+desglose requerido por la SEC, esto es comunal y 
+por zona de tarificación. 
+(*) El EAF N° 570 no tuvo afectación de Empresas Distribuidoras. 
+(**) En los EAF N°568 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A. fue recibida en plazo y en forma, e incorporada 
+al cálculo. 
+ 

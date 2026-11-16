@@ -1,0 +1,148 @@
+CORRELATIVO DE 07128-25 
+Asunto: Informa Programación Intradiaria 05/11/2025 período 01 
+ 
+De: Depto. Programación Intradiaria <prog.intradiaria@coordinador.cl>  
+Enviado el: martes, 4 de noviembre de 2025 23:34 
+Para: Depto. Programación Intradiaria <prog.intradiaria@coordinador.cl>; CC Enor Chile 
+<despacho@enorchile.cl>; ctge_cl siemens-energy <ctge_cl@siemens-energy.com>; CC. Los 
+Guindos <operador.lg@losguindosgeneracion.cl>; cc.nocprime-energia <cc.noc@prime-
+energia.com>; CC Kelar <cckelar@kospo.cl>; ccontrol.chilestatkraft 
+<ccontrol.chile@statkraft.com>; cctetenergia <ccte@tenergia.cl>; acciona 
+<cecoerchile@acciona.com>; CC Aes Gener <centrocontrol@aes.com>; centrocontrolcoener 
+<centrocontrol@coener.cl>; centrocontrolgrupoferro <centrocontrol@grupoferro.com>; CC Enel 
+Generación <Clend08980-ADC@enel.com>; coesaesa <coe@saesa.cl>; coglatampower 
+<cog@latampower.com>; crocc.operatornovasourcepower 
+<crocc.operator@novasourcepower.com>; ctge.clsiemens-energ <ctge.cl@siemens-energy.com>; 
+despacho.bioenergia@arauco.cl; despacho.cernccsmarta <despacho.cernc@csmarta.cl>; CC 
+Generadora Metropolitana <despacho.geme@generadora.cl>; engie 
+<despacho.generacion@engie.com>; enlasa <despacho@enlasa.cl>; despachoinnergex 
+<despacho@innergex.com>; CC Chilquinta <dsistema@chilquinta.cl>; CC Enel <c.control-
+chile@enel.com>; espinospotenciachile <espinos@potenciachile.cl>; besalco 
+<op.energia@besalco.cl>; enap <op_cogeneracionerbb@enap.cl>; CC CMPC 
+<opcae@celulosa.cmpc.cl>; capullo <operaciones@capullo.cl>; comasageneracion 
+<operaciones@comasageneracion.cl>; Operaciones scotta <operaciones@scotta.cl>; 
+operador.floridaelectricapuntilla <operador.florida@electricapuntilla.cl>; CC Colbún 
+<OperadorCO@colbun.cl>; operadoresriocoloradogpe <operadoresriocolorado@gpe.cl>; Genérico 
+operadores CC-RNE <centrodecontrolrne@reliable.cl>; salacontrolenesa <salacontrol@enesa.cl>; 
+inkiaenergy <sc.cardones@inkiaenergy.cl>; 2sunwoong@gmail.com; a.astudillo@emelca.cl; 
+afalconea@icafal.cl; agsepulveda@cap.cl; alagos@cemin.com; alberto.sanchez@coelcha.cl; 
+alberto.werner@eepa.cl; Alejandro Albornoz Cruz <aalbornoz@hidroelpaso.cl>; 
+alejandro.amorin@gnlquintero.com; alejandro.reyesf@toesca.com; alejandro.toledo@gencec.cl; 
+Alex Galleguillos <agalleguillos@ecv.cl>; alfredof@decapital.cl; alvaroflano@carran.cl; 
+andres.astudillo@sgscm.cl; andres.sylvester@oenergy.cl; andres.tamm@tammfruit.cl; 
+asanchezj@agrosuper.com; asukni@asenergia.cl; bautista.bosch@enerbosch.cl; 
+benarioing@gmail.com; bernardo.espina@aminerals.cl; camila@alvarezasenjo.cl; 
+camilo.ruiz@icantera.com; camilo.sanhueza@transemel.cl; carlos.figueroa@engie.com; 
+carlos.galaz@scotta.cl; carlos.salazar@x-elio.com; carlosbravo@andes-solar.com; 
+carlosvalledor@gmail.com; carolina.hernandez@bhp.com; CC Lautaro 
+<do@comasageneracion.cl>; ccandia@chilquintadx.cl; ccarmona@dygingecon.cl; 
+ccarrasco@nanogener.cl; cdelsante@igx.cl; cernc-do@csmarta.cl; cfarias@enami.cl; 
+chile.commercial@wise-energy.com; christian.flores@atriaenergia.com; 
+Claudio.Gutierrez@mainstreamrp.com; claudio.ruiz@mantoscopper.com; cmerino@solare.cl; 
+cmunoz@enesa.cl; comercial@aedilestalinay.com; correspondencia_coordinador@transelec.cl; 
+cortiz@opdenergy.com; crenard@agrosonda.cl; criqu013@ecometales.cl; 
+cristian.delgado@teck.com; cristian.espinosa@gmail.com; cristoro@energetica.cl; 
+croman@gassur.cl; CTorresb@aguasandinas.cl; cvald027@codelco.cl; 
+daniel.canales@aciertaenergia.cl; daniel.garcia@gnlm.cl; david.furman@danco.cl; 
+david.penaloza@btgpactual.com; dgzamora@celeogroup.com; dgzamora@celeoredes.com; 
+diego.echiburu@sonnedix.com; dlillo@metro.cl; driveros@triplei.cl; 
+
+dsanzana@sanpedrocentro.cl; dsoto@cinergia.cl; eastaburuaga@eurusenergy.com; 
+eduardo.bartolo@yamana.com; eduardo.verdugo@aes.com; eecontraspa@gmail.com; 
+Eliseo.lopez@southenergy.cl; energiaelectrica@lipigas.cl; enrique.gajardo@inchalam.cl; 
+enrique.ramirez@mbi.cl; enusser@google.com; erodriguez@neoelectra.es; 
+esaez@InterchileSA.com; esepulveda@distribuidoraelectricasa.cl; esteban.matamala@csh.cl; 
+eugenio.vasquez@instapro.cl; f.cuevas@wpd.cl; fabian.monsalve@safiraenergia.cl; 
+fabian.soto@gestel.cl; faceituno@mcondor.cl; faravenc@litoral.cl; felipe.duran@southenergy.cl; 
+felipe.inostrosa@ipsenergy.cl; felipe.martinez@mbi.cl; felipe.valdes@eguacolda.cl; 
+fernandez@saferay.com; fernando.llaitul@latampower.com; Fiorella Roncagliolo de la Horra 
+<froncagl@tecnored.cl>; fkarmy@enerquinta.cl; flavio.rosas@gmail.com; fmorales@cristalchile.cl; 
+fnp.puquios@gmail.com; fod@ebcoenergia.cl; francisco.yevenes@sonnedix.com; 
+freyes@mineravallecentral.cl; friquelme@ferrovial.com; fyevenes@arcoenergy.com; 
+fyevenes@arroyoenergygroup.com; g.gomez@langa-international.com; 
+gabriel.cereceda@ipsenergy.cl; gabriel.flores@losguindosgeneracion.cl; gbolados@barrick.com; 
+gdiaz@sherpasgroup.cl; gerardo.diaz@enaex.com; gerencia@arcoenergy.com; 
+gigio_isola@oxy.com; gloli@terraform.com; gmorales@crell.cl; 
+gonzalo.menares@aedilestalinay.com; gonzalo.rojas@encenergy.com; gustavo.cortes@cenizas.cl; 
+gustavo.venegas@enlasa.com; has@grupoibereolica.com; hector.castillo@besalco.cl; 
+hernan.bahamondes@polpaico.cl; hzepeda@pelambres.cl; i.repetto@cc-energy.com; 
+iaballay@aguasantofagasta.cl; ifuentealba@copelec.cl; igmmeltda@vtr.net; 
+ignacio.fernandez@enerside.com; imena@orion-power.com; ingenieria@valfortec.com; 
+isaac.lopez@redelectricachile.cl; Iván Cabrera Pavez <icabrera@colbun.cl>; 
+j.lavin@mantosdelaluna.cl; jacevedo@chilquintatx.cl; Jaime Cancino <jcancino@transelec.cl>; 
+jaime.valdes@cbb.cl; jaime@interenergy.com; jalemany@fyrmob.cl; jaosoriod@globalpower-
+generation.com; jaranguiz.socer@gmail.com; javier.pujol@ipsenergy.cl; 
+javier.rojas@matrizenergia.cl; jbecerra@tenergia.cl; jbesa@algortanorte.cl; 
+jcarvallo@hbsenergia.cl; jclarenas@cipresillos.cl; jclopez@electricatiltil.cl; jean.lecerf@solar-
+energy.cl; jflores@noracid.cl; jjara@luzlinares.cl; jlavin@canalmaule.cl; 
+jlbarrientos@greenvestment.cl; jlmandiola@mcapital.cl; jlneira@coopelan.cl; 
+jmg@impulsogestion.cl; joaquin.campos@las-energy.com; johnedwarddalyb@gmail.com; 
+jorge.bustamante@abastible.cl; jorge.lopez@efe.cl; jorgewachholtzm@gmail.com; 
+jose.arroyo@inersa.com; jose.chahuan@totalenergies.com; jose@carbonfree.com; 
+jrboris@ferrovial.com; jricci@hidrochanleufu.cl; jrodo@merval.cl; jsougarret@minerahmc.cl; Juan 
+Eduardo Puentes López <gerencia.comercial@electricapuntilla.cl>; Juan León <jlo@agrosonda.cl>; 
+juan.albala@atlantica.com; juan.contreras@bhp.com; juan.garcia@aes.com; 
+juan.veloso@saesa.cl; Justo.Canihuante@kinross.com; kadir.ruiz@gencec.cl; kadirruiz@cecltda.cl; 
+kandinsky.dintrans@saesa.cl; Karen Edith Beltrán Cerda <kbeltran@electricapuntilla.cl>; 
+l.urrutia@reden.solar; Leal, Ariel <ariel.ac.leal@bhp.com>; leonardo.bastidas@arauco.cl; 
+lfredes@veranocapital.com; lnunez@pacifichydro.cl; lrovira@engiaux.com; lsilva@cooprel.cl; 
+lsoto@hydrocavancha.cl; lucaskim@chilesolarjv.com; luis.candia@socoepa.cl; 
+luis.fredes@mytilineos.gr; luis.quiroga@masisa.com; luiscid@biworenovables.com; 
+marcela.pena@bhp.com; maritza.baeza@cerronegro.cl; marriagada@hidromanzano.cl; 
+martinbruna@gmail.com; mauricio.contreras@aguasnuevas.cl; mauricio.gallardo@on-group.cl; 
+mburton@bluetree.group; mburton@bluetreeam.com; mconcha@elp.cl; 
+mercado@neoelectra.es; michael.cornejo@orafti.cl; miguel.buzunariz@enel.com; 
+miguel.elizalde@glencore.cl; miguel.iglesias@energyasset.cl; miortizs@cgedistribucion.cl; 
+miortizs@grupocge.cl; mj.quiroga@fluxsolar.cl; mleivamo@fmi.com; mlorellana@gpe.cl; 
+mollacas@disagrupo.es; mreyes@antucoya.cl; msaavedra@crell.cl; 
+
+msosa@matrixrenewables.com; mtellez@enap.cl; narenas@dosal.cl; nbolanos 
+<nbolanos@coopersol.cl>; nelson.salinas@talleres.cl; nr@araucaniapower.com; 
+oscar.yanez@sungrow-re.com; p.dominguez@fluxsolar.cl; pablo.jorquera@engie.com; 
+pablo.martin@ancali.cl; patricio.celis@teck.com; pbustamantecid@gmail.com; 
+pbustos@kdmenergia.cl; pgutierrez@mineracentinela.cl; philippwild@mac.com; pleal@codiner.cl; 
+r.paz@siedchile.cl; racosta@valko.cl; raguilera@energiapacifico.cl; rdaza@verano.energy; 
+rdaza@veranocapital.com; reina.gustavo@s4chile.com; rfloresc@sicutignis.cl; 
+rguzmana@globalpower-generation.com; Ricardo Mohr Rioseco <rmohr@blumland.cl>; 
+ricardo.sylvester@oenergy.cl; Rodrigo Danús Laucirica <rdanus@swc.cl>; Rodrigo Sandoval 
+<rodrigo.sandoval@atacamaminerals.com>; roland.weber@molineravillarrica.cl; 
+ronny.munoz@grupocerro.com; rosantonio@grenergy.eu; rrgarcia@entel.cl; 
+sebastian.bernstein@imelsa.cl; sergio.munoz@nuevaatacama.cl; Silva Ortiz, Juan Lautaro 
+<jlsilvao@indracompany.com>; sreyes@petroquim.cl; sromero@generadora.cl; 
+ssalas@innergex.com; stefan.fritz@anumar.com; szamorar@celulosa.cmpc.cl; 
+tavila@atlasren.com; tomas.herzfeld@gestionsolar.cl; tomasreyes@ingmataquito.cl; 
+torneraf@airproducts.com; turzua@inverges.cl; vannia@emoac.cl; vbcortez@collahuasi.cl; Víctor 
+Alejandro Larenas Mantellero <alarenas@elektragen.cl>; victor.balbontin@enel.com; 
+Victor.chaura@lundinmining.com; victor.ramos@cvegroup.com; vpavez@grenergy.eu; 
+vrioseco@auditcon.cl; vrioseco@rioseco-auditores.cl; vsalinas@eleonera.cl; sven@ienergia.cl 
+CC: Alejandra Domínguez Rivera <Alejandra.Dominguez@coordinador.cl> 
+Asunto: Informa Programación Intradiaria 05/11/2025 período 01 
+ 
+Señores 
+Encargados Titulares y Centros de Control 
+Empresas Coordinadas 
+Presente 
+ 
+De nuestra consideración, 
+ 
+Por medio del presente, informo a Ud. la publicación de una programación intradiaria para el día 
+05/11/2025, vigente a partir del período 01, cuyos antecedentes y bases de datos, que permiten 
+reproducir los resultados obtenidos, se encuentran disponibles en el sitio web del Coordinador y es 
+posible acceder a ellos mediante el siguiente enlace: 
+ 
+https://www.coordinador.cl/operacion/documentos/programacion-intradiaria/ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+Departamento de Programación Intra diaria 
+Gerencia de Operación 
+  
+Santiago de Chile 
+Tel: +562 2424 6417 
+www.coordinador.cl 
+ 
+ 

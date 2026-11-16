@@ -1,0 +1,249 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 02 de julio de 2026 
+DE 04208-26 
+Señor 
+Miguel Buzunariz 
+Encargado Titular 
+Enel Green Power Chie S.A 
+Presente 
+Ref.: Solicitud de antecedentes técnicos que 
+respalden los Informes de Limitación (IL) 
+declarados para la prestación de Control 
+Dinámico de Tensión (CDT) de Instalaciones 
+de Enel Green Power Chile S.A. 
+ 
+[1] Carta DE02432-26, Ref.: “Invitación a 
+webinar sobre control dinámico de tensión en 
+parques eólicos, fotovoltaicos y BESS.”, de 
+decha 14 de abril de 2026. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a usted que su representada ha 
+ingresado Informes de Limitación (IL) en la plataforma NeoMante, para las centrales 
+indicadas en el Anexo 1, esto ante una instrucción directa de Control Dinámico de Tensión 
+emitida por parte del Centro de Despacho y Control (CDC) del Coordinador al Centro de 
+Control de su representada.  
+ 
+De acuerdo con lo anterior, solicito a Ud. gestionar con su representada, a más tardar el día 
+16 de julio de 2026, la elaboración y envío de un informe técnico que justifique las 
+limitaciones informadas, identificando las causas asociadas, las restricciones existentes 
+para la operación en modo Control Dinámico de Tensión (CDT), así como las medidas 
+correctivas que se implementarán para normalizar dicha condición, considerando que la 
+capacidad de efectuar CDT de las plantas individualizadas fue confirmada en el proceso de 
+conexión y entrada en operación, sustentado en los modelos dinámicos y documentación 
+técnica proporcionada por los propios Coordinados. 
+ 
+Cabe señalar que la implementación del CDT forma parte de las medidas operacionales 
+definidas por el Coordinador para efectos de mantener la seguridad y calidad del servicio. 
+En este contexto, los análisis desarrollados por el Estudio de Desempeño del Esquema de 
+Desconexión Automática de carga (EDAC) 2026 identifican que, en escenarios de baja 
+demanda, la operación del EDAC puede generar sobretensiones transitorias que, podrían 
+provocar desconexiones no deseadas de instalaciones IBR y PMGD, agravando la 
+condición de subfrecuencia que el EDAC busca contener. De acuerdo con esto, la 
+habilitación del CDT constituye una instrucción del Coordinador orientada a reducir dichos 
+riesgos y contribuir en la estabilidad del sistema eléctrico. 
+ 
+Al respecto, informo a Ud. que el plan previsto para contar con los recursos de CDT fue 
+informado a los Coordinados mediante el Webinar realizado el 16 de abril de 2026, 
+denominado “Control Dinámico de Tensión en Parques Eólicos, Fotovoltaicos y BESS” al 
+cual fueron invitadas las empresas coordinadas mediante comunicación de la Ref. [1]. En 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+esta instancia se expusieron los fundamentos técnicos de este plan, los criterios de 
+priorización considerados, el procedimiento de instrucción y la estrategia gradual de 
+implementación definida por el Coordinador. Se indicó, además, que el proceso comenzaría 
+con instalaciones con el Servicio Complementario (SC) de Control de Tensión (CT) 
+verificado, y posteriormente, se extendería a instalaciones cuyo desempeño hubiese sido 
+previamente validado mediante los modelos dinámicos homologados aceptados por este 
+Coordinador como requerimiento para obtener la entrada en operación de su central. 
+ 
+Finalmente, cabe hacer presente que, aun cuando los Coordinados mantengan atrasos o 
+tengan pendiente el cierre del proceso de verificación de sus instalaciones, dicha situación 
+no impide que el Coordinador pueda instruir directamente la prestación de dicho control 
+según lo establecido en el artículo transitorio 6-7 de la NT-SSCC, cuando ello sea requerido 
+por razones de seguridad y calidad de servicio del Sistema Eléctrico Nacional. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+PVV/CRV/WJS/adr 
+ 
+C.c.: 
+Sr. Adrian Gúzman M. – Encargado suplente de Enel Green Power Chile S.A. 
+Sr. Rodrigo Barbagelata S. – Director Unidad de Regulación 
+Sr. Eugenio Quintana P. – Jefe del Departamento de Estudios Eléctricos 
+Sr. Manuel Cartanega B. – Jefe de Turno Nacional 
+Sr. Cristian Reyes V. – Jefe del Departamento de Control de la Operación 
+Sr. Israel Olguín G. – Jefe del Departamento de Análisis de la Operación
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo 1: Instalaciones con limitaciones de Control de Tensión registradas en NeoMante 
+ 
+Coordinado 
+Instalación 
+N° correlativo 
+de NeoMante 
+Comentario ingresado en plataforma NeoMante 
+Enel Green 
+Power Chile S. A 
+PE Valle de 
+los Vientos 
+2026001640 
+La central eólica Valle de los vientos, se encuentra pendiente de la ejecución del proceso de verificación 
+del servicio complementario de Control Dinámico de Tensión, conforme al cronograma de pruebas 
+comprometido con el Coordinador Eléctrico Nacional. En tanto dicha verificación no haya sido ejecutada 
+y validada satisfactoriamente, no es posible garantizar que la prestación del servicio se realice dentro 
+de los parámetros exigidos. Lo anterior, considerando que la activación del control dinámico de tensión 
+puede inducir variaciones de potencia reactiva que eleven la tensión en las líneas de producción, con 
+riesgo de desconexiones no programadas de turbinas o inversores y potencial afectación a la seguridad 
+y estabilidad del sistema. En consecuencia, se establece la no provisión temporal del servicio de Control 
+Dinámico de Tensión para esta unidad, hasta el término del proceso de calificación del cumplimiento 
+normativo mediante la ejecución y aprobación de las pruebas de verificación correspondientes, cuya 
+fecha comprometida es la semana del 13 de julio 2026. 
+Enel Green 
+Power Chile S. A 
+PE La 
+Cabaña 
+2026001647 
+La central eólica La Cabaña, se encuentra pendiente de la ejecución del proceso de verificación del 
+servicio complementario de Control Dinámico de Tensión, conforme al cronograma de pruebas 
+comprometido con el Coordinador Eléctrico Nacional. En tanto dicha verificación no haya sido ejecutada 
+y validada satisfactoriamente, no es posible garantizar que la prestación del servicio se realice dentro 
+de los parámetros exigidos. Lo anterior, considerando que la activación del control dinámico de tensión 
+puede inducir variaciones de potencia reactiva que eleven la tensión en las líneas de producción, con 
+riesgo de desconexiones no programadas de turbinas o inversores y potencial afectación a la seguridad 
+y estabilidad del sistema. En consecuencia, se establece la no provisión temporal del servicio de Control 
+Dinámico de Tensión para esta unidad, hasta el término del proceso de calificación del cumplimiento 
+normativo mediante la ejecución y aprobación de las pruebas de verificación correspondientes, cuya 
+fecha comprometida es la semana del 11 de agosto 2026. 
+Enel Green 
+Power Chile S. A 
+PE Renaico 
+II 
+2026001642 
+La central eólica Renaico 2, se encuentra pendiente de la ejecución del proceso de verificación del 
+servicio complementario de Control Dinámico de Tensión, conforme al cronograma de pruebas 
+comprometido con el Coordinador Eléctrico Nacional. En tanto dicha verificación no haya sido ejecutada 
+y validada satisfactoriamente, no es posible garantizar que la prestación del servicio se realice dentro 
+de los parámetros exigidos. Lo anterior, considerando que la activación del control dinámico de tensión 
+puede inducir variaciones de potencia reactiva que eleven la tensión en las líneas de producción, con 
+riesgo de desconexiones no programadas de turbinas o inversores y potencial afectación a la seguridad 
+y estabilidad del sistema. En consecuencia, se establece la no provisión temporal del servicio de Control 
+Dinámico de Tensión para esta unidad, hasta el término del proceso de calificación del cumplimiento 
+normativo mediante la ejecución y aprobación de las pruebas de verificación correspondientes, cuya 
+fecha comprometida es la semana del 25 de agosto 2026. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Coordinado 
+Instalación 
+N° correlativo 
+de NeoMante 
+Comentario ingresado en plataforma NeoMante 
+Enel Green 
+Power Chile S. A 
+PFV Finis 
+Terrae 
+2026001643 
+La central fotovoltaica Finis Terrae, se encuentra pendiente de la ejecución del proceso de verificación 
+del servicio complementario de Control Dinámico de Tensión, conforme al cronograma de pruebas 
+comprometido con el Coordinador Eléctrico Nacional. En tanto dicha verificación no haya sido ejecutada 
+y validada satisfactoriamente, no es posible garantizar que la prestación del servicio se realice dentro 
+de los parámetros exigidos. Lo anterior, considerando que la activación del control dinámico de tensión 
+puede inducir variaciones de potencia reactiva que eleven la tensión en las líneas de producción, con 
+riesgo de desconexiones no programadas de turbinas o inversores y potencial afectación a la seguridad 
+y estabilidad del sistema. En consecuencia, se establece la no provisión temporal del servicio de Control 
+Dinámico de Tensión para esta unidad, hasta el término del proceso de calificación del cumplimiento 
+normativo mediante la ejecución y aprobación de las pruebas de verificación correspondientes, cuya 
+fecha comprometida es la semana del 04 de agosto 2026. 
+Enel Green 
+Power Chile S. A 
+PFV 
+Azabache 
+2026001648 
+La central Fotovoltaica Azabache, se encuentra pendiente de la ejecución del proceso de verificación 
+del servicio complementario de Control Dinámico de Tensión, conforme al cronograma de pruebas 
+comprometido con el Coordinador Eléctrico Nacional. En tanto dicha verificación no haya sido ejecutada 
+y validada satisfactoriamente, no es posible garantizar que la prestación del servicio se realice dentro 
+de los parámetros exigidos. Lo anterior, considerando que la activación del control dinámico de tensión 
+puede inducir variaciones de potencia reactiva que eleven la tensión en las líneas de producción, con 
+riesgo de desconexiones no programadas de turbinas o inversores y potencial afectación a la seguridad 
+y estabilidad del sistema. En consecuencia, se establece la no provisión temporal del servicio de Control 
+Dinámico de Tensión para esta unidad, hasta el término del proceso de calificación del cumplimiento 
+normativo mediante la ejecución y aprobación de las pruebas de verificación correspondientes, cuya 
+fecha comprometida es la semana del 25 de agosto 2026. 
+Enel Green 
+Power Chile S. A 
+PFV Sol de 
+Lila 
+2026001644 
+La central fotovoltaica Sol de Lila, se encuentra pendiente de la ejecución del proceso de verificación 
+del servicio complementario de Control Dinámico de Tensión, conforme al cronograma de pruebas 
+comprometido con el Coordinador Eléctrico Nacional. En tanto dicha verificación no haya sido ejecutada 
+y validada satisfactoriamente, no es posible garantizar que la prestación del servicio se realice dentro 
+de los parámetros exigidos. Lo anterior, considerando que la activación del control dinámico de tensión 
+puede inducir variaciones de potencia reactiva que eleven la tensión en las líneas de producción, con 
+riesgo de desconexiones no programadas de turbinas o inversores y potencial afectación a la seguridad 
+y estabilidad del sistema. En consecuencia, se establece la no provisión temporal del servicio de Control 
+Dinámico de Tensión para esta unidad, hasta el término del proceso de calificación del cumplimiento 
+normativo mediante la ejecución y aprobación de las pruebas de verificación correspondientes, cuya 
+fecha comprometida es la semana del 20 de julio 2026. 
+Enel Green 
+Power Chile S. A 
+PE Sierra 
+Gorda Este 
+2026001324 
+PE Sierra Gorda Este NO disponer de control de tensión dinámico, solo es posible prestar control de 
+potencia reactiva. Se deja constancia de que este tipo de Control de Tensión (por voltaje y no por 
+reactivos) es un servicio que aún no ha sido validado y entregado oficialmente al ente coordinador 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Coordinado 
+Instalación 
+N° correlativo 
+de NeoMante 
+Comentario ingresado en plataforma NeoMante 
+Enel Green 
+Power Chile S. A 
+PFV Valle 
+del Sol 
+2026001296 
+Central PFV Valle del Sol se limita a NO disponer de control de tensión dinámico, solo es posible prestar 
+control de potencia reactiva. Se deja constancia de que este tipo de Control de Tensión (por voltaje y no 
+por reactivos) es un servicio que aún no ha sido validado y entregado oficialmente al ente coordinador. 
+Enel Green 
+Power Chile S. A 
+PFV 
+Campos del 
+Sol 
+2026001231 
+Central PFV Campos del Sol se limita a NO disponer de control de tensión dinámico, solo es posible 
+prestar control de potencia reactiva. Se deja constancia de que este tipo de Control de Tensión (por 
+voltaje y no por reactivos) es un servicio que aún no ha sido validado y entregado oficialmente al ente 
+coordinador 
+Enel Green 
+Power Chile S. A 
+PFV 
+Guanchoi 
+2026001232 
+Central PFV Guanchoi se limita a NO disponer de control de tensión dinámico, solo es posible prestar 
+control de potencia reactiva. Se deja constancia de que este tipo de Control de Tensión (por voltaje y no 
+por reactivos) es un servicio que aún no ha sido validado y entregado oficialmente al ente coordinador 
+ 
+ 

@@ -1,0 +1,761 @@
+1 
+ 
+ 
+Santiago, 13 de mayo de 2026 
+QE014-2026 
+ 
+Sr. Rodrigo Espinoza V.  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Envío de Observaciones a Indicadores de Desempeño de Servicios Complementarios - 
+abril 2026. 
+ 
+[1] Carta DE03133-26, “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de abril de 2026 e Indicadores de Desempeño de 
+SSCC EDAC del mes de marzo de 2026.”, de fecha 08 de mayo de 2026. 
+ 
+De nuestra consideración: 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. para hacer envío de nuestras 
+Observaciones fundadas a los Indicadores de Desempeño de Servicios Complementarios de 
+abril 2026, notificada su publicación por medio de carta de la Ref. [1]. 
+ 
+En anexo a la presente carta, se encuentran dichas observaciones.  
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Marcelo Rubio Sekul 
+Encargado Titular 
+Empresa Eléctrica Ventanas SpA
+
+ 
+ 
+ 
+Anexo 1: Observaciones Indicadores Desempeño CTF 
+ 
+Fecha 
+Hora 
+Unidad 
+Respuesta 
+CTF + 
+Respuesta 
+CTF - 
+Disponibilidad 
+(Fdis_CTF) 
+Desempeño 
+(DCTF) 
+Factor de 
+Desempeño 
+(Fd_CTF) 
+Obs. RNE 
+05-04-2026 
+19 
+TER 
+NUEVA 
+VENTANAS 
+U1 
+No 
+Activado 
+66,67% 
+100,00% 
+66,67% 
+0,00% 
+Se 
+registra 
+el 
+llamado a las 19:27 
+solicitando 
+a 
+la 
+unidad bajar 18 MW, 
+la unidad comienza a 
+bajar a las 19:31 de 
+266 MW a 259, 12 
+minutos 
+después 
+Coordinador finaliza 
+la 
+prestación 
+del 
+servicio siendo el 
+tiempo de activación 
+muy 
+acotada 
+(12min), la unidad 
+alcanzo a bajar de 
+266 MW a 259 MW 
+hasta las 19:40 hrs. 
+Se solicita revisar la 
+respuesta 
+de 
+la 
+unidad 
+Nueva 
+Ventana 
+
+ 
+ 
+08-04-2026 
+11 
+TER 
+CAMPICHE 
+U1 
+66,67% 
+No 
+Activado 
+100,00% 
+66,67% 
+0,00% 
+La unidad cumple 
+con consigna y el 
+tiempo de subida. 
+Por 
+instrucción 
+previa 
+del 
+Coordinador 
+la 
+unidad se encontraba 
+subiendo a Plena 
+Carga 
+desde 
+las 
+10:42hrs. 
+Llamado 
+del 
+Coordinador 
+para entregar CTF se 
+realiza a las 11:24 
+solicitando 
+a 
+la 
+unidad subir 11 MW. 
+Campiche comienza 
+a subir a las 11:24 
+hrs de 133 MW a 
+144 MW hasta las 
+11:28 hrs. Se solicita 
+revisar la respuesta 
+de 
+Campiche 
+considerando 
+la 
+instrucción 
+previa 
+entregada 
+por 
+el 
+Coordinador 
+realizada a las 10:42 
+de llevar la unidad a 
+Plena Carga, por ello 
+la 
+unidad 
+no 
+mantiene 
+la 
+instrucción desde los 
+15 
+minutos 
+de 
+activación hasta el 
+fin de la instrucción, 
+
+ 
+ 
+por 
+instrucción 
+previa de llevar la 
+unidad a Plena Carga 
+09-04-2026 
+4 
+TER 
+CAMPICHE 
+U1 
+No 
+Activado 
+64,95% 
+100,00% 
+64,95% 
+0,00% 
+La instrucción se 
+entrega a las 04:53 
+hrs. se solicita bajar 
+20 MW, Campiche 
+comienza a bajar de 
+126 MW a 106 MW 
+hasta las 05:07 hrs., 
+posteriormente, 
+la 
+unidad de sostiene el 
+valor de potencia 
+instruida desde el 
+minuto 
+15 
+de 
+activado del servicio 
+hasta que recibe la 
+orden de finalización 
+a las 5:31.  Se 
+solicita revisar la 
+respuesta 
+de 
+Campiche 
+
+ 
+ 
+09-04-2026 
+10 
+TER 
+CAMPICHE 
+U1 
+90,09% 
+No 
+Activado 
+100,00% 
+90,09% 
+90,00% 
+Coordinador solicita 
+a la unidad subir 11 
+MW, 
+la 
+unidad 
+comienza a subir a 
+las 10:07 hrs de 83 
+MW a 94 MW hasta 
+las 
+10:20 
+hrs. 
+Demorando 
+13 
+minutos en llegar a la 
+consigna solicitada 
+de subir 11 MW, 
+posterior a ello, la 
+unidad mantiene la 
+consigna solicitada 
+por 43 minuto ya que 
+el Coordinador dio la 
+instrucción 
+de 
+finalizar a las 10:50. 
+Se solicita revisar la 
+respuesta 
+de 
+Campiche 
+en 
+relación al aporte de 
+potencia 
+en 
+el 
+periodo máximo de 
+15 minutos desde la 
+activación 
+considerando 
+el 
+tiempo 
+de 
+la 
+instrucción que fue 
+de 13 minutos en que 
+la 
+unidad 
+se 
+le 
+instruyó 
+su 
+desactivación  
+
+ 
+ 
+09-04-2026 
+14 
+TER 
+CAMPICHE 
+U1 
+33,33% 
+No 
+Activado 
+100,00% 
+33,33% 
+0,00% 
+Se solicita revisar la 
+evaluación 
+de 
+la 
+respuesta 
+de 
+la 
+unidad, si bien la 
+unidad 
+venia 
+por 
+programa, 
+el 
+Coordinador 
+no 
+solicitó la activación 
+del servicio, por ello 
+no se cumple con el 
+aporte de potencia en 
+el periodo máximo 
+de 15 minutos ni 
+sostiene el valor de 
+potencia al no existir 
+instrucción. Como se 
+observa 
+en 
+la 
+evaluación 
+de 
+disponibilidad, 
+la 
+unidad 
+estaba 
+disponible para la 
+prestación del SC. Se 
+solicita revisar la 
+respuesta 
+de 
+Campiche 
+
+ 
+ 
+13-04-2026 
+5 
+TER 
+CAMPICHE 
+U1 
+No 
+Activado 
+0,00% 
+100,00% 
+0,00% 
+0,00% 
+La unidad cumple 
+con consigna y el 
+tiempo de subida. 
+Por 
+instrucción 
+previa 
+del 
+Coordinador 
+la 
+unidad se encontraba 
+subiendo a Plena 
+Carga 
+desde 
+las 
+04:40. El Centro de 
+Control 
+realiza 
+llamado a las 05:08 
+hrs para confirmar la 
+instrucción con el 
+Coordinador, 
+cumpliendo 
+la 
+unidad con el monto 
+requerido de bajada 
+posterior 
+a 
+la 
+confirmación 
+realizada 
+por 
+el 
+Coordinador con el 
+llamado de las 05:08. 
+Unidad comienza a 
+bajar a las 05:12 hrs 
+de 230 MW a 210 
+MW hasta las 05:21 
+hrs. 
+Previamente, 
+por instrucción del 
+Coordinador 
+se 
+encontraba subiendo 
+a Plena Carga desde 
+las 
+04:40hrs. 
+Se 
+solicita revisar la 
+respuesta 
+de 
+
+ 
+ 
+Campiche, como se 
+consigna, la unidad 
+se 
+encontraba 
+disponible para la 
+prestación del SC y 
+existieron 
+2 
+instrucciones 
+que 
+necesitaron 
+ser 
+rectificadas 
+para 
+poder prestar el SC 
+13-04-2026 
+13 
+TER 
+CAMPICHE 
+U1 
+33,33% 
+No 
+Activado 
+100,00% 
+33,33% 
+0,00% 
+Comienza a subir a 
+las 13:24 hrs de 124 
+MW a 134 MW 
+hasta las 13:33 hrs. 
+(eran 
+11MW 
+de 
+subida pero subió 
+10MW). Se solicita 
+revisar la respuesta 
+de la unidad  
+14-04-2026 
+0 
+TER 
+CAMPICHE 
+U1 
+No 
+Activado 
+0,00% 
+100,00% 
+0,00% 
+0,00% 
+Por instrucción del 
+Coordinador 
+la 
+unidad se encontraba 
+bajando a MT desde 
+las 
+00:35hrs, 
+posterior a ello, a las 
+0:48 
+Coordinador 
+solicita 
+bajar 
+20 
+MW, lo que se suma 
+a 
+la 
+instrucción 
+previa de bajar a 
+MT, en el transcurso 
+
+ 
+ 
+la unidad cumplir 
+con la solicitud de 
+potencia. Se solicita 
+revisar la respuesta 
+de 
+Campiche 
+considerando 
+la 
+instrucción realizada 
+por el Coordinador 
+de bajar a MT y 
+volver 
+a 
+evaluar 
+tanto la entrega a los 
+5 min. a los 15 min. 
+teniendo presente la 
+instrucción de ir a 
+MT 
+14-04-2026 
+15 
+TER 
+CAMPICHE 
+U1 
+94,82% 
+No 
+Activado 
+100,00% 
+94,82% 
+95,00% 
+La unidad cumple 
+con consigna y el 
+tiempo de subida. 
+Por 
+instrucción 
+posterior 
+del 
+Coordinador 
+la 
+unidad comienza a 
+subir a Plena Carga 
+desde las 15:42 hrs. 
+La unidad cumple 
+con 
+el 
+monto 
+solicitado de subida 
+y 
+el 
+tiempo 
+de 
+activación. 
+La 
+unidad comienza a 
+subir a las 15:23 hrs 
+de 86 MW a 97 MW 
+hasta las 15:34 hrs, a 
+las 
+15:42 
+por 
+instrucción 
+del 
+
+ 
+ 
+Coordinador 
+la 
+unidad comienza a 
+subir a Plena Carga. 
+Se solicita revisar el 
+cumplimiento 
+el 
+aporte de potencia de 
+la unidad respecto a 
+lo 
+instruido 
+de 
+entrega en el período 
+máximo 
+de 
+15 
+minutos desde su 
+activación 
+y 
+la 
+capacidad 
+de 
+la 
+unidad de sostener el 
+valor de potencia 
+instruido desde los 
+15 minutos de la 
+instrucción hasta la 
+orden de finalizar 
+considerando que el 
+Coordinador solicitó 
+a las 15:42 que la 
+unidad comience a 
+subir a Plena Carga 
+25-04-2026 
+19 
+TER 
+CAMPICHE 
+U1 
+62,75% 
+No 
+Activado 
+100,00% 
+62,75% 
+0,00% 
+A 
+las 
+19:17 
+Coordinador solicita 
+a la unidad subir 10 
+MW para prestar el 
+SC de CTF+, sin 
+embargo, la unidad 
+se 
+encontraba 
+a 
+Plena Carga desde 
+las 
+18:57 
+(Coordinador 
+solicitó Plena Carga 
+
+ 
+ 
+a las 18:31) Sin 
+disponibilidad para 
+subir. 
+Se 
+solicita 
+revisar 
+el 
+cumplimiento 
+el 
+aporte de potencia de 
+la 
+unidad 
+considerando que la 
+unidad se encontraba 
+a Plena Carga 
+29-04-2026 
+20 
+TER 
+NUEVA 
+VENTANAS 
+U1 
+66,67% 
+No 
+Activado 
+100,00% 
+66,67% 
+0,00% 
+La unidad cumple 
+con la consigna de 
+subida y el tiempo, la 
+instrucción 
+fue 
+entregada 
+a 
+las 
+20:44, 
+unidad 
+comienza a subir a 
+las 20:45 hrs de 256 
+MW a 267 MW 
+hasta las 20:54 hrs. 
+Con 
+posterioridad, 
+por instrucción del 
+Coordinador 
+la 
+unidad comienza a 
+subir a Plena Carga 
+desde las 20:45hrs. 
+Se solicita revisar el 
+cumplimiento de la 
+respuesta 
+del 
+servicio 
+activado 
+durante 
+los 
+5 
+minutos, el aporte de 
+potencia de la unidad 
+respecto 
+a 
+lo 
+instruido de entrega 
+
+ 
+ 
+en 
+el 
+período 
+máximo 
+de 
+15 
+minutos desde su 
+activación 
+y 
+la 
+capacidad 
+de 
+la 
+unidad de sostener el 
+valor de potencia 
+instruido desde los 
+15 minutos de la 
+instrucción hasta la 
+orden de finalizar 
+considerando que el 
+Coordinador solicitó 
+a las 20:45 que la 
+unidad 
+subiera 
+a 
+Plena Carga ya que 
+este no se encuentra 
+registrado 
+en 
+documento 
+2026_04_Respuesta 
+CTF 
+y 
+revisar 
+considerando ambas 
+instrucciones 
+entregadas por el 
+Coordinador  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Anexo 2: Observaciones Indicadores Desempeño CSF 
+ 
+Fecha 
+Hora 
+Unidad 
+Respuesta 
+CSF 
+(Fact_CSF) 
+Disponibilidad 
+(Fdis_CSF) 
+Desempeño 
+(DCSF) 
+Factor de 
+Desempeño 
+(Fd_CSF) 
+Observación Quintero 
+Energía 
+13-04-2026 
+0 
+TER NUEVA 
+VENTANAS 
+U1 
+89,16% 
+100,00% 
+89,16% 
+89,16% 
+La instrucción fue realizada a las 
+0:00 entregando instrucción de 
+bajada. 
+Se 
+realizaron 
+comunicaciones con el CEN en 
+dos oportunidades solicitando el 
+ajuste de la consigna del AGC, 
+ya que esta registraba un valor 
+considerablemente 
+inferior, 
+50MW de diferencia aprox, al 
+nivel de generación real de la 
+unidad, por este motivo existió 
+retardo en la conexión al AGC. 
+Se solicita revisar la respuesta 
+de la unidad Nueva Ventana 
+considerando 
+las 
+comunicaciones 
+entre 
+el 
+Coordinador y el Centro de 
+Control para revisar la consigna 
+del AGC 
+ 

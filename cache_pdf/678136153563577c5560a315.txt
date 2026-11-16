@@ -1,0 +1,44 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 10 DE ENERO 2025 
+OPE-249/2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para diciembre de 
+2024. 
+ 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para diciembre 2024. 
+ 
+1) 
+El 31 de diciembre se menciona una activación por CTF(+) para la central PENON_DIESEL entre las 
+5:32 y las 6:14. Sin embargo, esta instrucción no fue recibida por el centro de control, y por lo tanto, 
+no se llevó a cabo la activación en el horario indicado. Se han revisado los registros de 
+comunicación con el CDC y no se tienen llamadas durante el periodo mencionado. Se solicita 
+eliminar esta activación del cálculo de desempeños, considerando que el centro de control no 
+recibió instrucción de activación y la central no entró en servicio.  
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+Gustavo Venegas H. 
+Encargado Titular 
+Enlasa Generación Chile S.A. 
+ 
+ 

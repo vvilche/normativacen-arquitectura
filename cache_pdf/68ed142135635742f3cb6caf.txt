@@ -1,0 +1,66 @@
+ 
+Santiago, 10 de octubre de 2025. 
+  ACC.ECH.113.25 
+Señor: 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe Desempeño Servicios Complementarios – septiembre 2025. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de septiembre de 2025, que fue publicado en su página web y cuya publicación fue comunicada 
+a través de la carta DE 06307-25 de fecha 7 de octubre de 2025. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+Felipe Escobar Tapia 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC SEPTIEMBRE 2025 V1 
+Servicio Complementario – CT 
+Planta PFV Almeyda 
+Timestamp 
+Planta 
+Consigna en 
+Planta 
+[MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO Comentario 
+20-09-2025 
+8:17 
+-17 
+-27 
+20-09-2025 
+8:17 
+Se califica como NC, sin embargo, según grabación de llamado, la instrucción fue 
+de -17 MVAr y no el valor de -27 MVAr indicado en la planilla de RIO. 
+ 
+Planta PFV Malgarida 
+Timestamp 
+Planta 
+Consigna en 
+Planta 
+[MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO Comentario 
+24-09-2025 
+3:32 
+-60 
+- 
+- 
+A las 3:31 CDC solicita, mediante llamada, absorber 60 MVAr asociado a SSCC-CT, 
+sin embargo, dicha instrucción no se encuentra registrada en la planilla de RIO. 
+ 
+ 
+ 
+ 
+ 

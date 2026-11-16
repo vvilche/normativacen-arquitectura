@@ -1,0 +1,89 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 03 de noviembre de 2025 
+DE 06965-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de los Parámetros de Potencia 
+Máxima de Central PE Los Olmos. 
+[1] Carta 0025-2025 del Coordinado Energía 
+Eólica Los Olmos SpA, Ref.: “NUP 3661 – Envío 
+de Informe de Potencia Máxima (Pmáx)”, de fecha 
+15 de septiembre de 2025.  
+[2] Carta DE06198-25, Ref.: “[NUP 3661] Informes 
+Técnicos de Parámetros Operacionales de la 
+central PE Los Olmos”, de fecha 03 octubre 2025. 
+Responde a Ingreso DE09559-25. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en los Artículos 24 y 39 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Potencia Máxima de la Central PE Los Olmos, en conformidad con el Informe 
+Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 23 del Anexo Técnico en 
+aplicación, no se recibieron observaciones de Coordinado alguno al Informe Técnico 
+indicado, publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado.  
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PE Los 
+Olmos se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PE Los Olmos 
+Central/Unidad 
+Potencia 
+Máxima Bruta 
+[MW] 
+SS. AA 
+[MW] 
+Pérdidas en la 
+central (1) 
+[MW] 
+Potencia 
+Máxima Neta (2) 
+[MW] 
+PE Los Olmos 
+111,9485 
+0,3734 
+2,4450 
+109,1301 
+(1) Corresponde a las pérdidas en el sistema colector en media tensión (2,0989 MW) y del transformador de 
+poder (0,3461 MW). 
+(2) Potencia inyectada en la barra de 220 kV de S/E Los Olmos. 
+ 
+Al respecto, comunico a Ud., que los parámetros de potencia máxima de la Central PE Los 
+Olmos, entrarán en vigencia a partir de las 00:00 horas del día 05 de noviembre de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > Parque Eólico Los 
+Olmos > 2025 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GZV/CRV/PPF/PBA/adr 

@@ -1,0 +1,175 @@
+ 
+ 
+Avda. Parque Isidora 1061, Pudahuel, Santiago de Chile – Teléfono: (+56 2) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 12 de junio de 2026 
+DE 04070-26 
+ 
+ 
+Señor 
+Adrián Guzmán M. 
+Encargado Suplente 
+Enel Generación Chile S.A. 
+Enel Green Power Chile S.A. 
+Empresa Eléctrica Pehuenche S.A. 
+Parque Eólico Talinay S.A. 
+Geotérmica del Norte S.A. 
+Presente 
+ 
+ 
+Ref.: Observaciones a carta TAL 001-26 y 
+requerimiento 
+de 
+acciones 
+para 
+la 
+corrección de brechas de disponibilidad 
+SITR. 
+ 
+De nuestra consideración: 
+ 
+Hemos revisado los antecedentes expuestos en su carta TAL 001-26, mediante la cual esa 
+empresa responde al requerimiento efectuado por el Coordinador respecto del 
+cumplimiento de disponibilidad de señales SITR. Al respecto, se estima necesario efectuar 
+las siguientes precisiones. 
+1. Sobre las brechas detectadas en la disponibilidad de señales. 
+Como cuestión preliminar, cabe señalar que los antecedentes contenidos en su 
+presentación no permiten explicar ni reducir las brechas de disponibilidad que motivaron el 
+requerimiento efectuado por el Coordinador. 
+En efecto, gran parte de las materias abordadas en su carta se refieren a aspectos distintos 
+de aquellos que originan los incumplimientos observados, por lo que, aun cuando los 
+planteamientos formulados por esa empresa fueran acogidos, ello no modificaría las 
+brechas actualmente detectadas en la entrega de señales SITR. 
+En particular, las indisponibilidades reportadas no guardan relación con criterios de 
+validación asociados a la variación de los valores transmitidos ni con aspectos relativos a 
+la actualización temporal de las señales. Por el contrario, una parte relevante de las brechas 
+observadas corresponde a señales que no son recibidas por los sistemas del Coordinador, 
+situación que se encuentra reflejada en la propia información disponible en el sistema SITR 
+y que constituye una condición distinta de cualquier discusión relativa a la frecuencia de 
+actualización o variación de los valores transmitidos. 
+ 
+
+ 
+ 
+Avda. Parque Isidora 1061, Pudahuel, Santiago de Chile – Teléfono: (+56 2) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+En consecuencia, los argumentos desarrollados respecto de la validez de señales, bandas 
+muertas o variaciones en los valores informados no permiten explicar las indisponibilidades 
+observadas ni constituyen medidas que contribuyan a corregir las brechas que dieron origen 
+al requerimiento efectuado por este Coordinador. 
+2. Sobre la referencia a la actualización de señales cada 5 segundos. 
+La carta señala que existirían señales que son consideradas inválidas pese a actualizarse 
+en intervalos inferiores a 5 segundos y que el Coordinador exigiría variaciones permanentes 
+en el valor informado para considerar una señal como válida. 
+Al respecto, resulta necesario precisar que el Coordinador no exige a esa empresa la 
+actualización de señales cada 5 segundos para efectos de determinar el nivel de 
+cumplimiento de disponibilidad reportado. Asimismo, las brechas identificadas en los 
+informes de disponibilidad no derivan de la aplicación de un criterio asociado a dicha 
+periodicidad de actualización. 
+Si bien la actualización de señales constituye una materia que también es monitoreada por 
+el Coordinador en el marco de sus funciones, ésta no corresponde al origen de las 
+indisponibilidades observadas ni al criterio utilizado para determinar los incumplimientos 
+informados a esa empresa. 
+Por lo anterior, no resulta posible vincular las brechas reportadas con la circunstancia de 
+que una señal permanezca estable o no presente variaciones durante un determinado 
+período de tiempo. 
+3. Sobre la solicitud de pronunciamiento normativo. 
+En su presentación, esa empresa solicita un pronunciamiento formal respecto de los 
+criterios utilizados para catalogar determinadas señales como inválidas y sobre el sustento 
+normativo que respaldaría dicha interpretación. 
+Al respecto, este Coordinador estima que no resulta necesario efectuar un pronunciamiento 
+adicional en los términos solicitados, toda vez que el requerimiento efectuado no se 
+sustenta en una interpretación según la cual una señal deba variar dentro de intervalos de 
+5 segundos para ser considerada válida. 
+Asimismo, los criterios relativos a la validez y actualización de los datos se encuentran 
+establecidos en la normativa vigente, incluyendo las condiciones asociadas a la 
+desactualización de información por períodos superiores a 30 segundos. En cualquier caso, 
+dicha materia no guarda relación con las brechas de disponibilidad objeto del requerimiento, 
+las cuales corresponden principalmente a señales que no son recibidas por el Coordinador. 
+Por consiguiente, la discusión planteada en torno a la validez de determinadas señales no 
+permite explicar ni justificar las indisponibilidades observadas. 
+ 
+ 
+ 
+
+ 
+ 
+Avda. Parque Isidora 1061, Pudahuel, Santiago de Chile – Teléfono: (+56 2) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+4. Sobre la depuración y retiro de variables. 
+Respecto de la eliminación de variables que, según indica esa empresa, no correspondían 
+a sus instalaciones, el Coordinador valora las actividades de revisión, depuración y 
+regularización efectuadas. 
+No obstante, del tenor de su presentación se desprende que dichas actividades ya fueron 
+ejecutadas en el marco de un proceso previo de revisión de información y de actualización 
+de tablas bilaterales. 
+En consecuencia, dichas acciones no pueden ser consideradas como medidas destinadas 
+a mitigar las brechas actualmente observadas en materia de disponibilidad, toda vez que 
+éstas corresponden a señales que continúan siendo exigibles y respecto de las cuales 
+persisten incumplimientos en los niveles de disponibilidad observados. 
+5. Sobre el plan de acción informado. 
+El Coordinador valora la presentación del plan de trabajo informado por esa empresa, así 
+como las iniciativas asociadas al desarrollo de una nueva plataforma SITR/SCED/AGC, en 
+cuanto reflejan la intención de avanzar en la mejora de los procesos de intercambio de 
+información. 
+Sin perjuicio de lo anterior, considerando la naturaleza de las brechas observadas, se 
+estima conveniente que los análisis y acciones correctivas no se circunscriban 
+exclusivamente a los sistemas SCADA o a las plataformas terminales de intercambio de 
+información. 
+En particular, se recomienda efectuar una revisión integral de toda la cadena de 
+comunicaciones involucrada en la transmisión de señales, desde el origen de los datos 
+hasta su recepción por parte del Coordinador, considerando equipos de adquisición, 
+infraestructura de comunicaciones, configuraciones intermedias, servidores, protocolos de 
+transmisión y demás componentes que puedan incidir en las indisponibilidades observadas. 
+Lo anterior permitiría abordar de manera más directa las causas efectivas que originan las 
+brechas actualmente reportadas y facilitar la implementación de medidas correctivas 
+orientadas a su eliminación. 
+6. Consideraciones finales 
+El Coordinador valora las gestiones desarrolladas por esa empresa para mejorar la calidad 
+de la información intercambiada y reconoce los esfuerzos asociados a la modernización de 
+sus plataformas y procesos. 
+Sin perjuicio de ello, los antecedentes expuestos en su carta no permiten explicar ni corregir 
+las brechas de disponibilidad que motivaron el requerimiento efectuado, por lo que resulta 
+necesario continuar avanzando en la identificación de sus causas y en la implementación 
+de medidas correctivas orientadas específicamente a las señales que presentan 
+indisponibilidades. 
+
+ 
+ 
+Avda. Parque Isidora 1061, Pudahuel, Santiago de Chile – Teléfono: (+56 2) 2424 6300 
+www.coordinador.cl 
+ 
+En tal sentido, se solicita a esa empresa mantener informado al Coordinador respecto del 
+avance de las acciones comprometidas y de los resultados obtenidos en la reducción 
+efectiva de las brechas actualmente observadas. 
+ 
+Sin otro particular, le saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Octavio Donoso Alarcón 
+ 
+                                   Gerente Tecnología y Sistemas 
+ 
+                                   Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DPR/agc 
+c.c.: Sr. Rodrigo Espinoza, Gerente de Operación. 
+        Sr. Víctor Reyes, Jefe Departamento Scada-EMS. 
+        Archivo. 

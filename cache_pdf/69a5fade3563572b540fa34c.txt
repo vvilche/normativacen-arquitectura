@@ -1,0 +1,248 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 02 de marzo de 2026 
+DE 01407-26 
+Señor 
+Eduardo Verdugo 
+Encargado Titular 
+Energía Eólica San Matías SpA 
+Presente 
+Ref.: Actualización de los aportes del resultado 
+del Proceso de Verificación del Servicio 
+Complementario (SC) de Control Primario de 
+Frecuencia del PE San Matías. 
+Responde a Ingreso: DE01265-26. 
+De mi consideración: 
+En relación con la materia de la referencia, este Coordinador emitió mediante comunicación 
+de la Ref. [1] la carta verificación de Control Primario de Frecuencia (CPF) de la central PE 
+San Matías. No obstante, mediante comunicación de la Ref. [2] se le solicitó a Energía 
+Eólica San Matías SpA, un plan de trabajo para optimizar la respuesta de la central, a fin 
+de que pudiera entregar la totalidad de su reserva CPF ante escalones de frecuencia de +/-
+0,7 Hz a los 10 segundos. En atención a lo anterior, el coordinado realizó ajustes en el 
+control de la central y ejecutó nuevos ensayos, concretando el envío de una nueva versión 
+del informe de verificación de CPF mediante comunicación de la Ref. [3]. Por lo tanto, tras 
+completar la revisión de la nueva versión del informe técnico de verificación de Control 
+Primario de Frecuencia, comunico a Ud., que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), se actualizan 
+los valores del aporte de Control Primario de Frecuencia (CPF) del PE San Matías. 
+ 
+Como resultado de este proceso, la actualización de los aportes CPF del PE San Matías 
+serán considerados en la programación de la operación a partir de las 00:00 del 05 de 
+marzo de 2026 considerando los recursos indicados en el anexo a la presente carta. 
+El informe técnico actualizado que justifica los aportes del CPF del PE San Matías ha sido 
+publicado en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Primario de Frecuencia > Central PE San Matías 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/WJS/adr 
+c.c.:  
+Sr. Juan Pablo Kindermann – Encargado Suplente Energía Eólica San Matías SpA. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Referencias: 
+ 
+[1] Carta DE06709-25 emitida por el Coordinador Eléctrico, Ref.: “Resultado del Proceso de 
+Verificación del Servicio Complementario (SC) de Control Primario de Frecuencia del PE 
+San Matías.”, de fecha 22 de octubre de 2025. 
+ 
+[2] Carta DE06708-25 emitida por el Coordinador Eléctrico, Ref.: “Solicitud de plan de 
+trabajo de ajustes en el controlador potencia-frecuencia del Parque Eólico San Matías.”, de 
+fecha 22 de octubre de 2025. 
+ 
+[3] Carta 0005-2026 de Energía Eólica San Matías SpA, Ref.: “Informe de verificación de 
+Control Primario de Frecuencia”, de fecha 11 de febrero de 2026. Ingreso DE01265-26. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC PE San Matías 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) PE San Matías 
+Los siguientes Parámetros Operacionales a la fecha de emisión de esta carta de 
+verificación se encuentran en proceso de aprobación por el Coordinador.  
+• 
+Potencia máxima bruta: 83,208 MW 
+• 
+Potencia máxima neta: 79,43 MW  
+• 
+Potencia mínima bruta: 9,899 MW  
+• 
+Potencia mínima neta: 7,995 MW 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Instalación con rango de ajuste de estatismo del 2% al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados con la unidad en servicio por el 
+operador de la central. 
+• 
+Estatismo (R) actual se encuentra ajustado al 3,64%, respecto a una potencia base 
+igual a su potencia máxima.  
+• 
+Cada vez que se solicite la prestación del CPF la central debe contar con su 
+ajuste de BM en 25 mHz.  
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Energía Eólica San Matías SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tabla en página siguiente. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+a) Control Primario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+Central PE San Matías 
+Recurso Primario 
+Eólico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Valor determinado 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2% - 8% 
+Estatismo 
+3,64% 
+Rango de ajuste Banda muerta [mHz] 
+25 - 200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+83,208 
+Límite de regulación inferior [MW] (3) 
+9,899 
+Aportes (4) 
+ BM = 25 [mHz]  
+R = 3,64% 
+10  
+segundos 
+Aporte +0,2[Hz] [MW] 
+-7,600 
+Aporte -0,2[Hz] [MW] 
+7,800 
+Aporte +0,7[Hz] [MW] 
+-29,800 
+Aporte -0,7[Hz] [MW] 
+29,600 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-7,700 
+Aporte -0,2[Hz] [MW] 
+7,800 
+Aporte +0,7[Hz] [MW] 
+-29,900 
+Aporte -0,7[Hz] [MW] 
+29,700 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia Máxima bruta en proceso de aprobación por el Coordinador. 
+(3) Correspondiente a la Potencia Mínima bruta en proceso de aprobación por el Coordinador. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con consignas de 35,3,0 MW y 42,8 MW, respectivamente 
+para cada escalón. Sin perjuicio de lo anterior, la respuesta del CPF es homogénea en todo su rango de operación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

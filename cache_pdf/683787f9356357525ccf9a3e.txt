@@ -1,0 +1,41 @@
+ 
+Santiago, 28 de mayo de 2025 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+          COM-1624-25 
+Señorita (a) 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Ref.: Informa fecha de realización de ensayos de verificación de instalaciones para la prestación 
+de Servicios Complementarios – Proyecto NUP 1143 PFV Desierto de Atacama y Proyecto NUP 
+4390 BESS PFV Desierto de Atacama. 
+De nuestra consideración: 
+En atención a los procedimientos de ensayo para la verificación de Servicios Complementarios, 
+aprobados mediante las cartas DE01820-25, de fecha 28 de marzo de 2025, y DE02805-25, de fecha 
+13 de mayo de 2025, y en cumplimiento de lo establecido en el Artículo 8 del Anexo Técnico de la 
+Norma Técnica de Servicios Complementarios, informamos a usted que los ensayos de verificación 
+para los Servicios Complementarios de Control Primario de Frecuencia, Control Terciario de 
+Frecuencia y Control de Tensión se encuentran programados conforme al siguiente detalle: 
+ Proyecto NUP 1143 - PFV Desierto de Atacama: entre el 16 y el 30 de junio de 2025. 
+ Proyecto NUP 4390 - BESS Desierto de Atacama: entre el 16 y el 30 de junio de 2025. 
+Adicionalmente, y conforme a lo señalado en su comunicación, se informarán las curvas de carga 
+asociadas a las pruebas mediante la respectiva solicitud en el sistema Neomante, en estado 
+operativo “PDO”, e igualmente serán enviadas con al menos cinco días hábiles de antelación a la 
+fecha de ejecución al correo verificacion.sscc@coordinador.cl, indicando el número de aviso de 
+trabajo correspondiente. 
+Finalmente, nos comprometemos a remitir el Informe Técnico con los resultados de la verificación 
+dentro del plazo máximo de 15 días hábiles contados desde la finalización de los ensayos, conforme 
+a lo establecido en el capítulo 5 del Instructivo Técnico correspondiente. 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+Luis Nuñez H. 
+Encargado Titular 
+Copiapó Solar SpA 

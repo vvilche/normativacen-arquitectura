@@ -1,0 +1,149 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 07 de mayo de 2025 
+AEL0043-25 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+Ref.: Responde a DE02388-25 y envía cronograma de 
+verificación de SSCC 
+ 
+De nuestra consideración: 
+ 
+Nos referimos a la carta DE02388-25 del día 22 de abril de 2025, a través de la cual el Coordinador solicita 
+información sobre la entrega de los informes de verificación de Servicios Complementarios (SSCC) de las 
+instalaciones de generación representadas por Aela Generación S.A. 
+ 
+Al respecto, informamos que Aela Generación S.A. ha realizado todos los esfuerzos posibles para la 
+verificación de las centrales, resguardando la seguridad de las personas y de los activos en cada una de las 
+etapas del proceso. Teniendo en consideración que, en el caso de algunas centrales con más de 10 años 
+de operación, los inversores y/o esquemas de control no fueron diseñados para someterse a cargas de 
+trabajo como se definen en las pruebas de verificación de SSCC. De esta forma, se enlista a continuación 
+el estado de cada una de las centrales para el proceso de verificación: 
+ 
+Mampil U1 y U2 
+1. CT y CTF: 
+a. Los informes de verificación de CT y CTF se enviaron el 06/07/2023 a través de DE04044-
+23, siendo aprobados por el Coordinador a través de la carta DE04218-23. 
+2. CSF: 
+a. La implementación del Control Secundario de Frecuencia está sujeta a la implementación 
+del SCED, para lo cual el equipo ha estado trabajando en Coordinación con el CEN. 
+3. CPF: 
+a. La verificación del control primario de frecuencia no cuenta con protocolos aprobados por 
+parte del Coordinador. Se trabaja con el experto técnico en la elaboración de los 
+protocolos para poder realizar las pruebas. 
+ 
+Peuchén U1 y U2 
+1. CT y CTF: 
+a. Los informes de verificación de CT y CTF se enviaron el 08/08/2024 a través de DE04770-
+24, estando pendiente la aprobación de parte del Coordinador. 
+2. CSF: 
+
+ 
+ 
+ 
+ 
+2 
+ 
+a. La implementación del Control Secundario de Frecuencia está sujeta a la implementación 
+del SCED, para lo cual el equipo ha estado trabajando en Coordinación con el CEN. 
+3. CPF: 
+a. La verificación del control primario de frecuencia no cuenta con protocolos aprobados por 
+parte del Coordinador. Se trabaja con el experto técnico en la elaboración de los 
+protocolos para poder realizar las pruebas. 
+ 
+PE Sarco 
+1. CPF, CT y CTF: 
+a. Se cuentan con protocolos aprobados. Las pruebas no han podido ser agendadas debido 
+a la indisponibilidad del equipo de Siemens para apoyar en el proceso al experto técnico. 
+2. CSF: 
+a. La implementación del Control Secundario de Frecuencia está sujeta a la implementación 
+del SCED, para lo cual el equipo ha estado trabajando en Coordinación con el CEN. 
+ 
+PE Aurora 
+1. CPF, CT y CTF: 
+a. Se cuentan con protocolos aprobados. Las pruebas no han podido ser agendadas debido 
+a la indisponibilidad del equipo de Siemens para apoyar en el proceso al experto técnico. 
+2. CSF: 
+a. La implementación del Control Secundario de Frecuencia está sujeta a la implementación 
+del SCED, para lo cual el equipo ha estado trabajando en Coordinación con el CEN. 
+ 
+PE Cuel 
+1. CT y CTF: 
+a. Se cuentan con protocolos aprobados, sin embargo, las pruebas no podrán ser realizadas 
+mientras no se realice la actualización al equipo SCADA de la central, el que está 
+presupuestado a realizarse el 2026. 
+2. CSF: 
+a. La implementación del Control Secundario de Frecuencia está sujeta a la implementación 
+del SCED. Al igual que para el CT y CTF, es necesario primero la actualización del SCADA 
+de la central. 
+3. CPF: 
+a. Una vez se tenga actualizado el sistema SCADA de la central, se procederá a entregar los 
+protocolos correspondientes y realizar las pruebas para la verificación de los SSCC. 
+ 
+PFV Salvador 
+1. CP, CT y CTF: 
+a. El equipo se encuentra trabajando en conjunto con el experto técnico y el proveedor del 
+nuevo sistema de baterías para poder elaborar protocolos que incorporen la totalidad de 
+la central, resguardando la seguridad de los equipos y las limitaciones de operación 
+contractuales para el sistema de almacenamiento. 
+2. CSF: 
+a. La implementación del Control Secundario de Frecuencia está sujeta a la implementación 
+del SCED.  
+ 
+
+ 
+ 
+ 
+ 
+3 
+ 
+PFV San Andrés 
+1. CP, CT y CTF: 
+a. El equipo se encuentra trabajando en conjunto con el experto técnico y el proveedor del 
+nuevo sistema de baterías para poder elaborar protocolos que incorporen la totalidad de 
+la central, resguardando la seguridad de los equipos y las limitaciones de operación 
+contractuales para el sistema de almacenamiento. 
+2. CSF: 
+a. La implementación del Control Secundario de Frecuencia está sujeta a la implementación 
+del SCED.  
+ 
+El avance mostrado da cuenta que Aela Generación S.A ha avanzado de manera consistente en la 
+verificación de sus activos, presentando retrasos en los controles primarios y secundarios de frecuencia 
+debido a limitaciones de los sistemas SCADA o debido a actualizaciones que se han tenido que llevar a 
+cabo en las centrales para poder cumplir con estos requerimientos. De todas formas, se sigue avanzando 
+en conjunto con el Coordinador para lograr la implementación del SCED junto con el CSF a la brevedad 
+posible. 
+ 
+Por otro lado, en las centrales PFV Salvador y PFV San Andrés se instalaron sistemas de almacenamiento 
+que llevan complicaciones adicionales a la hora de realizar las verificaciones de SSCC. Sobre todo, teniendo 
+en cuenta las limitaciones contractuales asociadas a las celdas de baterías para no afectar las garantías del 
+proveedor.  
+ 
+Por último, se entrega adjunto el cronograma para cada una de las unidades. 
+ 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nicolás Correa Fernández 
+Encargado Suplente 
+Aela Generación S.A. 
+ 
+ 
+ 
+ 
+ 

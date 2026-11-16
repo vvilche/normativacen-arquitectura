@@ -1,0 +1,230 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 29 de agosto de 2025 
+0031-2025 
+ 
+ 
+Señor  
+Rodrigo Espinoza V.  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+Ref: Responde carta DE05006-25. 
+[1] Carta DE05006-25, Comunica atraso en el proceso de Verificación de Instalaciones de 
+Generación para la Prestación de Servicios Complementarios de acuerdo con Cronograma 
+Vigente, del Coordinador Eléctrico Nacional, de fecha 13 de agosto de 2025. 
+[2] Carta 0014-ASII-25 Verificación de Servicios Complementarios, de propiedad de Andes 
+Solar II SpA., de fecha 7 de mayo de 2025. 
+[3] Carta 0013-ASII-25. Verificación de Servicios Complementarios, de propiedad de Andes 
+Solar II SpA., de fecha 6 de mayo de 2025. 
+ 
+ 
+De mi consideración, 
+ 
+A continuación, se indica información solicitada por Ud. a través de la comunicación 
+indicada en la Ref. [1]: 
+  
+1. Informar las razones que provocaron el no haber enviado en plazo los informes de 
+verificación de SSCC de sus instalaciones de generación, indicando las acciones que ha 
+tomado o tomará para que a futuro no se generen nuevos retrasos. 
+ 
+RESP: A continuación, se proporciona respuesta por cada instalación: 
+- 
+PFV Andes Solar II-B / BESS PFV Andes Solar II-B: Conforme a lo indicado en la 
+comunicación de la Ref. [2], la principal razón por la cual no se ha enviado el informe 
+de verificación es debido a dificultades en el proceso administrativo de contratación 
+del experto técnico. Actualmente, se ha adjudicado el servicio y nos encontramos 
+trabajando con el experto técnico en iteraciones de revisión de protocolos debido a 
+diferencias técnicas por la tecnología de la planta. 
+ 
+- 
+PFV Andes Solar II: Conforme a lo indicado en la comunicación de la Ref. [3], la 
+principal razón por la cual no se remite el informe de verificación correspondiente al 
+mes de marzo de 2025 obedece a dificultades en las señales y sistemas de 
+comunicación requeridos para la prestación del servicio. 
+En cuanto al retraso en la verificación del CPF en el PFV, durante el periodo previsto 
+se presentan limitaciones en la capacidad de generación atribuibles al sistema de 
+seguimiento del parque. Esta condición impide cumplir con los parámetros técnicos 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+establecidos en el protocolo de validación, dado que las pruebas requieren que el 
+parque opere en condiciones nominales que permitan validar el comportamiento de 
+los sistemas a plena carga. 
+ 
+Respecto al atraso en la verificación del CSF, la implementación de nuevas señales 
+de control exige un proceso técnico riguroso que contempla la validación de los 
+parámetros de comunicación entre los sistemas de supervisión y control, así como 
+la integración de dichas señales en los sistemas SCADA y RTU correspondientes. 
+Estos procesos implican tiempos de desarrollo, pruebas internas y ajustes en 
+campo, lo que impide disponer de las condiciones técnicas mínimas necesarias para 
+ejecutar la prueba CSF de forma segura y conforme a los protocolos establecidos. 
+Actualmente, se encuentra en curso la programación y validación de las señales 
+mencionadas, con el objetivo de reprogramar la prueba en una nueva ventana 
+técnica que garantice su correcta ejecución y cumplimiento normativo. 
+ 
+ 
+2. La entrega de un plan de normalización que considere el envío de los mencionados 
+informes de verificación en un plazo máximo de 30 días corridos, contados desde la 
+fecha de respuesta solicitada a la presente comunicación. Dicho plan debe considerar 
+las etapas a seguir y las fechas límite asociadas, específicamente la fecha de envío de 
+los protocolos de pruebas, la fecha en que llevará a cabo lo ensayos y la fecha de envío 
+del respectivo informe. De igual forma este plan de normalización no debe alterar la 
+entrega de los informes programados de otras instalaciones para los próximos meses 
+por parte de su representada. 
+ 
+  
+RESP: A continuación, se proporciona respuesta por cada instalación: 
+- 
+PFV Andes Solar II-B: Los ensayos y los respectivos informes de verificación serán 
+realizados por una empresa externa. El plan propuesto es el siguiente: 
+ 
+Etapas  
+CPF 
+CSF 
+CTF 
+CT 
+Entrega Protocolos 
+Septiembre 
+2025 
+No Aplica 
+Septiembre 
+2025 
+Septiembre 
+2025 
+Ejecución Ensayo 
+Octubre 
+2025 
+Octubre 2025 
+Octubre 2025 
+Octubre 2025 
+Informe 
+Verificación SSCC 
+Noviembre 
+2025 
+No Aplica 
+Noviembre 
+2025 
+Noviembre 
+2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+- 
+BESS PFV Andes Solar II-B: Los ensayos y los respectivos informes de verificación 
+serán realizados por una empresa externa. El plan propuesto es el siguiente: 
+ 
+Etapas  
+CPF 
+CSF 
+CTF 
+CT 
+Entrega Protocolos 
+Septiembre 
+2025 
+No Aplica 
+Septiembre 
+2025 
+Septiembre 
+2025 
+Ejecución Ensayo 
+Octubre 
+2025 
+Octubre 2025 
+Octubre 2025 
+Octubre 2025 
+Informe 
+Verificación SSCC 
+Noviembre 
+2025 
+No Aplica 
+Noviembre 
+2025 
+Noviembre 
+2025 
+ 
+- 
+BESS PFV Andes Solar II: Los ensayos y los respectivos informes de verificación 
+serán realizados por una empresa externa. El plan propuesto es el siguiente: 
+ 
+Etapas  
+CPF 
+CSF 
+CTF 
+CT 
+Entrega 
+Protocolos 
+BESS y PV+BESS: 
+enviado octubre 2024.  
+No Aplica 
+BESS y PV+BESS: 
+realizado. 
+BESS y PV+BESS: 
+realizado. 
+PV: enviado marzo 2022. 
+PV: realizado. 
+PV: realizado. 
+Ejecución 
+Ensayo 
+BESS y PV+BESS: 
+realizado. 
+BESS y PV+BESS: 
+octubre 2025.  
+BESS y PV+BESS: 
+realizado.  
+BESS y PV+BESS: 
+realizado.  
+PV: noviembre 2025. 
+PV: octubre 2025. 
+PV: realizado. 
+PV: realizado. 
+Informe 
+Verificación 
+SSCC 
+BESS y PV+BESS: 
+enviado enero 2025. 
+No aplica 
+BESS y PV+BESS: 
+enviado enero 2025. 
+BESS y PV+BESS: 
+enviado enero 2025. 
+PV: Verificado enero 2024 
+PV: Verificado enero 
+2024 
+PV: Verificado enero 
+2024 
+ 
+Cabe destacar que, dados los antecedentes antes expuestos no nos es posible cumplir con 
+los plazos requeridos a través de la carta indicada en la Ref. [1], sin embargo, estamos 
+haciendo nuestros mayores esfuerzos para llevar a cabo las actividades pendientes para 
+alcanzar lo solicitado. 
+ 
+Sin otro particular, saluda atte. 
+ 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+Andes Solar II SpA. 

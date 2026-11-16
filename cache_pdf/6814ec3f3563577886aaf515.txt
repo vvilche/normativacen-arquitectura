@@ -1,0 +1,146 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 30 de abril de 2025 
+ENGIE N°130/2025
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Responde a carta DE02344-25: “Actuación 
+del 
+Servicio 
+Complementario 
+de 
+Plan 
+de 
+Recuperación de Servicio en la categoría de Partida 
+Autónoma (PRS-PA) el 25 de febrero de 2025.” 
+Ref.: 
+[1] Carta DE02344-25 del 17 de abril de 2025. 
+[2] Carta ENGIE N°055/2024, ingreso DE01280-24,
+del 22 de febrero de 2024. 
+De nuestra consideración, 
+ 
+En conformidad a lo solicitado en su carta de ref. [1], se responde por literal: 
+a) Informe técnico que dé cuenta del proceso de PRS-PA llevado a cabo. 
+ 
+Se adjunta documento “Informe processo PRS-PA Ter Tocopilla.docx”. 
+ 
+b) Conforme al comportamiento y hallazgos evidenciados durante la aplicación del PRS-PA fallido, se 
+solicita el envío de las medidas correctivas que implementará su representada junto con el plan de 
+trabajo que indica las fechas en que se materializarán esas acciones, a más tardar el 30 de abril de 
+2025. Este plan debe considerar efectuar el proceso de verificación de instalaciones para la prestación 
+de servicios complementarios, incluyendo el PRS-PA, y enviar el respectivo informe técnico al 
+Coordinador a más tardar el 31 de julio de 2025. 
+ 
+# 
+Hito 
+Inicio 
+Días 
+Fin 
+1 
+Reporte final 
+14/07/2025 
+5 
+18/07/2025 
+2 
+TG3: Mtto preventivo motor partida y sistema encendido 
+01/04/2025 
+63 
+02/06/2025 
+3 
+TG3: Prueba Black Start Interna 
+03/06/2025 
+1 
+03/06/2025 
+4 
+TG3: Prueba Black Start con Experto Técnico 
+16/06/2025 
+5 
+20/06/2025 
+5 
+TG2: Mtto preventivo motor partida y sistema encendido 
+01/04/2025 
+63 
+02/06/2025 
+6 
+TG2: Prueba Black Start Interna 
+02/06/2025 
+1 
+02/06/2025 
+7 
+TG2: Prueba Black Start con Experto Técnico 
+16/06/2025 
+5 
+20/06/2025 
+8 
+TG1: Mtto preventivo motor partida y sistema encendido 
+01/04/2025 
+63 
+02/06/2025 
+9 
+TG1: Prueba Black Start Interna 
+02/06/2025 
+1 
+02/06/2025 
+10 
+TG1: Prueba Black Start con Experto Técnico 
+16/06/2025 
+5 
+20/06/2025 
+ 
+Con respecto a realizar todas la pruebas de SSCC, se observa que: 
+• 
+Todas las pruebas de verificación de SSCC ya fueron realizadas y sus respectivos informes 
+fueron enviados al Coordinador el 22-02-2024, mediante ref. [2].  
+• 
+La única prueba pendiente es la de Partida Autónoma de la TG3 debido a la indisponibilidad 
+de uno de los equipos necesarios para su ejecución en ese momento. 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Durante la falla del 25 febrero de 2025, las TGs no partieron o tuvieron atrasos en la partida 
+por otros motivos técnicos. 
+ 
+c) Cabe mencionar que el proceso de verificación y las pruebas deben ser realizadas por un experto 
+técnico independiente que cumpla lo indicado en el Artículo 4 del Anexo Técnico “Verificación de 
+Instalaciones para la Prestación de SSCC”. En función de lo anterior su representada deberá enviar los 
+antecedentes que respalden su experiencia, junto con la declaración jurada de ausencia de conflicto de 
+interés, con el fin que el Coordinador valide a dicho experto. 
+ 
+Finalmente, sobre el experto técnico y la documentación requerida, se enviará de acuerdo con la 
+fecha indicada en la carta de ref. [1] (09 de mayo de 2025). 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Pablo Jorquera Riquelme 
+Encargado Titular 
+Engie Energía Chile S.A. 
+ 
+ 
+ 
+ 

@@ -1,0 +1,118 @@
+  
+ 
+ 
+                 
+       Santiago, 11 de agosto de 2026 
+     EFC-2026-00360 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+Ref.: Responde a Carta DE 05036-26. Cronograma 
+actualizado y plan de evaluación de factibilidad de 
+alternativas 
+para 
+levantar 
+restricción 
+de 
+Partida 
+Autónoma (PA) de Central TER TermoPacífico. 
+ 
+De mi consideración, 
+Junto con saludar, y en respuesta a la carta de la Ref., mediante la cual este Coordinador 
+instruye a mi representada a gestionar la ejecución a la brevedad del estudio de factibilidad 
+orientado a levantar la restricción de Partida Autónoma (PA) de la Central TER TermoPacífico 
+originada por la insuficiente capacidad de la nave 1 para soportar la corriente de energización 
+(“inrush”) del transformador de poder, adjuntamos dentro de plazo cronograma de trabajo 
+actualizado solicitado. 
+Sobre la base de las observaciones formuladas por el Departamento de Control de la Operación en 
+la minuta DCO-SSCC-PA-TER Termopacífico (numeral 3.1, literal b), mi representada ha definido un 
+plan de trabajo que evalúa en paralelo las tres alternativas técnicas identificadas para reducir o 
+mitigar la corriente de inrush del transformador de poder y permitir un arranque exitoso de la 
+central, de manera de contar con los resultados y la propuesta de adecuación a más tardar el 31 de 
+diciembre de 2026, conforme a lo instruido. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1. Alcance del estudio de factibilidad 
+El estudio evaluará técnica y económicamente las siguientes tres alternativas, de forma no 
+excluyente entre sí, permitiendo que la propuesta final de adecuación combine aquellas que 
+resulten factibles y costo-efectivas: 
+ 
+Alternativa 1 – Estrategia de secuencia de arranque: modificación del número de unidades 
+generadoras en servicio durante el proceso de partida y reducción de tensión en el instante de 
+cierre del interruptor de energización del transformador de poder, de manera de disminuir la 
+magnitud de la corriente de inrush resultante. 
+Alternativa 2 – Dispositivo de cierre sincronizado (point-on-wave switching): incorporación de 
+un controlador de cierre controlado en el interruptor de energización del transformador de 
+poder, que permita seleccionar el instante óptimo de cierre respecto de la onda de tensión y 
+minimizar la componente asimétrica (DC) de la corriente de inrush. 
+Alternativa 3 – Adecuación del esquema de protecciones y/o limitación física de la corriente: 
+evaluación de la incorporación de temporización (retardo) en el ajuste de la protección de 
+sobrecorriente del transformador de poder, activación de la función de bloqueo transitorio de 
+sobrecorriente por inrush (retención por 2ª armónica) del relé de protección, y, de resultar 
+necesario, la evaluación de reactores u otros elementos limitadores de corriente. 
+Cada alternativa será evaluada considerando: (i) factibilidad técnica y compatibilidad con los equipos 
+existentes de la central; (ii) efectividad esperada en la reducción/gestión de la corriente de inrush; 
+(iii) plazo de implementación; (iv) inversión estimada (CAPEX) y costos asociados; y (v) riesgos de 
+coordinación de protecciones. El resultado será una recomendación técnico-económica que podrá 
+considerar la implementación de una o más de las alternativas evaluadas. 
+ 
+2. Cronograma de trabajo 
+El cronograma detallado con hitos, fechas y responsables se adjunta como Anexo 1, estructurado en 
+las siguientes fases: 
+Fase 1: Recopilación de antecedentes y datos de la central (registros de eventos de energización, 
+parámetros del transformador de poder, ajustes de protección vigentes). 
+Fase 2: Modelamiento y simulaciones dinámicas del proceso de energización del transformador 
+de poder, para caracterizar la corriente de inrush base. 
+Fase 3: Evaluación técnica en paralelo de las tres alternativas descritas en la Sección 1. 
+Fase 4: Análisis técnico-económico comparativo y selección de la(s) alternativa(s) 
+recomendada(s). 
+ 
+
+Fase 5: Elaboración del informe de factibilidad y de la propuesta de adecuación. 
+Fase 6: Revisión y control de calidad interno. 
+Fase 7: Envío formal de los resultados y propuesta de adecuación al Coordinador Eléctrico 
+Nacional, a más tardar el 31 de diciembre de 2026. 
+ 
+Cabe señalar que el plazo de junio de 2028 originalmente propuesto correspondía a un estudio de 
+ingeniería de detalle de mayor alcance; el presente plan reformula el enfoque hacia una evaluación 
+de factibilidad de las tres alternativas señaladas, lo que permite cumplir con el plazo instruido por 
+este Coordinador. 
+Adicionalmente, dejamos constancia de que la disponibilidad de las ventanas de simulación y, en su 
+caso, de coordinación con proveedores para la Alternativa 2, constituyen factores que podrían 
+afectar el cronograma propuesto; por lo que cualquier desviación relevante será informada 
+oportunamente a este Coordinador. 
+ 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Cristian Sanhueza 
+Encargado Suplente 
+GENERADORA DEL PACIFICO SPA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c.c. verificacion.SSCC@coordinador.cl 
+Anexo 1: Cronograma de trabajo – Evaluación de factibilidad de alternativas PA Central TER Termo Pacífico 
+(Excel). 
+ 

@@ -1,0 +1,60 @@
+ 
+ 
+ 
+ 
+Santiago, 31 de agosto de 2026  
+OP 119-26 
+ 
+Señor 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional  
+ 
+ 
+MATERIA: 
+SOLICITUD DE BAJA DE MEDIDORES EN S/E CHARRÚA REGISTRADOS A 
+NOMBRE DE ENEL GENERACIÓN CHILE 
+ 
+De mi consideración: 
+ 
+Por medio de la presente, y en representación de Enel Generación Chile, solicito 
+formalmente la baja de los medidores registrados a nombre de nuestra compañía en la 
+Subestación Charrúa, específicamente en los paños J7 y J16, actualmente visibles en la 
+plataforma PMRTE. Correspondiente a los puntos de medida: CHARRUA_220_J7_END y 
+CHARRUA_220_J16_END, respectivamente. 
+ 
+ 
+De acuerdo con los antecedentes revisados y comunicaciones internas: 
+ 
+• 
+El paño J7 fue transferido a Transelec en el año 2000, en el marco de la venta de 
+activos y posterior contrato de peajes. 
+• 
+El paño J16 nunca fue propiedad de Enel, siendo su construcción habilitada en 2002 
+bajo titularidad de Transelec. 
+• 
+En ambos paños, Transelec cuenta con sus propios equipos de medición en dichos 
+puntos de medida: CHARRUA_220_J7_TRL y CHARRUA_220_J16_TRL. 
+ 
+En virtud de lo anterior, y considerando que estos equipos no corresponden a puntos de 
+medida de nuestras centrales ni justifican esfuerzos de mantenimiento, solicitamos al 
+Coordinador Eléctrico Nacional proceder con la baja de dichos medidores en la plataforma 
+PMRTE. 
+ 
+Agradecemos su gestión y quedamos atentos a la confirmación de la actualización 
+correspondiente. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Miguel Buzunariz R. 
+Encargado CEN 
+ENEL GENERACIÓN CHILE S.A. Y FILIALES 
+ 

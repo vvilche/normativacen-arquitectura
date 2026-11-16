@@ -1,0 +1,109 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 11 de diciembre de 2025 
+DE 7891-25 
+ 
+Señora 
+Aura Rearte J. 
+Encargada Titular  
+Enlight Investments SpA 
+Presente 
+Ref.: Verificación de SSCC PFV La Huayca II. 
+[1] Carta ENLI-013-25 de Enlight Investments SpA, 
+Ref.: “Verificación Servicio Complementario Control 
+Primario de Frecuencia”, de fecha 24 de junio de 2025. 
+[2] Correo Electrónico de Enlight Investments SpA, 
+Ref.: “Verificación de SSCC del PFV La Huayca II, de 
+fecha 4 de septiembre de 2025.  
+Responde a Ingreso DE06098-25 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+De mi consideración: 
+ 
+En relación con la materia de la referencia y mediante las comunicaciones de las Ref. [1] y 
+[2], su representada adjuntó un informe y minutas técnicas donde señala lo siguiente 
+respecto al Controlador de Planta (PPC) del PFV La Huayca II: 
+a) El PPC del PFV no permite habilitar un control frecuencia/potencia ni ajustar los 
+parámetros que permitan la prestación del Control Primario de Frecuencia (CPF) en 
+conformidad a la NTSyCS y la NT de SSCC.  
+b) En cuanto a la prestación del SC de Control Secundario de Frecuencia (CSF), señala 
+que para su prestación requiere implementar señales adicionales que provienen desde 
+el PPC, siendo la solución factible el cambio del PPC. 
+c) En lo que respecta a la prestación del SC de Control de Tensión (CT) señala que 
+actualmente el PPC de la central sólo puede controlar reactivos (modo PQ). 
+d) Adicionalmente, indica que se encuentra desarrollando un proyecto BESS La Huayca – 
+NUP 5188, el que permitirá para fines del año 2026, llevar a cabo la verificación del CPF 
+del PFV en conjunto con la puesta en servicio del proyecto mencionado, donde se 
+actualizará el PPC de la instalación. Al respecto, señala que la solicitud fehaciente de 
+conexión del proyecto BESS La Huayca fue rechazada por el Coordinador, siendo 
+solicitado en su reemplazo el ingreso de una solicitud de uso de capacidad técnica 
+disponible (SUCTD), proceso que a la fecha no se encuentra aprobado y que se espera 
+tome 6 meses para su aprobación. 
+ 
+Considerando lo anterior, el Coordinador Eléctrico solicita a Ud. lo siguiente: 
+1. Enviar un plan de trabajo para la verificación de los SSCC de CTF y del CT del PFV La 
+Huayca II, que contemple el envío de los respectivos informes de verificación a más 
+tardar durante el mes de febrero de 2026.  Cabe destacar que, de acuerdo con el 
+calendario de verificación vigente, estos informes deben ser enviados en diciembre de 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+2025, estando por lo tanto a la fecha retrasados. La verificación e informes de estos 
+SSCC deben considerar al menos lo siguiente:  
+• Para el SC de CT: verificarse considerando la capacidad actual de control de 
+reactivos (modo PQ). Cabe destacar que esto engloba la realización de pruebas 
+dinámicas de variación de reactivos (Q) y el levantamiento de la curva P-Q máxima 
+de la central, en conformidad a la guía de verificación de CT vigente.   
+• Para el SC de CTF: el informe de verificación puede ser confeccionado a partir de 
+la data recabada en la información de los parámetros de partida y detención de la 
+central y utilizando data histórica de operación del parque, en conformidad a la guía 
+de verificación de CF vigente.  
+2. Enviar un plan de trabajo asociado a la actualización del PPC del PFV La Huayca II, con 
+el fin de poder prestar los SSCC de CPF y CSF, subsanando lo indicado en los literales 
+a), b) y c) previos, en particular el incumplimiento normativo al Artículo 3-6, letra i) de la 
+NTSyCS. Entendemos que dicha actualización se realizará independiente del proyecto 
+de almacenamiento mencionado, con el fin de subsanar los incumplimientos 
+mencionados. Dicho plan deberá tener una fecha de termino no superior a diciembre de 
+2026, e incluir la verificación de los SSCC de CPF, CSF y CT considerando modo PV 
+del PFV. 
+3. Enviar un cronograma actualizado de la puesta en servicio del proyecto “BESS La 
+Huayca” considerando que la solicitud de fehaciencia fue rechazada por el Coordinador 
+Eléctrico y lo indicado en literal d) previo. Esto bajo el contexto de que, si el proyecto 
+efectivamente se realiza durante el año 2026, lo señalado en el punto 2 podría realizarse 
+en paralelo con este proyecto. Dicho cronograma debe considerar al menos los 
+principales hitos intermedios cómo lo son la aprobación SUCTD, declaración en 
+construcción, inicio del proceso de conexiones con el Coordinador, puesta en servicio y 
+fecha de ejecución de los ensayos de SSCC del BESS La Huayca II. 
+ 
+Los antecedentes requeridos previamente deberán ser enviados mediante carta y con copia 
+al correo verificacion.sscc@coordinador.cl, a más tardar el 19 de diciembre de 2025. 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+DIR/WJS/adr 
+c.c.:  
+Sr. Mauricio Ortuondo – Encargado Suplente Enlight Investments SpA. 
+ 
+ 
+ 

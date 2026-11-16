@@ -1,0 +1,106 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 17 de diciembre de 2025 
+ 
+    
+DE 08042-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación Potencia Máxima de la 
+Central 
+PE 
+Punta 
+de 
+Talca, 
+del 
+coordinado Parque Eólico Punta de Talca 
+SpA. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Potencia Máxima de la Central PE Punta de Talca, en conformidad con el Informe 
+Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+indicado publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2].  
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PE Punta 
+de Talca se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la central PE Punta de Talca. 
+Central/Unidad 
+Potencia Máxima 
+Bruta 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en la 
+central (1) 
+[MW] 
+Potencia Máxima 
+Neta (2) 
+[MW] 
+PE Punta de Talca 
+80,4664 
+0,2197 
+1,0035 
+79,2432 
+(1) Las pérdidas corresponden a la suma de las pérdidas en la red interna (0,7610 MW) y las 
+pérdidas en el transformador principal (0,2425 MW). 
+(2) Inyectada en la barra de 220 kV de S/E Punta de Talca. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del 23 de diciembre de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Documentos > Potencia Máxima > Pruebas de Potencia Máxima > 
+Central PE Punta de Talca > 2025 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+Referencias 
+ 
+[1] Carta CL-IC-028-2024 del Coordinado Parque Eólico Punta de Talca SpA, Ref.: “Prueba 
+de Potencia Máxima Parque Eólico Punta de Talca (NUP 1304).”, de fecha 03 de septiembre 
+de 2024. Ingreso DE05127-24. 
+ 
+[2] Carta DE04896-24, Ref.: “[NUP 1304] Informes Técnicos de Parámetros Operacionales 
+de la Central Parque Eólico Punta de Talca, del coordinado Parque Eólico Punta de Talca 
+SpA.” de fecha 27 de septiembre de 2024. 
+ 
+GZV/PPF/adr 
+ 
+ 

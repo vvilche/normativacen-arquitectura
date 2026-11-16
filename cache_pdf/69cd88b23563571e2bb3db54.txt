@@ -1,0 +1,526 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ Santiago, 01 de abril de 2026 
+DE 02168-26 
+ 
+Señores  
+Encargados 
+Según Lista de Distribución 
+Presente 
+ 
+Ref. Cumplimiento de los planes de 
+implementación de PMU del Módulo 
+de Medición Fasorial del SEN 
+[1] Carta DE04823-25, de fecha 19 
+de 
+agosto 
+de 
+2025, 
+“Instruye implementación y solicita 
+plan de trabajo para implementación 
+de puntos de monitoreo de Módulo 
+Fasorial del SEN”.  
+De mi consideración: 
+Me refiero a la carta de la Ref. [1], mediante la cual este Coordinador solicito a su 
+representada enviar un plan de trabajo y cronograma detallado para cumplir con la 
+implementación de los puntos de monitoreo mediante PMU, que fueran instruidos a su 
+representada en dicha comunicación.  
+Al respecto, y según los antecedentes disponibles a la fecha, su representada mantendría 
+pendiente hitos que -según plan informado- su plazo de término se cumplió en marzo de 
+2026. Conforme con esto, solicito a Ud. informar, a más tardar el próximo 17 de abril de 2026, 
+lo siguiente: 
+a) Estado actual de la implementación, por punto de monitoreo, indicados en Anexo a 
+la presente comunicación. 
+ 
+b) De existir hitos pendientes, el porcentaje de avance de dichos hitos, describiendo en 
+detalle al menos: 
+ 
+i. 
+Si la PMU se encuentra instalada en terreno o estado de implementación; 
+ii. 
+Si se finalizó la implementación de los canales de comunicaciones al PDC 
+local o corporativo, según corresponda, o estado de implementación; y  
+iii. 
+Si se ha implementado un PDC local -o estado de su implementación- e 
+informar el estado de adquisición de las licencias de comunicaciones de PMU 
+requeridas, según corresponda. 
+ 
+c) Cualquier desviación respecto de los plazos originalmente comprometidos, junto con 
+su respectiva justificación. 
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+  
+ 
+Finalmente, en caso de requerir consultas adicionales, estas pueden ser enviadas 
+directamente a través del correo DMAP@coordinador.cl . 
+ 
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte 
+Operacional 
+Coordinador Eléctrico Nacional 
+ 
+Incluye: Lo indicado 
+c.c.: 
+Sres. Encargados Suplentes, según lista de Distribución 
+ 
+ 
+ 
+Lista de Distribución 
+ 
+ AES Andes S.A. 
+ Alto Jahuel Transmisora de Energía S.A. 
+ Alto Maipo SpA 
+ Andes Solar II SpA 
+ Andes Solar III SpA 
+ Andes Solar IV SpA 
+ Arauco Bioenergía SpA 
+ Arcadia Generación Solar S.A. 
+ Asoc. de Canal. Sociedad del Canal de Maipo 
+ BESS del Desierto SpA 
+ Charrúa Transmisora de Energía S.A. 
+ Compañía Barrick Chile Generación SpA 
+ Cóndor Energía SpA 
+ Doña Antonia Solar SpA 
+ Eléctrica Cipresillos SpA 
+ Eléctrica Moka SpA 
+ Eléctrica Nueva Energía S.A. 
+ Eléctrica Puntilla S.A. 
+ Empresa Eléctrica Angamos SpA 
+ Empresa Eléctrica Cochrane SpA 
+ Empresa Eléctrica Pehuenche S.A. 
+ Empresa Eléctrica Peumo SpA 
+ Empresa Eléctrica Ventanas SpA 
+ Enel Generación Chile S.A. 
+ Enel Green Power Chile S.A. 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ Energía Eólica Mesamávida SpA 
+ Energía Eólica San Matías SpA 
+ Energías Ucuquer Dos S.A. 
+ Engie Energía Chile S.A. 
+ Enlight Investments SpA 
+ Eólica La Esperanza S.A. 
+ Generadora Metropolitana SpA 
+ GR Algarrobo SpA 
+ Hidroeléctrica Embalse Ancoa SpA 
+ Hidroeléctrica La Confluencia S.A. 
+ Hidroeléctrica La Higuera S.A. 
+ Hidroeléctrica Río Colorado S.A. 
+ Hidroeléctrica San Andrés SpA 
+ Huemul Energía SpA 
+ Inversiones Fotovoltaicas SpA 
+ Los Guindos Generación SpA 
+ Minera Escondida Ltda. 
+ MLP Transmisión S.A. 
+ Nirivilo Transmisora de Energía S.A. 
+ Parque Eólico Cabo Leones I S.A. 
+ Parque Eólico Campo Lindo SpA 
+ Parque Solar Convento SpA 
+ Parque Solar Fotovoltaico Sol del Desierto SpA 
+ PE Cabo Leones III SpA 
+ Planta Solar Tocopilla SpA 
+ Solar Elena SpA 
+ Solar Ti Treinta y Cuatro SpA 
+ Tamarico Solar Dos SpA 
+ Transelec S.A. 
+ Vientos de Renaico SpA 
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+ANEXO 
+ 
+Coordinado 
+Elemento  
+Punto de medida 
+AES ANDES S.A. 
+HP ALFALFAL U1 
+Bornes de la unidad 
+AES ANDES S.A. 
+HP ALFALFAL U2 
+Bornes de la unidad 
+AES ANDES S.A. 
+HP QUELTEHUES U1 
+Bornes de la unidad 
+AES ANDES S.A. 
+HP QUELTEHUES U2 
+Bornes de la unidad 
+AES ANDES S.A. 
+HP QUELTEHUES U3 
+Bornes de la unidad 
+AES ANDES S.A. 
+HP VOLCAN 
+Bornes de la unidad 
+AES ANDES S.A. 
+STAND ALONE VR1 Y VR2 
+(BESS ALFALFAL) 
+En punto de control del BESS 
+AES ANDES S.A. 
+PFV ANDES SOLAR 
+En punto de control PPC 
+AES ANDES S.A. 
+BESS ANDES 
+Punto de control del BESS 
+AES ANDES S.A. 
+BESS ALFALFAL 
+Punto de control del BESS 
+ALTO JAHUEL TRANSMISORA DE 
+ENERGÍA S.A. 
+Línea ANCOA - ALTO 
+JAHUEL 500KV L3 
+K5 DE SE ANCOA 
+ALTO JAHUEL TRANSMISORA DE 
+ENERGÍA S.A. 
+Línea ANCOA - ALTO 
+JAHUEL 500KV L4 
+K6 DE SE ALTO JAHUEL 
+ALTO MAIPO SPA 
+HP LAS LAJAS U1 (U2206) Bornes de la unidad 
+ALTO MAIPO SPA 
+HP ALFALFAL II U1 
+(U2204) 
+Bornes de la unidad 
+ALTO MAIPO SPA 
+HP LAS LAJAS 
+Bornes de la unidad 
+ALTO MAIPO SPA 
+HP ALFALFAL II U2 
+Bornes de la unidad 
+ALTO MAIPO SPA 
+BESS ALFALFAL II 
+Bornes de la unidad 
+ANDES SOLAR II SPA 
+PFV ANDES SOLAR II 
+En punto de control PPC 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ANDES SOLAR II SPA 
+BESS ANDES SOLAR II 
+Punto de control del BESS 
+ANDES SOLAR III SPA 
+Proy. PFV Andes III 
+(etapa1) 
+Lado AT del transformador elevador 
+del parque 
+ANDES SOLAR IV SPA 
+PFV ANDES SOLAR IV 
+En punto de control PPC 
+ARAUCO BIOENERGÍA SPA 
+TER HORCONES 
+Bornes de la unidad 
+ARAUCO BIOENERGÍA SPA 
+TER ARAUCO U1 
+Bornes de la unidad 
+ARAUCO BIOENERGÍA SPA 
+TER ARAUCO U2 
+Bornes de la unidad 
+ARCADIA GENERACIÓN SOLAR S.A. 
+PFV DOMEYKO (C1794) 
+Paño JT1 de SE Hades 
+ASOC. DE CANAL. SOCIEDAD DEL 
+CANAL DE MAIPO 
+HP FLORIDA II U1 
+Bornes de la unidad 
+ASOC. DE CANAL. SOCIEDAD DEL 
+CANAL DE MAIPO 
+HP FLORIDA II U2 
+Bornes de la unidad 
+BESS DEL DESIERTO SPA 
+BESS DEL DESIERTO 
+Punto de control del BESS 
+CHARRÚA TRANSMISORA DE ENERGÍA 
+S.A. 
+Línea ENTRE RIOS - 
+ANCOA 500KV C1 
+K7 DE SE ANCOA 
+COMPAÑÍA BARRICK CHILE 
+GENERACIÓN SPA 
+TER PUNTA COLORADA 
+Bornes de la unidad 
+COMPAÑÍA BARRICK CHILE 
+GENERACIÓN SPA 
+PE PUNTA COLORADA 
+En punto de control PPC 
+CÓNDOR ENERGÍA SPA 
+PE ALENA 
+En punto de control PPC 
+DOÑA ANTONIA SOLAR SPA 
+PFV DOÑA ANTONIA 
+En punto de control PPC 
+ELÉCTRICA CIPRESILLOS SPA 
+HP CIPRESILLOS U1 
+Bornes de la unidad 
+ELÉCTRICA CIPRESILLOS SPA 
+HP CIPRESILLOS U2 
+Bornes de la unidad 
+ELÉCTRICA MOKA SPA 
+TER DIEGO DE ALMAGRO Bornes de la unidad 
+ELÉCTRICA NUEVA ENERGÍA S.A. 
+TER ESCUADRON U1 
+Bornes de la unidad 
+ELÉCTRICA NUEVA ENERGÍA S.A. 
+TER ESCUADRON U2 
+Bornes de la unidad 
+ELÉCTRICA PUNTILLA S.A. 
+HP PUNTILLA U1 
+Bornes de la unidad 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ELÉCTRICA PUNTILLA S.A. 
+HP PUNTILLA U2 
+Bornes de la unidad 
+ELÉCTRICA PUNTILLA S.A. 
+HP PUNTILLA U3 
+Bornes de la unidad 
+ELÉCTRICA PUNTILLA S.A. 
+HP ITATA U1 
+Bornes de la unidad 
+ELÉCTRICA PUNTILLA S.A. 
+HP ITATA U2 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA ANGAMOS SPA TER ANGAMOS U1 
+(U1965) 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA ANGAMOS SPA TER ANGAMOS U2 
+(U1966) 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA ANGAMOS SPA BESS ANGAMOS 
+Punto de control del BESS 
+EMPRESA ELÉCTRICA COCHRANE SPA TER COCHRANE U2 
+(U1968) 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA COCHRANE SPA TER COCHRANE U1 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA COCHRANE SPA BESS COCHRANE 
+Punto de control del BESS 
+EMPRESA ELÉCTRICA PEHUENCHE 
+S.A. 
+HP CURILLINQUE U1 
+(U787) 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA PEUMO SPA 
+PFV PEUMO 
+En punto de control PPC 
+EMPRESA ELÉCTRICA VENTANAS SPA TER CAMPICHE U1 
+(U1380) 
+Bornes de la unidad 
+ENEL GENERACIÓN CHILE S.A. 
+TER SAN ISIDRO CC1-TG 
+(U821) 
+Bornes de la unidad 
+ENEL GENERACIÓN CHILE S.A. 
+TER SAN ISIDRO II CC1-
+TG (U823) 
+Bornes de la unidad 
+ENEL GENERACIÓN CHILE S.A. 
+TER QUINTERO U1 (U762) Bornes de la unidad 
+ENEL GENERACIÓN CHILE S.A. 
+HE ANTUCO U1 (U39) 
+Bornes de la unidad 
+ENEL GENERACIÓN CHILE S.A. 
+HE EL TORO U3 (U256) 
+Bornes de la unidad 
+ENEL GREEN POWER CHILE S.A. 
+PFV FINIS TERRAE (C399) Paño J1 de SE Rande 
+ENEL GREEN POWER CHILE S.A. 
+PFV SOL DE LILA (C1742) Paño JT1 de SE Sol de Lila 
+ENERGÍA EÓLICA MESAMÁVIDA SPA 
+PE MESAMAVIDA 
+En punto de control PPC 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ENERGÍA EÓLICA SAN MATÍAS SPA 
+PE SAN MATIAS 
+En punto de control PPC 
+ENERGÍAS UCUQUER DOS S.A. 
+PE UCUQUER II 
+En punto de control PPC 
+ENGIE ENERGÍA CHILE S.A. 
+PE PAMPA FIDELIA 
+En punto de control PPC 
+ENGIE ENERGÍA CHILE S.A. 
+BESS TOCOPILLA 
+Punto de control del BESS 
+ENGIE ENERGÍA CHILE S.A. 
+BESS LILE 
+Punto de control del BESS 
+ENGIE ENERGÍA CHILE S.A. 
+BESS ARICA II 
+Punto de control del BESS 
+ENGIE ENERGÍA CHILE S.A. 
+PFV LIBÉLULA 
+En punto de control PPC 
+ENGIE ENERGÍA CHILE S.A. 
+BESS LOS LOROS 
+Punto de control del BESS 
+ENGIE ENERGÍA CHILE S.A. 
+PE PEMUCO 
+En punto de control PPC 
+ENGIE ENERGÍA CHILE S.A. 
+BESS LIBÉLULA 
+Punto de control del BESS 
+ENLIGHT INVESTMENTS SPA 
+PFV LA HUAYCA II 
+En punto de control PPC/Paño BT1 
+EÓLICA LA ESPERANZA S.A. 
+PE LA ESPERANZA 
+En punto de control PPC 
+GENERADORA METROPOLITANA SPA TER NUEVA RENCA 
+Bornes de la unidad 
+GENERADORA METROPOLITANA SPA TER SANTA LIDIA 
+Bornes de la unidad 
+GENERADORA METROPOLITANA SPA TER LOS VIENTOS 
+Bornes de la unidad 
+GR ALGARROBO SPA 
+PFV GRAN TENO (C2094) Paño AT1 de SE Solis 
+HIDROELÉCTRICA EMBALSE ANCOA 
+SPA 
+HP ANCOA U1 
+Bornes de la unidad 
+HIDROELÉCTRICA EMBALSE ANCOA 
+SPA 
+HP ANCOA U2 
+Bornes de la unidad 
+HIDROELÉCTRICA LA CONFLUENCIA 
+S.A. 
+HP LA CONFLUENCIA 
+Bornes de la unidad 
+HIDROELÉCTRICA LA HIGUERA S.A. 
+HP LA HIGUERA 
+Bornes de la unidad 
+HIDROELÉCTRICA RÍO COLORADO 
+S.A. 
+HP RIO COLORADO U1 
+Y U2 
+Bornes de la unidad 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+HIDROELÉCTRICA SAN ANDRÉS SPA 
+HP SAN ANDRES U1 
+Bornes de la unidad 
+HIDROELÉCTRICA SAN ANDRÉS SPA 
+HP SAN ANDRES U2 
+Bornes de la unidad 
+HUEMUL ENERGÍA SPA 
+proy. PE Ckhúri  - ex proy. 
+PE Ckani 
+Lado AT del transformador elevador 
+del parque 
+INVERSIONES FOTOVOLTAICAS SPA 
+PFV WILLKA (C1841) 
+Paño JT1 de SE Willka 
+LOS GUINDOS GENERACIÓN SPA 
+TER LOS GUINDOS U1 
+Bornes de la unidad 
+LOS GUINDOS GENERACIÓN SPA 
+TER LOS GUINDOS U2 
+Bornes de la unidad 
+MINERA ESCONDIDA LTDA. 
+PURI - DOMEYKO 220KV 
+C1 
+Paño J3 de SE Domeyko 
+MINERA ESCONDIDA LTDA. 
+CER SVC DOMEYKO N1 
+19.5KV 
+Paño J10 de SE Domeyko 
+MLP TRANSMISION S.A. 
+STATCOM S/E EL CHACAY 
+ET1 
+Paños J11 y J12 de SE El Chacay 
+NIRIVILO TRANSMISORA DE ENERGÍA 
+S.A. 
+NUEVA LÍNEA 2X220 KV 
+DON GOYO - LA RUCA 
+PAÑO DE LÍNEA 
+PARQUE EÓLICO CABO LEONES I S.A. PE CABO LEONES (C478) Paño JT1 SE Central PE Cabo Leones I 
+PARQUE EÓLICO CAMPO LINDO SPA PE CAMPO LINDO 
+En punto de control PPC 
+PARQUE SOLAR CONVENTO SPA 
+PMG PFV SAN BERNARDO En punto de control PPC 
+PARQUE SOLAR FOTOVOLTAICO SOL 
+DEL DESIERTO SPA 
+PFV SOL DEL DESIERTO 
+(C1740) 
+Paño JT1 de SE Sol del Desierto 
+PE CABO LEONES III SPA 
+PE CABO LEONES III 
+(C636) 
+Paño JT2 de SE Central PE Cabo 
+Leones I 
+PFV DOMEYKO SPA 
+PFV LUNA DE VERANO 
+En punto de control PPC 
+PFV DOMEYKO SPA 
+BESS LUNA DE VERANO Punto de control del BESS 
+PLANTA SOLAR TOCOPILLA SPA 
+PFV TAIRA (C2093) 
+Lado AT del transformador elevador 
+del parque 
+SOLAR ELENA SPA 
+BESS ELENA FASE I 
+Punto de control del BESS 
+SOLAR TI TREINTA Y CUATRO SPA 
+PMG PFV LLANCAY 
+En punto de control PPC 
+TAMARICO SOLAR DOS SPA 
+PFV TAMARICO (C2143) Paño JT1 de SE PFV Tamarico 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+TRANSELEC S.A. 
+STATCOM S/E CERRO 
+NAVIA 34KV 140MVAR 
+Paño JT4 de SE Cerro Navia 
+TRANSELEC S.A. 
+PARRAL - MONTERRICO 
+154KV C1 
+Paño A1 de SE Parral 
+VIENTOS DE RENAICO SPA 
+PE LA FLOR 
+En punto de control PPC 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 

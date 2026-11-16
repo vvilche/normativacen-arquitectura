@@ -1,0 +1,49 @@
+ 
+Sonnedix Parque Eólico El Arrayán SpA 
+Magdalena 140, Oficina 601 
+Las Condes, Santiago 
+sonnedix.com 
+CONFIDENTIAL 
+ 
+Santiago, 29 de mayo de 2026 
+SArra-013-26 
+Sr. Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+ 
+Presente 
+Ref.: Responde carta DE 03429-26 sobre Proceso de 
+Verificación del Servicio Complementario (SC) de Control 
+Secundario de Frecuencia (CSF-AGC) e incorporación a la 
+herramienta de despacho económico (ED) 
+ 
+ 
+De nuestra consideración, 
+ 
+Junto con saludar, en relación con la carta DE03429-26, mediante la presente remitimos la respuesta 
+formal respecto del proceso de verificación de Servicios Complementarios (SSCC), con especial foco en la 
+integración del servicio de Control Secundario de Frecuencia (CSF-AGC) al sistema del Coordinador. 
+ 
+Para estos efectos, y en cumplimiento de lo solicitado en su comunicación, se adjunta la siguiente 
+documentación: 
+• 
+Anexo 1 – Informe técnico, que detalla el estado de implementación de enlaces y señales, así 
+como el cronograma de ejecución de pruebas e hitos asociados a la integración SITR/AGC. 
+• 
+Anexo 2 – Estado de otros Servicios Complementarios, que presenta el avance de los distintos 
+servicios y las actividades en curso para su implementación. 
+ 
+La información presentada refleja el estado actual de avance del proyecto y las acciones en curso para la 
+finalización del proceso de verificación e integración. 
+ 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Juan E. Cortés 
+Encargado Titular 
+Sonnedix Parque Eólico El Arrayán SpA 

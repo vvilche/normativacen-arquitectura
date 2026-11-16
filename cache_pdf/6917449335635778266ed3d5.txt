@@ -1,0 +1,108 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 14 de noviembre de 2025 
+DE 07359-25 
+Señor  
+Miguel Buzunariz R. 
+Encargado Titular 
+Enel Green Power S.A. 
+Presente 
+Ref.: Solicita aclarar comportamiento del BESS 
+PFV El Manzano y BESS PFV Don Humberto en la 
+prestación del Control Primario de Frecuencia. 
+[1] Carta EGP 083-24 del coordinado Enel Green 
+Power S.A., Ref.: “BESS El Manzano: Envío de 
+informe técnico con los resultados de la verificación 
+de los SSCC de CPF y CTF”, de fecha 19 de agosto 
+de 2024. 
+[2] Carta EGP 104-24 del coordinado Enel Green 
+Power S.A., Ref.: “BESS Parque Fotovoltaico Don 
+Humberto: Envío de informe técnico con los 
+resultados de verificación de los SSCC de CPF y 
+CTF”, de fecha 26 de septiembre de 2024. 
+[3] Carta DE05657-25, Ref.: “Resultado del Proceso 
+de Verificación de los SSCC de CPF y CTF del 
+BESS PFV El Manzano”, de fecha 8 de septiembre 
+de 2025. 
+[4] Carta DE05658-25, Ref.: “Resultado del Proceso 
+de Verificación de los SSCC de CPF y CTF del 
+BESS del PFV Don Humberto”, de fecha 8 de 
+septiembre de 2025. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia indicada en la referencia, se ha observado en la operación en 
+tiempo real que la prestación del Servicio Complementario de Control Primario de 
+Frecuencia (CPF) de los BESS PFV El Manzano y el BESS PFV Don Humberto no se ajusta 
+a lo esperado, según lo establecido en los Informes de Verificación del CPF enviados 
+mediante carta de la Ref. [1] y [2], los cuales fueron aprobados mediante carta de la Ref. 
+[3] y [4]. 
+ 
+En particular, se ha detectado que las instalaciones están prestando el servicio con un 
+parámetro de estatismo bastante mayor al 4% que se declaró configurado en los Informes 
+de Verificación, y mayor al máximo permitido en la Norma Técnica de Seguridad y Calidad 
+de Servicio (NTSyCS). Incluso se han observados casos en que la respuesta de las 
+instalaciones es en sentido contrario al esperado.  
+ 
+Esta situación, que se ha evidenciado en la operación en tiempo real en distintos días, 
+compromete la estabilidad y seguridad del sistema, además de dificultar la gestión del 
+control de frecuencia por parte del CDC.  A modo de ejemplo, en las Figuras 1 y 2 se 
+muestra el comportamiento de los BESS en momentos en que el controlador de frecuencia 
+se encontraba activado.  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Figura 1: Respuesta BESS PFV El Manzano, 9 de noviembre 2025. 
+ 
+Figura 2: Respuesta BESS PFV Don Humberto, 4 de noviembre 2025. 
+ 
+ 
+Frente a esta situación, a partir del 13 de noviembre de 2025 las instalaciones antes 
+señaladas no se están considerando en la Programación de la Operación y Operación en 
+Tiempo Real para la prestación de CPF. Adicionalmente, conforme a lo establecido en el 
+Artículo 4-18 de la Norma Técnica de Servicios Complementarios (NT-SSCC), se solicita a 
+su representada lo siguiente: 
+ 
+1. Enviar para cada instalación un informe explicativo que describa las razones 
+técnicas del comportamiento presentado por los BESS PFV Don Humberto y BESS 
+PFV El Manzano, así como las medidas adoptadas por Enel Green Power S.A. para 
+evitar que este comportamiento no deseado se repita en la operación en tiempo real. 
+2. Presentar un plan de trabajo orientado a normalizar comportamiento esperado de 
+las instalaciones. Este plan deberá contemplar una fecha de término no superior a 
+un mes calendario desde la fecha límite de respuesta a esta comunicación e incluir 
+la realización de la prueba indicada en el numeral 3. 
+3. Realizar pruebas de operatividad con el fin de verificar que el controlador de 
+potencia/frecuencia de cada BESS opere correctamente y con las características 
+validadas en las cartas de la Ref. [3] y Ref. [4], una vez ejecutadas las acciones 
+correctivas correspondientes. Para ello, se deberá activar el CPF en los BESS PFV 
+El Manzano y BESS PFV Don Humberto durante un periodo mínimo de una hora, y 
+remitir informes con los resultados del comportamiento de las instalaciones, 
+mediante carta y con copia al correo verificacion.sscc@coordinador.cl.  
+4. Mantener la vigencia de los Informes de Limitación LI2025002736 y LI2025002735 
+hasta que este Coordinador valide los informes mencionados en el numeral 3. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Considerando lo anterior, se solicita enviar a más tardar el 21 de noviembre del 2025, 
+mediante carta, el informe explicativo y el plan de trabajo solicitados en los numerales 1 y 
+2. 
+   
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+JAV/CRV/DIR/adr 
+ 

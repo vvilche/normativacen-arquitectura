@@ -1,0 +1,155 @@
+ 
+ 
+   
+ 
+ 
+Acciona Energía. Isidora Goyenechea 2800, Of. 3201. Edificio Titanium La Portada, Las Condes. Santiago, Chile. 
+ 
+Santiago, 14 de mayo de 2026. 
+ACC.ECH.071.26 
+Señor: 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel 
+PRESENTE 
+ 
+De nuestra consideración: 
+ 
+En relación con la materia de la referencia, y con el fin de proporcionar al Coordinador Eléctrico Nacional 
+(“Coordinador”) una actualización del estado de avance del proyecto de integración al EDAG por contingencia 
+específica de la zona norte que está llevando a cabo Acciona Energía Chile Holdings S.A. (“Acciona”), para la 
+incorporación de las centrales solares fotovoltaicas Usya, Almeyda y Malgarida, informamos lo siguiente. 
+ 
+En complemento a lo informado por Acciona en las comunicaciones del ANT [1] y [2], se ha concluido la etapa de 
+formalización de contratos con la empresa adjudicada en abril de 2026. A partir de este hito, el proveedor 
+adjudicado actualizó la carta Gantt informada previamente, debido principalmente a una sobredemanda de 
+equipos de control necesarios para este tipo de proyectos, en un contexto de alta demanda de la industria por 
+soluciones similares.  
+ 
+En este sentido, la etapa de adquisición y preparativos que se había estimado en primera instancia realizar en 
+dos (2) meses, ha sido reprogramada a un plazo total de seis (6) meses. De este periodo, cuatro (4) meses 
+corresponden a la adquisición del equipamiento necesario y dos (2) meses a las actividades preparación y 
+pruebas FAT. Sobre lo último, estimamos tener los protocolos FAT al término del mes de julio de 2026, conforme 
+al cronograma actualizado del proveedor. 
+ 
+Se acompaña esta comunicación con el cronograma actualizado del proyecto, el cual servirá de referencia para 
+el seguimiento y la ejecución de las actividades. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado (S) 
+Acciona Energía Chile Holdings, S.A. 
+ 
+ 
+ 
+ANT. 
+: 
+[1] Carta ACC.ECH.092.25 de Acciona Energía Chile 
+Holdings S.A. al Coordinador Eléctrico Nacional del 
+día 20 de agosto de 2025. 
+[2] Carta ACC.ECH.046.26 de Acciona Energía Chile 
+Holdings S.A. al Coordinador Eléctrico Nacional del 
+día 13 de marzo de 2026. 
+ 
+ 
+ 
+ 
+ 
+REF.  
+: 
+Actualiza información referente a la integración de 
+las centrales fotovoltaicas Usya, Almeyda y 
+Malgarida al EDAG por Contingencia Específica de 
+la Zona Norte. 
+ 
+Firmado 
+digitalmente por 
+Luis Lorca Arenas 
+Fecha: 
+2026.05.14 
+14:59:31 -04'00'
+
+Anexo I: Cronograma detallado de las actividades 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acciona Energía. Isidora Goyenechea 2800, Of. 3201. Edificio Titanium La Portada, Las Condes. Santiago, Chile. 
+ 
+ 
+RESUMEN PLAN DE TRABAJO 
+ITEM 
+Descripción 
+Fecha estimada 
+Carga de ajustes de 
+protección de sobre 
+frecuencia 
+Implementación de ajustes de protección 
+Completado en 
+Agosto 2025. 
+Licitación y Adjudicación 
+Proceso 
+de 
+licitación 
+técnica–económica, 
+rondas 
+de 
+aclaraciones, evaluación de ofertas y adjudicación del 
+proveedor EDAG PDCE (celdas locales + integración a unidad 
+central SET Antofagasta). 
+Completado en 
+Febrero 2026. 
+Formalización de 
+contratos 
+Proceso de elaboración y aceptación de los contratos por los 
+servicios adjudicados entre las partes. 
+Abril 2026 
+Desarrollo de Ingeniería 
+Ingeniería conceptual, básica y de detalle: arquitectura de 
+comunicaciones, diagramas unifilares, listas de señales 
+EDAG/PDCE, ingeniería de celdas locales y adaptación de la 
+unidad central. 
+Mayo - 
+Septiembre 2026 
+Adquisición y Preparativos 
+Fabricación/adquisición de equipamiento (IEDs, gateways, 
+switches, licencias), preparación de FAT, coordinación de 
+accesos, permisos, ventanas de trabajo y logística a sitios. 
+Junio - 
+Noviembre 2026 
+Montaje y Configuración 
+Celdas Locales 
+Instalación en PFV Usya, PFV Malgarida y PFV Almeyda: 
+montaje 
+físico, 
+cableado, 
+configuración 
+de 
+equipos, 
+comunicaciones, sincronización horaria y pruebas locales. 
+Noviembre - 
+Diciembre 2026 
+Pruebas de Integración 
+Integración de celdas locales con unidad central SET 
+Antofagasta, pruebas extremo a extremo EDAG/PDCE, 
+pruebas funcionales y de desempeño según requerimientos 
+del CEN. 
+Diciembre 2026 
+Cierre y Validación Final 
+Puesta en servicio, marcha blanca, validación final con CEN, 
+entrega de documentación As-Built, manuales y acta de cierre 
+del proyecto. 
+Diciembre 2026 
+ 

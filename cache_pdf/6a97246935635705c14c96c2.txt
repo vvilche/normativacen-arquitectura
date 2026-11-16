@@ -1,0 +1,180 @@
+ 
+Santiago, 31 de agosto de 2026 
+LAB-SPIII_20260831 
+Señor 
+Sr. Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.:  Informa hechos relevantes en la implementación EDAG de la Zona Norte del PDCE ZN 
+[1]  Recibido DE00772-26, de fecha 27 de enero de 2026. 
+ 
+De nuestra consideración: 
+ 
+En representación de Planta Fotovoltaica San Pedro III SpA. (RUT 76.175.454-8) en el 
+marco de la implementación del Esquema de Desconexión Automática de Generación (EDAG) 
+del Plan de Defensa Contra Contingencias Extremas (PDCE) de la Zona Norte del SEN, 
+informamos la actualización del cronograma de implementación del EDAG de la Zona Norte 
+del PDCE ZN de la central PFV Solar Jama, por las razones que se exponen a continuación. 
+ 
+El cronograma referencial informado al Coordinador mediante nuestra carta de Ref. [1] 
+consideraba una duración de veinte semanas contadas desde la adjudicación de la licitación, 
+entonces prevista para el 30 de marzo de 2026, con fecha meta de agosto de 2026.  
+ 
+Para asegurar el cumplimiento íntegro de las especiﬁcaciones exigidas para el esquema, 
+el proceso de licitación requirió etapas adicionales de aclaración técnica y de negociación con 
+los oferentes, por lo que la adjudicación se resolvió a ﬁnes de mayo de 2026, el contrato de 
+suministro e implementación se suscribió el 30 de junio de 2026 y la notiﬁcación de inicio de 
+los servicios se cursó el 7 de julio de 2026. Este desplazamiento traslada el conjunto de las 
+actividades del proyecto y no permite dar cumplimiento a la fecha de implementación 
+informada a ese Coordinador. 
+ 
+Con posterioridad a la suscripción del contrato de suministro, el fabricante de los relés 
+de protección y de los equipos de comunicaciones que integran la Celda Local informó plazos 
+de entrega extendidos para sus líneas de producto, atribuidos a transiciones en sus procesos 
+productivos, a una demanda sostenida a nivel global y a las consiguientes restricciones en el 
+suministro de componentes. Lo anterior, corresponde a un hecho ajeno completamente a 
+nuestro control y gestión, afectando directamente la fecha de recepción del suministro y, con 
+ello, la fecha de implementación informada previamente a ese Coordinador. Como respaldo, 
+se acompaña en Anexo la comunicación del fabricante que da cuenta de esta situación. Con 
+
+ 
+fecha 27 de agosto de 2026 el fabricante conﬁrmó un plazo de fabricación de 33 a 35 semanas 
+contadas desde la recepción de la orden de compra, la que ya fue cursada por el contratista. 
+Dicho plazo corresponde a la salida de fábrica y no incluye el tiempo de tránsito internacional 
+ni el despacho de aduana. 
+ 
+ 
+Realizada la veriﬁcación técnica del suministro, esta empresa ha conﬁrmado el 
+equipamiento comprometido para la Celda Local del EDAG, constatando que cumple 
+íntegramente con las especiﬁcaciones técnicas del proyecto y con los requisitos de desempeño 
+exigidos por ese Coordinador, en particular en lo relativo a los escalones de actuación por sobre 
+frecuencia, a la detección de la tasa de variación de la frecuencia (df/dt), a la redundancia 
+entre el IED principal y el de respaldo y a los tiempos de operación comprometidos. El alcance 
+funcional del proyecto se mantiene sin alteración alguna. 
+ 
+Sobre la base de lo anterior, el cronograma actualizado del proyecto considera los 
+siguientes hitos: 
+Hito 
+Lugar / detalle 
+Fecha estimada 
+Emisión de la orden de compra del 
+suministro 
+SEIS S.A. 
+28-08-2026 
+Recepción del suministro (relés y 
+equipos de comunicaciones) 
+Instalaciones de SEIS S.A. 
+01-07-2027 
+Fabricación de la Celda Local y 
+programación de equipos 
+Instalaciones de SEIS S.A. 
+02-07-2027 al 26-07-
+2027 
+Ensayos Pre-FAT 
+Instalaciones de SEIS S.A. 
+23-07-2027 al 27-07-
+2027 
+FAT — Ensayo de aceptación en 
+fábrica 
+Instalaciones de SEIS S.A. 
+28-07-2027 
+Traslado a sitio, montaje y 
+conexionado 
+PFV San Pedro III 
+29-07-2027 al 06-08-
+2027 
+SAT — Ensayo de aceptación en sitio 
+PFV San Pedro III 
+09-08-2027 al 10-08-
+2027 
+Integración a la Celda Maestra del 
+EDAG Zona Norte 
+PFV San Pedro III 
+11-08-2027 al 17-08-2027 
+Puesta en servicio del EDAG 
+PFV San Pedro III 
+17-08-2027 
+ 
+El detalle de la programación se acompaña en Anexo a la presente carta, que contiene 
+la carta Gantt actualizada del proyecto. Las actividades de fabricación, ensayos, montaje e 
+integración a la Celda Maestra se ejecutan a continuación de las de la celda local precedente 
+del mismo esquema, conforme a la programación del contratista. El cronograma informado 
+considera el extremo superior del plazo comunicado por el fabricante, esto es 35 semanas de 
+
+ 
+salida de fábrica, más los tiempos estimados de tránsito internacional e internación, de manera 
+de entregar a ese Coordinador una fecha conservadora. Las fechas indicadas tienen carácter 
+estimado, por cuanto el fabricante conﬁrma la fecha de entrega solo una vez procesada la 
+orden de compra y su cumplimiento depende de factores propios de dicho proveedor, ajenos 
+a la gestión de esta empresa y de su contratista. Recibida esa conﬁrmación, esta empresa 
+remitirá el cronograma deﬁnitivo e informará oportunamente cualquier variación respecto de 
+las fechas indicadas. 
+ 
+En cuanto a los ensayos de aceptación, el FAT se ejecutará en las instalaciones del 
+contratista SEIS S.A. sobre la Celda Local ya construida y antes de su despacho a terreno, y el 
+SAT se ejecutará en la planta una vez montada e integrada a la instalación, en ambos casos 
+siguiendo las recomendaciones de la norma IEC 61439-1 Ed. 2.0. Los protocolos deﬁnitivos se 
+encuentran en elaboración por el contratista y serán remitidos a ese Coordinador una vez 
+aprobados; sin perjuicio de ello, y para conocimiento de ese Coordinador, los ensayos tipo 
+considerados son los siguientes: 
+ 
+Ensayos tipo del FAT (en fábrica): 
+a) Medición de resistencia de aislación y ensayo de rigidez dieléctrica del tablero. 
+b) Inspección visual y veriﬁcación de correspondencia del conjunto con la ingeniería 
+aprobada. 
+c) Veriﬁcación de cableado punto a punto. 
+d) Registro de componentes: marca, modelo y número de serie de cada equipo. 
+e) Energización y veriﬁcación de las alimentaciones y de sus respaldos. 
+f) Veriﬁcación de la redundancia entre el IED principal y el IED de respaldo. 
+g) Veriﬁcación del sincronismo horario mediante GPS. 
+h) Veriﬁcación del registro de alarmas y eventos (SOE) con estampa de tiempo. 
+i) Veriﬁcación de la adquisición y visualización de variables analógicas y digitales, y de 
+la funcionalidad de la HMI. 
+j) Ensayo de disparo de las protecciones sobre ambas bobinas de los interruptores 
+asociados, con medición de los tiempos de operación. 
+k) Veriﬁcación de la señalización y de las alarmas alambradas. 
+l) Veriﬁcación funcional de la Celda Local: escalones de actuación por sobrefrecuencia 
+(81O), detección de la tasa de variación de la frecuencia (81R, df/dt), lógicas de 
+habilitación y bloqueo, y tiempos de operación comprometidos. 
+ 
+Ensayos tipo del SAT (en sitio): 
+a) Inspección visual del montaje y del tendido de conductores en sitio. 
+b) Registro de componentes y contraste con los equipos ensayados en fábrica. 
+c) Energización y veriﬁcación de las alimentaciones en condiciones reales de servicio. 
+d) Veriﬁcación de la redundancia entre el IED principal y el IED de respaldo. 
+e) Veriﬁcación del sincronismo horario mediante GPS. 
+
+ 
+f) Pruebas de la red de comunicaciones Ethernet y de los enlaces con la Celda Maestra 
+del EDAG de la Zona Norte. 
+g) Veriﬁcación de la adquisición y visualización de variables y de la funcionalidad de la 
+HMI. 
+h) Veriﬁcación funcional de la Celda Local y de la señalización y alarmas alambradas, 
+con las señales efectivamente cableadas en la instalación. 
+ 
+Los ensayos de aislación y rigidez dieléctrica y de cableado punto a punto se ejecutan 
+únicamente en el FAT. El alcance deﬁnitivo de cada protocolo, el listado de señales a validar y 
+la nómina de instrumentos de medición serán informados junto con la programación deﬁnitiva 
+de los ensayos, por cuanto dependen de la ingeniería de detalle aprobada y de la conﬁrmación 
+de la fecha efectiva de recepción del suministro. 
+ 
+Sin otro particular, quedamos atentos a sus comentarios y a cualquier antecedente 
+adicional que estime pertinente para el adecuado desarrollo de este proceso.  
+ 
+ 
+ 
+ 
+Jaime Rivera R. 
+ 
+Encargado CEN 
+ 
+Planta Fotovoltaica San Pedro III SpA. 
+ 
+ 
+Adj: 
+Comunicado del fabricante sobre plazos de entrega 
+ 
+Carta Gantt actualizada 
+SIGN

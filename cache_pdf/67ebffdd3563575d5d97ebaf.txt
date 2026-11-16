@@ -1,0 +1,405 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl
+Santiago, 31 de marzo de 2025 
+DE 01899-25 
+Señor 
+Luis Fredes 
+Encargado Titular 
+Planta Solar Tocopilla SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación de los 
+Servicios Complementarios (SSCC) de Control de 
+Frecuencia y Control de Tensión de la Central PFV 
+Taira. 
+Responde a Ingresos DE07085-24, DE07086-24 
+y DE07087-24. 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante cartas de las Ref. [1], [2] y [3], comunico a Ud. que, en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los SSCC de Control Primario de 
+Frecuencia (CPF), Control Terciario de Frecuencia (CTF) y Control de Tensión (CT) de la 
+Central PFV Taira. 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del día 03 de abril de 2025, 
+considerando los recursos indicados en el anexo a la presente carta. 
+Al respecto, en el anexo a la presente comunicación se presenta la información indicada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación de los SSCC de la central mencionada se encuentran publicados en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación >  
+1. Control de Frecuencia > Control Primario de Frecuencia > Central PFV Taira
+2. Control de Frecuencia > Control Terciario de Frecuencia > Central PFV Taira
+3. Control de Tensión > Central PFV Taira
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+•
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá
+instalar los equipos necesarios para medir el desempeño de la prestación del SC de
+CPF, que en este caso corresponden a un medidor potencia/frecuencia con
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [4].  Pese a no contar 
+con las señales necesarias para evaluar el desempeño en la prestación, la central 
+PFV Taira quedará habilitada para prestar el Servicio Complementario (SC) de 
+Control Primario de Frecuencia (CPF), pudiendo ser instruida por este Coordinador 
+para prestar dicho servicio. En dicho caso, la evaluación de estás instrucciones será 
+“No Verificable”. 
+• 
+Considerando lo anterior, en base a los artículos 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional, para la evaluación de desempeño se podrán utilizar medios 
+alternativos para poder realizar la evaluación de desempeño de la prestación del 
+SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, la Central PFV Taira podrá participar de las subastas de CPF y CTF una vez 
+que complete el proceso de solicitud de incorporación a la plataforma de subastas. Para 
+ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DIR/PGR/ycl  
+ 
+c.c.: Empresas Coordinadas 
+Sr. Julio Arellano. – Encargado Suplente PS Tocopilla SpA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Referencias: 
+[1] Carta S/N, Ref.: “NUP 1042 PFV Taira |Informa Entrega de Informe de Verificación CPF” 
+de fecha 09 de diciembre de 2024. Ingreso: DE07085-24. 
+[2] Carta S/N, Ref.: “NUP 1042 PFV Taira |Informa Entrega de Informe de Verificación CTF” 
+de fecha 09 de diciembre de 2024. Ingreso: DE07086-24. 
+[3] Carta S/N, Ref.: “NUP 1042 PFV Taira |Informa Entrega de Informe de Verificación CT” 
+de fecha 09 de diciembre de 2024. Ingreso: DE07087-24. 
+[4] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 
+> 
+Instructivos 
+Técnicos 
+> 
+Protocolo 
+de 
+envío 
+de 
+registros 
+Potencia/Frecuencia para la evaluación del CPF 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PFV Taira. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV Taira (Potencia máxima neta 200,3 [MW]) 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+Control de Frecuencia (CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de 
+Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de 
+Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia (CTF)  
+Control Terciario de 
+Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de 
+Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Central con rango de ajuste de estatismo (R) del 5 al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados desde el sistema SCADA por el 
+especialista del fabricante con la central en pleno funcionamiento. 
+• 
+Estatismo (R) se encuentra ajustado al 8%. 
+• 
+En el caso de la banda muerta, se realizó ensayos con un valor de ± 25 [mHz] 
+quedando este valor ajustado en el controlador. 
+b) Control de Tensión: 
+• 
+La central tiene limitada la inyección/absorción de reactivos a ± 65 MVAr establecida 
+por el fabricante en condiciones de diseño. 
+• 
+La central puede prestar el SC de Control de Tensión con ausencia de recurso 
+primario. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado PS Tocopilla SpA 
+para su Central PFV Taira. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la 
+instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+SSCC 
+  
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+  
+  
+  
+Valor determinado 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+5 – 8% 
+Estatismo 
+8% 
+Rango de ajuste Banda muerta [mHz] 
+25 – 200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+200,3 
+Límite de regulación inferior [MW] (3) 
+6,21 
+Aportes (4)  
+ BM = 25 [mHz]  
+R = 8% 
+10 segundos 
+Aporte +0,2[Hz] [MW] 
+-9,89 
+Aporte -0,2[Hz] [MW] 
+7,74 
+Aporte +0,7[Hz] [MW]  
+-33,63 
+Aporte -0,7[Hz] [MW] 
+34,68 
+5 minutos 
+Aporte +0,2[Hz] [MW] 
+-8,72 
+Aporte -0,2[Hz] [MW] 
+8,71 
+Aporte +0,7[Hz] [MW] 
+-33,78 
+Aporte -0,7[Hz] [MW] 
+34,06 
+(1) Las pruebas de verificación del SC de CPF se realizaron únicamente con una banda muerta ajustada en 25 [mHz].  
+(2) Correspondiente a la Potencia Máxima en proceso de aprobación por el Coordinador.  
+ 
+ 
+(3) Correspondiente a la Potencia Mínima Neta en proceso de aprobación por parte del Coordinador, considerando la totalidad 
+de los inversores funcionando. 
+ 
+ 
+ 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 160 MW.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+PFV 
+Taira 
+Solar 
+Tasa normal de operación [MW/min] 
+Subida 
+40 
+Bajada 
+40 
+Tasa máxima de operación 
+[MW/min] 
+Subida 
+200,3 
+Bajada 
+200,3 
+Tiempo de respuesta [minutos] 
+Subida 
+<5,00 
+Bajada 
+<5,00 
+Aporte CTF [MW] (1) 
+Subida 
+194,1 
+Bajada 
+-194,1 
+Límite de regulación superior [MW] (1) 
+200,3 
+Límite de regulación inferior [MW] (1) 
+6,21 
+(1) Los límites de regulación y el aporte máximo de CTF podrán verse modificados si se actualizan los parámetros 
+operacionales de la central PFV Taira. 
+ 
+SSCC 
+Control de Tensión 
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de reactivos (PQ) 
+Control de tensión (VQ) 
+Factor de potencia (cosφ) 
+ 
+Unidad 
+  
+Tensión 
+[pu]  
+Valor Determinado [MVAr] 
+Pneta [MW] 
+  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+PFV Taira 
+ 0 
+-65  
+-65  
+-65  
+-65  
+-65  
+ 120 
+-65  
+-65  
+-65  
+-65  
+-65  
+ 150 
+-65  
+-65  
+-65  
+-65  
+-65  
+ 180 
+-65  
+-65  
+-65  
+-65  
+-65  
+ 180 
+65  
+65  
+65  
+65  
+65  
+ 120 
+65  
+65  
+65  
+65  
+65  
+ 60 
+65  
+65  
+65  
+65  
+65  
+ 0 
+65  
+65  
+65  
+65  
+65  
+(1) Limitación de consigna de potencia reactiva en el PPC del parque en un valor máximo de ±65 MVAr 
+ 
+ 

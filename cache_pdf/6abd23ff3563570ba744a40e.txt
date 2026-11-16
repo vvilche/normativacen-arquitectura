@@ -1,0 +1,43 @@
+ 
+ENEL GREEN POWER CHILE S.A. 
+GEOTÉRMICA DEL NORTE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+Santiago, 29 de septiembre de 2026 
+EGP 123-26 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA 
+CARTA 
+DE05854-26: 
+SOLICITA 
+ANTECEDENTES 
+TÉCNICOS DE LOS RELÉS CON FUNCIÓN DE GRADIENTE DE 
+FRECUENCIA (ROCOF) ASOCIADOS A ESQUEMAS EDAC Y EDAG. 
+ 
+De nuestra consideración, 
+Nos referimos a la solicitud recibida mediante carta DE05854-26, en la cual el Coordinador 
+solicita informar los antecedentes técnicos asociados a cada relé de protección que 
+participe en un EDAC y/o EDAG mediante una función de gradiente de frecuencia.   
+En virtud de lo anterior, en Anexo 2 adjunto se indica toda la información solicitada, la cual 
+se respalda además mediante la información adjunta en el siguiente enlace: 
+https://drive.google.com/drive/folders/1ZEM7ZaSeGkfOk1vJYtr2KIwulMrVoGlc?usp=shari
+ng 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación, le saluda 
+atentamente, 
+. 
+ 
+ 
+ 
+ 
+_________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN. 
+ENEL GREEN POWER CHILE S.A.  
+GEOTÉRMICA DEL NORTE S.A. 

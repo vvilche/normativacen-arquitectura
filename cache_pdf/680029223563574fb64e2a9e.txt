@@ -1,0 +1,82 @@
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 16 de abril de 2025 
+AES 0041-2025 
+ 
+Señorita 
+Gretchen Zbinden V. 
+Subgerenta Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+Ref: Responde a carta DE02009-25 por apertura automática 52CT4 S/E Central 
+Queltehues. 
+[1] Carta AES 0128-2024, “Responde a carta DE05196 por apertura automática 52CT4 
+S/E Central Queltehues”, de 30 de octubre de 2024. 
+[2] Carta DE 02009-25, “Responde a DE06354-24”, de 04 de abril de 2025 
+ 
+De mi consideración, 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. con el propósito de comunicar el 
+estado de los compromisos adquiridos en la carta de la Ref. [1], ante la consulta 
+realizada en la comunicación de la Ref. [2], y que tienen relación con la apertura 
+automática del interruptor 52CT4 de S/E Central Queltehues, ocurrida a las 23:51 hrs. 
+del día 29 de agosto de 2024. 
+ 
+• Confirmación de ejecución exitosa de las acciones correctivas de largo plazo 
+comprometidas, las que se detallan en el siguiente extracto de su carta: 
+ 
+o Reemplazo de cableado de señales digitales por cableado apantallado. 
+ 
+Al respecto, informo a Ud. que mi representada ha adquirido el suministro de 
+cables apantallados, los cuales ya se encuentran en sitio. Se programará el 
+reemplazo de estos, así como las pruebas respectivas, para finalizar a más tardar 
+en el mes de junio del presente. 
+ 
+o Instalación de protección galvánica para impedir activación errónea de la 
+entrada W8a. 
+ 
+Actualmente mi representada se encuentra gestionando la adquisición de un 
+equipo que brinde la protección galvánica apropiada que requiere la entrada W8a. 
+Se espera implementar la solución en comento a más tardar el 29 de agosto del 
+presente. 
+ 
+o Ampliación y/o mantenimiento o formateo de la memoria de recaudación de 
+información de eventos y oscilografías de la protección paño E2 23kV. 
+o Solicitar la ampliación y/o mantenimiento o formateo de la memoria 
+recaudación de información de eventos y oscilografía de la protección paño 
+E2 23kV. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Finalmente, respecto al tercer y cuarto punto, informamos que durante trabajos 
+asociados a establecer comunicación remota desde la sala de control hasta el sistema 
+de protección del paño E2 23kV de Central Queltehues, se pudo establecer que si existía 
+registro en la protección para el evento en comento, por lo que se presume que hubo un 
+error en la acción de extracción de la información desde la protección. Dado lo indicado, 
+se ha actualizado el Informe de Falla correspondiente, adjunto al presente, incorporando 
+los nuevos antecedentes. Sin perjuicio, las conclusiones del informe no sufrieron 
+modificaciones, teniendo a la vista esta nueva información. En base a lo anterior, se 
+evidenció que el sistema de protección no presenta problemas en su memoria y que, 
+adicionalmente, los trabajos relacionados al establecimiento de comunicaciones 
+permitirán que no exista pérdida de registros ante la ocurrencia de nuevos eventos.  
+Sin otro particular, saluda atte. a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+AES Andes S.A. 
+ 
+ 

@@ -1,0 +1,116 @@
+Opdenergy Generación S.p.A. Los Militares 5953, Oficina 1803, Las Condes - Santiago 
+ 
+  
+ 
+ 
+ 
+OPDE-CL-GR-0881 
+28 de agosto de 2026 
+ 
+Sr. Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional (CEN) 
+Av. Parque Isidora Sur 1061, Pudahuel  
+ 
+Presente 
+ 
+REF: Respuesta carta DE 04823-25, Instruye implementación y solicita plan de trabajo para 
+implementación de puntos de monitoreo del Módulo de Medición Fasorial del SEN. 
+ 
+[1]: Carta OPDE-CL-GR-0776 Solicitud de prórroga para la entrega de plan de trabajo y cronograma 
+detallado. 
+ 
+[2]: Carta OPDE-CL-GR-0778 Propuesta de implementación de Unidades de Medición Fasorial (PMU). 
+ 
+[3]: Carta DE05315-26, Incumplimiento de plazos en la implementación de PMU y PDC del Módulo de 
+medición Fasorial del Coordinador 
+ 
+ 
+De nuestra consideración, 
+ 
+Nos dirigimos a usted según carta de Ref. [3], en la cual informa incumplimiento de los plazos en la 
+implementación de PMU y PDC del Módulo de medición Fasorial del Coordinador y solicita entregar 
+razones fundadas que expliquen el incumplimiento antes señalado. 
+ 
+Por medio de la presente, le informamos que en la carta de Ref. [2] se presentaron propuestas de 
+implementación, las que actualizamos a continuación: 
+  
+1. PFV Sol de Los Andes: En relación con el retraso en la implementación del proyecto PMU asociado 
+al Parque Solar Fotovoltaico Sol de los Andes, cabe señalar que su principal causa correspondió a 
+los mayores plazos de suministro del equipamiento requerido. Al respecto, la empresa SEL emitió 
+una comunicación de carácter global informando la identificación de un defecto en el proceso de 
+fabricación, circunstancia que implicó una extensión de hasta trece semanas en los plazos previstos 
+para la fabricación y entrega de los equipos. 
+ 
+Adicionalmente, el desarrollo del proyecto se vio condicionado por las circunstancias expuestas en 
+la carta individualizada en la Ref. [2], vinculadas con el proyecto de hibridación mediante sistema 
+de almacenamiento de energía BESS, correspondiente al NUP 5114. En este contexto, fue 
+necesario desarrollar diversas instancias de interacción con ese Coordinador para definir los 
+criterios de ingeniería aplicables a la implementación de la PMU, considerando la integración y las 
+particularidades del proyecto BESS antes señalado. 
+ 
+Actualmente, el proyecto BESS se encuentra en fase de hot commissioning y, considerando su 
+avance y las actividades pendientes, se estima finalizar la implementación del proyecto PMU el 28 
+de octubre de 2026. 
+ 
+Asimismo, en virtud del compromiso de nuestra representada con el cumplimiento de los 
+requerimientos técnicos y de lo conversado con la Gerencia de Operación de ese Coordinador, se 
+ha determinado implementar la PMU correspondiente al proyecto BESS en paralelo con la PMU del 
+Parque Solar Fotovoltaico Sol de los Andes, permitiendo así desarrollar una solución coordinada e 
+integral para ambas instalaciones. 
+ 
+
+Opdenergy Generación S.p.A. Los Militares 5953, Oficina 1803, Las Condes - Santiago 
+ 
+  
+ 
+ 
+ 
+2. PE La Estrella: Respecto del proyecto PMU asociado al Parque Eólico La Estrella, el principal retraso 
+también se originó en los mayores plazos de suministro del equipamiento requerido. Sobre esta 
+materia, la empresa SEL emitió una comunicación de carácter global informando la identificación 
+de un defecto en el proceso de fabricación, situación que implicó una extensión de hasta trece 
+semanas en los plazos previstos para la fabricación y entrega de los equipos. 
+ 
+Asimismo, durante el proceso de licitación y selección de proveedores se procuró generar sinergias 
+entre los distintos proyectos instruidos, priorizando en todo momento su correcta ejecución y el 
+cumplimiento de los requerimientos técnicos aplicables. 
+ 
+Sin perjuicio de lo anterior, se confirma que las pruebas FAT han finalizado satisfactoriamente y 
+que la implementación del proyecto se encuentra prevista para el 21 de octubre de 2026. Los 
+resultados de las pruebas SAT, junto con la confirmación de la correcta implementación y puesta 
+en servicio de la PMU, serán remitidos a ese Coordinador con posterioridad a dicha fecha. 
+ 
+ 
+ 
+En consecuencia, se adjuntan a la presente los cronogramas actualizados de ambos proyectos y, 
+adicionalmente, el protocolo correspondiente a las pruebas FAT del Parque Eólico La Estrella. 
+ 
+Finalmente, nuestra representada reitera su compromiso con el cumplimiento de la normativa vigente y 
+de los requerimientos técnicos aplicables, así como con la operación segura, coordinada y confiable del 
+Sistema Eléctrico Nacional. 
+ 
+Agradecemos su comprensión y quedamos atentos a cualquier indicación adicional, informando 
+oportunamente cualquier novedad relevante. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos Ortiz Gajardo 
+Representante Legal 
+ Opdenergy Generación S.p.A. 
+CARLOS 
+RODOLFO ORTIZ 
+GAJARDO
+Firmado digitalmente 
+por CARLOS RODOLFO 
+ORTIZ GAJARDO 
+Fecha: 2026.08.31 
+08:22:00 -04'00'

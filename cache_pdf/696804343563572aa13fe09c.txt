@@ -1,0 +1,163 @@
+ 
+ 
+ 
+ 
+Santiago, 
+14
+de enero 
+de 202
+6
+Señor
+a
+Gretchen Zbinden V.Subgerenta de Análisis y Soporte OperacionalCoordinador Eléctrico NacionalPRESENTE
+De nuestra consideración:Por medio de la presente, y en atención a lo solicitado mediante [1], de fecha 29 de diciembre, n
+os dirigimos a usted con el objeto de informar formalmente el inicio de la 
+ejecución de los Ensayos de Verificación de Servicios Complementarios de Control Primario de Frecuencia, Control Terciario de Frecuencia y Control de Tensión, a ser prestados por laCentral PFV Granja Solar.En virtud de lo anterior, se presenta a continuación un cronograma detallado de actividades, con fecha de inicio el 20 de enero de 2026, que contempla los ensayos a ejecutar conforme a los Protocolos aprobados en [1].
+Control Primario de Frecuencia  
+Concepto 
+Inicio 
+Término 
+Medición del estatismo permanente del sistema 
+de control potencia/frecuencia. 
+20-01-26 
+21-01-26 
+Determinación de la banda muerta del control 
+potencia/frecuencia. 
+20-01-26 
+21-01-26 
+Medición de retardos y tiempos de 
+establecimiento del sistema carga/velocidad. 
+20-01-26 
+21-01-26 
+Evaluación del amortiguamiento del lazo de 
+control. 
+20-01-26 
+21-01-26 
+Medición de la capacidad de toma y reducción 
+de carga. 
+20-01-26 
+21-01-26 
+Verificación de inyección de reserva de 
+frecuencia ante escalones de ±200 mHz. 
+20-01-26 
+21-01-26 
+Medición de la potencia máxima y mínima 
+entregable bajo control de frecuencia. 
+20-01-26 
+21-01-26 
+Verificación de la respuesta dinámica frente a 
+variaciones de frecuencia del sistema. 
+20-01-26 
+21-01-26 
+Ref:
+[1] DE08351
+- 25 
+“ Aprueba 
+Protocolos para 
+los Ensayos de Verificación de Control de Frecuencia y Control de Tensión de la central PFV Granja Solar.
+”
+
+Control Secundario de Frecuencia  
+Concepto 
+Inicio 
+Término 
+Pruebas de comunicación arquitectura de 
+comunicaciones y señales SITR 
+22-01-26 
+23-01-26 
+Pruebas de sintonización 
+22-01-26 
+23-01-26 
+Pruebas de respuesta en modo Closed-
+Loop bajo control centralizado. 
+22-01-26 
+23-01-26 
+Control Terciario de Frecuencia Giro + Frío 
+Concepto 
+Inicio 
+Término 
+CTP en Giro: Medición de la tasa de 
+subida y bajada de carga (MW/min) entre 
+mínimo técnico y potencia máxima. 
+26-01-25 
+27-01-26 
+CTP en Giro: Verificación de tasas 
+mínima, nominal y máxima de variación 
+de carga. 
+26-01-25 
+27-01-26 
+CTP en Giro: Evaluación de limitaciones 
+dinámicas asociadas a la fuente primaria 
+(fotovoltaica). 
+26-01-25 
+27-01-26 
+CTP en Frío: Verificación de la capacidad 
+de sincronización desde apagado (≤ 5 
+minutos). 
+26-01-25 
+27-01-26 
+CTP en Frío: Medición del tiempo para 
+alcanzar mínimo técnico (≤ 10 minutos). 
+28-01-26 
+29-01-26 
+CTP en Frío: Verificación de alcance de 
+potencia máxima o potencia efectiva 
+alcanzada a los 15 minutos. 
+28-01-26 
+29-01-26 
+CTP en Frío: Verificación de mantención 
+de la condición operativa por al menos 60 
+minutos. 
+28-01-26 
+29-01-26 
+Control de Tensión 
+Concepto 
+Inicio 
+Término 
+Verificación de la respuesta del sistema de 
+control de tensión / potencia reactiva. 
+29-01-26 
+30-01-26 
+Ensayos de inyección y absorción de 
+potencia reactiva según consignas de 
+tensión. 
+29-01-26 
+30-01-26 
+Determinación del Diagrama P-Q teórico 
+máximo de la unidad. 
+29-01-26 
+30-01-26 
+Selección y ensayo de ocho puntos de 
+operación del diagrama P-Q 
+(subexcitación y sobreexcitación). 
+29-01-26 
+30-01-26 
+Ensayos en cada punto del diagrama P-Q 
+con niveles de tensión de 0,9 – 0,95 – 1,0 – 
+1,05 – 1,1 p.u. 
+29-01-26 
+30-01-26 
+Medición de tiempos de respuesta y 
+estabilización del control de tensión. 
+29-01-26 
+30-01-26 
+
+Verificación del error en estado 
+estacionario del controlador de tensión. 
+29-01-26 
+30-01-26 
+Contraste entre valores teóricos y 
+resultados medidos, justificando 
+desviaciones mayores a ±2 %. 
+29-01-26 
+30-01-26 
+Asimismo, se 
+informa que junto con la presente carta se ha ingresado la solicitud de trabajo 
+en el sistema Neomante, bajo los N°
+2026003061/
+2026003063/
+2026003064/
+2026003065.Sin otro particular, se despide atentamente,
+Francisco TobarEncargado Titular
+Co pec Renovables SpA
+ 

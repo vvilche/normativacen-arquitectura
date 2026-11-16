@@ -1,0 +1,370 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 17 de marzo de 2026 
+ 
+    
+DE 1730-26 
+ 
+ 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+de 
+Indicadores 
+de 
+Desempeño de Servicios Complementarios 
+prestados durante el mes de febrero 2026, 
+segunda versión. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página 
+web del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de 
+los Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de 
+febrero 2026. Estos indicadores fueron considerados en la versión definitiva del IVTE de 
+dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador 
+en la siguiente ruta: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Servicios Complementarios > 
+Índices de Desempeño y Disponibilidad de Servicios Complementarios > 2026 > 
+Febrero 2026 > Versión 2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las 
+observaciones recibidas para la primera versión del Informe. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ASA/ycl
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de febrero 
+2026 consideradas en la versión 2. 
+ 
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Enlasa 
+CTF 
+TER TENO 
+TER EL PEÑÓN 
+Fecha: 
+24-02-2026 
+19:21 
+El 24-02-2026 a las 19:21 las centrales PENON 
+DIESEL y TENO DIESEL recibieron instrucción 
+de activación por CTF (+). Según el informe 
+publicado 
+ambas 
+centrales 
+presentan 
+un 
+desempeño de 0% en la hora 19. Sin embargo, 
+en el archivo “CTF_202602” las centrales para 
+esa fecha y hora registran factores de 
+cumplimiento de 91% y 100% respectivamente. 
+Se solicita que se reconozca la información 
+publicada en la base de datos “CTF_202602” y 
+se corrijan los desempeños publicados en el 
+informe para las centrales PENON DIESEL y 
+TENO DIESEL el día 24-02-2026 hora 19. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que 
+durante la hora 19 del día 24 de febrero se 
+encuentran anotadas dos instrucciones para TER 
+TENO como para TER EL PEÑON: 
+ 
+- La primera instrucción inicia a las 19:21 hrs. y 
+finaliza a las 19:50 hrs. 
+- La segunda instrucción inicia a las 19:50 hrs. y 
+finaliza a las 20:11 hrs. 
+ 
+Se aclara que la segunda instrucción es una 
+continuación de la primera instrucción. La 
+instrucción de las 19:50 hrs. presenta una 
+respuesta 0% porque la evaluación se inicia 
+cuando la unidad se encuentra manteniendo su 
+potencia activa en consistencia con la consigna de 
+la primera instrucción. Esta situación ocurre para 
+ambas unidades. 
+ 
+Dicho lo anterior, el indicador de respuesta se 
+recalcula considerando una única instrucción de 
+inicio a las 19:21 hrs con hora de finalización de 
+20:11 hrs quedando en 90% y 93% para TER El 
+Peñon y TER Teno respectivamente. 
+2 
+Acciona 
+CTF 
+PE SAN 
+GABRIEL 
+Fecha: 
+22-02-2026 
+19:03 
+Se califica como NC. Sin embargo, la planilla 
+“CTF_202602” asociada al índice de desempeño 
+mensual para CTF no se encuentra con la 
+información actualizada. Según la grabación del 
+hotline (archivo adjunto “22_02_2026_19:04”) 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que la 
+instrucción inicia a las 19:03 hrs del día 22-02-
+2026 y finaliza a las 19:12 hrs, con un monto de 
+50MW de bajada. Se modifica el RIO y el indicador 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+CDC realizó la instrucción a las 19:03, indicando 
+un monto de 50MW para CTF(-). En virtud de lo 
+indicado y en una revisión rutinaria de los 
+registros en RIO, se identificó que el registro no 
+coincide con dicha información, sino que 
+reflejaba los datos presentes en la planilla 
+“CTF_202602” motivo por el cual se solicitó la 
+corrección al CDC, quienes actualizaron los 
+registros con los datos reales. 
+de respuesta se recalcula, quedando en 100% 
+para esta instrucción. 
+3 
+Colbún S.A. 
+CT 
+UG Canutillar 1 
+Fecha: 
+05.02.2026 
+02:19:00 
+(UTC-3) 
+De acuerdo con el registro de instrucciones de 
+Colbún SA se recibe la instrucción de bajar 2kV, 
+sin embargo, el Coordinador en su documento 
+2026.02_Respuesta_CT, evalúa la instrucción 
+para bajar 1 kV. Se adjunta registro de grabación 
+con 
+el 
+requerimiento 
+del 
+operador 
+del 
+Coordinador. Por otra parte, al momento de 
+ejecutar la maniobra se observa que la tensión 
+en la barra S/E Puerto Montt venía a la baja 
+probablemente por efecto de los otros recursos 
+técnicos 
+que 
+fueron 
+requeridos 
+por 
+el 
+Coordinador. 
+Asimismo, 
+el 
+operador 
+de 
+Canutillar lleva a la unidad a su límite de curva 
+PQ no pudiendo bajar lo requerido por el 
+Coordinador. Se adjunta informe realizado por 
+personal de planta en el cual se observa el 
+limitador de subexcitación operador por efecto 
+de 
+la 
+entrega 
+de 
+reactivos. 
+Solicitud: Se solicita revisar instrucción en kV y 
+evaluar a la unidad en consecuencia. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se confirma que la instrucción correspondió 
+a bajar 2kV en lugar de 1kV. 
+ 
+Dicho lo anterior, se actualiza RIO y el indicador 
+de respuesta se recalcula, quedando en 100% 
+para esta instrucción. 
+ 
+Sin perjuicio de lo anterior se aclara que el 
+desempeño de las unidades HE Canutillar se 
+evalúa según la tensión de su barra principal 
+Canutillar 220kV B1 y B2 respectivamente. Los 
+tags SCADA en cuestión son “CANUTIL   220  B1  
+V” y “CANUTIL   220  B2     V”. 
+4 
+Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+07.02.2026 
+02:36:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún SA se recibe la instrucción de activación 
+del CTF de subida y llevar a las unidades a plena 
+carga. En condiciones que el Coordinador 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que el monto debió 
+corresponder a 68 MW en lugar de 23 MW, ya que 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+evalúa que la unidad debió subir 23 MW que era 
+la reserva asignada. Se adjunta grabación con 
+instrucción. Junto con lo anterior se observa que 
+el documento CTF_202602, se evalúa la etapa 
+2, que corresponde a los 15 minutos luego de 
+recibir la instrucción, a las 02:38 horas, cuando 
+la 
+instrucción 
+se 
+realizó 
+a 
+las 
+02:36. 
+Solicitud: Evaluar el desempeño considerando la 
+instrucción recibida y también la hora en la cual 
+se recibe la instrucción.  
+la grabación indica que la unidad debe alcanzar 
+plena carga. 
+ 
+Dicho lo anterior se ajusta el monto instruido en 
+RIO, se recalcula la respuesta y esta pasa a 100%. 
+5 
+Generadora 
+Metropolitan
+a SpA 
+CT 
+PFV CEME 1 
+Fecha: 
+16-02-2026 
+09:47 
+Instrucción CT Manual 2026-02-16 09:47 : Se 
+solicita por parte del CDC alcanzar y quedar en -
+40 MVAr a la PFV CEME1, la cual, desde el 
+minuto 1 al 15 de su evaluación permanece con 
+margen sobre 85% y menos a 104% que indica 
+Cumple C1. La consigna solicitada de potencia 
+reactiva a las 8:12 fue de -15 MVAr hasta las 
+9:47 donde se solicita la nueva consigna antes 
+mencionada 
+de 
+-40 
+MVAr. 
+  
+Se solicita al CEN revisar esta secuencia de 
+instrucción, ya que es posible que la consigna 
+previa solicitada por el CDC esté afectando la 
+fórmula de cumplimiento.  
+No se acoge la observación – Aclaración. 
+ 
+Se aclara que las instrucciones de CDC 
+corresponden a la variación requerida de recurso 
+y no al monto final de instrucción.  
+ 
+El probatorio enviado indica que la unidad fue 
+seteada con -40MVAr, cuando la correcta 
+interpretación de la instrucción es absorber -40 
+MVAr adicionales a los -15MVAr ya absorbidos en 
+la 
+anterior 
+instrucción. 
+ 
+Al momento de iniciar la instrucción de las 09:47 
+horas la unidad se encontraba absorbiendo -
+16MVAr, por lo tanto, la unidad debió operar 
+absorbiendo -55 MVAr en lugar de -41MVAr como 
+está consignado en sus señales SCADA y en el 
+probatorio enviado. Dicho lo anterior el indicador 
+para esta instrucción no cambia, por lo que el 
+indicador de respuesta promedio para el día 16 de 
+febrero se mantiene. 
+6 
+Generadora 
+Metropolitan
+a SpA 
+CT 
+TER NUEVA 
+RENCA 
+Fecha: 
+19-02-2026 
+11:32 
+Instrucción CT Manual 2026-02-19 11:32 : Se 
+solicita por parte del CDC subir 2kV a la central 
+Nueva Renca, al evaluar el dato de SITR de la 
+No se acoge la observación – Aclaración. 
+ 
+Se analizan los antecedentes y se constata que la 
+unidad aumenta 2kV en la barra a los 10 minutos 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+barra se alcanzan 2.002kV al minuto 15 de la 
+evaluación, por lo que debería alcanzar 
+categoría Cumple C1. Se solicita al Coordinador 
+reevaluar el servicio. 
+(t10) con respecto a su punto de operación inicial 
+(t0). A los 15 minutos (t15) se registra una 
+variación de 1,3kV con respecto a su punto de 
+operación inicial, lo que es menor al 80% de la 
+consigna solicitada.  
+ 
+Dicho lo anterior el indicador no cambia, ya que 
+según lo establecido en la metodología vigente 
+(disponible en Metodología Cálculo Desempeño 
+SSCC | Coordinador Eléctrico Nacional) se 
+considera que la unidad presenta una buena 
+respuesta si la variación se encuentra dentro del 
+80% y 200% de la instrucción, lo que no ocurre en 
+este caso.  
+ 
+A modo de aclaración, los datos usados para la 
+evaluación del índice de respuesta provienen 
+directamente desde SCADA, en particular de los 
+tags RENCA 110 B2 V y RENCA 110 B1 V. 
+ 

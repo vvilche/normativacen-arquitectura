@@ -1,0 +1,45 @@
+ 
+ 
+OR-000249-2025 
+ 
+Santiago, 12/11/2025 
+ 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA: Protocolo Específico de Pruebas Control de Tensión asociados a BC en S/E Alto Jahuel; 
+y BC y Reactor en S/E Polpaico. 
+ 
+De nuestra consideración: 
+Junto con saludar, por medio de la presente y para dar cumplimiento con lo establecido en el Anexo 
+Técnico “Verificación de instalaciones para la prestación de SSCC” de la Norma Técnica de Servicios 
+Complementarios, se adjuntan los Protocolos Específicos de Pruebas para la Verificación de 
+Servicios Complementarios – Control de Tensión, correspondientes a los siguientes equipos: 
+• 
+Banco de Condensadores BC41, BC42, BC43 y BC44 de S/E Alto Jahuel 
+(EN202709.1_PEP_SSCC_CT_SE Alto Jahuel_4x_Rev.0);  
+• 
+Banco de Condensadores BC51, BC52, BC53 y BC54 de S/E Alto Jahuel 
+(EN202709.1_PEP_SSCC_CT_SE Alto Jahuel_5x_Rev.0); 
+• 
+Banco de Condensadores N°1 en S/E Polpaico (EN202709.1_PEP_SSCC_CT_SE 
+Polpaico_JCE1_Rev.0) y; 
+• 
+Reactor N°2 en S/E Polpaico (EN202709.1_PEP_SSCC_CT_SE Polpaico_KZ2_Rev.0). 
+En el caso de los Banco de Condensadores en S/E Alto Jahuel, se ha confeccionado un documento 
+específico, dado que estos equipos se conectan y desconectan de forma secuencial en su operación 
+normal. Quedamos atentos a sus comentarios u observaciones. 
+Sin otro particular, saludan atentamente a usted 
+ 
+TRANSELEC S.A., 
+ 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 

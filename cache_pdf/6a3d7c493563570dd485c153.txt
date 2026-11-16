@@ -1,0 +1,76 @@
+ 
+ 
+ 
+ 
+Lautaro, 25 de junio de 2026  
+PEL.G.26.019 
+ 
+ 
+ 
+Sr. 
+RODRIGO ESPINOZA V. 
+Gerente de Operación 
+COORDINADOR ELÉCTRICO NACIONAL 
+ 
+ 
+ 
+Ref.: [1] Carta DE01524-26, Aprueba Protocolos para los 
+Ensayos de Verificación de Control de Frecuencia y Control 
+de Tensión de la central TER Lautaro. 
+[2] DE01237-26, Observaciones a los Protocolos de 
+Verificación de Servicios Complementarios de las unidades 
+U1 y U2 de central TER Lautaro. 
+[3] Carta DE03646-24, “Informa protocolos de ensayos 
+SSCC Central Lautaro”. 
+[4] Carta DE01170-24, Reitera Solicitud Inicio Proceso de 
+Verificación de Servicios Complementarios. 
+ 
+ 
+ 
+Estimado: 
+ 
+Por medio de la presente, y en referencia a la Carta DE 01524-26, de fecha 05 de marzo de 2026, 
+mediante la cual se aprobaron los Protocolos para los Ensayos de Verificación de Control de Frecuencia 
+y Control de Tensión de la Central TER Lautaro, informamos lo siguiente: 
+ 
+Las pruebas fueron ejecutadas exitosamente los días 27, 28 y 29 de abril de 2026. Los informes 
+con los resultados obtenidos se encuentran disponibles para su descarga en el siguiente enlace: Informes 
+Verificación SSCC Central Lautaro 
+ 
+En el enlace indicado podrán encontrarse las siguientes carpetas, junto con el detalle de los 
+archivos correspondientes: 
+ 
+- 
+UNIDAD 1 (carpeta) 
+o EE-EN-2026-1177-RA_Informe_Final_SSCC_CTF_TER_Lautaro_U1.pdf 
+o EE-EN-2026-1177-RA_SSCC_CTF_TER_Lautaro_U1_Adjuntos.zip 
+o EE-EN-2026-1242-RA_Informe_Final_SSCC_CT_TER_Lautaro_U1.pdf 
+o EE-EN-2026-1242-RA_TER_Lautaro_U1_Registros.zip 
+ 
+ 
+ 
+
+ 
+ 
+ 
+- 
+UNIDAD 2 (carpeta) 
+o EE-EN-2026-1243-RA_Informe_Final_SSCC_CT_TER_Lautaro_U2.pdf 
+o EE-EN-2026-1243-RA_TER_Lautaro_U2_Registros.zip 
+o EE-EN-2026-1245-RA_Informe_Final_SSCC_CTF_TER_Lautaro_U2.pdf 
+o EE-EN-2026-1245-RA_SSCC_CTF_TER_Lautaro_U2_Adjuntos.zip 
+ 
+ 
+Para más detalles, puede comunicarse con el Sr. Héctor Saavedra Poblete a través del correo electrónico 
+hsaavedra@comasageneracion.cl o a los teléfonos 45 2992816 y celular +56 9 56184629. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HECTOR SAAVEDRA POBLETE 
+SUBGERENTE DE OPERACIONES 
+CENTRAL LAUTARO COMASA SPA 
+ 

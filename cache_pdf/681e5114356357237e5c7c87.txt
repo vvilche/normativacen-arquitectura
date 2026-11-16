@@ -1,0 +1,42 @@
+ 
+ 
+ENEL GREEN POWER CHILE 
+Roger de Flor 2725, Las Condes, Chile – Tel. +562 2630 9000 
+ 
+ 
+Santiago, 09 de mayo de 2025 
+EGP 178-25 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Referencia: 
+Actualización de protocolo para ensayo de verificación de servicio complementario de CT para 
+el Parque Fotovoltaico Don Humberto (NUP 2224) 
+ 
+[1] Carta DE00610-25 Parque Fotovoltaico Don Humberto: Respuestas a observaciones y 
+nueva versión del Informe Técnico de Verificación de Control de Tensión (CT). 
+De nuestra consideración, 
+En relación con la materia de la referencia y en el contexto de la Verificación de Servicios Complementarios 
+(SSCC), particularmente respecto al servicio de Control de Tensión (CT), adjuntamos a la presente nuestra 
+propuesta de protocolo de verificación. Esta propuesta incorpora los comentarios realizados por el Coordinador 
+en las reuniones sostenidas con el equipo de Control de la Operación. 
+Una vez que el Coordinador apruebe los protocolos de ensayos compartidos, se programará la fecha de 
+ejecución de dichos ensayos, los cuales se estima realizar durante el mes de mayo del presente año. La fecha 
+exacta será informada oportunamente, junto con el envío de las curvas y las solicitudes Neomante, con al menos 
+cinco días hábiles de anticipación a la realización de los ensayos. Esta información será enviada con copia al 
+correo electrónico verificación.SSCC@coordinador.cl. 
+Posteriormente a la ejecución de los ensayos, el informe actualizado de la referencia [1] será enviado al 
+Coordinador a través del sistema de correspondencia. 
+Sin otro particular, le saluda atentamente, 
+ 
+Javier Avello L. 
+Coordinador proyecto PFV Don Humberto. 
+ENEL GREEN POWER CHILE 
+cc:  
+Gretchen Zbinden Véliz. Subgerenta de Análisis y Soporte Operacional 
+verificacion_sscc@coordinador.cl 
+ 

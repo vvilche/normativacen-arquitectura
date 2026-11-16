@@ -1,0 +1,1878 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 18 de marzo de 2026 
+DE 01769-26 
+ 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Según lista de distribución 
+Presente 
+ 
+Ref.: Desempeño deficiente en la prestación de los 
+Servicios Complementarios de Control Primario de 
+Frecuencia, Control Terciario de Frecuencia y Control 
+de Tensión de las unidades generadoras febrero 2026. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en el contexto de la evaluación del desempeño 
+de los Servicios Complementarios, durante el mes de febrero de 2026, se ha evidenciado 
+que las unidades de su representada que han participado en la prestación de los SSCC de 
+Control Primario (CPF), Control Terciario de Frecuencia (CTF) y/o Control de Tensión (CT), 
+han presentado desempeños bajo el estándar normativo definido en la NT de SSCC. 
+ 
+Al respecto, considerando la relevancia de la activación de estos SSCC para una operación 
+segura y económica del sistema, y con el fin de levantar los motivos que gatillan dicho 
+comportamiento, así como las acciones que permitan normalizar el comportamiento de las 
+unidades, solicito a Ud. el envío de los antecedentes especificados a continuación, 
+considerando las instalaciones del Anexo a la presente carta:  
+a) Informe técnico que dé cuenta de la causa raíz que origina el desempeño no 
+satisfactorio de la prestación de los SSCC de CPF, CTF y CT, según corresponda. 
+Dicho informe deberá contar al menos con el diagnóstico y la descripción del 
+problema presentado, adjuntando los antecedentes de respaldo y el análisis de 
+variables operacionales que sustenten el motivo del bajo desempeño.  
+b) Indicar las acciones correctivas que ha implementado o implementará con el fin de 
+mejorar el desempeño de sus unidades. 
+c) En el caso de requerir tomar acciones correctivas, deberá enviar un plan de trabajo 
+indicando las actividades a realizar y los plazos en que éstas se llevarán a cabo, 
+especificando el impacto esperado de cada acción en el desempeño de las 
+instalaciones.  
+Este plan de trabajo debe considerar que las acciones destinadas a mejorar el 
+desempeño de la prestación de SSCC de sus instalaciones estén implementadas 
+en un plazo no superior a 30 días corridos, contados desde el plazo solicitado de 
+respuesta a la presente comunicación. Finalmente, este plan de trabajo deberá 
+considerar al menos los siguientes hitos: 
+ 
+  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Ítem 
+Nombre de la tarea 
+Fecha Inicio 
+Fecha Fin 
+1 
+Levantamiento de situación actual 
+ 
+ 
+2 
+Acciones correctivas a implementar 
+ 
+ 
+3 
+Pruebas de normalización 
+ 
+ 
+4 
+Finalización de la normalización 
+ 
+ 
+ 
+Cabe destacar que, en caso de que el coordinado ya tenga un plan de trabajo comprometido 
+anteriormente, deberá informar el estado de avance de este en consistencia con los literales 
+a), b) y c) previos. 
+ 
+Resulta oportuno señalar que la implementación de las acciones correctivas comprometidas 
+en el punto c), es decir la “finalización de la normalización” debe ser llevada a cabo en 
+consistencia con las exigencias del proceso de verificación de SSCC de dicha central, en 
+conformidad con lo indicado en el Anexo Técnico “Verificación de Instalaciones para la 
+Prestación de SSCC” de la NT-SSSCC y de las guías de verificación de SSCC, las que 
+pueden ser descargadas desde el sitio web del Coordinador en la siguiente ruta: 
+  
+Inicio > Operación del Sistema > Requerimientos de la Operación > Servicios 
+Complementarios (SSCC) > Verificación de Instalaciones para la prestación de SSCC 
+> Instructivos Técnicos de Verificación 
+Finalmente, en el anexo adjunto a la presente carta (Excel 2026.03 Respuesta CPF CTF 
+CT febrero 2026.xlsx) se encuentran especificados los criterios utilizados para seleccionar 
+a las unidades, así como los antecedentes que respaldan lo requerido.   
+ 
+Los antecedentes solicitados en los literales a), b), y c) previos y/o el estado de avance de 
+su plan de trabajo ya comprometido, deberán ser enviados mediante carta y con copia al 
+buzón verificación.SSCC@coordinador.cl a más tardar el 01 de abril de 2026. 
+ 
+En caso de cualquier consulta, puede dirigirla al buzón de correo ya señalado.  
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ASA/ycl 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Lista de distribución 
+ 
+1. Acciona Energía Chile Holdings S.A. 
+2. Arcadia Generación Solar S.A. 
+3. Enel Generación Chile S.A. 
+4. Enel Green Power Chile S.A. 
+5. Engie Energía Chile S.A. 
+6. Generadora Metropolitana SpA 
+ 
+ 
+Referencias 
+[1] Carta DE08422-25, Ref.: “Desempeño deficiente en la prestación de los Servicios 
+Complementarios de Control Primario de Frecuencia, Control Terciario de Frecuencia y 
+Control de Tensión de las unidades generadoras.”, de fecha 31 de diciembre de 2025.  
+[2] Carta DE01221-26, Ref.: “Desempeño deficiente en la prestación de los Servicios 
+Complementarios de Control Primario de Frecuencia, Control Terciario de Frecuencia y 
+Control de Tensión de las unidades generadoras.”, de fecha 23 de febrero de 2026.  
+[3] Carta OP 009-26 del Coordinado Enel Generación Chile S.A., Ref.: “Respuesta Carta 
+DE08422-25: Desempeño Deficiente en la Prestación de los Servicios Complementarios de 
+Control Primario de Frecuencia, Control Terciario de Frecuencia y Control de Tensión de 
+las Unidades Generadoras”, de fecha 16 de enero de 2026. Ingreso DE00496-26. 
+[4] Carta OP 021-26 del Coordinado Enel Generación Chile S.A., Ref.: “Respuesta 
+Complementaria a Carta DE08422-25: Desempeño Deficiente en la Prestación de los 
+Servicios Complementarios de Control Primario de Frecuencia, Control Terciario de 
+Frecuencia y Control de Tensión de las Unidades Generadoras”, de fecha 30 de enero de 
+2026. Ingreso DE00962-26. 
+[5] Carta BF-E-CAE-2026-025 del Coordinado Bioenergías Forestales SpA, Ref.: 
+“Respuesta a carta DE01221-26. Desempeño deficiente en la prestación de los Servicios 
+Complementarios de Control Primario de Frecuencia, Control Terciario de Frecuencia y 
+Control de Tensión de las unidades generadoras.”, de fecha 06 de marzo 2026. Ingreso 
+DE02260-26. 
+[6] Carta GM N°2026-019 del Coordinado Generadora Metropolitana SpA, Ref.: 
+“Desempeño deficiente en la prestación de los Servicios Complementarios de Control 
+Primario de Frecuencia, Control Terciario de Frecuencia y Control de Tensión de las 
+unidades generadoras.”, de fecha 06 de marzo de 2026. Ingreso DE02275-26. 
+[7] Carta ENGIE N°052/2026 del Coordinado Engie Energía Chile S.A., Ref.: “Respuesta a 
+carta DE01221-26, Ref.:" Desempeño deficiente en la prestación de los Servicios 
+Complementarios de Control Primario de Frecuencia, Control Terciario de Frecuencia y 
+Control de Tensión de las unidades generadoras.", de fecha 06 de marzo de 2026. Ingreso 
+DE02335-26. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo 1: Unidades generadoras con mal desempeño en CPF durante el mes de febrero 2026. 
+ 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta 
+Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas 
+(2) 
+Observación (3) 
+Aclaración a las respuestas 
+recibidas a la solicitud de 
+mejora 
+ENEL 
+GENERACIÓN 
+CHILE S.A. 
+TER 
+ATACAMA 
+CC1-TG1 
+CPF+ y CPF- 
+37,97% y 
+40,49% 
+91,52% y 90,70% 
+Unidad no realiza CPF cuando las 
+variaciones de frecuencia se 
+encuentran dentro de la banda de 
+0,2 Hz. Además, se recomienda 
+revisar el muestreo y calidad de 
+los registros potencia/frecuencia. 
+ 
+Plan de trabajo fue solicitado por 
+este Coordinador en cartas de 
+Ref. [1] y [2]. 
+Aclaración. 
+ 
+A la fecha de emisión de esta 
+carta se encuentra pendiente 
+el envío del plan de trabajo 
+para TER Atacama CC1 y 
+CC2 y coordinado no ha 
+notificado 
+hallazgos 
+ni 
+tampoco registra mejoras de 
+desempeño, a pesar de que 
+se ha solicitado en las cartas 
+Ref. [1] y [2]. 
+ 
+El coordinado ha indicado 
+mediante las cartas de las 
+Ref. [3] y [4] que “se están 
+analizando en detalle los 
+registros de la operación de la 
+central en el periodo solicitado 
+y en específico los periodos 
+donde 
+se 
+informa 
+un 
+desempeño deficiente para 
+determinar las condiciones de 
+operación de la central, lo que 
+permitirá definir acciones y 
+planes de mejora en caso de 
+ser requeridos.” lo cual aún 
+está pendiente. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta 
+Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas 
+(2) 
+Observación (3) 
+Aclaración a las respuestas 
+recibidas a la solicitud de 
+mejora 
+ 
+Se reitera que el detalle de las 
+evaluaciones mensuales de 
+su 
+representada 
+en 
+la 
+prestación 
+de 
+CPF 
+se 
+encuentra disponible en el 
+siguiente enlace: Índices de 
+Desempeño y Disponibilidad 
+de 
+Servicios 
+Complementarios 
+| 
+Coordinador 
+Eléctrico 
+Nacional, por lo que se solicita 
+su consulta y revisión para 
+mayor información. 
+ENEL 
+GENERACIÓN 
+CHILE S.A. 
+TER 
+ATACAMA 
+CC1-TG2 
+CPF+ y CPF- 
+44,32% y 
+41,91% 
+77,14% y 75,41% 
+Unidad no realiza CPF cuando las 
+variaciones de frecuencia se 
+encuentran dentro de la banda de 
+0,2 Hz. Además, se recomienda 
+revisar el muestreo y calidad de 
+los registros potencia/frecuencia. 
+ 
+Plan de trabajo fue solicitado por 
+este Coordinador en cartas de 
+Ref. [1] y [2]. 
+Aclaración. 
+ 
+A la fecha de emisión de esta 
+carta se encuentra pendiente 
+el envío del plan de trabajo 
+para TER Atacama CC1 y 
+CC2 y coordinado no ha 
+notificado 
+hallazgos 
+ni 
+tampoco registra mejoras de 
+desempeño, a pesar de que 
+se ha solicitado en las cartas 
+Ref. [1] y [2]. 
+ 
+El coordinado ha indicado 
+mediante las cartas de las 
+Ref. [3] y [4] que “se están 
+analizando en detalle los 
+registros de la operación de la 
+central en el periodo solicitado 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta 
+Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas 
+(2) 
+Observación (3) 
+Aclaración a las respuestas 
+recibidas a la solicitud de 
+mejora 
+y en específico los periodos 
+donde 
+se 
+informa 
+un 
+desempeño deficiente para 
+determinar las condiciones de 
+operación de la central, lo que 
+permitirá definir acciones y 
+planes de mejora en caso de 
+ser requeridos.” lo cual aún 
+está pendiente. 
+ 
+Se reitera que el detalle de las 
+evaluaciones mensuales de 
+su 
+representada 
+en 
+la 
+prestación 
+de 
+CPF 
+se 
+encuentra disponible en el 
+siguiente enlace: Índices de 
+Desempeño y Disponibilidad 
+de 
+Servicios 
+Complementarios 
+| 
+Coordinador 
+Eléctrico 
+Nacional, por lo que se solicita 
+su consulta y revisión para 
+mayor información. 
+ENEL 
+GENERACIÓN 
+CHILE S.A. 
+TER 
+ATACAMA 
+CC2-TG2 
+CPF+ 
+25,33% 
+66,67% 
+Unidad no realiza CPF cuando las 
+variaciones de frecuencia se 
+encuentran dentro de la banda de 
+0,2 Hz. Además, se recomienda 
+revisar el muestreo y calidad de 
+los registros potencia/frecuencia. 
+ 
+Plan de trabajo fue solicitado por 
+este Coordinador en cartas de 
+Ref. [1] y [2]. 
+Aclaración. 
+ 
+A la fecha de emisión de esta 
+carta se encuentra pendiente 
+el envío del plan de trabajo 
+para TER Atacama CC1 y 
+CC2 y coordinado no ha 
+notificado 
+hallazgos 
+ni 
+tampoco registra mejoras de 
+desempeño, a pesar de que 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta 
+Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas 
+(2) 
+Observación (3) 
+Aclaración a las respuestas 
+recibidas a la solicitud de 
+mejora 
+se ha solicitado en las cartas 
+Ref. [1] y [2]. 
+ 
+El coordinado ha indicado 
+mediante las cartas de las 
+Ref. [3] y [4] que “se están 
+analizando en detalle los 
+registros de la operación de la 
+central en el periodo solicitado 
+y en específico los periodos 
+donde 
+se 
+informa 
+un 
+desempeño deficiente para 
+determinar las condiciones de 
+operación de la central, lo que 
+permitirá definir acciones y 
+planes de mejora en caso de 
+ser requeridos.” lo cual aún 
+está pendiente. 
+ 
+Se reitera que el detalle de las 
+evaluaciones mensuales de 
+su 
+representada 
+en 
+la 
+prestación 
+de 
+CPF 
+se 
+encuentra disponible en el 
+siguiente enlace: Índices de 
+Desempeño y Disponibilidad 
+de 
+Servicios 
+Complementarios 
+| 
+Coordinador 
+Eléctrico 
+Nacional, por lo que se solicita 
+su consulta y revisión para 
+mayor información. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta 
+Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas 
+(2) 
+Observación (3) 
+Aclaración a las respuestas 
+recibidas a la solicitud de 
+mejora 
+ACCIONA 
+ENERGÍA 
+CHILE 
+HOLDINGS 
+S.A. 
+PE TOLPAN 
+SUR (U1-
+U28) 
+CPF+ 
+46,38% 
+40,67% 
+Unidad no realiza CPF cuando las 
+variaciones de frecuencia se 
+encuentran dentro de la banda de 
+0,2 Hz. Además, se recomienda 
+revisar el muestreo y calidad de 
+los registros potencia/frecuencia. 
+No aplica. 
+ENEL GREEN 
+POWER 
+CHILE S.A. 
+PFV DON 
+HUMBERTO 
+CPF+ 
+28,46% 
+47,44% 
+Unidad no realiza CPF cuando las 
+variaciones de frecuencia se 
+encuentran dentro de la banda de 
+0,2 Hz. Además, se recomienda 
+revisar el muestreo y calidad de 
+los registros potencia/frecuencia. 
+No aplica. 
+ENEL 
+GENERACIÓN 
+CHILE S.A. 
+TER 
+QUINTERO 
+U2 
+CPF+ 
+52,41% 
+40,15% 
+Unidad no realiza CPF cuando las 
+variaciones de frecuencia se 
+encuentran dentro de la banda de 
+0,2 Hz. Además, se recomienda 
+revisar el muestreo y calidad de 
+los registros potencia/frecuencia. 
+No aplica. 
+ENGIE 
+ENERGÍA 
+CHILE S.A. 
+PE KALLPA 
+(U1-U19) 
+CPF+ 
+28,21% 
+90,67% 
+Unidad no realiza CPF cuando las 
+variaciones de frecuencia se 
+encuentran dentro de la banda de 
+0,2 Hz. Además, se recomienda 
+revisar el muestreo y calidad de 
+los registros potencia/frecuencia. 
+ 
+Plan de trabajo fue solicitado por 
+este Coordinador en carta de Ref. 
+[2]. 
+Aclaración. 
+ 
+El coordinado responde a la 
+solicitud de plan de trabajo de 
+carta Ref. [2] mediante la carta 
+de la Ref. [7]. 
+ 
+Se 
+consigna 
+el 
+hallazgo 
+indicado por su representada, 
+el cual indica que el bajo 
+desempeño se explica por 
+problemas en el cálculo de 
+potencia disponible en función 
+del 
+recurso, 
+el 
+cual 
+es 
+realizado por el PPC.   
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta 
+Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas 
+(2) 
+Observación (3) 
+Aclaración a las respuestas 
+recibidas a la solicitud de 
+mejora 
+El 
+plan 
+de 
+trabajo 
+para 
+solucionar 
+esta 
+situación 
+indica fecha de finalización el 
+31-03-2026. 
+ 
+Dicho 
+lo 
+anterior 
+este 
+Coordinador aclara que el 
+Aporte de CPF de un parque 
+ERV 
+o 
+BESS 
+debe 
+ser 
+simétrico en todo su rango de 
+operación, es decir, no debe 
+depender 
+de 
+la 
+potencia 
+disponible de la central. En 
+función de lo comentado por 
+su representada en la carta 
+Ref. [7] se desprende que no 
+se resolverá el problema de la 
+mala 
+evaluación 
+del 
+desempeño CPF. 
+ 
+Dicho lo anterior se solicita 
+adecuar 
+las 
+acciones 
+correctivas 
+a 
+aplicar, 
+de 
+manera de dar solución al mal 
+desempeño de la central.  
+Adicionalmente 
+se 
+solicita 
+informar el estado de avance 
+del plan. 
+ 
+(1) Corresponde al promedio simple de las respuestas menores o iguales a 75% del indicador de respuesta horario del servicio 
+complementario para la unidad indicada en el periodo indicado (febrero 2026). No se consideran evaluaciones de categoría “No 
+Participa” y “No Verificable”. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+(2) Corresponde al cociente entre el número de evaluaciones con un indicador de respuesta menor a 75% y el total de horas instruidas a 
+la instalación. 
+(3) Se considera que la unidad no realiza CPF cuando no responde ante variaciones de frecuencia y/o no aporta lo comprometido ante 
+desviaciones de frecuencia. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Anexo 2: Unidades generadoras con mal desempeño en CTF durante el mes de febrero 2026. 
+ 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+TER CMPC 
+LAJA U1 
+CTF+ 
+0% 
+69,23% 
+Unidad no ajusta ni 
+mantiene su despacho 
+en función de lo 
+solicitado por CDC en los 
+tiempos requeridos. 
+Aclaración. 
+ 
+El coordinado responde a la 
+solicitud de plan de trabajo de 
+carta Ref. [2] mediante la 
+carta de la Ref. [5]. 
+ 
+Su representada indica que 
+por 
+las 
+siguientes 
+condiciones no cumplió con 
+lo instruido por CDC durante 
+el pasado mes de enero 
+2026, 
+los 
+cuales 
+se 
+encuentran registrados en 
+Neomante adecuadamente1. 
+ 
+- 
+Mantenimiento 
+Mayor 
+propuesto por fabricante para 
+TG3 válidamente declaradas 
+en Neomante y finalizadas el 
+16 de diciembre 2025. 
+ 
+- Perturbaciones del proceso 
+de vapor derivadas en Fallas 
+internas en el proceso.  
+ 
+-Eventos 
+externos 
+correspondientes al sistema 
+de transmisión, debido a 
+ 
+1 Solicitudes Neomante N°2026000056, 2026000056, 2026000193, 2026000193, 2026000674, 2026000677 y 2025108738. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+fallas 
+por 
+tormentas 
+eléctricas en Línea 220kV 
+Charrúa – Celulosa Santa Fe.  
+ 
+Dicho 
+lo 
+anterior, 
+este 
+Coordinador aclara que los 
+antecedentes enviados por 
+su representada no abordan 
+el mal desempeño de sus 
+unidades, ya que estas no 
+fueron instruidas durante la 
+vigencia de las solicitudes 
+Neomante informadas. 
+ 
+En línea con lo anterior y a 
+modo de ejemplo, entre el 04 
+y 09 de enero de 2026 la 
+central fue instruida 9 veces y 
+en 
+las 
+9 
+no 
+presentó 
+movimiento 
+alguno 
+de 
+potencia activa, caso similar 
+entre el 14 y 23 de enero con 
+6 incumplimientos para 9 
+instrucciones. Estos hechos 
+no 
+tienen 
+ninguna 
+justificación 
+técnica 
+ni 
+tampoco 
+respaldo 
+en 
+Neomante 
+y 
+es 
+un 
+comportamiento 
+constante 
+que se observa durante 2026 
+según la carta Ref. [2] y la 
+presente. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+Dicho lo anterior se solicita el 
+envío de las causas que 
+provocan el no cumplimiento 
+de las instrucciones junto con 
+el plan de trabajo asociado a 
+su normalización. 
+ 
+Se reitera que en caso de 
+ingresar una solicitud en 
+Neomante su representada 
+debe 
+rellenar 
+el 
+campo 
+“Afecta SSCC”. Si la solicitud 
+impide a la unidad prestar el 
+servicio esta categoría debe 
+ser 
+rellenada 
+con 
+“Deshabilitado”. 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+TER CMPC 
+LAJA U2 
+CTF+ 
+0% 
+69,23% 
+Unidad no ajusta ni 
+mantiene su despacho 
+en función de lo 
+solicitado por CDC en los 
+tiempos requeridos. 
+Aclaración. 
+ 
+El coordinado responde a la 
+solicitud de plan de trabajo de 
+carta Ref. [2] mediante la 
+carta de la Ref. [5]. 
+ 
+Su representada indica que 
+no cumplió con lo instruido 
+por CDC durante el pasado 
+mes de enero 2026 por las 
+siguientes condiciones, los 
+cuales 
+se 
+encuentran 
+registrados 
+en 
+Neomante 
+adecuadamente2: 
+ 
+ 
+2 Solicitudes Neomante N°2026000056, 2026000056, 2026000193, 2026000193, 2026000674, 2026000677 y 2025108738. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+- 
+Mantenimiento 
+Mayor 
+propuesto por fabricante para 
+TG3 válidamente declaradas 
+en Neomante y finalizadas el 
+16 de diciembre 2025. 
+ 
+- Perturbaciones del proceso 
+de vapor derivadas en Fallas 
+internas en el proceso.  
+ 
+-Eventos 
+externos 
+correspondientes al sistema 
+de transmisión, debido a 
+fallas 
+por 
+tormentas 
+eléctricas en Línea 220kV 
+Charrúa – Celulosa Santa Fe.  
+ 
+Dicho 
+lo 
+anterior, 
+este 
+Coordinador aclara que los 
+antecedentes enviados por 
+su representada no abordan 
+el mal desempeño de sus 
+unidades, ya que estas no 
+fueron instruidas durante la 
+vigencia de las solicitudes 
+Neomante informadas. 
+ 
+En línea con lo anterior y a 
+modo de ejemplo, entre el 04 
+y 09 de enero de 2026 la 
+central fue instruida 9 veces y 
+en 
+las 
+9 
+no 
+presentó 
+movimiento 
+alguno 
+de 
+potencia activa, caso similar 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+entre el 14 y 23 de enero con 
+6 incumplimientos para 9 
+instrucciones. Estos hechos 
+no 
+tienen 
+ninguna 
+justificación 
+técnica 
+ni 
+tampoco 
+respaldo 
+en 
+Neomante 
+y 
+es 
+un 
+comportamiento 
+constante 
+que se observa durante 2026 
+según la carta Ref. [2] y la 
+presente. 
+ 
+Dicho lo anterior se solicita el 
+envío de las causas que 
+provocan el no cumplimiento 
+de las instrucciones junto con 
+el plan de trabajo asociado. 
+ 
+Se reitera que en caso de 
+ingresar una solicitud en 
+Neomante su representada 
+debe 
+rellenar 
+el 
+cambio 
+“Afecta SSCC”. Si la solicitud 
+impide a la unidad prestar el 
+servicio esta categoría debe 
+ser 
+rellenada 
+con 
+“Deshabilitado”. 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+TER SANTA FE 
+U1 
+CTF+ 
+40,55% 
+68,42% 
+Unidad no ajusta ni 
+mantiene su despacho 
+en función de lo 
+solicitado por CDC en los 
+tiempos requeridos. 
+ 
+Aclaración. 
+ 
+El coordinado responde a la 
+solicitud de plan de trabajo de 
+carta Ref. [2] mediante la 
+carta de la Ref. [5]. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+Plan de trabajo fue 
+solicitado en carta de 
+Ref. [1] y [2] 
+Los antecedentes recibidos 
+indican que la zona presentó 
+altas temperaturas lo que 
+afectó 
+la 
+calidad 
+de 
+la 
+biomasa, 
+impidiendo 
+la 
+prestación 
+adecuada 
+del 
+servicio, junto con la falla de 
+la Línea 220 kV Charrúa-
+Santa Fe, los cuales se 
+encuentran registrados en 
+Neomante adecuadamente3. 
+ 
+Dicho 
+lo 
+anterior, 
+este 
+Coordinador aclara que los 
+antecedentes enviados por 
+su representada no abordan 
+el mal desempeño de sus 
+unidades, ya que estas no 
+fueron instruidas durante la 
+vigencia de las solicitudes 
+Neomante informadas. 
+ 
+En línea con lo anterior y a 
+modo de ejemplo, entre el 09 
+y 29 de enero de 2026 la 
+central fue instruida 23 veces 
+y en 18 no fue capaz de 
+alcanzar 
+la 
+consigna 
+solicitada. Estos hechos no 
+tienen ninguna justificación 
+técnica ni tampoco respaldo 
+en 
+Neomante 
+y 
+es 
+un 
+ 
+3 Solicitudes Neomante N° 2026000039, 2026000042, 2026000686 y 2026000688. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+comportamiento 
+constante 
+que se observa durante 2026 
+según la carta Ref. [2] y la 
+presente. 
+ 
+Dicho lo anterior se solicita 
+aclarar 
+las 
+causas 
+que 
+provocan el no cumplimiento 
+de las instrucciones junto con 
+el plan de trabajo asociado 
+para mejorar esta condición. 
+ 
+Se reitera que en caso de 
+ingresar una solicitud en 
+Neomante su representada 
+debe 
+rellenar 
+el 
+cambio 
+“Afecta SSCC”. Si la solicitud 
+impide a la unidad prestar el 
+servicio esta categoría debe 
+ser 
+rellenada 
+con 
+“Deshabilitado”. 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+TER CMPC 
+PACIFICO U1 
+CTF+ 
+22,22% 
+56,25% 
+Unidad no ajusta ni 
+mantiene su despacho 
+en función de lo 
+solicitado por CDC en los 
+tiempos requeridos. 
+ 
+Plan de trabajo fue 
+solicitado en carta de 
+Ref. [1] y [2] 
+Aclaración. 
+ 
+El coordinado responde a la 
+solicitud de plan de trabajo de 
+carta Ref. [2] mediante la 
+carta de la Ref. [5]. 
+ 
+Su representada indica que 
+no cumplió con lo instruido 
+por CDC durante el pasado 
+mes de enero 2026 por las 
+siguientes condiciones, los 
+cuales 
+se 
+encuentran 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+registrados 
+en 
+Neomante 
+adecuadamente4: 
+ 
+- Vibraciones en el descanso 
+de la turbina U1. 
+ 
+- Perturbaciones del proceso 
+de vapor derivadas en Fallas 
+internas en el proceso.  
+ 
+-Eventos 
+externos 
+correspondientes al sistema 
+de transmisión, debido a 
+fallas 
+por 
+tormentas 
+eléctricas en Línea 220kV 
+Charrúa – Celulosa Santa Fe.  
+ 
+Dicho 
+lo 
+anterior, 
+este 
+Coordinador aclara que los 
+antecedentes enviados por 
+su representada no abordan 
+el mal desempeño de sus 
+unidades, ya que estas no 
+fueron instruidas durante la 
+vigencia de las solicitudes 
+Neomante informadas. 
+ 
+En línea con lo anterior y a 
+modo de ejemplo, entre el 01 
+y 12 de enero de 2026 la 
+central fue instruida 14 veces 
+ 
+4 Solicitudes Neomante N° 2026000248, 2026000680, 2026000682, 2026000248, 2026000213, 2026000177 y 2026000098. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+y en las 14 no fue capaz de 
+alcanzar 
+la 
+consigna 
+solicitada, caso similar entre 
+el 17 y 22 de enero con 5 
+incumplimientos 
+para 
+7 
+instrucciones. Estos hechos 
+no 
+tienen 
+ninguna 
+justificación 
+técnica 
+ni 
+tampoco 
+respaldo 
+en 
+Neomante 
+y 
+es 
+un 
+comportamiento 
+constante 
+que se observa durante 2026 
+según la carta Ref. [2] y la 
+presente. 
+ 
+Dicho lo anterior se solicita 
+aclarar 
+las 
+causas 
+que 
+provocan el no cumplimiento 
+de las instrucciones junto con 
+el plan de trabajo asociado 
+para mejorar esta condición. 
+ 
+Se reitera que en caso de 
+ingresar una solicitud en 
+Neomante su representada 
+debe 
+rellenar 
+el 
+cambio 
+“Afecta SSCC”. Si la solicitud 
+impide a la unidad prestar el 
+servicio esta categoría debe 
+ser 
+rellenada 
+con 
+“Deshabilitado”. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+TER CMPC 
+PACIFICO U2 
+CTF+ 
+22,22% 
+56,25% 
+Unidad no ajusta ni 
+mantiene su despacho 
+en función de lo 
+solicitado por CDC en los 
+tiempos requeridos. 
+ 
+Plan de trabajo fue 
+solicitado en carta de 
+Ref. [1]. 
+Aclaración. 
+ 
+El coordinado responde a la 
+solicitud de plan de trabajo de 
+carta Ref. [2] mediante la 
+carta de la Ref. [5]. 
+ 
+Su representada indica que 
+no cumplió con lo instruido 
+por CDC durante el pasado 
+mes de enero 2026 por las 
+siguientes condiciones, los 
+cuales 
+se 
+encuentran 
+registrados 
+en 
+Neomante 
+adecuadamente5: 
+ 
+- Vibraciones en el descanso 
+de la turbina U1. 
+ 
+- Perturbaciones del proceso 
+de vapor derivadas en Fallas 
+internas en el proceso.  
+ 
+-Eventos 
+externos 
+correspondientes al sistema 
+de transmisión, debido a 
+fallas 
+por 
+tormentas 
+eléctricas en Línea 220kV 
+Charrúa – Celulosa Santa Fe.  
+ 
+ 
+5 Solicitudes Neomante N° 2026000248, 2026000680, 2026000682, 2026000248, 2026000213, 2026000177 y 2026000098. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+Dicho 
+lo 
+anterior, 
+este 
+Coordinador aclara que los 
+antecedentes enviados por 
+su representada no abordan 
+el mal desempeño de sus 
+unidades, ya que estas no 
+fueron instruidas durante la 
+vigencia de las solicitudes 
+Neomante informadas. 
+ 
+En línea con lo anterior y a 
+modo de ejemplo, entre el 01 
+y 12 de enero de 2026 la 
+central fue instruida 14 veces 
+y en las 14 no fue capaz de 
+alcanzar 
+la 
+consigna 
+solicitada, caso similar entre 
+el 17 y 22 de enero con 5 
+incumplimientos 
+para 
+7 
+instrucciones. Estos hechos 
+no 
+tienen 
+ninguna 
+justificación 
+técnica 
+ni 
+tampoco 
+respaldo 
+en 
+Neomante 
+y 
+es 
+un 
+comportamiento 
+constante 
+que se observa durante 2026 
+según la carta Ref. [2] y la 
+presente. 
+ 
+Dicho lo anterior se solicita 
+aclarar 
+las 
+causas 
+que 
+provocan el no cumplimiento 
+de las instrucciones junto con 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+el plan de trabajo asociado 
+para mejorar esta condición. 
+ 
+Se reitera que en caso de 
+ingresar una solicitud en 
+Neomante su representada 
+debe 
+rellenar 
+el 
+cambio 
+“Afecta SSCC”. Si la solicitud 
+impide a la unidad prestar el 
+servicio esta categoría debe 
+ser 
+rellenada 
+con 
+“Deshabilitado”. 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+TER CMPC 
+PACIFICO U3 
+CTF+ 
+22,22% 
+56,25% 
+Unidad no ajusta ni 
+mantiene su despacho 
+en función de lo 
+solicitado por CDC en los 
+tiempos requeridos. 
+ 
+Plan de trabajo fue 
+solicitado en carta de 
+Ref. [1]. 
+Aclaración. 
+ 
+El coordinado responde a la 
+solicitud de plan de trabajo de 
+carta Ref. [2] mediante la 
+carta de la Ref. [5]. 
+ 
+Su representada indica que 
+no cumplió con lo instruido 
+por CDC durante el pasado 
+mes de enero 2026 por las 
+siguientes condiciones, los 
+cuales 
+se 
+encuentran 
+registrados 
+en 
+Neomante 
+adecuadamente6: 
+ 
+- Vibraciones en el descanso 
+de la turbina U1. 
+ 
+6 Solicitudes Neomante N° 2026000248, 2026000680, 2026000682, 2026000248, 2026000213, 2026000177 y 2026000098. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+ 
+- Perturbaciones del proceso 
+de vapor derivadas en Fallas 
+internas en el proceso.  
+ 
+-Eventos 
+externos 
+correspondientes al sistema 
+de transmisión, debido a 
+fallas 
+por 
+tormentas 
+eléctricas en Línea 220kV 
+Charrúa – Celulosa Santa Fe.  
+ 
+Dicho 
+lo 
+anterior, 
+este 
+Coordinador aclara que los 
+antecedentes enviados por 
+su representada no abordan 
+el mal desempeño de sus 
+unidades, ya que estas no 
+fueron instruidas durante la 
+vigencia de las solicitudes 
+Neomante informadas. 
+ 
+En línea con lo anterior y a 
+modo de ejemplo, entre el 01 
+y 12 de enero de 2026 la 
+central fue instruida 14 veces 
+y en las 14 no fue capaz de 
+alcanzar 
+la 
+consigna 
+solicitada, caso similar entre 
+el 17 y 22 de enero con 5 
+incumplimientos 
+para 
+7 
+instrucciones. Estos hechos 
+no 
+tienen 
+ninguna 
+justificación 
+técnica 
+ni 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Respuesta Horaria 
+Promedio bajo 
+75%(1) 
+Proporción de 
+respuestas bajo 75% 
+con respecto al total 
+de horas instruidas (2) 
+Observación 
+Aclaración a las 
+respuestas recibidas a la 
+solicitud de mejora 
+tampoco 
+respaldo 
+en 
+Neomante 
+y 
+es 
+un 
+comportamiento 
+constante 
+que se observa durante 2026 
+según la carta Ref. [2] y la 
+presente. 
+ 
+Dicho lo anterior se solicita 
+aclarar 
+las 
+causas 
+que 
+provocan el no cumplimiento 
+de las instrucciones junto con 
+el plan de trabajo asociado 
+para mejorar esta condición. 
+ 
+Se reitera que en caso de 
+ingresar una solicitud en 
+Neomante su representada 
+debe 
+rellenar 
+el 
+cambio 
+“Afecta SSCC”. Si la solicitud 
+impide a la unidad prestar el 
+servicio esta categoría debe 
+ser 
+rellenada 
+con 
+“Deshabilitado”. 
+ARCADIA 
+GENERACIÓN 
+SOLAR S.A. 
+PFV PAMPA 
+SOLAR NORTE 
+CTF+ 
+40,74% 
+40,91% 
+Unidad no ajusta ni 
+mantiene su despacho 
+en función de lo 
+solicitado por CDC en los 
+tiempos requeridos. 
+No aplica. 
+ 
+(1) Corresponde al promedio simple de las respuestas menores o iguales a 75% del indicador de respuesta horario del servicio 
+complementario para la unidad indicada para el periodo indicado. No se consideran evaluaciones de categoría “No Participa” y “No 
+Verificable”. 
+(2) Corresponde al cociente entre el número de evaluaciones con un indicador de respuesta menor a 75% y el total de horas instruidas a 
+la instalación. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Anexo 3: Unidades generadoras con mal desempeño en CT durante el mes de febrero 2026. 
+ 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Proporción de 
+respuestas en 
+categoría “No 
+Cumple” respecto al 
+total de respuestas 
+Observación 
+Aclaración a las respuestas 
+recibidas a la solicitud de 
+mejora 
+GENERADORA 
+METROPOLITANA 
+SPA 
+TER NUEVA 
+RENCA CC1-TG y 
+TV 
+CT Manual 
+4 de 5 (80,00%) y 2 
+de 5 (40,00%) 
+respectivamente  
+Unidad presenta instrucciones evaluadas 
+en categoría “No Cumple”. 
+  
+La evaluación se produce porque la 
+unidad no cumple con lo solicitado por 
+CDC a pesar de que presenta margen 
+para inyectar o absorber reactivos para 
+cumplir la instrucción. 
+ 
+Plan de trabajo fue solicitado en carta de 
+Ref. [1] y su reporte de avance fue 
+solicitado en carta de Ref. [2]. 
+ 
+Debe revisar su curva PQ y enviar una 
+provisoria que considere la limitación 
+dada por el tap informado en las cartas 
+Ref. [1] y [2], ya que la unidad seguirá 
+siendo instruida a prestar servicio de 
+control de tensión. 
+ 
+Aclaración. 
+ 
+El coordinado responde a la 
+solicitud de actualización de 
+avances mediante la carta de la 
+Ref. [6]. 
+ 
+Coordinado 
+indica 
+que 
+el 
+problema original consiste en 
+que en los bornes de TER 
+Nueva Renca TG y TV se 
+encuentra conectada una barra 
+de 
+6,6kV 
+mediante 
+un 
+cambiador 
+de 
+tap 
+para 
+energizar 
+sus 
+SSAA. 
+Este 
+equipo presenta un margen de 
+seguridad 
+que 
+limita 
+la 
+operación de la central y su 
+desempeño 
+en 
+el 
+servicio 
+complementario de control de 
+tensión. 
+ 
+El plan de trabajo original 
+finalizaba el 21 de abril de 2026 
+y ahora el período se extiende 
+hasta el 29 de diciembre de 
+2026 debido a que ingresará a 
+Mantenimiento 
+Mayor 
+Programado 
+en 
+septiembre 
+2026.  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Proporción de 
+respuestas en 
+categoría “No 
+Cumple” respecto al 
+total de respuestas 
+Observación 
+Aclaración a las respuestas 
+recibidas a la solicitud de 
+mejora 
+ 
+En función de lo anterior se 
+solicita lo siguiente: 
+1. Enviar la curva PQ 
+provisoria 
+que 
+considere la limitación 
+provocada por el tap el 
+día 01 de abril de 2026. 
+Lo anterior debido a 
+que 
+se 
+requiere 
+información ajustada a 
+la operación real de la 
+máquina para la toma 
+de 
+decisiones 
+operacionales por parte 
+de este Coordinador.  
+ 
+2. Indicar claramente el 
+trabajo que se realizará 
+para 
+solucionar 
+de 
+manera definitiva esta 
+limitación. La carta de 
+Ref. [6] no menciona si 
+el tap será cambiado 
+por un equipo nuevo u 
+otra acción. 
+Al no existir claridad 
+sobre 
+el 
+trabajo 
+a 
+realizar 
+este 
+Coordinador considera 
+excesivo el aumento de 
+plazo (abril a diciembre) 
+para el cierre del plan.  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+Instalación 
+Servicio 
+Complementario 
+Proporción de 
+respuestas en 
+categoría “No 
+Cumple” respecto al 
+total de respuestas 
+Observación 
+Aclaración a las respuestas 
+recibidas a la solicitud de 
+mejora 
+ 
+3. Se solicita informar el 
+estado de avance del 
+plan a la fecha. 

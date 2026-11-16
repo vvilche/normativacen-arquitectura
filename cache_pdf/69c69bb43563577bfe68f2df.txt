@@ -1,0 +1,80 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 26 de marzo de 2026 
+DE 01982-26 
+ 
+Señor 
+Víctor Gutiérrez González 
+Encargado Titular 
+Compañía General de Electricidad S.A. 
+Presente 
+ 
+ 
+Ref.: EAF 044-2026 - Apertura 
+intempestiva de interruptor 52CT1 
+de S/E Loreto. 
+[1] Oficio Ord. N°324098 de fecha 
+20 de marzo de 2026. 
+ 
+De mi consideración: 
+ 
+Me refiero a la apertura intempestiva de interruptor 52CT1 de S/E Loreto, ocurrida 
+a las 21:18 horas del día 27 de enero de 2026, evento en el cual resultaron 
+afectadas instalaciones de su representada. 
+ 
+Al respecto, con el objetivo de aclarar debidamente las causas y consecuencias 
+del evento en cuestión, en conformidad con lo que establece el Título 6-7, y en 
+particular, el Artículo 6-44 de la Norma Técnica de Seguridad y Calidad de 
+Servicio, y en virtud de las modificaciones aplicadas al proceso de los Estudios 
+para Análisis de Falla, instruidas por la Superintendencia de Electricidad y 
+Combustibles (SEC) mediante las Resoluciones Exentas N°30989-2019 y 
+N°30891-2019 solicito a usted remitir al Coordinador, antes de las 18:00 horas 
+del día 08 de abril de 2026,  la siguiente información, habida cuenta de lo 
+solicitado por la SEC en el oficio de la Ref. [1] adjunto a la presente comunicación: 
+ 
+• Indicar el registro de alguna gestión o instancia de coordinación por parte de 
+CGE Transmisión S.A. y su representada, en el marco del procedimiento 
+aplicable a desconexiones programadas que motiva las transferencias de carga 
+en el segmento de distribución de otras instalaciones hacia S/E Loreto. 
+Además, el detalle de los consumos pactados en las transferencias de carga 
+entre las SS/EE involucradas. 
+• Según lo señalado en su Informe de Fallas de 5 días, se indica que los PMGD’s 
+conectados a las redes de distribución son: Acacia Solar, Coltauco Almendro, 
+Cara de Gallo y El Interlocutor, sin embargo, del sistema de medidas del 
+Coordinador se observa el punto de medida del PMGD FV Pequén. Favor 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+confirman lo anterior y aclarar e indicar a qué alimentador está asociada esta 
+última central. 
+• Remitir un diagrama geográfico de todas las instalaciones que participaron en el 
+evento. 
+o Se solicita remitir un diagrama detallado con la topología normal de los 
+alimentadores asociados a S/E Loreto y a otras instalaciones. 
+o Se solicita remitir un diagrama detallado con los traspasos de carga con 
+ocasión de los trabajos programados en redes de distribución. 
+o En ambos diagramas se solicita identificar claramente el nombre de los 
+alimentadores y los PMGD’s conectados a los mismos. 
+• Se solicita remitir los montos de potencia de los alimentadores de S/E Loreto 
+durante el día 27 de enero de 2026 y la potencia de los PMGD’s conectados a 
+dichos alimentadore en formato Excel.  
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+Incl.: Lo indicado. 
+c.c.:  
+Sr. Claudio Metayer Guerrero - Encargado Suplente Compañía General de Electricidad S.A. 
+DAOP/cgl 

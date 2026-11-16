@@ -1,0 +1,283 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Radar Normativo CEN — 2026-11-16</title>
+<style>
+:root{--ink:#1a1a1a;--dim:#6b6b6b;--line:#e4e4e7;--bg:#fafafa;--accent:#185fa5}
+*{box-sizing:border-box}
+body{margin:0;font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,sans-serif;
+color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+.wrap{max-width:1080px;margin:0 auto;padding:32px 24px 80px}
+h1{font-size:23px;font-weight:650;margin:0 0 4px;letter-spacing:-.01em}
+.sub{color:var(--dim);font-size:13.5px;margin-bottom:26px}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:14px}
+.kpi{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.kpi .n{font-size:26px;font-weight:650;letter-spacing:-.02em;line-height:1.15}
+.kpi .l{font-size:11.5px;color:var(--dim);text-transform:uppercase;letter-spacing:.04em;margin-top:3px}
+.kpi .h{font-size:11.5px;color:var(--dim);margin-top:6px}
+.leyenda{display:flex;flex-wrap:wrap;gap:16px;margin:18px 0 26px;font-size:12.5px;color:var(--dim)}
+.lg{display:flex;align-items:center;gap:6px}
+.lg i{width:9px;height:9px;border-radius:50%;display:inline-block}
+h2{font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--dim);
+font-weight:600;margin:30px 0 10px}
+details.prod{background:#fff;border:1px solid var(--line);border-radius:10px;margin-bottom:8px;overflow:hidden}
+details.prod[open]{border-color:#c9c9cf}
+summary{cursor:pointer;padding:13px 16px;display:grid;grid-template-columns:110px 1fr auto;
+align-items:center;gap:14px;list-style:none}
+summary::-webkit-details-marker{display:none}
+summary:hover{background:#fcfcfd}
+.pname{font-weight:650;font-size:14.5px}
+.psub{font-size:12.5px;color:var(--dim)}
+.counts{display:flex;gap:7px;align-items:center}
+.c{font-size:11.5px;font-weight:600;padding:2px 8px;border-radius:20px;background:#f2f2f4}
+.c.red{background:#fdecea;color:#c0392b} .c.org{background:#fef2e6;color:#d35400}
+.c.pur{background:#f5eafb;color:#8e44ad} .c.grey{background:#f2f2f4;color:#555}
+.body{padding:2px 16px 16px;border-top:1px solid var(--line)}
+.sol{font-size:13px;margin:12px 0 3px}
+.sol.dim{color:var(--dim);font-size:12px;margin-bottom:12px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--dim);
+font-weight:600;padding:6px 8px;border-bottom:1px solid var(--line)}
+td{padding:7px 8px;border-bottom:1px solid #f2f2f4;vertical-align:top}
+tr:last-child td{border-bottom:none}
+.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.corr{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px;color:var(--dim)}
+.pill{font-size:11px;font-weight:600;color:#fff;padding:2px 8px;border-radius:20px;white-space:nowrap}
+.nota{margin-top:10px;font-size:11.5px;color:#8a6d00;background:#fffbf0;border-left:3px solid #e6c34a;
+padding:7px 10px;border-radius:0 5px 5px 0}
+.warn{background:#fff4f4;border:1px solid #f0c2c2;border-left:3px solid #c0392b;padding:10px 13px;
+border-radius:0 6px 6px 0;font-size:12.5px;margin-bottom:18px}
+footer{margin-top:38px;padding-top:16px;border-top:1px solid var(--line);font-size:11.5px;color:var(--dim)}
+footer a{color:var(--accent)}
+@media(max-width:720px){.kpis{grid-template-columns:repeat(2,1fr)}
+summary{grid-template-columns:1fr;gap:6px}}
+</style></head><body><div class="wrap">
+
+<h1>Radar Normativo CEN</h1>
+<div class="sub">Qué le pidió el Coordinador a quién, sobre qué producto normativo, y quién está al debe.
+Generado 2026-11-16 08:01 · cartas del 2025-01-02 al 2026-11-15</div>
+
+<div class="kpis">
+  <div class="kpi"><div class="n">12298</div><div class="l">Requermientos vivos</div>
+    <div class="h">sin respuesta + reiterados + reabiertos</div></div>
+  <div class="kpi"><div class="n">981</div><div class="l">Coordinados involucrados</div>
+    <div class="h">con al menos una carta por responder</div></div>
+  <div class="kpi"><div class="n">$20.813.070</div><div class="l">Valor de línea (USD)</div>
+    <div class="h">suma de valores de producto, NO pipeline real</div></div>
+  <div class="kpi"><div class="n">14,258</div><div class="l">Documentos leídos</div>
+    <div class="h">5618 con texto de PDF</div></div>
+</div>
+
+<div class="warn">Cruce con Odoo: <b>no ejecutado</b> (no_solicitado). Las cuentas de abajo no distinguen cliente / pipeline / prospecto.</div>
+
+<div class="leyenda"><span class="lg"><i style="background:#c0392b"></i>Sin respuesta: El CEN se lo pidió y el coordinado no ha respondido.</span><span class="lg"><i style="background:#d35400"></i>Reiterado: El CEN insistió: 2 o más cartas sobre lo mismo.</span><span class="lg"><i style="background:#8e44ad"></i>Reabierto: Respondió y el CEN volvió a escribirle.</span><span class="lg"><i style="background:#1e8449"></i>Respondido: Respondió y el CEN cerró.</span></div>
+
+<h2>Por producto normativo</h2>
+
+<details class="prod">
+ <summary>
+   <span class="pname">SCADA</span>
+   <span class="psub">SCADA — Plataforma de operación</span>
+   <span class="counts">
+     <span class="c red">881</span>
+     <span class="c org">1172</span>
+     <span class="c pur">861</span>
+     <span class="c grey">2914 vivas / 1192 req</span>
+   </span>
+ </summary>
+ <div class="body">
+   <div class="sol"><b>Solución CONECTA:</b> Gateway SCADA→CEN, Tier0 UNS, arquitectura de comunicaciones</div>
+   <div class="sol dim"><b>Norma:</b> ATSM · 453 empresas · última carta 2026-10-28</div>
+   <table>
+     <thead><tr><th>Coordinado</th><th>Estado</th><th>Reqs</th><th>Valor línea</th><th>Correlativos</th></tr></thead>
+     <tbody><tr><td>Aela Generación S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">2</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$13.820</td><td class="corr">DE02657-25, DE03432-25</td></tr><tr><td>SOLAR LOS LOROS SPA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">1</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$13.820</td><td class="corr">DE07785-25</td></tr><tr><td>Contac Ingenieros Ltda.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">1</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$13.820</td><td class="corr">DE05566-26</td></tr></tbody>
+   </table>
+   <div class="nota">+ 46 circular(es) sobre SCADA que piden algo y no se pudo leer su lista de distribución (sin PDF). No están contadas arriba.</div>
+ </div>
+</details>
+<details class="prod">
+ <summary>
+   <span class="pname">SSCC</span>
+   <span class="psub">SSCC — Servicios Complementarios</span>
+   <span class="counts">
+     <span class="c red">903</span>
+     <span class="c org">1100</span>
+     <span class="c pur">567</span>
+     <span class="c grey">2570 vivas / 1297 req</span>
+   </span>
+ </summary>
+ <div class="body">
+   <div class="sol"><b>Solución CONECTA:</b> Medición clase 0,2, protocolo de verificación, CDT/CSF</div>
+   <div class="sol dim"><b>Norma:</b> AT de SSCC · 227 empresas · última carta 2026-11-11</div>
+   <table>
+     <thead><tr><th>Coordinado</th><th>Estado</th><th>Reqs</th><th>Valor línea</th><th>Correlativos</th></tr></thead>
+     <tbody><tr><td></td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">362</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.232</td><td class="corr">DE00007-26, DE00012-26, DE00075-26</td></tr><tr><td>Engie Energía Chile S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">25</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.232</td><td class="corr">DE00204-26, DE01221-26, DE01471-25</td></tr><tr><td>Colbún S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">24</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.232</td><td class="corr">DE00147-25, DE00377-26, DE00795-26</td></tr><tr><td>Enel Green Power Chile S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">20</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.232</td><td class="corr">DE00247-25, DE01266-26, DE01769-26</td></tr><tr><td>Transelec S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">12</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.232</td><td class="corr">DE00041-26, DE01129-26, DE02920-25</td></tr><tr><td>AES ANDES S.A</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">10</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.232</td><td class="corr">DE00041-26, DE00838-25, DE02140-26</td></tr></tbody>
+   </table>
+   <div class="nota">+ 395 circular(es) sobre SSCC que piden algo y no se pudo leer su lista de distribución (sin PDF). No están contadas arriba.</div>
+ </div>
+</details>
+<details class="prod">
+ <summary>
+   <span class="pname">SITR</span>
+   <span class="psub">SITR — Sistema de Información en Tiempo Real</span>
+   <span class="counts">
+     <span class="c red">680</span>
+     <span class="c org">860</span>
+     <span class="c pur">570</span>
+     <span class="c grey">2110 vivas / 900 req</span>
+   </span>
+ </summary>
+ <div class="body">
+   <div class="sol"><b>Solución CONECTA:</b> Gateway SCADA→CEN (Orion RTU / SOLISCADA), señales SSCC, plan de disponibilidad</div>
+   <div class="sol dim"><b>Norma:</b> ATSM / NTSyCS · 374 empresas · última carta 2026-10-28</div>
+   <table>
+     <thead><tr><th>Coordinado</th><th>Estado</th><th>Reqs</th><th>Valor línea</th><th>Correlativos</th></tr></thead>
+     <tbody><tr><td></td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">26</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$11.431</td><td class="corr">DE00244-25, DE00553-26, DE00585-26</td></tr><tr><td>ENEL GENERACIÓN CHILE S.A</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">16</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$11.431</td><td class="corr">DE00654-26, DE00992-26, DE01003-26</td></tr><tr><td>Engie Energía Chile S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">15</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$11.431</td><td class="corr">DE01003-26, DE01004-26, DE01012-26</td></tr><tr><td>Enel Green Power Chile S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">15</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$11.431</td><td class="corr">DE00654-26, DE01003-26, DE01004-26</td></tr><tr><td>ANDES SOLAR II SPA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">12</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$11.431</td><td class="corr">DE01003-26, DE01004-26, DE01012-26</td></tr><tr><td>ARCADIA GENERACION SOLAR S.A</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">11</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$11.431</td><td class="corr">DE01003-26, DE01004-26, DE01012-26</td></tr></tbody>
+   </table>
+   <div class="nota">+ 28 circular(es) sobre SITR que piden algo y no se pudo leer su lista de distribución (sin PDF). No están contadas arriba.</div>
+ </div>
+</details>
+<details class="prod">
+ <summary>
+   <span class="pname">PROTECCIONES</span>
+   <span class="psub">Protecciones / teleprotección</span>
+   <span class="counts">
+     <span class="c red">876</span>
+     <span class="c org">658</span>
+     <span class="c pur">187</span>
+     <span class="c grey">1721 vivas / 1031 req</span>
+   </span>
+ </summary>
+ <div class="body">
+   <div class="sol"><b>Solución CONECTA:</b> Retrofit de relés, backup, análisis de eventos, coordinación</div>
+   <div class="sol dim"><b>Norma:</b> AT de Protecciones · 667 empresas · última carta 2026-08-31</div>
+   <table>
+     <thead><tr><th>Coordinado</th><th>Estado</th><th>Reqs</th><th>Valor línea</th><th>Correlativos</th></tr></thead>
+     <tbody><tr><td>CGE Transmisión S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">12</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE00550-26, DE00586-26, DE02099-26</td></tr><tr><td>Aela Generación S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">8</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE00167-26, DE02241-26, DE03263-26</td></tr><tr><td>Engie Energía Chile S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">5</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE02911-25, DE03421-26, DE04431-26</td></tr><tr><td></td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">5</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE00702-25, DE01276-25, DE01746-25</td></tr><tr><td>Compañía Minera Teck Quebrada Blanca S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">3</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE02080-26, DE04532-25, DE04540-25</td></tr><tr><td>PFV El Cuervo SpA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">3</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE05203-25, DE05310-25, DE05664-25</td></tr></tbody>
+   </table>
+   <div class="nota">+ 14 circular(es) sobre PROTECCIONES que piden algo y no se pudo leer su lista de distribución (sin PDF). No están contadas arriba.</div>
+ </div>
+</details>
+<details class="prod">
+ <summary>
+   <span class="pname">PMU</span>
+   <span class="psub">PMU — Medición Fasorial</span>
+   <span class="counts">
+     <span class="c red">505</span>
+     <span class="c org">621</span>
+     <span class="c pur">544</span>
+     <span class="c grey">1670 vivas / 639 req</span>
+   </span>
+ </summary>
+ <div class="body">
+   <div class="sol"><b>Solución CONECTA:</b> PMU Vizimax + PDC, protocolo de verificación, cierre de implementación</div>
+   <div class="sol dim"><b>Norma:</b> AT de Monitoreo / Módulo Medición Fasorial · 280 empresas · última carta 2026-09-23</div>
+   <table>
+     <thead><tr><th>Coordinado</th><th>Estado</th><th>Reqs</th><th>Valor línea</th><th>Correlativos</th></tr></thead>
+     <tbody><tr><td>Transelec S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">9</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.379</td><td class="corr">DE00900-26, DE02158-25, DE02159-25</td></tr><tr><td>Enel Green Power Chile S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">8</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.379</td><td class="corr">DE00900-26, DE02148-25, DE02168-26</td></tr><tr><td>CGE Transmisión S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">6</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.379</td><td class="corr">DE00900-26, DE02145-25, DE03424-26</td></tr><tr><td>Engie Energía Chile S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">6</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.379</td><td class="corr">DE00900-26, DE02149-25, DE02168-26</td></tr><tr><td>GR Algarrobo SpA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">6</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.379</td><td class="corr">DE02150-25, DE02168-26, DE04823-25</td></tr><tr><td>Tamarico Solar Dos SpA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">6</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$9.379</td><td class="corr">DE00900-26, DE02157-25, DE02168-26</td></tr></tbody>
+   </table>
+   <div class="nota">+ 2 circular(es) sobre PMU que piden algo y no se pudo leer su lista de distribución (sin PDF). No están contadas arriba.</div>
+ </div>
+</details>
+<details class="prod">
+ <summary>
+   <span class="pname">SLRP</span>
+   <span class="psub">SLRP — Sistema de Lectura Remota de Protecciones</span>
+   <span class="counts">
+     <span class="c red">196</span>
+     <span class="c org">167</span>
+     <span class="c pur">155</span>
+     <span class="c grey">518 vivas / 240 req</span>
+   </span>
+ </summary>
+ <div class="body">
+   <div class="sol"><b>Solución CONECTA:</b> Gateway serial→IP (Moxa/SEL-3620), IEC 61850 MMS, COMTRADE. NO es SITR.</div>
+   <div class="sol dim"><b>Norma:</b> ATSM / NTSyCS — Módulo de Registro de Protecciones · 142 empresas · última carta 2026-08-31</div>
+   <table>
+     <thead><tr><th>Coordinado</th><th>Estado</th><th>Reqs</th><th>Valor línea</th><th>Correlativos</th></tr></thead>
+     <tbody><tr><td></td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">7</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE00851-26, DE01500-26, DE03474-26</td></tr><tr><td>Mantos Copper S.A</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">4</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE03748-25, DE03810-25, DE03965-25</td></tr><tr><td>MLP TRANSMISION S.A. (M. Los Pelambres)</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">4</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE03748-25, DE03810-25, DE03965-25</td></tr><tr><td>CODELCO (CORPORACIÓN NACIONAL DEL COBRE)</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">3</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE03748-25, DE03810-25, DE03965-25</td></tr><tr><td>Compañía Contractual Minera Candelaria</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">3</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE03748-25, DE03810-25, DE03965-25</td></tr><tr><td>Compañía Minera Cerro Colorado Ltda</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">3</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$17.421</td><td class="corr">DE03748-25, DE03810-25, DE03965-25</td></tr></tbody>
+   </table>
+   <div class="nota">+ 7 circular(es) sobre SLRP que piden algo y no se pudo leer su lista de distribución (sin PDF). No están contadas arriba.</div>
+ </div>
+</details>
+<details class="prod">
+ <summary>
+   <span class="pname">EDAC</span>
+   <span class="psub">EDAC — Desconexión Automática de Carga</span>
+   <span class="counts">
+     <span class="c red">190</span>
+     <span class="c org">117</span>
+     <span class="c pur">111</span>
+     <span class="c grey">418 vivas / 223 req</span>
+   </span>
+ </summary>
+ <div class="body">
+   <div class="sol"><b>Solución CONECTA:</b> Automatismo EDAC: lógica, pruebas de desconexión, integración SCADA</div>
+   <div class="sol dim"><b>Norma:</b> AT de Automatismos / PDCE · 95 empresas · última carta 2026-09-25</div>
+   <table>
+     <thead><tr><th>Coordinado</th><th>Estado</th><th>Reqs</th><th>Valor línea</th><th>Correlativos</th></tr></thead>
+     <tbody><tr><td></td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">10</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE02052-25, DE02116-25, DE02297-26</td></tr><tr><td>Sociedad Transmisora Metropolitana S.A</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">2</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE01734-25, DE02301-26</td></tr><tr><td>Sistema de Transmisión del Sur S.A</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">1</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE02379-26</td></tr><tr><td>CHILQUINTA TRANSMISIÓN S.A</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">1</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE03806-26</td></tr><tr><td>FOTOVOLTAICA NORTE GRANDE 5 SPA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">1</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE04209-26</td></tr><tr><td>PLANTA SOLAR SAN PEDRO III SPA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">1</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE04209-26</td></tr></tbody>
+   </table>
+   <div class="nota">+ 13 circular(es) sobre EDAC que piden algo y no se pudo leer su lista de distribución (sin PDF). No están contadas arriba.</div>
+ </div>
+</details>
+<details class="prod">
+ <summary>
+   <span class="pname">EDAG</span>
+   <span class="psub">EDAG — Desconexión Automática de Generación</span>
+   <span class="counts">
+     <span class="c red">76</span>
+     <span class="c org">102</span>
+     <span class="c pur">59</span>
+     <span class="c grey">237 vivas / 122 req</span>
+   </span>
+ </summary>
+ <div class="body">
+   <div class="sol"><b>Solución CONECTA:</b> Automatismo EDAG: lógica, pruebas, integración con unidades generadoras</div>
+   <div class="sol dim"><b>Norma:</b> AT de Automatismos / PDCE · 51 empresas · última carta 2026-10-15</div>
+   <table>
+     <thead><tr><th>Coordinado</th><th>Estado</th><th>Reqs</th><th>Valor línea</th><th>Correlativos</th></tr></thead>
+     <tbody><tr><td>Engie Energía Chile S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">6</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE03114-25, DE03638-26, DE04229-25</td></tr><tr><td>CÓNDOR ENERGÍA SPA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">5</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE04229-25, DE04591-25, DE06812-26</td></tr><tr><td>HUEMUL ENERGÍA SPA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">5</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE04229-25, DE04591-25, DE06812-26</td></tr><tr><td>OPDENERGY GENERACIÓN SPA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">5</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE04229-25, DE05770-25, DE06812-26</td></tr><tr><td>GENERACIÓN SOLAR SPA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">4</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE02067-25, DE04229-25, DE04577-25</td></tr><tr><td>PLANTA SOLAR SAN PEDRO III SPA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">4</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$12.558</td><td class="corr">DE02068-25, DE04229-25, DE04576-25</td></tr></tbody>
+   </table>
+   <div class="nota">+ 5 circular(es) sobre EDAG que piden algo y no se pudo leer su lista de distribución (sin PDF). No están contadas arriba.</div>
+ </div>
+</details>
+<details class="prod">
+ <summary>
+   <span class="pname">PRS</span>
+   <span class="psub">PRS — Plan de Recuperación del Servicio</span>
+   <span class="counts">
+     <span class="c red">59</span>
+     <span class="c org">45</span>
+     <span class="c pur">36</span>
+     <span class="c grey">140 vivas / 75 req</span>
+   </span>
+ </summary>
+ <div class="body">
+   <div class="sol"><b>Solución CONECTA:</b> Protocolo de verificación PRS, pruebas de partida autónoma, expediente</div>
+   <div class="sol dim"><b>Norma:</b> AT de SSCC · 30 empresas · última carta 2026-07-30</div>
+   <table>
+     <thead><tr><th>Coordinado</th><th>Estado</th><th>Reqs</th><th>Valor línea</th><th>Correlativos</th></tr></thead>
+     <tbody><tr><td></td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">8</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$13.820</td><td class="corr">DE00699-26, DE03659-26, DE03972-25</td></tr><tr><td>Engie Energía Chile S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">5</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$13.820</td><td class="corr">DE01793-26, DE02308-25, DE02344-25</td></tr><tr><td>Colbún S.A.</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">4</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$13.820</td><td class="corr">DE02308-25, DE02344-25, DE05866-25</td></tr><tr><td>ENEL GENERACIÓN CHILE S.A</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">4</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$13.820</td><td class="corr">DE01793-26, DE02308-25, DE02344-25</td></tr><tr><td>Guacolda Energía SpA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">4</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$13.820</td><td class="corr">DE02308-25, DE02344-25, DE04903-25</td></tr><tr><td>Tamakaya Energía SpA</td><td><span class="pill" style="background:#c0392b">Sin respuesta</span></td><td class="num">4</td><td class="num dim" title="Valor de la línea de producto, no de esta empresa">$13.820</td><td class="corr">DE02308-25, DE02344-25, DE04910-25</td></tr></tbody>
+   </table>
+   <div class="nota">+ 15 circular(es) sobre PRS que piden algo y no se pudo leer su lista de distribución (sin PDF). No están contadas arriba.</div>
+ </div>
+</details>
+
+<footer>
+<p><b>Valor de línea, y hay que leerlo como tal:</b> ~/conecta-agentes/indices/motor_bom_resumen.json (1.133 BOMs reales).
+Cálculo: HH mediana real de la línea de BOM × 0.668 UF/h
+(mezcla 30% senior / 40% A / 30% B) × 40 USD/UF.
+<b>El monto depende del PRODUCTO, no de la empresa</b>: todas las cuentas con el mismo producto
+muestran el mismo valor, porque el dato del CEN no trae el tamaño de cada coordinado. Por eso el
+reporte se ordena por gravedad de la mora, no por monto. Si se necesita un monto por empresa,
+falta cruzarlo con el número de instalaciones de cada coordinado.</p>
+<p><b>Método:</b> cartas ENVIADAS por el CEN que piden algo (excluye las respuestas del propio CEN
+y los acuses de recibo). Una circular afecta a todas las empresas de su Lista de Distribución,
+leída del PDF. Respuesta = carta recibida que cita el correlativo del requerimiento.
+Estado calculado sobre 14,258 documentos
+({&#x27;RECIBIDA&#x27;: 6762, &#x27;DIRECTA&#x27;: 2791, &#x27;CIRCULAR&#x27;: 3726, &#x27;INGRESO&#x27;: 979}); 7783 tienen la materia truncada y sin PDF.</p>
+<p>Fuente: cartas.coordinador.cl · corpus sincronizado en el VPS · proyecto
+~/orca/projects/RadarNormativoCEN</p>
+</footer>
+</div></body></html>

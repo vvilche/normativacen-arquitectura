@@ -1,0 +1,71 @@
+ 
+ 
+ 
+Santiago, 12 de septiembre de 2025 
+Señor 
+Ernesto Huber Jara 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Referencia: Solicitud de verificación de instalaciones para prestación de SSCC – BESS Huatacondo (NUP 4320) 
+ 
+De nuestra consideración. 
+ 
+Gabriel Kaid, Rut número 18.983.384-9, Coordinador Titular del proyecto BESS Huatacondo NUP 4320 de 
+propiedad de AustrianSolar Chile Cuatro SpA, Rut número 76.337.593- 5, ambos domiciliados para estos 
+efectos en calle Magdalena 140, piso 13, oficina 1301, Las Condes, Santiago, a Ud. comunicamos mediante la 
+presente carta que se adjunta la información requerida en el Instructivo Técnico para la verificación de 
+Instalaciones para la prestación de SSCC.  
+ 
+Dentro de la información adjunta, se presenta a la empresa Estudios Eléctricos para ser validado como experto 
+técnico para la verificación de los SSCC del proyecto BESS Huatacondo.  
+ 
+A continuación, se dejan también algunos antecedentes técnicos del proyecto:  
+ 
+Proyecto: BESS Huatacondo 
+NUP: 4320 
+Propietario: AustrianSolar Chile Cuatro SpA 
+Potencia: 98 MW 
+Energía: 312 MWh, 3,18 horas de respaldo 
+Baterías: Canadian Solar  
+Inversores: Power Electronics 
+Transformadores: Power Electronics 
+Transformadores auxiliares: Rhona 
+SCADA: Inacces 
+Sala Eléctrica/Celdas: Siemens 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Gabriel Kaid Méndez 
+Coordinador Titular  
+BESS Huatacondo NUP 4320 
+Gabriel Kaid (12 sept.. 2025 11:50:48 ADT)
+Gabriel Kaid
+
+Identificacion proyecto BESS Huatacondo
+4320-1
+Informe de auditoría final
+2025-09-12
+Fecha de creación:
+2025-09-12
+Por:
+Gabriel Kaid (g.kaid@tritec-intervento.cl)
+Estado:
+Firmado
+ID de transacción:
+CBJCHBCAABAAy4Jx4Wo00M7W4mcYn3rzmj1LpWgZfdvX
+Historial de “Identificacion proyecto BESS Huatacondo 4320-1”
+Gabriel Kaid (g.kaid@tritec-intervento.cl) ha creado el documento.
+2025-09-12 - 14:50:04 GMT
+El documento se ha enviado por correo electrónico a Gabriel Kaid (g.kaid@tritec-intervento.cl) para su firma.
+2025-09-12 - 14:50:20 GMT
+Gabriel Kaid (g.kaid@tritec-intervento.cl) ha firmado electrónicamente el documento.
+Fecha de firma: 2025-09-12 - 14:50:48 GMT. Origen de hora: servidor.
+Documento completado.
+2025-09-12 - 14:50:48 GMT

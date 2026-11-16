@@ -1,0 +1,152 @@
+ 
+Santiago, 21 de Noviembre 2025 
+EGP 254-25 
+ 
+ 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA:
+ 
+Respuesta a carta DE 07359-25 
+[1] 
+Carta 
+DE07359-25 
+Ref.: 
+“Solicita 
+aclarar 
+comportamiento del BESS PFV El Manzano y BESS 
+PFV Don Humberto en la prestación del Control Primario 
+de Frecuencia”, de fecha del 14 de noviembre de 2025. 
+[2] Carta EGP 083 24 del coordinado Enel Green Power 
+S.A., Ref.: “BESS El Manzano: Envío de informe técnico 
+con los resultados de la verificación de los SSCC de CPF 
+y CTF”, de fecha 19 de agosto de 2024. 
+[3] Carta EGP 104-24 del coordinado Enel Green Power 
+S.A., Ref.: “BESS Parque Fotovoltaico Don Humberto: 
+Envío de informe técnico con los resultados de 
+verificación de los SSCC de CPF y CTF”, de fecha 26 de 
+septiembre de 2024. 
+[4] Carta DE05657-25, Ref.: “Resultado del Proceso de 
+Verificación de los SSCC de CPF y CTF del BESS PFV 
+El Manzano”, de fecha 8 de septiembre de 2025.  
+[5] Carta DE05658-25, Ref.: “Resultado del Proceso de 
+Verificación de los SSCC de CPF y CTF del BESS del 
+PFV Don Humberto”, de fecha 8 de septiembre de 2025. 
+ 
+ 
+ 
+ 
+De nuestra consideración: 
+ 
+En atención a la solicitud recibida mediante la carta DE 07359-25, conforme a lo establecido 
+en el Artículo 4-18 de la Norma Técnica de Servicios Complementarios (NT-SSCC), como 
+parte del proceso de investigación y análisis de las desviaciones detectadas en la 
+prestación del Servicio Complementario de Control Primario de Frecuencia (CPF) en los 
+sistemas BESS El Manzano y BESS Don Humberto, informamos que la operación con 
+estatismos fuera de los limites aprobados en las cartas [4] y [5], están asociadas a lo 
+siguiente: 
+ 
+ 
+1. Análisis de los sistemas: 
+ 
+• Ajuste del estatismo: El sistema GEMS (Scada del Sistema BESS), está 
+calculando el estatismo sobre la potencia comprometida para CPF y no sobre la 
+potencia nominal del sistema. Lo que implica un cambio en el ajuste del estatismo. 
+El control opera según el siguiente esquema. 
+ 
+
+ 
+Figura 1. Situación actual 
+ 
+• El Porcentaje de potencia reservada para CPF: El sistema tenía configurado un 
+valor de aproximadamente 50% para la potencia máxima de respuesta, lo que 
+limitaba la capacidad de entrega completa, siendo inferior a lo comprometido en la 
+reserva. Esto explicó la diferencia observada en la magnitud de las respuestas 
+durante las pruebas y operación real. 
+ 
+Los  parámetros fueron corregidos para asegurar una prestación que cumpla con la 
+normativa vigente y los valores aprobados en los informes técnicos. 
+ 
+2. Medidas adoptadas: 
+ 
+• 
+Se requiere realizar una corrección del valor de droop que se envía a los BESS, en 
+función de la potencia comprometida. El esquema futuro de las modificaciones es 
+el siguiente: 
+ 
+ 
+ 
+ 
+Figura 2. Situación futura 
+ 
+ 
+• Se ajustó el porcentaje de potencia reservada para Control Primario de Frecuencia, 
+permitiendo la utilización total de la potencia comprometida. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3. Pruebas de Operatividad: 
+ 
+• Según las pruebas de operatividad realizadas el 21 de noviembre de 2025, donde 
+ejecutaron pruebas del CPF en BESS del Manzano, en revisión preliminar se daría 
+cumplimiento al estatismo requerido y aprobado en las cartas [4] y [5]. 
+ 
+ 
+ 
+4. Implementación de cambios en sistemas Scadas 
+ 
+• La modificación en la lógica de control requiere actividades para el desarrollo, 
+implementación y pruebas de confiabilidad. El 05 de diciembre es el plazo máximo 
+estimado para la ejecución de los cambios requeridos. 
+ 
+ 
+En vista de lo aquí expuesto, solicitamos el plazo señalado para la implementaciones 
+indicadas. En caso de finalizar los cambios requeridos antes del periodo señalado, se 
+informará y se solicitará al Coordinador Eléctrico Nacional dejar sin efecto la instrucción 
+asociada a los Informes de Limitación LI2025002736 y LI2025002735, toda vez que una 
+vez ejecutadas las modificaciones en los BESS del Manzano y Don Humberto no 
+constituyen un riesgo a la seguridad del servicio del sistema eléctrico. 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación,  
+ 
+Saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Miguel Buzunáriz 
+Encargado CEN 
+ENEL GREEN POWER CHILE S.A. 
+ 
+ 
+ 
+
+ 
+ANEXO 
+ 
+BESS – Sistema GEMS 
+ 
+1. Ajuste previo 
+ 
+ 
+ 
+2. Ajuste corregido  
+ 
+ 
+ 
+ 
+ 
+ 

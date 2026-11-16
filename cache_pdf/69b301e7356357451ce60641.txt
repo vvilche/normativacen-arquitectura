@@ -1,0 +1,118 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+ 
+GM N°2026-021 
+11 de marzo de 2026 
+ 
+Señorita 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref: Observaciones a Indicadores Desempeño Servicios Complementarios – febrero 2026 
+ 
+En relación con el Informe de desempeño preliminar de servicios complementarios de febrero de 
+2026 publicado mediante carta DE01520-26 de fecha 06 de marzo de 2026, tenemos las siguientes 
+observaciones: 
+SSCC 
+Central 
+Observaciones 
+CT Manual 
+PFV 
+CEME1 
+Instrucción CT Manual 2026-02-16 09:47 : Se solicita por parte del CDC alcanzar y quedar en 
+-40 MVAr a la PFV CEME1, la cual, desde el minuto 1 al 15 de su evaluación permanece con 
+margen sobre 85% y menos a 104% que indica Cumple C1. La consigna solicitada de potencia 
+reactiva a las 8:12 fue de -15 MVAr hasta las 9:47 donde se solicita la nueva consigna antes 
+mencionada de -40 MVAr. 
+ 
+Se solicita al CEN revisar esta secuencia de instrucción, ya que es posible que la consigna 
+previa solicitada por el CDC esté afectando la fórmula de cumplimiento. 
+ 
+ 
+ 
+CT 
+Automático 
+Central 
+Nueva 
+Renca 
+ 
+Instrucción CT Manual 2026-02-19 11:32 : Se solicita por parte del CDC subir 2kV a la central 
+Nueva Renca, al evaluar el dato de SITR de la barra se alcanzan 2.002kV al minuto 15 de la 
+evaluación, por lo que debería alcanzar categoría Cumple C1. Se solicita al Coordinador 
+reevaluar el servicio 
+Date & Time
+ Control-PPC - 
+Reactive 
+power (1m) 
+ Control-PPC - 
+Reactive 
+Power setpoint 
+2026-02-16 09:47:00               -16,064 
+2026-02-16 09:48:00               -16,135                -40,000 
+2026-02-16 09:49:00               -34,054 
+2026-02-16 09:50:00               -40,859 
+2026-02-16 09:51:00               -40,878 
+2026-02-16 09:52:00               -40,893 
+2026-02-16 09:53:00               -40,893 
+2026-02-16 09:54:00               -40,872 
+2026-02-16 09:55:00               -40,872 
+2026-02-16 09:56:00               -40,876 
+2026-02-16 09:57:00               -40,834 
+2026-02-16 09:58:00               -40,860 
+2026-02-16 09:59:00               -40,850 
+2026-02-16 10:00:00               -40,829 
+2026-02-16 10:01:00               -40,944 
+2026-02-16 10:02:00               -40,927 
+
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+ 
+ 
+ 
+Sin otro particular, le saluda atentamente 
+ 
+ 
+ 
+Carolina Vélez K. 
+Encargada Titular 
+Generadora Metropolitana SpA 
+ 
+ 
+Time Stamp
+Value
+ΔV
+%Consigna
+02-19-2026 11:32:00 108.82
+0%
+02-19-2026 11:33:00 108.70
+02-19-2026 11:34:00 108.58
+02-19-2026 11:35:00 108.66
+02-19-2026 11:36:00 109.16
+02-19-2026 11:37:00 109.66
+02-19-2026 11:38:00 110.16
+02-19-2026 11:39:00 110.66
+02-19-2026 11:40:00 110.96
+02-19-2026 11:41:00 110.86
+02-19-2026 11:42:00 110.76
+1.943
+97%
+02-19-2026 11:43:00 110.67
+02-19-2026 11:44:00 110.57
+02-19-2026 11:45:00 110.54
+02-19-2026 11:46:00 110.68
+02-19-2026 11:47:00 110.82
+2.002
+100%
+CCP CLIENTS/RENCA/110KV/B1

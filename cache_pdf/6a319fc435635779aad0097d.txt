@@ -1,0 +1,111 @@
+ 
+ 
+Lautaro, 16 de junio de 2026  
+PEL.G.26.018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+REF.:  Desempeño deficiente en la prestación de los Servicios 
+Complementarios de Control Primario de Frecuencia, Control Terciario de 
+Frecuencia y Control de Tensión de unidades generadoras en abril 2026. 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en atención a la carta DE03776-26, mediante la cual se solicita información 
+asociada al desempeño de diversas unidades generadoras en la prestación de Servicios Complementarios 
+durante el mes de abril de 2026, respecto de las unidades TER Lautaro U1 y TER Lautaro U2, de propiedad 
+de COMASA SpA, incluidas en el Anexo 2 de dicha comunicación para el servicio de Control Terciario de 
+Frecuencia en bajada (CTF-), comunicamos lo siguiente: 
+ 
+a) En el Anexo “Aclaración instrucciones no cumplidas SSCC abril 2026” se detallan las 
+instrucciones que presentaron algún desempeño no satisfactorio. Para cada caso, se incluye una 
+gráfica con la potencia registrada entre los periodos de “Inicio” y “Fin” de la instrucción, además de 
+una observación respecto del desempeño observado. Cabe señalar que ambas unidades de 
+Central Lautaro han presentado un desempeño satisfactorio en períodos anteriores, por lo que la 
+capacidad de las unidades generadoras no ha constituido una limitante para el cumplimiento 
+adecuado de los Servicios Complementarios. 
+ 
+b) Entre las acciones implementadas se encuentra la realización de capacitaciones sobre Servicios 
+Complementarios, abordando tanto los requisitos normativos como la correcta ejecución de las 
+instrucciones y el seguimiento de la programación, con el fin de gestionar oportunamente la 
+disponibilidad ante una activación. Asimismo, es importante destacar la ejecución de las pruebas 
+de “Verificación de Instalaciones para la prestación de SSCC”, realizadas durante el mes de abril, 
+a espera del envío final de los informes al Coordinador. Finalmente, en función de lo observado, se 
+realizarán ajustes operacionales en la velocidad de subida y bajada de carga de cada unidad, con 
+el objetivo de mejorar el grado de cumplimiento de las instrucciones dentro de los tiempos 
+requeridos, según lo señalado por la normativa técnica. 
+ 
+c) De acuerdo con lo expuesto anteriormente, se considera que no resulta necesaria la 
+implementación de un plan de acción adicional. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Por último, es importante señalar que, de acuerdo con la información publicada por ese Coordinador 
+mediante la carta DE03133-26 y ratificada por la carta DE03513-26, correspondiente al Informe de 
+Desempeño de Unidades Generadoras, las unidades TER Lautaro U1 y TER Lautaro U2 presentan los 
+siguientes indicadores para el mes de abril de 2026: 
+ 
+Unidad 
+Disponibilidad 
+(Fdis_CTF) 
+Desempeño 
+(DCTF) 
+ 
+Factor de Desempeño 
+(Fd_CTF) 
+ 
+TER Lautaro U1 
+97,51% 
+96,68% 
+96,11% 
+TER Lautaro U2 
+95,60% 
+95,04% 
+94,72% 
+ 
+Para más detalles, puede comunicarse con el Sr. Héctor Saavedra Poblete a través del correo electrónico 
+hsaavedra@comasageneracion.cl o a los teléfonos 45 2992816 y celular +56 9 56184629. 
+ 
+Atentamente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HÉCTOR SAAVEDRA- POBLETE 
+SUBGERENTE DE OPERACIONES 
+CENTRAL LAUTARO COMASA SPA 
+ 
+CC: verificación.SSCC@coordinador.cl  

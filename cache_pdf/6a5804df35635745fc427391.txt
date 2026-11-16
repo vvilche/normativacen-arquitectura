@@ -1,0 +1,59 @@
+ 
+Cóndor Energía SpA 
+Av. Apoquindo 4820, Piso 
+10,  
+Las Condes. Santiago. 
+Chile. 
+ 
+t: +56-(0)2-592 3100 
+e: info-chile@mainstreamrp.com 
+w: mainstreamrp.cl 
+ 
+ 
+CH115-2026 
+ 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional  
+Av. Parque Isidora Sur 1061, Pudahuel 
+Santiago 
+Chile 
+Presente 
+ 
+15 de julio de 2026 
+ 
+Mat.: Responde a carta DE04209-26 y remite antecedentes sobre limitación N° 2026001895 del PE 
+Alena. 
+Ref.: [1] Carta DE04209-26, Ref.: “Solicitud de antecedentes técnicos que respalden los Informes de 
+Limitación (IL) declarados para la prestación de Control Dinámico de Tensión (CDT).” de fecha 02 de 
+julio de 2026. 
+ 
+De mi consideración: 
+ 
+Me refiero a su carta de la Ref. [1], en donde se solicita entregar información complementaria relativa 
+al Informe de Limitación (IL) N° 2026001895 ingresado en la plataforma Neomante asociado a la 
+instalación PE Alena. Dicho IL indica que el Parque Eólico no puede prestar el servicio de Control 
+Dinámico de Tensión (CDT) que fue solicitado por el CDC el día 1 de julio de 2026. 
+ 
+Al respecto, podemos indicar que, si bien el modo de control de tensión a través de consigna de 
+tensión fue probado exitosamente durante la etapa de puesta en servicio de la central, lo cual está 
+incluido en los resultados del Informe de Validación de Modelo Dinámico del PE Alena, la central 
+continúa en la etapa de verificación del Servicio Complementario (SC) de Control de Tensión (CT). A 
+mayor abundamiento, se han realizado pruebas y revisiones exhaustivas en los sistemas SCADA del 
+Parque Eólico y de la Subestación Alena, y se encontró una falencia en el reenvío de las señales de 
+activación y consigna del CDT provenientes del Centro de Control hacia el SCADA de parque.  
+ 
+Con el fin de regularizar el comportamiento del CDT del parque eólico Alena y levantar la limitación 
+N°2026001895 se han planificado intervenciones con especialistas SCADA los días 23 y 24 de julio, tras 
+lo cual el CDT quedará habilitado. 
+ 
+Sin otro particular, le saluda atentamente. 
+ 
+ 
+ 
+__________________ 
+Felipe Fernández Gutiérrez 
+Encargado Suplente 
+Cóndor Energía SpA. 
+  
+Docusign Envelope ID: DAAC63E5-8587-8989-826A-E40610C50A98

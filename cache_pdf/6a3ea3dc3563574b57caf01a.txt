@@ -1,0 +1,110 @@
+ 
+ 
+ 
+GO N° 130/2026 
+Santiago, 25 de junio de 2026 
+ 
+ 
+ 
+Señor  
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+ 
+ 
+Ant.: [1] Carta DE03429-26, de 20 de mayo de 2026 Ref.: “Proceso de Verificación del Servicio 
+Complementario (SC) de Control Secundario de Frecuencia (CSF-AGC) e incorporación a la 
+herramienta de despacho económico (ED)”.  
+[2] Carta DE05252-24, de 09 de octubre de 2024 Ref.: “Resultado del Proceso de Verificación 
+del Servicio Complementario de Control Secundario de Frecuencia de las Centrales Ter 
+Nehuenco II, Ter Nehuenco 9B, TER Candelaria, HE Canutillar y HE Colbún”. 
+[3] Carta GO 105/2026, de 29 de mayo de 2026 Ref.: “Informa el estado de avance del 
+proceso de verificación del Servicio Complementario (SC) de Control Secundario de 
+Frecuencia (CSF-AGC) e incorporación a la herramienta de despacho económico (ED) de las 
+unidades generadoras de Colbún SA.”. 
+ 
+ 
+ 
+Ref.: 
+Complementa carta GO Nº105/2026 del 29 de mayo de 2026, Ref.: “Informa el estado de 
+avance del proceso de verificación del Servicio Complementario (SC) de Control Secundario 
+de Frecuencia (CSF-AGC) e incorporación a la herramienta de despacho económico (ED) de 
+las unidades generadoras de Colbún SA”. 
+ 
+ 
+ 
+De nuestra consideración:  
+ 
+En relación con su carta de Ant.[1], mediante la cual nos solicita información sobre el estado de 
+avance del proyecto de AGC para las centrales PFV Diego de Almagro Sur, TER Nehuenco 9B, TER 
+Santa María, complementamos nuestra respuesta enviada en Ant.[3] con la siguiente información:  
+
+ 
+ 
+a) Estado de implementación de enlaces y señales requeridas y su correspondiente integración 
+al SITR/AGC del Coordinador. 
+Resp.: Respecto a los enlaces de comunicaciones, informo que las centrales antes indicadas 
+cuentan con enlaces de telecomunicaciones y redundancia, garantizando los niveles de 
+disponibilidad solicitados en la Norma Técnica de Seguridad y Calidad de Servicio. Estos 
+servicios están actualmente contratados con los siguientes portadores por instalación: 
+Tipo de Enlace 
+PFV Diego de Almagro Sur 
+TER Nehuenco 9B 
+TER Santa María 
+Enlace Primario 
+Movistar (Fibra, MPLS) 
+Entel (Fibra Óptica, MPLS) 
+Entel (Fibra Óptica, MPLS) 
+Enlaces Secundario 
+GTD (Satelital, MPLS) 
+Movistar (Fibra Óptica, 
+MPLS) 
+Movistar (Fibra Óptica, 
+MPLS) 
+Enlace Respaldo 
+Starlink (Respaldo Satelital. 
+VPN Site to Site) 
+Movistar (Respaldo Satelital) 
+Movistar (Respaldo Satelital) 
+ 
+Con respecto al estado de planificación e integración de señales SITR asociadas al AGC, se tiene el 
+siguiente estado de avance y planificación por cada instalación: 
+PFV Diego de Almagro Sur 
+a. Listado de señales SITR asociado al AGC: Finalizado para el proyecto BESS Diego de 
+Alnagro Sur II - NUP 5074, durante Julio se solicitarán listados para el parque PFV Diego de 
+Almagro Sur con fines de complementar lo anterior. 
+b. Pruebas SITR Locales: Pendiente. Planificado para octubre 2026, conforme al avance del 
+proyecto BESS Diego de Almagro Sur II. 
+c. Pruebas SITR CEN: Pendiente. Planificado para octubre 2026. 
+d. Pruebas de Sincronización AGC: Pendiente. Planificado para noviembre 2026. 
+TER Nehuenco 9B 
+a. Listado de señales SITR asociado al AGC: Finalizado. 
+b. Pruebas SITR Locales: Pendiente. Planificado para agosto de 2026, considerando la 
+extensión del mantenimiento mayor indicado en la carta de Ant. [3] hasta el 23 de julio de 
+2026. 
+c. Pruebas SITR CEN: Pendiente. Planificado para agosto 2026. 
+d. Pruebas de Sincronización AGC: Pendiente. Planificado para septiembre 2026. 
+TER Santa María 
+a. Listado de señales SITR asociado al AGC: Finalizado. 
+b. Pruebas SITR Locales: Pruebas preliminares locales realizadas. Considerando la existencia 
+de errores, se replanifica para septiembre 2026. 
+c. Pruebas SITR CEN: Pendiente. Planificado para octubre 2026. 
+
+ 
+ 
+d. Pruebas de Sincronización AGC: Pendiente. Planificado para noviembre 2026, sin embargo, 
+depende del despacho económico y la aprobación del Coordinador conforme fue señalado en 
+carta de Ant [3]. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+Sebastián Ruiz-Tagle Mena 
+Encargado Titular 
+COLBÚN S.A. 

@@ -1,0 +1,959 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Santiago, 29 de octubre de 2025 
+DE 06866-25 
+ 
+ 
+Señores 
+Encargados 
+Según Lista de Distribución 
+Presente 
+ 
+Ref. Reiteración de solicitud de plan de 
+trabajo para la implementación de puntos de  
+monitoreo del Módulo Fasorial del SEN 
+[1] Carta DE04823-25, de fecha 19 de 
+agosto de 2025, Instruye implementación y 
+solicita plan de trabajo para implementación 
+de puntos de monitoreo de Módulo Fasorial 
+del SEN.  
+De mi consideración: 
+Me refiero a la carta de la Ref. [1], mediante la cual se solicitó el envío, a más tardar el día 1 
+septiembre de 2025, del correspondiente plan de trabajo y cronograma detallado que llevará a 
+cabo para cumplir con la implementación de los puntos de monitoreo con PMU (listados en el 
+Anexo) instruidos a su representada y de acuerdo con los plazos máximos establecidos en el 
+Anexo Técnico de Sistemas de Monitoreo. Al respecto, considerando que de acuerdo con nuestros 
+antecedentes a la fecha no ha cumplido con lo solicitado, le reitero la solicitud de envío de dicho 
+plan de trabajo a más tardar el próximo 12 de noviembre de 2025, al correo dmap@coordinador.cl. 
+Por otra parte, le recuerdo la obligación legal que tienen todas las empresas coordinadas de 
+proporcionar al Coordinador la información requerida para el ejercicio de sus funciones, conforme 
+a lo dispuesto en el artículo 72-2 de la Ley General de Servicios Eléctricos. La omisión de esta 
+obligación podría ser objeto de fiscalización y sanción por parte de la Superintendencia de 
+Electricidad y Combustibles. 
+Finalmente, informo a Ud. que el incumplimiento a lo solicitado en esta comunicación, junto con 
+los antecedentes que nos proporcione, serán puesto en conocimiento de la Superintendencia de 
+Electricidad y Combustibles (SEC) para los fines que dicha entidad estime pertinentes. 
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+GO/SGASO/DMAP 
+Incluye: Lo indicado 
+c.c.: 
+Sres. Encargados Suplentes, según lista de Distribución
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Anexo 
+Puntos de Monitoreo (PMU) sin plan de trabajo informado 
+ 
+ 
+Coordinado 
+Elemento 
+Punto de medida 
+AELA GENERACIÓN S.A. 
+PE CUEL 
+En punto de control 
+PPC 
+PFV SAN ANDRES 
+En punto de control 
+PPC 
+BESS SAN ANDRES 
+Punto de control del 
+BESS 
+HP PEUCHEN U1 
+Bornes de la unidad 
+HP PEUCHEN U2 
+Bornes de la unidad 
+HP MAMPIL U1 
+Bornes de la unidad 
+HP MAMPIL U2 
+Bornes de la unidad 
+HP LICAN U1 
+Bornes de la unidad 
+HP LICAN U2 
+Bornes de la unidad 
+AES ANDES S.A. 
+BESS ALFALFAL 
+Punto de control del 
+BESS 
+HP EL PASO U1 
+Bornes de la unidad 
+HP EL PASO U2 
+Bornes de la unidad 
+HP EL PASO U3 
+Bornes de la unidad 
+STAND ALONE VR1 Y VR2 (BESS 
+ALFALFAL) 
+En punto de control del 
+BESS 
+ALFA TRANSMISORA DE 
+ENERGÍA S.A. 
+SE LOS PEUMOS 
+Paño de línea de los 
+Peumos – Mulchén 220 
+kV 
+ALTO JAHUEL 
+TRANSMISORA DE 
+ENERGÍA S.A. 
+Línea ANCOA - ALTO JAHUEL 500KV L3 
+K5 de SE Ancoa 
+Línea ANCOA - ALTO JAHUEL 500KV L4 
+K6 de SE Alto Jahuel 
+AMANECER SOLAR SPA 
+PFV LLANO DE LLAMPOS (C247) 
+Paño J1 de SE Llano de 
+Llampos 
+ANDES GENERACIÓN SPA 
+TER ANDES GENERACION U3 
+Bornes de la unidad 
+TER ANDES GENERACION U4 
+Bornes de la unidad 
+TER ANDES GENERACION (U1-U2) 
+Bornes de la unidad 
+ANDINO SOLAR SPA 
+LA SIERRA (EX PMG EL TESORO) 
+En punto de control 
+PPC 
+ASESORÍAS G-51 SPA 
+TER EL SALVADOR 
+Bornes de la unidad 
+ASOCIACIÓN DE 
+CANALISTAS DEL CANAL 
+ZAÑARTU 
+HP TRUPÁN 
+Bornes de la unidad 
+AUSTRIANSOLAR CHILE 
+CUATRO SPA 
+PFV HUATACONDO 
+En punto de control 
+PPC 
+BESS HUATACONDO 
+Punto de control del 
+BESS 
+BESALCO ENERGÍA 
+RENOVABLE S.A. 
+HP DIGUA U2 
+Bornes de la unidad 
+HP DIGUA U1 
+Bornes de la unidad 
+BIOENERGÍA FORESTALES 
+SPA 
+TER CMPC CORDILLERA 
+Bornes de la unidad 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Coordinado 
+Elemento 
+Punto de medida 
+BOLERO SPA 
+PFV BOLERO (C456) 
+Paño J3 de SE Bolero 
+CALA MORRITOS POWER 
+SPA 
+TER CALA MORRITOS 
+Bornes de la unidad 
+CBB CALES S.A. 
+TER CEMENTOS BIO BIO CENTRO 
+Bornes de la unidad 
+CFC HOLDINGS SPA 
+PFV PATAGUILLA 
+En punto de control 
+PPC 
+CHARRÚA TRANSMISORA 
+DE ENERGÍA S.A. 
+Línea ENTRE RIOS - ANCOA 500KV C1 
+K7 de SE Ancoa 
+CHILQUINTA 
+TRANSMISIÓN S.A. 
+SE SAN ANTONIO 
+Paño H1 de SE San 
+Antonio 
+CASABLANCA 66/12.5/7.2kV 25MVA 1 
+Lado AT o BT del 
+transformador 
+CASABLANCA 69/13.6/2.4kV 18.3MVA 2 
+Lado AT o BT del 
+transformador 
+T2D S/E LAS VEGAS (CHILQUINTA) HT3 
+Lado AT o BT del 
+transformador 
+T2D S/E LAS VEGAS (CHILQUINTA) HT2 
+Lado AT o BT del 
+transformador 
+T2D S/E LINARES NORTE BT2 
+Lado AT o BT del 
+transformador 
+T2D S/E LINARES NORTE BT1 
+Lado AT o BT del 
+transformador 
+T2D S/E SAN FELIPE HT2 
+Lado AT o BT del 
+transformador 
+T2D S/E SAN FELIPE FT3 
+Lado AT o BT del 
+transformador 
+T2D S/E SAN FELIPE HT1 
+Lado AT o BT del 
+transformador 
+T2D S/E SAN RAFAEL (CHILQUINTA) HT1 
+Lado AT o BT del 
+transformador 
+T2D S/E SAN RAFAEL (CHILQUINTA) HT2 
+Lado AT o BT del 
+transformador 
+T2D S/E SAN RAFAEL (CHILQUINTA) HT3 
+Lado AT o BT del 
+transformador 
+CI NMF I ARENA 
+PROJECTCO SPA 
+ARENA BESS 
+Punto de control del 
+BESS 
+CMS SPVI SPA 
+PFV HIJUELA 
+En punto de control 
+PPC 
+BESS HIJUELA 
+Punto de control del 
+BESS 
+CMS SPVII SPA 
+PFV EL OLIVAR 
+En punto de control 
+PPC 
+BESS EL OLIVAR 
+Punto de control del 
+BESS 
+COLBÚN S.A. 
+BESS DIEGO DE ALMAGRO SUR 
+Punto de control del 
+BESS 
+TER ANTILHUE U1 
+Bornes de la unidad 
+TER ANTILHUE U2 
+Bornes de la unidad 
+HP HORNITOS 
+Bornes de la unidad 
+CONSORCIO SANTA 
+MARTA S.A. 
+BESS SANTA MARTA 
+Punto de control del 
+BESS 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Coordinado 
+Elemento 
+Punto de medida 
+TER SANTA MARTA 
+Bornes de la unidad 
+COPIAPO SOLAR SPA 
+BESS PARQUE FOTOVOLTAICO 
+DESIERTO DE ATACAMA 
+Punto de control del 
+BESS 
+CRISTALES SPA 
+PFV CRISTALES 
+En punto de control 
+PPC 
+BESS CRISTALES 
+Punto de control del 
+BESS 
+EL PELÍCANO SOLAR 
+COMPANY SPA 
+PFV EL PELICANO (C426) 
+Paño JT1 de SE El 
+Pelícano 
+ELÉCTRICA PUNTILLA S.A. 
+HP FLORIDA II U1 
+Bornes de la unidad 
+HP FLORIDA II U2 
+Bornes de la unidad 
+HP PUNTILLA U1 
+Bornes de la unidad 
+HP PUNTILLA U2 
+Bornes de la unidad 
+HP PUNTILLA U3 
+Bornes de la unidad 
+HP ITATA U1 
+Bornes de la unidad 
+HP ITATA U2 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA 
+CARÉN S.A. 
+HP CARILAFQUEN U1 
+Bornes de la unidad 
+HP CARILAFQUEN U2 
+Bornes de la unidad 
+HP MALALCAHUELLO U1 
+Bornes de la unidad 
+HP MALALCAHUELLO U2 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA 
+CIPRES SPA 
+PFV LOS NARANJOS (EX CIPRES) 
+En punto de control 
+PPC 
+EMPRESA ELÉCTRICA 
+DIEGO DE ALMAGRO SPA 
+TER EMELDA U1 
+Bornes de la unidad 
+TER EMELDA U2 
+Bornes de la unidad 
+EMPRESA ELECTRICA EL 
+PINAR SPA 
+HP EL PINAR U1 
+Bornes de la unidad 
+HP EL PINAR U2 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA 
+GUINDO SANTO SPA 
+PMG GUINDO SANTO 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA 
+PEUMO SPA 
+PMG PEUMO 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA 
+PILMAIQUÉN S.A. 
+HE LOS LAGOS 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA 
+RAULI SPA 
+PFV RAULI 
+En punto de control 
+PPC 
+EMPRESA ELÉCTRICAS 
+AGUAS DEL MELADO SPA 
+HP LOS HIERROS U1 
+Bornes de la unidad 
+HP LOS HIERROS U2 
+Bornes de la unidad 
+ENAP REFINERÍAS S.A. 
+TER PETROPOWER 
+Bornes de la unidad 
+TER ACONCAGUA 
+Bornes de la unidad 
+ENEL GREEN POWER 
+CHILE S.A. 
+PFV LALACKAMA I 
+En punto de control 
+PPC 
+T2D S/E EL MANZANO (ENEL 
+TRANSMISION) JT5 
+Lado AT o BT del 
+transformador 
+ENERGÍA CERRO EL 
+MORADO S.A. 
+PFV DOÑA CARMEN SOLAR 
+En punto de control 
+PPC 
+ENERGÍA EÓLICA LOS 
+OLMOS SPA 
+PE LOS OLMOS (C1757) 
+Paño JT1 de SE Los 
+Olmos 
+ENERGIAS ALCONES SPA 
+TER DOÑA LUZMA 
+Bornes de la unidad 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Coordinado 
+Elemento 
+Punto de medida 
+ENLASA GENERACIÓN 
+CHILE S.A. 
+PFV CHERCAN SOLAR 
+En punto de control 
+PPC 
+TER EL PEÑON 
+Bornes de la unidad 
+TER TRAPEN 
+Bornes de la unidad 
+TER SAN LORENZO DE D. DE ALMAGRO 
+U1 
+Bornes de la unidad 
+TER SAN LORENZO DE D. DE ALMAGRO 
+U2 
+Bornes de la unidad 
+TER SAN LORENZO DE D. DE ALMAGRO 
+U3 
+Bornes de la unidad 
+TER SAN LORENZO DE D. DE ALMAGRO 
+U4 
+Bornes de la unidad 
+TER SAN LORENZO DE D. DE ALMAGRO 
+U5 
+Bornes de la unidad 
+TER SAN LORENZO DE D. DE ALMAGRO 
+U6 
+Bornes de la unidad 
+TER TENO 
+Bornes de la unidad 
+ESPINOS S.A. 
+TER LOS ESPINOS 
+Bornes de la unidad 
+TER OLIVOS 
+Bornes de la unidad 
+ESTEPA SOLAR SPA 
+PV ESTEPA SOLAR 
+En punto de control 
+PPC 
+BESS ESTEPA SOLAR 
+Punto de control del 
+BESS 
+FOTOVOLTAICA NORTE 
+GRANDE 1 SPA 
+PFV LA CRUZ SOLAR 
+En punto de control 
+PPC 
+FOTOVOLTAICA NORTE 
+GRANDE 5 SPA 
+PFV URIBE SOLAR 
+En punto de control 
+PPC 
+BESS URIBE SOLAR 
+Punto de control del 
+BESS 
+GAS SUR S.A. 
+TER NEWEN 
+Bornes de la unidad 
+GENERACIÓN DE 
+ENERGÍA NUEVA DEGAN 
+SPA 
+TER DEGAÑ 
+Bornes de la unidad 
+TER DEGAÑ 2 
+Bornes de la unidad 
+GENERACIÓN SOLAR SPA 
+PFV MARIA ELENA 
+En punto de control 
+PPC 
+GENERACIÓN SOLAR SPA 
+En punto de control 
+PPC 
+GENERADORA CAIMANES 
+SPA 
+PFV CAIMANES 
+En punto de control 
+PPC 
+GENERADORA DEL 
+PACÍFICO SPA 
+PFV ANTAY 
+En punto de control 
+PPC 
+TER TERMOPACIFICO 
+Bornes de la unidad 
+GPG GENERACIÓN 
+DISTRIBUIDA SPA 
+PMG PFV SOLAR PALERMO 
+En punto de control 
+PPC 
+GR ALGARROBO SPA 
+PFV GRAN TENO (C2094) 
+Paño AT1 de SE Solis 
+GR LENGA SPA 
+PFV GABRIELA 
+En punto de control 
+PPC 
+BESS GABRIELA 
+Punto de control del 
+BESS 
+GR MORRO MORENO SPA 
+PLANTA FOTOVOLTAICA ZATURNO 
+En punto de control 
+PPC 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Coordinado 
+Elemento 
+Punto de medida 
+GR NAHUELBUTA SPA 
+PLANTA FOTOVOLTAICA TRAVESÍA 
+En punto de control 
+PPC 
+GR PEUMO SPA 
+PLANTA FOTOVOLTAICA 
+BUENAVENTURA (EX PLANTA 
+FOTOVOLTAICA CONDOR) 
+En punto de control 
+PPC 
+GR PIÑOL SPA 
+PLANTA FOTOVOLTAICA CALEU 
+En punto de control 
+PPC 
+GR TOROMIRO SPA 
+PLANTA FOTOVOLTAICA CKONTOR 
+En punto de control 
+PPC 
+HIDROELÉCTRICA ÑUBLE 
+SPA 
+ÑUBLE 
+Bornes de la unidad 
+HIDROELÉCTRICA RÍO 
+LIRCAY S.A. 
+HP LIRCAY U1 
+Bornes de la unidad 
+HP LIRCAY U2 
+Bornes de la unidad 
+HP PROVIDENCIA U1 
+Bornes de la unidad 
+HP PROVIDENCIA U2 
+Bornes de la unidad 
+HIDROENERSUR SPA 
+HP CUMBRES U1 
+Bornes de la unidad 
+HP CUMBRES U2 
+Bornes de la unidad 
+HP RIO PICOIQUEN U1 
+Bornes de la unidad 
+HP RIO PICOIQUEN U2 
+Bornes de la unidad 
+HP MC1 U1 
+Bornes de la unidad 
+HP MC1 U2 
+Bornes de la unidad 
+HIDROMOCHO S.A. 
+HP MOCHO 
+Bornes de la unidad 
+HIDROPALMAR SPA 
+HP PALMAR U1 
+Bornes de la unidad 
+HP PALMAR U2 
+Bornes de la unidad 
+HUEMUL ENERGÍA SPA 
+PFV PAMPA TIGRE (C1810) 
+Paño JT1 de SE Pampa 
+Tigre 
+INNERGEX ENERGÍA 
+RENOVABLE SPA 
+HP GUAYACAN U1 
+Bornes de la unidad 
+HP GUAYACAN U2 
+Bornes de la unidad 
+INNOVACIÓN ENERGÍA 
+S.A. 
+TER TENO GAS 
+Bornes de la unidad 
+INVERSIONES HORNITOS 
+SPA 
+TER HORNITOS 
+Bornes de la unidad 
+KDM ENERGÍA S.A. 
+TER LOMA LOS COLORADOS II 
+Bornes de la unidad 
+LARQUI SOLAR SPA 
+PFV ALTO DEL SOL 
+En punto de control 
+PPC 
+LAS PALMAS FV SPA 
+BESS SOL DE VALLE HERMOSO 
+Punto de control del 
+BESS 
+MANZANO SOLAR SPA 
+PLANTA FOTOVOLTAICA CALDERAZA 
+En punto de control 
+PPC 
+MODENA SOLAR SPA 
+BESS MODENA 
+Punto de control del 
+BESS 
+NEOMAS SPA 
+TER MASISA 
+Bornes de la unidad 
+NIRIVILO TRANSMISORA 
+DE ENERGÍA S.A. 
+NUEVA LÍNEA 2X220 KV DON GOYO - LA 
+RUCA 
+PAÑO DE LÍNEA 
+NORACID S.A. 
+TER PLANTA DE ACIDO SULFURICO 
+MEJILLONES 
+Bornes de la unidad 
+NUEVA ATACAMA SOLAR 
+SA 
+PFV ATACAMA SOLAR II (C1671) 
+Paño JT1 y JT2 de SE 
+Matilla 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Coordinado 
+Elemento 
+Punto de medida 
+PACIFIC HYDRO CHILE 
+S.A. 
+HP PANGAL U1 
+Bornes de la unidad 
+HP PANGAL U2 
+Bornes de la unidad 
+HP PANGAL U3 
+Bornes de la unidad 
+HP PANGAL U4 
+Bornes de la unidad 
+HP PANGAL U5 
+Bornes de la unidad 
+PARQUE EÓLICO LEBU-
+TORO SPA 
+PE LEBU 
+En punto de control 
+PPC 
+PARQUE EÓLICO LOS 
+CURUROS SPA 
+PE LOS CURUROS (C318) 
+Paño JT1 de SE Central 
+La Cebada 
+PARQUE EOLICO PUNTA 
+DE TALCA SPA 
+PE PUNTA DE TALCA 
+En punto de control 
+PPC 
+PARQUE SOLAR 
+CACHIYUYO SPA 
+PFV CACHIYUYO 
+En punto de control 
+PPC 
+PARQUE SOLAR 
+CONVENTO SPA 
+PMG PFV SAN BERNARDO 
+En punto de control 
+PPC 
+PARQUE SOLAR DOÑA 
+CARMEN SPA 
+PMG PFV PARQUE DOÑA CARMEN RM 
+En punto de control 
+PPC 
+PARQUE SOLAR LEYDA 
+SPA 
+PFV LEYDA 
+En punto de control 
+PPC 
+PARQUE SOLAR TANGUA 
+SPA 
+PLANTA FOTOVOLTAICA TUTUVÉN 
+En punto de control 
+PPC 
+PARQUE SOLAR VIVEROS 
+SPA 
+PFV PMG PARQUE CAUQUENES 
+En punto de control 
+PPC 
+PE CANCURA SPA 
+PARQUE EÓLICO CANCURA 
+En punto de control 
+PPC 
+PFV DOMEYKO SPA 
+PFV LUNA DE VERANO 
+En punto de control 
+PPC 
+BESS LUNA DE VERANO 
+Punto de control del 
+BESS 
+PFV ITAHUE SPA 
+PMG PFV ITAHUE 
+En punto de control 
+PPC 
+PLANTA SOLAR SAN 
+PEDRO III SPA 
+PFV JAMA 
+En punto de control 
+PPC 
+PRIME ENERGÍA 
+QUICKSTART SPA 
+TER LLANOS BLANCOS 
+Bornes de la unidad 
+TER PAJONALES 
+Bornes de la unidad 
+TER CHAGUAL 
+Bornes de la unidad 
+TER COMBARBALA 
+Bornes de la unidad 
+TER SAN JAVIER II 
+Bornes de la unidad 
+TER SAN JAVIER I 
+Bornes de la unidad 
+PUNTA DEL SOL SPA 
+BESS ARENALES 
+Punto de control del 
+BESS 
+PV SALVADOR S.A. 
+PFV SALVADOR 
+En punto de control 
+PPC 
+BESS SALVADOR 
+Punto de control del 
+BESS 
+QANQIÑA SPA 
+PFV QANQIÑA 
+En punto de control 
+PPC 
+RA SOLAR SPA 
+PARQUE FOTOVOLTAICO ALCONES 
+En punto de control 
+PPC 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Coordinado 
+Elemento 
+Punto de medida 
+RIVAZZURRA SOLAR SPA 
+BESS RIVAZZURRA 
+Punto de control del 
+BESS 
+RUCASOL SPA 
+PFV RUCASOL 
+En punto de control 
+PPC 
+SAN JUAN S.A. 
+BESS SAN JUAN 
+Punto de control del 
+BESS 
+SANTA BARBARA SPA 
+PMG SANTA BARBARA 
+Bornes de la unidad 
+SISTEMA DE 
+TRANSMISIÓN DEL SUR 
+S.A. 
+T2D S/E CABRERO BT1 
+Lado AT o BT del 
+transformador 
+SOCIEDAD 
+CONCESIONARIA 
+EMBALSE CONVENTO 
+VIEJO S.A. 
+HE CONVENTO VIEJO U1 
+Bornes de la unidad 
+HE CONVENTO VIEJO U2 
+Bornes de la unidad 
+SOCIEDAD TRANSMISORA 
+METROPOLITANA S.A. 
+T2D S/E BATUCO AT1 
+Lado AT o BT del 
+transformador 
+SOLAR ELENA SPA 
+BESS ELENA FASE I 
+Punto de control del 
+BESS 
+SOLAR TI VEINTIDOS SPA 
+PLANTA FOTOVOLTAICA CHICHA SOLAR 
+En punto de control 
+PPC 
+BESS CHICHA SOLAR 
+Punto de control del 
+BESS 
+SOLAR TI VEINTITRÉS SPA 
+PMG PFV CALICHE 
+En punto de control 
+PPC 
+TAMARUGAL SOLAR SPA 
+BESS ESTELA 
+Punto de control del 
+BESS 
+TRANSELEC S.A. 
+T2D S/E VALLENAR HT1 
+Lado AT o BT del 
+transformador 
+T2D S/E VALLENAR HT2 
+Lado AT o BT del 
+transformador 
+TRANSQUINTA S.A. 
+(CONSORCIO 
+CHILQUINTA-LUZLINARES) 
+NUEVA LÍNEA 2X110 KV ALTO MELIPILLA 
+– BAJO MELIPILLA, TENDIDO DEL 
+PRIMER CIRCUITO 
+Paño de línea H7 de SE 
+Alto Melipilla 
+TSGF SPA 
+PFV SANTA ISABEL (C1651) 
+Paño JT1 de SE Don 
+Antonio 
+VENEZIA SOLAR SPA 
+PFV VENEZIA SOLAR 
+En punto de control 
+PPC 
+VIENTOS DE RENAICO 
+SPA 
+PE LA FLOR 
+En punto de control 
+PPC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lista de Distribución 
+ 
+AELA GENERACIÓN S.A. 
+AES ANDES S.A. 
+ALFA TRANSMISORA DE ENERGÍA S.A. 
+ALTO JAHUEL TRANSMISORA DE ENERGÍA S.A. 
+AMANECER SOLAR SPA 
+ANDES GENERACIÓN SPA 
+ANDINO SOLAR SPA 
+ASESORÍAS G-51 SPA 
+ASOCIACIÓN DE CANALISTAS DEL CANAL ZAÑARTU 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+BESALCO ENERGÍA RENOVABLE S.A. 
+BIOENERGÍA FORESTALES SPA 
+BOLERO SPA 
+CALA MORRITOS POWER SPA 
+CBB CALES S.A. 
+CFC HOLDINGS SPA 
+CHARRÚA TRANSMISORA DE ENERGÍA S.A. 
+CHILQUINTA TRANSMISIÓN S.A. 
+CI NMF I ARENA PROJECTCO SPA 
+CMS SPVI SPA 
+CMS SPVII SPA 
+COLBÚN S.A. 
+CONSORCIO SANTA MARTA 
+CONSORCIO SANTA MARTA S.A. 
+COPIAPO SOLAR SPA 
+CRISTALES SPA 
+EL PELÍCANO SOLAR COMPANY SPA 
+ELÉCTRICA PUNTILLA S.A. 
+EMPRESA ELÉCTRICA CARÉN S.A. 
+EMPRESA ELÉCTRICA CIPRES SPA 
+EMPRESA ELÉCTRICA DIEGO DE ALMAGRO SPA 
+EMPRESA ELECTRICA EL PINAR SPA 
+EMPRESA ELÉCTRICA GUINDO SANTO SPA 
+EMPRESA ELÉCTRICA PEUMO SPA 
+EMPRESA ELÉCTRICA PILMAIQUÉN S.A. 
+EMPRESA ELÉCTRICA RAULI SPA 
+EMPRESA ELÉCTRICAS AGUAS DEL MELADO SPA 
+ENAP REFINERÍAS S.A. 
+ENEL GREEN POWER CHILE S.A. 
+ENERGÍA CERRO EL MORADO S.A. 
+ENERGÍA EÓLICA LOS OLMOS SPA 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ENERGIAS ALCONES SPA 
+ENLASA GENERACIÓN CHILE S.A. 
+ESPINOS S.A. 
+ESTEPA SOLAR SPA 
+FOTOVOLTAICA NORTE GRANDE 1 SPA 
+FOTOVOLTAICA NORTE GRANDE 5 SPA 
+GAS SUR S.A. 
+GENERACIÓN DE ENERGÍA NUEVA DEGAN SPA 
+GENERACIÓN SOLAR SPA 
+GENERADORA CAIMANES SPA 
+GENERADORA DEL PACÍFICO SPA 
+GPG GENERACIÓN DISTRIBUIDA SPA 
+GR ALGARROBO SPA 
+GR LENGA SPA 
+GR MORRO MORENO SPA 
+GR NAHUELBUTA SPA 
+GR PEUMO SPA 
+GR PIÑOL SPA 
+GR TOROMIRO SPA 
+HIDROELÉCTRICA ÑUBLE SPA 
+HIDROELÉCTRICA RÍO LIRCAY S.A. 
+HIDROENERSUR SPA 
+HIDROMOCHO S.A. 
+HIDROPALMAR SPA 
+HUEMUL ENERGÍA SPA 
+INNERGEX ENERGÍA RENOVABLE SPA 
+INNOVACIÓN ENERGÍA S.A. 
+INVERSIONES HORNITOS SPA 
+KDM ENERGÍA S.A. 
+LARQUI SOLAR SPA 
+LAS PALMAS FV SPA 
+MANZANO SOLAR SPA 
+MODENA SOLAR SPA 
+NEOMAS SPA 
+NIRIVILO TRANSMISORA DE ENERGÍA S.A. 
+NORACID S.A. 
+NUEVA ATACAMA SOLAR SA 
+PACIFIC HYDRO CHILE S.A. 
+PARQUE EÓLICO LEBU-TORO SPA 
+PARQUE EÓLICO LOS CURUROS SPA 
+PARQUE EOLICO PUNTA DE TALCA SPA 
+PARQUE SOLAR CACHIYUYO SPA 
+PARQUE SOLAR CONVENTO SPA 
+PARQUE SOLAR DOÑA CARMEN SPA 
+PARQUE SOLAR LEYDA SPA 
+PARQUE SOLAR TANGUA SPA 
+PARQUE SOLAR VIVEROS SPA 
+PE CANCURA SPA 
+PFV DOMEYKO SPA 
+PFV ITAHUE SPA 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+PLANTA SOLAR SAN PEDRO III SPA 
+PRIME ENERGÍA QUICKSTART SPA 
+PUNTA DEL SOL SPA 
+PV SALVADOR S.A. 
+QANQIÑA SPA 
+RA SOLAR SPA 
+RIVAZZURRA SOLAR SPA 
+RUCASOL SPA 
+SAN JUAN S.A. 
+SANTA BARBARA SPA 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A. 
+SOCIEDAD CONCESIONARIA EMBALSE CONVENTO VIEJO S.A. 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+SOLAR ELENA SPA 
+SOLAR TI VEINTIDOS SPA 
+SOLAR TI VEINTITRÉS SPA 
+TAMARUGAL SOLAR SPA 
+TRANSELEC S.A. 
+TRANSQUINTA S.A. (CONSORCIO CHILQUINTA-LUZLINARES) 
+TSGF SPA 
+VENEZIA SOLAR SPA 
+VIENTOS DE RENAICO SPA 
+ 
+ 

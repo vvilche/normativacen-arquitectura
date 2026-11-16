@@ -1,0 +1,81 @@
+ 
+ 
+ 
+ 
+Santiago, 
+29
+de enero 
+de 202
+6
+S eño
+r a
+Gretchen Zbinden V.Subgerenta de Análisis y Soporte OperacionalCoordinador Eléctrico NacionalPRESENTE
+De nuestra consideración:Por medio de la presente, y en atención a lo solicitado mediante [1], de fecha 29 de diciembre, nos dirigimos a usted a fin de informar que, a la fecha de emisión de esta comunicación, se han ejecutado los siguientes ensayos informados en [2]: Control Prim
+ario 
+de Frecuencia, Control Secundario de Frecuencia, Control Terciario de Frecuencia en giro y Control Terciario de Frecuencia en frío.En este contexto, se informa que los ensayos de Control de Tensión se encuentran pendientes de ejecución, los cuales n
+o han podido ser realizados debido a que las 
+condiciones climáticas actuales no resultan favorables, toda vez que los niveles de irradiancia registrados se encuentran por debajo de los valores mínimos requeridos para su correcta ejecución.En virtud de lo
+anterior, se acompaña a la presente un cronograma detallado de 
+actividades, con fecha de inicio estimada el 16 de febrero de 2026, el cual contempla la ejecución de los ensayos restantes conforme a los Protocolos aprobados en [1].
+Control de Tensión 
+Concepto 
+Inicio 
+Término 
+Verificación de la respuesta del sistema 
+de control de tensión / potencia 
+reactiva. 
+16-02-26 
+16-02-26 
+Ensayos de inyección y absorción de 
+potencia reactiva según consignas de 
+tensión. 
+17-02-26 
+17-02-26 
+Ref:
+[1] DE08351
+- 25 
+“Aprueba Protocolos para 
+los Ensayos de Verificación de Control de Frecuencia y Control de Tensión de la central PFV Granja Solar.
+”
+[2] DE00443
+-26 Respuesta DE08351
+- 25
+
+Determinación del Diagrama P-Q 
+teórico máximo de la unidad. 
+17-02-26 
+17-02-26 
+Selección y ensayo de ocho puntos de 
+operación del diagrama P-Q 
+(subexcitación y sobreexcitación). 
+18-02-26 
+18-02-26 
+Ensayos en cada punto del diagrama P-
+Q con niveles de tensión de 0,9 – 0,95 
+– 1,0 – 1,05 – 1,1 p.u. 
+18-02-26 
+18-02-26 
+Medición de tiempos de respuesta y 
+estabilización del control de tensión. 
+19-02-26 
+19-02-26 
+Verificación del error en estado 
+estacionario del controlador de tensión. 
+19-02-26 
+19-02-26 
+Contraste entre valores teóricos y 
+resultados medidos, justificando 
+desviaciones mayores a ±2 %. 
+20-02-26 
+20-02-26 
+ 
+La fecha de inicio indicada se encuentra condicionada a la ejecución de los trabajos de Mantenimiento 
+Mayor, programados para realizarse entre los días 16y 20. 
+ 
+Finalmente, se informa que, de manera paralela al envío de esta comunicación, se ha ingresado en el 
+sistema Neomante la correspondiente solicitud de trabajo para la finalización de los ensayos de 
+Control de Tensión, bajo el N° 2026009314/2026009315/2026009316/2026009317/2026009318 
+ 
+Sin otro particular, se despide atentamente, 
+Francisco TobarCopec Renovables SpA
+ 

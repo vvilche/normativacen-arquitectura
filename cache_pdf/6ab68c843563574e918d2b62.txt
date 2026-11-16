@@ -1,0 +1,58 @@
+Santiago, 25 de septiembre de 2026 
+ 
+Señores 
+Coordinador Eléctrico Nacional 
+Gerencia de Operaciones 
+At. Rodrigo Espinoza V. 
+Presente 
+ 
+Ref.: Respuesta a carta DE 05854-26, sobre antecedentes técnicos de los relés con función de gradiente de 
+frecuencia (ROCOF) asociados a esquemas EDAC y EDAG. 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en respuesta a la carta DE 05854-26, de fecha 2 de septiembre de 2026 (la 
+“Carta”), emitida por la Gerencia de Operaciones del Coordinador Eléctrico Nacional (en adelante, el 
+“Coordinador”), en virtud de la cual se solicitan antecedentes técnicos de los relés con función de gradiente 
+de frecuencia (ROCOF) asociados a esquemas EDAC y EDAG respecto de los coordinados Pozo Almonte 
+Solar 2 S.A. y Pozo Almonte Solar 3 S.A. (las “Sociedades”), venimos en informar lo siguiente: 
+ 
+En atención a lo solicitado por ese Coordinador, venimos en acompañar los antecedentes técnicos 
+correspondientes a la identificación del equipo y alcance, así como los antecedente relacionados con los 
+ajustes implementados, conforme a los antecedentes requeridos en la Carta, incluyendo la información 
+relativa a los relés, fabricante, modelo, versión de firmware, esquema en que participan y demás parámetros 
+solicitados, según se detalla en el documento denominado “Planilla Anexo 2 – Planilla de relés ROCOF”. 
+ 
+Cabe señalar que los antecedentes debían cargarse a través de la plataforma ConectaCEN, cuyo plazo de 
+entrega venció el 21 de septiembre de 2026. Dicho plazo no pudo ser cumplido debido a que el proveedor 
+no facilitó la información requerida dentro del tiempo previsto. Al encontrarse actualmente el requerimiento 
+cerrado y no ser posible subir la información por ese medio, y en atención al propósito de las Sociedades de 
+atender la totalidad de los requerimientos formulados por ese Coordinador, se ha optado por remitirla 
+mediante la presente carta. 
+ 
+Por su parte, se acompañan los manuales de los fabricantes correspondientes a los equipos informados, 
+como documentación técnica de respaldo de los antecedentes relativos a las características de la medición 
+de ROCOF declaradas por el fabricante y a la conformidad declarada de la función de gradiente de 
+frecuencia, en los términos señalados en la Carta.  
+ 
+En particular, se acompañan los siguientes documentos: 
+• 
+Planilla Anexo 2 – Planilla de relés ROCOF; y  
+• 
+Manuales de los fabricantes correspondientes a los equipos informados.  
+ 
+En virtud de lo anterior, sírvase tener por acompañados los antecedentes requeridos mediante la Carta DE 
+05854-26, para todos los efectos que correspondan. 
+ 
+Sin otro particular, quedamos a disposición del Coordinador para proporcionar cualquier antecedente 
+adicional que estime necesario. 
+ 
+Saluda atentamente a usted, 
+ 
+ 
+ 
+_______________________________ 
+Ángel Truchero Ángulo 
+p.p. Pozo Almonte Solar 2 S.A. 
+p.p. Pozo Almonte Solar 3 S.A. 
+Docusign Envelope ID: 07BA8BE5-A61E-8B3F-8177-9FCF37F12968

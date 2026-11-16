@@ -1,0 +1,100 @@
+                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 1 de 2 
+  
+2026.04.17 Cronograma de verificacion SSCC ECM 
+Santiago, 17 de abril de 2026 
+Sr 
+Ramón Castañeda P. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+Referencia: Cronograma de verificación de SSCC 
+ 
+Junto con saludar, me dirijo a usted en relación a la carta DE01003-26, enviada por el Coordinador 
+Eléctrico Nacional el día 11 de febrero de 2026. En dicha carta se informa el vencimiento del plazo para hacer 
+envío de los informes de Servicios Complementarios (SSCC) y se solicita a Energía Cerro el Morado SpA hacer 
+envío de un plan de normalización que considere la fecha de entrega de dichos informes. 
+ 
+Presentamos nuestro plan de verificación de SSCC: 
+ 
+ 
+ 
+El 19 de septiembre y el 20 de octubre de 2025 se produce el robo de cables string en corriente 
+continua en el parque fotovoltaico Doña Carmen Solar, específicamente en el subcampo correspondiente al 
+CT03-INV01. Las pérdidas en cable strings fueron de 5.700 metros en total. Frente a esta situación, para restaurar 
+la capacidad del parque se está gestionando con SolarWave la ejecución del servicio de reposición y 
+normalización de cableado en las zonas del parque afectadas. El 9 de abril de 2026 fue recibida la oferta por 
+estos servicios y se espera que los trabajos finalicen en un plazo de 10 semanas. 
+ 
+En paralelo, se está gestionando con la empresa RES, la cual es la encargada de la operación y 
+mantenimiento del parque, la adquisición partes necesarias para normalizar el funcionamiento de 4 inversores 
+dentro del parque, estos repuestos son indispensables para su correcto funcionamiento frente a las pruebas 
+dinámicas. Se espera completar la normalización de estos equipos en un plazo de 10 semanas, al igual que la 
+instalación de los cables. 
+ 
+Con fecha 11 de abril de 2023, se firma la orden de compra con Estudios Eléctricos correspondiente 
+al servicio de “Pruebas VMD y Anexos Técnicos en Energía Cerro el Morado” y el 25 de abril de 2023 se firma la 
+orden de compra asociada al servicio de “Verificación SSCC CPF en PFV Energía Cerro el Morado”. En este 
+contexto, Estudios Eléctricos desarrolló un protocolo de pruebas y realizó visitas a terreno para la ejecución de 
+las pruebas de verificación de modelo dinámico y control primario de frecuencia (CPF). Las pruebas a nivel de 
+inversor pudieron realizarse sin inconvenientes, pero producto de contingencias en las comunicaciones en la 
+planta durante la visita, no fue posible realizar con éxito las pruebas a nivel de planta.  
+
+                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 2 de 2 
+  
+ 
+ 
+Actualmente, se encuentra en curso la gestión para la actualización del Power Plant Controller 
+(PPC), con el objetivo de dar cumplimiento a los requerimientos normativos aplicables, específicamente se está 
+configurando el control primario de frecuencia para que se tome como referencia la potencia máxima del 
+sistema para calcular las variaciones de potencia en vez de tomar la potencia despachada en el momento. 
+Ingeteam hizo envío de su oferta para dicho trabajo el 14 de abril de 2026, y se espera su completitud para la 
+semana del 11 de mayo de 2026. 
+ 
+En este contexto, la ejecución de las actividades de verificación de SSCC ha sido reprogramada, en 
+atención a la necesidad de completar previamente las adecuaciones en los sistemas de control y comunicaciones 
+del parque. Estas condiciones son necesarias para asegurar que las pruebas se realicen bajo escenarios 
+operacionales representativos y en conformidad con los requisitos técnicos exigidos. 
+ 
+Una vez finalizadas las actividades anteriormente descritas, se procederá con el proceso de 
+validación del modelo dinámico, para luego continuar con la verificación de SSCC. Para ello, se cuenta con los 
+servicios contratados en 2023 para VMD y CPF. Adicionalmente, con fecha 10 de diciembre de 2025 se recibió 
+la oferta de servicios “Verificación y Ensayos de SSCC - SPIII y ECM”, la cual contempla la verificación de control 
+de tensión y control terciario de frecuencia. 
+ 
+Se espera retomar el proceso de verificación de SSCC y efectuar el envío de los informes 
+correspondientes al CEN una vez que se cuente con las condiciones operacionales adecuadas para la correcta 
+ejecución de las pruebas. De esta forma, se define el objetivo de hacer la entrega de los informes durante la 
+semana del 19 de octubre del 2026. 
+ 
+Se adjunta documentación de respaldo de los procesos actualmente en gestión y desarrollo, la cual 
+da cuenta del avance de las actividades comprometidas, así como de las gestiones realizadas para su pronta 
+ejecución y cierre. 
+ 
+Sin otro particular, quedamos atentos a sus comentarios y a cualquier antecedente adicional que 
+estime pertinente para dar cierre a este proceso. 
+ 
+ 
+ 
+ 
+ 
+ 
+Eliseo López Nitsche 
+ 
+Encargado Titular 
+ 
+Energía Cerro el Morado SpA 
+ 

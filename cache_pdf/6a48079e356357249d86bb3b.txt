@@ -1,0 +1,76 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Cerro El Plomo 5630, oficina 401, Las Condes 
+ 
+  
+Santiago, 03 de julio de 2026 
+GC-CO 0014/26 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Respuesta a observaciones por el 
+ECAP en el contexto del Plan de Acción 
+por EAF 159-2023 Apertura intempestiva 
+del interruptor 52J2 de SE Central 
+Quintero. 
+[1] 
+GC-CO 
+0001/25 
+“Apertura 
+intempestiva del interruptor 52J2 de S/E 
+Central Quintero”, con fecha el 03 de julio 
+del 2026. 
+ 
+ 
+ 
+De nuestra consideración, 
+Por medio de la presente, en el contexto del Plan de Acción por EAF 159-2023 Apertura intempestiva del 
+interruptor 52J2 de SE Central Quintero, en donde mi representada Central Colmito S.A envío el ECAP en 
+adjunto a la comunicación Ref. [1], a continuación, se da respuesta a las observaciones al estudio 
+entregado por mi representada: 
+ 
+• 
+Minuta de análisis del desempeño de las protecciones operadas, en base a los registros 
+oscilográficos y los ajustes actuales, a fin de validar ajustes actuales o proponer ajustes nuevos, a 
+fin de evitar la desconexión de la central para fallas externas como ocurrió para el EAF 159-2025, 
+al operar las funciones de subtensión y sobrecorriente. 
+ 
+Respuesta: Se adjunta informe técnico VAS-COL-AF-001-Análisis de Desconexión de Central 
+Colmito para EAF 159-2023. 
+ 
+• 
+En función de los resultados del punto anterior, si aplica, se solicita enviar ECAP que incluya los 
+nuevos ajustes en las protecciones operadas para el evento en mención. 
+ 
+Respuesta: Con relación al EAF 159-2023, el análisis complementario realizado y determinado a 
+través del informe técnico VAS-COL-AF-001 indica que no hubo protecciones ajustables que 
+operaran durante el evento. La desconexión de la Central ocurrió producto de una protección 
+interna del sistema de Control turbina-generador (Loadshed hacia ESD), documentada por el 
+fabricante Siemens Energy. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Cerro El Plomo 5630, oficina 401, Las Condes 
+ 
+Se incorpora en Informe técnico VAS-COL-AF-001, Punto 6: Revisión de ajustes de protecciones 
+asociadas a Central Colmito y propuestas de nuevos ajustes, con la finalidad de tener aprobación 
+para emitir nuevo ECAP. 
+Sin otro particular, le saluda atentamente, 
+_______________________________ 
+Felipe Inostrosa Muñoz 
+Encargado Suplente 
+  Central Colmito S.A. 
+ 

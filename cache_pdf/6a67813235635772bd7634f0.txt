@@ -1,0 +1,121 @@
+ 
+ 
+Santiago, 24 de Julio de 2026 
+ 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional (CEN) 
+Presente. 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref.: Respuesta a consulta sobre estado de avance de 
+plan de acción – Desempeño SSCC de Control de 
+Tensión en PFV Santiago Solar (Cartas DE 01221-26, DE 
+03364-26 y correo DCO de fecha 21 de julio de 2026)
+ 
+De nuestra consideración: 
+ 
+En relación con el seguimiento del plan de acción para el desempeño del servicio complementario 
+de Control de Tensión (CT) de la central Santiago Solar, y en respuesta a su consulta sobre el estado 
+de avance de los trabajos, nos dirigimos a usted para informar detalladamente las acciones 
+ejecutadas y el cronograma de cierre definitivo: 
+ 
+1. Continuidad y Efectividad de las Medidas Operacionales Inmediatas 
+ 
+Tal como se informó en nuestra comunicación DE 03364-26, la medida mitigatoria operacional se 
+encuentra 100% implementada y en régimen continuo de operación:  Gestión en Centro de Control 
+(OCC): Los operadores del Centro de Control 24/7 de Santiago Solar aplican estrictamente la 
+consideración del signo de reactivo al ingresar consignas manuales en la interfaz del SCADA. Esto 
+ha permitido mitigar la causa raíz de las desviaciones anteriores y garantizar que la respuesta 
+eléctrica real de la planta en el punto de conexión responda exactamente a lo instruido por el CDC. 
+ 
+2. Normalización de Infraestructura de Comunicaciones y Mapeo DNP3/ICCP 
+ 
+Para asegurar la viabilidad de la solución técnica definitiva del control de tensión, durante los 
+meses de mayo, junio y julio de 2026 fue técnicamente indispensable priorizar la reestructuración 
+y estabilización de la plataforma base de comunicaciones entre el SCADA de planta 
+(GreenPowerMonitor - GPM) y la RTU de la central (Ingeteam):   
+ 
+- 
+Se resolvieron de manera integral las anomalías de refresco de datos y calidad de tiempo 
+en el enlace DNP3/ICCP.  
+- 
+ Se concluyó con éxito la normalización de la señal de Potencia Disponible y su 
+reportabilidad en tiempo real hacia los sistemas del Coordinador. Dicha infraestructura 
+quedó completamente probada y operativa a mediados de julio de 2026. 
+ 
+ 
+3. Cronograma de Implementación de la Solución Definitiva en SCADA / PPC 
+ 
+Con la plataforma de comunicaciones e integración de señales estabilizada, se ha reactivado 
+formalmente el requerimiento con el fabricante del SCADA (GreenPowerMonitor) para la 
+corrección en el campo de ingreso manual "Reactive Power Setpoint KVAR", ajustando la 
+convención de signos en la interfaz (signo positivo para inyección y signo negativo para absorción 
+de reactivos).  Para concretar y verificar esta mejora técnica, se establece el siguiente plan de 
+trabajo y cronograma de hitos: 
+ 
+ 
+ 
+ 
+
+Item 
+Nombre de la tarea / Hito 
+Fecha Inicio 
+Fecha Fin 
+Estado 
+1 
+Estabilización de infraestructura 
+DNP3/ICCP 
+y 
+señal 
+Potencia 
+Disponible 
+01/05/2026 
+15/07/2026 
+Finalizado 
+2 
+Solicitud formal y desarrollo de 
+parche de corrección de signo con 
+fabricante (GPM) 
+24/07/2026 
+07/08/2026 
+En proceso 
+3 
+Pruebas 
+de 
+validación 
+en 
+plataforma y pruebas funcionales 
+de consignas con OCC 
+10/08/2026 
+14/08/2026 
+Programado 
+4 
+Finalización de la normalización 
+en SCADA/PPC y envío de informe 
+de cierre al CEN 
+17/08/2026 
+21/08/2026 
+Programado 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo 
+Acosta 
+Encargado Suplente 
+Santiago Solar S.A 
+ 
+ 

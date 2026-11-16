@@ -1,0 +1,1558 @@
+ 
+Santiago, 02 de julio de 2026. 
+  ACC.ECH.089.26 
+Señor: 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones a Indicadores Desempeño Servicios Complementarios – abril 2026, segunda 
+versión. 
+ 
+De nuestra consideración: 
+ 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 2 correspondiente al 
+mes de abril de 2026, que fue publicado en su página web y cuya publicación fue comunicada a 
+través de la carta DE03513-26 de fecha 26 de mayo de 2026. 
+ 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+ 
+Sin otro particular, saluda cordialmente a usted. 
+ 
+ 
+ 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+ 
+Firmado 
+digitalment
+e por Luis 
+Lorca 
+Arenas
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC ABRIL 2026 V2 
+Servicio Complementario – CPF 
+ 
+i. 
+PE San Gabriel 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+04-04-2026 
+15:20:00 
+- 
+04-04-2026 
+10:00:00 
+04-04-2026 
+17:00:00 
+Según PID de las 11 tiene asignación CPF+ 15 MW y CPF- 24 
+MW. Se notifica por llamada de CECOER a CDC que no 
+cumple con bloque por recurso, por lo tanto, se solicita al 
+Coordinador eliminar este registro de los casos evaluados 
+negativamente. 
+ Se adjunta llamada “_20260404_150738_d.wav”. 
+04-04-2026 
+15:40:00 
+- 
+04-04-2026 
+10:00:00 
+04-04-2026 
+17:00:00 
+Según PID de las 11 tiene asignación CPF+ 15 MW y CPF- 24 
+MW. Se notifica por llamada de CECOER a CDC que no 
+cumple con bloque por recurso, por lo tanto, se solicita al 
+Coordinador eliminar este registro de los casos evaluados 
+negativamente. 
+ Se adjunta llamada “_20260404_150738_d.wav” 
+04-04-2026 
+17:20:00 
+- 
+04-04-2026 
+15:00:00 
+04-04-2026 
+18:00:00 
+Según PID de las 11 NO tiene asignación en este horario. 
+Mediante llamada indica CDC que finaliza CPF, CECOER 
+indica en la misma llamada que estaba sin CPF porque en las 
+horas anteriores el recurso no le permitía cumplir con las 
+reservas. Ok indica CDC. 
+Al no tener asignación de reservas en el horario evaluado y 
+además, al haber informado la indisponibilidad de recurso, 
+se solicita eliminar este registro de los casos evaluados 
+negativamente. 
+ Se adjunta llamada “_20260404_170455_d.wav” 
+04-04-2026 
+17:40:00 
+- 
+04-04-2026 
+15:00:00 
+04-04-2026 
+18:00:00 
+Según PID de las 11 NO tiene asignación en este horario. 
+Mediante llamada indica CDC que finaliza CPF, CECOER 
+indica en la misma llamada que estaba sin CPF porque en las 
+horas anteriores el recurso no le permitía cumplir con las 
+reservas. Ok indica CDC. 
+Al no tener asignación de reservas en el horario evaluado y 
+además, al haber informado la indisponibilidad de recurso, 
+se solicita eliminar este registro de los casos evaluados 
+negativamente. 
+Se adjunta llamada “_20260404_170455_d.wav” 
+04-04-2026 
+23:40:00 
+- 
+04-04-2026 
+22:00:00 
+04-04-2026 
+23:59:00 
+El registro no se encuentra en los reportes del Coordinador, 
+de acuerdo con las revisiones de Acciona esto se habría 
+producido debido al cambio de hora ocurrido en Chile el día 
+05 de abril de 2026. Por lo que se solicita corregir este 
+registro y no considerarlo para la evaluación del desempeño 
+mensual. 
+07-04-2026 
+09:20:00 
+10 
+07-04-2026 
+02:00:00 
+07-04-2026 
+11:00:00 
+La central tenía una asignación de 33MW de CPF de subida 
+(CPF+) según el PID del bloque 3. Al analizar los eventos 
+evaluados, se verifica que la central presenta un desempeño 
+adecuado 
+ante 
+eventos 
+de 
+subfrecuencia 
+(CPF+), 
+cumpliendo con la respuesta esperada para el servicio 
+efectivamente asignado. 
+
+No obstante, la evaluación incorpora eventos de 
+sobrefrecuencia (CPF-), en los cuales el aporte de la central 
+se ve mermado debido a que durante el período analizado 
+ésta operaba con una consigna de 10 MW. En dichas 
+condiciones, la respuesta teórica esperada para CPF(-) 
+implicaba reducir la potencia por debajo de 0 MW, lo que 
+resulta físicamente imposible. Adicionalmente, la central no 
+contaba con asignación de CPF de bajada (CPF-) durante el 
+periodo evaluado. 
+En virtud de lo anterior, se solicita al Coordinador excluir 
+este registro de los casos evaluados negativamente, 
+considerando que la central únicamente tenía asignada 
+reservas de CPF+, condición que requiere mantener un nivel 
+de generación reducido para disponer de la reserva exigida. 
+En consecuencia, no resulta técnicamente procedente 
+evaluar desempeño en eventos de CPF(-) cuando la central 
+no tenía asignación para dicho servicio.  
+11-04-2026 
+11:20:00 
+- 
+11-04-2026 
+11:00:00 
+11-04-2026 
+12:00:00 
+Según Programa tiene asignación de 10MW de CPF-. CDC 
+coordina mediante llamadas retomar CPF, CECOER indica 
+que no puede dar CPF porque no tiene recurso. 
+Se adjunta llamada “_20260411_110007_d.wav” 
+Por lo tanto, se solicita eliminar este registro de la 
+evaluación mensual y de los casos negativos porque tiene 
+un impacto en el cálculo del desempeño. 
+11-04-2026 
+11:30:00 
+- 
+11-04-2026 
+11:00:00 
+11-04-2026 
+12:00:00 
+Según Programa tiene asignación de CPF- 10MW. CDC 
+coordina mediante llamadas retomar CPF, CECOER indica 
+que no puede dar CPF porque no tiene recurso.  
+Se adjunta llamada “_20260411_110007_d.wav” 
+Por lo tanto, se solicita eliminar este registro de la 
+evaluación mensual y de los casos negativos porque tiene 
+un impacto en el cálculo del desempeño. 
+11-04-2026 
+11:40:00 
+- 
+11-04-2026 
+11:00:00 
+11-04-2026 
+12:00:00 
+Según Programa tiene asignación de CPF- 10MW. CDC 
+coordina mediante llamadas retomar CPF, CECOER indica 
+que no puede dar CPF porque no tiene recurso.  
+Se adjunta llamada “_20260411_110007_d.wav” 
+Por lo tanto, se solicita eliminar este registro de la 
+evaluación mensual y de los casos negativos porque tiene 
+un impacto en el cálculo del desempeño. 
+11-04-2026 
+11:50:00 
+- 
+11-04-2026 
+11:00:00 
+11-04-2026 
+12:00:00 
+Según Programa tiene asignación de CPF- 10MW. CDC 
+coordina mediante llamadas retomar CPF, CECOER indica 
+que no puede dar CPF porque no tiene recurso.  
+Se adjunta llamada “_20260411_110007_d.wav” 
+Por lo tanto, se solicita eliminar este registro de la 
+evaluación mensual y de los casos negativos porque tiene 
+un impacto en el cálculo del desempeño. 
+12-04-2026 
+09:20:00 
+- 
+12-04-2026 
+09:00:00 
+12-04-2026 
+11:00:00 
+Según PID del bloque 6, la central tenía una asignación de 
+15MW de CPF de Bajada (CPF-). Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia se ve mermada porque no hay 
+recurso para subir, pero no se tiene asignación de subida. 
+Por lo que se solicita al CEN reconsiderar la evaluación y 
+retirarlo de los casos negativos del mes de abril. 
+
+12-04-2026 
+16:10:00 
+- 
+12-04-2026 
+16:00:00 
+12-04-2026 
+20:00:00 
+Según PID de bloque 6. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+12-04-2026 
+16:20:00 
+- 
+12-04-2026 
+16:00:00 
+12-04-2026 
+20:00:00 
+Según PID de bloque 6. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+12-04-2026 
+17:00:00 
+- 
+12-04-2026 
+16:00:00 
+12-04-2026 
+20:00:00 
+Según PID de bloque 6. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+12-04-2026 
+17:30:00 
+- 
+12-04-2026 
+16:00:00 
+12-04-2026 
+20:00:00 
+Según PID de bloque 6. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+12-04-2026 
+17:50:00 
+- 
+12-04-2026 
+16:00:00 
+12-04-2026 
+20:00:00 
+Según PID de bloque 6. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+12-04-2026 
+19:30:00 
+- 
+12-04-2026 
+16:00:00 
+12-04-2026 
+20:00:00 
+Según PID de bloque 6. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+12-04-2026 
+19:50:00 
+- 
+12-04-2026 
+16:00:00 
+12-04-2026 
+20:00:00 
+Según PID de bloque 6. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+18-04-2026 
+16:30:00 
+183 
+18-04-2026 
+16:00:00 
+18-04-2026 
+17:00:00 
+Según la PID del bloque 6, la central tiene una asignación de 
+3MW de CPF de Bajada (CPF-). Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermada por 
+consigna liberada (potencia nominal), pero no se tiene 
+asignación de CPF de subida (CPF+). 
+Por lo que se solicita al CEN reconsiderar la evaluación y 
+retirarlo de los casos negativos del mes de abril. 
+18-04-2026 
+16:40:00 
+183 
+18-04-2026 
+16:00:00 
+18-04-2026 
+17:00:00 
+Según la PID del bloque 6, la central tiene una asignación de 
+3MW de CPF de Bajada (CPF-). Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermada por 
+consigna liberada (potencia nominal), pero no se tiene 
+asignación de CPF de subida (CPF+). 
+Por lo que se solicita al CEN reconsiderar la evaluación y 
+retirarlo de los casos negativos del mes de abril. 
+19-04-2026 
+10:30:00 
+- 
+19-04-2026 
+08:00:00 
+19-04-2026 
+11:00:00 
+La central tenía una asignación de 16MW de CPF de Bajada 
+(CPF-) según PID de bloque 8. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque no hay recurso adicional para subir, esto porque no 
+se tiene asignación de subida. Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los casos negativos 
+del mes de abril. 
+19-04-2026 
+10:40:00 
+- 
+19-04-2026 
+08:00:00 
+19-04-2026 
+11:00:00 
+La central tenía una asignación de 16MW de CPF de Bajada 
+(CPF-) según PID de bloque 8. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+
+porque no hay recurso adicional para subir, esto porque no 
+se tiene asignación de subida. Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los casos negativos 
+del mes de abril. 
+21-04-2026 
+14:20:00 
+- 
+21-04-2026 
+14:00:00 
+21-04-2026 
+17:00:00 
+Según PID de bloque 15. No tiene asignación en este 
+horario. Se solicita al CEN corregir este registro y no 
+considerarlo para la evaluación del desempeño mensual. 
+21-04-2026 
+14:50:00 
+- 
+21-04-2026 
+14:00:00 
+21-04-2026 
+17:00:00 
+Según PID de bloque 15. No tiene asignación en este 
+horario. Se solicita al CEN corregir este registro y no 
+considerarlo para la evaluación del desempeño mensual. 
+25-04-2026 
+07:10:00 
+- 
+25-04-2026 
+07:00:00 
+25-04-2026 
+14:00:00 
+Según PID de bloque 4. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+25-04-2026 
+07:20:00 
+- 
+25-04-2026 
+07:00:00 
+25-04-2026 
+14:00:00 
+Según PID de bloque 4. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+25-04-2026 
+07:50:00 
+- 
+25-04-2026 
+07:00:00 
+25-04-2026 
+14:00:00 
+Según PID de bloque 4. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+ 
+ii. 
+PE Tolpán Sur 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+01-04-2026 
+08:20:00 
+- 
+01-04-2026 
+05:00:00 
+01-04-2026 
+13:00:00 
+La central tenía una asignación de 17MW de CPF de Subida 
+(CPF+) según PID de bloque 5. Se observa que el evento es 
+mayoritariamente de sobrefrecuencia (CPF-), la central no 
+tenía asignación de CPF de bajada (CPF-) e igualmente se 
+evalúa negativamente. Se solicita la reconsideración de 
+parte del CEN y retirar este registro de los casos negativos 
+del mes de abril. 
+01-04-2026 
+23:30:00 
+- 
+01-04-2026 
+15:00:00 
+01-04-2026 
+23:59:00 
+La central tenía una asignación de 28MW de CPF de Subida 
+(CPF+) según PID de bloque 5. Se observa que el evento es 
+mayoritariamente de sobrefrecuencia (CPF-) y la central no 
+tenía asignación de CPF bajada (CPF-) e igualmente se 
+evalúa negativamente. Se solicita la reconsideración de 
+parte del CEN y retirar este registro de los casos negativos 
+del mes de abril. 
+01-04-2026 
+23:40:00 
+- 
+01-04-2026 
+15:00:00 
+01-04-2026 
+23:59:00 
+La central tenía una asignación de 28MW de CPF de Subida 
+(CPF+) según PID de bloque 5. Se observa que el evento es 
+mayoritariamente de sobrefrecuencia (CPF-) y la central no 
+tenía asignación de CPF bajada (CPF-) e igualmente se 
+evalúa negativamente. Se solicita la reconsideración de 
+parte del CEN y retirar este registro de los casos negativos 
+del mes de abril. 
+04-04-2026 
+23:50:00 
+- 
+04-04-2026 
+22:00:00 
+04-04-2026 
+23:59:00 
+Se identifica llamada a las 23:45 en la que se indica a CDC 
+que Tolpán Sur no tiene recurso y el CDC responde con "OK 
+lo seguimos remplazando". Por lo que no correspondería 
+incluir este caso en la evaluación. 
+Se identifica otra llamada a las 23:50 en la que se coordinan 
+los SSCC de la hora 25 (se entiende por el cambio de hora) y 
+
+en esta llamada se detalla que Tolpán tiene CPF- y no tienen 
+recurso, por lo que no se darán. Esta situación reafirma la 
+necesidad de retirar este registro de la evaluación. 
+08-04-2026 
+09:40:00 
+183 
+08-04-2026 
+09:00:00 
+08-04-2026 
+11:00:00 
+La central tenía una asignación de 12MW de CPF de Bajada 
+(CPF-) según PID de bloque 5. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque mantiene la consigna liberada (potencia nominal), 
+ya que no tenía asignación de CPF de subida (CPF+). Por lo 
+que se solicita al CEN reconsiderar la evaluación y retirarlo 
+de los casos negativos del mes de abril. 
+08-04-2026 
+10:40:00 
+183 
+08-04-2026 
+09:00:00 
+08-04-2026 
+11:00:00 
+La central tenía una asignación de 16MW de CPF de Bajada 
+(CPF-) según PID de bloque 5. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+por consigna liberada (potencia nominal), lo que estaría 
+bien ya que la central no tenía asignación de subida (CPF+). 
+Por lo que se solicita al CEN reconsiderar la evaluación y 
+retirarlo de los casos negativos del mes de abril. 
+11-04-2026 
+11:20:00 
+183 
+11-04-2026 
+11:00:00 
+11-04-2026 
+12:00:00 
+La central tenía una asignación de 5MW de CPF de Bajada 
+(CPF-) según Programa. Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde bien y para los 
+de subfrecuencia (CPF+) se ve mermado su aporte porque 
+mantiene la consigna liberada (potencia nominal), lo que 
+estaría bien ya que no tiene asignación de subida (CPF+). Por 
+lo que se solicita al CEN reconsiderar la evaluación y 
+retirarlo de los casos negativos del mes de abril. 
+11-04-2026 
+11:40:00 
+183 
+11-04-2026 
+11:00:00 
+11-04-2026 
+12:00:00 
+La central tenía una asignación de 5MW de CPF de Bajada 
+(CPF-) según Programa. Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde bien y para los 
+de subfrecuencia (CPF+) se ve mermada por consigna 
+liberada (potencia nominal), pero no se tiene asignación de 
+subida. Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+12-04-2026 
+15:00:00 
+- 
+12-04-2026 
+09:00:00 
+12-04-2026 
+16:00:00 
+La central tenía una asignación de 16MW de CPF de Bajada 
+(CPF-) según PID de bloque 6. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+)  se ve mermado su aporte 
+porque no hay recurso adicional para subir, esta situación 
+estaría bien porque no tiene asignación de CPF de subida 
+(CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+12-04-2026 
+15:10:00 
+- 
+12-04-2026 
+09:00:00 
+12-04-2026 
+16:00:00 
+La central tenía una asignación de 16MW de CPF de Bajada 
+(CPF-) según PID de bloque 6. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque no hay recurso adicional para subir, lo cual estaría 
+bien porque no tenía asignación de CPF de subida (CPF+). 
+Por lo que se solicita al CEN reconsiderar la evaluación y 
+retirarlo de los casos negativos del mes de abril. 
+
+12-04-2026 
+15:30:00 
+- 
+12-04-2026 
+09:00:00 
+12-04-2026 
+16:00:00 
+La central tenía una asignación de 16MW de CPF de Bajada 
+(CPF-) según PID de bloque 6. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque no hay recurso adicional para subir, lo cual estaría 
+bien porque la central no tenía asignación de CPF de subida 
+(CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+12-04-2026 
+15:40:00 
+- 
+12-04-2026 
+09:00:00 
+12-04-2026 
+16:00:00 
+La central tenía una asignación de 16MW de CPF de Bajada 
+(CPF-) según PID de bloque 6. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque no hay recurso adicional para subir, lo cual estaría 
+bien porque la central no tenía asignación de CPF de subida 
+(CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+12-04-2026 
+15:50:00 
+- 
+12-04-2026 
+09:00:00 
+12-04-2026 
+16:00:00 
+La central tenía una asignación de 16MW de CPF de Bajada 
+(CPF-) según PID de bloque 6. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque no hay recurso adicional para subir, lo cual estaría 
+bien porque la central no tenía asignación de CPF de subida 
+(CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+15-04-2026 
+03:10:00 
+- 
+15-04-2026 
+02:00:00 
+15-04-2026 
+05:00:00 
+La central no tenía recurso eólico disponible y se encontraba 
+sin generación, es decir, en 0MW desde las 21:18 del 14/04. 
+Se identifica llamada de las 23:50 en el que se informa que 
+no tiene recurso el CPF de Tolpán Sur, CDC indica que lo 
+reemplazará. 
+Se 
+adjunta 
+llamada 
+“_20260414_235048_d.wav” 
+15-04-2026 
+04:10:00 
+- 
+15-04-2026 
+02:00:00 
+15-04-2026 
+05:00:00 
+La central no tenía recurso eólico disponible y se encontraba 
+sin generación, es decir, en 0MW desde las 21:18 del 14/04. 
+Se identifica llamada de las 23:50 en el que se informa que 
+no tiene recurso el CPF de Tolpán Sur, CDC indica que lo 
+reemplazará. 
+Se 
+adjunta 
+llamada 
+“_20260414_235048_d.wav” 
+15-04-2026 
+04:20:00 
+- 
+15-04-2026 
+02:00:00 
+15-04-2026 
+05:00:00 
+La central no tenía recurso eólico disponible y se encontraba 
+sin generación, es decir, en 0MW desde las 21:18 del 14/04. 
+Se identifica llamada de las 23:50 en el que se informa que 
+no tiene recurso el CPF de Tolpán Sur, CDC indica que lo 
+reemplazará. 
+Se 
+adjunta 
+llamada 
+“_20260414_235048_d.wav” 
+15-04-2026 
+04:30:00 
+- 
+15-04-2026 
+02:00:00 
+15-04-2026 
+05:00:00 
+La central no tenía recurso eólico disponible y se encontraba 
+sin generación, es decir, en 0MW desde las 21:18 del 14/04. 
+Se identifica llamada de las 23:50 en el que se informa que 
+no tiene recurso el CPF de Tolpán Sur, CDC indica que lo 
+reemplazará. 
+Se 
+adjunta 
+llamada 
+“_20260414_235048_d.wav” 
+
+15-04-2026 
+04:40:00 
+- 
+15-04-2026 
+02:00:00 
+15-04-2026 
+05:00:00 
+La central no tenía recurso eólico disponible y se encontraba 
+sin generación, es decir, en 0MW desde las 21:18 del 14/04. 
+Se identifica llamada de las 23:50 en el que se informa que 
+no tiene recurso el CPF de Tolpán Sur, CDC indica que lo 
+reemplazará. 
+Se 
+adjunta 
+llamada 
+“_20260414_235048_d.wav” 
+17-04-2026 
+19:00:00 
+- 
+17-04-2026 
+18:00:00 
+17-04-2026 
+20:00:00 
+Según PID de bloque 1. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+17-04-2026 
+19:10:00 
+- 
+17-04-2026 
+18:00:00 
+17-04-2026 
+20:00:00 
+Según PID de bloque 1. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+17-04-2026 
+19:20:00 
+- 
+17-04-2026 
+18:00:00 
+17-04-2026 
+20:00:00 
+Según PID de bloque 1. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+17-04-2026 
+19:40:00 
+- 
+17-04-2026 
+18:00:00 
+17-04-2026 
+20:00:00 
+Según PID de bloque 1. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+17-04-2026 
+19:50:00 
+- 
+17-04-2026 
+18:00:00 
+17-04-2026 
+20:00:00 
+Según PID de bloque 1. No tiene asignación en este horario. 
+Se solicita al CEN corregir este registro y no considerarlo 
+para la evaluación del desempeño mensual. 
+18-04-2026 
+09:10:00 
+1 
+18-04-2026 
+09:00:00 
+18-04-2026 
+12:42:00 
+La central tenía una asignación de 14MW de CPF de Subida  
+(CPF+) según PID de bloque 6. Se observa que para los 
+eventos de subfrecuencia (CPF+) la central responde bien y 
+para los de sobrefrecuencia (CPF-) se ve mermado su aporte 
+porque mantienen la consigna en 1MW y la teórica pide 
+bajar de 0MW. Lo anterior, sería correcto, ya que la central 
+no tenía asignación de CPF de bajada (CPF-). Por lo que se 
+solicita al CEN reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+20-04-2026 
+09:00:00 
+183 
+20-04-2026 
+08:00:00 
+20-04-2026 
+12:00:00 
+La central tenía una asignación de 28MW de CPF de Bajada 
+según PID de bloque 1. Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde bien y para los 
+de subfrecuencia (CPF+) se ve mermado su aporte porque 
+mantenía la consigna liberada (potencia nominal), lo cual 
+estaría bien porque no tenía asignación de CPF de subida 
+(CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+20-04-2026 
+09:20:00 
+183 
+20-04-2026 
+08:00:00 
+20-04-2026 
+12:00:00 
+La central tenía una asignación de 28MW de CPF de Bajada 
+(CPF-) según PID de bloque 1. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque mantiene la consigna liberada (potencia nominal), 
+lo cual estaría bien porque no tenía una asignación de 
+subida (CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+
+20-04-2026 
+10:10:00 
+183 
+20-04-2026 
+08:00:00 
+20-04-2026 
+12:00:00 
+La central tenía una asignación de 2MW de CPF de Bajada 
+(CPF-) según PID de bloque 1. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque mantenía la consigna liberada (potencia nominal), 
+lo cual estaría bien porque no tenía asignación de CPF de 
+subida (CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+20-04-2026 
+10:20:00 
+183 
+20-04-2026 
+08:00:00 
+20-04-2026 
+12:00:00 
+La central tenía una asignación de 2MW de CPF de Bajada 
+(CPF-) según PID de bloque 1. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque mantenía la consigna liberada (potencia nominal), 
+lo cual estaría bien porque no tenía asignación de CPF de 
+subida (CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+20-04-2026 
+10:30:00 
+183 
+20-04-2026 
+08:00:00 
+20-04-2026 
+12:00:00 
+La central tenía una asignación de 2MW de CPF de Bajada 
+(CPF-) según PID de bloque 1. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque mantenía la consigna liberada (potencia nominal), 
+lo cual estaría bien porque no tenía asignación de CPF de 
+subida (CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+20-04-2026 
+10:40:00 
+183 
+20-04-2026 
+08:00:00 
+20-04-2026 
+12:00:00 
+La central tenía una asignación de 2MW de CPF de Bajada 
+(CPF-) según PID de bloque 1. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque mantenía la consigna liberada (potencia nominal), 
+lo cual estaría bien porque no tenía asignación de CPF de 
+subida (CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+20-04-2026 
+10:50:00 
+183 
+20-04-2026 
+08:00:00 
+20-04-2026 
+12:00:00 
+La central tenía una asignación de 2MW de CPF de Bajada 
+(CPF-) según PID de bloque 1. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque mantenía la consigna liberada (potencia nominal), 
+lo cual estaría bien porque no tenía asignación de CPF de 
+subida (CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+20-04-2026 
+11:20:00 
+183 
+20-04-2026 
+08:00:00 
+20-04-2026 
+12:00:00 
+La central tenía una asignación de 4MW de CPF de Bajada 
+(CPF-) según PID de bloque 1. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque mantenía la consigna liberada (potencia nominal), 
+lo cual estaría bien porque no tenía asignación de CPF de 
+subida (CPF+). Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos del mes de 
+abril. 
+
+20-04-2026 
+11:40:00 
+183 
+20-04-2026 
+08:00:00 
+20-04-2026 
+12:00:00 
+La central tenía una asignación de 4MW de CPF de Bajada 
+(CPF-) según PID de bloque 1. Se observa que para los 
+eventos de sobrefrecuencia (CPF-) la central responde bien 
+y para los de subfrecuencia (CPF+) se ve mermado su aporte 
+porque la central mantenía la consigna liberada (potencia 
+nominal), lo cual estaría bien porque no tenía asignación de 
+CPF de subida (CPF+). Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los casos negativos 
+del mes de abril. 
+21-04-2026 
+02:10:00 
+1 
+21-04-2026 
+01:00:00 
+21-04-2026 
+03:00:00 
+La central tenía una asignación de 17MW de CPF de Subida 
+(CPF+) según PID de bloque 1. Se observa que para los 
+eventos de subfrecuencia (CPF+) la central responde bien y 
+para los de sobrefrecuencia (CPF-) se ve mermado su aporte 
+porque mantenía la consigna en 1MW y la teórica pide bajar 
+de 0MW. Sin embargo, en dicho periodo la central no tenía 
+asignación de CPF de bajada (CPF-). Por lo que se solicita al 
+CEN reconsiderar la evaluación y retirarlo de los casos 
+negativos del mes de abril. 
+21-04-2026 
+19:40:00 
+- 
+21-04-2026 
+14:00:00 
+21-04-2026 
+23:00:00 
+Según PID de bloque 15. No tiene asignación en este 
+horario. Se solicita al CEN corregir este registro y no 
+considerarlo para la evaluación del desempeño mensual. 
+21-04-2026 
+19:50:00 
+- 
+21-04-2026 
+14:00:00 
+21-04-2026 
+23:00:00 
+Según PID de bloque 15. No tiene asignación en este 
+horario. Se solicita al CEN corregir este registro y no 
+considerarlo para la evaluación del desempeño mensual. 
+21-04-2026 
+20:30:00 
+- 
+21-04-2026 
+14:00:00 
+21-04-2026 
+23:00:00 
+Según PID del bloque 15 tiene asignación CPF+ 28MW. Se 
+coordina mediante llamada a las 19:55 con CDC que no hay 
+recurso 
+para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+“_20260421_195504_d.wav” 
+21-04-2026 
+21:10:00 
+- 
+21-04-2026 
+14:00:00 
+21-04-2026 
+23:00:00 
+Según PID del bloque 15 tiene asignación CPF+ 28MW. Se 
+coordina mediante llamada a las 19:55 con CDC que no hay 
+recurso 
+para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+“_20260421_195504_d.wav” 
+21-04-2026 
+22:10:00 
+- 
+21-04-2026 
+14:00:00 
+21-04-2026 
+23:00:00 
+Según PID del bloque 15 tiene asignación CPF+ 28MW. Se 
+coordina mediante llamada a las 19:55 con CDC que no hay 
+recurso 
+para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+“_20260421_195504_d.wav” 
+21-04-2026 
+22:20:00 
+- 
+21-04-2026 
+14:00:00 
+21-04-2026 
+23:00:00 
+Según PID del bloque 15 tiene asignación CPF+ 28MW. Se 
+coordina mediante llamada a las 19:55 con CDC que no hay 
+recurso 
+para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+“_20260421_195504_d.wav” 
+22-04-2026 
+11:30:00 
+- 
+22-04-2026 
+10:00:00 
+22-04-2026 
+15:00:00 
+Según PID del bloque 3 tiene asignación CPF+ 1MW. 
+CECOER indica a CDC que Tolpán sigue sin recurso. Se 
+adjunta llamada “_20260422_105251_d.wav” 
+22-04-2026 
+13:00:00 
+- 
+22-04-2026 
+10:00:00 
+22-04-2026 
+15:00:00 
+Según PID del bloque 3 tiene asignación CPF+ 2MW. CDC 
+indica mediante llamada que sigue reemplazando a Tolpán 
+Sur 
+por 
+recurso. 
+Se 
+adjunta 
+llamada 
+“_20260422_125459_d.wav” 
+22-04-2026 
+13:10:00 
+- 
+22-04-2026 
+10:00:00 
+22-04-2026 
+15:00:00 
+Según PID del bloque 3 tiene asignación CPF+ 2MW. CDC 
+indica mediante llamada que sigue reemplazando a Tolpán 
+Sur 
+por 
+recurso. 
+Se 
+adjunta 
+llamada 
+“_20260422_125459_d.wav” 
+
+22-04-2026 
+13:30:00 
+- 
+22-04-2026 
+10:00:00 
+22-04-2026 
+15:00:00 
+Según PID del bloque 3 tiene asignación CPF+ 2MW. CDC 
+indica mediante llamada que sigue reemplazando a Tolpán 
+Sur 
+por 
+recurso. 
+Se 
+adjunta 
+llamada 
+“_20260422_125459_d.wav” 
+22-04-2026 
+13:40:00 
+- 
+22-04-2026 
+10:00:00 
+22-04-2026 
+15:00:00 
+Según PID del bloque 3 tiene asignación CPF+ 2MW. CDC 
+indica mediante llamada que sigue reemplazando a Tolpán 
+Sur 
+por 
+recurso. 
+Se 
+adjunta 
+llamada 
+“_20260422_125459_d.wav” 
+22-04-2026 
+14:10:00 
+- 
+22-04-2026 
+10:00:00 
+22-04-2026 
+15:00:00 
+Según PID del bloque 3 tiene asignación CPF+ 2MW. CDC 
+indica mediante llamada que sigue reemplazando a Tolpán 
+Sur 
+por 
+recurso. 
+Se 
+adjunta 
+llamada 
+“_20260422_135306_d.wav” 
+22-04-2026 
+14:20:00 
+- 
+22-04-2026 
+10:00:00 
+22-04-2026 
+15:00:00 
+Según PID del bloque 3 tiene asignación CPF+ 2MW. CDC 
+indica mediante llamada que sigue reemplazando a Tolpán 
+Sur 
+por 
+recurso. 
+Se 
+adjunta 
+llamada 
+“_20260422_135306_d.wav” 
+22-04-2026 
+14:40:00 
+- 
+22-04-2026 
+10:00:00 
+22-04-2026 
+15:00:00 
+Según PID del bloque 3 tiene asignación CPF+ 2MW. CDC 
+indica mediante llamada que sigue reemplazando a Tolpán 
+Sur 
+por 
+recurso. 
+Se 
+adjunta 
+llamada 
+“_20260422_135306_d.wav” 
+22-04-2026 
+17:20:00 
+- 
+22-04-2026 
+16:00:00 
+22-04-2026 
+19:00:00 
+Según PID del bloque 3 tiene asignación CPF+ 10MW. 
+CECOER y CDC comentan en llamada al inicio del horario 
+que, si no hay recurso durante el bloque, se le avise a CDC. 
+A las 17:15 CECOER informa que no hay recurso. Se adjuntan 
+llamadas 
+“_20260422_164920_d.wav” 
+y 
+“_20260422_171505_d.wav” 
+22-04-2026 
+17:30:00 
+- 
+22-04-2026 
+16:00:00 
+22-04-2026 
+19:00:00 
+Según PID del bloque 3 tiene asignación CPF+ 10MW. 
+CECOER y CDC comentan en llamada al inicio del horario 
+que, si no hay recurso durante el bloque, se le avise a CDC. 
+A las 17:15 CECOER informa que no hay recurso. Se adjuntan 
+llamadas 
+“_20260422_164920_d.wav” 
+y 
+“_20260422_171505_d.wav” 
+22-04-2026 
+18:00:00 
+- 
+22-04-2026 
+16:00:00 
+22-04-2026 
+19:00:00 
+Sin recurso para cumplir con el bloque asignado. Recién 
+retoma recurso y por consecuencia generación a las 19:00 
+horas. Se coordina mediante llamada con CDC desde las 
+17:15. Se adjunta llamada “_20260422_171505_d.wav” 
+22-04-2026 
+18:10:00 
+- 
+22-04-2026 
+16:00:00 
+22-04-2026 
+19:00:00 
+Sin recurso para cumplir con el bloque asignado. Recién 
+retoma recurso y por consecuencia generación a las 19:00 
+horas. Se coordina mediante llamada con CDC desde las 
+17:15. Se adjunta llamada “_20260422_171505_d.wav” 
+22-04-2026 
+18:20:00 
+- 
+22-04-2026 
+16:00:00 
+22-04-2026 
+19:00:00 
+Sin recurso para cumplir con el bloque asignado. Recién 
+retoma recurso y por consecuencia generación a las 19:00 
+horas. Se coordina mediante llamada con CDC desde las 
+17:15. Se adjunta llamada “_20260422_171505_d.wav” 
+22-04-2026 
+18:30:00 
+- 
+22-04-2026 
+16:00:00 
+22-04-2026 
+19:00:00 
+Sin recurso para cumplir con el bloque asignado. Recién 
+retoma recurso y por consecuencia generación a las 19:00 
+horas. Se coordina mediante llamada con CDC desde las 
+17:15. Se adjunta llamada “_20260422_171505_d.wav” 
+22-04-2026 
+18:40:00 
+- 
+22-04-2026 
+16:00:00 
+22-04-2026 
+19:00:00 
+Sin recurso para cumplir con el bloque asignado. Recién 
+retoma recurso y por consecuencia generación a las 19:00 
+horas. Se coordina mediante llamada con CDC desde las 
+17:15. Se adjunta llamada “_20260422_171505_d.wav” 
+
+25-04-2026 
+17:30:00 
+- 
+25-04-2026 
+14:00:00 
+25-04-2026 
+23:59:00 
+Según PID de bloque 15. No tiene asignación en este 
+horario. Se solicita al CEN corregir este registro y no 
+considerarlo para la evaluación del desempeño mensual. 
+25-04-2026 
+18:40:00 
+- 
+25-04-2026 
+14:00:00 
+25-04-2026 
+23:59:00 
+Sin recurso para cumplir con el bloque asignado. Según PID 
+del bloque 15 tiene asignación CPF+ 14MW, la central no 
+puede cumplir con el bloque asignado. 
+25-04-2026 
+19:10:00 
+- 
+25-04-2026 
+14:00:00 
+25-04-2026 
+23:59:00 
+Según PID del bloque 15 tiene asignación CPF+ 11MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para dar CPF desde las 19:00 horas. Se adjunta llamada 
+“_20260425_190227_d.wav” 
+25-04-2026 
+20:10:00 
+- 
+25-04-2026 
+14:00:00 
+25-04-2026 
+23:59:00 
+Según PID del bloque 15 tiene asignación CPF+ 13MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para dar CPF desde las 19:00 horas. Se adjunta llamada 
+“_20260425_190227_d.wav” 
+25-04-2026 
+20:20:00 
+- 
+25-04-2026 
+14:00:00 
+25-04-2026 
+23:59:00 
+Según PID del bloque 15 tiene asignación CPF+ 13MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para dar CPF desde las 19:00 horas. Se adjunta llamada 
+“_20260425_190227_d.wav” 
+25-04-2026 
+20:30:00 
+- 
+25-04-2026 
+14:00:00 
+25-04-2026 
+23:59:00 
+Según PID del bloque 15 tiene asignación CPF+ 13MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para dar CPF desde las 19:00 horas. Se adjunta llamada 
+“_20260425_190227_d.wav” 
+25-04-2026 
+20:40:00 
+- 
+25-04-2026 
+14:00:00 
+25-04-2026 
+23:59:00 
+Según PID del bloque 15 tiene asignación CPF+ 13MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para dar CPF desde las 19:00 horas. Se adjunta llamada 
+“_20260425_190227_d.wav” 
+25-04-2026 
+20:50:00 
+- 
+25-04-2026 
+14:00:00 
+25-04-2026 
+23:59:00 
+Según PID del bloque 15 tiene asignación CPF+ 13MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para dar CPF desde las 19:00 horas. Se adjunta llamada 
+“_20260425_190227_d.wav” 
+25-04-2026 
+21:00:00 
+- 
+25-04-2026 
+14:00:00 
+25-04-2026 
+23:59:00 
+Según PID del bloque 15 tiene asignación CPF+ 13MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para dar CPF desde las 19:00 horas. Se adjunta llamada 
+“_20260425_190227_d.wav” 
+27-04-2026 
+13:00:00 
+- 
+27-04-2026 
+00:00:00 
+27-04-2026 
+16:00:00 
+Según PID del bloque 12 tiene asignación CPF+ 15MW. 
+Mediante llamada CECOER informa que no hay recurso, CDC 
+indica que reemplazará el servicio. Se adjunta llamada 
+“_20260427_125542_d.wav” 
+27-04-2026 
+13:10:00 
+- 
+27-04-2026 
+00:00:00 
+27-04-2026 
+16:00:00 
+Según PID del bloque 12 tiene asignación CPF+ 15MW. 
+Mediante llamada CECOER informa que no hay recurso, CDC 
+indica que reemplazará el servicio. Se adjunta llamada 
+“_20260427_125542_d.wav” 
+27-04-2026 
+13:40:00 
+- 
+27-04-2026 
+00:00:00 
+27-04-2026 
+16:00:00 
+Según PID del bloque 12 tiene asignación CPF+ 15MW. 
+Mediante llamada CECOER informa que no hay recurso, CDC 
+indica que reemplazará el servicio. Se adjunta llamada 
+“_20260427_125542_d.wav” 
+27-04-2026 
+14:00:00 
+- 
+27-04-2026 
+00:00:00 
+27-04-2026 
+16:00:00 
+Según PID de bloque 15. No tiene asignación en este 
+horario. Se solicita al CEN corregir este registro y no 
+considerarlo para la evaluación del desempeño mensual. 
+
+27-04-2026 
+14:10:00 
+- 
+27-04-2026 
+00:00:00 
+27-04-2026 
+16:00:00 
+Según PID de bloque 15. No tiene asignación en este 
+horario. Se solicita al CEN corregir este registro y no 
+considerarlo para la evaluación del desempeño mensual. 
+27-04-2026 
+14:50:00 
+- 
+27-04-2026 
+00:00:00 
+27-04-2026 
+16:00:00 
+Según PID de bloque 15. No tiene asignación en este 
+horario. Se solicita al CEN corregir este registro y no 
+considerarlo para la evaluación del desempeño mensual. 
+27-04-2026 
+15:00:00 
+- 
+27-04-2026 
+00:00:00 
+27-04-2026 
+16:00:00 
+Según PID del bloque 15 tiene asignación CPF+ 8MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+“_20260427_145534_d.wav” 
+27-04-2026 
+15:10:00 
+- 
+27-04-2026 
+00:00:00 
+27-04-2026 
+16:00:00 
+Según PID del bloque 15 tiene asignación CPF+ 8MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+“_20260427_145534_d.wav” 
+27-04-2026 
+15:30:00 
+- 
+27-04-2026 
+00:00:00 
+27-04-2026 
+16:00:00 
+Según PID del bloque 15 tiene asignación CPF+ 8MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+“_20260427_145534_d.wav” 
+27-04-2026 
+15:40:00 
+- 
+27-04-2026 
+00:00:00 
+27-04-2026 
+16:00:00 
+Según PID del bloque 15 tiene asignación CPF+ 8MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+“_20260427_145534_d.wav” 
+27-04-2026 
+15:50:00 
+- 
+27-04-2026 
+00:00:00 
+27-04-2026 
+16:00:00 
+Según PID del bloque 15 tiene asignación CPF+ 8MW. Se 
+coordina mediante llamada con CDC que no hay recurso 
+para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+“_20260427_145534_d.wav” 
+28-04-2026 
+14:30:00 
+1 
+28-04-2026 
+14:00:00 
+28-04-2026 
+21:00:00 
+La central tenía una asignación de 25MW de CPF de Subida 
+(CPF+) según PID de bloque 14. Se observa que para los 
+eventos de subfrecuencia (CPF+) la central responde bien y 
+para los de sobrefrecuencia (CPF-) se ve mermado su aporte 
+porque la central mantenía una consigna de 1MW y la 
+teórica le pide bajar de 0MW, lo que físicamente es 
+imposible y técnicamente está bien la prestación, ya que no 
+tenía asignación de CPF de bajada (CPF-). Por lo que se 
+solicita al CEN reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+28-04-2026 
+20:00:00 
+- 
+28-04-2026 
+14:00:00 
+28-04-2026 
+21:00:00 
+Según PID del bloque 14 tiene asignación CPF+ 8MW. Se 
+informa a CDC mediante llamada que no hay recurso. Se 
+adjunta llamada “_20260428_195946_d.wav” 
+28-04-2026 
+20:20:00 
+- 
+28-04-2026 
+14:00:00 
+28-04-2026 
+21:00:00 
+Según PID del bloque 14 tiene asignación CPF+ 8MW. Se 
+informa a CDC mediante llamada que no hay recurso. Se 
+adjunta llamada “_20260428_195946_d.wav” 
+29-04-2026 
+21:20:00 
+- 
+29-04-2026 
+21:00:00 
+29-04-2026 
+23:59:00 
+Según PID de bloque 15. No tiene asignación en este 
+horario. Se solicita al CEN corregir este registro y no 
+considerarlo para la evaluación del desempeño mensual. 
+29-04-2026 
+21:30:00 
+- 
+29-04-2026 
+21:00:00 
+29-04-2026 
+23:59:00 
+Según PID de bloque 15. No tiene asignación en este 
+horario. Se solicita al CEN corregir este registro y no 
+considerarlo para la evaluación del desempeño mensual. 
+
+29-04-2026 
+21:40:00 
+- 
+29-04-2026 
+21:00:00 
+29-04-2026 
+23:59:00 
+Según PID de bloque 15. No tiene asignación en este 
+horario. Se solicita al CEN corregir este registro y no 
+considerarlo para la evaluación del desempeño mensual. 
+30-04-2026 
+15:30:00 
+- 
+30-04-2026 
+15:00:00 
+30-04-2026 
+16:00:00 
+Mediante llamada CECOER informa que no puede cumplir 
+con los 7MW asignado, dado que se tienen 5MW aprox, CDC 
+indica que lo active de todas formas y en los 10 minutos 
+evaluados 
+se 
+va 
+a 
+0MW. 
+Se 
+adjunta 
+llamada 
+“_20260430_145354_d.wav” 
+ 

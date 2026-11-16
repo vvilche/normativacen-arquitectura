@@ -1,0 +1,161 @@
+ 
+Santiago, 04 de marzo de 2026 
+OP 036-26 
+ 
+ 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+MATERIA: 
+RESPUESTA 
+CARTA 
+DE00992-26: 
+CUMPLIMIENTO 
+DE 
+DISPONIBILIDAD DE SEÑALES SITR PARA LA PRESTACIÓN DE SSCC 
+DE ENEL GENERACIÓN CHILE S.A. Y ENEL GREEN POWER S.A. 
+ 
+REF [1]:         CARTA DE00992-26 DEL COORDINADOR DE FECHA 11 DE FEBRERO 
+DE 2026  
+ 
+ 
+ 
+De nuestra consideración: 
+ 
+En relación con la carta de la REF [1], de fecha 11 de febrero de 2026, mediante la cual 
+ese Coordinador informa observaciones asociadas a la disponibilidad y calidad de 
+determinadas señales SITR correspondientes a instalaciones de Enel Generación Chile 
+S.A. y Enel Green Power Chile S.A., le podemos comentar lo siguiente: 
+ 
+En el marco de lo solicitado, hemos realizado diversas validaciones técnicas, tanto en 
+terreno como en nuestros sistemas SCADA y en los enlaces ICCP hacia el Coordinador 
+Eléctrico Nacional, con el objeto de verificar el correcto envío, actualización y calidad de 
+las variables observadas. 
+ 
+Como resultado de dichas revisiones, podemos informar que todos los sistemas analizados 
+evidencian que las variables se encuentran enviándose conforme a la normativa vigente, 
+presentando buena calidad, con refresco adecuado, sin detectarse señales estáticas, 
+congeladas o con indisponibilidad en nuestros sistemas de origen. 
+ 
+A continuación, se detallan los principales antecedentes de las pruebas efectuadas: 
+ 
+Central PILMAIQUÉN: 
+ 
+• 
+Al momento de la revisión, la conexión ICCP-A se encontraba activa y en 
+comunicación con el CEN. 
+ 
+• 
+Se realizaron pruebas de conectividad mediante ping, sin registrarse pérdidas ni 
+anomalías. 
+ 
+• 
+Las variables asociadas a CENTRAL PILMAIQUÉN se encuentran llegando con 
+buena calidad y refrescándose periódicamente, dentro de los parámetros 
+establecidos en la normativa vigente. 
+ 
+• 
+Los datos medidos en terreno presentan variaciones en el tercer y/o cuarto decimal; 
+no obstante, se ha observado que en el sitio web del CEN dichas variables aparecen 
+en diversas oportunidades como inválidas, situación que no se condice con los 
+registros de nuestros sistemas. 
+ 
+
+ 
+2
+ 
+En el Anexo N°1 de la presente comunicación, se anexan los resultados de las pruebas 
+efectuadas. 
+ 
+ 
+Centrales TER ATACAMA y TER TALTAL: 
+ 
+• 
+Las señales observadas fueron revisadas en nuestro sistema SPECTRUM, 
+constatándose que los datos se encuentran válidos, actualizándose correctamente 
+y enviándose de acuerdo con la normativa vigente, en condiciones equivalentes a 
+las descritas en el punto anterior para Central Pilmaiquén. 
+ 
+ 
+Adicionalmente, y en relación con la calificación de determinadas señales como “No 
+Verificables” y su eventual impacto en el cálculo del desempeño de la prestación de 
+Servicios Complementarios (SSCC), estimamos relevante señalar que, conforme a las 
+validaciones efectuadas en nuestros sistemas de origen, no se evidencian condiciones 
+técnicas que impidan la verificación de dichas señales, ni situaciones de indisponibilidad, 
+congelamiento o falta de refresco que justifiquen dicha condición. En este contexto, 
+entendemos que la clasificación señalada podría estar asociada a criterios de visualización, 
+resolución o procesamiento en los sistemas del Coordinador, motivo por el cual 
+consideramos fundamental realizar una revisión técnica conjunta, a fin de evitar impactos 
+en la evaluación de desempeño que no se encuentren debidamente sustentados en el 
+comportamiento real de las variables medidas. 
+ 
+En atención a que no se han detectado inconvenientes técnicos en el envío ni en la calidad 
+de los datos desde nuestros sistemas, solicitamos respetuosamente que se puedan 
+coordinar pruebas conjuntas con el equipo SCADA o el área técnica que ese Coordinador 
+estime pertinente.  
+ 
+Este trabajo colaborativo permitirá validar en conjunto, desde ambos extremos de la 
+comunicación, el correcto cumplimiento normativo de las variables señaladas en su carta. 
+ 
+Para tales efectos, manifestamos desde ya nuestra total disposición para coordinar la 
+participación de nuestros proveedores y contratistas, con el objetivo de asegurar una 
+revisión integral y una resolución efectiva de las inquietudes planteadas por el Coordinador 
+respecto de las señales referidas. 
+ 
+Sin otro particular, y quedando atentos a su respuesta para coordinar las actividades 
+señaladas,  
+ 
+Saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adrián Guzmán M. 
+Encargado (S) CEN 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+3
+ANEXO N°1 
+ 
+ANTECEDENTES DE LAS PRUEBAS EFECTUADAS EN CENTRAL PILMAIQUÉN 
+ 
+• 
+Al momento de conexión ICCP-A se encuentra activo en comunicación con CEN:  
+• 
+ 
+ 
+ 
+ 
+• 
+Se hizo prueba de conexión mediante ping, sin problemas. 
+ 
+ 
+ 
+• 
+Los datos de PILMAIQUEN están llegando en buena calidad y refrescándose 
+periódicamente dentro de la normativa vigente. 
+
+ 
+4
+ 
+ 
+• 
+Datos en terreno presentan variaciones en el tercer y/o cuarto decimal, sin 
+embargo, en sitio web del CEN se muestran en varias oportunidades como 
+invalidas. 
+ 

@@ -1,0 +1,46 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 10 DE FEBRERO.2025 
+COM-01/2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para enero del 2025. 
+ 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para enero 2025 
+ 
+1) 
+El día 21 de enero, entre las 09:06 y las 09:21, el CDC instruyó la activación de CTF (+) en la central 
+TENO_DIESEL. Posteriormente, entre las 09:47 y las 10:33, se volvió a dar la instrucción de 
+activación de CTF (+) a la central. En el archivo CTF_202501, publicado por el Coordinador, se 
+evidencia que la primera activación cumplió con un desempeño del 100%, mientras que la segunda 
+activación presentó un desempeño del 0%. Sin embargo, en el informe publicado se asocia un 
+desempeño del 0% al bloque horario entre las 09:00 y las 10:00, a pesar de que la activación 
+predominante en ese bloque cumplió con un desempeño del 100%. Se solicita que el desempeño 
+de la primera activación quede asociado al bloque entre las 09:00 y las 10:00, mientras que el 
+desempeño de la segunda activación sea asociado al bloque entre las 10:00 y las 11:00. 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+Gustavo Venegas H. 
+Encargado Titular 
+Enlasa Generación Chile S.A. 
+ 
+ 

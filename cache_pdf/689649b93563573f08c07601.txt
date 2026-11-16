@@ -1,0 +1,50 @@
+ 
+ 
+ 
+RI-000026-2025 
+Santiago, 7 de agosto de 2025 
+Señora 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Ref: Protocolo Específico de Pruebas Equipos de Vinculación Paños K1, K2, K3, K4, 
+KT1, KT2, J4, J5, JT1 y JT2 en S/E Ancoa 
+Estimada Sra. Subgerente de Análisis y Soporte Operacional: 
+Junto con saludar, por medio de la presente y para dar cumplimiento con lo establecido 
+en el Anexo Técnico “Verificación de instalaciones para la prestación de SSCC” de la 
+Norma Técnica de Servicios Complementarios, se adjuntan los Protocolos Específicos 
+de Pruebas para la Verificación de Servicios Complementarios - Equipo de Vinculación 
+asociados a los paños K1, K2, K3, K4, KT1, KT2, J4, J5, JT1 y JT2 de S/E Rancagua, según 
+el siguiente listado:
+• 
+EN202709.1_PEP_SSCC_EV_SE Ancoa_K1_Rev.0 
+• 
+EN202709.1_PEP_SSCC_EV_SE Ancoa_K2_Rev.0 
+• 
+EN202709.1_PEP_SSCC_EV_SE Ancoa_K3_Rev.0 
+• 
+EN202709.1_PEP_SSCC_EV_SE Ancoa_K4_Rev.0 
+• 
+EN202709.1_PEP_SSCC_EV_SE Ancoa_KT1_Rev.0 
+• 
+EN202709.1_PEP_SSCC_EV_SE Ancoa_KT2_Rev.0 
+• 
+EN240709.1_PEP_SSCC_EV_SE Ancoa_J4_Rev.0 
+• 
+EN240709.1_PEP_SSCC_EV_SE Ancoa_J5_Rev.0 
+• 
+EN240709.1_PEP_SSCC_EV_SE Ancoa_JT1_Rev.0 
+• 
+EN240709.1_PEP_SSCC_EV_SE Ancoa_JT2_Rev.
+ 
+Quedamos atentos a sus comentarios u observaciones. 
+Le saluda atentamente, 
+TRANSELEC S.A. 
+ 
+ 
+ 
+Alfredo Cárdenas Ocampo 
+Subgerente Planificación y Regulación 
+ 
+ 
+Docusign Envelope ID: 8556AECC-1D48-44CA-98A3-7CADF6770A37

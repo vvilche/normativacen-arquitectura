@@ -1,0 +1,397 @@
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                            Agustinas 1343, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+1 
+Santiago, 21 de Septiembre de 2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+BF-E-CAE-2026-091: 
+Respuesta 
+al 
+requerimiento N° 1000095 de la plataforma 
+Omnicanal del Coordinador Eléctrico Nacional, 
+asociado a la carta DE05854-26. 
+[1] 
+DE05854-26: 
+Solicita 
+antecedentes 
+técnicos de los relés con función de gradiente 
+de frecuencia (ROCOF) asociados a esquemas 
+EDAC y EDAG. 
+[2] DE05072-26: Ref. BF-E-CAE-2026-055: 
+Respuesta a Observaciones propuesta de 
+adecuación Esquema de Desconexión de Carga 
+por Baja Frecuencia. 
+De nuestra consideración,  
+ 
+Por medio de la presente, y en relación con lo solicitado mediante la carta DE05854-26 
+[1], referida a los antecedentes técnicos de los relés con función de gradiente de 
+frecuencia (ROCOF) asociados a esquemas EDAC y EDAG, informamos que los 
+antecedentes requeridos fueron ingresados en la plataforma Omnicanal del Coordinador 
+Eléctrico Nacional, bajo el requerimiento N° 1000095. En particular, informamos lo 
+siguiente: 
+1. Identificación del equipo y alcance: De acuerdo con lo solicitado en el archivo 
+“Anexo_2_Planilla_reles_ROCOF_EDAC_EDAG”, 
+Bioenergías 
+Forestales 
+SpA 
+informa la totalidad de los relés que participan en los esquemas EDAC de Baja 
+Frecuencia y EDAC por Contingencia Específica. 
+Asimismo, en el Anexo N° 1 de la presente comunicación se adjunta table con el 
+detalle de las cargas declaradas por BF correspondientes al EDAC integrado zona 
+Centro, Sur y Araucanía. Estas cargas han sido definidas de acuerdo con los 
+anexos 
+del 
+Informe 
+de 
+Servicios 
+Complementarios 
+(SSCC) 
+2026 
+y, 
+específicamente, con el documento “Anexo E - Control de Contingencia”. 
+En particular, se informa que los antecedentes asociados a los relés de Baja 
+Frecuencia y de Contingencia Específica vinculados con las cargas de Zona Centro 
+
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                            Agustinas 1343, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+2 
+Cordillera 1 y Cordillera 2 se adjuntan a la presente comunicación y fueron 
+cargados en la plataforma Omnicanal, bajo el requerimiento N° 1000095. Lo 
+anterior se realiza aún cuando dichas cargas no se encuentran consideradas 
+dentro de las cargas propuestas en el “Anexo E - Control de Contingencia”, debido 
+a que el proyecto de normalización del EDAC del Complejo Cordillera se encuentra 
+actualmente en ejecución y contempla su término en Marzo 2027. 
+Por último, respecto de la carga asociada a CMPC Laja en el EDAC Zona Sur, se 
+informa que su incorporación se encuentra en revisión conjunta con los equipos 
+técnicos del Coordinador Eléctrico Nacional, con el objeto de determinar la 
+aplicabilidad de dicha carga dentro del complejo autoproductor CMPC Laja. 
+2. Ajustes implementados: De acuerdo con lo solicitado en el archivo 
+“Anexo_2_Planilla_reles_ROCOF_EDAC_EDAG”, se detalla la configuración de los 
+ajustes actuales de los relés con ROCOF en las columnas de la sección “2. Ajustes 
+implementados”, con base a la información de los equipos instalados en terreno 
+y de los manuales adjuntos a la presente respuesta.  
+La información que no fue posible encontrar se encuentra identificada en color 
+amarillo. Adicionalmente, se adjuntan los print-outs de los relés participantes, los 
+cuales también fueron incorporados en la plataforma Omnicanal del Coordinador 
+Eléctrico Nacional, bajo el requerimiento N° 1000095. 
+3. Medición de ROCOF declarada por el fabricante: De acuerdo con lo solicitado 
+en el archivo “Anexo_2_Planilla_reles_ROCOF_EDAC_EDAG” y en la carta 
+DE05854-26, Bioenergías Forestales SpA realizó las gestiones correspondientes 
+con la finalidad de entregar los antecedentes solicitados con fabricantes Beckwith 
+Electric y General Electric.  
+Es importante detallar que estas marcas/Modelos corresponden a la totalidad de 
+los relés que actualmente operan en instalaciones con cargas incorporadas en los 
+escalones de gradiente 5 y 6 del EDAC de Baja Frecuencia y en el escalón 3 del 
+EDAC por Contingencia Específica, lo anterior se puede corroborar en 
+“Anexo_2_Planilla_reles_ROCOF_EDAC_EDAG”, 
+Al respecto, Beckwith Electric proporcionó la información solicitada mediante el 
+documento “National Electric Chile 81 signed”, en el cual se detallan los 
+antecedentes requeridos en el numeral 3” Medición de ROCOF declarada por el 
+fabricante” 
+del 
+requerimiento 
+N° 
+1000095, 
+además 
+de 
+información 
+complementaria. Por otra parte, se adjuntan los antecedentes de las gestiones 
+realizadas ante CRT Chile SpA, representante de General Electric en Chile, 
+respecto de las cuales no se obtuvo respuesta. En consecuencia, la información 
+no encontrada se identifica en color amarillo en las columnas correspondientes 
+del archivo “Anexo_2_Planilla_reles_ROCOF_EDAC_EDAG”. 
+
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                            Agustinas 1343, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+3 
+Con el objeto de mantener la transparencia y trazabilidad de la información 
+proporcionada, se adjuntan además los manuales y las hojas técnicas de los relés 
+utilizados. 
+4. Conformidad declarada: De acuerdo con lo solicitado en el archivo 
+“Anexo_2_Planilla_reles_ROCOF_EDAC_EDAG” 
+y 
+con 
+lo 
+señalado 
+precedentemente en el apartado N°3 “Medición de ROCOF declarada por el 
+fabricante”, Beckwith Electric proporcionó la información requerida mediante el 
+documento “National Electric Chile 81 signed”, en el cual declara que el modelo 
+M-7679 cumple con el estándar de desempeño establecido en la norma IEC 
+60255-181:2019. 
+Por su parte, no se obtuvo respuesta de CRT Chile SpA, representante de General 
+Electric en Chile. Por esta razón, y al no contarse con dicha información, en las 
+columnas 
+correspondientes 
+del 
+archivo 
+“Anexo_2_Planilla_reles_ROCOF_EDAC_EDAG” 
+se 
+dejó 
+constancia 
+de 
+la 
+información no encontrada, específicamente en la columna “Gestiones realizadas 
+ante el fabricante cuando el dato no se declara”. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marcelo Lagos Peña. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+Encargado Suplente Bioenergías Forestales SpA.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                            Agustinas 1343, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+4 
+Anexo [1]: Tabla BF EDAC 2026. Referencia a carta DE05072-26: Ref. BF-E-CAE-
+2026-055: Respuesta a Observaciones propuesta de adecuación Esquema de 
+Desconexión de Carga por Baja Frecuencia. 
+ 
+ 
+ 
+Nota 1: Debido a proyecto de reemplazo de equipos EDAC es necesario reagrupar cargas 
+en media tensión. 
+Figura 1. Propuesta EDAC CMPC Zona Centro DA 
+ 
+48,9Hz
+48,7Hz
+48,5Hz
+48,3Hz
+49Hz;-0,6Hz/s 48,8Hz;-0,6Hz/s
+1
+2
+3
+4
+5
+6
+Maule 1
+Línea Aérea Ote.
+3
+Maule 2
+Transformador N°3 Twin Flow 1 y 2
+1,5
+Maule 3
+Papel Viejo, Proyecto BTMP44
+2
+Maule 4
+Refinador Línea 1
+12
+Maule 5
+3000 Twin Flow 3 y 4
+1,7
+Softys PA 1
+PRP
+1
+Softys PA 2
+MP17+Refinación
+3,2
+Softys PA 3
+MP16
+Softys PA 4
+Conversión y sanitarios
+Chimolsa1
+Toda la planta
+2,1
+Cordillera1
+Conversión
+0
+Cordillera2
+MP20
+0
+Softys TA
+MP1 y MP2 (*)
+4,51
+Softys TA
+Celda C7 [MP3]
+2,56
+1,7
+2,1
+5,7
+0
+19,07
+5
+EDAC CMPC Zona Centro DA
+Escalón
+Total
+EDAC CMPC Zona Sur DA
+48,9Hz
+48,7Hz
+48,5Hz
+48,3Hz
+49Hz;-0,6Hz/s 48,8Hz;-0,6Hz/s
+Escalón
+1
+2
+3
+4
+5
+6
+AMSA 1
+AMSA 2
+1
+AGA 1
+4,1
+AGA 2
+0,8
+ERCO 1
+ERCO 2
+PLYWOOD1
+PLYWOOD2
+3,2
+CMPC Laja*
+5
+CMPC Pacífico*
+CMPC Santa Fe*
+3,2
+Total
+4,9
+0
+3,2
+0
+5,0
+4,2
+(*) Central Autoproductor
+
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                            Agustinas 1343, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+5 
+ 
+Figura 2. Propuesta EDAC CMPC Zona Sur DA 
+ 
+ 
+Figura 3. Propuesta EDAC CMPC Zona Araucanía DA 
+ 
+ 
+Nota 2: Por proyecto de reemplazo de protecciones EDAC-Cex es necesario reagrupar 
+cargas en media tensión por lo que aumenta de 7,6 a 10 MW 
+Figura 4. Propuesta EDAC-CE CMPC. 
+EDAC CMPC Araucanía DA-DB
+48,9Hz
+48,7Hz
+48,5Hz
+48,3Hz
+49Hz;-0,6Hz/s 48,8Hz;-0,6Hz/s
+Escalón
+1
+2
+3
+4
+5
+6
+Valdivia 1
+0,74
+Valdivia 2 
+0,91
+Total
+0
+0
+0,74
+0,91
+0
+0
+49,5 Hz;-0,9Hz/s49,5 Hz;-1,2Hz/s49,5 Hz;-1,9Hz/s
+1
+2
+3
+Maule 1
+Cargas EDAC-Cex 
+12
+Cordillera 1
+Cargas EDAC-Cex 
+7,6
+Escalón
+EDAC CMPC Zona Centro Contingencia Extrema

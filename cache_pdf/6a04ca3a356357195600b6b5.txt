@@ -1,0 +1,100 @@
+ 
+Av. Parque Isidora Sur 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+  
+ 
+Santiago, 13 de mayo de 2026 
+ 
+DE 03245-26 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Según Lista de Distribución 
+Presente  
+ 
+Ref.: Incumplimiento en el envío a través del 
+SITR del Coordinador de la señal de Potencia 
+Disponible para parques ERV.  
+ 
+[1] Carta DE08408-25 del 30 de diciembre de 
+2025. 
+[2] Carta DE00654-26 del 29 de enero de 
+2026. 
+ 
+De nuestra consideración: 
+ 
+Me dirijo a usted con relación a las comunicaciones de la Ref. [1] y [2], mediante 
+las cuales este Coordinador solicitó a su representada el envío de un plan de acción 
+para implementar el envío —a través del SITR— y/o corregir la calidad del dato 
+correspondiente a la señal de potencia disponible de sus instalaciones, antes del 
+13 de febrero de 2026. 
+Al respecto, habiendo vencido el plazo otorgado, y conforme al levantamiento de 
+información realizado respecto del estado actual de las señales SITR configuradas 
+en el sistema SCADA de este Coordinador, se ha constatado que su representada 
+no remitió el plan de acción solicitado ni regularizó la señal de potencia disponible 
+respecto de los parques generadores indicados en el Anexo 1. 
+En consecuencia, se requiere a su representada que, dentro del plazo de cinco 
+días hábiles contado desde la recepción de la presente comunicación, informe 
+fundadamente las razones, antecedentes o circunstancias que estime pertinentes 
+respecto del incumplimiento antes señalado. 
+La información deberá ser remitida a través de la plataforma Conecta CEN 
+(https://omnicanal.coordinador.cl/). En caso de requerir consultas, pruebas SITR u 
+otra gestión en relación con lo solicitado, agradeceré comunicarse directamente a 
+las direcciones electrónicas dmap@coordinador.cl y tec.scada@coordinador.cl. 
+Se hace presente que la información que su representada remita dentro del plazo 
+indicado será puesta en conocimiento de la Superintendencia de Electricidad y 
+Combustibles, conjuntamente con los antecedentes que dan cuenta del 
+incumplimiento de la exigencia normativa aplicable y de la falta de presentación del 
+plan de acción requerido por este Coordinador dentro del plazo otorgado, o de la 
+regularización de las señales.  
+
+ 
+Av. Parque Isidora Sur 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Asimismo, se deja constancia de que el presente requerimiento no constituye una 
+prórroga del plazo originalmente conferido ni una nueva oportunidad para dar 
+cumplimiento a la instrucción impartida, sino únicamente una instancia para que su 
+representada entregue los antecedentes que estime pertinentes respecto del 
+incumplimiento constatado. 
+Sin otro particular, le saluda atentamente a usted, 
+ 
+ 
+Rodrigo Espinoza V.                      
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+GO/SGASO/SGOTR/DMAP/DCST/DSE 
+ 
+Incluye: Lo indicado.  
+ 
+c.c.:     
+Sres. Gerentes Generales Empresas Coordinadas – Según lista de Distribución. 
+Sr. Diego Perales R. – Director Unidad Legal.  
+Sr. Rodrigo Barbagelata S. – Director Unidad de Regulación. 
+
+ 
+Av. Parque Isidora Sur 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Lista de Distribución: 
+ 
+1. ANDES SOLAR II SPA 
+2. ANDES SOLAR IV SPA 
+3. ENEL GREEN POWER CHILE S.A. 
+4. ENEL GREEN POWER CHILE S.A. 
+5. ENEL GREEN POWER CHILE S.A. 
+6. ENERGÍA CERRO EL MORADO S.A. 
+7. ENFRAGEN CHILE SOLAR SPA 
+8. ENLASA GENERACIÓN CHILE S.A. 
+9. FOTOVOLTAICA DE LOS ANDES SPA 
+10. FOTOVOLTAICA SOL DEL NORTE SPA 
+11. HUEMUL ENERGIA SPA 
+12. CFC HOLDINGS SPA 
+13. PLANTA SOLAR SAN PEDRO III SPA 
+14. ALBA SPA 
+15. BOLERO SPA 
+16. COMPAÑÍA BARRICK CHILE GENERACIÓN SPA 
+17. ENEL GENERACIÓN CHILE S.A. 
+18. ENERGÍAS UCUQUER DOS S.A. 
+19. RÍO ALTO SPA 

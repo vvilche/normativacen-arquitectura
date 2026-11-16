@@ -1,0 +1,48 @@
+CORRELATIVO DE 08179-25 
+Asunto: Responde a carta DE09181-25 ESTUDIO DE PLAN DE DEFENSA CONTRA 
+CONTINGENCIAS - PFV y BESS de Generación Solar SpA 
+ 
+ 
+De: Eugenio Ernesto Quintana Painemal <eugenio.quintana@coordinador.cl>  
+Enviado el: lunes, 22 de diciembre de 2025 20:11 
+Para: eliseo.lopez@southenergy.cl 
+CC: Víctor Velar Guerrero <Victor.Velar@coordinador.cl>; Rodrigo Espinoza Vilches 
+<Rodrigo.Espinoza@coordinador.cl>; Jorge Vargas Cáceres <Jorge.Vargas@coordinador.cl>; 
+Alejandra Domínguez Rivera <Alejandra.Dominguez@coordinador.cl> 
+Asunto: Responde a carta DE09181-25 ESTUDIO DE PLAN DE DEFENSA CONTRA CONTINGENCIAS - 
+PFV y BESS de Generación Solar SpA 
+ 
+Estimado Eliseo, 
+ 
+Junto con saludar, en relación con su carta DE09181-25 de fecha 08.09.2025 respecto del 
+BESS María Elena y su consideración en el EDAG Zona Norte, se aclara lo siguiente: 
+ 
+De acuerdo con lo indicado en el ISSCC, lo que corresponde implementar en el EDAG es lo 
+asociado al parque fotovoltaico. Por lo tanto, por ahora deben implementar el EDAG solo para 
+el parque PFV, el cual debe desconectarse sin desconectar al BESS. Esto no descarta que en 
+el futuro se pueda incluir el BESS en el EDAG si es que los recursos para el control de 
+contingencias son insuficientes. En tal caso, se instruirá formalmente su implementación. 
+ 
+Ustedes pueden licitar e implementar el EDAG para ambos (PFV y BESS), pero se deja explícito 
+que solo se remunerará lo asociado al parque PFV y que la parte del BESS no debe habilitarse 
+ni se remunerará mientras no se encuentre incorporado en el ISSCC. Además, la desconexión 
+de ambas instalaciones debe ser independiente. En consecuencia, en la licitación que 
+realicen, las ofertas deben venir separadas para implementar EDAG sobre el PFV y sobre el 
+BESS. 
+ 
+Saludos cordiales. 
+ 
+ 
+ 
+Eugenio Quintana 
+Jefe del Departamento Estudios Eléctricos 
+Gerencia Operación 
+  
+Santiago de Chile 
+Tel: +56 2 23672460 
+ www.coordinador.cl 
+  
+ 
+  
+  
+ 

@@ -1,0 +1,702 @@
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+Santiago, 18 de febrero de 2025
+ DE 01036-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: 
+Actualización 
+del 
+Cronograma 
+de 
+Verificación de Servicios Complementarios 
+(SSCC) 
+en 
+instalaciones 
+existentes 
+de 
+Generación y Almacenamiento. 
+[1]
+Carta DE06362-24, Ref.: “Cronograma
+Definitivo del proceso de verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+en 
+instalaciones existentes de Generación y 
+Almacenamiento”, de fecha 11 de diciembre 
+de 2024. 
+De mi consideración: 
+En relación con la materia de la referencia, informo a Ud. que se encuentra disponible en 
+el sitio web del Coordinador la actualización del Cronograma del proceso de verificación 
+de Servicios Complementarios (SSCC) en instalaciones existentes de Generación y 
+Almacenamiento, que fuera publicado mediante comunicación de la Ref. [1].  
+Al respecto, la actualización se debe a la homologación realizada del calendario de 
+verificación con los Anexos vigentes del ISSCC 2025, encontrándose en Anexo 1 el 
+detalle de las instalaciones que se ven modificadas respecto a la versión publicada 
+mediante carta de la Ref. [1].  
+Cabe destacar que de acuerdo con lo establecido en el artículo 4-5 de la NTSSCC, la 
+verificación de las instalaciones mencionadas, por ser consideradas existentes en el 
+presente régimen de SSCC, podrán realizar los ensayos y respectivos informes por el 
+titular de las instalaciones mediante personal propio o mediante un tercero, lo que deberá 
+ser notificado oportunamente al Coordinador al momento de enviar el plan de trabajo para 
+normalizar el presente requerimiento normativo. En dicho sentido, para estas 
+instalaciones no es necesario que el Coordinador valide al Experto Técnico, pero éste si 
+revisará y aprobará los protocolos de verificación, los cuales deberán ser enviados al 
+Coordinador al menos 15 días previos a la fecha estimada de realización de los ensayos. 
+Cabe recordar que en el caso de la verificación del Servicio Complementario de Control 
+Secundario de Frecuencia (CSF), es el Coordinador quien cumple el rol de Experto 
+Técnico. Por lo tanto, y a efectos de coordinar las actividades y concretar la verificación 
+del CSF, deberá tomar contacto con el Departamento de Modelación y Aplicaciones EMS 
+al correo dmap@coordinador.cl. En el Anexo 2 a la presente carta se encuentra el listado 
+de señales requeridas en este proceso, las que de ser necesario deberá regularizar, en 
+forma previa, con el Departamento SCADA y SITR del Coordinador. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Finalmente, informamos que el Cronograma actualizado puede ser descargado desde el 
+Sitio Web del Coordinador Eléctrico Nacional en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso 
+de Verificación de Instalaciones > Cronograma de Verificación > Calendario de 
+Instalaciones de Generación > Cronograma Verificación SSCC en instalaciones de 
+Generación Versión 2025.02.18 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+CRV/adr 
+ 
+ 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+Anexo 1: Listado de instalaciones que han sido modificadas en el cronograma de verificación de unidades generadoras. 
+ 
+Tabla N°1: Unidades que presentan cambios en cronograma de verificación 
+N° 
+Coordinado 
+Nombre Instalación 
+Descripción modificación realizada 
+1 
+ARAUCO BIOENERGÍA 
+S.A. 
+TER CELCO U1 
+Se incorpora al cronograma para prestación de CPF. Instalación integrada en 
+el Estudio del Plan de Recuperación del Servicio (PRS) 2024, publicado 
+mediante carta DE03333-24 del 28 de junio de 2024. 
+2 
+ELÉCTRICA PUNTILLA 
+S.A. 
+HP ITATA U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+3 
+ELÉCTRICA PUNTILLA 
+S.A. 
+HP PUNTILLA U1 a U3 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+4 
+ANDES SOLAR II SPA 
+PFV ANDES SOLAR II-B 
+Se homologa fecha de entrega de los informes de verificación del PFV Andes 
+Solar II SpA en conjunto con la fecha de entrega de los informes de 
+verificación del BESS del PFV Andes Solar II-B, según fuera consignado en 
+carta DE06362-24 
+5 
+ENEL GREEN POWER 
+S.A. 
+HE PILMAIQUÉN U2 a U5 
+Se incorpora al cronograma la prestación de las unidades al Control de 
+Tensión. Instalaciones integradas en Anexo de Control de Tensión del Informe 
+de SS.CC. 2020 mediante carta DE03590-19 del 28 de junio de 2019.  
+6 
+ENEL GREEN POWER 
+S.A. 
+HE PILMAIQUÉN U1 y U2 
+Se incorpora al cronograma la prestación de las unidades a la Partida 
+Autónoma. Instalaciones integradas en Anexo de Plan de Recuperación del 
+Servicio del Informe de SS.CC. 2020 mediante carta DE03590-19 del 28 de 
+junio de 2019. 
+7 
+ENEL GREEN POWER 
+S.A. 
+PE RENAICO II 
+Se incorpora al cronograma para prestación de la central al Control de 
+Tensión. Instalaciones integradas en Anexo D. Control de Tensión desde 8el 
+Informe de SS.CC. 2022, comunicado mediante carta DE03053-21 del 30 de 
+junio de 2021. 
+8 
+ENEL GREEN POWER 
+S.A. 
+PE GUANCHOI 
+Se incorpora al cronograma la prestación de la central al Control de Tensión. 
+Central incorporada en el Anexo D. Control de Tensión del Informe de SS.CC. 
+2024, versión junio 2023, comunicado mediante carta DE02919-23 del 30 de 
+junio de 2023. 
+9 
+ENERGÍAS UCUQUER 
+DOS S.A. 
+PE UCUQUER II 
+Se incorpora al cronograma la prestación de la central al Control de Tensión. 
+Central incorporada en el Anexo D. Control de Tensión del Informe de SS.CC. 
+2022, comunicado mediante carta DE03053-21 del 30 de junio de 2021. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Nombre Instalación 
+Descripción modificación realizada 
+10 
+GEOTÉRMICA DEL 
+NORTE S.A. 
+GEO CERRO PABELLÓN 
+U1 y U2 
+Se incorpora al cronograma la prestación de las unidades al Control de 
+Tensión. Instalaciones integradas en Anexo de Control de Tensión del Informe 
+de SS.CC. 2021 mediante carta DE03305-20 del 30 de junio de 2020. 
+11 
+OPDENERGY 
+GENERACIÓN SPA 
+PE LA ESTRELLA 
+Se incorpora al cronograma la prestación de la central al Control de Tensión. 
+Central incorporada en el Anexo D. Control de Tensión del Informe de SS.CC. 
+2022, comunicado mediante carta DE03053-21 del 30 de junio de 2021. 
+12 
+SOCIEDAD 
+CONCESIONARIA 
+EMBALSE CONVENTO 
+VIEJO S.A. 
+HE CONVENTO VIEJO U1 
+y U2 
+Se incorpora al cronograma la prestación de las unidades al Control de 
+Tensión. Instalaciones integradas en Anexo de Control de Tensión del Informe 
+de SS.CC. 2020 mediante carta DE03590-19 del 28 de junio de 2019. 
+13 
+SOLAR ELENA SPA 
+PFV ELENA 
+Se incorpora al cronograma la prestación de la central al Control de Tensión. 
+Central incorporada en el Anexo D. Control de Tensión del Informe de SS.CC. 
+2024, versión junio 2023, comunicado mediante carta DE02919-23 del 30 de 
+junio de 2023. 
+14 
+SPS LA HUAYCA S.A. 
+PFV LA HUAYCA II 
+Se incorpora al cronograma la prestación de la central al Control de Tensión. 
+Instalación integrada en Anexo de Control de Tensión del Informe de SS.CC. 
+2020 mediante carta DE03590-19 del 28 de junio de 2019. 
+15 
+WPD DUQUECO SPA 
+PE LOMAS DE DUQUECO 
+Se incorpora al cronograma la prestación de la central al Control de Tensión. 
+Central incorporada en el Anexo D. Control de Tensión del Informe de SS.CC. 
+2022, comunicado mediante carta DE03053-21 del 30 de junio de 2021. 
+16 
+WPD MALLECO SPA 
+ 
+PE MALLECO NORTE 
+Se incorpora al cronograma la prestación de la central al Control de Tensión. 
+Central incorporada en el Anexo D. Control de Tensión del Informe de SS.CC. 
+2022, comunicado mediante carta DE03053-21 del 30 de junio de 2021, bajo 
+el nombre PE Malleco. 
+17 
+NUEVA ATACAMA SOLAR 
+S.A. 
+PFV ATACAMA SOLAR II 
+Se actualiza nombre de Coordinado. 
+18 
+ENEL GENERACIÓN 
+CHILE S.A. 
+PFV AZABACHE 
+Se actualiza nombre de Coordinado. 
+19 
+COMPAÑÍA 
+TRANSMISORA LA 
+CEBADA S.A. 
+PE LOS CURUROS (U1-
+U57) 
+Se actualiza nombre de Coordinado. 
+20 
+INNERGEX ENERGIA 
+RENOVABLE SPA 
+HP GUAYACAN U1 y U2 
+Se actualiza nombre de Coordinado.  
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Nombre Instalación 
+Descripción modificación realizada 
+21 
+ESPINOS S.A. 
+HP ALTO RENAICO U1 
+Se elimina del cronograma por ser PMG con régimen de autodespacho. 
+22 
+ESPINOS S.A. 
+HP RENAICO U1 
+Se elimina del cronograma por ser PMG con régimen de autodespacho. 
+23 
+HIDROELÉCTRICA RÍO 
+HUASCO S.A. 
+HP RIO HUASCO U1 y U2 Se elimina del cronograma por ser PMG con régimen de autodespacho. 
+24 
+PARQUE EÓLICO EL 
+MAITÉN SPA 
+PE EL MAITEN (U1-U3) 
+Se elimina del cronograma por ser PMG con régimen de autodespacho. 
+25 
+AES ANDES S.A. 
+BESS HP ALFALFAL 
+Se incorpora al cronograma para prestación de CPF, CTF y CT. Se deja 
+misma fecha de entrega de informes de verificación que HP Alfalfal. 
+Instalaciones integradas a Anexos del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+26 
+ALTO MAIPO SPA 
+HP ALFALFAL II U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+27 
+ALTO MAIPO SPA 
+HP LAS LAJAS U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+28 
+BESALCO ENERGÍA 
+RENOVABLE S.A. 
+HP DIGUA U1 
+Se incorpora al cronograma para prestación de CPF. Instalación integrada a 
+Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+29 
+COLBÚN S.A. 
+HP CARENA U1 a U4 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+30 
+COLBÚN S.A. 
+HP CHACABUQUITO U1 a 
+U4 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+31 
+COLBÚN S.A. 
+HP CHIBURGO U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+32 
+COLBÚN S.A. 
+HP HORNITOS U1 
+Se incorpora al cronograma para prestación de CPF. Instalación integrada a 
+Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Nombre Instalación 
+Descripción modificación realizada 
+33 
+COLBÚN S.A. 
+HP JUNCAL U1 
+Se incorpora al cronograma para prestación de CPF. Instalación integrada a 
+Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+34 
+COLBÚN S.A. 
+HP LA MINA U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+35 
+COLBÚN S.A. 
+HP LOS QUILOS U1 a U3 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+36 
+COLBÚN S.A. 
+HP QUILLECO U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+37 
+EMPRESA ELÉCTRICA 
+CAPULLO S.A. 
+HP CAPULLO U1 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+38 
+EMPRESA ELÉCTRICA EL 
+PINAR SPA 
+HP EL PINAR U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+39 
+EMPRESA ELÉCTRICA 
+PEHUENCHE S.A. 
+HP LOMA ALTA U1 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+40 
+EMPRESA ELÉCTRICAS 
+AGUAS DEL MELADO SPA HP LOS HIERROS U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+41 
+EMPRESA ELÉCTRICA 
+CARÉN S.A. 
+HP CARILAFQUEN U1 y 
+U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+42 
+EMPRESA ELÉCTRICA 
+CARÉN S.A. 
+HP MALALCAHUELLO U1 
+y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+43 
+ENEL GENERACIÓN 
+CHILE S.A. 
+HP ABANICO U1, U3, U5 y 
+U6 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+44 
+ENEL GENERACIÓN 
+CHILE S.A. 
+HP ISLA U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Nombre Instalación 
+Descripción modificación realizada 
+DE04674-24 del 11 de septiembre de 2024. 
+45 
+ENEL GENERACIÓN 
+CHILE S.A. 
+HP LOS MOLLES U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+46 
+ENEL GENERACIÓN 
+CHILE S.A. 
+HP OJOS DE AGUA U1 
+Se incorpora al cronograma para prestación de CPF. Instalación integrada a 
+Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+47 
+ENEL GENERACIÓN 
+CHILE S.A. 
+HP PALMUCHO U1 
+Se incorpora al cronograma para prestación de CPF. Instalación integrada a 
+Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+48 
+ENEL GENERACIÓN 
+CHILE S.A. 
+HP SAUZAL U1 a U3 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+49 
+ENEL GENERACIÓN 
+CHILE S.A. 
+HP SAUZALITO U1 
+Se incorpora al cronograma para prestación de CPF. Instalación integrada a 
+Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+50 
+ENGIE ENERGÍA CHILE 
+S.A. 
+HP CHAPIQUIÑA U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+51 
+EÓLICA MONTE 
+REDONDO SPA 
+HP LAJA I U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+52 
+HIDROANGOL S.A. 
+HP RIO PICOIQUEN U1 y 
+U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+53 
+HIDROELÉCTRICA 
+EMBALSE ANCOA SPA 
+HP ANCOA U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+54 
+HIDROELÉCTRICA LA 
+CONFLUENCIA S.A. 
+HP LA CONFLUENCIA U1 
+y U2 
+Se incorpora al cronograma para prestación de CPF. Instalación integrada a 
+Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+55 
+HIDROELÉCTRICA LA 
+HIGUERA S.A. 
+HP LA HIGUERA U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalación integrada a 
+Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Nombre Instalación 
+Descripción modificación realizada 
+56 
+HIDROELÉCTRICA RÍO 
+COLORADO S.A. 
+HP RIO COLORADO U1 y 
+U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+57 
+HIDROELÉCTRICA RÍO 
+LIRCAY S.A. 
+HP LIRCAY U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+58 
+HIDROELÉCTRICA RÍO 
+LIRCAY S.A. 
+HP PROVIDENCIA U1 y 
+U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+59 
+HIDROENERSUR S.A. 
+HP CUMBRES U1 y U2 
+Se incorpora al cronograma para prestación de CPF. Instalaciones integradas 
+a Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+60 
+HIDROMOCHO S.A. 
+HP MOCHO U1 
+Se incorpora al cronograma para prestación de CPF. Instalación integrada a 
+Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+61 
+PACIFIC HYDRO 
+CHACAYES S.A. 
+HP CHACAYES U1 y U2 
+Se excluye del cronograma de verificación y de los Anexos del Informe de 
+SS.CC. 2025 debido a que las unidades no inyectan su energía en el SEN, 
+sino que operan en sistema dedicado de 60 Hz.  
+62 
+PACIFIC HYDRO CHILE 
+S.A. 
+HP COYA U5 
+Se incorpora al cronograma para prestación de CPF. Instalación integrada a 
+Anexo C. Control de Frecuencia del Informe de SS.CC. 2024 mediante carta 
+DE04674-24 del 11 de septiembre de 2024. 
+63 
+PACIFIC HYDRO CHILE 
+S.A. 
+HP PANGAL U1 a U5 
+Se excluye del cronograma de verificación y de los Anexos del Informe de 
+SS.CC. 2025 debido a que las unidades no inyectan su energía en el SEN, 
+sino que operan en sistema dedicado de 60 Hz.  
+64 
+AES ANDES S.A. 
+BESS ANGAMOS 
+Se incorpora al cronograma para prestación de CPF, CSF, CTF y CT. 
+Instalación fue incorporada en Anexo de Control de Frecuencia (CPF) en el 
+Informe de SS.CC. de 2021, publicado el 30 de junio de 2020 mediante carta 
+DE03305-20. Fue incorporada en Anexo de Control de Frecuencia (CSF) en el 
+Informe de SS.CC. de 2025, publicado el 28 de junio de 2024 mediante carta 
+DE03331-24. 
+65 
+AES ANDES S.A. 
+BESS COCHRANE 
+Se incorpora al cronograma para prestación de CPF, CSF, CTF y CT. 
+Instalación fue incorporada en Anexo de Control de Frecuencia (CPF) en el 
+Informe de SS.CC. de 2021, publicado el 30 de junio de 2020 mediante carta 
+DE03305-20. Fue incorporada en Anexo de Control de Frecuencia (CSF) en el 
+Informe de SS.CC. de 2025, publicado el 28 de junio de 2024 mediante carta 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Nombre Instalación 
+Descripción modificación realizada 
+DE03331-24. 
+66 
+AES ANDES S.A. 
+BESS ANDES 
+Se incorpora al cronograma para prestación de CPF, CSF, CTF y CT. 
+Instalación fue incorporada en Anexo de Control de Frecuencia (CPF) en el 
+Informe de SS.CC. de 2021, publicado el 30 de junio de 2020 mediante carta 
+DE03305-20. Fue incorporada en Anexo de Control de Frecuencia (CSF) en el 
+Informe de SS.CC. de 2025, publicado el 28 de junio de 2024 mediante carta 
+DE03331-24. 
+67 
+ESPINOS S.A. 
+ 
+TER LOS ESPINOS (U1-
+U27) y TER LOS ESPINOS 
+(U28-U80) 
+Se incorpora al cronograma para prestación de Control de Tensión. 
+Instalación integrada en Anexo D. Control de Tensión del Informe de SS.CC. 
+2024, publicado el 30 de junio de 2023, mediante carta DE02919-23. 
+68 
+GENERADORA DEL 
+PACÍFICO SPA 
+TER TERMOPACIFICO 
+(U1-U60) 
+Se incorpora al cronograma para prestación de Control de Tensión. 
+Instalación integrada en Anexo D. Control de Tensión del Informe de SS.CC. 
+2024, publicado el 30 de junio de 2023, mediante carta DE02919-23. 
+69 
+MANTOS COPPER S.A. 
+TER MANTOS BLANCOS 
+Se incorpora al cronograma para prestación de Control de Tensión. 
+Instalación integrada en Anexo D. Control de Tensión del Informe de SS.CC. 
+2024, publicado el 30 de junio de 2023, mediante carta DE02919-23. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 2: Listado de Señales Control Secundario de Frecuencia (AGC) 
+ 
+Unidades convencionales (Centrales Térmicas e Hidráulicas) 
+Digitales 
+Descripción 
+Local / Remoto (En Despacho Económico o Local) 
+Local (Uso de consigna local cuando la unidad no 
+está en control del AGC) / Remoto (Uso de 
+consigna remota proveniente del AGC)  
+Estado de Interruptor 
+Corresponde al interruptor de sincronización de la 
+unidad 
+Analógicos 
+Analógicos 
+Retorno de consigna enviada desde el 
+Coordinador (MW) 
+Confirmación de que la consigna fue recibida o leída 
+por el controlador de la unidad 
+Límite superior de la Unidad (MW) 
+Valor efectivo utilizado por la unidad 
+Límite inferior de la Unidad (MW) 
+Mínimo técnico informado 
+Rampa de subida (MW/Min) 
+Rampa de subida utilizada para el AGC 
+Rampa de bajada (MW/Min) 
+Rampa de bajada utilizada para el AGC 
+Potencia generada (MW) 
+Se refiere a la potencia bruta de la unidad 
+Set Point 
+Set Point 
+Consigna de Despacho Económico 
+Recepción de una consigna remota proveniente del 
+AGC 
+Unidades de ERV (Parques Fotovoltaicos y Eólicos) 
+Digitales 
+Descripción 
+Local / Remoto (En Despacho Económico o Local) 
+Local (Uso de consigna local cuando el parque no 
+está en control del AGC) / Remoto (Uso de 
+consigna remota proveniente del AGC)  
+Estado de Interruptor 
+Interruptor en el punto de conexión 
+Analógicos 
+Analógicos 
+Retorno de consigna enviada desde el 
+Coordinador (MW) 
+Confirmación de que la consigna fue recibida o leída 
+por el controlador de la unidad 
+Límite superior de la Unidad (MW) 
+Corresponde a la Potencia Máxima disponible en 
+MW. 
+Límite inferior de la Unidad (MW) 
+Mínimo técnico informado 
+Rampa de subida (MW/Min) 
+Rampa de subida utilizada para el AGC 
+Rampa de bajada (MW/Min) 
+Rampa de bajada utilizada para el AGC 
+Potencia generada (MW) 
+Potencia generada por el parque en el punto de 
+conexión 
+Set Point 
+Set Point 
+Consigna de Despacho Económico 
+Recepción de una consigna remota proveniente del 
+AGC 
+ 
+ 

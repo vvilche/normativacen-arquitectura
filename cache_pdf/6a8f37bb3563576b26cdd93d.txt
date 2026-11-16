@@ -1,0 +1,262 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 26 de agosto de 2026 
+DE 05732-26 
+Señores 
+Encargados   
+Empresas Coordinadas 
+Presente 
+Ref.: Revisión Mensual de Garantías de Mercado 
+de 
+Corto 
+Plazo, 
+Julio 
+2026. 
+  
+Sr. Encargado: 
+ 
+De acuerdo con lo indicado en el Título 3-8 de la Norma Técnica de Coordinación y Operación, 
+y el Procedimiento Interno “Cumplimiento de la Cadena de Pagos en el Mercado de Corto 
+Plazo”, informo a usted que se ha publicado el informe “Revisión Mensual de Garantías de 
+Mercado de Corto Plazo 2026”, correspondiente a julio 2026, en su versión definitiva, que se 
+adjunta a la presente. 
+ 
+Un resumen de los resultados se incluye en el Anexo de la presente carta, y los antecedentes 
+de cálculo se han dejado a disposición de las empresas, en la web del Coordinador, en la 
+sección Informes y Estudios > Mercados >Garantías > 2026 (Cálculo Mensual Garantías 2026 
+| Coordinador Eléctrico Nacional ). 
+ 
+Las respuestas a las observaciones recibidas se han publicado en el Módulo de Observaciones 
+de la Plataforma de Mercado (https://plataformamercado.coordinador.cl/observaciones/), en el 
+proceso “Revisión de Garantías” correspondiente a julio 2026, versión 1. 
+ 
+Finalmente, se recuerda que, de acuerdo con lo establecido en el artículo 3-69 Actualización 
+de Garantías de la Norma Técnica de Coordinación y Operación, en caso de que su 
+representada deba entregar garantías mayores a las ya entregadas, cuenta con 30 días 
+corridos para hacerlo. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+HTM/MCS/VMN/YCL 
+Cc: Sr. Marcelo Bobadilla M. – Gerente de Mercados 
+Inc.: “Informe Revisión Garantías 2026 Jul.26 def.pdf” 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ANEXO 
+ 
+A continuación, se indican las empresas que modifican el monto a garantizar, una vez aplicado 
+el umbral de variación de 25% respecto al valor vigente al mes del cálculo: 
+ 
+Revisión Mensual de Montos de Garantía 2026, versión de julio 2026, definitiva. 
+Valores en $ 
+ 
+Empresa 
+Garantía 2026 
+Revisión Garantía 
+2026-07 
+Aplicación Umbral 
+25% 
+Variación 
+AES_GENER 
+11.961.269.917  
+8.119.730.262  
+8.119.730.262  -3.841.539.656  
+EMOAC 
+1.398.454.075  
+8.172.376.393  
+8.172.376.393  
+6.773.922.317  
+GR Power Chile SpA 
+3.886.331.535  
+7.042.223.069  
+7.042.223.069  
+3.155.891.534  
+Copiapó Energía Solar SpA 
+0  
+5.958.950.393  
+5.958.950.393  
+5.958.950.393  
+ENERGY_ASSET 
+1.594.304.342  
+2.295.899.665  
+2.295.899.665  
+701.595.323  
+HUEMUL_ENERGIA 
+1.760.058.976  
+2.248.165.042  
+2.248.165.042  
+488.106.067  
+ABASTIBLE 
+1.274.263.258  
+1.932.236.807  
+1.932.236.807  
+657.973.549  
+SONNEDIX_COX 
+816.644.158  
+1.071.976.799  
+1.071.976.799  
+255.332.641  
+TAMAKAYA_ENERGIA 
+3.408.553.780  
+982.007.836  
+982.007.836  -2.426.545.945  
+NEOELECTRA_ENERGIA 
+168.840.845  
+650.676.596  
+650.676.596  
+481.835.751  
+Cox Energy Comercializadora 
+SpA 
+85.636.025  
+639.081.894  
+639.081.894  
+553.445.868  
+GM_ENERGY 
+0  
+534.810.034  
+534.810.034  
+534.810.034  
+FACTOR_LUZ 
+107.753.114  
+421.764.111  
+421.764.111  
+314.010.997  
+WPD_MALLECO 
+569.074.409  
+352.123.950  
+352.123.950  
+-216.950.459  
+TECNORED 
+86.280.540  
+341.573.270  
+341.573.270  
+255.292.730  
+WPD_NEGRETE 
+206.968.440  
+299.049.370  
+299.049.370  
+92.080.930  
+ON GROUP 
+149.277.452  
+221.167.526  
+221.167.526  
+71.890.074  
+CAREN 
+78.654.317  
+213.375.386  
+213.375.386  
+134.721.069  
+SGA 
+0  
+162.048.507  
+162.048.507  
+162.048.507  
+Cinergia Chile SpA 
+208.439.383  
+152.707.613  
+152.707.613  
+-55.731.770  
+SCOH SpA 
+0  
+119.045.414  
+119.045.414  
+119.045.414  
+EMBALSE_ANCOA 
+0  
+75.776.642  
+75.776.642  
+75.776.642  
+AELA_GENERACION 
+0  
+71.893.034  
+71.893.034  
+71.893.034  
+POZO_ALMONTE_SOLAR_3 
+0  
+70.098.200  
+70.098.200  
+70.098.200  
+SANTIAGO_SOLAR 
+126.949.032  
+62.747.131  
+62.747.131  
+-64.201.901  
+ENORCHILE 
+0  
+53.881.715  
+53.881.715  
+53.881.715  
+ATRIA_ENERGIA 
+0  
+51.495.758  
+51.495.758  
+51.495.758  
+AGUAS DEL MELADO 
+0  
+23.788.153  
+23.788.153  
+23.788.153  
+BE FORESTALES 
+2.749.039  
+21.725.714  
+21.725.714  
+18.976.675  
+EGP_CHILE 
+165.984.834  
+15.888.290  
+15.888.290  
+-150.096.545  
+LA CONFLUENCIA 
+0  
+6.786.525  
+6.786.525  
+6.786.525  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+IMELSA_ENERGIA 
+0  
+3.423.751  
+3.423.751  
+3.423.751  
+POZO_ALMONTE_SOLAR_2 
+0  
+1.312.589  
+1.312.589  
+1.312.589  
+EL_PINAR 
+0  
+811.660  
+811.660  
+811.660  
+COMASA 
+0  
+232.440  
+232.440  
+232.440  
+SOCER 
+0  
+57.753  
+57.753  
+57.753  
+ 

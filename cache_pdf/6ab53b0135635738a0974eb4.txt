@@ -1,0 +1,261 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 24 de septiembre de 2026 
+ 
+    
+DE 06291-26 
+Señor 
+Miguel Buzunariz 
+Encargado Titular  
+Enel Generación Chile S.A. 
+Enel Green Power Chile S.A. 
+Presente 
+Ref.: 
+Solicita 
+avanzar 
+con 
+actividades 
+pendientes del proceso de Verificación de 
+Control Secundario de Frecuencia (CSF-AGC) 
+de instalaciones de Enel Generación Chile S.A. 
+y Enel Green Power Chile S.A. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y de acuerdo con los antecedentes que dispone 
+este Coordinador, en los anexos de la presente comunicación se individualizan las 
+instalaciones que, a la fecha, mantienen pendiente la realización de las pruebas punto a 
+punto o actividades requeridas para la integración de sus instalaciones al AGC, según lo 
+requerido mediante carta de la Ref. [1]. 
+ 
+Al respecto, solicito a Ud. gestionar con su representada las acciones necesarias para 
+ejecutar lo requerido a continuación respecto de las instalaciones descritas en los anexos 
+a la presente comunicación: 
+ 
+a) Anexo 1: Instalaciones para las cuales debe solicitar al Coordinador los TAG ICCP 
+de sus señales AGC ya migradas para poder realizar las pruebas punto a punto, 
+según las verificaciones de disponibilidad de señales efectuadas por este 
+Coordinador en el SITR. 
+Acción requerida: Contactar al Departamento de SCADA del Coordinador, al 
+correo TEC.scada@coordinador.cl, para solicitar los TAG ICCP y coordinar la 
+realización de las pruebas punto a punto. 
+b) Anexo 2: Instalaciones que mantienen pendiente la implementación de señales 
+desde la plataforma SCED de su representada al SITR/AGC del Coordinador, 
+requeridas para su integración al AGC.  
+Según los registros del Coordinador, su representada tiene pendiente la integración 
+de señales AGC al SITR/AGC del Coordinador, estando programadas las pruebas 
+punto a punto para octubre de 2026 según lo indicado por su representada en cartas 
+de las Ref. [2] y [3]. Por lo tanto, dicha integración debe realizarse a la brevedad con 
+el fin de no atrasar los siguientes hitos: i) solicitud de TAG ICCP y pruebas punto a 
+punto y ii) pruebas funcionales de integración al AGC. 
+Acción requerida: Integrar las instalaciones individualizadas en el Anexo 2 al AGC, 
+realizando las respectivas gestiones con el Departamento de SCADA del 
+Coordinador al correo TEC.scada@coordinador.cl. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+c) Anexo 3: Instalaciones cuya propuesta de integración al AGC se encuentra fuera 
+del plazo establecido.  
+Según comunicación de la Ref. [2], su representada informó que, dado que se 
+llevará a cabo el cambio del sistema de control de las instalaciones durante el 2027, 
+la integración de las unidades U1 y U2 de HE Antuco al AGC se llevará a cabo en 
+forma posterior al cambio de control previsto. 
+Acción requerida: Integrar las unidades de U1 y U2 de HE Antuco durante el 2026, 
+conforme con lo requerido en la comunicación de la Ref. [1], contactando al 
+Departamento de SCADA del Coordinador al correo TEC.scada@coordinador.cl 
+para la realización de las pruebas punto a punto de las señales requeridas para la 
+integración de dichas unidades al AGC del Coordinador.  
+El cambio de sistema de control previsto para el 2027 no justifica desplazar la 
+integración de dichas unidades al AGC.  
+d) Anexo 4: Instalaciones informadas por su representada como integradas al AGC. 
+Según comunicación de la Ref. [2] su representada declara que HE Pangue no tiene 
+pendientes respecto de su integración al AGC y que su condición es encuentra 
+resuelta y operativamente vigente. No obstante, según los registros del Coordinador 
+las pruebas ejecutadas no fueron satisfactorias debido a que los reguladores de 
+velocidad/potencia de las unidades no obedecieron las consignadas enviadas desde 
+el AGC. De acuerdo con esto, a la fecha esta unidad no está siendo considerada en 
+la programación para la prestación de CSF. 
+Acción requerida: Contactar al Departamento de Modelación y Aplicaciones EMS 
+del Coordinador, al correo DMAP@coordinador.cl, a fin de coordinar las pruebas 
+necesarias para completar su proceso de verificación. En el caso de existir alguna 
+restricción para realizar dichas pruebas, enviar un informe técnico con el respectivo 
+análisis y antecedentes que permitan justificar dicha restricción. 
+ 
+Finalmente, y de acuerdo con lo expuesto, solicito a Ud. informar el estado de avance a la 
+fecha, las actividades previstas realizar por su representada para atender los pendientes 
+para alcanzar la integración de sus unidades al AGC y enviar un cronograma de trabajo 
+actualizado para cumplir con lo requerido en la presente comunicación. 
+ 
+La información requerida, solicito sea remitida mediante carta, a través del Sistema de 
+Correspondencia del Coordinador, y con copia al correo verificacion.sscc@coordinador.cl,a 
+más tardar el 05 de octubre de 2026. 
+ 
+Sin otro particular, le saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+  Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+PVV/CRV/WJS/PGR/cfp 
+c.c.: Sr. Adrián Guzmán – Encargado Suplente Enel Generación Chile S.A. y Enel Green Power Chile S.A. 
+DSCADA/DMAP 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+Referencias: 
+ 
+[1] Carta DE03429-26, Ref.: “Proceso de Verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF-AGC) e incorporación a la herramienta de 
+despacho económico (ED)”, de fecha 20 de mayo de 2026. 
+[2] Carta OP103-26 de Enel Generación Chile S.A., Ref.: “Proceso de Verificación del 
+Servicio Complementario (SC) de Control Secundario de Frecuencia (CSF-AGC) e 
+Incorporación a la Herramienta del Despacho Económico (ED), de fecha 31 de julio de 2026. 
+Ingreso DE06553-26. 
+[3] Carta EGP096-26 de Enel Green Power Chile S.A., Ref.: “Proceso de Verificación del 
+Servicio Complementario (SC) de Control Secundario de Frecuencia (CSF-AGC) e 
+Incorporación a la Herramienta del Despacho Económico (ED)”, de fecha 31 de julio de 
+2026. Ingreso DE06555-26. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ANEXO 1: Instalaciones que deben solicitar TAG ICCP y realizar las pruebas punto a 
+punto de señales AGC 
+ 
+N° 
+Coordinado 
+Unidad 
+1 
+ENEL GREEN POWER CHILE S.A. 
+PE RENAICO II (U1-U44) 
+2 
+ENEL GREEN POWER CHILE S.A. 
+PE RENAICO II (U45-U76) 
+3 
+ENEL GREEN POWER CHILE S.A. 
+PE SIERRA GORDA ESTE (U1-U56) 
+4 
+ENEL GREEN POWER CHILE S.A. 
+PE TALTAL (U1-U33) 
+5 
+ENEL GREEN POWER CHILE S.A. 
+PFV FINIS TERRAE 
+6 
+ENEL GREEN POWER CHILE S.A. 
+PFV LALACKAMA 
+7 
+ENEL GENERACIÓN CHILE S.A. 
+PE CANELA II (U1-U40) 
+8 
+ENEL GREEN POWER CHILE S.A. 
+PE VALLE DE LOS VIENTOS (U1-U45) 
+ 
+ANEXO 2: Instalaciones que mantienen actividades pendientes de implementación en el 
+SITR de señales AGC 
+ 
+N° 
+Coordinado 
+Unidad 
+1 
+ENEL GREEN POWER CHILE S.A. 
+PE LA CABAÑA 
+2 
+ENEL GREEN POWER CHILE S.A. 
+PFV AZABACHE 
+3 
+ENEL GREEN POWER CHILE S.A. 
+PFV CAMPOS DEL SOL 
+4 
+ENEL GREEN POWER CHILE S.A. 
+PFV GUANCHOI 
+5 
+ENEL GREEN POWER CHILE S.A. 
+PFV LAS SALINAS 
+6 
+ENEL GREEN POWER CHILE S.A. 
+PFV MANZANO 
+7 
+ENEL GREEN POWER CHILE S.A. 
+PFV SOL DE LILA 
+8 
+ENEL GREEN POWER CHILE S.A. 
+PFV VALLE DEL SOL 
+ 
+ANEXO 3: Instalaciones cuya propuesta de integración al AGC se encuentra fuera del 
+plazo establecido. 
+ 
+N° 
+Coordinado 
+Unidad 
+1 
+ENEL GENERACIÓN CHILE S.A. 
+HE ANTUCO U1 
+2 
+ENEL GENERACIÓN CHILE S.A. 
+HE ANTUCO U2 
+ 
+ANEXO 4: Instalaciones informadas por su representada como integradas en el AGC 
+ 
+N° 
+Coordinado 
+Unidad 
+1 
+ENEL GENERACIÓN CHILE S.A. 
+HE PANGUE U1 
+2 
+ENEL GENERACIÓN CHILE S.A. 
+HE PANGUE U2 
+ 

@@ -1,0 +1,223 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 16 de junio de 2026 
+DE 04140-26 
+Señor 
+Eduardo Verdugo 
+Encargado Titular 
+AES Andes S.A. 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario de Control Terciario de 
+Frecuencia de la central HP Volcán. 
+ 
+[1] Carta AES 0057-2026 de AES Andes S.A., Ref.: 
+“Envío de informes de verificación de Servicios 
+Complementarios”, de fecha 30 de abril de 2026. 
+Responde a Ingreso DE04349-26 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control Terciario 
+de Frecuencia (CTF) de la unidad U1 de central HP Volcán. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario de CTF a partir de las 00:00 del 18 de junio de 
+2026, considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CTF de la unidad 1 de central HP Volcán se encuentra publicado en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central HP Volcán 
+ 
+Finalmente, la central mencionada podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del mencionado SC, a partir de la fecha 
+antes señalada. 
+ 
+En el caso de que su representada tenga alguna consulta sobre el procedimiento de 
+Subastas para Control de Frecuencia, deberá dirigirlas al correo electrónico 
+programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PGR/adr 
+c.c.: 
+Sr. Juan Pablo Kindermann – Encargado Suplente AES Andes S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central HP Volcán 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central HP Volcán 
+A continuación, se presentan los parámetros operacionales de central HP Volcán. A la 
+fecha de emisión de la presente carta de verificación de SSCC, los valores de potencia 
+mínima se encuentran aceptados por el Coordinador Eléctrico, mientras que los valores de 
+potencia máxima se encuentran en proceso de aceptación por parte de éste. 
+• 
+Unidad 1: 
+- 
+Potencia máxima bruta: 13,0 [MW] 
+- 
+Potencia máxima neta: 12,9 [MW] 
+- 
+Potencia mínima bruta: 0 [MW] 
+- 
+Potencia mínima neta: 0 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF)  
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia 
+• El gradiente de carga no puede ser modificado por el operador de la central, solo por 
+el especialista externo del regulador de velocidad. Con un rango de ajuste de 0,5 a 3 
+MW/min. 
+• El tiempo de activación de CTF depende del tiempo que se demora el operador en 
+consignar el nuevo valor de referencia de potencia, debiendo activarse en menos de 
+5 min de acuerdo con las definiciones del SC.  
+• HP Volcán supera el tiempo de sincronización de 5 minutos. Dado lo anterior, no se 
+verifica en CTF frío. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado AES Andes S.A. 
+5. Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la 
+instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+a) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+U1 
+Central  
+HP Volcán 
+Hidráulica de 
+Pasada 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+3,0 
+Bajada 
+3,0 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+3,0 
+Bajada 
+3,0 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+Bajada 
+<5 
+Aporte CTF [MW] (2) 
+Subida 
+12,99 
+Bajada 
+-12,99 
+Límite de regulación superior [MW] (3) 
+13,0 
+Límite de regulación inferior [MW] (3) 
+0,0 
+(1) Tasa de subida y bajada de carga máxima correspondiente al límite de toma de carga de las unidades. 
+(2) La reserva se determina como la diferencia entre la potencia máxima neta y el mínimo técnico neto, correspondientes a 
+12,99 [MW] y 0 [MW], respectivamente. 
+(3) Los límites de regulación, correspondientes al mínimo técnico y a la potencia máxima bruta, y el aporte máximo de CTF, 
+podrán verse modificados en caso de que se actualicen los parámetros operacionales de la central. 
+ 
+ 
+ 

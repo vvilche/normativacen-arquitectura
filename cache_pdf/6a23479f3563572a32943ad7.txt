@@ -1,0 +1,844 @@
+                                                                                                           
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Santiago, 05 de junio de 2026 
+DE 03648-26 
+Señores  
+Encargados  
+Empresas Coordinadas y Desarrolladores 
+(Según lista de distribución)  
+Presente   
+ 
+Ref.: Aplicación del Art. 7-5 Anexo Técnico 
+de Exigencias Mínimas de Instalaciones 
+Basadas en Convertidores que se conectan 
+al 
+Sistema 
+Eléctrico 
+Nacional, 
+para 
+instalaciones existentes conectadas al SEN. 
+ 
+De mi consideración: 
+Por medio de la presente, y de conformidad con lo establecido en el Artículo 7-5 del Anexo 
+Técnico de Exigencias Mínimas de Instalaciones Basadas en Convertidores que se 
+conectan al Sistema Eléctrico Nacional (“AT IBR”), aprobado mediante la Resolución 
+Exenta N°45/2026 de la Comisión Nacional de Energía, se solicita a los titulares de 
+instalaciones IBR tipo Grid Following (IBR GFL) conectadas al Sistema Eléctrico Nacional 
+(“SEN”), así como aquellas con declaración en construcción a la fecha de publicación de 
+dicha resolución, informar su situación respecto del cumplimiento de las nuevas exigencias 
+normativas aplicables. 
+Al respecto, para cada instalación, su representada deberá remitir un informe técnico, de 
+acuerdo con la condición en que se encuentre, conforme con las siguientes alternativas: 
+a) Informe Técnico de Cumplimiento, en caso de que la instalación ya cumpla con las 
+exigencias aplicables. 
+b) Informe Técnico de Imposibilidad de Cumplimiento, cuando existan limitaciones 
+técnicas fundadas que impidan cumplir con los requisitos establecidos. 
+c) Informe Técnico explicativo y Plan de Adecuaciones, cuando la instalación requiera 
+modificaciones para dar cumplimiento a la normativa vigente, considerando al menos lo 
+siguiente:  
+i. 
+Descripción de las adecuaciones requeridas; 
+ii. 
+Modificaciones de software y/o hardware; 
+iii. 
+Obras asociadas; 
+iv. 
+Cronograma y plazos de ejecución; 
+v. 
+Actividades de coordinación con el Coordinador. 
+Asimismo, los titulares de Sistemas de Almacenamiento de Energía o de componentes de 
+almacenamiento de centrales renovables deberán informar lo siguiente: 
+i. 
+La factibilidad técnica de actualizar sus sistemas para operar como IBR Grid 
+Forming (IBR GFM); y 
+
+                                                                                                           
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+ii. 
+El estado de cumplimiento del artículo 4-5 del AT IBR o, en su defecto, informar cuál 
+sería el plan de adecuación necesario para cumplir con este requerimiento. 
+Adicionalmente, y con el objeto de planificar la revisión de los antecedentes requeridos, su 
+representada deberá remitir un cronograma de trabajo indicando, para cada instalación, 
+cuál de las condiciones antes señaladas en los literales del a) al c) corresponde a sus 
+instalaciones y la fecha estimada de entrega de los antecedentes correspondientes. 
+El cronograma de trabajo requerido en el párrafo anterior, para planificar la revisión de los 
+respectivos informes, deberá ser remitido a más tardar el 19 de junio de 2026 mediante 
+Plataforma Conecta CEN, mientras que los informes técnicos definitivos y respectivos 
+planes de adecuación, según corresponda, deberán ser enviado a través del sistema de 
+correspondencia del Coordinador a más tardar el 3 de noviembre de 2026. 
+En el caso de empresas desarrolladoras que aún no cuenten con la calidad de Coordinado, 
+la información deberá remitirse al correo correspondencia@coordinador.cl, indicando en la 
+referencia “Respuesta aplicación Art. 7-5 AT IBR”. 
+El detalle de los plazos aplicables y el contenido mínimo requerido para cada informe se 
+presenta en los anexos de la presente comunicación. 
+Cabe destacar que los sistemas de Almacenamiento de Energía y la componente de 
+almacenamiento de las Centrales Renovables con Capacidad de Almacenamiento que 
+hayan sido declarados en Construcción con anterioridad a la fecha de la publicación de la 
+resolución que aprueba el AT IBR, y cuya Entrada en Operación ocurra transcurridos seis 
+meses desde dicha publicación en el Diario Oficial, les aplica lo establecido en Artículo 7-2 
+del mismo AT. 
+Cualquier consulta respecto de este requerimiento podrá ser dirigida al correo 
+Anexos_DCO@coordinador.cl. 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+                Patricio Valenzuela V. 
+                                                            Subgerente de Control y Desarrollo Operacional 
+        Coordinador Eléctrico Nacional  
+CRV/EGV/PPF/ycl 
+ 
+ 
+ 
+ 
+
+                                                                                                           
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Lista de distribución: 
+ 
+• 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+• 
+AELA GENERACIÓN S.A. 
+• 
+AES ANDES S.A. 
+• 
+ALBA SPA 
+• 
+AMANECER SOLAR SPA 
+• 
+ANDES SOLAR II SPA 
+• 
+ANDES SOLAR III SPA 
+• 
+ANDES SOLAR IV SPA 
+• 
+ANDES SOLAR SPA 
+• 
+AR ENERGIA CHILE SPA 
+• 
+ARCADIA GENERACIÓN SOLAR S.A. 
+• 
+ATACAMA SOLAR SPA 
+• 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+• 
+AUSTRIANSOLAR CHILE SEIS SPA 
+• 
+AUSTRIANSOLAR CHILE UNO SPA 
+• 
+BESS DEL DESIERTO SPA 
+• 
+BOLERO SPA 
+• 
+CERRO DOMINADOR CSP S.A. 
+• 
+CHUNGUNGO S.A. 
+• 
+CI NMF I ARENA PROJECTCO SPA 
+• 
+COLBÚN S.A. 
+• 
+COMPAÑÍA BARRICK CHILE GENERACIÓN SPA 
+• 
+CÓNDOR ENERGÍA SPA 
+• 
+CONEJO SOLAR SPA 
+• 
+CONSORCIO SANTA MARTA S.A. 
+• 
+COPEC RENOVABLES SPA 
+• 
+COPIAPÓ ENERGÍA SOLAR SPA 
+• 
+COPIAPÓ SOLAR SPA 
+• 
+CRISTALES SPA 
+• 
+DOÑA ANTONIA SOLAR SPA 
+• 
+EL PELÍCANO SOLAR COMPANY SPA 
+• 
+ENEL GENERACIÓN CHILE S.A. 
+• 
+ENEL GREEN POWER CHILE S.A. 
+• 
+ENERGÍA CERRO EL MORADO S.A. 
+• 
+ENERGÍA EÓLICA LOS OLMOS SPA 
+• 
+ENERGÍA EÓLICA MESAMÁVIDA SPA 
+• 
+ENERGÍA EÓLICA PAMPAS SPA 
+• 
+ENERGÍA EÓLICA SAN MATÍAS SPA 
+
+                                                                                                           
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+• 
+ENERGÍAS UCUQUER DOS S.A. 
+• 
+ENGIE ENERGÍA CHILE S.A. 
+• 
+ENLASA GENERACIÓN CHILE S.A. 
+• 
+ENLIGHT INVESTMENTS SPA 
+• 
+EÓLICA MONTE REDONDO SPA 
+• 
+ESPINOS S.A. 
+• 
+ESTEPA SOLAR DOS SPA 
+• 
+ESTEPA SOLAR SPA 
+• 
+FOTOVOLTAICA NORTE GRANDE 5 SPA 
+• 
+FOTOVOLTAICA POZO ALMONTE SPA 
+• 
+GENERACIÓN SOLAR SPA 
+• 
+GM ENERGY SPA 
+• 
+GM HOLDINGS S.A. 
+• 
+GR ALGARROBO SPA 
+• 
+GR CHAÑAR SPA 
+• 
+GR LIUN SPA 
+• 
+GR PACAMA SPA 
+• 
+GR RAPANUI SPA 
+• 
+HUEMUL ENERGÍA SPA 
+• 
+IBEREÓLICA CABO LEONES II S.A. 
+• 
+INVERSIONES FOTOVOLTAICAS SPA 
+• 
+JAVIERA SPA 
+• 
+LA SERENA OCHO SPA 
+• 
+OPDENERGY GENERACIÓN SPA 
+• 
+PACIFIC HYDRO CHILE S.A. 
+• 
+PACIFIC HYDRO PUNTA SIERRA SPA 
+• 
+PARQUE EÓLICO ATACAMA SPA 
+• 
+PARQUE EÓLICO CABO LEONES I S.A. 
+• 
+PARQUE EÓLICO CAMPO LINDO SPA 
+• 
+PARQUE EÓLICO EL ARRAYÁN SPA 
+• 
+PARQUE EÓLICO EL MAITÉN SPA 
+• 
+PARQUE EÓLICO LOS CURUROS SPA 
+• 
+PARQUE EÓLICO NOLANA SPA. 
+• 
+PARQUE EÓLICO PUNTA DE TALCA SPA 
+• 
+PARQUE FOTOVOLTAICO NUEVO QUILLAGUA SPA 
+• 
+PARQUE SOLAR FOTOVOLTAICO LUZ DEL NORTE SPA 
+• 
+PARQUE SOLAR FOTOVOLTAICO SOL DEL DESIERTO SPA 
+• 
+PARQUE SOLAR LEYDA SPA 
+• 
+PARQUE SOLAR TANGUA SPA 
+• 
+PARQUE TALINAY ORIENTE S.A. 
+
+                                                                                                           
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+• 
+PE CABO LEONES III SPA 
+• 
+PE CANCURA SPA. 
+• 
+PECKET ENERGY S.A. 
+• 
+PFV DOMEYKO SPA 
+• 
+PLANTA SOLAR LA PAMPINA SPA 
+• 
+PLANTA SOLAR SAN PEDRO III SPA 
+• 
+PLANTA SOLAR TOCOPILLA SPA 
+• 
+PLANTA SOLAR TOCOPILLA SPA. 
+• 
+POZO ALMONTE SOLAR 3 S.A. 
+• 
+PUNTA PALMERAS S.A. 
+• 
+PV SALVADOR S.A. 
+• 
+RÍO ALTO SPA 
+• 
+SAN ANDRÉS SPA 
+• 
+SANTIAGO SOLAR S.A. 
+• 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A. 
+• 
+SOLAR ELENA SPA 
+• 
+SOLAR LOS LOROS SPA 
+• 
+SONNEDIX COX ENERGY CHILE SPA 
+• 
+STATKRAFT EOLICO S.A. 
+• 
+STATKRAFT EÓLICO S.A. 
+• 
+TAMARICO SOLAR DOS SPA 
+• 
+TAMARUGAL SOLAR SPA 
+• 
+TSGF SPA 
+• 
+VIENTOS DE RENAICO SPA 
+• 
+VIENTOS PATAGÓNICOS SPA 
+• 
+WPD DUQUECO SPA 
+• 
+WPD MALLECO SPA 
+• 
+WPD NEGRETE SPA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                                                                           
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Anexo 1 
+Esquema de Plazos Artículo 7-5 Anexo Técnico IBR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resolución 
+Exenta 
+Nº45/2026 CNE  
+NTSyCS y Anexos 
+Técnicos 
+Publicación de 
+Cronograma 
+Plazo Coordinador 
+para publicar 
+cronograma de 
+Planes de 
+Adecuación 
+Entrega de 
+Coordinados y 
+Desarrolladores  
+(Artículo 3-9 NTSyCS; 
+Artículos 4-1, 4-2, 4-3, 4-4, 4-7 
+y 6-2 del AT IBR; factibilidad de 
+operar como GFM) 
+1. Informe explicativo y 
+Plan de Adecuaciones 
+2. Informe de imposibilidad 
+de cumplimiento. 
+3. Informe de cumplimiento 
+Ejecución de 
+Plan de 
+Adecuaciones 
+No podrá exceder 
+24 meses. 
+03 de febrero de 2026 
+03 de nov. de 2026 
+Mayo de 2027 
+Mayo de 2029 
+Titulares de SAE o CA 
+1. Deben informar factibilidad 
+de operar como GFM.  
+2. Deben informar 
+cumplimiento art. 4-5 AT IBR 
+Plazo para que el 
+Coordinador 
+comunique a la 
+CNE 
+Análisis de 
+imposibilidad de 
+cumplimiento 
+03 de agosto de 2027 
+03 de nov. de 2026 
+
+                                                                                                           
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Anexo 2 
+Contenido mínimo de Informes Técnicos IBR – GFL (Grid Following) 
+El presente Anexo, describe los antecedentes mínimos y pruebas necesarias para la 
+presentación de los informes técnicos requeridos. Sin perjuicio de esto, durante el proceso 
+de revisión, el Coordinador podrá solicitar antecedentes complementarios, aclaraciones, 
+respaldos técnicos adicionales o precisiones metodológicas, cuando la información 
+presentada no permita verificar de manera suficiente y trazable el cumplimiento normativo, 
+la posibilidad o imposibilidad técnica declarada o la consistencia del plan de adecuaciones 
+propuesto. Asimismo, en caso de identificarse divergencias relevantes en los requisitos 
+considerados o en los antecedentes presentados por los titulares, el Coordinador podrá 
+establecer orientaciones adicionales para uniformar la revisión y acreditación del 
+cumplimiento normativo. 
+ 
+Escenarios posibles e información mínima requerida: 
+ 
+a. Instalación con unidades IBR del tipo Grid Following que por diseño están 
+imposibilitadas para dar cumplimiento a los nuevos requerimientos de la NTSyCS, 
+deberán informar si la imposibilidad del cumplimiento es parcial o total. El informe 
+técnico deberá contener antecedentes que justifiquen la imposibilidad de realizar las 
+adecuaciones a sus instalaciones para el cumplimiento de las exigencias normativas, 
+para lo cual se debe contar con los ensayos e información técnica que den cuenta de 
+las limitaciones técnicas, así como con informes del fabricante de los equipos 
+(software y hardware) que señalen las características y limitaciones del equipo, entre 
+otros. 
+ 
+b. Instalación con unidades IBR del tipo Grid Following, que cumplen totalmente con los 
+nuevos requerimientos de la NTSyCSc. El informe técnico deberá considerar 
+información y antecedentes que respalden este cumplimiento normativo. 
+ 
+c. Instalaciones que deben realizar adecuaciones de hardware, software u otras para 
+cumplir los requerimientos de la NTSyCS. El informe técnico deberá contener una 
+descripción detallada de las adecuaciones requeridas y un plan de adecuaciones 
+conducente a que la instalación pueda cumplir los requerimientos técnicos de la 
+NTSyCS vigente y cuyo horizonte no puede superar un plazo de 24 meses corridos, 
+desde la publicación del cronograma de planes de adecuación por parte del 
+Coordinador. 
+ 
+Conforme a lo anterior, a continuación, se detalla la información mínima que deben contener 
+los informes técnicos antes indicados: 
+ 
+ 
+ 
+ 
+ 
+
+                                                                                                           
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Artículo  
+ Antecedentes Mínimos para la Verificación del Cumplimiento Normativo 
+Art. 3-9 
+NTSyCS. 
+Se deberá verificar los puntos de contorno del diagrama del Artículo 3-9 de la NTSyCS 
+con o sin recurso primario, de acuerdo con la tecnología de la instalación, para los niveles 
+de tensión del estado normal (0,95-1,0-1,05 p.u.). Se deberá ajustar en el PPC los 
+diferentes valores de potencia activa y reactiva tal que se reproduzca el contorno del 
+diagrama P-Q de la instalación requerido por el Artículo 3-9 de la NTSyCS, y se deberá 
+registrar a través del sistema de adquisición de datos disponible la tensión, la potencia 
+activa y la potencia reactiva en el punto de conexión del parque. Se deberá registrar una 
+medida de al menos 5 minutos por cada punto de operación, y de 15 minutos en los 
+puntos asociados a carga P máxima. Se deberá considerar al menos 4 niveles de carga, 
+tanto para absorción como para inyección de potencia Q. En el caso de SAE (BESS) o 
+componentes de almacenamiento de CRCA, se deberá realizar esta medición tanto en 
+modo de carga como en modo descarga. 
+ 
+En caso de que su instalación se encuentre verificada en la prestación del servicio 
+complementario de Control de Tensión podrá hacer referencia a los resultados obtenidos 
+y a la carta de cierre del proceso, indicando si estos resultados cumplen el requerimiento 
+del presente artículo normativo. 
+ 
+En caso de que su proceso de verificación de control de tensión se encuentre pendiente, 
+podrá aprovechar la instancia para llevar a cabo los ensayos solicitados en la guía de 
+verificación de control de tensión. 
+ 
+Art. 4-1 literal a) 
+AT-IBR 
+El informe debe incluir descripción suficiente de la metodología aplicada y el 
+pronunciamiento respecto al cumplimiento del presente literal. 
+ 
+Art. 4-1 literales 
+b), c) y d). 
+AT-IBR 
+Se deberá entregar un informe del fabricante donde se dé cuenta del cumplimiento de 
+respuesta de sobre y bajas de tensiones en los términos señalados en el presente artículo. 
+ 
+Art. 4-2 
+AT-IBR 
+Se deberá entregar informe del fabricante con la descripción de los modos de control y su 
+lógica de operación, detallando la disponibilidad del controlador para las conmutaciones 
+del modo de operación normal al modo de operación ante fallas. 
+ 
+Art. 4-3  
+literales a) y b). 
+AT-IBR 
+Se deberá documentar la existencia de los tres modos de control y su conmutación entre 
+ellos, así como indicar requerimientos para su conmutación. El modo de regulación de 
+tensión debe considerar adicionalmente el modo de control de tensión con estatismo 
+permanente. 
+ 
+Art. 4-3 literales 
+c) a l). 
+AT-IBR 
+Para verificar el desempeño al controlador de tensión se deberá aplicar un escalón en la 
+referencia de tensión a partir de un estado operativo con tensión nominal. Para la prueba 
+se deberá aplicar un escalón en la referencia de tensión, de una amplitud de 5% de la 
+tensión nominal o de un valor que no signifique superar los límites operativos de la curva 
+P-Q, y de una duración suficiente que permita medir el tiempo de establecimiento de la 
+tensión terminal de la unidad. La respuesta dinámica de la instalación deberá ser 
+graficada y presentada con una resolución que permita visualizar el transiente de la 
+respuesta al escalón de tensión, factor de potencia y potencia reactiva. Se aceptarán 100 
+muestras por segundo para pruebas dinámicas y 1 muestra por segundo para pruebas 
+estáticas. Valores con menor resolución deberán ser justificados por el Experto Técnico 
+a cargo de los ensayos. También se deberá presentar el cumplimiento asociado a los 
+modos de control de reactivos (Q) y de factor de potencia (FP). 
+ 
+
+                                                                                                           
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Artículo  
+ Antecedentes Mínimos para la Verificación del Cumplimiento Normativo 
+Art. 4-4 
+AT-IBR 
+Literales e) al i)  
+Se deberá entregar un informe del fabricante donde se dé cuenta del cumplimiento de 
+respuesta del controlador de tensión ante fallas en los términos señalados en los literales 
+e) al i) del presente artículo normativo. 
+En caso de que el control de la instalación permita ingresar una señal de falla simulada 
+en sitio, se debe priorizar esta alternativa. 
+Art. 4-7 
+AT-IBR 
+El ensayo deberá consistir en perturbar al controlador, simulando un escalón en la 
+frecuencia de referencia, con la unidad generadora operando en carga interconectada al 
+SI. 
+Se deberán aplicar al menos escalones de frecuencia de +/- 0.2 y +/- 0.7 Hz comprobando 
+el comportamiento transiente de la potencia activa al escalón de frecuencia hasta su 
+establecimiento. Se registrarán simultáneamente la frecuencia, la potencia eléctrica y toda 
+otra variable que sea relevante. El tiempo de muestreo no puede ser mayor a 1 segundo 
+o un valor que permita registrar la respuesta dinámica de la potencia activa. 
+ 
+En caso de que su instalación se encuentre verificada en la prestación del servicio 
+complementario de Control Primario de Frecuencia podrá hacer referencia a los 
+resultados obtenidos y a la carta de cierre del proceso, indicando si estos resultados 
+cumplen el requerimiento del presente artículo normativo. 
+ 
+En caso de que su proceso de verificación de control de control primario de frecuencia 
+se encuentre pendiente, podrá aprovechar la instancia para llevar a cabo los ensayos 
+solicitados en la guía de verificación de control de frecuencia. 
+ 
+Art. 6-2 
+AT-IBR 
+Se deberá documentar con información del fabricante la capacidad de ajustar sus 
+parámetros de control a través de software, en función de las condiciones del SI o de 
+nuevos requerimientos normativos. En particular, el Estatismo Permanente del 
+Controlador Frecuencia/Potencia y el Controlador de Tensión, Tiempos de Respuesta y 
+Ajustes de banda muerta. 
+ 
+Se deberá detallar si el ajuste puede ser ejecutado en la operación en tiempo real y a 
+disponibilidad del operador y/o el centro de control de la unidad. 
+ 
+ 
+Requerimiento para SAE y Componente de Almacenamiento de CRCA 
+Factibilidad de 
+operar como 
+GFM  
+Se deberá informar la factibilidad de operar como IBR GFM, describiendo los análisis, 
+ajustes o adecuaciones necesarias, según corresponda. 
+Art. 4-5 
+AT-IBR 
+Se deberá verificar, mediante un informe del fabricante, que en condiciones de operación 
+ante falla cumpla las exigencias del presente artículo. En caso de que el control de la 
+instalación permita ingresar una señal de falla simulada en sitio, se debe priorizar esta 
+alternativa. 
+ 
+ 
+ 
+ 
+ 
+
+                                                                                                           
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Anexo 3 
+Listado de proyectos con Declaración en Construcción hasta un año previo a 
+publicación NTSyCS, versión enero 2026. 
+Nombre Proyecto 
+Razón Social 
+Fecha Declaración en 
+Construcción 
+Pampas (ex PE Nolana) 
+Parque Eólico Nolana SpA. 
+jul-25 
+Copiapo Solar 
+Copiapó Energía Solar SpA 
+ago-25 
+PFV Algarrobal 
+GR Pacama SpA 
+oct-25 
+PF Estepa Solar 
+Estepa Solar SpA 
+ene-25 
+PE Pemuco 
+Engie Energía Chile S.A. 
+feb-25 
+PFV Domeyko (CRCA Luna 
+del Verano) 
+PFV Domeyko SpA 
+abr-25 
+Cristales (Ex-Likanantai) 
+Cristales SpA 
+jun-25 
+Parque Solar Fotovoltaico 
+Tirana Oeste (Parque Solar 
+Fotovoltaico Tarapacá - CNE) 
+Fotovoltaica Pozo Almonte 
+SpA 
+ago-25 
+BESS Arica II 
+Engie Energía Chile S.A. 
+mar-25 
+PFV Planchón 
+GR RapaNui SpA 
+dic-25 
+BESS Mandarinos (ex BESS 
+Chillán) 
+Espinos S.A. 
+dic-25 
+BESS WILLKA 33 kV 
+Inversiones Fotovoltaicas SpA 
+jul-25 
+Arena BESS 
+CI NMF I Arena ProjectCo 
+SpA 
+abr-25 
+BESS Lile (Ex-BESS 
+Mejillones) 
+Engie Energía Chile S.A. 
+abr-25 
+BESS Libélula 
+Engie Energía Chile S.A. 
+ene-25 
+BESS Los Loros 
+Engie Energía Chile S.A. 
+abr-25 
+Punta de Talca BESS 
+Parque Eólico Punta de Talca 
+SpA 
+jul-25 
+Sistema de Almacenamiento 
+del PE Valle de Los Vientos 
+Enel Green Power Chile S.A. 
+nov-25 
+Sistema de Almacenamiento 
+del PFV Azabache 
+Enel Green Power Chile S.A. 
+oct-25 
+Sistema de Almacenamiento 
+del PE Valle de Los Vientos II 
+Enel Green Power Chile S.A. 
+nov-25 
+Sistema de Almacenamiento 
+del PF Las Salinas II 
+Enel Green Power Chile S.A. 
+oct-25 
+BESS II Salvador 
+PV Salvador S.A. 
+oct-25 
+Retiro de Red BESS Atacama 
+II 
+Atacama Solar SpA 
+ene-26 
+Ampliación PFV Domeyko  
+(CRCA Luna del Verano) 
+PFV Domeyko SpA 
+abr-25 
+Parque Fotovoltaico Los 
+Rastrojos 
+La Serena Ocho SpA 
+ene-26 
+BESS Taira 
+Planta Solar Tocopilla SpA. 
+ago-25 
+BESS Doña Antonia 
+Doña Antonia Solar SpA 
+ago-25 
+BESS Tamarico 
+Tamarico Solar Dos SpA 
+ago-25 
+
+                                                                                                           
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Sistema de Almacenamiento 
+del PF Salinas II 
+Enel Green Power Chile S.A. 
+oct-25 
+Sistema de almacenamiento 
+del PF Valle del Sol II 
+Enel Green Power Chile S.A. 
+nov-25 
+BESS Parque Fotovoltaico 
+Malgarida II 
+Acciona Energía Chile SpA 
+ene-26 
+BESS PFV Domeyko  (CRCA 
+Luna del Verano) 
+PFV Domeyko SpA 
+abr-25 
+BESS Estela Solar (ex BESS 
+Tamarugal) 
+Tamarugal Solar SpA 
+jun-25 
+Sistema Almacenamiento 
+BESS Atacama II 
+Atacama Solar SpA 
+ene-26 
+BESS Granja Solar 
+COPEC Renovables SpA 
+sept-25 
+BESS Diego de Almagro Sur II 
+Colbún S.A. 
+ago-25 
+BESS Sol de Los Andes 
+AustrianSolar Chile Uno SpA 
+sept-25 
+Bess Santa Marta 
+Consorcio Santa Marta S.A. 
+abr-25 
+BESS Kallpa (ex BESS Santa 
+Lya) 
+Engie Energía Chile S.A. 
+may-25 
+BESS DUNE 
+GM Energy SpA 
+sept-25 
+BESS Luz del Norte 
+Parque Solar Fotovoltaico Luz 
+del Norte SpA 
+dic-25 
+Fehaciente PV + BESS Elena 
+Solar Elena SpA 
+mar-25 
+Sistema de Almacenamiento 
+del PF Valle del Sol II (Retiro) 
+Enel Green Power Chile S.A. 
+nov-25 
+CRCA La Pampina 
+Planta Solar La Pampina SpA 
+sept-25 
+BESS Estepa II 
+Estepa Solar Dos SpA 
+jul-25 
+BESS II San Andrés 
+San Andrés SpA 
+ago-25 
+BESS Gran Teno 
+GR Algarrobo SpA 
+jul-25 
+BESS Cardonal 
+Statkraft Eólico S.A. 
+dic-25 
+Aumento de Capacidad 
+Alfalfal + BESS Virtual 
+Reservoir y Retiro desde la 
+Red 
+AES Andes S.A. 
+jul-25 
+PE Cancura Aumento 
+PE Cancura SpA. 
+jul-25 
+BESS Luz del Norte 
+Parque Solar Fotovoltaico Luz 
+del Norte SpA 
+dic-25 
+BESS Sol de Los Andes II 
+AustrianSolar Chile Uno SpA 
+sept-25 
+BESS Algarrobal 
+GR Pacama SpA 
+oct-25 
+Retiros BESS Parque 
+Fotovoltaico Malgarida II 
+Acciona Energía Chile SpA 
+ene-26 
+ 

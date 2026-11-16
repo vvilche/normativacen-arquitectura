@@ -1,0 +1,201 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 12 de enero de 2026 
+DE 00201-26 
+Señora 
+Carolina Vélez 
+Encargada Titular 
+GM Holdings S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+del PFV CEME 1. 
+[1] Carta GMH 2025-166 de GM Holdings S.A., Ref.: 
+“Responde a actualización requerida del Informe 
+Técnico de Control de Tensión de la Central PFV 
+CEME 1”, de fecha 18 de diciembre de 2025. 
+Responde a Ingreso: DE12427-25. 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación del Servicio Complementario (SC) enviado por su representada mediante 
+carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 
+4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el 
+proceso de verificación del SC de Control de Tensión (CT) del PFV CEME 1. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del 15 de enero de 2026 considerando 
+los recursos indicados en el anexo a la presente carta. 
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de 
+prestación del CT del PFV CEME 1 se ha publicado en la siguiente ruta de la página web 
+del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > Central PFV CEME 1 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/WJS/adr 
+c.c.:  
+Sr. Sebastián Navarrete – Encargado Suplente GM Holdings S.A. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PFV CEME 1 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV CEME 1: 
+• 
+Potencia máxima bruta: 412,932 [MW] 
+• 
+Potencia máxima neta: 403,039 [MW]  
+• 
+Potencia mínima bruta: 4,668 [MW]  
+• 
+Potencia mínima neta: 3,417 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión 
+Control de Tensión 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión: 
+• 
+Si bien la Potencia Máxima Bruta corresponde a 412,932 [MW], el PFV CEME 1 
+presenta un límite en el control de potencia activa máxima de 380 [MW] en el 
+extremo de la SE Miraje 220 [kV], debido a la autorización de potencia máxima 
+inyectable en dicho punto. Lo anterior no guarda relación con limitantes técnicas de 
+la instalación. 
+• 
+Se verifica la funcionalidad Qnight, tanto en su respuesta dinámica como estática. 
+La central alcanza los valores máximos de absorción e inyección de potencia 
+reactiva en ausencia de recurso primario. 
+• 
+El consumo medio de la central sin recurso, en horas de la noche, corresponde a 
+930,3 [kW]. Este valor será considerado para compensar las pérdidas activas 
+adicionales en la prestación de Control de Tensión sin recurso primario (modo 
+Qnight). 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte de GM Holdings S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+a) Control de Tensión: 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Instalación 
+Recurso 
+Primario 
+             Tensión [pu] 
+ 
+Potencia [MW] 
+Potencia Reactiva [MVAr]  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+Central PFV 
+CEME 1 
+Solar 
+3,41 (1) (2) 
+-154 
+-247 
+-247 
+-247 
+-247 
+128,94 
+170,8 
+-247 
+-247 
+-247 
+-247 
+254,47 
+-195,5 
+-247 
+-247 
+-247 
+-247 
+380 (3) 
+-149,3 
+-94,7 
+-155,4 
+-97,5 
+-153 
+380 (3) 
+118 
+117 
+119,8 
+120,1 
+113,2 
+254,47 
+238 
+239 
+239,1 
+239,3 
+148,7 
+128,94 
+247 
+247 
+247 
+247 
+169,3 
+3,41 (1) (2) 
+247 
+247 
+247 
+247 
+183,2 
+(1) Corresponde al despacho en Mínimo Técnico. 
+(2) Corresponde al despacho de potencia en modo Q-Night, considerando el valor más cercano a la condición sin recurso 
+disponible. 
+(3) Limitación de inyección en el paño J3 de SE Miraje de 380 [MW]. 
+ 

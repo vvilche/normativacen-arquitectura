@@ -1,0 +1,177 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 22 de diciembre de 2025 
+DE 08173-25 
+Señor 
+Miguel Buzunariz R. 
+Encargado Titular 
+Enel Generación Chile S.A 
+Presente 
+Ref.: Resultado del Proceso de Verificación del SC de 
+Partida Autónoma (PA) de las unidades U1 y U2 de 
+Central HE Ralco. 
+[1] Carta OP 299-25, Ref.: “Aprueba Protocolo para los 
+ensayos de verificación de instalaciones para la 
+prestación del servicio complementario de Partida 
+Autónoma unidades de Centrales HE Rapel, TER 
+Atacama, HE El Toro y HE Pehuenche”, de fecha 14 
+de noviembre de 2025.  
+Responde a Ingreso: DE11621-25.  
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT SSCC), ha finalizado 
+el proceso de verificación de los SSCC de Partida Autónoma (PA) de las unidades U1 y U2 
+de Central HE Ralco. Como resultado de este proceso, las unidades mencionadas quedan 
+habilitadas para la prestación del mencionado servicio considerando los recursos indicados 
+en el anexo a la presente carta. 
+ 
+El informe técnico que justifica la verificación de la capacidad de la prestación del Servicio 
+Complementario de PA de las unidades mencionadas, ha sido publicado en la siguiente 
+ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Plan de 
+Recuperación de Servicio > Partida Autónoma > Central HE Ralco 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+c.c.: 
+ 
+Empresas Coordinadas 
+Adrian Guzman M. – Encargado Suplente Enel Generación Chile S.A. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de las unidades U1 
+y U2 de Central HE Ralco 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central HE Ralco 
+• Unidad U1 
+ 
+ 
+• Unidad U2 
+ 
+ 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Plan de Recuperación 
+de Servicio (PRS) 
+Partida Autónoma 
+(PA) 
+Partida Autónoma (PA) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Tiempos de autonomía sin restricción, asociado a nivel embalse. En el caso 
+particular de las unidades de HE Ralco, en la medida que el embalse se encuentra 
+sobre la cota mínima las maquinas se pueden mantener generando energía. 
+b) Sin limitación de tiempo para mantener operación de Unidad en vacío (velocidad de 
+sincronismo sin tomar carga).  
+c) La partida de las unidades de Central Ralco es secuencial. Se podrá regular 
+frecuencia con cualquiera de las dos unidades de la Central Ralco, debiendo partir 
+la unidad reguladora en primer lugar. La unidad que regule frecuencia deberá 
+realizarlo con potencia mínima de 145 MW y una potencia máxima de 335 MW. 
+d) La conmutación de los sistemas de control a modo isla es la siguiente:  
+Proceso de conmutación los ajustes de CF y CT en modo red a modo isla es un 
+proceso automático y lo realiza por sí solo el Regulador de Velocidad (Control de 
+Frecuencia), no se dispone de un selector de cambio de modo red a isla.  
+e) El Control de Tensión no dispone de ajustes de parámetros especiales para modo 
+Isla. 
+f) Cuenta con grupo electrógeno impulsado por un motor de combustión interna con la 
+capacidad de absorber la totalidad de las cargas de SS/AA de la Central. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Enel Generación 
+Chile S.A 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Partida Autónoma: 
+SSCC 
+Plan de Recuperación de Servicio 
+Categoría 
+Partida autónoma 
+Subcategoría 
+Partida autónoma 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+HE Ralco 
+Hidráulica 
+Potencia Máxima [MW] 
+389,540 
+390,950 
+Tiempo de Sincronización [min] (1) 
+39,650 
+41,680 
+Tasa de Toma de Carga [MW/min] 
+56,360 
+59,890 
+Tiempo de Autonomía [hr] (2) 
+Sin limitación Sin limitación 
+Modo de Control 
+Regulador de velocidad en 
+modo isla 
+Requiere Equipamiento Adicional (3) 
+Si 
+Si 
+Primer Escalón de carga [MW] (4) 
+95,500 
+95,500 
+Tiempo nuevo arranque en caso de 
+desconexión intempestiva [min] (5) 
+8,630 
+8,630 
+Tiempo permanencia en vacío (6) 
+Sin limitación Sin limitación 
+(1) Tiempo asociado a la partida de unidades generadoras que prestan el SSCC de PA, correspondiente 
+al intervalo que transcurre desde que se solicita hasta el cierre contra barra muerta Alta Tensión de la 
+central. Este tiempo incluye las maniobras previas de revisión y verificación. Lo anterior, considerando 
+que las unidades se encuentren disponibles, es decir no considera tiempos para validar integridad de 
+instalaciones luego de un siniestro provocado por: terremoto, tsunami, aluvión, crecida, incendio, entre 
+otros. 
+(2) Tiempo de autonomía sujeto a disponibilidad de recurso primario (Agua embalse). 
+(3) Cuenta con grupo electrógeno impulsado por un motor de combustión interna con la capacidad de 
+absorber la totalidad de las cargas de SS/AA de la Central. 
+(4) Primer escalón de carga que puede tomar la unidad sin poner en riesgo la estabilidad de la unidad en 
+este proceso. 
+(5) Tiempo necesario para reiniciar la partida, después de una desconexión de la unidad. 
+(6) Tiempo máximo de permanencia en giro en vacío (sin carga) no tiene restricción. 
+ 

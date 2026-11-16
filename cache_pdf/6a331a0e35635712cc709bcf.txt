@@ -1,0 +1,528 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Santiago, 17 de junio de 2026 
+ 
+    
+DE 04169-26 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+Ref.: 
+Respuestas 
+a 
+observaciones 
+de 
+Indicadores de Desempeño de Servicios 
+Complementarios prestados durante los meses 
+de julio a diciembre de 2025, versión 3. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y considerando las comunicaciones de las 
+Ref. [1] a [6], relativas a los indicadores de desempeño de Servicios Complementarios 
+de los meses de julio a diciembre de 2025 -en su versión 2-, y habiendo revisado y 
+atendido las observaciones recibidas, informo a Ud. lo siguiente: 
+ 
+a) En anexo 1 de la presente comunicación se remiten las respuestas a las 
+observaciones recibidas a la versión 2 de los Indicadores de Desempeño de 
+Servicios Complementarios prestados durante los meses de julio a diciembre de 
+2025. Cabe destacar que los indicadores del mes de noviembre y diciembre de 
+2025, que fueran publicados mediante comunicaciones de las Ref. [5] y [6], no 
+se recibieron observaciones, por lo tanto, no sufren modificaciones.  
+ 
+b) De acuerdo con lo indicado en literal a) anterior, se encuentra disponible en el 
+sitio web del Coordinador la versión 3 del cálculo de los Indicadores de 
+Desempeño de SSCC prestados durante los meses desde julio a octubre de 
+2025.  
+ 
+Al respecto, los indicadores mencionados pueden ser descargados desde las siguientes 
+rutas: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Desempeño y 
+Disponibilidad de Servicios Complementarios > 2025 
+• 
+Julio 2025 > Versión 3 
+• 
+Agosto 2025 > Versión 3 
+• 
+Septiembre 2025 > Versión 3 
+• 
+Octubre 2025 > Versión 3 
+ 
+Finalmente, comunico a Ud. que los indicadores antes individualizados serán 
+considerados en las reliquidaciones del IVTE, proceso que lidera la Gerencia de 
+Mercados de este Coordinador.  
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional  
+ Coordinador Eléctrico Nacional 
+Referencias 
+ 
+[1] Carta DE05684-25, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de julio 2025, segunda versión” de fecha 12 
+de septiembre de 2025. 
+[2] Carta DE06457-25, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de agosto 2025, segunda versión” de fecha 
+13 de octubre de 2025. 
+[3] Carta DE06893-25, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de septiembre 2025, segunda versión” de 
+fecha 29 de octubre de 2025. 
+[4] Carta DE07745-25, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de octubre 2025, segunda versión” de fecha 
+04 de diciembre de 2025. 
+[5] Carta DE08421-25, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de noviembre 2025, segunda versión” de 
+fecha 31 de diciembre de 2025. 
+[6] Carta DE00585-26, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de diciembre 2025, segunda versión” de 
+fecha 29 de enero de 2026. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 1: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de julio 
+2025 versión 2. 
+ 
+Consultas recibidas: 
+- 
+Colbún S.A.: recibidas mediante plataforma de observaciones del departamento de Transferencias de Energía y SSCC con 
+correlativo O2025-0038324.  
+ 
+Nº Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Colbún S.A. 
+CSF 
+PE Horizonte Norte 
+Fecha: Todo el mes 
+ 
+Hemos notado que la unidad “PE-
+HORIZONTENORTE” tiene factor de 
+desempeño secundario igual a cero en 
+todo el balance. Esto se debe a que el 
+reporte de “índices de desempeño y 
+disponibilidad 
+de 
+servicios 
+complementarios” 
+no 
+ha 
+incluido 
+a 
+horizonte norte en la sección de FD 
+secundario, lo cual ya fue observado en 
+dicho proceso con el respectivo respaldo. 
+Se acoge la observación. 
+ 
+Se 
+revisan 
+los 
+antecedentes 
+y 
+se 
+corrobora que la unidad PE Horizonte 
+Norte finalizó su proceso de verificación en 
+julio 2025 por lo que se incluye en el 
+cálculo de indicadores de desempeño 
+CSF. 
+2 
+Observación 
+Interna 
+CTF 
+Unidades 
+cogeneradoras 
+Fecha: Todo el mes 
+ 
+Se constata que en la segunda versión de 
+los indicadores, las instrucciones de CTF+ 
+fueron consideradas como instrucciones 
+de monto 0 MW en las unidades 
+cogeneradoras. Lo anterior se produjo 
+debido a un desajuste en los valores del 
+archivo “CTF_202507”. 
+Se acoge la observación. 
+ 
+Se revisan los antecedentes y se corrigen 
+los indicadores de desempeño de las 
+unidades cogeneradoras participantes en 
+CTF el mes de julio 2025, tanto en el 
+documento 
+“2025.07_Respuesta_CTF.xlsx” 
+como 
+también en las hojas “CTF Horario” y "CTF 
+Mensual" 
+del 
+documento 
+“SSCC_Desempeño_Julio_2025_V3”. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 2: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+agosto 2025 versión 2. 
+ 
+Consultas recibidas: 
+- 
+Empresa Eléctrica Rucatayo S.A.: recibidas mediante plataforma de observaciones del departamento de Transferencias de 
+Energía y SSCC con correlativo O2025-0038799.  
+ 
+Nº Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Empresa 
+Eléctrica 
+Rucatayo 
+S.A. 
+CT 
+HP Rucatayo 
+Fecha: Todo el mes 
+ 
+Buenas tardes estimados, esperando 
+se encuentren bien: 
+ 
+Durante el mes de agosto se realizaron 
+las siguientes prestaciones de control 
+de tensión en HP Rucatayo: 
+ 
+Domingo 10 de agosto, 01:32: CEN 
+solicita resguardo de tensión en S/E 
+Pichirrahue. Ajuste de la unidad dentro 
+de los límites de curva PQ y función 27, 
+pasando de 239,39 kV a 237,98 kV. 
+Ajuste: -1,4 kV (instrucción original -2 
+kV, con segundo llamado para indicar el 
+ajuste máximo de la curva PQ). 
+ 
+Viernes 15 de agosto, 03:00: CEN 
+solicita resguardo de tensión en S/E 
+Pichirrahue. Ajuste: -1 kV. Solicita 
+Despachador José López. 
+ 
+Viernes 15 de agosto, 16:43: Se solicita 
+fin de SSCC-CT de la madrugada (-1 
+Aclaración. 
+ 
+Cabe destacar que durante agosto 2025 la 
+central HP Rucatayo participó en CT 
+manual y CT automático, por lo que su 
+desempeño depende del promedio del 
+factor de respuesta entre ambos servicios. 
+ 
+La evaluación de CT manual se realiza en 
+la barra principal de la unidad, en este 
+caso el desempeño de las unidades HP 
+Rucatayo se evalúa según la tensión de su 
+barra principal Rucatayo 220kV. El tag 
+SCADA en cuestión es “RUCATAY 220J1  
+V”.  
+  
+Las 
+evaluaciones 
+de 
+CT 
+Manual 
+observadas en agosto de 2025 fueron 
+evaluadas con 0% de desempeño los días 
+10, 14 15, 17 y 18 de agosto por el mismo 
+motivo: su señal de tensión en SCADA se 
+mantuvo sin variaciones durante esas 
+instrucciones. 
+Lo 
+anterior 
+es 
+un 
+incumplimiento de los criterios de calidad 
+definidos en el artículo 13 del Anexo 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+kV), normalizando la unidad dentro de 
+los límites de curva PQ. 
+ 
+Sábado 16 de agosto, 03:38: CEN 
+solicita resguardo de tensión en S/E 
+Pichirrahue. Ajuste: -1 kV. Solicita 
+Despachador José López. 
+ 
+Sábado 
+16 
+de 
+agosto, 
+10:15: 
+Instrucción 
+por 
+hot 
+line 
+(Robin 
+Lastarria). Finaliza SSCC-CT, unidad 
+normaliza tensión en bornes. 
+ 
+Domingo 
+17 
+de 
+agosto, 
+14:19: 
+Instrucción 
+por 
+hot 
+line 
+(Robin 
+Lastarria). Finaliza SSCC-CT, unidad 
+normaliza tensión en bornes. 
+ 
+Lunes 18 de agosto, 00:58: CEN 
+solicita resguardo de tensión en S/E 
+Pichirrahue. Ajuste: -1 kV. Solicita 
+Despachador José López. 
+ 
+Lunes 18 de agosto, 08:40: Instrucción 
+por hot line (Héctor Cortes). Finaliza 
+SSCC-CT, unidad normaliza tensión en 
+bornes. 
+ 
+Al revisar el desempeño, se observa 
+que en la mayoría de estas fechas 
+aparece 
+como 
+“no 
+verificable”, 
+quedando únicamente el 16 de agosto 
+Técnico 
+“Definición 
+de 
+Parámetros 
+Técnicos y Operativos para el Envío de 
+Datos al SITR”. 
+ 
+Dado esto, el coordinado debe revisar la 
+calidad de sus señales en sistema 
+SCADA, para lo cual tiene que contactar 
+directamente al área TI SCADA al mail 
+tec.scada@coordinador.cl 
+ 
+Para más información, la metodología 
+puede ser descargada del sitio web del 
+Coordinador de la siguiente ruta: Inicio > 
+Operación del Sistema > Post-Operación 
+> Índices de Desempeño y Disponibilidad 
+de 
+Servicios 
+Complementarios 
+> 
+Metodología Cálculo Desempeño SSCC 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+con un 100% de participación. Entiendo 
+que, al no alcanzarse el nivel de 
+desempeño 
+requerido, 
+las 
+demás 
+prestaciones no fueron remuneradas. 
+ 
+¿Podrían indicarnos específicamente la 
+razón por la cual no se consideraron las 
+restantes intervenciones para efectos 
+de remuneración? 
+2 
+Observación 
+Interna 
+CTF 
+Unidades 
+cogeneradoras 
+Fecha: Todo el mes 
+ 
+Se constata que, en la segunda versión 
+de los indicadores, las instrucciones de 
+CTF+ fueron consideradas como 0 MW 
+en las unidades cogeneradoras. Lo 
+anterior se produjo debido a un 
+desajuste en los valores del archivo 
+“CTF_202508”. 
+Se acoge la observación. 
+ 
+Se revisan los antecedentes y se corrigen 
+los indicadores de desempeño de las 
+unidades cogeneradoras participantes en 
+CTF el mes de agosto 2025, tanto en el 
+documento 
+“2025.08_Respuesta_CTF.xlsx” 
+como 
+también en las hojas “CTF Horario” y "CTF 
+Mensual" 
+del 
+documento 
+“SSCC_Desempeño_Agosto_2025_V3”. 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 3: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+septiembre 2025 versión 2. 
+ 
+Consultas recibidas: 
+- 
+Inversiones Hornitos SpA: recibidas mediante carta CTH 002/2025. Ingreso DE10906-25. 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Inversiones 
+Hornitos SpA. 
+CT 
+TER HORNITOS 
+U1 
+Fecha: Todo el mes 
+ 
+Se observa que, en las fechas 
+indicadas en tabla, se asigna un FD 
+nulo, sin embargo, en dicho periodo 
+TER HORNITOS estuvo fuera de 
+servicio por mantenimiento mayor 
+(MM), documento 2025098746 (desde 
+el 08 sept.  
+hasta el 04 oct.). Por lo tanto, se solicita 
+asignar un FD igual a 100% durante el 
+periodo que la unidad se encontró en 
+MM. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora que 
+la unidad estaba en Mantenimiento Mayor. El FD 
+nulo en los días 16, 17 y 22 de septiembre se 
+debe a que se registraron tensiones distintas de 
+0 kV en algunos momentos del día que fueron 
+interpretados como “No verificable”. 
+ 
+Dicho lo anterior el indicador se recalcula y pasa 
+a categoría “No Participa” en los días indicados. 
+ 
+2 
+Observación 
+Interna 
+CTF 
+Unidades 
+cogeneradoras 
+Fecha: Todo el mes 
+ 
+Se constata que, en la segunda versión 
+de los indicadores, las instrucciones de 
+CTF+ fueron consideradas como 0 MW 
+en las unidades cogeneradoras. Lo 
+anterior se produjo debido a un 
+desajuste en los valores del archivo 
+“CTF_202509”. 
+Se acoge la observación. 
+ 
+Se revisan los antecedentes y se corrigen los 
+indicadores de desempeño de las unidades 
+cogeneradoras participantes en CTF el mes de 
+septiembre 2025, tanto en el documento 
+“2025.09_Respuesta_CTF.xlsx” como también 
+en las hojas “CTF Horario” y "CTF Mensual" del 
+documento 
+“SSCC_Desempeño_Septiembre_2025_V3”. 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 4: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+octubre 2025 versión 2. 
+ 
+Consultas recibidas: 
+- 
+Engie Energía Chile S.A.: recibidas mediante carta ENGIE 323/2025. Ingreso DE11427-25. 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Engie 
+Energía 
+Chile S.A. 
+CT 
+TER Hornitos 
+Fecha: 01-10-2025 00:00 
+ 
+Indican 
+que 
+tienen 
+solicitud 
+programada N°2025098746. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se 
+constata que la unidad se encontraba en 
+mantenimiento el día 01 de octubre de 
+2025 
+según 
+solicitud 
+Neomante 
+N° 
+2025098746.  
+ 

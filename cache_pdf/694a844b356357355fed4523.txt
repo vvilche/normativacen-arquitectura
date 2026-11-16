@@ -1,0 +1,187 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 22 de diciembre de 2025 
+DE 08174-25 
+Señor 
+Miguel Buzunariz R. 
+Encargado Titular 
+Empresa Eléctrica Pehuenche S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del SC 
+de Partida Autónoma (PA) de las unidades U1 y U2 
+de Central HE Pehuenche. 
+[1] Carta OP 299-25, Ref.: “Aprueba Protocolo para 
+los ensayos de verificación de instalaciones para la 
+prestación del servicio complementario de Partida 
+Autónoma unidades de Centrales HE Rapel, TER 
+Atacama, HE El Toro y HE Pehuenche”, de fecha 
+14 de noviembre de 2025.  
+Responde a Ingreso: DE11621-25.  
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT SSCC), ha finalizado 
+el proceso de verificación de los SSCC de Partida Autónoma (PA) de las unidades U1 y U2 
+de Central HE Pehuenche. Como resultado de este proceso, las unidades mencionadas 
+quedan habilitadas para la prestación del mencionado servicio considerando los recursos 
+indicados en el anexo a la presente carta. 
+ 
+El informe técnico que justifica la verificación de la capacidad de la prestación del Servicio 
+Complementario de PA de las unidades mencionadas, ha sido publicado en la siguiente 
+ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Plan de 
+Recuperación de Servicio > Partida Autónoma > Central HE Pehuenche 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+c.c.: 
+ 
+Empresas Coordinadas 
+Adrian Guzman M. – Encargado Suplente Empresa Eléctrica Pehuenche S.A. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de las unidades U1 
+y U2 de Central HE Pehuenche 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central HE Pehuenche 
+• Unidad U1 
+ 
+ 
+• Unidad U2 
+ 
+ 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Plan de Recuperación 
+de Servicio (PRS) 
+Partida Autónoma 
+(PA) 
+Partida Autónoma (PA) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Tiempos de autonomía sin restricción, asociado a nivel embalse. En el caso 
+particular de las unidades de HE Pehuenche, en la medida que el embalse se 
+encuentra sobre la cota mínima las maquinas se pueden mantener generando. 
+b) Sin limitación de tiempo para mantener operación de Unidad en vacío (velocidad de 
+sincronismo sin tomar carga).  
+c) La partida de las unidades de la Central Pehuenche es secuencial. Debe partir la 
+unidad reguladora en primer lugar. Se podrá regular frecuencia con cualquiera de 
+las dos unidades de la Central Pehuenche. 
+d) La conmutación de los sistemas de control a modo isla es un proceso automático, 
+que realiza por sí solo el Regulador de Velocidad (Control de Frecuencia), no se 
+dispone de un selector de cambio de modo red a isla.  
+Control de frecuencia: cuando la turbina se encuentra en paralelo con la red, el 
+algoritmo de control puede detectar si se está operando en modo isla. Para ello, el 
+algoritmo supervisa la velocidad de la turbina (cuando está en paralelo con la red) y 
+verifica que tanto la velocidad como su derivada se mantengan dentro de rangos 
+configurables.  
+e) El Control de Tensión no dispone de ajustes de parámetros especiales para modo 
+Isla. 
+f) Condiciones de sincronización con barra muerta: 
+Para Pehuenche, se necesita la barra de la S/E Pehuenche des energizada, esto es 
+52J1 y 52J2 abiertos. Las unidades, previo al cierre del interruptor, 52JU1 o 52JU2, 
+contra la barra muerta ya están energizados los transformadores de poder y 
+estables. Se adjunta lógica para cierre contra barra muerta de los interruptores de 
+las unidades, 52JU1 – 52JU2. 
+g) Cuenta con grupo electrógeno impulsado por un motor de combustión interna con la 
+capacidad de absorber la totalidad de las cargas de SS/AA de la Central. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Empresa Eléctrica 
+Pehuenche S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Partida Autónoma: 
+SSCC 
+Plan de Recuperación de Servicio 
+Categoría 
+Partida autónoma 
+Subcategoría 
+Partida autónoma 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+HE 
+Pehuenche 
+Hidráulica 
+Potencia Máxima [MW] 
+286,990 
+286,470 
+Tiempo de Sincronización [min] (1) 
+32,530 
+21,350 
+Tasa de Toma de Carga [MW/min] 
+117 
+125 
+Tiempo de Autonomía [hr] (2) 
+Sin limitación Sin limitación 
+Modo de Control 
+Regulador de velocidad en 
+modo isla 
+Requiere Equipamiento Adicional (3) 
+SI 
+SI 
+Primer Escalón de carga [MW] (4) 
+126 
+126 
+Tiempo nuevo arranque en caso de 
+desconexión intempestiva [min] (5) 
+34,950 
+38,420 
+Tiempo permanencia en vacío (6) 
+Sin limitación Sin limitación 
+(1) Tiempo asociado a la partida de unidades generadoras que prestan el SSCC de PA, correspondiente 
+al intervalo que transcurre desde que se solicita hasta el cierre contra barra muerta de la central. Este 
+tiempo incluye las maniobras previas de revisión y verificación. Lo anterior, considerando que las 
+unidades se encuentren disponibles, es decir no considera tiempos para validar integridad de 
+instalaciones luego de un siniestro provocado por: terremoto, tsunami, aluvión, crecida, incendio, entre 
+otros. 
+(2) Tiempo de autonomía sujeto a disponibilidad de recurso primario (Agua embalse). 
+(3) Cuenta con grupo electrógeno impulsado por un motor de combustión interna con la capacidad de 
+absorber la totalidad de las cargas de SS/AA de la Central. 
+(4) Primer escalón de carga que puede tomar la unidad sin poner en riesgo la estabilidad de la unidad en 
+este proceso. 
+(5) Tiempo necesario para reiniciar la partida, después de una desconexión de la unidad. 
+(6) Tiempo máximo de permanencia en giro en vacío (sin carga) no tiene limitaciones (no tiene tiempo 
+límite).  
+ 

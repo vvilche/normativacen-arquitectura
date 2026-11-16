@@ -1,0 +1,252 @@
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+                                                                                               Santiago, 30 de julio de 2026 
+OP 103-26 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+PROCESO DE VERIFICACIÓN DEL SERVICIO COMPLEMENTARIO (SC) DE 
+CONTROL SECUNDARIO DE FRECUENCIA (CSF-AGC) E INCORPORACIÓN A 
+LA HERRAMIENTA DE DESPACHO ECONÓMICO (ED). 
+REF [1]:  
+CARTA DE03429-26 DE FECHA 20 DE MAYO DE 2026 SOBRE EL PROCESO DE 
+VERIFICACIÓN DEL SERVICIO COMPLEMENTARIO (SC) DE CONTROL 
+SECUNDARIO DE FRECUENCIA (CSF-AGC) E INCORPORACIÓN A LA 
+HERRAMIENTA DE DESPACHO ECONÓMICO (ED). SOLICITA CUMPLIR CON 
+LA CALIDAD EXIGIDA EN EL ENVÍO AL SITR DEL COORDINADOR DE LA 
+SEÑAL DE POTENCIA DISPONIBLE PARA PARQUES ERV. 
+REF [2]:  
+CORREO 
+“SEGUIMIENTO 
+SOLICITUD 
+VERIFICACIÓN 
+CSF-AGC 
+E 
+INCORPORACIÓN A HERRAMIENTA DESPACHO ECONÓMICO (ED) - ENEL 
+GENERACIÓN CHILE S.A. Y ENEL GREEN POWER CHILE S.A.” CON FECHA 
+24 DE JULIO 2026. 
+ 
+De nuestra consideración, 
+En atención a la comunicación de la REF [2], mediante la cual ese Coordinador solicita 
+informar el estado de avance de la implementación de enlaces, señales y procesos de 
+integración al sistema SITR/AGC, así como el cronograma de ejecución de las actividades 
+asociadas, informamos a usted lo siguiente: 
+ 
+1. Estado general del proceso de implementación. 
+El proceso de integración de las instalaciones de ENEL Generación Chile S.A. ha sido 
+abordado considerando tanto la condición operativa actual de sus centrales como la 
+implementación progresiva de nuevas soluciones tecnológicas de control y coordinación. 
+En este contexto, el avance del proceso presenta un desarrollo progresivo, con algunos 
+retrasos respecto con la planificación definida y compartida previamente con el CEN, 
+considerando las particularidades técnicas de cada instalación y las adecuaciones 
+requeridas para asegurar el cumplimiento de los estándares exigidos para la prestación de 
+los servicios complementarios y su integración operacional. 
+
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+2. Estado de enlaces y comunicaciones 
+ 
+En relación con el estado de implementación de los enlaces y señales requeridas para la 
+correspondiente integración del sistema SITR/AGC con el Coordinador Eléctrico Nacional, 
+se informa que el avance de ejecución presenta un desarrollo favorable y conforme a la 
+planificación general definida para este proceso. A continuación, se detalla el estado actual 
+de las principales actividades involucradas, así como las condiciones técnicas y operativas 
+que sustentan el progreso alcanzado a la fecha. 
+i. 
+A la fecha, no existen enlaces pendientes de implementación dentro del alcance 
+considerado para esta etapa del proyecto. Lo anterior permite confirmar que la 
+infraestructura base de comunicaciones requerida para avanzar con la integración 
+ya se encuentra disponible, constituyendo un hito relevante para asegurar la 
+continuidad de las actividades técnicas posteriores. 
+ 
+ii. 
+ENEL GENERACIÓN CHILE S.A. dispone actualmente de los canales de 
+comunicación AGC/ED correspondientes a la central Pangue, los cuales se 
+encuentran implementados y operativos, siendo utilizados de manera regular para 
+la prestación del servicio complementario de Control Automático de Generación. 
+Esta condición permite afirmar que, para dicha central, la infraestructura de 
+comunicaciones y el intercambio de señales requeridos para la atención de las 
+exigencias operacionales asociadas al servicio se encuentran debidamente 
+habilitados y en funcionamiento conforme a los requerimientos aplicables. Por otra 
+parte, en lo relativo a la central Canela II, se ha definido su integración a través de 
+la nueva plataforma SCED de ENEL, solución tecnológica que ya ha sido 
+presentada formalmente al Coordinador Eléctrico Nacional y que actualmente se 
+encuentra en una etapa activa de pruebas y validación del canal ICCP. Para lo cual 
+ENEL GENERACION CHILE S.A. ha presentado un cronograma de integración el 
+cual ha sido aceptado por el CEN, el cual ya está en pleno desarrollo en conjunto 
+con el Departamento de SCADA del Coordinador.  
+ 
+iii. 
+En el caso de la central Pangue, la implementación asociada a esta materia se 
+encuentra ejecutada y en servicio desde hace varios años, operando de manera 
+estable dentro del marco de las exigencias operacionales aplicables. Esta condición 
+refleja que tanto la infraestructura involucrada como los mecanismos de intercambio 
+de información requeridos para su operación ya forman parte de una solución 
+consolidada, validada en el tiempo y plenamente incorporada a la operación regular 
+de la central. En contraste, para la central Canela II se ha considerado su integración 
+mediante la nueva plataforma SCED de ENEL, iniciativa que constituye la base 
+
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+tecnológica sobre la cual se proyecta su incorporación formal al esquema de 
+coordinación con el Coordinador Eléctrico Nacional. Dicha solución ya ha sido 
+presentada al CEN y actualmente se encuentra en una etapa activa de pruebas del 
+canal ICCP de acuerdo al programa acordado con el Departamento de SCADA del 
+Coordinador. 
+ 
+iv. 
+En lo que respecta a la central Pangue, cabe señalar que el servicio complementario 
+de Control Automático de Generación ya es actualmente prestado por la unidad, 
+encontrándose dicha prestación incorporada a su operación regular y 
+desarrollándose en conformidad con las exigencias técnicas y operacionales 
+aplicables. Esta situación da cuenta de que la central dispone de las condiciones 
+necesarias para atender de manera adecuada los requerimientos asociados a este 
+servicio, contando con la infraestructura, señales y esquemas de comunicación que 
+resultan pertinentes para su funcionamiento. Por consiguiente, desde la perspectiva 
+de la prestación efectiva del servicio AGC, Pangue corresponde a una condición ya 
+resuelta y operativamente vigente. En contraste, la situación pendiente se concentra 
+exclusivamente en la central Canela II, cuya incorporación aún se encuentra 
+supeditada a la conclusión satisfactoria de las actividades descritas en los 
+numerales ii. y iii., particularmente en lo relativo a la habilitación definitiva de su 
+integración, la validación de las comunicaciones asociadas y la ejecución de las 
+pruebas requeridas con el Coordinador Eléctrico Nacional. En consecuencia, una 
+vez cumplidas dichas etapas y verificado el adecuado desempeño técnico de la 
+solución implementada, se podrá avanzar en la materialización de la prestación del 
+servicio para Canela II en condiciones alineadas con los requerimientos 
+establecidos por el CEN. 
+ 
+ 
+3. Consideraciones técnicas relevantes 
+El desarrollo de este proceso ha considerado las siguientes condiciones técnicas: 
+• 
+La integración de ciertas tecnologías requiere adecuaciones en sus sistemas de 
+control para permitir la recepción y seguimiento de consignas de potencia activa 
+desde AGC. 
+• 
+Para instalaciones como Canela II, se ha adoptado una estrategia de integración 
+estructural mediante SCED, evitando soluciones aisladas y asegurando 
+consistencia técnica a nivel de portafolio. 
+• 
+En el caso de algunas centrales hidráulicas, como Central Antuco, se requieren 
+intervenciones estructurales en los sistemas de control (reemplazo de reguladores 
+
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+de velocidad y voltaje), como condición previa necesaria para su correcta 
+integración al esquema AGC/ED. 
+ 
+4. Cronograma de ejecución 
+En relación con el cronograma, se informa que las pruebas funcionales se iniciaron con 
+fecha de ayer. Por criterio de precaución operacional, y en acuerdo con el propio CEN, se 
+ha definido realizar un ramp-up gradual, contemplando períodos de monitoreo entre 
+etapas, con el fin de resguardar la seguridad y confiabilidad del proceso de integración. 
+ITEM 
+NOMBRE DE LA TAREA 
+FECHA DE 
+INICIO 
+FECHA DE 
+TÉRMINO 
+ii. 
+Enlaces implementados 
+01-02-26 
+20-06-26 
+iii. 
+Pruebas punto a punto con el 
+CEN 
+27-07-26 
+30-10-26 
+iv. 
+Pruebas funcionales AGC/ED 
+08-06-26 
+30-11-26 
+ 
+ 
+Actualmente, nos encontramos dando continuidad al proceso de pruebas técnicas y de 
+validación asociado a la integración señalada, desarrollando estas actividades en estrecha 
+coordinación con el Departamento SCADA del Coordinador Eléctrico Nacional. Dicho 
+trabajo conjunto tiene por objeto verificar de manera integral el correcto desempeño de las 
+comunicaciones, la consistencia del intercambio de señales y la adecuada operación del 
+canal ICCP, de modo de asegurar que la solución implementada cumpla con los requisitos 
+funcionales, operacionales y de confiabilidad exigidos para su puesta en servicio. En este 
+contexto, las labores en curso consideran la revisión de configuraciones, la ejecución de 
+pruebas punto a punto, la validación de la calidad y disponibilidad de la información 
+intercambiada, así como la resolución oportuna de eventuales observaciones que pudiesen 
+surgir durante esta etapa. Todo lo anterior se está desarrollando con el propósito de dar 
+cumplimiento al cronograma previamente informado y avanzar de manera ordenada hacia 
+la finalización de las actividades pendientes, resguardando que la integración se materialice 
+en condiciones técnicamente satisfactorias y alineadas con las exigencias del CEN. 
+En lo que respecta a la Central Antuco, se encuentra considerado un proyecto específico 
+orientado a la mejora de los reguladores de velocidad y de voltaje de ambas unidades de 
+generación, iniciativa que forma parte de las adecuaciones técnicas requeridas para 
+fortalecer las condiciones de operación, control y respuesta de la central frente a las 
+exigencias vigentes. La ejecución de estos trabajos ha sido programada para desarrollarse 
+durante el año 2027, contemplando una secuencia de actividades que abarca tanto la 
+implementación de los nuevos equipos como las instancias de validación y pruebas 
+
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+necesarias para su adecuada puesta en servicio. En este contexto, el plan de trabajo 
+asociado ha sido estructurado de manera de permitir un avance ordenado de las etapas 
+previstas, resguardando la coordinación técnica correspondiente y la correcta preparación 
+de la central para las fases posteriores de integración y verificación funcional. A 
+continuación, se presenta el cronograma considerado para el desarrollo de dichas 
+actividades. 
+ 
+ITEM 
+NOMBRE DE LA TAREA 
+FECHA DE 
+INICIO 
+FECHA DE 
+TÉRMINO 
+Adecuaciones 
+previas 
+Reemplazo de AVR y GOV 
+10-05-27 
+11-08-27 
+iii. 
+Pruebas punto a punto con el CEN 
+25-06-27 
+30-08-27 
+iv. 
+Pruebas funcionales AGC/ED 
+25-06-27 
+30-08-27 
+ 
+ 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación, le saluda 
+atentamente, 
+ 
+ 
+ 
+ 
+_________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN 
+ENEL GENERACIÓN CHILE S.A. 

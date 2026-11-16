@@ -1,0 +1,111 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 25 de marzo de 2026 
+DE01939-26 
+ 
+Señor 
+Javier Pujol 
+Encargado Titular 
+Central Cardones S.A. 
+Presente 
+Ref.: Aprueba Protocolos de Ensayos de Verificación 
+de Instalaciones para la prestación de Servicios 
+Complementarios de Central TER Cardones. 
+Responde a Ingreso DE02670-26 y DE02671-26 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en el 
+Artículo 8 del Anexo Técnico “Verificación de Instalaciones para la prestación de SSCC” de 
+la Norma Técnica de Servicios Complementarios (NTSSCC), se han revisado los 
+antecedentes entregados por su representada mediante comunicación de la Ref. [1] y [2]. 
+ 
+Al respecto, comunicamos a Ud. que este Coordinador, aprueba los Protocolos para 
+Ensayos de Verificación de Servicios Complementarios de Control Primario de Frecuencia 
+(CPF), Control Terciario de Frecuencia (CTF) y Control de Tensión (CT) a prestar por la 
+central TER Cardones. 
+ 
+Considerando lo indicado, y con la finalidad de continuar con el proceso de Verificación de 
+Servicios Complementarios, solicito a usted lo siguiente: 
+• 
+Informar las curvas de carga asociadas a las pruebas según cartas de las Ref. [3] y 
+[4], ingresándolas en la correspondiente solicitud de trabajo del sistema Neomante, 
+con estado operativo “PDO”. Asimismo, en dicha solicitud se deberá describir los 
+movimientos de carga previstos para la ejecución de las pruebas, indicando las 
+variaciones de potencia activa, potencia reactiva y tensión a efectuar, así como las 
+condiciones operativas asociadas, con el fin de asegurar una adecuada 
+coordinación operativa. Adicionalmente, esta información, debe ser enviada al 
+correo electrónico mencionado más abajo, indicando el N° de aviso de trabajo 
+asociado al sistema Neomante. 
+• 
+En conformidad con el capítulo 5 del “Instructivo Técnico para la Verificación de 
+Instalaciones para la prestación de SSCC”, enviar el Informe Técnico con los 
+resultados de la verificación, en un plazo máximo de 15 días hábiles contados desde 
+que finalizan los ensayos. 
+ 
+Los 
+antecedentes 
+requeridos 
+deberán 
+ser 
+enviados, 
+al 
+correo 
+verificacion.sscc@coordinador.cl, con el asunto “Respuesta carta DE01939-26 – Ensayos 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Verificación 
+SSCC 
+TER 
+Cardones” 
+cumpliendo 
+con 
+los 
+plazos 
+establecidos 
+precedentemente. 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DIR/PGR/adr 
+c.c.: Sr. Felipe Inostrosa – Encargado Suplente Central Cardones S.A. 
+ 
+Referencias: 
+[1] Carta GC-CA0010-26 de Central Cardones S.A., Ref.: “Respuesta a observaciones 
+protocolos de verificación de SSCC - Central Cardones”, de fecha 16 de marzo de 2026. 
+Ingreso DE02670-26. 
+[2] Carta GC-CA0010-26 de Central Cardones S.A., Ref.: “Respuesta a observaciones 
+protocolos de verificación de SSCC - Central Cardones”, de fecha 16 de marzo de 2026. 
+Ingreso DE02671-26. 
+[3] Carta DE05925-24, Ref.: “Modificación al ingreso de solicitudes de pruebas de centrales 
+generadoras en plataforma Neomante”, de fecha 11 de noviembre de 2024. 
+[4] Carta DE05995-25, Ref.: “Adecuaciones funcionales a la Plataforma de Solicitudes de 
+Trabajo del Coordinador Eléctrico Nacional.”, de fecha 24 de septiembre de 2025. 
+ 
+ 
+ 
+ 
+ 

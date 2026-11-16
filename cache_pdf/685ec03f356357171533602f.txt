@@ -1,0 +1,216 @@
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300  
+ www.coordinador.cl 
+ 
+Santiago, 26 de junio de 2025 
+DE 03883-25 
+Señora 
+Paola Hartung 
+Representante Legal 
+Andes Solar III SpA 
+Presente 
+ 
+Ref.: Aceptación de Expertos Técnicos para los 
+Ensayos de Verificación de Instalaciones para la 
+Prestación de Servicios Complementarios de 
+Control de Tensión y Control de Frecuencia del 
+PFV+BESS Andes Solar III (NUP 4857). 
+[1] Carta ASIII 0020-2025 de Andes Solar III SpA, 
+Ref.: “[NUP 4857] PFV+BESS Andes Solar III – 
+Envío de antecedentes de los expertos técnicos - 
+Verificación Servicios Complementarios”, de fecha 
+19 de junio de 2025. 
+Responde a Ingreso OP01435-25. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en el 
+Artículo 4 del Anexo Técnico “Verificación de Instalaciones para la prestación SSCC”, de la 
+Norma Técnica de Servicios Complementarios (NTSSCC), se han revisado los 
+antecedentes entregados por su representada mediante comunicación de la Ref. [1]. 
+ 
+Al respecto, comunicamos a Ud. que el Coordinador Eléctrico Nacional, declara admisible 
+a los expertos de las empresas que se presentan en Anexo 1 de la presente carta, para 
+llevar a cabo la supervisión de los ensayos de Verificación de los Servicios 
+Complementarios de Control de Tensión y Control de Frecuencia a prestar por el 
+PFV+BESS Andes Solar III (NUP 4857). 
+ 
+Para continuar con el proceso de verificación, su representada deberá enviar los protocolos 
+de ensayos en conjunto con la fecha de realización de las pruebas. Dichos protocolos 
+deberán ser enviados con al menos 15 días hábiles de anticipación a la realización de las 
+pruebas, indicando el profesional del Experto Técnico que desarrollará los ensayos.  
+ 
+La verificación deberá ser realizada en cumplimiento con lo establecido en el Anexo Técnico 
+“Verificación de Instalaciones para la Prestación de SSCC” de la Norma Técnica 
+mencionada previamente y siguiendo los lineamientos de las Guías de Verificación 
+elaborados por este Coordinador y que se encuentran publicados en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación 
+ 
+La información solicitada deberá ser enviada mediante carta y con copia al correo 
+verificacion.sscc@coordinador.cl.  
+ 
+Finalmente, cabe recordar que sus instalaciones deben además ser verificadas en la 
+prestación del Servicio Complementario de Control Secundario de Frecuencia (CSF), 
+
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300  
+ www.coordinador.cl 
+ 
+siendo en este caso el Coordinador quien cumple el rol de Experto Técnico. Por lo tanto, y 
+a efectos de coordinar las actividades y avanzar en la verificación del CSF, deberá seguir 
+el siguiente flujo de actividades, según la etapa que se encuentre actualmente, tomando 
+contacto con los siguientes departamentos: 
+1. Departamento de Confiabilidad y Soporte Técnico comunicándose al correo 
+DCST@coordinador.cl, para definición del listado de señales requeridas (sólo si esta 
+etapa no ha sido llevada a cabo al a fecha). Tener en cuenta que el listado de 
+señales del CSF coincide con el listado de señales solicitado para el despacho 
+económico con restricciones de seguridad (SCED). 
+ 
+Adicionalmente, en esta etapa puede comunicarse al correo dmap@coordinador.cl 
+para efectos de consultas acerca de la prestación del Servicio Complementario de 
+CSF y la lógica de control que debe ser implementada en sus instalaciones de 
+generación y/o almacenamiento. 
+2. Departamento 
+SCADA 
+y 
+SITR 
+comunicándose 
+al 
+correo 
+tec.SCADA@coordinador.cl.  Solicitud de pruebas punto a punto de las señales 
+listadas por el Departamento de Confiabilidad y Soporte Técnico. 
+3. Departamento de Modelación y Aplicaciones EMS comunicándose al correo 
+dmap@coordinador.cl. Solicitud de pruebas funcionales de CSF o de sintonización 
+del AGC, una vez que haya ejecutado exitosamente las pruebas indicadas en punto 
+2. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+CRV/adr 
+cc.  
+DMAP, DCST, Departamento SCADA. 
+ 
+ 
+
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300  
+ www.coordinador.cl 
+ 
+Anexo 1: Exigencias Art. 4 a Expertos Técnicos  
+ 
+ 
+Exigencias Art. 4 
+Estudios Eléctricos Chile 
+S.A. 
+Estudios Energéticos 
+Consultores S.A. 
+I-SEP Ingenieros SpA 
+10 
+años 
+de 
+experiencia 
+relacionada con los ensayos a 
+realizar 
+Cumple 
+Cumple 
+Cumple 
+Profesionales 
+que 
+cumplen 
+Experiencia y que cumplen rol de 
+Experto Técnico 
+• 
+Federico García 
+• 
+Federico Deledda 
+• 
+Gonzalo Espinoza 
+ 
+• 
+Federico Muiño 
+• 
+Luis Pistone 
+• 
+Nicolás Pérez 
+• 
+Cristóbal Valenzuela 
+Declaración Jurada de Conflicto 
+de Interés 
+Cumple 
+presentación 
+de 
+declaración 
+jurada 
+de 
+ausencia 
+de 
+conflicto 
+de 
+interés 
+Cumple 
+presentación 
+de 
+declaración 
+jurada 
+de 
+ausencia 
+de 
+conflicto 
+de 
+interés 
+Cumple 
+presentación 
+de 
+declaración 
+jurada 
+de 
+ausencia 
+de 
+conflicto 
+de 
+interés 
+
+CORREO DE ENVÍO CARTA DE03883-25 A EMPRESA [NC] 
+RESPONDE INGRESO OP01435-25 
+ 
+ 
+ 
+De: Alejandra Domínguez Rivera  
+Enviado el: viernes, 27 de junio de 2025 10:19 
+Para: paola.hartung@aes.com 
+CC: daniella.bustos@aes.com; yerko.zambon@aes.com; alan.alvarez@aes.com; Cristian Reyes 
+Vigh <cristian.reyes@coordinador.cl> 
+Asunto: Adjunta carta DE03883-25 del Coordinador Eléctrico Nacional 
+ 
+Sra. Paola Hartung: 
+ 
+Junto con saludarla, por indicación de la Sra. Gretchen Zbinden V., Subgerenta de Análisis y Soporte 
+Operacional del Coordinador Eléctrico Nacional, adjunto carta DE03883-25 Ref.: 
+Aceptación de Expertos Técnicos para los Ensayos de Verificación de Instalaciones para la 
+Prestación de Servicios Complementarios de Control de Tensión y Control de Frecuencia del 
+PFV+BESS Andes Solar III (NUP 4857) y que responde a su carta ingresado bajo el número OP01435-
+25. 
+Agradeceré confirmar por esta vía, la correcta recepción del correo y su adjunto. 
+Atentamente, 
+ 
+ 
+ 
+Alejandra Domínguez R. 
+Secretaria 
+Gerencia Personas y Administración 
+ 
+Santiago de Chile 
+Tel: +56 2 2424 6411 
+www.coordinador.cl 
+ 
+ 
+ 
+ 

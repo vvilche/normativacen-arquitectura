@@ -1,0 +1,57 @@
+                                                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 1 de 1 
+  
+2026.03.31 Disponibilidad de enlace AGC  
+Santiago, 31 de marzo de 2026 
+Sr. 
+Ernesto Huber Jara  
+Director Ejecutivo  
+Coordinador Eléctrico Nacional  
+Presente 
+Referencia: Informa disponibilidad de enlace AGC 
+Generación Solar SpA 
+ 
+De nuestra consideración, 
+ 
+Junto con saludar, y por medio de la presente, referente a la carta DE00379-26, nos dirigimos a 
+usted para complementar la comunicación emitida el 18 de febrero de 2026, mediante la cual se remitieron 
+documentos para certificar que el enlace AGC tenga la disponibilidad de 99,95% solicitada por la normativa 
+vigente. 
+ 
+Como anexos a esta comunicación se incluye: 
+ 
+• 
+Hispasat_Disponibilidad Dic2025-Ene2026 SAESA MARIA ELENA 
+• 
+SLA 10000375315 - STSSAESA – 202512 
+• 
+SLA 10000375315 - STSSAESA – 202601 
+ 
+El primer documento certifica la disponibilidad del enlace provisto por Hispasat. La disponibilidad 
+registrada para los meses de diciembre de 2025 y enero de 2026, alcanzando valores de 99,58% y 99,77%, 
+respectivamente. 
+ 
+Por su parte, los otros dos documentos muestran la disponibilidad del enlace provisto por Entel. La 
+disponibilidad registrada para los meses de diciembre de 2025 y enero de 2026, alcanzando valores de 99,93% 
+y 99,81%, respectivamente. 
+ 
+ 
+Sin otro particular, quedamos atentos a sus comentarios y orientaciones respecto de los pasos a 
+seguir. 
+ 
+ 
+ 
+ 
+ 
+ 
+Eliseo López Nitsche 
+ 
+Encargado Titular 
+ 
+Generación Solar SpA 

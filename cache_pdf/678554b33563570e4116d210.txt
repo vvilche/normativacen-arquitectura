@@ -1,0 +1,160 @@
+ 
+ 
+ 
+ 
+ 
+ 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 10 de enero de 2025 
+ENGIE N°005/2025
+ 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Responde carta DE05270-24: “Proyectos y 
+propuestas de soluciones para Informe de Servicios 
+Complementarios (SSCC) 2026” 
+[1] Carta DE05270-24 del 11 de octubre de 2024 
+De nuestra consideración, 
+ 
+Por medio de la presente, ENGIE Energía Chile S.A. comunica a usted, la siguiente propuesta de solución para la 
+prestación de Servicios Complementarios: 
+• 
+Nombre del proyecto: Black Start del BESS Arica II 
+• 
+Fecha estimada de implementación: Mayo 2026 
+ 
+Antecedentes del Proyecto 
+BESS Arica II consiste en implementar un Sistema de Almacenamiento de Energía con Baterías (BESS) 
+independiente de 30 MW/170 MWh que se desarrollará dentro de las instalaciones de la Subestación Arica, 
+propiedad y operada por ENGIE, ubicada en la ciudad de Arica, región de Arica y Parinacota, Chile. 
+ 
+ 
+Figura 1: Ubicación del proyecto. 
+ 
+El polígono verde en la Figura 1 muestra el área donde se ubicarán el BESS y el equipamiento de alta tensión (HV). 
+Esta área actualmente contiene oficinas, la cuales serán desocupadas y reubicadas en la zona amarilla mostrada 
+en la misma figura. La zona roja muestra dónde se ubicarán las instalaciones de la faena. 
+ 
+El proyecto BESS Arica II ha sido diseñado para poder habilitar el servicio de black-start y participar del Plan de 
+Recuperación de Servicio de la zona. Dicha habilitación conlleva un costo adicional (ver Justificación Técnica), que 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+podrá ser implementado en el caso de que exista certeza razonable de la recuperación de dicho costo y una tasa 
+de retorno adecuada. 
+ 
+El cronograma tentativo del proyecto y las fechas clave de BESS Arica II son las siguientes: 
+ 
+ 
+En diciembre 2024 fueron firmados los contratos claves del proyecto BESS Arica II: 
+• 
+Proveedor de Equipamiento. 
+• 
+Constructor. 
+ 
+El proyecto BESS Arica II se conectará al sistema eléctrico a través de la subestación Arica en 66 kV. Dentro de su 
+equipamiento, considera lo siguiente: 
+ 
+• 
+BESS 
+o 
+36 contenedores de BESS y PCS. 
+o 
+9 transformadores de media tensión (o MVS) y transformadores auxiliares. 
+ 
+• 
+Equipo de alta tensión (HV) (equipo principal – lista no exhaustiva) 
+o 
+1 transformador de paso 66/33 kV, 40 MVA. 
+o 
+1 interruptor. 
+o 
+3 seccionadores. 
+o 
+1 equipo de conmutación. 
+ 
+Justificación Técnica 
+La central Diésel Arica fue construida en la década de 1950 en lo que ahora es una zona densamente poblada. La 
+planta está compuesta por 9 unidades (13,6 MW brutos), de las cuales sólo 8 (12,5 MW brutos) siguen operativas y 
+generan durante tiempos de escasez extrema de generación (dado su costo variable promedio de ~290 USD/MWh), 
+capturan ingresos por pagos de capacidad y proporcionan algunos servicios complementarios. El servicio 
+complementario más relevante proporcionado en términos de valor para el sistema es la participación de la planta 
+en el Plan de Recuperación del Servicio en la zona de Arica (PRS en español, como parte del cual la planta 
+proporciona servicios de arranque en negro). 
+ 
+CD Arica, junto con la planta hidroeléctrica Chapiquiña, participan en el PRS de Arica y juntas se utilizan para 
+energizar cargas y líneas de transmisión en caso de un apagón o caída de tensión. 
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May
+COD
+2026
+2024
+2025
+Development
+Detailed design, construction & commissioning
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENGIE Chile ha solicitado desconectar CD Arica, dejando un vacío en el PRS de Arica que eventualmente podría 
+ser cubierto por el proyecto BESS Arica II – Black Start. 
+ 
+El procedimiento de arranque en negro en Arica es público y está descrito en el Estudio del Plan de Recuperación 
+del Servicio. Cabe destacar que el proyecto BESS es de 30 MW, en comparación con los ~12 MW de diésel 
+actualmente instalados. 
+ 
+El proyecto Black Start del BESS Arica II podría proporcionar los servicios complementarios relacionados al Plan de 
+Recuperación del Servicio para el área de Arica de la zona Norte Grande en reemplazo de la central Diésel Árica 
+que se retirará próximamente. 
+ 
+Especificaciones técnicas 
+Ver informes adjuntos: 
+• 
+[DRAFT 2024-01-04] BESS Arica black-start v2.pdf 
+• 
+DRAFT - PQ and additional grid balancing functions of inverters_101.pdf 
+ 
+Costos de implementación 
+El costo adicional de implementación del servicio de black-start/grid forming para BESS Arica II es de 
+aproximadamente 1,6 MUSD. Esto no considera si se deben instalar baterías adicionales para mantener un estado 
+de carga (SOC) mínimo. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Pablo Jorquera Riquelme 
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 

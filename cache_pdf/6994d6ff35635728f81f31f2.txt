@@ -1,0 +1,82 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl  
+Santiago, 17 de febrero de 2026 
+ 
+    
+DE 01130-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Informes Técnicos de Potencia Máxima y 
+Consumo Específico Neto de la Unidad TER 
+Atacama. 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 22 de los Anexos Técnicos “Pruebas de Potencia Máxima en 
+Unidades Generadoras” y “Determinación de Consumos Específicos de Unidades 
+Generadoras” de la Norma Técnica de Seguridad y Calidad de Servicio, se ha publicado el 
+Acta e Informes Técnicos de las siguientes pruebas realizadas a la central TER Atacama: 
+ 
+Potencia Máxima operando en Ciclo Abierto con combustible GNL CC2. Configuraciones: 
+• 
+ATACAMA-2_TG2A_GNL 
+• 
+ATACAMA-2_TG2B_GNL 
+ 
+Potencia máxima operando en Ciclo Combinado con combustibles GNL y Diesel CC2. 
+Configuraciones: 
+• 
+ATACAMA-2_TG2A+TG2B+TV2_GNL 
+• 
+ATACAMA-2_TG2A+0.5TV2_GNL 
+• 
+ATACAMA-2_TG2B+0.5TV2_GNL 
+• 
+ATACAMA-2_TG2A+0.5TV2_DIESEL 
+ 
+Consumo Específico Neto en Ciclo Combinado operando con GNL CC2. Configuraciones: 
+• 
+ ATACAMA-2_TG2A+TG2B+TV2_GNL  
+ 
+Dichos documentos pueden ser descargados desde el Sitio Web del Coordinador Eléctrico  
+Nacional en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades  
+Generadoras: 
+  
+1. > Potencia Máxima > Pruebas de Potencia máxima > Central TER Atacama > 
+2026 
+2. > Consumo Específico Neto > Pruebas de Consumo Específico Neto > Central 
+TER Atacama > 2026 
+ 
+Considerando lo indicado, y en conformidad con lo establecido en los Artículos de los 
+Anexos Técnicos antes citado, su representada podrá realizar observaciones fundadas a 
+los documentos mencionados a más tardar el día 3 de marzo de 2026, mediante carta y 
+con copia al correo electrónico anexos_dco@coordinador.cl, indicando en el asunto 
+“Observaciones a Informes Técnicos de Parámetros Operacionales de la Central TER 
+Atacama”. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl  
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/EGV/PPF/adr 
+ 

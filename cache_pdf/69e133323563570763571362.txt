@@ -1,0 +1,490 @@
+ 
+ 
+ARAUCO BIOENERGIA SpA 
+Av. El Golf 150. Piso 14 
+Las Condes – Santiago, Chile 
+Fono: 56-2 2461 7200 
+ 
+Santiago, 15 de abril de 2026 
+ 
+- 
+ 
+ 
+ 
+ 
+GAB-041/2026 
+ 
+ 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+REF: Responde a carta DE 01798-26 de 23 de marzo de 2026, sobre 
+Mínimo de Excedentes central autoproductora TER Arauco MAPA. 
+ 
+ANT.: [1] Carta DE03679-24 (GAB-041-2024) de 14 de junio de 2024 
+[2] Carta DE07076-25 de 3 de noviembre de 2025 
+[3] Carta DE07271-25 de 18 de noviembre de 2025 
+[4] Carta DE11833-25 (GAB-089/2025) de 24 de noviembre de 2025 
+[5] Carta DE08067-25 de 18 de diciembre de 2025 
+[6] Carta DE00055-26 (GAB-095/2025) de 31 de diciembre de 2025 
+[7] Carta DE00292-26 de 29 de enero de 2026 
+[8] Carta DE01287-26 (GAB-012/2026) de 12 de febrero de 2026 
+[9] Carta DE01798-26 de 23 de marzo de 2026 
+[10] Carta DE03140-26 (GAB-030/2026) de 30 de marzo de 2026 
+[11] Carta DE02234-26 de 7 de abril de 2026 
+ 
+ 
+De nuestra consideración: 
+ 
+En representación de Arauco Bioenergía SpA (“ABIO”), nos referimos a las observaciones planteadas por 
+este Coordinador Eléctrico Nacional (“CEN”), mediante carta de Ref. [7], respecto al Mínimo de 
+Excedentes de potencia del complejo autoproductor Arauco MAPA (“MAPA”) informado mediante carta 
+de Ref. [1], y que fueron reiteradas mediante la carta de Ref. [9]. 
+ 
+A este respecto, no obstante que, a nuestro juicio, parte de las observaciones y consultas realizadas por 
+el CEN respecto al Mínimo de Excedentes extralimitan el ámbito que corresponde responder y/o 
+informar en cuanto empresas coordinadas de instalaciones eléctricas que se configuran como un 
+autoproductor, se dará respuesta a los distintos requerimientos y consultas realizadas por dicha 
+institución, en un ánimo colaborativo y de buena fe, considerando que los correspondientes valores 
+fueron informados durante 2024, habiendo el CEN declarado la entrada en operación de MAPA. 
+ 
+
+ 
+2 
+ 
+De esta manera, a continuación, nos referiremos a cada una de las observaciones planteadas en el 
+documento CEN-GO-DCO-PO-TER Arauco MAPA-V2 de 28 de enero de 2026, acompañado como anexo 
+a la carta de Ref. [7]. Cabe señalar que las respuestas entregadas en esta presentación deben ser 
+analizadas teniendo siempre presente la calidad de complejo autoproductor de MAPA, en cuanto 
+instalación productiva que genera energía eléctrica como resultado de su proceso, la cual se dispone 
+para abastecer, precisamente, los consumos asociados a dichos procesos productivos, en este caso, de 
+celulosa. 
+ 
+I. 
+SOBRE EL MÍNIMO DE EXCEDENTES 
+ 
+“En función de lo planteado, y con el fin de fundamentar, justificar, y lograr una posible gestión del nivel 
+de mínimo técnico de los excedentes para la Central TER MAPA se solicita lo siguiente:” 
+ 
+a) Detallar y respaldar en el cuerpo del informe, las razones técnicas del proceso, por las cuales la 
+operación de régimen implica necesariamente el quemado continuo de la totalidad de la 
+biomasa interna (160 m3s(ton/h)), así como el impacto que implicaría el acopio de material 
+tipo biomasa no quemado, para la reducción del proceso de combustión, y la consecuente 
+disminución de la generación de excedentes. 
+ 
+Para responder a esta observación, se debe hacer presente que el proceso de producción de celulosa es 
+uno eminentemente continuo, en el cual se utilizan rollizos de árboles como insumo, y cuyo 
+procesamiento genera, como subproducto, biomasa proveniente de las actividades de descortezado y 
+chipeado. Por otra parte, el diseño de la planta de celulosa de Arauco incorpora la utilización de estos 
+subproductos como combustible para la producción de vapor, el que, a su vez, se utiliza en la 
+generación de electricidad. Finalmente, en su calidad de complejo autoproductor, el proceso industrial 
+de producción de celulosa utiliza tanto el vapor como la electricidad producida al interior de la planta. 
+ 
+Al ser la producción de celulosa un proceso continuo, la generación de biomasa interna también lo es. 
+De esta manera, el no quemar la totalidad de la biomasa producida en la planta implicaría que esta deba 
+ser almacenada en lugares de acopio y/o retirados de la planta hacia botaderos. No obstante, la 
+Resolución de Calificación Ambiental (“RCA”) de MAPA -N°37/2014- no autoriza para disponer de la 
+biomasa en botaderos en forma permanente, sino que los considera como un insumo energético que 
+da valor al proyecto.  
+ 
+Por otra parte, si bien la planta cuenta con un sitio para el acopio de biomasa, dicho lugar tiene fines 
+industriales y busca dar autonomía y seguridad al funcionamiento del complejo, en caso de que 
+existan interrupciones tanto en el abastecimiento externo de rollizos, como en el proceso de 
+descortezado y chipeo. En dichas circunstancias, no se contaría con los insumos necesarios para seguir 
+produciendo biomasa y mantener el abastecimiento de los requerimientos energéticos de la planta de 
+celulosa, utilizándose las reservas. De esta forma, estos sitios de acopio no tienen por objeto una 
+
+ 
+3 
+ 
+acumulación ilimitada de biomasa, y operan en valores cercanos al 100% de capacidad, no existiendo 
+capacidad disponible para ser utilizada en otros fines ajenos a la producción de celulosa. 
+ 
+Sin perjuicio de lo anterior, cabe analizar los efectos o impactos teóricos que implicaría el no quemar la 
+totalidad de la biomasa interna. A este respecto, tal como se observa en el anexo A1, la operación de la 
+turbina TG8 en condiciones de régimen estable y seguro requiere de 282 ton/h de vapor de alta presión 
+para lograr las condiciones de presión necesarias para habilitar, en condiciones seguras y estables, la 
+extracción de media presión de 118 ton/h requeridas por el proceso productivo, condición que, a su vez, 
+requiere un flujo de 164 ton/h por el condensador. Cabe hacer presente que la salida de vapor al 
+condensador es directa o completamente abierta, por lo cual se requiere de un flujo de vapor como el 
+indicado para producir la presión necesaria en la salida de media presión.  
+ 
+Por otra parte, en el anexo A2 se presenta la curva de consumo de vapor de la turbina TG8, pudiéndose 
+apreciar que, si se pretendiese disminuir el flujo de vapor de la entrada de alta presión (HP) en 160 ton/h, 
+quedando en 122,5 ton/h o 34 kg/s, no se puede habilitar la extracción de vapor de baja presión de la 
+turbina, impidiéndose abastecer al proceso industrial del vapor necesario. Es decir, reducir el flujo de 
+vapor de la unidad TG8 en 160 ton/h llevaría a esta unidad a operar en un punto donde no se puede 
+habilitar la extracción de vapor de baja presión de la turbina, lo que conlleva no poder abastecer los 
+consumos industriales de vapor de la planta, afectándose la producción de celulosa.  
+ 
+En el balance de energía de operación a Mínimo Técnico de Excedentes se aprecia que los 
+requerimientos de vapor de baja presión que requiere el proceso desde la unidad TG8 son de 118,6 
+ton/h o 32,9 kg/s. Para que dicha unidad pueda entregar este flujo de vapor por su extracción, el flujo 
+mínimo de vapor de alta presión a la entrada de la turbina es de 64 kg/s o 230,4 ton/h, con una 
+generación de 49 MW aproximadamente en la unidad. 
+ 
+En consecuencia, conforme a todo lo expuesto, el no quemar la totalidad de la biomasa interna en la 
+caldera de poder N°5 de MAPA conllevaría las siguientes consecuencias: 
+ 
+1. Aumento progresivo de la acumulación de biomasa, no existiendo capacidad de acopio para 
+estos efectos en la planta ni posibilidades de disponer esta biomasa en botaderos fuera de 
+planta. 
+2. Llevar la unidad TG8 a un punto de operación donde no es factible habilitar la extracción de baja 
+presión, no pudiéndose, por tanto, abastecer los requerimientos de vapor del proceso 
+industrial de celulosa. 
+ 
+Todo lo anterior da cuenta de las complejidades técnicas y operativas de las actividades desarrolladas 
+en el complejo autoproductor MAPA, en el cual se deben compatibilizar dos procesos simultáneos e 
+interdependientes de alto rendimiento y especificidad, los cuales se optimizan para asegurar una 
+
+ 
+4 
+ 
+operación segura y estable que habilite un proceso productivo adecuado al diseño del proyecto 
+aprobado por las autoridades. 
+ 
+b) Respecto de lo señalado anteriormente, se solicita informar los niveles de potencia de 
+excedentes posible de alcanzar gestionando la disminución de consumo (quemado) de biomasa 
+(estableciendo acopio de esta) y los periodos de tiempo estimados que es posible realizar esta 
+operación a menor carga, adjuntando los antecedentes que respalden los valores declarados 
+de excedentes de generación esperada. 
+ 
+Conforme se explicó en la respuesta anterior, por razones técnicas, de diseño y ambientales, no es 
+factible operar en niveles de potencia inferiores a los informados mediante una disminución del 
+consumo (quemado) de biomasa. Ello, por una parte, al no ser posible aumentar la capacidad de acopio 
+de biomasa de que dispone la planta1 (o realizar un retiro hacia botaderos) y, por otra, porque no es 
+factible operar la unidad TG8 sin el vapor proveniente del quemado continuo y total de esta biomasa, 
+ya que se afectaría el abastecimiento de vapor a los consumos industriales de la planta, perjudicándose 
+todo el proceso productivo. 
+ 
+c) Indicar conforme a la RCA vigente, si existe alguna limitación en el almacenamiento o 
+limitación en el retiro de la biomasa del sitio para disposición, para disminuir su quema en la 
+caldera. 
+ 
+Sin perjuicio de las limitaciones técnicas explicadas anteriormente, a continuación, se presenta un 
+análisis jurídico-ambiental de los alcances de la RCA N°37/2014 de 7 de febrero de 2014, en lo relativo a 
+la posibilidad de disponer biomasa en vertedero/DRIS2 para el proyecto MAPA. 
+ 
+A. Marco general fijado por la RCA 
+La RCA N°37/2014 aprueba el proyecto MAPA bajo un modelo productivo y energético claramente 
+definido, en el cual la biomasa forestal (corteza, astillas no pulpables, aserrín y otros subproductos de la 
+preparación de madera) resultante de la producción de celulosa cumple un rol estructural como: 
+ 
+• 
+Insumo energético para las calderas de poder (CP2, CP4 y CP5). 
+• 
+Fuente de cogeneración de energía eléctrica renovable. 
+• 
+Elemento central de la justificación ambiental del proyecto, particularmente en términos de 
+reducción de GEI3 y sustitución de combustibles fósiles. 
+ 
+ 
+1 Para dichas gestiones sería necesario desarrollar un proyecto de inversión, además de la realización y aprobación de 
+nuevos estudios ambientales, lo cual no está contemplado ni puede exigirse para estos efectos. 
+2 Depósito de Residuos Industriales Sólidos. 
+3 Gases de Efecto Invernadero. 
+
+ 
+5 
+ 
+Este enfoque se mantiene de manera consistente en la situación “sin proyecto” y “con proyecto”4. 
+ 
+B.  Tratamiento expreso de la biomasa en la RCA 
+ 
+De la revisión de la RCA y sus antecedentes se desprende que: 
+ 
+• 
+La biomasa no pulpable es descrita de forma reiterada como biomasa combustible. 
+• 
+Su destino principal y evaluado es la combustión controlada en calderas de poder. 
+ 
+De esta manera, la biomasa no es tratada como un residuo primario, sino como un subproducto 
+valorizado energéticamente, cuya correcta utilización forma parte de los beneficios ambientales 
+comprometidos por el proyecto. 
+ 
+C. Interpretación jurídico-ambiental 
+ 
+La RCA no contempla una autorización general para disponer de la biomasa en un vertedero o DRIS 
+como destino habitual y permanente. En este sentido: 
+ 
+• 
+La biomasa está autorizada ambientalmente como insumo energético. 
+• 
+No existe autorización para su disposición sistemática u ordinaria en vertedero o DRIS. 
+• 
+Cualquier disposición solo sería admisible para excedentes, de forma excepcional y justificada. 
+ 
+A este respecto, se debe considerar que, conforme al artículo 24 inciso final de la Ley N°19.300, "El titular 
+del proyecto o actividad, durante la fase de construcción y ejecución del mismo, deberá someterse 
+estrictamente al contenido de la resolución de calificación ambiental respectiva" (el destacado es 
+nuestro). 
+ 
+De esta manera, una práctica habitual de disposición de biomasa (derivada de una disminución en el 
+consumo para generación de vapor y energía eléctrica) podría ser interpretada como un incumplimiento 
+de la RCA, con riesgo de sanciones por parte de la Superintendencia del Medio Ambiente, conforme al 
+artículo 35 letra a) de la Ley N°20.417.  
+ 
+D.  Conclusión 
+ 
+En síntesis: 
+ 
+• 
+La RCA conceptualiza la biomasa como un insumo productivo y energético, no como residuo de 
+eliminación. De esta manera, para efectos de dar cumplimiento a las disposiciones ambientales, 
+ 
+4 Lo que implica la detención de la Línea 1, modernización de la Línea 2 y construcción y operación de la Línea 3. 
+
+ 
+6 
+ 
+la biomasa debe ser consumida (quemada) en la forma dispuesta en la RCA (esto es, en las 
+calderas). 
+ 
+• 
+La disposición de la biomasa en un vertedero o DRIS no es un destino autorizado de carácter 
+general (por cuanto ello implicaría que la biomasa es residual, en circunstancias que es un 
+insumo productivo conforme a la propia RCA), sino que únicamente aplicaría como excepción y 
+en forma justificada, bajo el riesgo de incurrir en un incumplimiento de la autorización ambiental. 
+ 
+ 
+d) Detallar los efectos en el acopio de material combustible biomasa (cantidad, disponibilidad de 
+terreno, autorización de RCA, etc.), periodo máximo de almacenamiento, y los efectos 
+posteriores del reintegro de la biomasa acumulada al proceso de quemado, en particular, la 
+potencia activa y proceso de producción de la central durante el reintegro de la biomasa 
+almacenada. 
+ 
+Como se ha indicado en las respuestas a) y b) anteriores, no es posible, sin incurrir -potencialmente- en 
+incumplimientos ambientales o afectaciones a los procesos productivos, aumentar la capacidad de 
+acopio de la que dispone la planta, la que se utiliza en su totalidad para fines industriales, y no como un 
+sitio destinado al almacenamiento en la forma planteada por el CEN. 
+ 
+Respecto de los efectos en la potencia activa, como se indicó en la respuesta de la letra a), no es factible 
+operar la unidad TG8 sin el vapor proveniente del quemado continuo y total de la biomasa resultante 
+del proceso de producción de celulosa, al tratarse de proceso integrados y de alto rendimiento. De lo 
+contrario, y conforme se explicó, el acopio de biomasa significaría una menor cantidad de biomasa 
+quemada en la caldera, lo que llevaría a operar la caldera en un punto en que no es factible habilitar la 
+entrega de vapor de media presión que el proceso requiere y, en consecuencia, no se podría operar 
+dicha unidad en forma estable y segura, afectándose el proceso productivo de la planta. 
+ 
+e) Entregar documentación y respaldo técnico, tales como manuales de operación, limitaciones 
+técnicas o similares, que respalden que las características mínimas del proceso son las 
+indicadas por su representada. Adicionalmente se solicita indicar, de manera justificada, las 
+condiciones de vapor requeridas para esta operación. 
+ 
+Se debe aclarar que las condiciones o características “mínimas del proceso” se deben entender asociadas 
+al proceso de producción de vapor, tal que se generen las condiciones normales o de diseño del proceso 
+de producción de celulosa. Lo anterior, considerando que esta es una industria de elaboración de 
+celulosa, y los niveles de producción son definidos únicamente por Arauco.  
+ 
+Consecuentemente, las condiciones mínimas del proceso de producción de vapor se determinan cuando 
+la producción de celulosa alcanza su condición de operación de régimen, esto es, 1500 kADt/año, lo cual 
+
+ 
+7 
+ 
+considera el quemado de la totalidad del licor negro generado por el digestor de la Línea 3 en su caldera 
+recuperadora (CR3), así como el quemado total de la biomasa interna generada en el proceso de 
+descortezado y chipeado de los árboles que ingresan al digestor, en su caldera de poder (CP5). En esta 
+condición la planta alcanza su condición de operación normal, estable y de régimen, produciendo 
+vapor en todas las calderas que dispone la planta y energía en las unidades generadoras, abasteciendo 
+los requerimientos de vapor y electricidad necesarios para esta condición.  
+ 
+Es del caso mencionar que no existe un manual de operación de la planta, por cuanto esta es una 
+industria química cuyo proceso está determinado por la forma en que se elabora la celulosa, cuestión 
+que es una materia propia de Arauco y que escapa al ámbito de competencias del CEN, no siendo el 
+objetivo principal la producción de energía eléctrica, la cual no es sino un subproducto del proceso. Ello 
+es lo que, precisamente, convierte a MAPA en un complejo autoproductor en los términos legales. 
+ 
+f) En caso de existir actualmente alguna restricción operativa, o de seguridad, en relación con la 
+acumulación de Biomasa se solicita entregar un plan de trabajo, incorporando los plazos y 
+acciones que deberá llevar a cabo su representada para eliminar o relajar ésta. 
+ 
+En relación con esta observación, cabe señalar que el Mínimo de Excedentes y parámetros de operación 
+informados no responden a una restricción operativa o de seguridad específica y temporal, por lo que 
+no puede proponerse un plan de trabajo para estos efectos. 
+ 
+Según se ha indicado anteriormente, el valor de mínimo de excedentes informado para el complejo 
+autoproductor MAPA se basa principalmente en la necesidad de quemar toda la biomasa producida en 
+el proceso productivo y que la Turbina TG8 debe operar en un punto de presión interna tal que se habilite 
+la entrega de vapor de media presión requerido por el proceso industrial de celulosa. 
+ 
+Adicionalmente, la restricción operativa de acopio responde a la necesidad de contar con una 
+autonomía en caso de producirse eventos que provoquen restricciones de abastecimiento de biomasa 
+a la caldera y, por tanto, afectaciones en la producción de vapor para el consumo del proceso, lo que 
+conlleva a utilizar los centros de acopio al 100% de su capacidad en forma continua, a efectos de que el 
+complejo esté preparado ante dichos eventos.  
+ 
+Así también, la cantidad de biomasa acopiada debe equilibrar la necesidad de resguardar el suministro 
+seguro y continuo de este insumo energético a la caldera ante eventos de pérdida del suministro en las 
+etapas previas, contra el riesgo de incendio en verano, que se produce al acumular grandes cantidades 
+de biomasa, lo que, a su vez, significa muchos días en la pila antes de ser enviada a la caldera; y de igual 
+forma, en el invierno se produce el riesgo de pérdida de rendimiento en el quemado debido a la 
+humedad, ante muchos días de la biomasa en la pila previo al envío a la caldera.     
+ 
+
+ 
+8 
+ 
+Finalmente, es importante hacer presente que aumentar la capacidad de acopio de la planta no es 
+factible, ya que sería necesario un proyecto de inversión, además de la realización y aprobación de 
+nuevos estudios ambientales, lo cual no está contemplado ni puede exigirse para estos efectos.  
+ 
+II. 
+SOBRE LOS BALANCES DE ENERGÍA ESPERADOS 
+ 
+“Se solicita incorporar al informe (en cuerpo del informe o Anexo) los balances de energía esperados, en 
+potencias menores a los excedentes de 100,4 MW. En particular se requiere:” 
+ 
+Como se ha indicado anteriormente, no existen puntos de operación en potencias inferiores a este valor 
+(100,4 MW) cuando el complejo de celulosa se encuentre operando de manera óptima, ya que eso 
+conllevaría reducir el suministro de vapor de baja presión a la unidad TG8, perjudicando el proceso 
+productivo de celulosa, además de una acumulación de la biomasa interna, no existiendo capacidad 
+adicional de acopio para esto ni posibilidades de realizar un retiro continuo a vertederos.  
+ 
+Según se ha explicado al CEN en comunicaciones anteriores, dada la complejidad de una planta de 
+celulosa como la de Arauco, cuyo diseño y operación no obedece a manuales pre-determinados, su 
+operación pasa por un proceso de optimización que puede durar numerosos meses e incluso años hasta 
+lograr estabilizarlo en condiciones de máxima producción, de manera estable y segura. Es precisamente 
+esta etapa en la que se encuentra actualmente la planta de Arauco en la actualidad, que ha llevado a 
+limitar los excedentes de generación disponibles en el marco del proceso de puesta en marcha y 
+optimización de su operación.  
+ 
+Sin perjuicio de lo anterior, se procede a contestar las consultas y requerimientos. 
+ 
+a) Justificar los supuestos usados para el cálculo del balance de energía como, por ejemplo, los 
+valores de flujos de entrada y salida de cada caldera, los flujos del desaireador, entre otros. 
+ 
+Los supuestos usados para el cálculo consideran, en primer lugar, la capacidad de diseño de la planta 
+de celulosa5, la cual es de 1500 kADt/año. Para esto, el balance de energía considera el quemado en la 
+caldera recuperadora (CR3) del licor negro generado por el digestor de Línea 3, el cual se ubica en torno 
+a 242 BDt/h, además del quemado en la caldera de poder (CP5) de la biomasa interna generada previo 
+a su ingreso al digestor, la cual se ubica en torno a 158 m3st/h. Con esto, se asegura la continuidad 
+operacional de la planta, de manera sustentable y segura. 
+ 
+Los niveles de quemado de material en las dos calderas asociadas a la Línea 3 de producción de celulosa 
+tienen como resultado la generación de aproximadamente 979 ton/h de vapor por parte de la caldera 
+recuperadora, y 135 ton/h por parte de la caldera de poder, las que se inyectan al Colector de Alta 
+ 
+5 Una vez más, se debe hacer presente que la generación de energía eléctrica del complejo autoproductor responde y es 
+interdependiente al proceso de producción de celulosa, actividad primaria del complejo MAPA. 
+
+ 
+9 
+ 
+Presión. Lo anterior, considerando los requerimientos de vapor y electricidad del proceso de producción 
+de celulosa, da como resultado la generación de energía eléctrica por parte de los turbogeneradores 
+TG7 y TG8 de 131,4 MW y 73,5 MW respectivamente. 
+ 
+En cuanto a los flujos de entrada del desaireador, estos son de 815,5 ton/h provenientes del proceso, 
+81,3 ton/h provenientes de la extracción de media presión del TG8, y 232 ton/h provenientes de make-
+up. Por otra parte, la salida del desaireador es de 1128,8 ton/h, la cual se reparte principalmente hacia 
+la caldera recuperadora (CR3) y la de poder (CP5). 
+ 
+b) Incluir en el informe los balances de energía de, al menos tres puntos de operación menores a 
+100,4 MW. Estos cálculos deben contener los valores de flujos de entrada y salida de cada 
+caldera, desaireador, entre otros. 
+ 
+Como se ha indicado en los puntos anteriores, por razones productivas, técnicas y ambientales, no es 
+factible la operación en forma continua del complejo MAPA en niveles de generación inferiores a los 
+informados.  
+ 
+c) Respaldos técnicos, tales como datasheets, manuales de operación y uso, eficiencias de las 
+calderas, quemadores, turbinas a vapor y similares, ya que actualmente el informe solo tiene 
+información de las turbinas TG7 y TG8. 
+ 
+Debido a que las calderas son esencialmente equipos integrados al proceso de producción de celulosa y 
+no está en su objetivo la generación de energía eléctrica, sino que esta resulta de un proceso secundario 
+distinto, no es del alcance del CEN la forma en que se operan y utilizan dichos equipos dentro del proceso 
+productivo.  
+ 
+Por otra parte, lo que se quema en las calderas es resultado del proceso productivo de celulosa, y la 
+eficiencia que se busca es la de elaboración de celulosa según los parámetros y régimen de diseño del 
+proyecto, definición que es parte de las prerrogativas de Arauco en cuanto titular de MAPA.  
+ 
+III. 
+SOBRE LOS EFECTOS DE CONSIDERAR UN EXCEDENTE MENOR 
+ 
+“De lo señalado en 1. a), b), c) y d), se solicita explicar y sustentar técnicamente los efectos que tendría 
+para las instalaciones, equipamiento y el proceso productivo la operación a un excedente menor a 100,4 
+MW, ya que las razones presentadas en el informe tienen relación con aspectos operacionales o 
+administrativos y no se sustentan en limitaciones técnicas de las máquinas generadoras o componentes 
+del proceso asociado.” 
+ 
+
+ 
+10 
+ 
+Como se ha explicado en las respuestas anteriores, el operar en niveles de excedentes menores a 100,4 
+MW implicaría reducir el quemado de la biomasa producida al interior de planta, lo que tendría las 
+siguientes consecuencias: 
+ 
+• Aumento progresivo de la acumulación de biomasa, no existiendo capacidad de acopio para 
+estos efectos en la planta, ni posibilidades de disponer esta biomasa en botaderos externos, 
+bajo el riesgo de incumplir la RCA del proyecto. 
+ 
+• Llevar la unidad TG8 a un punto de operación donde no es factible, desde una perspectiva de 
+estabilidad y seguridad, habilitar la extracción de vapor de baja presión, no pudiéndose 
+abastecer los requerimientos de vapor del proceso industrial de celulosa, y afectándose, por 
+tanto, toda la producción y diseño operacional del proyecto.  
+ 
+IV. 
+CONFIDENCIALIDAD 
+ 
+“En caso de presentar información confidencial deberá indicar explícitamente la solicitud de resguardo 
+pertinente, dado que las consultas/respuestas forman parte del proceso que es cargado en el sitio web 
+del coordinador”. 
+ 
+Toda la información técnica y operacional entregada en esta presentación tiene carácter confidencial, 
+por lo que solicita al CEN tomar las medidas y resguardos correspondientes para mantener dicha 
+condición, conforme a lo dispuesto en el artículo 57 del DS N°52/20176. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Leonardo Bastidas Almarza 
+Encargado Titular 
+ARAUCO BIOENERGÍA SpA 
+ 
+ 
+ 
+ 
+6 Dicha norma establece que “Sin perjuicio de lo señalado en los artículos anteriores, el Coordinador deberá tomar las 
+medidas necesarias para resguardar la confidencialidad y reserva de aquella información cuya publicidad, comunicación 
+o conocimiento afecte el debido cumplimiento de sus funciones o derechos de las personas, especialmente en el ámbito de 
+su vida privada o derechos de carácter comercial o económico, debiendo dictar un Procedimiento Interno según el artículo 
+72º-4 de la Ley, fijando los criterios y formas en la cual resguardará dicha confidencialidad o reserva”. 
+Leonardo 
+Bastidas 
+Almarza
+Firmado 
+digitalmente por 
+Leonardo Bastidas 
+Almarza 
+Fecha: 2026.04.15 
+18:28:31 -04'00'
+
+ 
+11 
+ 
+ANEXOS 
+ 
+Anexo A.1 Balance de vapor de Planta Arauco MAPA operando a mínimo técnico de excedentes 
+ 
+ 
+ 
+
+ 
+ 
+ARAUCO BIOENERGIA SpA 
+Av. El Golf 150. Piso 14 
+Las Condes – Santiago, Chile 
+Fono: 56-2 2461 7200 
+Anexo A.2 Curva de consumo de vapor de unidad TG8 
+ 
+ 

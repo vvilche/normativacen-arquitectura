@@ -1,0 +1,256 @@
+ 
+ 
+ Santiago, 7 de septiembre de 2026 
+     EFC-2026-00378 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+Ref.: Solicitud de revisión de las exigencias de 
+instalación de PMU aplicables a instalaciones 
+vinculadas al grupo EnfraGen. 
+ 
+Ref. [1]: Estudio para la Implementación del 
+Módulo de Medición Fasorial emitido el 31 de julio 
+de 2026. 
+ 
+De nuestra consideración, 
+Con motivo de las exigencias que se han establecido en Ref. [1], por medio de la presente y en 
+representación de las empresas que se listan a continuación, solicitamos al Coordinador Eléctrico 
+Nacional ("CEN") que someta a revisión la exigencia de instalación de veintiún unidades de medición 
+fasorial ("PMU") en diecisiete instalaciones donde el CEN considera necesario si instalación, siendo 
+las siguientes:  
+ 
+
+La presente solicitud comprende:  
+a) Optimizar mediante la eliminación o reducción de puntos PMU cuando existe un 
+fundamento técnico directo;  
+b) Eficientar mediante la autorización de soluciones compartidas o equipos multicanal que 
+eviten duplicar infraestructura sin disminuir la observabilidad del CEN; y  
+c) Medidas subsidiarias de implementación gradual cuando la instalación ya se encuentra en 
+el mínimo previsto por la metodología.  
+Las centrales generadoras sujetas a la exigencia pertenecen a distintas empresas Coordinadas 
+pertenecientes al grupo EnfraGen. Por ello, esta presentación expone una revisión consolidada, sin 
+perjuicio de que las solicitudes específicas sean ratificadas o complementadas por cada sociedad 
+titular si el CEN así lo requiere. 
+A continuación, se describe brevemente el criterio utilizado por el CEN para concluir con el 
+requerimiento de PMU, y las justificaciones asociadas a cada una de las unidades de EnfraGen para 
+reducir la cantidad de PMU requeridas. 
+1. 
+Criterios del Estudio del Módulo de Medición Fasorial 
+La sección 5.1 del Estudio 2026 considera, con carácter general, instalaciones de generación con 
+capacidad instalada igual o superior a 9 MW. Para generadores sincrónicos establece como regla un 
+punto PMU en los terminales de cada unidad generadora. Sin embargo, para centrales compuestas 
+por múltiples unidades pequeñas o naves de motores admite un punto de monitoreo por central, 
+preferentemente en el punto de conexión común cuando exista. Para parques basados en inversores 
+dispone la medición en el punto de control de planta (PPC) de cada parque. 
+Sin perjuicio de lo anterior, en la sección 1 del Estudio 2026, el Coordinador señala: 
+“(…) el MMF tiene como objetivo que el Coordinador adquiera las mediciones en tiempo real de 
+fasores de tensión y corriente, de tal forma que pueda verificar los requerimientos del Artículo 4-
+28 de la NT SyCS (…)” 
+Al respecto, el Artículo 4-28 de la NTSyCS señala: 
+“El sistema de monitoreo se basará en la instalación de equipos encargados de realizar el registro 
+dinámico del sistema de potencia, a través de la adquisición en Tiempo Real de variables 
+relevantes del SI, que permitan registrar la ocurrencia de perturbaciones en el sistema y cambios 
+de estado operativo. Las características de los registros deberán ser tales que el procesamiento 
+de los mismos permita verificar o realizar:  
+a) El nivel de amortiguamiento presente en las oscilaciones de potencia en el SI, con el objeto 
+de establecer si se cumplen los estándares exigidos en la presente NT, o si existe necesidad 
+de implementar medidas correctivas. 
+ b) El correcto funcionamiento de las protecciones del SI, en cuanto a los valores de ajuste, 
+tiempos de intervención requeridos y su adecuada coordinación.  
+
+c) Análisis post operativos de fallas o perturbaciones severas ocurridas en el SI, en especial 
+aquellas de escasa probabilidad de ocurrencia, o que se hubieran iniciado por causas 
+desconocidas.  
+d) El desempeño de los EDAC, EDAG, ERAG y Sistemas de Protección Multiárea en general; y, 
+en particular, la contribución de las Instalaciones de Clientes a estos esquemas en los puntos 
+que el Coordinador determine.  
+e) El desempeño del PDC diseñado por el Coordinador.  
+f) El margen de estabilidad estática o dinámica del SI dados los puntos de monitoreo de 
+interés.” 
+A nuestro entender, las exigencias del Artículo 4-28 son provistas actualmente por los relés de 
+protección y los sistemas de monitoreo existentes en las unidades generadoras, o bien podrían ser 
+provistas por otros instrumentos sin requerir necesariamente una PMU. 
+Ahora bien, reconocemos la importancia de los PMU para el monitoreo en tiempo real del sistema 
+eléctrico y la importancia que tiene el monitoreo en la seguridad del sistema. Sin embargo, 
+consideramos que su despliegue debe realizarse de manera óptima y eficiente, evitando equipos 
+redundantes cuyas inversiones pueden encarecer innecesariamente el costo de suministro y no 
+cuentan con retribución económica en el Mercado de Corto Plazo. 
+Por ejemplo, En Estados Unidos y otras jurisdicciones de Norteamérica, los requerimientos de 
+instrumentación dinámica y PMUs provienen de los estándares de confiabilidad de la NERC (North 
+American Electric Reliability Corporation), principalmente el estándar PRC-002-2 para monitoreo de 
+disturbios. La bajada específica de cuántos Megavatios (MW) obligan a un generador a instalar PMUs 
+la determina cada Operador Independiente del Sistema (ISO / RTO). A continuación, algunos 
+ejemplos: 
+• 
+PJM Interconnection: Su umbral general requiere instalación de equipos PMU para 
+generadores con una capacidad de 100 MVA o superior. 
+• 
+Southwest Power Pool (SPP): En recientes normativas tarifarias, SPP estableció que las 
+nuevas instalaciones de generación deben incluir equipos PMU si tienen una capacidad igual 
+o mayor a 50 MW.  
+• 
+ERCOT y CAISO: El umbral necesario para la instalación de PMUs es de 20 MW. 
+ 
+En este marco, la presente solicitud se funda en la equivalencia de observabilidad y la eliminación 
+de duplicidades físicas para reducir la cantidad de PMU requeridas por el Coordinador, manteniendo 
+la observabilidad necesaria para el monitoreo en tiempo real. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+A continuación, análisis por cada una de las plantas indicadas en el estudio: 
+ 
+2. 
+TER Andes Generación 
+El Coordinador solicita tres PMU para una central de aproximadamente 35 MW compuesta por 
+cuatro unidades: un punto para U1-U2, uno para U3 y uno para U4. La configuración se aproxima al 
+supuesto de múltiples unidades pequeñas para el cual el propio Estudio contempla un único punto 
+por central. Solicitamos eliminar las exigencias de PMU’s a la Central Andes Generación 
+considerando que esta central corresponde a una unidad cuyo diseño es abastecer la demanda de 
+punta, por lo que resulta una inversión poco eficiente si se considera que se utilizaría efectivamente 
+solo en los momentos de mayor necesidad del sistema. En el caso que el Coordinador desee 
+mantener un registro de la operación con PMU de las unidades de Centras Andes Generación, se 
+debería reducir la exigencia de tres a una PMU, ubicada en un punto común técnicamente 
+justificado. Para acreditar la equivalencia de observabilidad se acompañarán el diagrama unilineal, 
+la potencia individual de cada unidad y una memoria que demuestre que dicho punto reproduce 
+fielmente la respuesta dinámica conjunta. 
+3. 
+TER Emelda 
+El Coordinador ha requerido dos PMU para TER Emelda, una por cada unidad sincrónica. Solicitamos 
+eliminar las exigencias de PMU’s a la Central Emelda considerando que esta central corresponde a 
+una unidad cuyo diseño es abastecer la demanda de punta, por lo que resulta una inversión poco 
+eficiente si se considera que se utilizaría efectivamente solo en los momentos de mayor necesidad 
+del sistema. En el caso que el Coordinador justifique que se debe mantener un registro de la 
+operación en tiempo real con PMU de las unidades, pero la regla general de una PMU por unidad 
+sincrónica exige demostrar equivalencia de observabilidad. Solicitamos reducir la exigencia de dos a 
+un único punto si una memoria técnica acredita que un punto común representa adecuadamente la 
+respuesta de ambas unidades. Si el Coordinador no estima procedente reducir la exigencia a un solo 
+punto, solicitamos autorizar un solo equipo físico multicanal que adquiera señales individualizadas 
+de las dos unidades, evitando dos plataformas independientes sin perder los flujos requeridos por 
+el Coordinador. 
+4. 
+TER Antilhue 
+El Coordinador solicita dos PMU para las dos turbinas de TER Antilhue. Solicitamos autorizar un único 
+equipo físico multicanal, con canales separados y flujos lógicos independientes por turbina. 
+Alternativamente, solicitamos evaluar un punto común si la ingeniería demuestra equivalencia de 
+observabilidad. De no resultar viable ninguna de las alternativas anteriores, se solicita acordar un 
+programa de implementación gradual técnicamente justificado. 
+ 
+
+5. 
+TER Degañ y TER Degañ 2 
+Cada central tiene asignada una PMU. La metodología ya aplica a estas centrales el criterio de una 
+PMU por planta para conjuntos de múltiples motores, por lo que no se solicita eliminar sus puntos 
+lógicos. En caso de acreditarse que ambas instalaciones comparten emplazamiento o 
+infraestructura, solicitamos autorizar el uso común de sincronización, comunicaciones, gabinete o 
+un equipo multicanal, manteniendo canales de corriente y flujos lógicos identificables por central, 
+pero integradas en una única PMU. Adicionalmente, las horas de operación justifican coordinar 
+plazos de implementación. 
+6. 
+Instalaciones conectadas en S/E C.R. Llanos Blancos: TER Llanos Blancos, PFV Lucas Solar 
+y PFV Don Oscar 
+El Coordinador ha requerido tres puntos PMU para el conjunto: uno para la central térmica y uno 
+para cada parque fotovoltaico. PFV Lucas Solar y PFV Don Oscar, ambos informados con 9,00 MW, 
+se conectan en la misma subestación, mediante los paños E1 y E11, respectivamente. El solo hecho 
+de compartir subestación no elimina la necesidad de identificar el PPC de cada parque. Sin embargo, 
+duplicar gabinetes, sincronización, comunicaciones y adquisición de tensión en un mismo 
+emplazamiento no agrega observabilidad si se mantienen canales de corriente y flujos lógicos 
+separados. Por ello, solicitamos aprobar una plataforma física compartida o un equipo multicanal 
+instalado en la subestación para Lucas Solar, Don Oscar y TER Llanos Blancos. 
+7. 
+Instalaciones asociadas a S/E Central Termopacífico: TER Termopacífico y PFV Antay 
+TER Termopacífico ya cuenta con una sola PMU para un conjunto de múltiples unidades, mientras 
+que PFV Antay, informado con 9,00 MW, tiene un punto en su PPC. Dado que ambas instalaciones 
+se encuentran en el mínimo metodológico aplicable, no se solicita eliminar sus puntos lógicos. 
+Solicitamos autorizar una solución común de gabinete, sincronización, comunicaciones o equipo 
+multicanal en la subestación, conservando mediciones separadas para el PPC del parque y para la 
+central térmica. En subsidio, dado que Termopacífico en una central diseñada para cubrir las 
+demandas de punta, respalda coordinar un plazo de implementación gradual. 
+8. 
+Instalaciones asociadas a S/E Central Pajonales: TER Pajonales y PFV PMG North West 
+TER Pajonales ya tiene una PMU, por lo que no se solicita eliminar su punto lógico, sino que se instale 
+una única PMU para el parque fotovoltaico y TER Pajonales autorizando infraestructura física 
+compartida entre ambas instalaciones, preservando sus mediciones y flujos lógicos independientes. 
+9. 
+Instalaciones asociadas a S/E Central Chagual: TER Chagual y PFV Caracas II 
+TER Chagual cuenta con una PMU. Solicitamos al Coordinador autorizar una única PMU en 
+plataforma física compartida en la subestación, preservando señales lógicas separadas para el PPC 
+del parque y para la central térmica. Para Chagual, las horas se aportan como fundamento 
+complementario de un plazo o esquema de implementación eficiente, dada que esta es una central 
+diseñada para cubrir las demandas de punta. 
+
+10. TER Combarbalá 
+TER Combarbalá ya tiene asignada una sola PMU. Dado que la exigencia se encuentra en el mínimo 
+previsto para una central de múltiples unidades, no se solicita eliminar el punto lógico. Por ello, 
+solicitamos acordar una implementación gradual respaldada por el perfil de operación y por un 
+programa que identifique adaptaciones, hitos, proveedores y ventanas de intervención. 
+11. TER San Javier I y TER San Javier II 
+Cada central tiene asignada una PMU, por lo cual solicitamos autorizar una única PMU en plataforma 
+física común o un único equipo multicanal, manteniendo señales, canales de corriente y flujos 
+lógicos independientes para cada central. Subsidiariamente, solicitamos acordar un programa de 
+implementación gradual que considere la marcada diferencia entre sus perfiles operacionales y, 
+particularmente, la muy baja utilización de TER San Javier II, evitando duplicar de manera inmediata 
+gabinetes, sistemas de sincronización y comunicaciones. 
+12. Solicitudes consolidadas 
+En virtud de los antecedentes expuestos, se solicita al Coordinador que se pronuncie sobre las 
+siguientes medidas, sin perjuicio de los antecedentes técnicos y ratificaciones que correspondan: 
+(i) 
+Eliminar la exigencia de TER Andes Generación. En caso de no ser posible, reducir la 
+exigencia de tres a sólo una PMU. 
+(ii) 
+Evaluar la reducción de TER Emelda de dos a un punto, sujeta a una memoria de 
+observabilidad, y autorizar equipos físicos multicanal para Emelda y Antilhue cuando se 
+mantengan señales lógicas separadas. 
+(iii) 
+Autorizar arquitecturas físicas compartidas en S/E C.R. Llanos Blancos y, cuando 
+corresponda, en Termopacífico, Pajonales, Chagual, Degañ y San Javier, distinguiendo 
+entre equipos físicos y puntos lógicos. 
+(iv) 
+Para aquellas instalaciones en que no se acojan las solicitudes principales, solicitamos 
+acordar programas de implementación gradual para las instalaciones que ya se 
+encuentran en el mínimo metodológico y cuya baja operación dificulta justificar una 
+inversión inmediata. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Para lo anterior, mis representadas pondrán a disposición, diagramas unilineales, ubicación de PPC 
+o puntos comunes, disponibilidad de transformadores de medida y canales, arquitectura de 
+comunicaciones y memorias de observabilidad que el CEN requiera para resolver estas solicitudes. 
+Sin otro particular, y esperando una grata acogida, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cristián Sanhueza Vejar 
+Encargado Suplente 
+Andes Generación SpA 
+Empresa Eléctrica Diego de Almagro SpA 
+Generadora Antilhue SpA 
+Generación de Energía Nueca Degan SpA 
+Generadora Del Pacífico SpA 
+Prime Energía Quickstart SpA 
+EnfraGen Chile Solar SpA 
+ 
+ 

@@ -1,0 +1,99 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 23 de octubre de 2025 
+DE 06752-25 
+ 
+Señor 
+Miguel Ángel Alarcón 
+Encargado Titular  
+GR Chañar SpA 
+Presente 
+Ref.: Aprueba Protocolos para los Ensayos de 
+Verificación de Control de Frecuencia y Control de 
+Tensión de los proyectos NUP 2139 PFV Victor Jara y 
+el NUP 4635 BESS Victor Jara. 
+Responde a Ingreso DE10701-25 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en el 
+Artículo 8 del Anexo Técnico “Verificación de Instalaciones para la prestación de SSCC” de 
+la Norma Técnica de Servicios Complementarios (NTSSCC), se han revisado los 
+antecedentes entregados por su representada mediante comunicación de la Ref. [1]. 
+ 
+Al respecto, comunicamos a Ud. que este Coordinador, aprueba los Protocolos para los 
+Ensayos de Verificación del Servicios Complementarios de Control Primario de Frecuencia 
+(CPF), Control Terciario de Frecuencia (CTF) y Control de Tensión (CT) a prestar por el 
+PFV Victor Jara (NUP 2139) y el BESS Victor Jara (NUP 4635). 
+ 
+Considerando lo indicado, y con la finalidad de continuar con el proceso de Verificación de 
+los Servicios Complementarios, solicito a usted lo siguiente: 
+• 
+Informar a más tardar el 07 de noviembre de 2025, al correo que se indica más 
+adelante, la fecha de realización de los ensayos. 
+• 
+Informar las curvas de carga asociadas a las pruebas según cartas de las Ref. [2] y 
+[3], ingresándolas en la correspondiente solicitud de trabajo del sistema Neomante, 
+con estado operativo “PDO”. Adicionalmente, esta información, debe ser enviada al 
+correo electrónico mencionado más abajo, indicando el N° de aviso de trabajo 
+asociado al sistema Neomante. 
+• 
+En conformidad con el capítulo 5 del “Instructivo Técnico para la Verificación de 
+Instalaciones para la prestación de SSCC”, enviar el Informe Técnico con los 
+resultados de la verificación, en un plazo máximo de 15 días hábiles contados desde 
+que finalizan los ensayos. 
+ 
+Los 
+antecedentes 
+requeridos 
+deberán 
+ser 
+enviados, 
+al 
+correo 
+verificacion.sscc@coordinador.cl, con el asunto “Respuesta carta DE06752-25 – Ensayos 
+Verificación SSCC PFV+BESS Victor Jara” cumpliendo con los plazos establecidos 
+precedentemente. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+PGR/adr 
+c.c.:  
+Sr. Cristopher Merino – Encargado Suplente GR Chañar SpA 
+ 
+Referencias: 
+[1] Carta GR-CHL0005A-708/2025 de GR Chañar SpA, Ref.: “Responde a observaciones 
+al Protocolo de Verificación de SC de Control de Tensión de los proyectos NUP 2139 PFV 
+Víctor Jara y NUP 4635 BESS Víctor Jara”, de fecha 17 de octubre de 2025. Ingreso 
+DE10701-25. 
+[2] Carta DE05925-24, Ref.: “Modificación al ingreso de solicitudes de pruebas de centrales 
+generadoras en plataforma Neomante”, de fecha 11 de noviembre de 2024. 
+[3] Carta DE05995-25, Ref.: “Adecuaciones funcionales a la Plataforma de Solicitudes de 
+Trabajo del Coordinador Eléctrico Nacional.”, de fecha 24 de septiembre de 2025. 
+ 
+ 
+ 
+ 
+ 

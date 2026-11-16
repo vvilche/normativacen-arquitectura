@@ -1,0 +1,64 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+GM N°2025-012 
+12 de febrero de 2025 
+ 
+Señorita 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref: Observaciones a Indicadores Desempeño Servicios Complementarios – enero 2025 
+ 
+En relación con el Informe de desempeño preliminar de servicios complementarios de enero 2025 
+publicado mediante carta DE 00866-25 de fecha 07 de febrero de 2025, tenemos las siguientes 
+observaciones: 
+SSCC 
+Central 
+Observaciones 
+CTF 
+General 
+Se solicita agregar al documento CTF_202501.csv el valor de la potencia en 
+t0+30 seg, t0+5 min, t0 +5,5 min y t0+6 min.  
+CPF 
+Central Nueva Renca 
+Se solicita realizar la evaluación de desempeño con los archivos que serán 
+enviados 
+al 
+correo 
+dco@coordinador.cl, 
+ya 
+que 
+los 
+cargados 
+automáticamente tienen errores. 
+CTF 
+Central Nueva Renca 
+El día 15/01/2025 en la tabla de evaluación se considera hora de activación 
+a las 13:05 y finalización a las 14:10, en RIO la finalización aparece a las 13:12, 
+se solicita corregir evaluación en función de los horarios de inicio y 
+finalización de activación según RIO.  
+ 
+El mismo 15/01/2025 en la tabla de evaluación se considera otra hora de 
+activación a las 13:33 y finalización a las 14:38, en RIO la finalización es a las 
+13:53. se solicita corregir evaluación en función de los horarios de inicio y 
+finalización de activación según RIO.  
+ 
+El día 17/01/2025 para la activación de la 15:45 aparece el evaluador C1 
+como 0, sin embargo, según nuestros registros se cumple que I2>I0. Se 
+solicita revisar y corregir. Indicando los valores que se usaron para la 
+potencia en t0+30 seg, en t0+5 min, en t0 +5,5 min y en t0+6 min 
+ 
+Sin otro particular, le saluda atentamente 
+ 
+ 
+ 
+Carolina Vélez K. 
+Encargada Titular 
+Generadora Metropolitana SpA 

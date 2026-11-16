@@ -1,0 +1,104 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 30 de octubre de 2025 
+DE 06962-25 
+Señor 
+Juan Muñoz 
+Encargado Titular 
+Engie Energía Chile S.A. 
+Presente 
+Ref.: 
+Servicio 
+Complementario 
+de 
+Partida 
+Autónoma de unidades U16 y CTM3. PRS Zona 
+Norte Grande 
+[1] Carta DE03972-25, Ref.: “Estudio de Plan de 
+Recuperación de Servicio, Informe Preliminar 
+2025”, de fecha 30 de junio de 2025. 
+[2] Carta Engie N° 199/2025. Ref. “[1] Carta 
+DE03972-25 de 30 de junio de 2025. [2] Carta 
+DE04216-25 de 11 de julio de 2025”, de fecha 17 
+de julio de 2025.  
+Responde a ingreso DE06758-25. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y lo establecido en el Estudio del Plan de 
+Recuperación de Servicio (PRS) informado en comunicación de la Ref. [1], y 
+específicamente a la instrucción indicada en el numeral 2.1.2 del Estudio de PRS, de 
+implementar Partida Autónoma (PA) en la unidad U16 de central Térmica Tocopilla para el 
+Área Centro  de la Zona Norte Grande y en la unidad  CTM3 de central Térmica Mejillones 
+para el Área Cordillera de la Zona Norte Grande, su representada ha emitido observaciones 
+mediante carta de la Ref. [2], solicitando reconsiderar la instrucción de prestar el servicio 
+complementario de PA.  
+ 
+Al respecto y conforme a la información entregada por su representada, no es posible 
+pronunciarnos respecto a excluir sus unidades de la prestación del servicio de PA, dado 
+que no se dispone de los antecedentes técnicos suficiente que respalden su requerimiento. 
+ 
+Conforme a lo anterior, se solicita que para las unidades U16 y CTM3, envíe la siguiente 
+información complementaría: 
+a) Requerimiento de generación autónoma: enviar registros de partidas históricas 
+de la unidad e información del fabricante que den cuenta de la potencia real 
+requerida, así como los requerimientos de potencia activa para alimentar los 
+servicios esenciales de la unidad, llevarla hasta la velocidad de sincronización e 
+iniciar su auto suministro. Según señala en carta de la Ref. [2], corresponde a 25 
+MW para la unidad U16 y 10 MW para la unidad CTM3.  
+Deberá especificar las principales variables del proceso, considerando al menos los 
+consumos eléctricos de la motorización del generador (V, I, P), velocidad de la 
+turbina e indicando el momento de motorización del generador, el momento de 
+encendido de la turbina, momento de la apertura y cierres de interruptores y de las 
+válvulas del proceso, etc. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+b) Energización 
+de 
+su 
+transformador: 
+enviar 
+registros 
+de 
+pruebas 
+de 
+comisionamiento del transformador, operación real e información del fabricante 
+respecto de la potencia demandada y montos de los peaks del inrush durante el 
+proceso de energización del transformador principal de la Unidad. 
+c) Montaje del equipamiento adicional de generación y sus posibles impactos 
+ambientales: detallar los impactos esperados considerando el proyecto de montaje 
+de la PA, su nivel de generación, emisiones esperadas y afectación a la actual RCA 
+del sitio. 
+d) Descripción detallada del proceso de Partida autónoma, que debieran realizar 
+las unidades para un arranque y sincronización de la unidad con barra muerta en su 
+punto de conexión. Considerar alimentación básica interna de sus servicios 
+auxiliares con sus medios existentes de alimentación de emergencia (generador 
+diésel) y generación adicional de partida. 
+Utilizar como base del análisis lo solicitado en la “Guía de Verificación de Servicios 
+Complementarios - Partida Autónoma y Aislamiento Rápido”. 
+ 
+Los antecedentes requeridos deberán ser enviados mediante carta y con copia al correo 
+verificacion.sscc@coordinador.cl, a más tardar el 13 de noviembre del 2025.  
+  
+Cualquier duda en relación con los antecedentes solicitados puede dirigirlas a la misma 
+dirección de correo electrónico indicada. 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/EGV/adr 

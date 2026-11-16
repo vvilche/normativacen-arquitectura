@@ -1,0 +1,205 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 11 de septiembre de 2025 
+DE 05712-25 
+Señor 
+Miguel Buzunariz R. 
+Encargado Titular 
+Enel Green Power Chile S.A. 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Control Secundario de Frecuencia e integración 
+al Despacho Económico del BESS del PFV Don 
+Humberto. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), se ha realizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+automático del GMS/SCADA para el BESS del PFV Don Humberto. Como resultado de este 
+proceso, la instalación mencionada queda habilitada para la prestación del mencionado 
+servicio a partir de las 00:00 del día 12 de septiembre de 2025. 
+ 
+Por otra parte, para efectos de elaborar el correspondiente Informe Técnico de Verificación 
+según lo establecido en la Guía de Verificación de Control de Frecuencia, le solicito envíe 
+a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 10 de octubre 
+de 2025, la siguiente información asociada a la instalación: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+ 
+El reporte técnico que justifica la verificación de la capacidad de la prestación del SC de 
+CSF de la central mencionada se encuentra publicado en la siguiente ruta de la página web 
+del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Secundario de Frecuencia > Central PFV Don Humberto 
+ 
+Dado lo anterior, para que el BESS del PFV Don Humberto pueda participar de las subastas 
+de CSF, deberán completar el proceso de solicitud de incorporación a la plataforma de 
+subastas. Para ello, su representada deberá presentar los antecedentes indicados en las 
+Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, la instalación en asunto podrá ser instruida de manera directa 
+por el Coordinador Eléctrico Nacional en la prestación del Control Secundario de 
+Frecuencia. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse al correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+C.c.: 
+Sr. Adrián Guzmán M. – Encargado Suplente Enel Green Power Chile S.A. 
+DCO/DMAP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC del 
+BESS del PFV Don Humberto 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) BESS del PFV Don Humberto 
+• 
+Potencia máxima bruta 60,696 [MW]. 
+• 
+Potencia máxima neta 59,962 [MW]. 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+El BESS del PFV Don Humberto controla potencia activa en la barra de 33 kV de S/E 
+Don Humberto.  
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado para el BESS del 
+PFV Don Humberto. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Central 
+Tecnología 
+Parámetro 
+Valor determinado 
+Modo 
+descarga 
+Modo 
+carga 
+BESS PFV Don 
+Humberto 
+Baterías 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+12 
+12 
+Bajada 
+12 
+12 
+Aporte CSF [MW] (1) 
+Subida 
+59,825 
+59,825 
+Bajada 
+-59,825 
+-59,825 
+Límite de regulación superior 
+[MW]  
+59,962 
+0,137 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Límite de regulación inferior [MW]  
+0,137 
+-59,962 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a la potencia activa neta de la instalación, podrán 
+verse modificados si se actualizan los parámetros operacionales del BESS del PFV Don Humberto 
+ 

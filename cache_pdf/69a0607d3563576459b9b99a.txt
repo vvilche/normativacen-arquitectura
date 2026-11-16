@@ -1,0 +1,140 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 26 de febrero de 2026 
+DE 01308-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 046 al 048 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 046-2026 al EAF 048-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC > 2026 > Enero > Cálculo por EAF: 
+ 
+1. EAF 046-2026 
+2. EAF 047-2026 
+3. EAF 048-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el martes 3 de marzo de 
+2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Cabe mencionar que la interrupción asociada al EAF 047 no presento afectación a Puntos 
+de Control.  
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+c.c.:  
+Sr. Víctor Gutiérrez González – Encargado Titular CGE Transmisión S.A. 
+Sr. Jaime Acevedo Salinas – Encargado Titular Chilquinta Transmisión S.A. 
+Sr. Francisco Messen Rebolledo – Encargado Titular Enel Distribución Chile S.A. 
+Sr. Andrea Francisca Torneria Torres – Encargado Titular Indura S.A. 
+Sr. Víctor Gutiérrez González – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Empresa Eléctrica de la Frontera S.A. 
+Sr. Pablo Juan Roberto Leal Vester– Encargado Titular Compañía Distribuidora de Energía Eléctrica CODINER 
+S.A. 
+ 
+DBCD/DTE-SSCC/SGASO 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras 
+ 
+EAF (*) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 048-2026 
+29-01-2026 
+Compañía 
+Distribuidora de 
+Energía Eléctrica 
+CODINER S.A. 
+S/E Traiguén 
+S/E Victoria 
+ 
+Parcial 
+SI 
+Los alimentadores Selva Oscura (S/E Victoria) y 
+Chufquen (S/E Traiguén) tienen hora de normalización 
+equivalente previa a la hora de disponibilidad de la 
+barra. 
+ 
+Se solicita detallar el mecanismo de recuperación 
+de estas cargas para este alimentador donde esto 
+se presente, y con el desglose requerido por la 
+SEC, esto es comunal y por zona de tarificación. 
+(*) En los EAF N° 046 la información recibida de la empresa distribuidora Enel Distribución Chile S.A. fue recibida en plazo y en forma, e incorporada al cálculo. 
+(*) En los EAF N° 047 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+(*) En los EAF N° 048 la información recibida de la empresa distribuidora Empresa Eléctrica de la Frontera S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo 
+ 

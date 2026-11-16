@@ -1,0 +1,167 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 8 de abril de 2025 
+DE 02034-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de Parámetros de Partida y 
+Detención de la Central HP Los Cóndores, del 
+Coordinado Enel Generación Chile S.A. 
+[1] Carta DE02793-25, Ref.: “Central HP Los 
+Cóndores: Actualización informe Parámetros de 
+Partida y Detención (PPyD)”, de fecha 26 de 
+marzo de 2025. 
+[2] Carta DE00527-25, Ref.: “[NUP 1416] Informes 
+Técnicos de Parámetros Operacionales (MT y 
+PPyD) de la Central HP Los Cóndores, del 
+coordinado Enel Generación Chile S.A”, de fecha 
+24 de enero de 2025. 
+  
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras”, 
+comunico a Ud. que el Coordinador Eléctrico Nacional ha aceptado los valores de los 
+parámetros de los procesos de Partida y Detención de la Central HP Los Cóndores, de 
+acuerdo al informe técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+publicado mediante la carta de la Ref. [2]. El Coordinador Eléctrico, por su parte, envió sus 
+observaciones de carácter técnico a Enel Generación Chile S.A., las que se han publicado 
+en la página web del Coordinador junto a la versión final del informe técnico, en la ruta que 
+se indica más adelante.  
+ 
+Los valores de los parámetros de Partida y Detención se indican en las tablas incorporadas 
+en el Anexo 1 de la presente carta, y entrarán en vigencia a partir de las 00:00 horas del 
+10 de abril de 2025. 
+ 
+El informe técnico final que contiene la justificación de los parámetros presentados en el 
+Anexo 1 de la presente carta, y la minuta de observaciones enviada a Enel Generación 
+Chile S.A., han sido publicados en la siguiente ruta del sitio Web del Coordinador Eléctrico 
+Nacional: 
+ 
+Inicio > Operación > Informes y Estudios > Parámetros operacionales de unidades 
+generadoras > Parámetros de Partida y Detención > Informes Determinación de 
+Parámetros para Procesos de Partida y Detención de Unidades Generadoras > 
+Central HP Los Cóndores > 2025 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+DIR/ycl  
+ 
+c.c.: 
+Sr. Miguel Buzunariz Ramos – Encargado Enel Generación Chile S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Anexo 1: Parámetros de Partida y Detención de Central HP Los Cóndores. 
+ 
+Tabla 1. Parámetros del proceso de partida HP Los Cóndores 
+Etapa 
+Parámetro 
+U1 
+U2 
+Partida - Sincronización 
+Consumo SSAA [MWh] 0,0043 0,0043 
+Tiempo [min] 
+3,5833 4,2833 
+Sincronización - Mínimo Técnico 
+Consumo SSAA [MWh] 0,0036 0,0027 
+Tiempo [min] 
+3,0000 2,7000 
+Mínimo Técnico - Potencia Nominal 
+Consumo SSAA [MWh] 0,0079 0,0066 
+Tiempo [min] 
+6,6667 6,5500 
+ 
+Tabla 2. Parámetros del proceso de detención HP Los Cóndores 
+Etapa 
+Parámetro 
+U1 
+U2 
+Potencia Nominal - Mínimo Técnico  
+Consumo SSAA [MWh] 0,0165 
+0,0067 
+Tiempo [min] 
+6,6000 
+6,5500 
+Mínimo Técnico - Desconexión 
+Consumo SSAA [MWh] 0,0025 
+0,0010 
+Tiempo [min] 
+1,0167 
+0,9667 
+Desconexión - Detención final 
+Consumo SSAA [MWh] 0,0913 
+0,0350 
+Tiempo [min] 
+36,5000 34,3333 
+ 
+Tabla 3. Tiempo mínimo de operación 
+Unidad 
+Tiempo [minutos] 
+HP Los Cóndores U1 
+0 
+HP Los Cóndores U2 
+0 
+ 
+Tabla 4. Tiempo mínimo de detención 
+Unidad 
+Tiempo [minutos] 
+HP Los Cóndores U1 
+0 
+HP Los Cóndores U2 
+0 
+ 
+ 

@@ -1,0 +1,177 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 24 de marzo de 2026 
+DE 01904-26 
+ 
+Señor 
+Eduardo Verdugo 
+ 
+ 
+Encargado Titular 
+Energía Eólica Los Olmos SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+del PE Los Olmos. 
+[1] Carta OLM 0006-2026 de Energía Eólica Los Olmos 
+SpA, Ref.: “Envío de Informe Verificación SC de 
+Control de Tensión”, de fecha 05 de marzo de 2026. 
+Responde a Ingreso DE02185-26 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación del Servicio Complementario (SC) enviado por su representada mediante 
+carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 
+4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el 
+proceso de verificación del SC de Control de Tensión (CT) del PE Los Olmos. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio a partir de las 00:00 del 26 de marzo de 2026 considerando los 
+recursos indicados en el anexo a la presente carta. 
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de 
+prestación del CT del PE Los Olmos se ha publicado en la siguiente ruta de la página web 
+del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > Central PE Los Olmos 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PGR/ycl 
+c.c.:  
+Sr. Juan Pablo Kindermann – Encargado Suplente Energía Eólica Los Olmos SpA 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PE Los Olmos 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE Los Olmos: 
+• 
+Potencia máxima bruta: 111,948 [MW] 
+• 
+Potencia máxima neta: 109,130 [MW]  
+• 
+Potencia mínima bruta: 0,493 [MW]  
+• 
+Potencia mínima neta: 0,263 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión 
+Control de Tensión 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión: 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte de Energía Eólica Los Olmos SpA 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+a) Control de Tensión: 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Instalación 
+Recurso 
+Primario 
+             Tensión [pu] 
+ 
+Potencia [MW] 
+Potencia Reactiva [MVAr]  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+Central PE Los 
+Olmos 
+Eólico 
+10,01 
+63,09 
+62,91 
+62,96 
+58,72 
+56,8 
+43,47 
+59,74 
+59,71 
+58,83 
+55,61 
+53,46 
+76,94 
+52,14 
+52,58 
+52,12 
+50,92 
+47,41 
+110,40 
+32,10 
+34,47 
+33,9 
+35,85 
+34,97 
+110,40 
+-50,26 -53,82 -45,46 -53,67 -53,41 
+76,94 
+-40,34 -67,97 -91,97 -92,01 -90,99 
+43,47 
+-32,42 -60,15 -82,95 -88,26 -83,79 
+10,01 
+-27,34 -55,02 -78,11 -83,91 -79,84 
+ 
+ 

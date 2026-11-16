@@ -1,0 +1,314 @@
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Santiago, 2 de abril de 2026 
+EGP 034-26 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA CARTA DE01769-26: DESEMPEÑO DEFICIENTE EN LA 
+PRESTACIÓN DE LOS SERVICIOS COMPLEMENTARIOS DE CONTROL 
+PRIMARIO DE FRECUENCIA, CONTROL TERCIARIO DE FRECUENCIA Y 
+CONTROL DE TENSIÓN DE LAS UNIDADES GENERADORAS FEBRERO 
+2026. CENTRAL PFV DON HUMBERTO. 
+REF [1]:          CARTA OP 049-26 (CARTA 141572-26) DE FECHA 26 DE MARZO DE 2026 
+SOBRE EL DESEMPEÑO OBSERVADO DURANTE EL MES DE FEBRERO 
+2026 PARA LOS SERVICIOS COMPLEMENTARIOS CPF EN LA CENTRAL 
+TÉRMICA ATACAMA Y QUINTERO. 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente comunicación, y en relación con lo solicitado en la carta DE01769-
+26, de fecha 18 de marzo de 2026, mediante la cual ese Coordinador requiere la entrega 
+de los antecedentes especificados a continuación, considerando las instalaciones del 
+Anexo de la referida comunicación:  
+ 
+a) 
+Informe técnico que dé cuenta de la causa raíz que origina el desempeño no 
+satisfactorio de la prestación de los SSCC de CPF, CTF y CT, según corresponda. Dicho 
+informe deberá contar al menos con el diagnóstico y la descripción del problema 
+presentado, adjuntando los antecedentes de respaldo y el análisis de variables 
+operacionales que sustenten el motivo del bajo desempeño.  
+ 
+b) 
+Indicar las acciones correctivas que ha implementado o implementará con el fin de 
+mejorar el desempeño de sus unidades.  
+ 
+c) 
+En el caso de requerir tomar acciones correctivas, deberá enviar un plan de trabajo 
+indicando las actividades a realizar y los plazos en que éstas se llevarán a cabo, 
+especificando el impacto esperado de cada acción en el desempeño de las instalaciones.  
+ 
+Al respecto le podemos comentar lo siguiente: 
+ 
+Con respecto a lo solicitado en los puntos a) y b), estos se indican en el Anexo I de la 
+presente comunicación. 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Con respecto al punto c), el plan de acciones correctivas que se ejecutará es el siguiente: 
+ 
+Ítem 
+Actividad 
+Fin 
+1 
+Levantamiento de situación actual 
+30-mar-26 
+2 
+Validación de TAG y señales informados para el control del desempeño 
+10-abr-26 
+3 
+Revisión de tasa de muestreo del Virtual Meter 
+20-abr-26 
+4 
+Optimización de los sistemas de comunicación principal y secundario 
+30-abr-26 
+5 
+Reinstrucción operacional 
+17-abr-26 
+6 
+Optimizar la lógica integrada de los activos Solar y BESS del parque 
+30-abr-26 
+8 
+Implementación de un sistema de monitoreo online del desempeño 
+30-abr-26 
+9 
+Evaluación para la implementación de un sistema automático de consignas 
+30-abr-26 
+ 
+ 
+Por otra parte, los antecedentes requeridos sobre el desempeño de prestación de SSCC 
+de las centrales TER Atacama y TER Quintero fueron enviados al Coordinador mediante la 
+comunicación de la REF [1]. 
+ 
+Sin otro particular y esperando una favorable acogida de esta comunicación, atentamente 
+se despide, 
+ 
+ 
+ 
+ 
+ 
+________________________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN. 
+ ENEL GREEN POWER CHILE S.A. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ANEXO N°1 
+ Informe técnico de desempeño de CPF+ del parque PFV Don Humberto. 
+ANTECEDENTES 
+ 
+• 
+Informe final Control Primario de Frecuencia: EE-EN-2024-1920 rev. A_ Estudios 
+Eléctricos Enel Green Power. 
+• 
+Resultados de desempeño  
+• 
+Informes disponibles en página Coordinador Eléctrico Nacional: Reporte_Don 
+Humberto_PFV.pdf del 04/03/2026 (en carpeta 2026.02_Repuesta_CPF) con los 
+archivos Excel diario y tabla resumen. 
+ 
+• 
+Contexto en mes de febrero 
+ 
+➢ Deficiencias en comunicaciones del parque Don Humberto. 
+▪ 
+03/02 Aviso interno nº7683 
+▪ 
+06/02 Aviso interno nº7692 
+▪ 
+10/02 Aviso interno nº7709  
+▪ 
+21/02 Aviso interno nº7746 
+▪ 
+24/02 Aviso interno nº7760 
+ 
+DESCRIPCION DEL PROBLEMA 
+ 
+Durante febrero, en periodo de la prestación de servicio, se registra la operación no 
+satisfactoria, estos eventos se agrupar según las siguientes clasificaciones de estado: 
+▪ 
+.e1 
+No realiza CPF durante variaciones de frecuencia dentro de la banda de 
+0,2Hz 
+▪ 
+.e2+ 
+No aporta lo esperado cuando se produce variaciones en la frecuencia > -
+0,2Hz 
+▪ 
+.f1 
+Variaciones insuficientes para realizar el análisis 
+▪ 
+.f2 
+Informaciones insuficientes para la evaluación confiable 
+▪ 
+.f3 
+Variaciones de frecuencia >0,2Hz donde el aporte no se puede calcular. 
+▪ 
+.g4 
+Se presenta un cambio de consigna 
+ 
+Caso de los eventos tipos B (e) 
+En las evidencias del informe mensual e1 y e2+: 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Los registros internos ratifican el comportamiento deficiente en la prestación de servicios 
+complementarios. Las causas del bajo desempeño podrían ser atribuidas a problemas de 
+comunicación o alternativamente a un error operacional. 
+Otros casos evaluados dentro de los reportes diarios. 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Análisis en la hora 10:00 
+ 
+El CPF se activó a las 10:06 con CPF+, respondiendo a under frequency. Por otra parte, 
+El BESS asociado al parque estaba prestando servicios complementarios de control de 
+frecuencia secundario, La repuesta corresponde a lo esperado,  
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Análisis en la hora 17:00 
+ 
+Importante considerar retirar el setpoint para poder evaluar de manera efectiva. Diferencia 
+entre los gráficos lado derecha (*) 
+ 
+ 
+(*) 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+En fecha anterior se ve diferencia en las muestras de potencia del Virtual meter, 
+presentando menos valores adquiridas lo que afectó la comparación y validación del 
+cumplimiento. 
+En e2+, los casos subrayados: 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+Se puede ver el aporte de Solar, pasando de 22 MW A 28 MW 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Para los casos: 
+ 
+ 
+El CPF no estaba activo. Ya que se habilitó la función CPF sin habilitar CPF + o CPF -. 
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Para el 28/02 a las 13h10 – 13h20 UTC: 
+ 
+Se puede verificar la toma de carga por haber llegado a 49,75Hz y mantener hasta no 
+tener más under frequency. 
+Caso de los eventos tipos C (f) 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+CPF sin selección de CPF + o CPF – 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+Se ve en este caso una cantidad de puntos del virtual meter insuficientes para poder 
+precisar los cumplimientos instantáneos y se produce un fenómeno de vaporización de los 
+puntos medidos en estatismo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+DIAGNOSTICO 
+ 
+Con el análisis y revisión de los diferentes casos presentados, se identifican al menos cuatro 
+(4) puntos de mejora que deben ser implementados para incrementar el desempeño del 
+control primario de frecuencia.  
+ 
+1. Corregir las señales enviadas al CEN para el control del desempeño 
+2. Asegurar operatividad y calidad de los sistemas de comunicación del parque. 
+3. Consolidar las reglas operativas de habilitaciones de los CPF mas 
+especificaciones de CPF(+) / CPF (-y), evaluar la implementación de entrega de 
+consignas automáticas. 
+4. Evaluar la implementación de un sistema de monitoreo online del desempeño de 
+los Servicios Complementarios. 
+Se visualiza la necesidad de establecer una lógica entre BESS / SOLAR, más el valor 
+calculado del producible para asegurar el setpoint óptimo de Solar, considerando la reserva 
+solicitada y los parámetros operativos de la línea de evacuación. 

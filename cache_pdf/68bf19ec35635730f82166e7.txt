@@ -1,0 +1,232 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 08 de septiembre de 2025 
+DE 05643-25 
+ 
+Señor 
+Eduardo Verdugo 
+Encargado Titular 
+Empresa Eléctrica Angamos SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios Complementarios (SSCC) de Control 
+Terciario de Frecuencia de las Unidades 1 y 2 de 
+Central TER Angamos. 
+[1] Carta ANG 0009-2025 del Coordinado Empresa 
+Eléctrica 
+Angamos 
+SpA, 
+Ref.: 
+“Responde 
+observaciones a Informes Técnicos de Verificación 
+de SSCC de central TER Angamos”, de fecha 29 de 
+mayo de 2025. 
+Responde a Ingreso DE05297-25. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado 
+el proceso de verificación del Control Terciario de Frecuencia (CTF) de las unidades 1 y 2 
+de Central TER Angamos.  
+ 
+Como resultado de este proceso, las unidades mencionadas quedan habilitadas para la 
+prestación del CTF a partir de las 00:00 del 11 de septiembre de 2025 considerando los 
+recursos indicados en el anexo a la presente carta. 
+ 
+Al respecto, en anexo a la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NT-SSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CTF de las unidades 1 y 2 de central TER Angamos se encuentran 
+publicados en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central TER Angamos 
+ 
+Finalmente, las unidades 1 y 2 de central TER Angamos podrán participar de las subastas 
+de CTF una vez que complete el proceso de solicitud de incorporación a la plataforma de 
+subastas. Para ello, su representada deberá presentar los antecedentes indicados en las 
+Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin perjuicio de lo anterior, las unidades en asunto podrán ser instruidas de manera directa 
+por el Coordinador Eléctrico Nacional en la prestación del Control Terciario de Frecuencia. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+DIR/WJS/adr 
+c.c.:  
+Sr. Juan Pablo Kindermann. – Encargado Suplente Empresa Eléctrica Angamos SpA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados Proceso de Verificación de SSCC de las Unidades 1 y 2 
+de Central TER Angamos. 
+1. Identificación de las Instalaciones Verificadas: 
+a) Central TER Angamos  
+- 
+Unidad 1 
+• 
+Potencia Máxima bruta 276,900 [MW]  
+• 
+Mínimo Técnico que respeta la normativa ambienta 80 [MW] 
+- 
+Unidad 2  
+• 
+Potencia Máxima bruta 281,300 [MW] 
+• 
+Mínimo Técnico que respeta la normativa ambiental 80 [MW] 
+2. Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Terciario de 
+Frecuencia  
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia: 
+Sin condiciones específicas para el CTF. 
+b) La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Empresa Eléctrica 
+Angamos SpA para las unidades 1 y 2 de central TER Angamos. 
+4. Cuantía del recurso que puede prestar la instalación por Servicio Complementario, 
+categorías y subcategorías. 
+Ver tabla en página siguiente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+a) Control Terciario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- 
+Central 
+Combustible 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+TER 
+Angamos 
+Carbón 
+Tasa normal de 
+operación 
+[MW/min] 
+Subida 
+2,3 
+2,7 
+Bajada 
+2,5 
+2,4 
+Tasa máxima de 
+operación 
+[MW/min] 
+Subida 
+3,7 
+4,1 
+Bajada 
+-3,9 
+-4 
+Tiempo de 
+respuesta 
+[minutos] 
+Subida 
+<5 
+<5 
+Bajada 
+<5 
+<5 
+Aporte CTF [MW]  
+Subida 
+23 
+27 
+Bajada 
+-25 
+-24 
+Límite de regulación superior 
+[MW] (1) 
+276,9 
+281,3 
+Límite de regulación inferior 
+[MW] (1) 
+80 
+80 
+(1)  Los límites de regulación, correspondientes a la potencia máxima bruta y al mínimo técnico que respeta la normativa 
+ambiental podrán verse modificados si se actualizan los parámetros operacionales de las unidades 1 y 2 de Central TER 
+Angamos. 
+ 

@@ -1,0 +1,52 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+  
+ 
+ 
+Santiago, 30 de mayo de 2025 
+ATL-ES-IC-003 
+ 
+Señor  
+Ernesto Huber Jara 
+Director Ejecutivo  
+Coordinador Eléctrico Nacional  
+Presente  
+ 
+ 
+Ref.: Apertura DUF PV Estepa Solar y BESS Estepa 
+NUP 1515 - 4914 
+ 
+De nuestra consideración:  
+ 
+El proyecto PV Estepa Solar que consiste en la instalación de una Central 
+Renovable con Capacidad de Almacenamiento “CRCA” conformada por el 
+parque Fotovoltaico de 202,4 MWac (214,8 MWp) denominado “Estepa Solar” 
+(NUP 1515) y el sistema BESS Estepa Solar de 188 MW por 4 hrs equivalente a 752 
+MWh (NUP 4914).  
+ 
+Dentro la ingeniería del proyecto se realizó una actualización que requiere 
+actualizar los DUF del proyecto por:  
+• 
+En las celdas de 33 kV de la S/E Estepa se agrega una celda de reserva y 
+dos juegos de transformadores de tensión en las llegadas de 
+transformador.  
+• 
+En los IED de 220 kV de la S/E Estepa se actualiza la forma de medida de 
+corriente pasando de suma física a suma lógica dentro de los IED. 
+ 
+Adicionalmente a esto, es necesario realizar la actualización de datos técnicos de 
+unos equipos para atender comentarios de minuta de observaciones de 
+infotécnica “dait01-003_1515_ec_r01” del 26.05.2025. Se adjuntan a esta carta los 
+DUF actualizados del proyecto. 
+ 
+Sin otro particular, saluda atentamente 
+ 
+ 
+ 
+Carlos Calderon  
+Coordinador Titular 
+Estepa Solar SpA 

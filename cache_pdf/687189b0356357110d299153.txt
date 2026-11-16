@@ -1,0 +1,361 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Santiago, 11 de julio de 2025 
+ 
+    
+DE 04202-25 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Respuestas 
+a 
+observaciones 
+de 
+Indicadores de Desempeño de Servicios 
+Complementarios prestados durante los meses 
+de enero a julio de 2024 versión 3. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y a las cartas de Ref. [1] a [7], informo a Ud. que  
+habiendo analizado las observaciones recibidas a los indicadores de enero a julio de 2024 
+en su segunda versión, se ha determinado que éstas no originan modificaciones a los 
+indicadores de abril, mayo y junio publicados mediante la carta de la Ref. [4] a [6], por lo 
+que éstos se mantienen vigentes. 
+ 
+Por su parte, habiendo analizado las observaciones recibidas, se encuentra disponible en 
+el sitio web del Coordinador la actualización de los Indicadores de Desempeño de SSCC 
+prestados durante los meses de enero, febrero, marzo y julio del año 2024. 
+ 
+Los indicadores mencionados pueden ser descargados desde las siguientes rutas: 
+ 
+> Inicio > Operación > Servicios Complementarios > Índices de Desempeño y 
+Disponibilidad de Servicios Complementarios > 2024 
+• 
+Enero 2024 > Versión 3 
+• 
+Febrero 2024 > Versión 3 
+• 
+Marzo 2024 > Versión 3 
+• 
+Julio 2024 > Versión 3 
+ 
+Adicionalmente, en el anexo de esta comunicación, se encuentran las respuestas a las 
+observaciones recibidas para los meses en cuestión y que a la fecha no se encontraban 
+resueltas. 
+ 
+Finalmente, informamos que estos indicadores serán considerados en las reliquidaciones 
+de IVTE que a la fecha lleva a cabo la Gerencia de Mercados.  
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Referencias 
+ 
+[1] Carta DE01579-24, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de enero 2024, segunda versión.” de fecha 26 
+de marzo de 2024. 
+[2] Carta DE02210-24, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de febrero 2024, segunda versión.” de fecha 
+02 de mayo de 2024. 
+[3] Carta DE02416-24, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de marzo 2024, segunda versión.” de fecha 09 
+de mayo de 2024. 
+[4] Carta DE02714-24, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de abril 2024, segunda versión.” de fecha 28 
+de mayo de 2024. 
+[5] Carta DE03675-24, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de mayo 2024, segunda versión.” de fecha 19 
+de julio de 2024. 
+[6] Carta DE03906-24, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de junio 2024, segunda versión.” de fecha 05 
+de agosto de 2024. 
+[7] Carta DE04390-24, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de julio 2024, segunda versión.” de fecha 29 
+de agosto de 2024.
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 1: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+enero 2024 versión 2. 
+ 
+Consultas recibidas mediante: 
+- 
+Enlasa Generación Chile S.A.: recibidas mediante plataforma de observaciones del departamento de Transferencias de 
+Energía y SSCC con correlativo O2024-0023483 y mediante carta OPE-227/2024. Ingreso DE01064-24.  
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Enlasa 
+Generación 
+Chile S.A. 
+CTF 
+TER El Peñón 
+ 
+Los 
+factores 
+de 
+desempeño 
+de 
+PENON_DIESEL están siendo calculados 
+con 
+un 
+vector 
+que 
+tiene 
+mediciones 
+invertidas, es decir, con signo negativo, lo 
+que inevitablemente resulta en factores de 
+desempeños iguales a cero. Solicitamos al 
+Coordinador que invierta el vector y recalcule 
+los factores de desempeño para la central 
+PENON_DIESEL. 
+No se acoge observación.  
+ 
+Se realizaron los ajustes pertinentes para corregir 
+la señal invertida que presentaba la unidad. Sin 
+perjuicio de lo anterior la instrucción fue evaluada 
+con 0% en su indicador de respuesta, considerando 
+que fue solo instruida una vez en el mes.  
+ 
+La instrucción evaluada es del día 29-01-2024 a las 
+19:36, la cual tiene categoría “No Verificable” 
+debido a que los datos SCADA indican una mala 
+calidad de la señal de potencia entre las 11:23 
+horas hasta las 21:40 horas. 
+ 
+Dicho lo anterior, los indicadores de desempeño 
+publicados en la segunda versión no sufren 
+modificación. 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 2: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+febrero 2024 versión 2. 
+ 
+Consultas recibidas mediante: 
+- 
+Acciona Energía Chile Holdings S.A.: recibidas mediante plataforma de observaciones del departamento de Transferencias de 
+Energía y SSCC con correlativo O2024-0023463 y mediante carta ACC.ECH.026.24. Ingreso DE03141-24.  
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV 
+Almeyda 
+Se han detectado errores en la disponibilidad de las centrales PFV 
+Almeyda y PE San Gabriel, debido a la presencia de documentos 
+pendientes de cierre. Aunque se han realizado gestiones que 
+conlleven a las acciones necesarias para resolver esta situación, 
+la indisponibilidad continúa afectando el desempeño de los 
+servicios complementarios de control de tensión. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe 
+en Anexo. Agradecemos su revisión y corrección en el caso que 
+así corresponda. 
+Solicitud N° 2024000177 fue ingresada por fallo puntual de 
+comunicación que no permitió prestar el servicio en ese instante, 
+pero se solucionó dentro de los próximos minutos. Al ser un fallo 
+puntual, se decide anular el IL ya que no se realizan tareas 
+correctivas. Por otro lado, posterior a esa fecha se ha prestado el 
+servicio de CT sin inconvenientes. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata lo siguiente: 
+ 
+1. PFV Almeyda: La solicitud N° 2024000177 de 
+Neomante fue anulada por el coordinado durante 
+febrero de 2024. Dicho lo anterior el indicador se 
+recalcula y el desempeño mensual pasa de 1,67% a 
+100% en CT. 
+ 
+2. PE San Gabriel: La solicitud N° 2024011708 de 
+Neomante fue actualizada con fecha de cierre efectivo 
+el 05-02-2024 a las 01:15. Dicho lo anterior el indicador 
+se recalcula y el desempeño mensual y pasa de 
+11,93% a 97,23% en CTF y de 10,34% a 93,10% en 
+CT. 
+2 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PE San 
+Gabriel 
+Se han detectado errores en la disponibilidad de las centrales PFV 
+Almeyda y PE San Gabriel, debido a la presencia de documentos 
+pendientes de cierre. Aunque se han realizado gestiones que 
+conlleven a las acciones necesarias para resolver esta situación, 
+la indisponibilidad continúa afectando el desempeño de los 
+servicios complementarios de control de tensión. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe 
+en Anexo. Agradecemos su revisión y corrección en el caso que 
+así corresponda. 
+Documento N°2024011708 permanece abierto por error, pero ya 
+se ha gestionado el cierre vía hotline según la fecha de fin indicada 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N° 1. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 3: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+marzo 2024 versión 2. 
+ 
+Consultas recibidas mediante: 
+- 
+Colbún S.A.: recibidas mediante carta GO N°065/2024. Ingreso DE02388-24.  
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Colbún S.A. 
+CT 
+UG 
+Canutillar 1 
+Fecha 14.03.2024 02:05:00 (UTC-3) 
+En el documento "2024.03_Respuesta_CT" se evalúa a la unidad como 
+No Verificable debido a que el voltaje en alta tensión estaba pegado, 
+en condiciones que esta señal es propiedad de terceros. Por otra parte, 
+se observa, en el mismo documento, que las señales de la unidad 
+generadora tenían la calidad suficiente para ser evaluada en su mérito. 
+En este contexto se observa que al momento de recibir la instrucción la 
+unidad se encontraba generando 80 MW, -3 MVAr a una tensión en 
+bornes de 1,03pu, una vez transcurridos los 15 minutos la unidad se 
+encontraba generando 80 MW, -19 MVAr a una tensión de 0,98pu. En 
+estas condiciones se habría alcanzado el límite de la curva P-Q, ver 
+gráfico 
+adjunto. 
+Solicitud: Favor revisar la instrucción y reevaluar en caso de que 
+corresponda.  
+Se acoge observación.  
+ 
+La señal de la barra Puerto Montt 220kV no tenía la 
+calidad adecuada para la evaluación del desempeño 
+de las instalaciones en dicha instrucción, por lo que 
+se usó una señal alternativa, siendo esta la barra 
+propia de la central Canutillar. 
+ 
+Dicha evaluación identifica que la central alcanzó su 
+límite técnico dado por su curva PQ, quedando sin 
+margen para absorber más potencia reactiva. En 
+función de lo anterior el indicador se recalcula y el 
+indicador de respuesta para el día 14 de marzo 
+cambia de “No Verificable” a 100% en CT manual. 
+ 
+2 
+Colbún S.A. 
+CT 
+UG 
+Canutillar 2 
+Fecha 14.03.2024 02:05:00 (UTC-3) 
+En el documento "2024.03_Respuesta_CT" se evalúa a la unidad como 
+No Verificable debido a que el voltaje en alta tensión estaba pegado, 
+en condiciones que esta señal es propiedad de terceros. Por otra parte, 
+se observa, en el mismo documento, que las señales de la unidad 
+generadora tenían la calidad suficiente para ser evaluada en su mérito. 
+En este contexto se observa que al momento de recibir la instrucción la 
+unidad se encontraba generando 79 MW, -3 MVAr a una tensión en 
+bornes de 1,03pu, una vez transcurridos los 15 minutos la unidad se 
+encontraba generando 79 MW, -18 MVAr a una tensión de 0,98pu. En 
+estas condiciones se habría alcanzado el límite de la curva P-Q, ver 
+gráfico 
+adjunto. 
+Solicitud: Favor revisar la instrucción y reevaluar en caso de que 
+corresponda.  
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N° 1. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Anexo 4: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de julio 
+2024 versión 2. 
+ 
+Consultas recibidas mediante: 
+- 
+Acciona Energía Chile Holdings S.A.: recibidas mediante carta ACC.ECH.052.24. Ingreso DE04841-24.  
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Acciona  
+Energía Chile  
+Holdings S.A. 
+CTF 
+PFV Malgarida 
+Fecha: 31-07-2024 11:27 
+Se evalúa con mal desempeño la instrucción 
+ya que toma la potencia al minuto cero en 94 
+MW. Durante la jornada había presencia de 
+nubosidad, lo que pudo afectar la toma del 
+dato. Se adjuntan los datos para demostrar a 
+las 11:27:00 se generaba 141,5MW. 
+Se acoge observación. 
+ 
+Se analizan los antecedentes y se comprueba vía 
+pronóstico y datos extraídos de SCADA la 
+existencia de nubosidad entre las 11:22 y 11:28 
+horas, lo que produce una reducción de más de 
+90MW en 4 minutos. 
+ 
+En función de lo anterior el indicador se recalcula y 
+el indicador de respuesta para el día 31 de julio a la 
+hora 11 cambia a 100% en CTF. 
+ 

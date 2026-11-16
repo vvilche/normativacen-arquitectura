@@ -1,0 +1,60 @@
+ 
+Av. Parque Isidora N° 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+         www.coordinador.cl 
+ Santiago, 05 de febrero de 2026 
+DE 00857-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+ 
+ 
+ 
+ 
+Ref.: Información relativa a calidad del dato en 
+Contratos de Suministro. 
+ 
+Sr(a). Encargado(a): 
+ 
+Me refiero al Título 3-3 Requerimientos de Información para la Coordinación de Mercado de la 
+Norma Técnica de Coordinación y Operación, para lo cual el Coordinador dispone de la 
+Plataforma de Contratos, plataforma que tiene toda la información referente a los Contratos de 
+Suministro. 
+ 
+Al respecto, se solicita a las empresas que completen los datos que faltan en sus contratos de 
+suministro. Para ello se dispone de la carga masiva, la cual cuenta con nuevas validaciones en 
+la carga, mostrando los conceptos que cumplen o no con el formato requerido. En caso de no 
+cumplirlo, la nueva validación indica cuál concepto y fila es la que falta actualizar para que se 
+pueda realizar la carga de los contratos. Además de lo anterior, se corrige el formato de carga 
+incluyendo el campo “Red Distribuidora”. 
+ 
+Durante el presente año se estará trabajando constantemente en mejorar la calidad del dato en 
+la Plataforma de Contratos, por lo que se invita a utilizar la actualización de la carga masiva 
+con el fin de mejorar la eficiencia en los procesos de las Empresas Coordinadas y el 
+Coordinador. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Lionel Roa Burgos 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+LRB/CCR/LOA/ADR 
+CC 
+Sr. Marcelo Bobadilla M. - Gerente de Mercado 
+Sra. Fiorella Roncagliolo H. - Jefa DTEySC 
+Sr. Manuel Gatica D. - Jefe DTPyCT 
+Sr. Hugo Tapia M. - Jefe DByCD 
+
+ 
+Av. Parque Isidora N° 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+         www.coordinador.cl 
+Sr. Tomás Valenzuela I. – Jefe DME 

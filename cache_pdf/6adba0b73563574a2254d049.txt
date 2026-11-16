@@ -1,0 +1,211 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+Santiago, 22 de octubre de 2026 
+JAV202627 
+Señores 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a carta DE 06813-26, en 
+relación con implementación EDAG de la 
+zona Norte. 
+De nuestra consideración: 
+ 
+Javiera SpA (la “Sociedad”), en su calidad de empresa coordinada y titular de la central PFV 
+Javiera, viene en responder la carta DE 06813-26, de 15 de octubre de 2026, recibida con esa 
+misma fecha. En dicha comunicación, el Coordinador Eléctrico Nacional (en adelante “CEN”) 
+requiere informar, dentro de cinco días hábiles contados desde su recepción, las razones del 
+incumplimiento y acompañar antecedentes de respaldo, y reitera la instrucción de completar 
+la integración al EDAG Zona Norte. 
+ 
+1. Identificación de la instrucción y estado de implementación. 
+Según el Anexo de la carta DE 06813-26, respecto de PFV Javiera, la fecha para tener 
+implementado el sistema EDAG Zona Norte, era marzo de 2026. Sin perjuicio de lo anterior, la 
+última fecha de implementación comunicada por la Sociedad al CEN es el 8 de septiembre 
+de 2026. 
+ 
+En relación con el estado de implementación, hacemos presente que el 5 de octubre del año 
+en curso la Sociedad dejó instalado el gabinete con la celda de PFV Javiera, según consta en 
+pruebas SAT cuyos resultados preliminares se adjuntan a la presente comunicación. Cabe 
+mencionar que estos resultados incluyen ciertos parámetros asociados al proyecto de 
+implementación de PMU que encuentran pendientes cerrar según se constata en la sección 
+"Ensayo 7" del referido anexo, pero que serán abordados más adelante ya que el mismo 
+prestador estará a cargo de la implementación de la PMU.  
+ 
+Asimismo, hacemos presente que se han solicitado los permisos de integración bajo los 
+números de identificación 2026129650 y 2026129651, para realizar las pruebas de integración 
+de la celda de Javiera a la celda maestra del EDAG Zona Norte, a realizarse el 3 y 4 de noviembre 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+próximos, de acuerdo con el siguiente detalle: 
+ 
+ 
+Fecha 
+Inicio 
+Fecha Fin INSTALACIÓN 
+N° CEN 
+Descripción 
+Trabajo 
+Observaciones 
+03-11-2026 
+ 8:00:00 
+03-11-2026 
+ 20:00:00 
+PFV JAVIERA 2026129650 
+Integración de 
+celda EDAG ZN 
+Javiera a celda 
+maestra EDAG ZN 
+Se realizará integración de 
+celda Javiera a Celda Maestra 
+Sol del Desierto por proyecto 
+EDAG ZN. Existe probabilidad 
+de señales de alarma durante 
+la integración del sistema. 
+04-11-2026 
+ 8:00:00 
+04-11-2026 
+ 20:00:00 
+PFV JAVIERA 2026129651 
+Integración de 
+celda EDAG ZN 
+Javiera a celda 
+maestra EDAG ZN 
+Se realizará integración de 
+celda Javiera a Celda Maestra 
+Sol del Desierto por proyecto 
+EDAG ZN. Existe probabilidad 
+de señales de alarma durante 
+la integración del sistema. 
+ 
+2. Antecedentes relevantes 
+ 
+En relación con la implementación del EDAG, cabe mencionar que la gestión de 
+acreditaciones del personal subcontratista de Sistemas Eléctricos Ingeniería y Servicios S.A. (en 
+adelante “SEIS”) y de la empresa de transporte, así como la gestión de los permisos de ingreso, 
+requirió coordinación adicional entre las partes e incidió en los plazos. Asimismo, la 
+determinación del periodo de desconexión y el cronograma de ejecución asociado, necesario 
+para avanzar con el cronograma exigió la participación de diversos contratistas y 
+subcontratistas, cuya coordinación y acuerdo de fechas exigió semanas de planificación. 
+  
+A esto se agrega que SEIS se encuentra implementando el EDAG con cerca de 19 coordinados, 
+lo que ha demorado la gestión de visitas, montaje y puesta en servicio, y derivó en ajustes al 
+programa de trabajo. 
+  
+Por último, cabe mencionar que en el mismo periodo se incluyó el proyecto de integración de 
+PMU, proyecto que Atlas debió adjudicar a SEIS, durante abril de 2026, ocasionando que la 
+adición de alcance tuviera repercusión en las revisiones de ingeniería de los gabinetes que 
+comparten ambos proyectos. 
+ 
+3. Medidas adoptadas y cronograma actualizado 
+Javiera dio aviso al CEN del desvío del cronograma inicial y ha participado de reuniones 
+semanales de información del estado de avance del proyecto. Estas reuniones han tenido 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+lugar todos los martes a contar del 21 de julio de 2026, siendo la más reciente el 13 de octubre 
+de 2026.  
+En relación con SEIS, Sol del Desierto mantiene reuniones periódicas de seguimiento.  
+ 
+En cuanto a las actividades pendientes, hacemos presente que restan la solicitud de ensayos 
+SITR al CEN y el posterior desarrollo de estos ensayos en coordinación con el CEN. La referida 
+solicitud y la coordinación con el CEN está programada para llevarse a cabo entre el 5 y el 25 
+de noviembre de 2026, mientras que los ensayos tienen una fecha estimada de realización 
+entre el 26 y 27 de noviembre de 2026, sujeto a que estén las condiciones adecuadas en el SEN 
+y que el CEN autorice la realización de las pruebas SITR en las fechas indicadas.  
+ 
+El resumen de las actividades descritas en este apartado se muestra a continuación: 
+ 
+Nombre de tarea 
+Duración (días) 
+Comienzo 
+Fin 
+MONTAJE Y ENSAYOS DE EQUIPOS EDAG 
+32 
+mar 15-09-26 
+vie 27-11-26 
+   Traslado de Celdas Locales a Javiera 
+4 
+mar 15-09-26 
+lun 21-09-26 
+   Adecuaciones, montajes y conexionado EDAG 
+PFV Javiera 
+6 
+lun 28-09-26 
+lun 05-10-26 
+   Ensayos SAT EDAG PFV Javiera 
+3 
+lun 05-10-26 
+mié 07-10-
+26 
+   Integracion de Celdas a la Celda Maestra del 
+EDAG ZN 
+2 
+mar 03-11-26 
+mié 04-11-26 
+   Solicitud de ensayos SITR a Coordinador 
+15 
+jue 05-11-26 
+mié 25-11-26 
+   Ensayos de SITR 
+2 
+jue 26-11-26 
+vie 27-11-26 
+ 
+Se deja constancia de que los plazos informados mediante la presente comunicación 
+consideran los mejores esfuerzos de coordinación y agenda de Javiera y SEIS, además de que 
+existan las condiciones idóneas en el SEN para la realización de las tareas pendientes. 
+ 
+4. Antecedentes que se acompañan 
+1. 
+Minuta SEIS reuniones 2 de julio 2026, 10 de julio 2026 y 6 de agosto de 2026. 
+2. Minuta SEIS reunión 04.06.26 
+3. Resultados de pruebas SAT de Javiera. 
+ 
+En mérito de lo expuesto, solicitamos al Coordinador: (i) tener por evacuado, dentro de plazo, 
+el requerimiento formulado mediante carta DE 06813-26; (ii) tener por acompañados los 
+antecedentes singularizados; y (iii) considerar las circunstancias y medidas informadas al 
+evaluar el estado de cumplimiento y las actuaciones posteriores que correspondan. 
+ 
+La presente respuesta se formula sobre la base de los antecedentes disponibles a esta fecha y 
+sin perjuicio de complementarlos si se obtiene información adicional relevante. 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+Saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Moraga Á. 
+Encargado Titular 
+Javiera SpA 

@@ -1,0 +1,149 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+Santiago, 06 de enero de 2026 
+DE 00040-26 
+Señor 
+Víctor Gutiérrez G. 
+Encargado Titular 
+CGE Transmisión S.A. 
+Presente 
+Ref.: Resultado de Ensayos de Verificación Plan 
+de Recuperación del Servicio - Equipamiento de 
+Vinculación (PRS-EV) de S/E Pullinque, paños B2 
+y B4, propiedad de CGE Transmisión S.A. 
+[1] Carta CGET03450-2025 de CGE Transmisión 
+S.A., Ref.: “Aprueba Protocolo de Verificación 
+Plan de Recuperación del Servicio - Equipamiento 
+de Vinculación (PRS-EV) de S/E Pullinque paños 
+B2 y B4 y de S/E Loncoche paños B3 y B6”, de 
+fecha 24 de noviembre de 2025. 
+Responde Ingreso DE11853-25. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico de 
+verificación de Servicios Complementarios (SSCC) enviado por su representada mediante la 
+carta de la Ref. [1], comunico a Ud. en cumplimiento con lo establecido en el Artículo 4-16 de la 
+Norma Técnica de Servicios Complementarios (NTSSCC), el cierre del proceso de verificación 
+de los SSCC del Plan de Recuperación del Servicio - Equipamiento de Vinculación (PRS-EV) 
+de S/E Pullinque, paños B2 y B4, propiedad de CGE Transmisión S.A. 
+ 
+Como resultado de este proceso, las instalaciones indicadas quedan habilitadas para la 
+prestación de dicho servicio, mediante los recursos técnicos identificados en el Anexo 1 de la 
+presente carta. 
+ 
+Los informes técnicos que justifican la verificación del Equipamiento de Vinculación de las 
+instalaciones ya mencionadas se encuentran publicados en el sitio web del Coordinador en la 
+siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Transmisión > Plan de 
+Recuperación 
+del 
+Servicio 
+> 
+Equipamiento 
+de 
+Vinculación 
+> 
+S/E 
+Pullinque 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GZV/CRV/PBA/adr 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+ 
+Anexo 1: Resultados Proceso de Verificación Equipamiento de Vinculación del 
+Coordinado CGE Transmisión S.A. 
+1. Identificación de Instalaciones Verificadas 
+a) Paño B2 S/E Pullinque 
+b) Paño B4 S/E Pullinque 
+2. Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Plan de Recuperación de 
+Servicio (PRS) 
+Equipamiento de Vinculación 
+(EV) 
+Equipamiento de Vinculación 
+(EV) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+A continuación, se resumen las condiciones de cierre que puede llevar a cabo el equipo de 
+vinculación: barra viva – línea muerta (BV – LM) y barra muerta – línea viva (BM – LV) o barra 
+muerta – línea muerta (BM – LM): 
+ 
+N° 
+Paño 
+Subestación 
+Equipo 
+BV – LM 
+BM – LV 
+BM-LM 
+1 
+B2 
+Pullinque 
+SEL-311C 
+Sí 
+Sí 
+Sí 
+2 
+B4 
+Pullinque 
+SEL-311C 
+Sí 
+Sí 
+Sí 
+4. La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado CGE Transmisión S.A. para 
+sus instalaciones asociadas a la S/E Pullinque. 
+5. Cuantía del recurso que puede prestar la instalación por Servicio Complementario, 
+categorías y subcategorías. 
+Se verifica en cada equipo la posibilidad de ejecutar la condición de cierre Barra Viva – Línea 
+Viva (BV-LV), permitiendo vincular islas eléctricas, una vez que se satisfacen las condiciones 
+de sincronismo ajustadas en cada equipo de sincronización: 
+ 
+Paño Subestación 
+Máxima diferencia de 
+tensión1 
+Máxima diferencia 
+angular 
+Máxima diferencia 
+de frecuencia 
+B2 
+Pullinque 
+Superior: 6,5 [kV] 
+Inferior: 5,6 [kV] 
+10° 
+0,1 [Hz] 
+B4 
+Pullinque 
+Superior: 6,5 [kV] 
+Inferior: 5,6 [kV] 
+10° 
+0,1 [Hz] 
+ 
+El cargador y banco de baterías de respaldo al sistema de control de accionamiento (corriente 
+continua) del equipamiento de vinculación descrito no son propiedad de CGE Transmisión S.A. 
+Estos equipos son de propiedad de Enel Green Power S.A y las pruebas sobre estos equipos 
+mencionados serán realizadas por el propietario durante el mes de marzo de 2026. 
+ 
+1 Tensión nominal 66 kV 

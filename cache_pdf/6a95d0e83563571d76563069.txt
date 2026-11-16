@@ -1,0 +1,104 @@
+ 
+ 
+Apoquindo 3885, Piso 22 
+ 
+ 
+Las Condes, Santiago 
+Tel. +56 2 2646 2000 
+Chile 
+ 
+ 
+ 
+Parque Solar Fotovoltaico Luz del Norte SpA 
+Apoquindo 3885, Piso 22, Las Condes, Santiago 
+ 
+Santiago, 28 de agosto de 2026.-    
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora 1061, Pudahuel, Región Metropolitana 
+ 
+Presente 
+ 
+Ref.: Respuesta a carta DE05315-26 por incumplimiento de los plazos en la implementación de PMU 
+y PDC del Módulo de Medición Fasorial del Coordinador.  
+[1] Carta DE05315-26, de fecha 21 de agosto de 2026, "Incumplimiento de plazos en la 
+implementación de PMU y PDC del Módulo de Medición Fasorial del Coordinador". 
+[2] Carta DE04823-25, del Coordinador, de fecha 19 de agosto de 2025, "Instruye implementación y 
+solicita plan de trabajo para implementación de puntos de monitoreo del Módulo de Medición 
+Fasorial del SEN". 
+[3] Carta DE08954-25, de Parque Solar Fotovoltaico Luz del Norte SpA, de fecha 01 de septiembre de 
+2025, "Respuesta a carta DE04823-25 por implementación de puntos de monitoreo del Módulo de 
+Medición Fasorial del SEN". 
+ 
+De mi consideración: 
+ 
+Junto con saludar, y en atención a la carta de la Ref. [1], mediante la cual el Coordinador solicita a mi 
+representada informar las razones que explican el incumplimiento del plazo comprometido para la 
+integración de la PMU con el PDC Corporativo del Coordinador, así como las acciones realizadas y 
+previstas para su pronta finalización, informo lo siguiente. 
+ 
+Cumplimiento a la instrucción de remitir plan de trabajo 
+En respuesta a la instrucción contenida en la carta de la Ref. [2], y dentro del plazo fijado por el propio 
+Coordinador (01 de septiembre de 2025), Luz del Norte remitió oportunamente, mediante la carta 
+de la Ref. [3], el plan de trabajo y cronograma (Anexo 1) para la integración de la PMU de la central 
+al máster PDC del Coordinador. En dicha oportunidad se informó que la implementación se 
+encontraba en etapa avanzada, restando únicamente su integración con el PDC del CEN mediante un 
+enlace virtual, y se comprometió completar dicha integración a más tardar a fines del año 2025. 
+ 
+Estado de avance y acciones realizadas 
+A la fecha, la implementación de la integración se encuentra en su etapa final. Nuestra representada 
+ha ejecutado los hitos del plan de trabajo comprometido correspondientes a: (i) la determinación de 
+IPs y compra de licencias corporativas; (ii) modificación e implementación del PDC Virtual con ayuda 
+de Splight como contraparte técnica; (iii) obtención de credenciales y comisionamiento de equipos, 
+
+ 
+ 
+Apoquindo 3885, Piso 22 
+ 
+ 
+Las Condes, Santiago 
+Tel. +56 2 2646 2000 
+Chile 
+ 
+ 
+ 
+y, (iv) la puesta en servicio del enlace de telecomunicaciones (MPLS dedicado) y enrutamiento 
+necesario por parte del proveedor de comunicaciones (Telefónica), restando únicamente las pruebas 
+finales de conectividad y validación con el CEN, para la puesta en servicio y operación continua de la 
+PMU y el servicio WAMS de Luz del Norte. 
+ 
+Razones que explican el incumplimiento de plazo 
+El atraso respecto de la fecha comprometida obedece a la provisión del enlace de comunicaciones 
+requerido para habilitar el enlace virtual hacia el PDC del CEN, servicio que se encuentra a cargo de 
+nuestro proveedor de telecomunicaciones. Pese a las gestiones formales y reiteradas efectuadas por 
+mi representada, la habilitación del enlace por parte del proveedor experimentó demoras 
+considerables y no imputables a Luz del Norte, las que condicionaron directamente la elaboración a 
+tiempo del plan de trabajo. Afortunadamente, y como indicado en el punto precedente, este punto 
+se encuentra cerrado a la fecha.  
+ 
+Acciones previstas y nuevo plazo comprometido 
+Mi representada mantiene su total disposición a cumplir con lo instruido y a completar la integración 
+a la brevedad. En concreto, y dado que ya se encuentra implementado el PDC Virtual y habilitado el 
+enlace de comunicaciones, se prevé en la brevedad completar las pruebas de conectividad y 
+validación con el CEN, estimándose la puesta en servicio e integración efectiva de la PMU al PDC del 
+Coordinador a más tardar el 11 de septiembre de 2026. Para tal efecto, quedamos a disposición para 
+remitir una comunicación formal de la correcta integración del servicio, a más tardar en la fecha 
+comprometida, a la casilla dmap@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alejandro Reyes F. 
+Encargado Titular Parque Solar Fotovoltaico Luz del Norte SpA 
+ 
+ 

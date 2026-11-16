@@ -1,0 +1,71 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 17 de abril de 2026 
+AEL032C-26 
+Señor 
+Patricio Valenzuela V.  
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Responde DE02241-26 EAF 055/2026 - Apertura 
+intempestiva de interruptor 52CTSA5 de S/E Central 
+Mampil. 
+ 
+ 
+De nuestra consideración: 
+ 
+Nos referimos a la carta DE02241-26, a través de la cual el Coordinador solicita antecentes adicionales 
+respect a la apertura intempestiva de interruptor 52CTSA5 de S/E Central Mampil, ocurrida a las 09:08 
+horas del día 30 de enero de 2026. 
+ 
+En relación con lo anterior, informamos a usted que el origen de esta falla tiene una naturaleza similar a 
+lo ocurrido el día 02 de junio de 2025 a las 21:44 horas (EAF 239-2025). Durante el año 2025 se enviaron 
+los antecedentes al Coordinador, y la conclusión de dicho análisis es que el origen de la apertura se debe 
+a la actuación de la función 51N de nuestro equipo, que efectivamente fue la que ordenó la apertura del 
+interruptor (ajuste muy sensible). 
+ 
+Adicionalmente al análisis realizado, enviamos una actualización del ECAP para realizar las modificaciones 
+necesarias, el cual fue aprobado por el Coordinador. La fecha solicitada por Aela para realizar la 
+desconexión e implementación de estos ajustes fue el 20 y 21 de enero de 2026, sin embargo, esta 
+desconexión no fue autorizada por el Coordinador. 
+ 
+Dadas las condiciones actuales y la urgencia de este asunto, proponemos realizar los ajustes durante la 
+última semana de abril de 2026, para los cual realizaremos las solicitudes a través de las plataformas 
+correspondientes, por lo cual agradeceremos que estas desconexiones sean autorizadas. 
+ 
+Respecto a la empresa propietaria utilizada en el informe de falla y en la plataforma Neomante, esto se 
+debe a que en estas plataformas (al igual que en infotécnica), existen cuentas asociadas a las empresas 
+propietarias, esto no es algo nuevo sino la práctica que siempre se ha mantenido. Agradeceremos que nos 
+puedan confirmar si debemos cambiar este criterio de aquí en adelante, para poder modificar nuestros 
+procesos (es decir, informar según empresa coordinada y no empresa propietaria). 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+Se adjunta a esta carta los análisis y la modificación del ECAP realizados durante el año 2025. 
+ 
+ 
+Sin otro particular saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos De La Fuente V. 
+Encargado Titular 
+Aela Generación S.A. 

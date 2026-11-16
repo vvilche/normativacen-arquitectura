@@ -1,0 +1,80 @@
+Calama Solar 1 SpA 
+Avenida Isidora Goyenechea 2800, Las 
+Condes- Santiago -Chile. 
+ 
+Señores 
+Coordinador Eléctrico Nacional (CEN) 
+At.: Departamento de Medición de Energía 
+Presente 
+Asunto: Reitera solicitud de respuesta - Avería de medidor de 
+facturación en PRMTE de central Calama Solar 1 y acciones 
+adoptadas 
+ 
+Junto con saludar, y en relación con la avería del equipo de medición de facturación (POI) de la central 
+Calama Solar 1 (CAS1), correspondiente al PRMTE CALAMA_023_PMGD1_PAS, ocurrida el día 17 de agosto 
+de 2026, remitimos la presente a través del sistema de correspondencia con el objeto de reiterar 
+formalmente las comunicaciones enviadas por correo electrónico a este Coordinador, las cuales no han 
+recibido respuesta sustantiva a la fecha. 
+ 
+1. Comunicaciones previas remitidas por correo electrónico 
+• 
+17 de agosto de 2026 (14:16 h): correo "Informa avería de medidor de facturación en PRMTE de 
+central Calama Solar 1", dirigido a Sistemas de Medidas, Tomás Valenzuela y Juan Soto, 
+notificando la avería del POI y solicitando confirmación del procedimiento aplicable para el 
+balance de energía mientras dure la indisponibilidad. 
+• 
+20 de agosto de 2026 (15:50 h): correo de seguimiento "RE: Informa avería de medidor de 
+facturación en PRMTE de central Calama Solar 1", reiterando la solicitud anterior ante la falta de 
+respuesta. 
+• 
+26 de agosto de 2026 (16:39 h): correo "RE: Reporte de Llamadas Fallidas - CALAMA SOLAR 1", en 
+respuesta a la notificación de incumplimiento cursada por Sistemas de Medidas (Título 4-5 
+NTSyCS, artículo 4-31, y artículos 12 y 16 del Anexo Técnico SMTE), mediante el cual informamos 
+que la instalación del nuevo medidor está planificada para el día 1 de septiembre de 2026, y 
+solicitamos nuevamente la confirmación de este Coordinador respecto de la propuesta de 
+medición de respaldo señalada en el punto 2 siguiente. 
+ 
+2. Solicitud pendiente de respuesta 
+A la fecha, solo se ha recibido la notificación automática de incumplimiento relativa a la disponibilidad del 
+enlace de comunicación (Reporte de Llamadas Fallidas del 26 de agosto de 2026), sin que se haya dado 
+respuesta a la solicitud sustantiva planteada desde el 17 de agosto: la confirmación de la utilización del 
+medidor instalado a la salida de la central (Schneider Electric PowerLogic ION8650, número de serie 
+
+Calama Solar 1 SpA 
+Avenida Isidora Goyenechea 2800, Las 
+Condes- Santiago -Chile. 
+ 
+MW1611B23902) como medición de respaldo, corregida por el factor de pérdidas de la línea de 
+evacuación, para efectos del balance de energía de agosto de 2026 correspondiente a la central Calama 
+Solar 1 (CAS1), mientras dure la indisponibilidad del POI. 
+ 
+3. Urgencia de la respuesta 
+Dado que el balance de energía del mes de agosto de 2026 se encuentra próximo a su cierre, solicitamos 
+a este Coordinador dar respuesta a la brevedad posible, de manera de no afectar la correcta valorización 
+de las transferencias económicas de la central durante el período de indisponibilidad del medidor 
+principal.  
+ 
+Informamos, asimismo, que la instalación, calibración y certificación del nuevo equipo de medida se 
+encuentra programada para el día 1 de septiembre de 2026, fecha en la que esperamos normalizar el 
+registro del POI. 
+ 
+Agradeceremos la confirmación de recepción de la presente y quedamos atentos a la respuesta formal de 
+este Coordinador respecto de los puntos señalados. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+___________________________ 
+Yessenia Reyes García 
+Encargada Suplente 
+Calama Solar 1 SpA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cc: tomas.valenzuela@coordinador.cl; juan.soto@coordinador.cl; sistemas.medidas@coordinador.cl 

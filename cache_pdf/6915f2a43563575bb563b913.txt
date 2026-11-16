@@ -1,0 +1,78 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 13 de noviembre de 2025 
+DE 07231-25 
+ 
+Señor 
+Sebastián Ruiz-Tagle 
+Encargado Titular 
+San Juan S.A. 
+Presente 
+ 
+Ref.: Restricción Operativa de Central PE San 
+Juan. IL2025002343.  
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, en el marco de las funciones de este 
+Coordinador sobre la operación de las unidades del Sistema Eléctrico Nacional, solicito a 
+Ud. el envío de antecedentes técnicos que respalden la Restricción Operativa que afecta 
+la operación de la central PE San Juan, según fuera informado en el siguiente informe de 
+limitación: 
+• 
+Informe N° 2025002343, ingresado a la plataforma Neomante el 07 de octubre de 
+2025 y con fecha estimada de término 07 de noviembre de 2025, el cual señala lo 
+siguiente:  
+ 
+“Parque Eólico San Juan no puede prestar servicio complementario de AGC debido a 
+una descoordinación de los inputs del SCADA, correspondientes a las consignas 
+enviadas por el CEN “ 
+• 
+Limitación en Estado: Pendiente 
+ 
+Considerando lo planteado, se solicita el envío de un Informe Técnico que contenga al 
+menos la siguiente información: 
+a) Descripción y fundamentos técnicos que respalden la Restricción Operativa de la 
+central ya sea elaborado por personal propio o por terceros. Deberá adjuntar los 
+documentos y antecedentes de las condiciones técnicas que justifican la presente 
+limitación. 
+b) Envío de cronograma que contenga actividades y plazos del programa de reparación 
+de la central con el AGC del Coordinador, incluidos plazos de recepción de repuestos 
+(si corresponde) o actualización del software de su SCADA/RTU, periodo de 
+reparación y pruebas posteriores de la unidad participando en el AGC, indicando la 
+fecha estimada de normalización y cierre de la presente limitación forzada. 
+ 
+Se recuerda que para la realización de pruebas de verificación de señales SCADA debe 
+contactar al Departamento de SCADA y SITR al correo TEC.Scada@coordinador.cl. 
+Adicionalmente, para las pruebas de AGC, sintonización y respuestas del AGC debe 
+contactar al Departamento de Modelación y Aplicaciones EMS (DMAP), al correo 
+dmap@coordinador.cl  con copia a arturo.olavarria@coordinador.cl. Se solicita también 
+considerar esta coordinación en el cronograma de actividades. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Se solicita enviar la información requerida, mediante carta y con copia al correo 
+anexos_dco@coordinador.cl, a más tardar el día 27 de noviembre de 2025. 
+ 
+Cualquier duda en relación con las observaciones adjuntas favor dirigirlas a la misma 
+dirección de correo electrónico indicada. 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+c.c.:  
+Sra. Javiera Gutiérrez P. – Encargada Suplente San Juan S.A. 

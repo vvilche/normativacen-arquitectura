@@ -1,0 +1,399 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 23 de diciembre de 2025 
+DE 08188-25 
+Señor 
+Felipe Valdés 
+Encargado Titular 
+Guacolda Energía SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario de Frecuencia y Control Terciario de 
+Frecuencia de las unidades U3, U4 y U5 de central 
+TER Huasco. 
+Responde a Ingreso: DE11238-25. 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los SSCC de Control Primario de 
+Frecuencia (CPF) y Control Terciario de Frecuencia (CTF) de las unidades U3, U4 y U5 de 
+central TER Huasco. 
+ 
+Como resultado de este proceso, las unidades mencionadas quedan habilitadas para la 
+prestación de los mencionados servicios a partir de las 00:00 del 24 de diciembre de 2025 
+considerando los recursos indicados en el anexo a la presente carta. 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+prestación del CPF y CTF de las unidades de central TER Huasco se han publicado en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia: 
+1. > Control Primario de Frecuencia > Central TER Huasco 
+2. > Control Terciario de Frecuencia > Central TER Huasco 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2], siendo el plazo 
+para esta acción el de 30 días corridos. Pese a no contar con las señales necesarias 
+para evaluar el desempeño en la prestación, las unidades mencionadas quedarán 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+habilitadas para prestar el Servicio Complementario (SC) de Control Primario de 
+Frecuencia (CPF), pudiendo ser instruido por este Coordinador para prestar dicho 
+servicio. En dicho caso, la evaluación de estás instrucciones será “No Verificable”. 
+• 
+Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, para la evaluación de desempeño se podrán utilizar 
+medios alternativos para poder realizar la evaluación de desempeño de la prestación 
+del SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, las unidades de central TER Huasco podrán participar de las subastas de 
+Control de Frecuencia, una vez que complete el proceso de solicitud de incorporación a la 
+plataforma de subastas. Para ello, su representada deberá presentar los antecedentes 
+indicados en las Bases Administrativas de Subastas para Control de Frecuencia, que se 
+encuentran publicadas en la siguiente ruta de la página web del Coordinador Eléctrico 
+Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, TER Huasco podrá ser instruido de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC.  
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/DIR/WJS/adr 
+c.c.:  
+Sr. Sergio Pizarro – Encargado Suplente Guacolda Energía SpA. 
+ 
+Referencias: 
+[1] Carta 0141-2025, Ref.: “Nueva Versión de Informes Técnicos de Verificación de SSCC 
+de las unidades 3, 4 y 5 de Central Huasco TG”, de fecha 7de noviembre de 2025. Ingreso 
+DE11238-25. 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión Definitiva > 
+Instructivos Técnicos > Protocolo de envío de registros Potencia/Frecuencia para la 
+evaluación del CPF
+
+ 
+1 Para la estimación del valor de la potencia mínima neta, se consideran los consumos propios de las unidades de la central 
+TER Huasco, correspondientes al 0,55% para cada una de las unidades de TER Huasco. Este valor se obtiene desde la 
+plataforma Infotécnica del Coordinador. 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de central TER 
+Huasco U3, U4 y U5 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) TER Huasco (U3, U4 y U5) 
+• 
+Potencia máxima bruta: 19,333 MW 
+• 
+Potencia máxima neta: 19,227 MW  
+• 
+Potencia bruta mínima con Control Primario de Frecuencia: 2,540 [MW]  
+• 
+Potencia mínima bruta: 2 [MW] 
+• 
+Potencia mínima neta1: 1,989 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia  
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Estatismo (R) actual se encuentra ajustado al 4%, sin posibilidad de variar este valor, 
+respecto a una potencia base igual a su potencia nominal. 
+• 
+La banda muerta (BM) está configurada en 0 [mHz], sin posibilidad de ser ajustada 
+por el operador. 
+b) Control Terciario de Frecuencia: 
+• 
+La rampa de toma y bajada de carga de las unidades U3, U4 y U5 se encuentra 
+configurada en 20,3 [MW/min], 34,8 [MW/min] y 47,5 [MW/min] respectivamente, sin 
+posibilidad de ser modificada. 
+• 
+Unidad 3 de TER Huasco no cumple con el tiempo de sincronización de 5 minutos. 
+Dado lo anterior, no se verifica en CTF frío. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Guacolda Energía 
+SpA.
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Control Primario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+Central TER Huasco 
+Recurso Primario 
+Diésel 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+ 
+U3 
+U4 
+U5 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+4% 
+4% 
+4% 
+Estatismo 
+4% 
+4% 
+4% 
+Rango de ajuste Banda muerta [mHz] 
+0 
+0 
+0 
+Banda muerta [mHz] (1) 
+0 
+0 
+0 
+Tiempo Activación CPF+ [s] 
+<1 
+<1 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+<1 
+<1 
+Límite de regulación superior [MW] (2) 
+19,333 
+19,333 
+19,333 
+Límite de regulación inferior [MW] (3) 
+2,540 
+2,540 
+2,540 
+Aportes (4) 
+BM = 25 [mHz] 
+R = 8% 
+10 
+segundos 
+Aporte +0,2[Hz] [MW] 
+-1,940 
+-1,740 
+-1,750 
+Aporte -0,2[Hz] [MW] 
+2,050 
+2,030 
+2,120 
+Aporte +0,7[Hz] [MW] 
+-8,000 
+-7,210 
+-7,790 
+Aporte -0,7[Hz] [MW]  
+7,650 
+6,430 
+7,450 
+5 minutos 
+Aporte +0,2[Hz] [MW] 
+-1,980 
+1,960 
+-2,020 
+Aporte -0,2[Hz] [MW] 
+2,540 
+2,340 
+2,320 
+Aporte +0,7[Hz] [MW] 
+-7,830 
+-8,020 
+7,170 
+Aporte -0,7[Hz] [MW]  
+7,480 
+7,280 
+8,050 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 0 [mHz]. 
+(2) Correspondiente a la Potencia máxima bruta informada al Coordinador. 
+(3) Correspondiente a la Potencia mínima bruta aceptada por el Coordinador. 
+(4) Aportes para CPF+ y CPF- en ±0,2 [Hz] y ±0,7 [Hz] determinados con una consigna de 11,2 [MW] Y 17,4 [MW] 
+respectivamente. El aporte de la central es uniforme en todo su rango de operación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+b) Control Terciario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+U3 
+U4 
+U5 
+Central  
+TER Huasco 
+Diésel 
+Tasa normal de 
+operación [MW/min] 
+Subida 
+20,3 
+34,8 
+47,5 
+Bajada 
+13,2 
+34,8 
+47,5 
+Tasa máxima de 
+operación [MW/min] (1) 
+Subida 
+20,3 
+34,8 
+47,5 
+Bajada 
+13,2 
+34,8 
+47,5 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+<5 
+<5 
+Bajada 
+<5 
+<5 
+<5 
+Aporte CTF [MW] (2) 
+Subida 
+17,237 
+17,237 
+17,237 
+Bajada 
+-17,237 
+-17,237 
+-17,237 
+Límite de regulación superior [MW] (3) 
+19,333 
+19,333 
+19,333 
+Límite de regulación inferior [MW] (3) 
+2 
+2 
+2 
+(1) Tasa de subida y bajada de carga fija, sin posibilidad de ser modificada por el operador de la central. 
+(2) La reserva se determina como la diferencia entre las potencias netas máximas y mínimas de cada una de las unidades 
+correspondientes 19,226 MW y 1,989 MW respectivamente. 
+(3) Los límites de regulación, correspondientes a la potencia bruta y el aporte máximo de CTF podrán verse modificados 
+si se actualizan los parámetros operacionales de la central. 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+U4 
+U5 
+Central TER Huasco (1) 
+Diésel 
+Tiempo hasta sincronización [min] 
+4,9 
+4,08 
+Tiempo hasta mínimo técnico [min]  
+5,011 
+4,31 
+Reserva Fría [MW]  
+19,227 
+19,227 
+(1) Unidad 3 de TER Huasco no cumple con el tiempo de sincronización de 5 minutos. Dado lo anterior no se verifica en 
+CTF frío. 
+ 

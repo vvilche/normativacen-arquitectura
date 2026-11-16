@@ -1,0 +1,68 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+GM N°2026-036 
+12 de junio de 2026 
+ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+ 
+Ref.: Solicitud de antecedentes técnicos y evaluación de mejoras para ampliación del rango de 
+prestación de CSF del Ciclo Combinado de central TER Nueva Renca. 
+ 
+ 
+De nuestra consideración, 
+En relación con lo indicado en la Carta DE 03399-26, de fecha 19 de mayo 2026, mediante la cual el 
+Coordinador Eléctrico Nacional (“Coordinador”) solicita a Generadora Metropolitana SpA (“GM”) 
+antecedentes técnicos y evaluación de mejoras para ampliación del rango de prestación de Control 
+Secundario de Frecuencia (“CSF”) del Ciclo Combinado de central TER Nueva Renca, y habiendo 
+realizado la revisión de los antecedentes, informamos lo siguiente: 
+Con fecha 21 de marzo de 2025, GM comunicó al Coordinador, mediante correo electrónico, los 
+parámetros asociados a un nuevo rango operativo para la Central Nueva Renca. Dichos parámetros 
+fueron definidos a partir de las pruebas realizadas en conjunto con el Coordinador el día 16 de enero 
+de 2025 y del análisis técnico efectuado posteriormente de manera interna.  
+A continuación, se detallan los parámetros correspondientes: 
+ 
+TG [MW] 
+Ciclo Combinado [MW] 
+Mínimo 
+100 
+173 
+Máximo 
+210 
+315 
+Se adjunta correo a esta comunicación. 
+Entendemos que quedaron algunas pruebas pendientes para finalizar el proceso de verificación de 
+este nuevo rango. En este contexto, agradeceremos nos puedan indicar cuales son las pruebas y 
+perfiles, con el objetivo de coordinarlas y programarlos a la brevedad posible. 
+Finalmente, solicitamos nos pudieran confirmar que, considerando que el último rango de 
+operación informado contempla prácticamente la totalidad del rango operativo de la central, no 
+resultaría necesario el envío de un informe técnico ni un cronograma de trabajo asociado a la 
+
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+evaluación de mejoras para la ampliación del rango de CSF, si no más bien correspondería coordinar 
+y programar las pruebas que se encuentran pendientes. 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+Carolina Vélez K. 
+Encargada Titular 
+Generadora Metropolitana SpA. 
+ 

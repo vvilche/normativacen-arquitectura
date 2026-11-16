@@ -1,0 +1,339 @@
+ 
+ 
+ 
+ 
+ 
+                                                                                                                  
+REF.: Modifica por razones que indica Resolución N° 443 y 
+N° 493, ambas de 2020, de la Comisión Nacional de 
+Energía, relativas a la fijación de los mecanismos de 
+determinación de los valores máximos para las ofertas de 
+subasta de Servicios Complementarios de Control Primario, 
+Secundario y Terciario de Frecuencia. 
+ 
+SANTIAGO, 15 de octubre de 2025. 
+ 
+RESOLUCIÓN EXENTA Nº 636 
+ 
+ 
+VISTOS: 
+ 
+ 
+a) Lo dispuesto en el artículo 9° letra h) del D.L. N°2.224 de 1978, 
+que crea el Ministerio de Energía y la Comisión Nacional de 
+Energía, en adelante e indistintamente “la Comisión”; 
+ 
+b) Lo dispuesto en el D.F.L. N°4/20.018, que fija el texto refundido, 
+coordinado y sistematizado del D.F.L. N°1 del Ministerio de 
+Minería, de 1982, Ley General de Servicios Eléctricos, en adelante 
+e indistintamente la “Ley” o “Ley General de Servicios Eléctricos”; 
+ 
+c) El Decreto Supremo N°113, de 2017, del Ministerio de Energía, 
+que aprueba Reglamento de Servicios Complementarios a los que 
+se refiere el Artículo 72°-7 de la Ley General De Servicios 
+Eléctricos, en adelante e indistintamente “Reglamento de SSCC”;  
+ 
+d) La Resolución Exenta CNE N°786, de 18 de diciembre de 2019, 
+que aprueba Norma Técnica de Servicios Complementarios, en 
+adelante e indistintamente “NT SSCC”;  
+ 
+e) La Resolución Exenta CNE N°443, de 23 de noviembre de 2020, 
+que fija y comunica los mecanismos de determinación de los 
+valores máximos para las ofertas de subasta de Servicios 
+Complementarios 
+de 
+Control 
+Secundario 
+y 
+Terciario 
+de 
+Frecuencia, y deja sin efecto Resolución Exenta CNE N°823, de 
+27 de diciembre de 2019, en adelante e indistintamente 
+“Resolución CNE 443”; 
+ 
+f) 
+La Resolución Exenta CNE N°493, de 29 de diciembre de 2020, 
+que fija y comunica los mecanismos de determinación de los 
+valores máximos para las ofertas de subasta del Servicio 
+Complementario 
+de 
+Control 
+Primario 
+de 
+Frecuencia 
+por 
+Sobrefrecuencia, en adelante e indistintamente “Resolución CNE 
+493”;  
+ 
+g) La Resolución Exenta CNE N°352, de 22 de septiembre de 2021, 
+que modificó la Resolución CNE N°443 y la Resolución CNE 
+N°493; 
+ 
+
+ 
+ 
+ 
+ 
+h) La Resolución Exenta CNE N°386, de 22 de agosto de 2023, que 
+modificó la Resolución CNE N°443 y la Resolución CNE N°493; 
+ 
+ 
+i) 
+El Estudio de Costos de Desgaste 2022 – Preliminar, publicado 
+por el Coordinador Eléctrico Nacional con fecha 30 de noviembre 
+de 2022; 
+ 
+j) 
+El Estudio de Costos de Desgaste 2025 – Preliminar, publicado 
+por el Coordinador Eléctrico Nacional con fecha 23 de abril de 
+2025; 
+ 
+k) El Estudio de Costos de Desgaste 2025 – Definitivo, publicado por 
+el Coordinador Eléctrico Nacional con fecha 17 de septiembre de 
+2025; 
+ 
+l) 
+La discrepancia presentada ante el H. Panel de Expertos por Enel 
+Generación Chile S.A. contra el Coordinador Eléctrico Nacional 
+respecto del Informe Definitivo del Estudio de Costos de Desgaste 
+de Servicios Complementarios, a que se refiere el literal 
+precedente; 
+ 
+m) El Estudio de Costos de Desgaste 2025 – Definitivo, publicado por 
+el Coordinador Eléctrico Nacional con fecha 09 de octubre de 
+2025, y comunicado a las empresas coordinadas mediante carta 
+DE 06409-25, de la misma fecha;  
+ 
+n) Lo señalado en el Decreto Supremo N°12A, de 21 de noviembre 
+de 2022, del Ministerio de Energía, que nombra a don Marco 
+Antonio Mancilla Ayancán en el cargo de Secretario Ejecutivo de 
+la Comisión Nacional de Energía; y,  
+ 
+o) La Resolución N°36 de 2024 de la Contraloría General de la 
+República.  
+ 
+ 
+ 
+ 
+CONSIDERANDO: 
+ 
+ 
+a) Que, de conformidad a lo dispuesto en el inciso séptimo del 
+artículo 72°-7 de la Ley y en el artículo 37 del Reglamento de 
+SSCC, la Comisión, mediante resolución exenta, podrá fijar el o 
+los valores máximos de las ofertas de las subastas de SSCC o sus 
+mecanismos de determinación, y sus respectivas fórmulas de 
+indexación, según corresponda;  
+ 
+b) Que, en cumplimiento de lo dispuesto en la normativa a que se 
+refiere el literal precedente, la Comisión dictó, por una parte, la 
+Resolución 
+CNE 
+N° 
+443, 
+que 
+fijó 
+los 
+mecanismos 
+de 
+determinación de los valores máximos para las ofertas de subasta 
+de Servicios Complementarios de Control Secundario y Terciario 
+de Frecuencia; y, por otra parte, la Resolución CNE N°493, que 
+
+ 
+ 
+ 
+ 
+fijó los referidos mecanismos para las ofertas de subasta del 
+Servicio Complementario de Control Primario de Frecuencia;  
+ 
+c) Que, tanto la Resolución CNE N°443 como la Resolución N°493 
+establecieron que, para la aplicación del mecanismo de 
+determinación del Valor Máximo de Reserva, el Coordinador 
+Eléctrico Nacional ─en adelante e indistintamente, “Coordinador” 
+─ deberá utilizar costos representativos de desgaste de las 
+instalaciones, según su tecnología, provocados por la prestación 
+del servicio complementario;  
+ 
+d) Que, asimismo, tanto la Resolución CNE N°443 como la 
+Resolución N°493 establecieron en su artículo transitorio que, en 
+el transcurso del año 2023, el Coordinador debía realizar un 
+estudio que determine los costos de desgaste representativos de 
+las tecnologías de las instalaciones interconectadas al Sistema 
+Eléctrico Nacional, estableciendo, a su vez, los valores que se 
+debían ocupar en el período previo a la publicación del referido 
+estudio;  
+ 
+e) Que, con fecha 30 de noviembre de 2022, el Coordinador publicó 
+una versión preliminar del Estudio de Costos de Desgaste, sin que 
+posteriormente se publicara una versión definitiva del mismo;  
+ 
+f) 
+Que, con fecha 23 de abril de 2025, el Coordinador publicó una 
+nueva versión preliminar del Estudio de Costos de Desgaste;  
+ 
+g) Que, con fecha 17 de septiembre de 2025, el Coordinador publicó 
+la versión definitiva del Estudio de Costos de Desgaste;  
+ 
+h) Que, con fecha 2 de octubre de 2025, la empresa Enel Generación 
+Chile S.A. presentó, ante el H. Panel de Expertos, sus 
+discrepancias a la versión definitiva del Estudio de Costos de 
+Desgaste a que se refiere el literal precedente; 
+ 
+i) 
+Que, con fecha 09 de octubre, el Coordinador publicó una nueva 
+versión definitiva del Estudio de Costos de Desgaste, informando 
+a las empresas coordinadas, mediante carta DE 06409-25, que 
+los valores actualizados de dicho estudio serían aplicados a la 
+programación diaria a partir del proceso que entra en vigencia el 
+miércoles 15 de octubre de 2025; 
+ 
+j) 
+Que, atendida la existencia de dos versiones definitivas del 
+Estudio de Costos de Desgaste y la necesidad de otorgar certeza 
+y claridad a los agentes del mercado respecto de la vigencia de 
+los valores definitivos o finales del Estudio de Costos, así como el 
+derecho de las empresas coordinadas de someter al dictamen del 
+Panel de Expertos cualquier acto del Coordinador relativo a la 
+coordinación de la operación del sistema y del mercado eléctrico, 
+esta Comisión estima necesario precisar la fecha de entrada en 
+vigencia de los valores contenidos en el Estudio de Costos de 
+Desgaste del Coordinador; y,  
+ 
+
+ 
+ 
+ 
+ 
+k) Que, para estos efectos, resulta pertinente modificar las normas 
+transitorias de las Resoluciones CNE N°443 y CNE N°493, con el 
+objeto de establecer con claridad el procedimiento y oportunidad 
+de aplicación de los costos de desgaste definitivos o finales. 
+ 
+RESUELVO: 
+ 
+ 
+ARTÍCULO PRIMERO: Modifíquese el artículo transitorio de la Resolución Exenta CNE N°443, de 23 
+de noviembre de 2020, en el sentido de sustituirlo íntegramente por el siguiente: 
+ 
+“En el transcurso del año 2023, el Coordinador deberá realizar un estudio que determine los costos 
+de desgaste representativos de las tecnologías de las instalaciones interconectadas al Sistema 
+Eléctrico Nacional a los que se refiere el Artículo Quinto de esta resolución. Dicho estudio deberá 
+contemplar un periodo de observaciones de los Coordinados de al menos 10 días hábiles, y será 
+susceptible de discrepancias ante Panel de Expertos de conformidad a lo dispuesto en el artículo 211 
+de la Ley General de Servicios Eléctricos. Si no se presentaren discrepancias, dentro de los tres días 
+siguientes al vencimiento del plazo para presentarlas, el Coordinador deberá comunicar a los 
+coordinados la versión final del referido estudio, momento a partir del cual entrarán en vigencia los 
+correspondientes costos de desgaste. En el caso que se hubiesen presentado discrepancias, el 
+Coordinador dispondrá de diez días desde la comunicación del dictamen del Panel, para remitir a los 
+coordinados la versión final del estudio, incorporando lo resuelto por Panel, momento a partir del 
+cual entrarán en vigencia los respectivos costos de desgaste. 
+ 
+Durante el periodo que medie entre la vigencia de la presente resolución y los resultados obtenidos 
+del estudio antes mencionado, el Coordinador deberá utilizar los valores establecidos en la siguiente 
+tabla para todo servicio complementario: 
+ 
+Tabla 1: Costos de desgaste representativos por tecnología 
+Tecnología (𝒕) 
+Costo de desgaste 
+(𝜽𝒕,𝒔𝒄) 
+[US$/MWh] 
+Carbón 
+10 
+Central térmica en ciclo combinado 
+6 
+Grupo motor generador 
+6 
+Turbina a vapor con biomasa 
+5 
+Turbina a gas o dual en ciclo abierto 
+4 
+Turbina a biogás 
+4 
+Concentración solar de potencia de tipo torre central 
+4 
+Hidráulica de pasada 
+2 
+Hidráulica de embalse 
+2 
+Fotovoltaica 
+2 
+Eólica 
+2 
+Sistema de almacenamiento en base a baterías (BESS) 
+2 
+Eólica + BESS 
+2 
+Fotovoltaica + BESS 
+2 
+Hidráulica de Pasada + BESS 
+2 
+Hidráulica de Embalse + BESS 
+2 
+Geotermia 
+2 
+ 
+Si la tecnología de una instalación que presta servicios complementarios no se encontrase descrita 
+en la tabla anterior el Coordinador deberá utilizar el valor de una tecnología similar considerando su 
+proceso de producción eléctrica o de prestación del servicio complementario correspondiente.” 
+ 
+
+ 
+ 
+ 
+ 
+ARTÍCULO SEGUNDO: Modifíquese el artículo transitorio de la Resolución Exenta CNE N°493, de 
+29 de diciembre de 2020, en el sentido de sustituirlo íntegramente por el siguiente: 
+ 
+“En el transcurso del año 2023, el Coordinador deberá realizar un estudio que determine los costos 
+de desgaste representativos de las tecnologías de las instalaciones interconectadas al Sistema 
+Eléctrico Nacional a los que se refiere el Artículo Quinto de esta resolución. Dicho estudio deberá 
+contemplar un periodo de observaciones de los Coordinados de al menos 10 días hábiles, y será 
+susceptible de discrepancias ante Panel de Expertos de conformidad a lo dispuesto en el artículo 211 
+de la Ley General de Servicios Eléctricos. Si no se presentaren discrepancias, dentro de los tres días 
+siguientes al vencimiento del plazo para presentarlas, el Coordinador deberá comunicar a los 
+coordinados la versión final del referido estudio, momento a partir del cual entrarán en vigencia los 
+correspondientes costos de desgaste. En el caso que se hubiesen presentado discrepancias, el 
+Coordinador dispondrá de diez días desde la comunicación del dictamen del Panel, para remitir a los 
+coordinados la versión final del estudio, incorporando lo resuelto por Panel, momento a partir del 
+cual entrarán en vigencia los respectivos costos de desgaste. 
+Durante el periodo que medie entre la vigencia de la presente resolución y los resultados obtenidos 
+del estudio antes mencionado, el Coordinador deberá utilizar los valores que le serán comunicados 
+para su aplicación a través de oficio reservado”. 
+ARTÍCULO TERCERO: Comuníquese al Coordinador Eléctrico Nacional para la inmediata aplicación 
+de lo dispuesto en la presente resolución y publíquese la presente resolución en forma íntegra en el 
+sitio web de la Comisión Nacional de Energía. 
+Anótese, Comuníquese y Publíquese. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECRETARIO EJECUTIVO 
+COMISIÓN NACIONAL DE ENERGÍA 
+ 
+ 
+ 
+MFH/DZO/FCP/ERQ/MCB/mhs 
+ 
+DISTRIBUCIÓN:  
+1. Coordinador Eléctrico Nacional 
+2. Ministerio de Energía 
+3. Superintendencia de Electricidad y Combustibles 
+4. Departamento Jurídico CNE 
+5. Departamento Eléctrico CNE 
+6. Oficina de Partes CNE 
+Marco Antonio 
+Mancilla 
+Ayancán
+Firmado digitalmente por Marco 
+Antonio Mancilla Ayancán 
+Nombre de reconocimiento (DN): 
+c=CL, o=E-Sign S.A., ou=Terms of use 
+at www.esign-la.com/acuerdoterceros, 
+cn=Marco Antonio Mancilla Ayancán, 
+email=mmancilla@cne.cl 
+Fecha: 2025.10.15 16:26:09 -03'00'

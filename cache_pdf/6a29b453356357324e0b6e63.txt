@@ -1,0 +1,140 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Santiago, 10 de junio de 2026 
+        DE 03978-26 
+ 
+Señores 
+Encargados 
+Según Lista de Distribución 
+Presente 
+ 
+Ref. Reitera solicitud de plan de trabajo para la 
+implementación de Sistema de Lectura Remota de 
+Protecciones 
+(SLRP) 
+del 
+Módulo 
+de 
+Registro 
+de 
+Protecciones (MRP) del SEN. 
+[1] Carta DE03965-25 de fecha 24 de julio de 2025 del 
+Coordinador. Solicita cumplir con la implementación del SLRP del 
+MRP del SEN. 
+[2] Carta DE06728-25 de fecha 23 de octubre de 2025 del 
+Coordinador. Reitera solicitud de plan de trabajo para la 
+implementación del SLRP del MRP del SEN. 
+De mi consideración: 
+Me refiero a las cartas de las Ref. [1] y [2], mediante la cual se les solicitó el envío de un plan 
+de trabajo y su correspondiente cronograma para cumplir con la implementación del Sistema 
+de Lectura Remota de Protecciones del Módulo de Registro de Protecciones instruido para las 
+protecciones de su representada indicadas en el Anexo de la presente comunicación. 
+Al respecto, de acuerdo con nuestros registros, a la fecha no ha cumplido con el envío del plan 
+solicitado, por lo tanto, reitero la solicitud de envío del plan de trabajo al correo 
+dmap@coordinador.cl, a más tardar el 18 de junio de 2026 e indicando en el asunto “Plan de 
+trabajo SLRP”. 
+Por otra parte, resulta oportuno recordar la obligación legal que tienen todas las empresas 
+coordinadas de proporcionar al Coordinador la información requerida para el ejercicio de sus 
+funciones, conforme a lo dispuesto en el artículo 72-2 de la Ley General de Servicios Eléctricos. 
+La omisión de esta obligación podría ser objeto de fiscalización y sanción por parte de la 
+Superintendencia de Electricidad y Combustibles. 
+Finalmente, informo a Ud. que el incumplimiento a lo solicitado en esta comunicación, junto 
+con los antecedentes que nos proporcione, serán puesto en conocimiento de la 
+Superintendencia de Electricidad y Combustibles (SEC) para los fines que dicha entidad 
+estime pertinentes. 
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+Incluye: Lo indicado 
+c.c.: 
+Sres. Encargados Suplentes, según lista de Distribución 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Anexo 
+Sistemas de Protecciones sin plan de implementación del SLRP informado 
+ 
+COORDINADO 
+SUBESTACIÓN 
+SISTEMA DE PROTECCIONES 
+ALBEMARLE LIMITADA 
+S/E TAP OFF OESTE 
+SP S/E TAP OFF OESTE J1-S1 
+SP S/E TAP OFF OESTE J1-S2 
+SP S/E TAP OFF OESTE 220KV BP1 
+SP S/E TAP OFF OESTE JT2-S1 
+SP S/E TAP OFF OESTE JT2-S2 
+EMPRESA DE TRANSMISIÓN ELÉCTRICA 
+TRANSEMEL S.A. 
+S/E QUILLOTA 
+SP S/E QUILLOTA J7-S1 
+SP S/E QUILLOTA J7-S2 
+SP S/E QUILLOTA J7 
+SP S/E QUILLOTA J8-S1 
+SP S/E QUILLOTA J8-S2 
+SP S/E QUILLOTA J8 
+INVERSIONES HORNITOS SPA 
+S/E CENTRAL HORNITOS (TER) 
+SP S/E CENTRAL HORNITOS (TER) CEG6-S1 
+SP S/E CENTRAL HORNITOS (TER) CEG6-S2 
+SP S/E CENTRAL HORNITOS (TER) JT6-S2 
+SP S/E CENTRAL HORNITOS (TER) JT6-S1 
+LÍNEA DE TRANSMISIÓN CABO LEONES S.A. 
+S/E MAITENCILLO 
+SP S/E MAITENCILLO J15 
+SP S/E MAITENCILLO J15-S1 
+SP S/E MAITENCILLO J15-S2 
+SP S/E MAITENCILLO J16-S1 
+SP S/E MAITENCILLO J16-S2 
+MANTOS COPPER S.A. 
+S/E MANTOS BLANCOS 
+SP S/E MANTOS BLANCOS 220 KV 
+SP S/E MANTOS BLANCOS J1-S1 
+SP S/E MANTOS BLANCOS J1-S2-1 
+SP S/E MANTOS BLANCOS J1-1 
+SP S/E MANTOS BLANCOS J1-2 
+SP S/E MANTOS BLANCOS J1-S2-2 
+MLP TRANSMISION S.A. 
+S/E EL CHACAY 
+SP S/E EL CHACAY J6-S1 
+SP S/E EL CHACAY J6-S2 
+SP S/E EL CHACAY J7-S1 
+SP S/E EL CHACAY J7-S2 
+SP S/E EL CHACAY J9-S1 
+SP S/E EL CHACAY J9-S2 
+SP S/E EL CHACAY J10-S1 
+SP S/E EL CHACAY J10-S2 
+SP S/E EL CHACAY J12-S1 
+SP S/E EL CHACAY J12-S2 
+SP S/E EL CHACAY 220KV BP1 
+SP S/E EL CHACAY 220KV BP2 
+S/E LOS PIUQUENES 
+SP S/E LOS PIUQUENES J1-S1 
+SP S/E LOS PIUQUENES J1-S2 
+SP S/E LOS PIUQUENES J2-S1 
+SP S/E LOS PIUQUENES J2-S2 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Lista de Distribución 
+ 
+ALBEMARLE LIMITADA 
+EMPRESA DE TRANSMISIÓN ELÉCTRICA TRANSEMEL S.A. 
+INVERSIONES HORNITOS SPA 
+LÍNEA DE TRANSMISIÓN CABO LEONES S.A. 
+MANTOS COPPER S.A. 
+MLP TRANSMISION S.A. 
+ 

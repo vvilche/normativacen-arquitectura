@@ -1,0 +1,237 @@
+ 
+Santiago, 10 de julio de 2025. 
+  ACC.ECH.075.25 
+Señor: 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe Desempeño Servicios Complementarios – junio 2025. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de junio 2025, que fue publicado en su página web y cuya publicación fue comunicada a través 
+de la carta DE 04077-25 de fecha 7 de julio de 2025. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+Felipe Escobar Tapia 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC JUNIO 2025 V1 
+Servicio Complementario – CT 
+Planta: PFV Almeyda 
+Timestamp 
+Planta 
+Consigna 
+Planta [MVAr] 
+Registro RIO 
+[MVAr] 
+Hora INICIO 
+registro RIO 
+Comentario 
+03-06-2025 
+9:16:30 
+-17 
+-17 
+03-06-2025 
+9:14 
+En el documento “2025.06_Respuesta_CT” de la V1 de Desempeño, no se observa registro de la central. No obstante, 
+el servicio fue prestado según instrucción de CDC en tiempo real, tal como se observa en la Imagen 1. 
+06-06-2025 
+13:20:30 
+-17 
+-17 
+06-06-2025 
+13:18 
+En el documento “2025.06_Respuesta_CT” de la V1 de Desempeño, no se observa registro de la central. No obstante, 
+el servicio fue prestado según instrucción de CDC en tiempo real, tal como se observa en la Imagen 2. 
+ 
+ 
+Imagen 1: Instrucción con data 03-06-25 09:14. 
+ 
+Imagen 2: Instrucción con data 06-06-25 13:18. 
+ 
+ 
+
+Planta: PFV Malgarida 
+Timestamp 
+Planta 
+Consigna Planta 
+[MVAr] 
+Registro RIO 
+[MVAr] 
+Hora INICIO registro 
+RIO 
+Comentario 
+03-06-2025 
+9:15:44 
+-60 
+-60 
+03-06-2025 9:14 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos, tal como se observa 
+en la imagen 3. 
+05-06-2025 
+15:52:16 
+-60 
+-60 
+05-06-2025 15:47 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos, tal como se observa 
+en la imagen 4. 
+06-06-2025 
+13:19:10 
+-60 
+-60 
+06-06-2025 13:18 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos, tal como se observa 
+en la imagen 5. 
+09-06-2025 
+23:38:00 
+-60 
+-60 
+09-06-2025 23:35 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos, tal como se observa 
+en la imagen 6. 
+11-06-2025 
+0:24:40 
+-60 
+-60 
+11-06-2025 0:23 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos, tal como se observa 
+en la imagen 7. 
+15-06-2025 
+22:50:04 
+-60 
+-60 
+15-06-2025 22:49 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos, tal como se observa 
+en la imagen 8. 
+16-06-2025 
+11:19:05 
+-60 
+-60 
+16-06-2025 11:18 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos, tal como se observa 
+en la imagen 9. 
+21-06-2025 
+9:02:08 
+-60 
+-60 
+21-06-2025 9:01 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos, tal como se observa 
+en la imagen 10. 
+30-06-2025 
+9:34:15 
+-60 
+-60 
+30-06-2025 09:33 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos, tal como se observa 
+en la imagen 11. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Imagen 3: Instrucción con data 03-06-25 09:14. 
+ 
+ 
+Imagen 4: Instrucción con data 05-06-25 15:47. 
+ 
+ 
+Imagen 5: Instrucción con data 06-06-25 13:18. 
+ 
+ 
+Imagen 6: Instrucción con data 09-06-25 23:35. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Imagen 7: Instrucción con data 11-06-25 00:23. 
+ 
+Imagen 8: Instrucción con data 15-06-25 22:49. 
+ 
+ 
+Imagen 9: Instrucción con data 16-06-25 11:18. 
+ 
+Imagen 10: Instrucción con data 21-06-25 09:01. 
+ 
+Imagen 11: Instrucción con data 30-06-25 09:33. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Planta: PFV El Romero 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO 
+Comentario 
+- 
+- 
+-60 
+03-06-2025 
+00:00:00 
+Se califica como NC, pero se corrobora que el registro de RIO responde a la continuidad del servicio para el 
+siguiente día, por lo que no es una nueva instrucción. 
+- 
+- 
+-60 
+03-06-2025 
+17:44:00 
+Se califica como NC, pero se corrobora que el registro de RIO no corresponde a una nueva instrucción, sino 
+a la continuidad del servicio debido a fin del recurso primario. 
+- 
+- 
+-60 
+06-06-2025 
+00:00:00 
+Se califica como NC, pero se corrobora que el registro de RIO responde a la continuidad del servicio para el 
+siguiente día, por lo que no es una nueva instrucción. 
+- 
+- 
+-60 
+22-06-2025 
+7:50:00 
+Se califica como NC, pero se corrobora que la instrucción no fue realizada por el CDC en tiempo real, 
+debido a que no se encontró registro de grabación de la llamada. 
+- 
+- 
+-60 
+29-06-2025 
+17:52:00 
+Se califica como NC, pero se corrobora que el registro de RIO no corresponde a una nueva instrucción, sino 
+a la continuidad del servicio debido a fin del recurso primario. 
+ 

@@ -1,0 +1,153 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 23 de julio de 2025 
+AEL069C-25 
+ 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+Ref.: Solicita Cálculo de Costo de Oportunidad para 
+CRCA PV+BESS Salvador 
+[1]DE04452-25 del 21 de julio de 2025, donde el CEN 
+publica minuta de operación para la zona Diego de 
+Almagro. 
+[2]AEL035-25, de Aela Generación S.A., de  
+fecha 14 de abril de 2025, “Solicita de información  
+sobre limitación de potencia en la operación real del  
+BESS Salvador”. 
+[3] AEL051-25, de Aela Generación S.A., de  
+fecha 8 de julio de 2025, “Solicita minuta de operación  
+Diego Almagro 110 kV conforme a los principios y  
+normas 
+de 
+la 
+LGSE”. 
+ 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, solicitamos al Coordinador Eléctrico Nacional (CEN o Coordinador) que se 
+calcule el costo de oportunidad correspondiente a la energía almacenada en la Central Renovable con 
+Capacidad de Almacenamiento (CRCA) PV+BESS Salvador, de acuerdo con lo indicado en los Artículos 37°, 
+112° y 113° del Reglamento de la Coordinación y Operación del Sistema Eléctrico Nacional (DS125). Esto 
+con el objetivo de asegurar el despacho eficiente de la energía almacenada en la central, respetando las 
+disposiciones de la Norma Técnica de Coordinación y Operación (NTCyO) además de evitar 
+discriminaciones tecnológicas.    
+ 
+En este contexto, tal como se evidenció en Ref[3] y la minuta de operación que se entregó como anexo 
+(La Minuta) en Ref[1], el nodo Diego de Almagro 110 kV actualmente presenta una limitación en su tramo 
+de transformación, por lo que en la operación nocturna es necesario el despacho de generación local para 
+poder abastecer los consumos respetando los criterios de seguridad establecidos por el CEN en La Minuta. 
+ 
+Producto de lo anterior, la componente de almacenamiento de la central PV+BESS Salvador ha estado 
+sujeta a distintos perfiles de descarga, con serias diferencias entre la operación programada y la operación 
+real, buscando siempre evitar que se despache generación térmica en la zona deficitaria (Barra Diego de 
+Almagro 110 kV) para poder respetar los criterios de seguridad.  
+
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+La operación de BESS Salvador descrita en la presente, que fue constatada en primera instancia en Ref[2], 
+de acuerdo con lo indicado por el Coordinador en La Minuta no modifica el precio en la barra Diego de 
+Almagro 110 kV. A pesar de haber un control de transferencia, como se indica en La Minuta, no se calcula 
+un desacople con la respectiva barra de 220 kV. De acuerdo con lo que se expone a continuación, 
+solicitamos que el Coordinador calcule un desacople y asigne el costo marginal en la barra de Diego de 
+Almagro 110 kV en función del costo de oportunidad de la energía almacenada en BESS Salvador.  
+ 
+Los artículos 37°, 112° y 113° entregan la obligación al Coordinador de calcular un costo de oportunidad a 
+las Centrales Renovables con Capacidad de Almacenamiento considerando distintos aspectos propios de 
+este tipo de centrales. En específico, el literal f) del artículo 113° indica que se deberá calcular el costo de 
+oportunidad considerando el “impacto sistémico sobre la seguridad, suficiencia o eficiencia económica en 
+el sistema eléctrico”. De esta forma, toda vez que el sistema de almacenamiento de la central PV+BESS 
+Salvador se despacha por control de transferencia, evitando el uso de generación térmica en la zona, existe 
+un impacto positivo en términos de eficiencia económica y de seguridad para el sistema.   
+ 
+Sin embargo, y hablando en términos generales, la eficiencia económica que se logra al desplazar 
+combustibles fósiles mediante el uso de energía almacenada no debe ir en desmedro de los beneficios 
+económicos que percibirían los agentes operadores de sistemas de almacenamiento. De esta forma, los 
+precios del sistema resultantes de una operación eficiente deben entregar las señales adecuadas para que 
+los agentes ajusten su comportamiento, de modo que sus decisiones individuales coincidan con las 
+decisiones de despacho adoptadas por el Coordinador. Dicho de otro modo, si existe una diferencia entre 
+el despacho real asignado y la decisión que habría tomado el agente de forma individual, se produce un 
+perjuicio económico para dicho agente1. 
+ 
+Adicionalmente, se ha observado que, desde enero de 2025 a la fecha, en todas las oportunidades en que 
+BESS Salvador ha sido despachada mediante control de transferencia, el Coordinador no ha reflejado el 
+desacople entre las barras de 110 y 220 kV de la subestación Diego de Almagro incurriendo en un 
+incumplimiento de lo establecido en el artículo 2-20 de la NTCyO. En contraste, en aquellos días en que la 
+energía almacenada en BESS Salvador no fue suficiente, o cuando la instalación presentó 
+indisponibilidades, el Coordinador procedió a despachar generación térmica en la barra de 110 kV, 
+anotando en esos casos el correspondiente desacople. 
+ 
+Se presenta también el hecho de que este Coordinador ha realizado control de transferencia sobre un 
+tramo de transmisión durante casi toda la primera mitad del año sin dejar registro en el RIO, realizando 
+siempre la instrucción vía telefónica. El CEN plantea en La Minuta que los cambios en la potencia 
+despachada de BESS Salvador no deben ir en el RIO ya que no afectan el cálculo del Costo Marginal, sin 
+embargo, lo que debe ir registrado en el RIO es el control de transferencia -situación propia de las 
+características de la zona y externa a BESS Salvador-, y es dicho control de transferencia que tiene como 
+consecuencia la alteración tanto del despacho de BESS Salvador como el desacople de marginales. 
+ 
+ 
+1 Este problema se resuelve casi en su totalidad con un mercado de ofertas 
+
+ 
+ 
+ 
+ 
+3 
+ 
+Ante esta situación, hemos levantado el requerimiento de generar el registro mediante observaciones a 
+los procesos diarios del RIO, directamente con los despachadores vía telefónica al recibir la instrucción, y 
+con la gerencia del CEN en Audiencias Públicas sin éxito. Creemos que las respuestas en todas estas 
+instancias, y en especial la contenida en La Minuta, no han sido suficientes ya que no explican por qué 
+cuando se realiza un control de transferencia con unidades térmicas en el mismo nodo, entonces sí se deja 
+registro en el RIO. 
+ 
+Esta diferencia contraviene los principios de no discriminación tecnológica en la operación del sistema. En 
+particular, se observa que los sistemas de almacenamiento como BESS Salvador no generan señal de 
+precio en condiciones de control de transferencia, mientras que las unidades térmicas sí lo hacen bajo 
+condiciones funcionalmente análogas. Esta práctica no se encuentra alineada a los principios 
+fundamentales que rigen la operación del sistema eléctrico, especialmente el principio de no 
+discriminación arbitraria entre tecnologías, consagrado tanto en la normativa técnica como en el marco 
+legal aplicable, y cuyo resguardo es esencial para preservar la equidad, la transparencia y la eficiencia en 
+los mercados eléctricos. 
+ 
+A la luz de lo dispuesto en los artículos 37°, 112 ° y 113° del DS125, se sostiene que, por razones de 
+eficiencia económica, el cálculo del costo de oportunidad de dicha energía debe realizarse considerando 
+la generación térmica que efectivamente se desplaza mediante su inyección. Esta aproximación permite 
+reflejar con mayor precisión el valor marginal sistémico del almacenamiento, asegurando una señal de 
+precios coherente con los principios de optimización del despacho y de asignación eficiente de recursos. 
+Esta interpretación adquiere relevancia al evidenciarse una asimetría en el tratamiento económico entre 
+los sistemas de almacenamiento y las unidades de generación térmica. Mientras estas últimas internalizan 
+sus aportes a la operación del sistema mediante la formación de precios en situaciones de control de 
+transferencia, BESS Salvador no recibe una remuneración equivalente, incluso cuando cumplen funciones 
+operativas idénticas. Esta diferencia configura una forma de discriminación económica contraria al 
+principio de neutralidad tecnológica que subyace al diseño del mercado eléctrico. 
+ 
+En consideración a todo lo expuesto, solicitamos al Coordinador que se calcule el costo de oportunidad 
+para la energía almacenada en la central PV+BESS Salvador y que registre el control de transferencia en 
+los RIOs. Solicitamos también que el CEN corrija los costos marginales y RIOs de por lo menos los últimos 
+dos meses de operación, en atención al plazo contenido en el artículo 2-27 de la NTCyO. Sin perjuicio de 
+lo anterior, no renunciamos a ninguna observación realizada sobre los procesos anteriores al plazo 
+mencionado de costos marginales, RIOs ni a futuras instancias de apelación u observaciones por este 
+asunto. 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+Nicolás Correa Fernández 
+Encargado Suplente 
+Aela Generación S.A. 
+ 

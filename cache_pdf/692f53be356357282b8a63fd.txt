@@ -1,0 +1,230 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 02 de diciembre de 2025 
+DE 07712-25 
+Señor 
+Benjamín Rivadeneira 
+Encargado Titular 
+El Pelícano Solar Company SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Terciario de 
+Frecuencia de la central PFV El Pelícano. 
+[1] Carta PE2525 de El Pelícano Solar Company SpA, 
+“Respuesta a Observaciones al Informe Técnico de 
+Verificación de SS.CC. de Control Terciario de 
+Frecuencia – Central PFV El Pelícano”, de fecha 21 de 
+noviembre de 2025. 
+Responde a Ingreso DE11810-25. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SCC) de Control 
+Terciario de Frecuencia (CTF) de la central PFV El Pelícano. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio a partir de las 00:00 del 04 de diciembre de 2025, considerando 
+los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de la presente comunicación se presenta la información indicada 
+en el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación 
+de SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CTF de la central PFV El Pelícano ha sido publicado en la siguiente ruta de 
+la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central PFV El Pelícano 
+ 
+Finalmente, la central PFV El Pelícano podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del Control Terciario de Frecuencia. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+DIR/PGR/adr 
+c.c.: 
+Sr. Gonzalo Marchant– Encargado Suplente El Pelícano Solar Company SpA 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PFV El Pelícano 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV El Pelícano 
+• 
+Potencia máxima bruta: 108,10 [MW] 
+• 
+Potencia máxima neta: 105,03 [MW] 
+• 
+Potencia mínima bruta: 5,0 [MW] 
+• 
+Potencia mínima neta: 3,95 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia: 
+El gradiente de carga puede ser modificado por el operador con la central en servicio, 
+con un rango de configuración entre 0 – 200 [MW/min]. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado El Pelícano Solar 
+Company SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+PFV El 
+Pelícano 
+Solar 
+Tasa normal de operación [MW/min] 
+Subida 
+20,00 
+ 
+Bajada 
+20,00 
+ 
+Tasa máxima de operación [MW/min] (1) 
+Subida 
+200,00 
+ 
+Bajada 
+200,00 
+ 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] (2) 
+Subida 
+101,08 
+ 
+Bajada 
+-101,08 
+ 
+Límite de regulación superior [MW] (3) 
+108,10 
+ 
+Límite de regulación inferior [MW] (3) 
+5,0 
+ 
+(1) Tasa máxima de subida y bajada de carga corresponde al máximo rango de configuración de 200 [MW/min]. 
+ 
+(2) La reserva se determina como la diferencia entre las potencias activas máxima y mínima netas de la central 
+correspondientes a 105,03 [MW] y 3,95 [MW]. 
+ 
+(3) Los límites de regulación, correspondientes a la potencia activa bruta, así como el aporte CTF, podrán verse 
+modificados si se actualizan los parámetros operacionales de la central. 
+ 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+PFV El 
+Pelícano 
+Solar 
+Tiempo hasta sincronización [min] (1) 
+4,883 
+ 
+Tiempo hasta mínimo técnico [min] 
+5,316 
+ 
+Reserva Fría [MW] 
+105,03 
+ 
+(1) El valor indicado considera el tiempo de sincronización establecido en el parámetro de PPyD. 
+ 
+ 
+ 

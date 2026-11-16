@@ -1,0 +1,171 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 28 de octubre de 2026 
+ 
+    
+DE 07127-26 
+Señor 
+Miguel Buzunariz 
+Encargado Titular  
+Enel Generación Chile S.A. 
+Enel Green Power Chile S.A. 
+Presente 
+Ref.: Solicita plan de pruebas punto a punto 
+pendientes 
+respecto 
+del 
+proceso 
+de 
+Verificación 
+de 
+Control 
+Secundario 
+de 
+Frecuencia (CSF-AGC) de instalaciones de 
+Enel Generación Chile S.A. y Enel Green 
+Power Chile S.A. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y de acuerdo con los antecedentes que dispone 
+este Coordinador, informados por su representada mediante cartas de las Ref. [1] y [2], 
+donde informó el término de la ejecución de las pruebas punto a punto de señales 
+AGC/SITR en octubre de 2026 y la integración de sus unidades al AGC del Coordinador 
+durante noviembre de 2026, en Anexo de la presente comunicación se individualizan las 
+centrales y unidades de su representada que, a la fecha, mantienen pendiente la ejecución 
+de las pruebas punto a punto de señales AGC/SITR y la integración al AGC del 
+Coordinador. 
+ 
+Al respecto, solicito a Ud., para las instalaciones señaladas en Anexo de la presente 
+comunicación, lo siguiente: 
+ 
+a) Remitir un plan de pruebas punto a punto de las señales AGC/SITR de cada 
+instalación, indicando un rango de fechas propuesto para su ejecución. 
+ 
+b) Indicar el % de avance de la integración de estas señales SITR/AGC y de su envío 
+al SITR del Coordinador Eléctrico. En particular, deberá indicar si estas señales 
+poseen configurados los tags ICCP y si se encuentran comunicando información al 
+SCADA/SITR del Coordinador. 
+ 
+c) Indicar las tareas pendientes de cada instalación, requeridas para llevar a cabo las 
+pruebas punto a punto de las señales SITR/AGC con el Coordinador Eléctrico. 
+ 
+La información requerida, solicito a Ud. sea remitida mediante carta, a través del Sistema 
+de 
+Correspondencia 
+del 
+Coordinador, 
+y 
+con 
+copia 
+al 
+correo 
+verificacion.sscc@coordinador.cl, a más tardar el viernes 30 de octubre de 2026. 
+ 
+ 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Sin otro particular, le saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+  Cristian Reyes V. 
+Jefe Departamento Control de la Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PGR/cfp 
+ 
+c.c.: Sr. Adrián Guzmán – Encargado Suplente Enel Generación Chile S.A. y Enel Green Power Chile S.A. 
+DSCADA/DMAP 
+ 
+ 
+Referencias: 
+ 
+[1] Carta OP103-26 de Enel Generación Chile S.A., Ref.: “Proceso de Verificación del 
+Servicio Complementario (SC) de Control Secundario de Frecuencia (CSF-AGC) e 
+Incorporación a la Herramienta del Despacho Económico (ED), de fecha 31 de julio de 2026. 
+Ingreso DE06553-26. 
+ 
+[2] Carta EGP096-26 de Enel Green Power Chile S.A., Ref.: “Proceso de Verificación del 
+Servicio Complementario (SC) de Control Secundario de Frecuencia (CSF-AGC) e 
+Incorporación a la Herramienta del Despacho Económico (ED)”, de fecha 31 de julio de 
+2026. Ingreso DE06555-26. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Instalaciones que deben realizar las pruebas punto a punto de señales AGC 
+ 
+N° 
+Coordinado 
+Central/Unidad 
+1 
+ENEL GREEN POWER CHILE S.A. 
+PE RENAICO I (U1-U44) 
+2 
+ENEL GREEN POWER CHILE S.A. 
+PE RENAICO II (U45-U76) 
+3 
+ENEL GREEN POWER CHILE S.A. 
+PE SIERRA GORDA ESTE (U1-U56) 
+4 
+ENEL GREEN POWER CHILE S.A. 
+PE TALTAL (U1-U33) 
+5 
+ENEL GREEN POWER CHILE S.A. 
+PFV FINIS TERRAE 
+6 
+ENEL GREEN POWER CHILE S.A. 
+PFV LALACKAMA 
+7 
+ENEL GENERACIÓN CHILE S.A. 
+PE CANELA II (U1-U40) 
+8 
+ENEL GREEN POWER CHILE S.A. 
+PE VALLE DE LOS VIENTOS (U1-U45) 
+9 
+ENEL GREEN POWER CHILE S.A. 
+PE LA CABAÑA 
+10 
+ENEL GREEN POWER CHILE S.A. 
+PFV AZABACHE 
+11 
+ENEL GREEN POWER CHILE S.A. 
+PFV CAMPOS DEL SOL 
+12 
+ENEL GREEN POWER CHILE S.A. 
+PFV GUANCHOI 
+13 
+ENEL GREEN POWER CHILE S.A. 
+PFV LAS SALINAS 
+14 
+ENEL GREEN POWER CHILE S.A. 
+PFV MANZANO 
+15 
+ENEL GREEN POWER CHILE S.A. 
+PFV SOL DE LILA 
+16 
+ENEL GREEN POWER CHILE S.A. 
+PFV VALLE DEL SOL 
+17 
+ENEL GENERACIÓN CHILE S.A. 
+HE PANGUE U1 y U2 (*) 
+(*) Debido a que en pruebas funcionales AGC del año 2024 las unidades no siguieron las consignas AGC, se 
+solicita repetir las pruebas punto a punto previo a realizar las pruebas funcionales AGC. 

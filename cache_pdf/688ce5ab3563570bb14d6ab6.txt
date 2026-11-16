@@ -1,0 +1,181 @@
+ 
+Santiago, 01 de agosto de 2025. 
+  ACC.ECH.089.25 
+Señor: 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe Desempeño Servicios Complementarios – junio 2025. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 2 correspondiente al 
+mes de junio 2025, que fue publicado en su página web y cuya publicación fue comunicada a través 
+de la carta DE 04487-25 de fecha 24 de julio de 2025. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+Felipe Escobar Tapia 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC JUNIO 2025 V2 
+ 
+Planta: PFV Malgarida 
+Timestamp 
+Planta 
+Consigna Planta 
+[MVAr] 
+Registro RIO 
+[MVAr] 
+Hora INICIO registro 
+RIO 
+Comentario 
+03-06-2025 
+9:15:44 
+-60 
+-60 
+03-06-2025 9:14 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos, tal como se observa en 
+las imágenes n°1 a n°9 y tablas n°1 a n°9. 
+Se solicita revisar el documento “2025.06_Respuesta_CT”de la V2, específicamente los datos contenidos 
+en la hoja “DB_CT_Manual” ya que aparentemente existe un error en el registro mostrado en las 
+columnas “P” y “T” correspondientes a las evaluaciones “t10Q” y “t15Q” respectivamente, debido a que 
+todos estos registros, referentes a la central PFV Malgarida, tienen valor de -30 para todas las 
+instrucciones en cuestión; y en consecuencia entendemos que esto estaría impactando en la evaluación 
+del Factor de Desempeño, calificando todos los registros como “NC” cuando se puede apreciar en las 
+imágenes n°1 a n°9 y tablas n°1 a n°9, que la central estableció los movimientos de consigna de reactivos 
+entre 1 y 5 minutos a la consigna final requerida. Lo que dista de lo evaluado en la BBDD utilizada. 
+05-06-2025 
+15:52:16 
+-60 
+-60 
+05-06-2025 15:47 
+06-06-2025 
+13:19:10 
+-60 
+-60 
+06-06-2025 13:18 
+09-06-2025 
+23:38:00 
+-60 
+-60 
+09-06-2025 23:35 
+11-06-2025 
+0:24:40 
+-60 
+-60 
+11-06-2025 0:23 
+15-06-2025 
+22:50:04 
+-60 
+-60 
+15-06-2025 22:49 
+16-06-2025 
+11:19:05 
+-60 
+-60 
+16-06-2025 11:18 
+21-06-2025 
+9:02:08 
+-60 
+-60 
+21-06-2025 9:01 
+30-06-2025 
+9:34:15 
+-60 
+-60 
+30-06-2025 09:33 
+
+ 
+Tabla 1: Instrucción con data 03-06-25 09:14. 
+ 
+ 
+ 
+Imagen 1: Instrucción con data 03-06-25 09:14. 
+ 
+ 
+Tabla 2: Instrucción con data 05-06-25 15:47. 
+ 
+ 
+Imagen 2: Instrucción con data 05-06-25 15:47. 
+ 
+
+ 
+Tabla 3: Instrucción con data 06-06-25 13:18. 
+ 
+Imagen 3: Instrucción con data 06-06-25 13:18. 
+ 
+ 
+ 
+Tabla 4: Instrucción con data 09-06-25 23:35. 
+ 
+ 
+Imagen 4: Instrucción con data 09-06-25 23:35. 
+ 
+
+ 
+Tabla 5: Instrucción con data 11-06-25 00:23. 
+ 
+ 
+ 
+Imagen 5: Instrucción con data 11-06-25 00:23. 
+ 
+ 
+Tabla 6: Instrucción con data 15-06-25 22:49. 
+ 
+ 
+Imagen 6: Instrucción con data 15-06-25 22:49. 
+ 
+
+  
+Tabla 7: Instrucción con data 16-06-25 11:18. 
+  
+Imagen 7: Instrucción con data 16-06-25 11:18. 
+. 
+ 
+Tabla 8: Instrucción con data 21-06-25 09:01. 
+ 
+ 
+ Imagen 8: Instrucción con data 21-06-25 09:01. 
+ 
+
+ 
+ 
+ 
+. 
+ 
+Tabla 9: Instrucción con data 30-06-25 09:33. 
+  
+Imagen 9: Instrucción con data 30-06-25 09:33. 
+
+Planta: PFV El Romero 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO 
+Comentario 
+- 
+- 
+-60 
+29-06-2025 
+17:52:00 
+Se observa a la V2 del Informe del Factor de Desempeño lo siguiente: Se califica como NC, pero se corrobora 
+mediante grabación de Hotline, que despachador instruye mantener prestando el servicio, por lo que el 
+registro de RIO no corresponde a una nueva instrucción, sino a la instrucción de continuidad del servicio 
+debido a fin del recurso primario. A pesar de lo anterior, el registro se mantiene y se evalúa como “NC” 
+impactando en el FD de la central. 
+ 
+ 

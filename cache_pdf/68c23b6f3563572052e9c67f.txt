@@ -1,0 +1,455 @@
+ 
+ 
+ Santiago, 10 de septiembre de 2025  
+DE 05685-25 
+Sres.  
+Encargados  
+Empresas Coordinadas  
+Presente  
+Ref.: Actividades y talleres para empresas 
+coordinadas e industria eléctrica  
+De mi consideración:  
+En el marco de nuestro compromiso de colaboración con la industria eléctrica, así como 
+con la transparencia y la mejora continua, mediante la presente los invitamos a participar 
+en una serie de actividades y talleres técnicos online que realizaremos para profundizar en 
+distintos aspectos asociados al desempeño del Sistema Eléctrico Nacional. 
+De este modo, el equipo del Coordinador Eléctrico Nacional ha preparado una serie de 
+presentaciones temáticas, con el objetivo de abordar aspectos específicos de procesos 
+relevantes para el sistema. 
+Finalmente, invitamos a que los profesionales que estén interesados en algunos de estos 
+temas puedan inscribirse para participar de las presentaciones correspondientes, en base 
+al listado adjunto a esta comunicación. 
+Sin otro particular y esperando que estos talleres sean de utilidad para ustedes, les saluda 
+atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ernesto Huber J. 
+ 
+ 
+ 
+ 
+Director Ejecutivo 
+ 
+ 
+ 
+           Coordinador Eléctrico Nacional 
+ 
+APB/agc 
+Incl.: Lo indicado 
+c.c.: Archivo DE. 
+ 
+ 
+ 
+ 
+
+ 
+AGENDA DE TALLERES 
+ 
+Proyecto de entrega de Informe Operación Mensual de PMGD y 
+PMG mediante plataforma omnicanal 
+Fecha 
+Jueves 11 de septiembre 
+Hora 
+10:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional te invita a participar en este taller 
+que tiene el objetivo presentar una nueva herramienta desarrollada en 
+la plataforma Omnicanal, que permitirá a los Coordinados cumplir con 
+las exigencias actuales del reglamento DS88 respecto a la entrega 
+mensual del Informe de Operación Mensual para las plantas tipo 
+PMGD y PMG, de manera eficiente y segura.  
+Bienvenida 
+Juan Pablo Ávalos 
+Expone 
+Barbara Acevedo y Brígida Fernandez 
+Público Objetivo 
+Empresas PMG y PMGD 
+LINK INSCRIPCIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Modelación de Sistemas de Almacenamiento en la programación 
+de corto y mediano plazo 
+Fecha 
+Lunes 22 de septiembre 
+Hora 
+15:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional te invita a participar en este taller 
+donde se presentarán las principales características de la modelación 
+de los sistemas de almacenamiento en la Programación de Corto 
+Plazo y en la de Mediano Plazo. Se abordarán temas como: 
+- 
+Tipos de Sistemas de Almacenamiento considerados en la 
+modelación, 
+- 
+Modelación de Sistemas de Almacenamiento en la PMP 
+(modelación en el software PLP),  
+- 
+Modelación de Sistemas de Almacenamiento en la PCP 
+(modelación en el software plexos),  
+- 
+Ejemplos de operación programada de los sistemas de 
+almacenamiento en la PCP, considerando prestación de SSCC 
+Bienvenida 
+Juan Pablo Ávalos 
+Expone 
+Nicolás Valencia y Benjamin Rivera 
+Público Objetivo 
+Empresas generadoras 
+LINK INSCRIPCIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Monitoreo del Sistema Eléctrico Nacional 
+Fecha 
+Lunes 29 de septiembre 
+Hora 
+15:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional te invita a participar en el taller 
+sobre Sistemas de Monitoreo del Sistema Eléctrico Nacional (SEN), 
+donde se presentarán las características de los sistemas que deben 
+implementar las empresas coordinadas en cumplimiento con la 
+norma técnica vigente, las especificaciones de equipos y 
+comunicaciones, estandarización de registros oscilográficos, nombres 
+de archivos y carpetas, procedimientos de integración, pruebas de 
+puesta en servicio y personas de contacto del Coordinador, entre otros 
+aspectos operativos. 
+Bienvenida 
+Gretchen Zbinden 
+Expone 
+Jorge Vargas y Joaquín Mesías 
+Público Objetivo 
+Empresas generadoras y PMGD 
+LINK INSCRIPCIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Nuevos avances del Sistema de Costos Variables e Información de 
+Combustibles 
+Fecha 
+Jueves 2 de octubre 
+Hora 
+10:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional te invita a este taller, donde se 
+presentarán los principales resultados de la encuesta de satisfacción 
+del Sistema de Costos Variables e Información de Combustibles 
+(SCVIC) realizado durante el mes de agosto 2025 a coordinados.  
+También se darán a conocer las mejoras implementadas 
+recientemente en el marco de la mejora continua de la plataforma, 
+junto con ejemplos prácticos de su uso. 
+Bienvenida 
+Juan Pablo Ávalos 
+Expone 
+Andrea Palomera y Esteban Utreras 
+Público Objetivo 
+Empresas generadoras 
+LINK INSCRIPCIÓN 
+ 
+Revisión de ingeniería en etapa de Acceso Abierto y Conexiones 
+Fecha 
+Lunes 6 de octubre 
+Hora 
+15:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional tiene el agrado de invitarle a 
+participar en el taller en el cual se abordará el proceso de revisión de 
+ingeniería en las etapas de acceso abierto y de conexión, 
+considerando los requerimientos normativos establecidos en la 
+Norma Técnica de Seguridad y Calidad de Servicio, junto con sus 
+respectivos Anexos Técnicos. 
+Bienvenida 
+Carla Hernández 
+Expone 
+Jorge Latife Anich 
+Público Objetivo 
+Coordinados, Desarrolladores y Consultores de Ingeniería 
+LINK INSCRIPCIÓN 
+ 
+
+ 
+Aspectos claves de las guías de verificación de Control de Tensión y 
+Control de Frecuencia 
+Fecha 
+Jueves 9 de octubre 
+Hora 
+10:00 
+Descripción 
+El Coordinador Eléctrico Nacional te invita a una presentación en la 
+cual se expondrán los principales aspectos de las guías de control de 
+frecuencia y control de tensión, actualizadas en julio de 2025.  
+En este taller se revisarán las observaciones recurrentes que se 
+levantan en las revisiones de protocolos e informes de Servicios 
+Complementarios (SSCC) y se detallarán los principales cambios 
+aplicados a las guías en la última actualización. 
+Bienvenida 
+Gretchen Zbinden 
+Expone 
+Cristian Reyes y David Ibaceta 
+Público Objetivo 
+Empresas generadoras y desarrolladores de proyectos 
+LINK INSCRIPCIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Procesos de Acceso Abierto: análisis de viabilidad y capacidad 
+técnica disponible 
+Fecha 
+Lunes 13 de octubre 
+Hora 
+15:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional te invita a participar del siguiente 
+Taller que abordará temáticas asociadas a la aplicación del régimen de 
+acceso Abierto:  
+- Criterios para el análisis de la admisibilidad y viabilidad técnica de 
+soluciones de conexión.  
+- Metodología de Cálculo de Capacidad Técnica Disponible (CTD) y 
+Resultados del Estudio de Capacidad Técnica Disponible (ECTD) en su 
+versión 2025 
+Bienvenida 
+Carla Hernández 
+Expone 
+Gilda Almuna y Benjamín Alcarruz 
+Público Objetivo 
+Coordinados, Desarrolladores y Consultores 
+LINK INSCRIPCIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Recomendaciones para la modelación avanzada de instalaciones 
+del Sistema Eléctrico Nacional en EMT 
+Fecha 
+Lunes 20 de octubre 
+Hora 
+15:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional te invita a este taller donde se 
+entregarán recomendaciones para la modelación de instalaciones en 
+EMT exigidas en el procedimiento de modelación y homologación de 
+instalaciones del Sistema Eléctrico Nacional. El objetivo es mostrar 
+las mejores prácticas para la modelación que permitan optimizar y 
+acelerar la modelación en EMTP, tanto del modelo estándar como del 
+modelo del fabricante (OEM). El foco estará en la modelación 
+estandarizada con DLL, según las más recientes recomendaciones de 
+CIGRE/IEEE. 
+Bienvenida 
+Víctor Velar 
+Expone 
+Simón Veloso 
+Público Objetivo 
+Empresas generadoras ERV e instalaciones FACTs de tamaño mayor o 
+igual a 20 MVA 
+LINK INSCRIPCIÓN 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Avances en la trazabilidad de la Programación de la Operación 
+Fecha 
+Lunes 27 de octubre 
+Hora 
+15:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional te invita a participar en este taller 
+donde se revisará el nuevo Informe Mensual de la Programación y la 
+nueva plataforma para visualizar los resultados de todas las etapas de 
+la Programación. 
+Bienvenida 
+Juan Pablo Ávalos 
+Expone 
+Mauricio Neut y Felipe Bastidas 
+Público Objetivo 
+Empresas generadoras 
+LINK INSCRIPCIÓN 
+ 
+Diagnóstico del Uso Esperado del  
+Sistema de Transmisión Nacional y Zonal 
+Fecha 
+Jueves 30 de octubre 
+Hora 
+10:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional te invita a participar en la 
+presentación de este informe que muestra el uso que se espera para el 
+sistema de transmisión, con un horizonte de 20 años. 
+Bienvenida 
+Deninson Fuentes 
+Expone 
+Roger Mellado 
+Público Objetivo 
+Empresas coordinadas 
+LINK INSCRIPCIÓN 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Proceso de conexión de Proyectos de Consumo y de Transmisión al 
+Sistema Eléctrico Nacional 
+Fecha 
+Lunes 3 de noviembre 
+Hora 
+15:00 
+Descripción 
+El Coordinador Eléctrico Nacional tiene el agrado de invitarle a 
+participar en el taller en el cual se abordará el proceso de conexión de 
+Proyectos de consumo y de transmisión considerando los 
+requerimientos normativos establecidos en la regulación vigente. 
+Este taller está enfocado en la etapa de admisibilidad, cumplimiento 
+de requisitos para puesta en servicio y aborda aspectos necesarios 
+para la entrada en operación de proyectos de consumo y de 
+transmisión. 
+Bienvenida 
+Carla Hernández 
+Expone 
+Javier Verdugo 
+Público Objetivo 
+Coordinados, Desarrolladores y Consultores relacionados con 
+proyectos de consumo e instalaciones de transmisión. 
+LINK INSCRIPCIÓN 
+ 
+Actualización guía técnica para la presentación y desarrollo de 
+obras urgentes en el sistema de transmisión 
+Fecha 
+Jueves 6 de noviembre 
+Hora 
+10:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional te invita a participar en la 
+presentación de la guía técnica para la presentación y desarrollo de 
+obras urgentes para el sistema de transmisión, de acuerdo al Artículo 
+102° de la Ley General de Servicios Eléctricos. 
+Bienvenida 
+Deninson Fuentes 
+Expone 
+Roger Mellado 
+Público Objetivo 
+Empresas coordinadas 
+LINK INSCRIPCIÓN  
+ 
+
+ 
+Proceso de conexión de Pequeños Medios de Generación 
+Distribuida al Sistema Eléctrico Nacional 
+Fecha 
+Lunes 10 de noviembre 
+Hora 
+15:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional tiene el agrado de invitarle a 
+participar en el taller en el cual se abordará el proceso de conexión, de 
+Pequeños Medios de Generación Distribuida (PMGD) considerando los 
+requerimientos normativos establecidos en la regulación vigente. 
+Este taller está enfocado en la etapa de admisibilidad, cumplimiento 
+de requisitos para puesta en servicio y aborda aspectos necesarios 
+para la entrada en operación. 
+Bienvenida 
+Carla Hernández 
+Expone 
+Pablo Alarcón 
+Público Objetivo 
+Coordinados, Desarrolladores y Consultores relacionados con 
+Pequeños Medios de Generación Distribuida 
+LINK INSCRIPCIÓN 
+ 
+Presentación de la plataforma de previsión de demanda del 
+Sistema Eléctrico Nacional 
+Fecha 
+Lunes 17 de noviembre 
+Hora 
+15:00 horas 
+Descripción 
+El Coordinador Eléctrico Nacional tiene el agrado de invitarle a 
+participar en la presentación de una plataforma tecnológica para que 
+los agentes del mercado puedan informar sus previsiones de 
+demanda, la que permitirá una serie de funciones adicionales como 
+revisión de datos históricos, visualización de datos, entre otros. 
+Bienvenida 
+Deninson Fuentes 
+Expone 
+Patricio Lagos 
+Público Objetivo 
+Empresas coordinadas 
+LINK INSCRIPCIÓN  
+ 

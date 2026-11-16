@@ -1,0 +1,196 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Santiago, 15 de julio de 2025 
+DE 04229-25 
+ 
+ 
+Señores 
+Encargados 
+Según Lista de Distribución 
+Presente 
+ 
+Ref.:  Instruye habilitar protección de 
+sobrefrecuencia en unidades ERV para 
+incorporarse al EDAG Transitorio Fase 0. 
+[1] Carta DE 03967-25 de fecha 30 de junio 
+de 2025, publicación del Informe de Servicios 
+Complementarios 2026, versión definitiva 
+junio 2025. 
+De mi consideración: 
+Me refiero a la carta de la Ref. [1], mediante la cual comunicamos la publicación del Informe de 
+Servicios Complementarios 2026 (ISSCC 2026), versión definitiva de junio 2025 y, particularmente, 
+al Esquema transitorio EDAG ZN fase 0 actualizado, especificado en la Tabla 7-9 de la sección 
+7.3.2.1 literal a). Al respecto, solicito a ustedes proceder con la implementación del 
+correspondiente ajuste en las protecciones de sobrefrecuencia que disponga en cada parque 
+generador, según el escalón asignado que se indica en el ISSCC 2026 y que se adjuntan en el 
+Anexo a esta carta, a más tardar el 15 de agosto de 2025. 
+Para efectos de proceder con lo anterior, agradeceré enviar al correo dmap@coordinador.cl, a más 
+tardar el día 23 de julio de 2025, un plan de trabajo indicando las actividades que llevará a cabo 
+para implementar los ajustes instruidos. 
+Finalmente, en caso de que requiera efectuar consultas o aclarar dudas respecto de lo solicitado, 
+agradeceremos tomar contacto al correo mencionado.  
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GO/SGASO/DMAP/DEE/DCO 
+c.c.: 
+Sres. Encargados Suplentes, según lista de Distribución 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+Lista de Distribución 
+ 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+AES ANDES S.A. 
+ANDES SOLAR II SPA 
+ARCADIA GENERACIÓN SOLAR S.A. 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+COLBÚN S.A. 
+CÓNDOR ENERGÍA SPA 
+CONEJO SOLAR SPA 
+ENEL GREEN POWER CHILE S.A. 
+ENGIE ENERGÍA CHILE S.A. 
+FOTOVOLTAICA NORTE GRANDE 5 SPA 
+GENERACIÓN SOLAR SPA 
+HUEMUL ENERGÍA SPA 
+IBEREÓLICA CABO LEONES II S.A. 
+INVERSIONES FOTOVOLTAICAS SPA 
+NUEVA ATACAMA SOLAR SA 
+OPDENERGY GENERACIÓN SPA 
+PARQUE FOTOVOLTAICO NUEVO QUILLAGUA SPA 
+PARQUE SOLAR FOTOVOLTAICO SOL DEL DESIERTO SPA 
+PLANTA SOLAR SAN PEDRO III SPA 
+TSGF SPA 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ANEXO 
+Lista de actualización de ajustes de unidades generadoras ERV EDAG ZN Fase 0 
+ 
+ 
+Coordinado 
+Central 
+Escalón 
+Ajuste 
+PLANTA SOLAR SAN PEDRO III SPA 
+PFV JAMA 
+III 
+51,5 [Hz] 
+GENERACIÓN SOLAR SPA 
+PFV MARIA ELENA 
+FOTOVOLTAICA NORTE GRANDE 5 SPA 
+PFV URIBE SOLAR 
+ENEL GREEN POWER CHILE S.A. 
+PFV LALACKAMA I  
+PFV LALACKAMA II  
+PE TALTAL  
+PFV AZABACHE  
+AES ANDES S.A. 
+PFV ANDES SOLAR 
+ANDES SOLAR II SPA 
+PFV ANDES SOLAR II-A  
+CÓNDOR ENERGÍA SPA 
+PE CERRO TIGRE 
+PE TCHAMMA 
+HUEMUL ENERGÍA SPA 
+PE LLANOS DEL VIENTO 
+FOTOVOLTAICA NORTE GRANDE 5 SPA 
+PFV LA CRUZ SOLAR  
+AUSTRIANSOLAR CHILE CUATRO SPA 
+PFV HUATACONDO 
+IV 
+51,6 [Hz] 
+ACCIONA ENERGÍA CHILE HOLDINGS 
+S.A. 
+PFV USYA  
+PARQUE FOTOVOLTAICO NUEVO 
+QUILLAGUA SPA 
+PFV NUEVO QUILLAGUA 
+ENGIE ENERGÍA CHILE S.A. 
+PFV COYA  
+PFV TAMAYA SOLAR 
+ANDES SOLAR II SPA 
+PFV ANDES SOLAR II-B  
+INVERSIONES FOTOVOLTAICAS SPA 
+PFV WILLKA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Coordinado 
+Central 
+Escalón 
+Ajuste 
+HUEMUL ENERGÍA SPA 
+PFV PAMPA TIGRE 
+V 
+51,8 [Hz] 
+IBEREÓLICA CABO LEONES II S.A. 
+PFV SAN PEDRO  
+TSGF SPA 
+PFV SANTA ISABEL 
+ENEL GREEN POWER CHILE S.A. 
+PFV LAS SALINAS 
+PFV VALLE DEL SOL  
+ARCADIA GENERACIÓN SOLAR S.A. 
+PFV DIEGO DE ALMAGRO 
+VI 
+51 [Hz] - 0.9 [Hz/s] 
+PFV PAMPA SOLAR NORTE  
+OPDENERGY GENERACIÓN SPA 
+PFV SOL DE LOS ANDES  
+CONEJO SOLAR SPA 
+PFV CONEJO SOLAR  
+COLBÚN S.A. 
+PFV DIEGO DE ALMAGRO SUR  
+ACCIONA ENERGÍA CHILE HOLDINGS 
+S.A. 
+PFV MALGARIDA  
+ENEL GREEN POWER CHILE S.A. 
+PFV GUANCHOI  
+ARCADIA GENERACIÓN SOLAR S.A. 
+PFV DOMEYKO  
+VII 
+51 [Hz] - 1.2 [Hz/s] 
+NUEVA ATACAMA SOLAR SA 
+PFV ATACAMA SOLAR II 
+PARQUE SOLAR FOTOVOLTAICO SOL 
+DEL DESIERTO SPA 
+PFV SOL DEL DESIERTO 
+ENEL GREEN POWER CHILE S.A. 
+PFV SOL DEL LILA  
+ 

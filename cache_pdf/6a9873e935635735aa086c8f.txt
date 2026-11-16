@@ -1,0 +1,66 @@
+ 
+ 
+ENEL GREEN POWER CHILE S.S. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Santiago, 01 de septiembre de 2026 
+EGP 115-26 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+REITERA 
+SOLICITUD 
+DE 
+PRONUNCIAMIENTO 
+SOBRE 
+DESHABILITACIÓN Y DESMANTELAMIENTO DE ESQUEMA EDAG 
+ZONA DE CALAMA. 
+ 
+De mi consideración, 
+En relación con nuestra comunicación EGP 044-26, de fecha 15 de abril de 2026, mediante 
+la cual informamos la intención de deshabilitar y posteriormente desmantelar el Esquema 
+de Desconexión Automática de Generación (EDAG) de la Zona Calama, nos permitimos 
+reiterar la solicitud de pronunciamiento por parte de ese Coordinador. 
+Tal como fue expuesto en la referida comunicación, la modificación de la topología de la 
+zona producto de la puesta en servicio del segundo circuito de la línea 2x220 kV Nueva 
+Chuquicamata – Calama ha generado un aumento en la capacidad de transferencia, lo que 
+hace que dicho esquema deje de ser requerido para los fines originalmente definidos.  
+A la fecha, no se ha recibido respuesta por parte de ese Coordinador respecto de lo 
+informado, motivo por el cual solicitamos formalmente se emita un pronunciamiento a la 
+brevedad, con el objeto de poder planificar adecuadamente las acciones asociadas a la 
+deshabilitación y posterior desmantelamiento del esquema. 
+Asimismo, considerando que la deshabilitación y posterior desmantelamiento del Esquema 
+de Desconexión Automática de Generación (EDAG) de la Zona Calama implica el cese 
+definitivo de su operación y de las funciones para las cuales fue implementado, solicitamos 
+que, en concordancia con el pronunciamiento requerido respecto de la baja del esquema, 
+se autorice también la eliminación de las señales y mediciones actualmente integradas al 
+Sistema de Información en Tiempo Real (SITR) asociadas exclusivamente a dicho EDAG. 
+Esta solicitud se fundamenta en que tales datos dejarían de cumplir un propósito operativo 
+una vez que el esquema sea retirado de servicio, evitando además mantener información y 
+puntos de supervisión correspondientes a una instalación que ya no se encontrará vigente 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.S. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+Sin otro particular y esperando una favorable acogida de esta comunicación, atentamente 
+se despide, 
+ 
+ 
+ 
+ 
+ 
+_________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN. 
+ ENEL GREEN POWER CHILE S.A. 
+ 
+ 

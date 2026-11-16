@@ -1,0 +1,40 @@
+1
+CORREELATIVO DE00200-25       RESPONDE A DE06427-24
+De:
+Luis Lizana Quintanilla
+Enviado el:
+viernes, 10 de enero de 2025 11:14
+Para:
+vagutierrezg@cgedistribucion.cl
+CC:
+cmetayer@cge.cl; Marcelo Quezada Soto; Yesenia Canales Lopez; DAOP
+Asunto:
+Plan de Acción por EAF 411/2024 - Apertura intempestiva del interruptor 52CT de 
+S/E San Pedro (CGE) - RESPONDE A DE06427-24
+Datos adjuntos:
+DE06427-24.pdf; CGET01790-24_ANEXO1.pdf
+Señor 
+Víctor GuƟérrez G. 
+Encargado Titular 
+CGE Transmisión S.A. 
+Junto con saludar, con respecto a la apertura intempesƟva del interruptor 52CT de S/E San Pedro (CGE), ocurrida el 
+día 05 de agosto del 2024 a parƟr de las 00:13, y en base a lo manifestado en su carta N°01790-2024 del 06 de 
+noviembre del 2024 (adjunta), con la ﬁnalidad de dar cumplimiento a lo establecido en el Título 6-7 y, en parƟcular, 
+en el Arơculo 6-44 de la Norma Técnica de Seguridad y Calidad de Servicio, se solicita remiƟr a más tardar a las 
+18:00 del día 17 de enero del 2025, la siguiente información: 
+
+Conﬁrmación de ejecución exitosa o estado de avance de la habilitación de las señales de protección en
+registros oscilográﬁcos del relé Ingeteam EF-TD asociado al paño CT2 de S/E San Pedro (CGE), de modo que
+se visualicen las acƟvaciones y operaciones de todas las funciones de protección habilitadas dicho relé, para
+lo cual, se compromeƟó el siguiente cronograma de trabajo:
+Agradeciendo de antemano su respuesta, la que deberá ser cargada en el Sistema de Correspondencia del 
+Coordinador (cuyo número de correlaƟvo de carta será noƟﬁcado a través de dicho sistema), con el ﬁn de disponer 
+de los antecedentes necesarios para proceder con el cierre del Plan de Acción en la plataforma que posee la SEC 
+para tales efectos. 
+Sin otro parƟcular, saluda atentamente a Ud., 
+Luis Lizana Quintanilla 
+Ingeniero de Análisis de la Operación
+Gerencia Operación 
+Santiago de Chile 
+Tel: +56 2 24246300 
+www.coordinador.cl 

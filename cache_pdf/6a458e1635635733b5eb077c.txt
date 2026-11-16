@@ -1,0 +1,57 @@
+ 
+ 
+ 
+ Santiago, 01 de julio de 2026 
+OP 092-26 
+Señor  
+Rodrigo Espinoza V.  
+Gerente de Operación   
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+MATERIA:  
+SOLICITUD DE CAMBIO DEL LÍMITE DE REGULACIÓN INFERIOR ASIGNADAS 
+PARA EL CSF EN LA CENTRAL TERMOELÉCTRICA SAN ISIDRO II 
+ 
+De nuestra consideración, 
+ 
+En relación con la materia, por este medio solicitamos los siguientes cambios establecidos 
+el 10 de agosto de 2018, por los “PROTOCOLOS DE SINTONIZACIÓN PARA EL AGC DEL CC 
+SAN ISIDRO II”, de acuerdo con el siguiente detalle: 
+ 
+San isidro II 
+ 
+1.- Rampa de subida de carga a 2 MW/min. Dentro del rango 145 MW y 204 MW 
+2.- Rampa de bajada de carga a 2 MW/min. Dentro del rango 224 MW y 145 MW 
+Solicitamos formalmente para un desempeño correcto de CSF, es necesario modificar el 
+límite de regulación inferior y ajustarlo del actual 170 MW a 224 MW, para la operación en 
+Ciclo Combinado con gas natural, es decir el arreglo “SANISIDRO-2_TG1+TV1_GNL”. 
+ 
+En anexo 1, se adjunta informe técnico relacionado a la lógica de control por diseño del 
+fabricante Mitsubishi, con sus respectivos respaldos. 
+ 
+Por último, informamos que esta condición ya fue informada al fabricante MHI, y se solicitó 
+una resolución al respecto, para reducir el límite mínimo de potencia de la unidad San isidro 
+2, y así dar cumpliendo con el desempeño informado de acuerdo con procedimiento 
+establecido en la NTSyCS para la prestación de los SSCC de CSF.   
+ 
+ 
+ 
+
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________ 
+Miguel Buzunáriz R. 
+ENCARGADO CEN 
+Enel Generación Chile S.A. 
+ 
+Cc: Sr. Cristian Reyes 
+Cc: dmap@coordinador.cl 

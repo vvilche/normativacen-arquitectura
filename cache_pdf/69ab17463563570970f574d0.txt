@@ -1,0 +1,115 @@
+ 
+ 
+   
+ 
+ 
+Acciona Energía. Isidora Goyenechea 2800, Of. 3201. Edificio Titanium La Portada, Las Condes. Santiago, Chile. 
+ 
+Santiago, 05 de marzo de 2026. 
+ACC.ECH.042.26 
+ 
+Señor: 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+De nuestra consideración: 
+ 
+En relación con la materia de la referencia, y en atención a la carta DE01003-26 del Coordinador Eléctrico Nacional 
+(en adelante, “Coordinador”) mediante la cual se comunica el atraso en el proceso de verificación de las instalaciones 
+de generación para la prestación de Servicios Complementarios (en adelante, “SSCC”) de acuerdo con el cronograma 
+actual vigente. En la lista de distribución se incluyen dos centrales de Acciona Energía Chile Holdings S.A. (en adelante, 
+“Acciona”) con el siguiente detalle: 
+ 
+i. 
+PFV El Romero, con el proceso de verificación del servicio complementario de Control Primario de 
+Frecuencia (en adelante, “CPF”) pendiente de finalización. 
+ii. 
+PE San Gabriel, con el proceso de verificación del servicio complementario de Control de Tensión pendiente 
+de finalización. 
+ 
+Con el propósito de contextualizar el estado del proceso de verificación de la PFV El Romero, se informa que los 
+ensayos de verificación del servicio complementario de CPF en esta instalación fueron llevados a cabo durante el año 
+2025, lo que permitió la posterior entrega del correspondiente Informe Técnico al Coordinador. A partir de ello, el 
+Coordinador emitió observaciones mediante la comunicación del ANT.1., las cuales fueron atendidas parcialmente por 
+Acciona a través de la comunicación del ANT.2, dejando acciones pendientes y comprometido su ejecución mediante 
+el cronograma adjunto a dicha comunicación. 
+ 
+Los pendientes de respuesta de las observaciones incluían (1) ajustar la configuración del controlador de 
+frecuencia/potencia para que la respuesta del CPF no pase por la rampa de toma y bajada de carga de la central y (2) 
+responder con un tiempo de establecimiento menor a 10 segundos. Ambos requerimientos fueron abordados por mi 
+representada mediante la carta ACC.ECH.041.26, que incorpora un Informe Técnico con el cambio de lógica 
+desarrollado, el cual actualmente se encuentra en etapa de revisión por parte del Coordinador. 
+ 
+En síntesis, respecto del PFV El Romero, Acciona ha abordado la totalidad de los requerimientos asociados al proceso 
+de verificación del servicio complementario de CPF, quedando únicamente pendiente la respuesta del Coordinador y 
+las eventuales iteraciones derivadas de dicha revisión. 
+ 
+ 
+ 
+ANT. 
+: 
+[1] Carta DE05358-25 del Coordinador Eléctrico 
+Nacional para Acciona Energía Chile Holdings S. 
+A. 
+[2]Carta ACC.ECH.111.25 del 24 de septiembre de 
+2025 de Acciona Energía Chile Holdings S.A para 
+el Coordinador Eléctrico Nacional. 
+ 
+ 
+ 
+ 
+ 
+REF.  
+: 
+Responde a carta DE01003-26 del Coordinador 
+Eléctrico Nacional. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acciona Energía. Isidora Goyenechea 2800, Of. 3201. Edificio Titanium La Portada, Las Condes. Santiago, Chile. 
+ 
+ 
+En lo relativo al proceso de verificación del servicio complementario de Control de Tensión del PE San Gabriel, éste 
+se encuentra pendiente de la ejecución final de los ensayos de verificación. Cabe destacar que, durante el mes de 
+diciembre de 2025 se llevaron a cabo las actividades programadas, logrando verificar la respuesta dinámica del parque 
+en control de reactivos y tensión, así como los límites de inyección de potencia reactiva establecidos en la guía de 
+verificación del servicio complementario de control de tensión y en el protocolo de ensayos elaborado por el Experto 
+Técnico y validado por el Coordinador. Sin embargo, los resultados de estas pruebas fueron considerados no exitosos 
+debido a la disponibilidad de los aerogeneradores mínimos para realizar las pruebas debido a que una parte de estos se 
+encontraban fuera por actividades de mantenimiento e inspección, lo que impidió cumplir con el mínimo establecido 
+para inyectar/absorber reactivos. 
+ 
+A partir de la situación indicada y de los antecedentes presentados, considerando que las acciones pendientes tienen 
+relación únicamente con el proceso de verificación del servicio complementario de control de tensión del PE San 
+Gabriel, y en cumplimiento de lo solicitado en la carta DE01003-26, en anexo adjunto a la presente comunicación se 
+presenta un cronograma de trabajo, orientado a completar el proceso de verificación en el menor plazo posible 
+considerando la entrega del Informe Técnico elaborado por el Experto Técnico a cargo de las pruebas. 
+ 
+Adicionalmente, se complementa las respuestas presentadas adjuntando a la presente comunicación el anexo 
+“2025.02.18_Cronograma_Verificacion_SSCC_Generacion_2024-2028_filtrado_atraso3” 
+enviado 
+por 
+el 
+Coordinador, detallando lo requerido en la hoja “Respuestas de coordinados”. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Subgerente de CECOER 
+Acciona Energía Chile Holdings, S.A. 

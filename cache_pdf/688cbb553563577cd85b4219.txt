@@ -1,0 +1,137 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 1 de agosto de 2025 
+DE 04721-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Establecimiento 
+del 
+Consumo 
+Específico Neto de la unidad U16 de la 
+Central TER Tocopilla operando con GNL. 
+[1] 
+Carta 
+DE04045-25, 
+Ref.: 
+“Informes 
+Técnicos de Potencia Máxima y Consumo 
+Específico Neto de la Unidad TER Tocopilla 
+U16 con combustible GNL”, de fecha 3 de julio 
+de 2025. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 25 del Anexo Técnico “Determinación de 
+Consumos Específicos de Unidades Generadoras” de la Norma Técnica de Seguridad y 
+Calidad de Servicio, comunico a Ud. el establecimiento de los valores de Consumo 
+Específico Neto (CEN) de la unidad U16 de la central TER Tocopilla, operando con GNL, 
+en conformidad con el informe técnico de prueba publicado mediante comunicación de la 
+Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+técnico publicado mediante comunicación de Ref. [1]. Por su parte, el Coordinador tampoco 
+emitió observaciones de carácter técnico al informe publicado. 
+ 
+Considerando lo planteado, los valores de los parámetros de Consumo Específico Neto de 
+la unidad U16 de la Central TER Tocopilla, operando con GNL, se presentan en las tablas 
+contenidas en el anexo de la presente carta. 
+ 
+En cumplimiento del Artículo 25 del Anexo Técnico en mención, los valores de Consumo 
+Específico Neto ya mencionados entrarán en vigencia a partir de las 00:00 horas del 
+martes 4 de agosto de 2025. 
+ 
+El acta de prueba y el Informe Técnico de Prueba, que contienen la justificación de los 
+parámetros indicados anteriormente pueden ser descargados en la siguiente ruta del Sitio 
+Web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > 
+Consumo Específico Neto > Pruebas de Consumo Específico Neto > Central TER 
+Tocopilla > 2025 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+AHM/adr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Consumo Específico Neto Central TER Tocopilla U16 
+ 
+Tabla 1. Parámetros CEN Central TER Tocopilla U16 – Combustible Gas Natural – 
+Configuración Ciclo Abierto 
+Potencia Neta [MW] CEN [kcal/kWh] 
+48,866 
+5.120,78 
+83,422 
+3.844,37 
+119,450 
+3.251,70 
+155,293 
+2.946,82 
+190,410 
+2.752,31 
+228,391 
+2.598,14 
+256,104 
+2.533,39 
+ 
+ 
+Tabla 2. Parámetros CEN Central TER Tocopilla U16 – Combustible Gas Natural – 
+Configuración Ciclo Combinado 
+Potencia Neta [MW] CEN [kcal/kWh] 
+123,829 
+2.159,81 
+167,039 
+1.963,58 
+213,090 
+1.842,85 
+259,310 
+1.776,04 
+305,973 
+1.715,27 
+345,802 
+1.708,10 
+394,433 
+1.658,42 
+ 

@@ -1,0 +1,92 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 05 de noviembre de 2025 
+DE 07142-25 
+Señor 
+Brunsley Elliot 
+Encargado Titular 
+Consorcio Santa Marta S.A. 
+Presente 
+Ref.: Observaciones a Informes Técnicos de 
+Verificación de SSCC de central TER Santa Marta. 
+[1] 
+Carta 
+CSM-CN_1001 
+del 
+Coordinado 
+Consorcio Santa Marta S.A., Ref.: “Respuesta a 
+carta DE05007-25 - Proceso de Verificación de 
+SSCC central TER Santa”, de fecha 3 de octubre 
+de 2025. 
+Responde a carta Ingreso DE10251-25. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en el Anexo 
+Técnico “Verificación de Instalaciones para la prestación de SSCC” de la Norma Técnica 
+de Servicios Complementarios, adjunto a la presente se encuentra Anexo con las  
+observaciones a la comunicación de la Ref. [1], respecto  del proceso de Verificación de los 
+SSCC de Control Terciario de Frecuencia y Control de Tensión de Central TER Santa Marta, 
+recibida por el Coordinador Eléctrico Nacional mediante comunicación de la Ref. [1]. 
+ 
+De requerir realizar pruebas con el fin de recabar la información solicitada, deberá enviar al 
+correo electrónico indicado en la presente carta, un cronograma de ensayos previo a la 
+ejecución de estos. 
+ 
+Considerando lo indicado, solicito a usted enviar Informe Técnico con los antecedentes de 
+respaldo necesarios, que contengan al menos la información detallada en el Anexo de esta 
+comunicación, mediante carta y con copia al correo verificacion.sscc@coordinador.cl, a 
+más tardar el 19 de noviembre del 2025.  
+  
+Cualquier duda en relación con las observaciones adjuntas dirigirlas a la misma dirección 
+de correo electrónico indicada. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+CRV/EGV/adr 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Verificación de Central TER Santa María 
+ 
+Información que debe contener el informe técnico que justifique la imposibilidad de central 
+TER Santa Marta para prestar SSCC: 
+ 
+a) Entrega de memorándum técnico respaldatorio, comprometido en numeral 1 de la 
+carta de la Ref. [1]. 
+b) Planos As built de los sistemas de extracción de combustible y sistemas de 
+transporte hasta las unidades generadoras. 
+c) Manual de operación de las unidades generadoras y del manejo de combustible 
+desde los pozos de extracción. 
+d) Respecto de lo anterior, se solicita explicar la filosofía de operación y manejo de 
+combustible que impide su gestión (almacenamiento) y control de variaciones de 
+potencia de la unidad, o reserva de combustible. 
+e) Manual de los sistemas de control automático, que evidencia la lógica no disponible 
+para control de frecuencia de las unidades. 
+f) Planos y manual del sistema de control de tensión de la unidad, y filosofía de control 
+que impide controlar Tensión. (control de tensión, reactivos o factor de potencia). 
+g) Entrega de curva PQ de los generadores y factibilidad de ajustes en relación con lo 
+solicitado en literal f). 
+h) Cualquier antecedente del fabricante, del proyecto o del estado actual de las 
+instalaciones que respaldan las limitaciones para la prestación de SSCC de las 
+unidades de Central Santa Marta y que den sustento a las razones técnicas 
+presentadas en carta de la Ref. [1]. 
+ 
+Sin perjuicio de lo anterior, se solicita entregar estudio, o informar estimación de las 
+actividades requeridas, así como de las inversiones, y tiempo, para que la central pueda 
+prestar SSCC, conforme a las mejoras posibles de realizar a su tecnología y procesos de 
+extracción de Gas.  

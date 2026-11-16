@@ -1,0 +1,155 @@
+ 
+Santiago, 12 de marzo de 2025. 
+  ACC.ECH.035.25 
+Señor: 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe Desempeño Servicios Complementarios – febrero 2025. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de febrero 2025, que fue publicado en su página web y cuya publicación fue comunicada a 
+través de la carta DE 01408-25 de fecha 07 de marzo de 2025. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+Felipe Escobar Tapia 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC FEBRERO 2025 V1 
+Servicio Complementario – CT 
+Planta: PE San Gabriel 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO 
+Hora FIN registro 
+RIO 
+Comentario 
+23-02-2025 
+7:11:00 
+-18 
+-18 
+23-02-2025 7:11:00 
+- 
+Se confirma que la instrucción fue prestada de acuerdo con la solicitud y los registros 
+revisados, se mantuvo la consigna hasta el término de la instrucción y a pesar de esto se 
+califica como “NC”. Solicitamos revisar el cálculo. 
+Planta: PFV El Romero 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO 
+Hora FIN registro 
+RIO 
+Comentario 
+- 
+-60 
+-60 
+27-0-2025 00:00:00 
+- 
+El informe de desempeño califica la instrucción con NC por error de registro en RIO, ya que 
+este corresponde a la continuidad del servicio al día siguiente. 
+Servicio Complementario – CTF 
+Planta: PE San Gabriel 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MW] 
+Registro ∆P 
+RIO 
+Hora INICIO 
+registro RIO 
+Hora FIN registro 
+RIO 
+Comentario 
+- 
+- 
+-78 
+22-02-2025 19:27 
+22-02-2025 19:42 Registrado en RIO, pero luego de escuchar las llamadas, se confirma que la instrucción no fue 
+realizada, por lo tanto, se debería eliminar este registro. 
+22-02-2025 
+21:18 
+-81 
+- 
+- 
+- 
+CDC no registra en RIO la instrucción, luego de escuchar las llamadas se confirma la recepción 
+de la consigna a las 21:18 solicitando reducir 81 MW. Revisar y registrar. 
+ 
+ 
+ 
+
+Planta: PE Tolpán Sur 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MW] 
+Registro ∆P 
+RIO 
+Hora INICIO 
+registro RIO 
+Hora FIN registro 
+RIO 
+Comentario 
+15-02-2025 
+10:15 
+- 
++23,3 
+15-02-2025 10:15 
+15-02-2025 10:34 
+Solicitamos revisar esta instrucción, luego de escuchar las llamadas se determina que se 
+recibe la instrucción de aplicar CTF+ para evitar reducir la generación de la central y 
+desajustar la frecuencia sistémica. Por lo tanto, la comprobación automática no es capaz de 
+validar esta instrucción. 
+16-02-2025 
+9:00 
+- 
++84 
+20-01-2025 
+11:58:00 
+20-01-2025 
+12:27:00 
+Solicitamos revisar esta instrucción, luego de escuchar las llamadas se determina que se 
+recibe la instrucción de aplicar CTF+ para evitar reducir la generación de la central y 
+desajustar la frecuencia sistémica. Por lo tanto, la comprobación automática no es capaz de 
+validar esta instrucción. 
+18-02-2025 
+09:00 
+- 
++61.5 
+18-02-2025 9:00 
+18-02-2025 9:24 
+Solicitamos revisar esta instrucción, luego de escuchar las llamadas se determina que se 
+recibe la instrucción de aplicar CTF+ para evitar reducir la generación de la central y 
+desajustar la frecuencia sistémica. Por lo tanto, la comprobación automática no es capaz de 
+validar esta instrucción. 
+- 
+- 
+-30 
+22-02-2025 19:27 
+22-02-2025 19:42 Registrado en RIO, pero luego de escuchar las llamadas, se confirma que la instrucción no fue 
+realizada, por lo tanto, se debería eliminar este registro. 
+22-02-2025 
+21:18 
+-21 
+- 
+- 
+- 
+CDC no registra en RIO la instrucción, luego de escuchar las llamadas se confirma la recepción 
+de la consigna a las 21:18 solicitando reducir 21 MW. Revisar y registrar. 
+ 

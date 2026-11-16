@@ -1,0 +1,106 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 11 de diciembre de 2025 
+DE 07892-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación del Parámetro de Potencia 
+Máxima de la Central PFV CEME 1. 
+ 
+ 
+De mi consideración: 
+ 
+En Cumplimiento con lo establecido en los Artículos 24 y 39 del Anexo Técnico “Pruebas 
+de Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y 
+Calidad de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico 
+Nacional del valor de Potencia Máxima de la Central PFV CEME 1, en conformidad con el 
+Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en Aplicación, no se recibieron observaciones de Coordinado alguno al Informe 
+Técnico publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador efectuó observaciones de carácter técnico mediante la 
+comunicación de la Ref. [3], las cuales fueron subsanadas por el coordinado GM Holdings 
+S.A. 
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PFV 
+CEME 1 se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV CEME 1  
+Central/Unidad 
+Potencia Máxima 
+Bruta 
+[MW] 
+SS. AA 
+[MW] 
+Pérdidas en 
+la central (1) 
+[MW] 
+Potencia Máxima 
+Neta (2) 
+[MW] 
+PFV CEME 1 
+412,9326 
+0,6994 
+9,1934 
+403,0398 
+(1) Este valor corresponde a las pérdidas en el transformador de poder de la central (1,6512 MW), más 
+las perdidas en el sistema colector y los transformadores de bloque de la central estimadas en 7,5422 
+MW. 
+(2) Potencia inyectada en la barra de 220 kV de S/E CEME 1.  
+ 
+Al respecto, comunico a Ud., que los parámetros de Potencia Máxima de la Central PFV 
+CEME 1, entrarán en vigencia a partir de las 00:00 horas del día 16 de diciembre de 2025. 
+ 
+El informe técnico de Potencia máxima de la Central PFV CEME 1, que contiene la 
+justificación de los parámetros indicados anteriormente, ha sido publicado en la siguiente 
+ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > Potencia 
+Máxima > Pruebas de Potencia Máxima > Central PFV CEME 1 > 2025 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+CRV/PPF/RSM/adr 
+ 
+ 
+Referencias 
+ 
+[1] Carta GMH N°2025-137 del Coordinado GM Holdings S.A., Ref.: “Responde a 
+Observaciones a los Parámetros Operacionales del PFV CEME 1 Potencia Máxima”, de 
+fecha 04 de noviembre de 2025. Ingreso DE11104-25. 
+ 
+[2] Carta DE03307-24, Ref.: “[NUP 3251 Etapa 2] Informes Técnicos de Parámetros 
+Operacionales de la Central PFV CEME 1, del coordinado GM Holdings S.A.”, de fecha 28 
+de junio de 2024. 
+ 
+[3] Carta DE06600-25, Ref.: “Observaciones a los Parámetros Operacionales del PFV 
+CEME 1”, de fecha 17 de octubre de 2025. 

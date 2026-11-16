@@ -1,0 +1,186 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 23 de diciembre de 2025 
+DE 08184-25 
+Señor 
+Juan Muñoz 
+Encargado Titular 
+Engie Energía Chile S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del SC 
+de Partida Autónoma (PA) de las unidades TG1 y 
+TG2 de Central TER Tocopilla. 
+[1] Carta ENGIE N°244/2025 del coordinado Engie 
+Energía Chile S.A., Ref.: “Responde a su carta 
+DE02344-25 del 17 de abril de 2025”, de fecha 21 
+agosto de 2025.  
+[2] Carta ENGIE N°248/2025 del coordinado Engie 
+Energía 
+Chile 
+S.A., 
+Ref.: 
+“Respuesta 
+a 
+su 
+comunicación 
+DE04901-25 
+respecto 
+a 
+las 
+observaciones a los informes de Partida Autónoma 
+de nuestras unidades generadoras”, de fecha 27 de 
+agosto de 2025. 
+Responde a Ingresos: DE08591-25 y DE08773-25. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], y respuesta a observaciones adicionales mediante carta de la 
+Ref. [2], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 4-16 de la 
+Norma Técnica de Servicios Complementarios (NT SSCC), ha finalizado el proceso de 
+verificación del Servicio Complementario (SC) de Partida Autónoma (PA) de las unidades 
+TG1 y TG2 de Central TER Tocopilla. Como resultado de este proceso, las unidades 
+mencionadas quedan habilitadas para la prestación del mencionado servicio considerando 
+los recursos indicados en el anexo a la presente carta. 
+ 
+Los informes técnicos que justifican la verificación de la capacidad de la prestación del SC 
+de PA de las unidades mencionadas, han sido publicados en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Plan de 
+Recuperación de Servicio > Partida Autónoma > Central TER Tocopilla. 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:Encargados empresas coordinadas 
+       Felipe Fleming C. – Encargado Suplente Engie Energía S.A. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de las unidades 
+TG1 y TG2 de Central TER Tocopilla 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Tocopilla  
+• 
+Unidades TG1 y TG2 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Plan de Recuperación 
+de Servicio (PRS) 
+ Partida Autónoma 
+(PA) 
+Partida Autónoma (PA) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) El control de tensión (CT) no tiene un funcionamiento distinto según el generador se 
+encuentre en modo isócrono o conectado a la red. El control de frecuencia (CF), 
+ante la detección de que la unidad esta desconectada del sistema, la lógica conmuta 
+automáticamente de modo normal a modo isócrono, la turbina ajusta frecuencia 
+hasta el valor nominal (50 Hz). 
+b) El sistema de control de la turbina al momento de sincronizar lo hace en alrededor 
+de 3 MW, potencia mínima (MT), carga con la cual ya se encuentra estable en 
+operación. Bajo esta carga la unidad se desconecta por protección de potencia 
+inversa. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Engie Energía Chile 
+S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en página siguiente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Partida Autónoma: 
+ 
+SSCC 
+Plan de Recuperación de Servicio 
+Categoría 
+Partida autónoma 
+Subcategoría 
+Partida autónoma 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+TG1 
+TG2 
+TER Tocopilla 
+Diésel 
+Potencia Máxima [MW] 
+19,71 
+20 
+Tiempo de Sincronización [min] (1) 
+17,2 
+17,2 
+Tasa de Toma de Carga [MW/min] 
+5,14 
+5,43 
+Tiempo de Autonomía [HR] (2) 
+8,45 
+8,65 
+Modo de Control 
+Isócrono 
+Isócrono 
+Requiere Equipamiento Adicional (3) 
+si 
+si 
+Primer Escalón de carga [MW] (4) 
+3 
+3 
+Escalones sucesivos de carga [MW] 
+3 
+3 
+Tiempo nuevo arranque en caso de 
+desconexión intempestiva [min] (5) 
+18 
+18 
+Tiempo permanencia en vacío (6) 
+Sin 
+restricción 
+Sin 
+restricción 
+(1) Tiempo asociado a la partida de unidades generadoras que prestan el SSCC de PA, correspondiente al 
+intervalo que transcurre desde que se solicita hasta el cierre contra barra muerta de la central. Este tiempo 
+incluye las maniobras previas de revisión y verificación. Lo anterior, considerando que las unidades se 
+encuentren disponibles, es decir no considera tiempos para validar integridad de instalaciones luego de 
+un siniestro provocado por: terremoto, tsunami, aluvión, crecida, incendio, entre otros. 
+(2) Tiempo de autonomía sujeto a disponibilidad de recurso primario (Diésel). Tiempo para una unidad con 
+estanque de 70 m3, a potencia máxima. 
+(3) Cuenta con grupo de baterías de arranque. 
+(4) Primer escalón de carga que puede tomar la unidad sin poner en riesgo la estabilidad de la unidad en 
+este proceso. 
+(5) Tiempo necesario para reiniciar la partida, después de un desenganche de la unidad. 
+(6) Tiempo máximo de permanencia en giro en vacío (sin carga) sin restricción (no tiene tiempo límite). 
+ 

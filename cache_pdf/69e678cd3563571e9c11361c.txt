@@ -1,0 +1,186 @@
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+Carta ENLI-49-26 
+Santiago, 17 de abril de 2026 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref: Responde carta DE 02168-26 Cumplimiento de 
+los planes de implementación de PMU del Módulo 
+de Medición Fasorial del SEN. 
+[1] “Estudio para la Implementación del Módulo de 
+Medición Fasorial” de 2025 
+[2] Carta DE04823-25, de fecha 19 de agosto de 
+2025, Instruye implementación y solicita plan de 
+trabajo para implementación de puntos de 
+monitoreo de Módulo Fasorial del SEN. 
+[3] Carta ENLI 020-25 (DE08941-25), de fecha 1 de 
+septiembre de 2025, Responde carta DE04823-25 
+Plan de trabajo para implementación de puntos de 
+monitoreo del Módulo de Medición Fasorial del SEN  
+[4] Carta DE00900-26, de 6 fecha 6 de febrero de 
+2026, 
+Cumplimiento 
+de 
+los 
+planes 
+de 
+implementación de PMU del Módulo de Medición 
+Fasorial del SEN. 
+[5] Carta ENLI 043-26 (DE01362-26), de fecha 13 de 
+febrero de 2026, DE00900-26 Cumplimiento de los 
+planes de implementación de PMU del Módulo de 
+Medición Fasorial del SEN y solicita lo que indica. 
+[6] Correo electrónico de fecha 6 de marzo de 2026, 
+Respuesta 
+carta 
+DE01362-26: 
+Solicitudes 
+implementación de módulo de medición fasorial. 
+[7] Carta DE02168-26, de fecha 1 de abril de 2026, 
+Cumplimiento de los planes de implementación de 
+PMU del Módulo de Medición Fasorial del SEN. 
+ 
+ 
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+ 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en atención a lo solicitado mediante carta DE02168-26, de fecha 1 de abril 
+de 2026, donde se requiere información relativa al estado actual de implementación de los puntos de 
+monitoreo del Módulo de Medición Fasorial del SEN, cumplo con informar los avances en el proceso de 
+implementación de la infraestructura solicitada. 
+ 
+1.- Antecedentes. 
+ 
+Con fecha 01 de septiembre de 2025, a través de la carta Ref.: [3], Enlight Investments informó el plan 
+de trabajo para implementar la PMU instruido por el Coordinador mediante carta Ref.: [2] conforme a 
+los resultados del Estudio de Ref.: [1], de acuerdo al cual dicha instalación debía quedar operativa en el 
+mes de marzo de 2026. 
+ 
+Para efectos de dicha programación, se consideró la ubicación de la PMU en el punto en que se emplaza 
+actualmente el controlador de planta (PCC), correspondiente al paño B1 del Tap Off Tamarugal, conforme 
+a lo establecido en el numeral 5.1 del Estudio de Ref. [1]. 
+ 
+Con todo, cabe hacer presente que, durante el periodo en que debía darse inicio a dichas labores, mi 
+representada se encontraba paralelamente desarrollando las gestiones asociadas a la instalación del 
+proyecto BESS La Huayca (NUP 6218), consistente en la implementación de un sistema de 
+almacenamiento de energía (29 MW por 4 horas), mediante su conexión en la S/E La Huayca II en 23 kV, 
+de propiedad de esta misma empresa. En dicho contexto, y dentro de las adecuaciones de corto plazo 
+contempladas para dicha instalación, se considera la actualización del sistema de control del esquema 
+PV+BESS, incluyendo el traslado del punto de control del PCC al paño BT1 de la subestación elevadora. 
+ 
+En razón de lo anterior, se estimó técnicamente adecuado modificar el punto de implementación de la 
+PMU, emplazándola en el paño BT1 de la subestación elevadora La Huayca II. Esta redefinición implicó 
+que, antes de la ejecución de las obras asociadas a la instalación de la PMU, se requiere habilitar las 
+señales de medida en dicho paño, labores que no se encontraban contempladas en el cronograma 
+informado en la carta de Ref. [3]. Como consecuencia de lo anterior, se debió incorporar al programa de 
+trabajo las etapas de “Replanteo Diseño Conceptual y Técnico” y “Adecuación TP/TC y respaldo eléctrico”, 
+lo que incidió en una extensión del plazo originalmente previsto para la implementación de la PMU. 
+ 
+En este contexto, al momento de recibirse el requerimiento individualizado en la carta de Ref. [4], esta 
+parte procedió a informar, mediante carta de Ref. [5], los ajustes efectuados tanto a las obras como al 
+cronograma de trabajo para la implementación de la PMU, solicitando, a su vez, la extensión del plazo 
+para la implementación de la PMU del PFV La Huayca II, así como la autorización para implementar un 
+enlace de comunicaciones directo entre la PMU de dicha central y el PDC corporativo ubicado en el Data 
+Center ENEA. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+ 
+Ambas solicitudes fueron acogidas favorablemente por el Coordinador, lo que fue comunicado mediante 
+correo electrónico de Ref. [6]. En consecuencia, a la fecha, esta parte se encuentra ejecutando las 
+actividades conforme al cronograma actualizado, comunicado con fecha 13 de febrero de 2026. 
+ 
+2.- Respuesta a la solicitud de información 
+ 
+Teniendo en consideración lo expuesto en el apartado anterior, procedo a dar respuesta a las consultas 
+efectuadas en la carta DE02168-26. 
+ 
+2.1.- Respecto del estado actual de la implementación por punto de monitoreo 
+ 
+Mi representada se encuentra desarrollando satisfactoriamente el proceso de implementación del 
+sistema de monitoreo en conformidad con el cronograma actualizado y comunicado en el mes de 
+febrero, habiéndose concluido de forma oportuna las etapas de conexionado a TP/TC en AT, aprobación 
+de la integración con el PDC del Coordinador, e ingeniería de detalle para la implementación de la PMU. 
+ 
+En la actualidad, se encuentran en ejecución las actividades asociadas a la fase de adquisición de 
+equipamiento, las que comprenden los procesos de licitación y compra de la PMU, adquisición del 
+sistema de sincronización GPS (IRIG-B) y PTP, compra de equipos de comunicaciones redundantes, así 
+como las gestiones de logística e internación de dichos equipos. Se estima que dichas actividades se 
+desarrollarán dentro de los plazos comprometidos en la carta de Ref. [5] y aprobados por el Coordinador. 
+ 
+2.2.- Respecto del porcentaje de avance de los hitos en ejecución y pendientes 
+ 
+Como se señaló en el apartado anterior, y conforme al cronograma comunicado mediante carta de Ref. 
+[5], actualmente se están llevando adelante las gestiones de logística e internación de los equipos, las 
+cuales cuentan con un porcentaje de avance de aproximadamente un 20%. 
+ 
+En cuanto a los demás puntos consultados, referidos a la instalación de la PMU, la implementación de 
+los canales de comunicaciones al PDC y la adquisición de las licencias, estos aún no se encuentran 
+implementados. 
+ 
+2.3.- Respecto de la desviación respecto de los plazos originalmente comprometidos, junto con su 
+respectiva justificación 
+ 
+Como se señaló en el apartado de antecedentes, la implementación de la PMU del PFV La Huayca II se 
+está desarrollando conforme al cronograma comunicado mediante carta de Ref. [5] y aprobado mediante 
+correo electrónico de Ref. [6], sin que se observen desviaciones respecto de aquellos plazos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+ 
+En mérito de lo expuesto, se solicita considerar como atendidos los requerimientos de información de la 
+carta DE02168-26. 
+ 
+Sin otro particular, lo saluda atentamente, 
+ 
+ 
+ 
+ 
+Mauricio Ortuondo 
+Encargado Suplente 
+Enlight Investments 
+ 
+ 

@@ -1,0 +1,50 @@
+ 
+ 
+ENEL GREEN POWER CHILE 
+Roger de Flor 2725, Las Condes, Chile – Tel. +562 2630 9000 
+ 
+ 
+Santiago, 24 de septiembre de 2025 
+EGP 224-25 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Referencia: 
+Respuesta a comunicación REF [1], [2] y [3] – Habilitación de BESS para el Control Secundario 
+de Frecuencia e integración al Despacho Económico 
+REF [1]: Carta DE05711-25 Resultado del Proceso de Verificación del Control Secundario de Frecuencia e 
+integración al Despacho Económico del BESS del PFV El Manzano 
+REF [2]: Carta DE05712-25 Resultado del Proceso de Verificación del Control Secundario de Frecuencia e 
+integración al Despacho Económico del BESS del PFV Don Humberto. 
+REF [3]: Carta DE05713-25 Resultado del Proceso de Verificación del Control Secundario de Frecuencia e 
+integración al Despacho Económico del BESS del PE La Cabaña 
+ 
+De nuestra consideración: 
+En relación con sus cartas de las referencias [1], [2] y [3], recibidas el 11 de septiembre de 2025, mediante las 
+cuales se comunica la habilitación de las BESS del PFV El Manzano, PFV Don Humberto y PE La Cabaña para 
+la prestación del Servicio Complementario de Control Secundario de Frecuencia (CSF) a partir del 12 de 
+septiembre de 2025, agradecemos la confirmación del resultado favorable del proceso de verificación y su 
+integración al módulo de Despacho Económico Automático del GMS/SCADA. 
+En cumplimiento de lo solicitado, adjuntamos: 
+• 
+Diagrama de la arquitectura de comunicaciones y equipos para la integración al AGC de las tres BESS. 
+• 
+Certificado de disponibilidad del sistema de comunicaciones (99,95%). 
+Finalmente, reiteramos nuestra disposición para entregar cualquier información adicional que el Coordinador 
+estime necesaria a fin de asegurar la adecuada prestación del servicio. 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+Adrian Guzmán. 
+Encargado Suplente 
+ENEL GREEN POWER CHILE 
+cc:  
+Cristian Reyes. Jefe del Departamento de Control de la Operación 
+Gretchen Zbinden Véliz. Subgerenta de Análisis y Soporte Operacional 
+verificacion_sscc@coordinador.cl 
+ 

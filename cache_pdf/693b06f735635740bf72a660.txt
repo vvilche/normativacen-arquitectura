@@ -1,0 +1,182 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 11 de diciembre de 2025 
+DE 07893-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de los Parámetros de Partida 
+y Detención de la Central PFV CEME 1. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros de Partida y Detención de Unidades Generadoras” de la Norma Técnica de 
+Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte del Coordinador 
+Eléctrico Nacional de los Parámetros de Partida y Detención de la Central PFV CEME 1, en 
+conformidad con el Informe Técnico recibido mediante comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja en constancia que en el plazo establecido por el Artículo 11 del 
+Anexo Técnico en aplicación no se recibieron observaciones de coordinado alguno al 
+informe publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador efectuó observaciones de carácter técnico mediante la 
+comunicación de la Ref. [3], las cuales fueron subsanadas por el coordinado GM Holdings 
+S.A.  
+ 
+Conforme con lo anterior, los valores de Parámetros de Partida y Detención de la Central 
+PFV CEME 1 se presentan en las tablas contenidas en el Anexo de la presente carta. 
+ 
+En cumplimiento del Artículo 13 del Anexo Técnico en mención, los parámetros para los 
+procesos de Partida y Detención mencionados entrarán en vigencia a partir de las 00:00 
+horas del 16 de diciembre de 2025. 
+ 
+La versión final del informe de Parámetros de Partida y Detención que contiene la 
+justificación de los parámetros indicados anteriormente ha sido publicada en la siguiente 
+ruta de la página del Coordinador Eléctrico nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Parámetros de Partida y Detención > Informes de Determinación de 
+Parámetros de Partida y Detención > Central PFV CEME 1 > 2025 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/PPF/RSM/adr 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Referencias 
+ 
+[1] Carta GMH N°2025-149 del Coordinado GM Holdings S.A., Ref.: “Responde a 
+Observaciones a los Parámetros Operacionales del PFV CEME 1”, de fecha 10 de 
+noviembre de 2025. Ingreso DE11297-2. 
+ 
+[2] Carta DE03307-24, Ref.: “[NUP 3251 Etapa 2] Informes Técnicos de Parámetros 
+Operacionales de la Central PFV CEME 1, del coordinado GM Holdings S.A.”, de fecha 28 
+de junio de 2024. 
+ 
+[3] Carta DE06600-25, Ref.: “Observaciones a los Parámetros Operacionales del PFV 
+CEME 1”, de fecha 17 de octubre de 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central PFV CEME 1 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PFV CEME 1 (1) 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – 
+Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización 
+– Mínimo 
+Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0010 
+Tiempo [minutos] 
+0,0017 
+0,0833 
+Mínimo 
+Técnico – 
+Potencia 
+Nominal 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,1166 
+Tiempo [minutos] 
+0,0417 
+10,0500 
+(1) Los valores de potencia máxima y mínima netos del PFV CEME 1 son de 403,0389 MW y 3,4175 
+MW respectivamente.  
+ 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PFV CEME 1 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia 
+Nominal – 
+Mínimo 
+Técnico  
+Consumo SSAA [MWh] 
+0,0000 
+0,1145 
+Tiempo [minutos] 
+0,0600 
+9,8667 
+Mínimo 
+Técnico - 
+Desconexión 
+Consumo SSAA [MWh] 
+0,0000 
+0,0012 
+Tiempo [minutos] 
+0,0025 
+0,1000 
+Desconexión 
+– Detención 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+Nota: El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo de Detención 
+(TMD) son 0 [min]. 
+ 

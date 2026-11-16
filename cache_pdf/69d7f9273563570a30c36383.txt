@@ -1,0 +1,53 @@
+ 
+Av. Parque Isidora N° 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+         www.coordinador.cl 
+ Santiago, 09 de abril de 2026 
+DE 02374-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+ 
+ 
+ 
+ 
+Ref.: Actualización de manuales de Plataforma 
+de Contratos 
+Sr(a). Encargado(a): 
+ 
+En el marco de mejoras en la calidad del dato de las Plataformas del Coordinador en la que 
+estamos trabajando desde el año pasado, se hace entrega de la actualización de los manuales 
+de la Plataforma de Contratos. Son 2 los manuales que se encuentran actualizados: 
+ 
+1. Manual de usuario Plataforma de Contratos. 
+2. Manual de carga masiva Contratos (Excel). 
+ 
+En esta nueva versión se incorpora la nueva funcionalidad de la Plataforma con respecto a los 
+Contratos libres conectados a Distribución. Para estos contratos al seleccionar el punto de retiro 
+se deberá seleccionar el ID del cliente, estos IDs estarán previamente cargados en la plataforma, 
+por lo que el Suministrador solo debe elegir el que corresponda al contrato que se quiere 
+informar.  
+ 
+Para consultas relacionadas al uso de la Plataforma de Contratos se solicita derivarlas a 
+plataformamercados@coordinador.cl 
+ 
+Durante el presente año se continuará trabajando constantemente en mejorar la calidad del dato 
+en la Plataforma de Contratos, por lo que se invita a revisar los cambios indicados y actualizar la 
+información incompleta de los actuales contratos de suministros. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Lionel Roa Burgos 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+LRB/LOA 
+Sr. Marcelo Bobadilla M. - Gerente de Mercado 
+Sra. Fiorella Roncagliolo H. - Jefa DTEySC 
+Sr. Manuel Gatica D. - Jefe DTPyCT 
+Sr. Hugo Tapia M. - Jefe DByCD 
+Sr. Tomás Valenzuela I. – Jefe DME 

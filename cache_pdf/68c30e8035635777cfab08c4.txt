@@ -1,0 +1,48 @@
+ 
+ 
+ENEL GREEN POWER CHILE 
+Roger de Flor 2725, Las Condes, Chile – Tel. +562 2630 9000 
+ 
+ 
+Santiago, 11 de septiembre de 2025 
+EGP 213-25 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Referencia: 
+Respuesta a comunicación DE 04968-25 – Resultado del Proceso de Verificación del Control 
+Secundario de Frecuencia e integración al Despacho Económico del Parque Fotovoltaico Don 
+Humberto. 
+De nuestra consideración: 
+En atención a su carta DE 04968-25, recibido con fecha 12 de agosto de 2025, por medio del cual se comunica 
+la habilitación del Parque Fotovoltaico Don Humberto para la prestación del Servicio Complementario de Control 
+Secundario de Frecuencia (CSF) a partir del día 14 de agosto de 2025, agradecemos la confirmación del 
+resultado favorable del proceso de verificación e integración al módulo de Despacho Económico automático del 
+GMS/SCADA. 
+En cumplimiento de lo solicitado, informamos que junto con la presente carta se remiten los siguientes 
+documentos: 
+• 
+Layout o diagrama de la arquitectura de comunicaciones y equipos implementados para integrarse al 
+AGC. 
+• 
+Certificado de disponibilidad del sistema de comunicaciones (99,95%), emitido por la compañía de 
+telecomunicaciones correspondiente. 
+Finalmente, dejamos constancia de nuestra disposición para proporcionar cualquier información adicional que 
+el Coordinador estime necesaria para la prestación del servicio. 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+Adrian Guzmán. 
+Encargado Suplente 
+ENEL GREEN POWER CHILE 
+cc:  
+Cristian Reyes. Jefe del Departamento de Control de la Operación 
+Gretchen Zbinden Véliz. Subgerenta de Análisis y Soporte Operacional 
+verificacion_sscc@coordinador.cl 
+ 

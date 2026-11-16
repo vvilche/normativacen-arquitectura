@@ -1,0 +1,38 @@
+ 
+Sonnedix Chile Holding Spa 
+Magdalena 140, Oficina 601 
+Las Condes, Santiago 
+sonnedix.com 
+ 
+Santiago, 18 de agosto de 2026 
+ 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Complementa respuesta a carta DE 01769-26 
+sobre el desempeño en la prestación de los SSCC de la 
+central PFV Pampa Solar Norte. 
+ 
+De nuestra consideración, 
+ 
+Por medio de la presente, informamos a usted que las acciones correctivas comprometidas en el 
+plan de trabajo establecido de acuerdo a la Ref. han sido implementadas. En particular, se configuró 
+en el SCADA de la central un tope operacional de 69,39 MW (potencia máxima bruta declarada en 
+Infotécnica) para la señal de potencia disponible enviada al SITR del Coordinador, quedando 
+además registrada la variable para su seguimiento. Con ello, el plan de trabajo de normalización se 
+ha ejecutado conforme a lo comprometido. 
+ 
+Sin otro particular, quedamos a disposición para cualquier aclaración adicional. 
+ 
+ 
+ 
+ 
+ 
+ 
+___________________________ 
+Ricardo Galvez 
+Encargado Titular 
+Arcadia Generación Solar SpA 

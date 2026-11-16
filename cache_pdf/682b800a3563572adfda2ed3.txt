@@ -1,0 +1,110 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 19 de mayo de 2025 
+ 
+    
+DE 02958-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Mínimo Técnico de la 
+Central PE Los Cerrillos, del coordinado 
+Statkraft Eólico S.A. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PE Los Cerrillos, en conformidad con el 
+Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+indicado publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador realizó observaciones al Informe, las cuales fueron 
+subsanadas en la versión final recibida mediante la comunicación de la Ref. [1]. 
+ 
+Conforme a lo anterior, los parámetros de Mínimo Técnico de la Central PE Los Cerrillos se 
+presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Mínimo Técnico de la Central PE Los Cerrillos 
+Central/Unidad 
+Mínimo 
+Técnico Bruto 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en 
+la central(1) 
+[MW] 
+Mínimo 
+Técnico Neto(2) 
+[MW] 
+PE Los Cerrillos (planta completa) 
+3,9875  
+0,1774 
+0,1069 
+3,7032 
+PE Los Cerrillos (aerogenerador individual)(3) 
+0,6532 
+0,0724 
+0,0814 
+0,4994 
+(1) Las pérdidas corresponden a la suma de las pérdidas en la red interna y las del 
+transformador principal. En el caso de la planta completa son 0,0556 MW y 0,0513 MW 
+respectivamente, y en el caso de aerogenerador individual son 0,0303 MW y 0,0511 MW 
+respectivamente. 
+(2) Inyectada en la barra de 110 kV del transformador de potencia de la S/E Cardonal. 
+(3) Considera todos los aerogeneradores detenidos con excepción de uno. Esta condición se 
+logra mediante el envío manual de comando de apagado a todas las unidades menos una 
+desde la consola de operación. 
+ 
+En cumplimiento del Artículo 12 del Anexo Técnico antes mencionado, el valor de Mínimo 
+Técnico de la Central PE Los Cerrillos, entrará en vigencia a partir de las 00:00 horas del 
+día viernes 23 de mayo 2025. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Mínimo Técnico > Informes de Mínimos Técnicos Unidades 
+Generadoras > Central PE Los Cerrillos > 2025 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+Referencias 
+ 
+[1] Carta SKE GG N°616-2024 del Coordinado Statkraft Eólico S.A., Ref.: “Envía 
+Actualización Informe de Mínimo Técnico PE Los Cerrillos – NUP 994”, de fecha 26 de 
+noviembre de 2024. Ingreso DE06812-24. 
+ 
+[2] Carta DE03714-24, Ref.: “[NUP 994] Informes Técnicos de Parámetros Operacionales 
+de la Central PE Los Cerrillos, del coordinado Statkraft Eólico S.A. Responde Ingresos 
+DE03878-24, DE03877-24 y DE03876-24”, de fecha 22 de julio de 2024. 
+ 
+ 
+GZV/PPF/AHM 
+ 
+ 

@@ -1,0 +1,354 @@
+ 
+ 
+ 
+ 
+ 
+Santiago, 04 de septiembre 2026  
+OP 124-26 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional  
+MATERIA: 
+OPORTUNIDADES DE MEJORA RESPECTO AL EJERCICIO DE SIMULACRO 
+REALIZADO EL 26 DE AGOSTO DE 2026. 
+ 
+ 
+ 
+De mi consideración, 
+ 
+En primer lugar, quisiéramos expresar nuestro agradecimiento al Coordinador Eléctrico 
+Nacional por la organización y realización del simulacro de apagón total del Sistema 
+Eléctrico Nacional. Este tipo de ejercicios constituye una valiosa instancia para evaluar 
+procedimientos, validar capacidades operacionales y fortalecer la coordinación entre los 
+distintos agentes del sistema, contribuyendo a una mejor preparación ante eventos reales 
+de recuperación del servicio. 
+ 
+En relación con la materia de la referencia, como resultado de nuestra participación en el 
+ejercicio, se identificaron algunas oportunidades de mejora que estimamos relevante 
+considerar para futuras ejecuciones: 
+ 
+Ítem 
+Descripción del 
+problema detectado 
+Implicancia para las 
+instalaciones y la 
+recuperación de servicio 
+Posibilidad de mejora 
+1 
+Se solicitaron niveles de 
+carga superiores a los 
+informados en el PRS y a 
+la capacidad efectiva de 
+generación disponible en 
+la zona, sin dejar margen 
+para regulación y 
+excediendo la potencia 
+máxima de algunas 
+unidades. 
+Riesgo de operar las 
+unidades fuera de sus 
+límites técnicos, 
+reduciendo la capacidad 
+de respuesta ante 
+contingencias y 
+comprometiendo la 
+estabilidad del proceso de 
+recuperación. En una 
+condición real, podría 
+impedir el cumplimiento de 
+consignas o provocar 
+limitaciones 
+operacionales. 
+Ajustar las consignas de 
+generación a la 
+capacidad efectiva 
+disponible y a los valores 
+establecidos en el PRS, 
+considerando reservas 
+de regulación y 
+márgenes operativos 
+para una recuperación 
+segura y flexible del 
+sistema. 
+
+ 
+2
+Ítem 
+Descripción del 
+problema detectado 
+Implicancia para las 
+instalaciones y la 
+recuperación de servicio 
+Posibilidad de mejora 
+2 
+COR solicitó la 
+sincronización de 
+unidades hidráulicas sin 
+asignar posteriormente 
+una consigna de carga 
+durante períodos 
+superiores a treinta 
+minutos. 
+Mantener unidades 
+sincronizadas sin carga 
+durante períodos 
+prolongados puede 
+generar vibraciones, 
+desgaste mecánico y 
+eventualmente la salida de 
+servicio de las unidades, 
+afectando la disponibilidad 
+de recursos para la 
+recuperación del sistema. 
+Se propone incorporar 
+en el Estudio PRS un 
+apartado dirigido a los 
+COR, que establezca la 
+importancia de la 
+asignación oportuna de 
+consignas de carga tras 
+la sincronización de las 
+unidades, minimizando 
+tiempos de operación en 
+vacío. 
+3 
+Se solicitaron consignas 
+de generación inferiores 
+al mínimo técnico de 
+algunas unidades. 
+Puede comprometer la 
+estabilidad operacional de 
+las centrales, incrementar 
+vibraciones y esfuerzos 
+mecánicos, provocar 
+actuaciones de protección 
+y generar la desconexión 
+intempestiva de unidades 
+clave para la recuperación 
+del sistema. 
+Incorporar validaciones 
+operativas que impidan 
+emitir consignas por 
+debajo de los mínimos 
+técnicos certificados de 
+cada unidad y reforzar la 
+capacitación de los 
+operadores involucrados 
+en la recuperación. 
+4 
+Los tiempos de partida 
+autónoma considerados 
+para las unidades de 
+centrales Rapel no han 
+sido actualizadas. 
+Los tiempos de partida 
+actualmente considerados 
+para Central Rapel 
+resultan excesivamente 
+conservadores y no 
+reflejan las capacidades 
+reales de las unidades, las 
+cuales cuentan con 
+características de partida 
+rápida. Esta condición 
+podría distorsionar la 
+secuencia de 
+recuperación prevista en 
+el PRS, retrasando 
+innecesariamente la 
+incorporación de 
+capacidad de generación. 
+Actualizar el PRS con 
+los tiempos certificados 
+de Central Rapel, 
+aprobados por el 
+Coordinador Eléctrico 
+Nacional mediante la 
+carta DE 08181-25. 
+
+ 
+3
+Ítem 
+Descripción del 
+problema detectado 
+Implicancia para las 
+instalaciones y la 
+recuperación de servicio 
+Posibilidad de mejora 
+5 
+Los tiempos de partida 
+autónoma considerados 
+para Central Atacama no 
+reflejan adecuadamente 
+las condiciones 
+operativas declaradas en 
+carta 135641-25. 
+Una estimación incorrecta 
+de los tiempos de partida 
+puede afectar la 
+secuencia de 
+recuperación, generar 
+expectativas de 
+disponibilidad no realistas 
+para la energización de 
+áreas del sistema. 
+Contemplar 
+considerar 
+transitoriamente en el 
+Estudio PRS los tiempos 
+declarados para Central 
+Atacama 
+mientras 
+concluye su proceso de 
+certificación, dado que 
+estos 
+consideran 
+la 
+totalidad 
+de 
+las 
+maniobras 
+requeridas 
+para la partida autónoma 
+de las unidades TG1A y 
+TG2A, representando de 
+mejor 
+manera 
+las 
+condiciones 
+operativas 
+reales de recuperación 
+del sistema. 
+ 
+6 
+El tiempo asignado a la 
+unidad U1 de Central El 
+Toro no considera las 
+maniobras requeridas 
+para ejecutar una partida 
+autónoma, debido a que 
+la unidad se encontraba 
+fuera de servicio durante 
+la certificación. 
+La planificación de 
+recuperación podría 
+asumir una disponibilidad 
+más rápida de la 
+realmente alcanzable, 
+generando desviaciones 
+respecto de la secuencia 
+prevista de recuperación. 
+Evaluar la asignación de 
+un tiempo equivalente al 
+reconocido para las 
+demás unidades de la 
+central con certificación 
+vigente para proyectar 
+condiciones operativas 
+reales. 
+7 
+No se encuentra 
+suficientemente 
+explicitado que la 
+coordinación y ejecución 
+de las maniobras de 
+interconexión entre áreas 
+o zonas corresponde al 
+Coordinador. 
+La falta de definición clara 
+de responsabilidades 
+puede generar duplicidad 
+de acciones, demoras o 
+errores de coordinación 
+durante una etapa crítica 
+de la recuperación del 
+sistema. 
+Precisar en el PRS y en 
+los procedimientos 
+asociados que dichas 
+maniobras serán 
+coordinadas y 
+ejecutadas por el 
+Coordinador, 
+aprovechando la 
+experiencia y 
+atribuciones de los 
+operadores del CDC. 
+
+ 
+4
+Ítem 
+Descripción del 
+problema detectado 
+Implicancia para las 
+instalaciones y la 
+recuperación de servicio 
+Posibilidad de mejora 
+8 
+La notificación inicial de 
+apagón total y la 
+instrucción de inicio del 
+PRS fueron realizadas a 
+un número telefónico 
+distinto al oficialmente 
+asignado al COR de Enel 
+Generación. 
+Puede generar 
+confusiones, retrasos en 
+la activación de protocolos 
+y pérdida de trazabilidad 
+en las comunicaciones 
+durante una contingencia 
+real. 
+Reforzar la clasificación, 
+actualización y difusión 
+de los números de 
+contacto oficiales, 
+además de verificar los 
+canales de 
+comunicación utilizados 
+en simulacros y eventos 
+reales. 
+9 
+Las centrales Cipreses, 
+Curillinque, Isla y Ojos de 
+Agua no se encontraban 
+disponibles en la 
+plataforma BORA durante 
+el ejercicio. 
+Impidió visualizar y 
+transparentar las 
+consignas de generación 
+asociadas a dichas 
+centrales, reduciendo la 
+visibilidad operacional y 
+dificultando el seguimiento 
+del proceso de 
+recuperación. 
+Revisar la integración y 
+disponibilidad de todas 
+las centrales en la 
+plataforma BORA. 
+ 
+Agradecemos nuevamente la oportunidad de participar en esta actividad y esperamos que 
+las observaciones señaladas contribuyan al perfeccionamiento de futuros simulacros y de 
+los procedimientos asociados a la recuperación del Sistema Eléctrico. 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación, 
+atentamente se despide, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Miguel Buzunariz R. 
+Encargado CEN 
+ENEL GENERACIÓN CHILE S.A. Y FILIALES 
+ 

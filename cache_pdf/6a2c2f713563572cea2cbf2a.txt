@@ -1,0 +1,73 @@
+ 
+ 
+ 
+ 
+Cerro El Plomo 5630, oficina 401, Las Condes 
+ 
+Santiago, 11 de junio de 2026 
+GC-CO 0012-26 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Verificación Control Secundario de 
+Frecuencia Central Colmito  
+ 
+[1] 
+Carta 
+DE 
+03429-26 
+“Proceso 
+de 
+Verificación de Servicio Complementario (SC) 
+de Control Secundario de Frecuencia (CSF-
+AGC) e incorporación a la herramienta de 
+despacho económico (ED)”, enviada el 20 de 
+mayo de 2026. 
+ 
+ 
+Por medio de la presente, indicamos que mi representada Central Colmito experimentó una falla que 
+implicó el reemplazo de la turbina generadora y compresor en el año 2022, pudiendo quedar nuevamente 
+operativa 6 meses después. Al mismo se determinó que era necesario actualizar los sistemas de control y 
+monitoreo tanto de la turbina como el de los equipos auxiliares (upgrade a módulo FT125). Dichos trabajos 
+concluyeron durante el mantenimiento mayor de la central en diciembre del 2025. 
+Actualmente, el sistema de control FT-125 de Central Colmito posee implementada en su lógica el AGC y 
+se encuentra comunicado con el SCADA del Sistema SITR, además, el intercambio de señales se encuentra 
+activo. Por lo tanto, el Sistema SITR es capaz de escribir consignas de potencia en el FT-125, quedando al 
+pendiente la integración del AGC entre el SCADA SITR Central Colmito y el CEN. 
+Dicho lo anterior, se da a conocer la respuesta a la información solicitada a mi representada por medio de 
+la Ref. [1], en el contexto del proceso de verificación del Control Secundario de Frecuencia e incorporación 
+a la herramienta de despacho económico: 
+1. Informe con estado de implementación de enlaces y señales requeridas y su correspondiente 
+integración al SITR/AGC del Coordinador, considerando al menos el avance en la ejecución de las 
+siguientes etapas: 
+a. Enlaces no implementados: AGC/ED 
+b. Enlaces implementados en instalaciones de su representada: SITR 
+c. Pruebas punto a punto ejecutadas sobre los enlaces implementados, verificando su 
+integración al SITR con el Coordinador – gestionada con el Departamento SCADA- y 
+correspondiente recepción de señales: Integración del AGC/ED en el SITR no está 
+realizada. Se debe coordinar con el CEN y con el asesor externo para realizar las 
+configuraciones y pruebas punto a punto. 
+
+ 
+ 
+ 
+ 
+Cerro El Plomo 5630, oficina 401, Las Condes 
+ 
+d. Pruebas funcionales de integración al Despacho Económico vía AGC, programadas con el 
+Coordinador, gestionadas con el Departamento de Modelación y Aplicación EMS: No 
+realizado. 
+ 
+2. Cronograma con hitos y plazos específicos en que ejecutará cada etapa listada en el punto 
+anterior, considerando como plazo máximo para el término de la implementación el mes de 
+noviembre del 2026: En el adjunto se encuentra el cronograma con el detalle solicitado, en donde 
+se espera ejecutar las pruebas entre el 22 de septiembre y 02 de octubre del presente año. 
+Sin otro particular, le saluda atentamente, 
+______________________ 
+Felipe Inostrosa Muñoz 
+Encargado Suplente 
+Central Colmito S.A. 
+ 

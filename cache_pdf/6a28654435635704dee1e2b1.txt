@@ -1,0 +1,164 @@
+ 
+Santiago, 09 de junio de 2026. 
+  ACC.ECH.078.26 
+Señor: 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones a Indicadores Desempeño Servicios Complementarios – mayo 2026. 
+ 
+De nuestra consideración: 
+ 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de mayo de 2026, que fue publicado en su página web y cuya publicación fue comunicada a 
+través de la carta DE03768-26 de fecha 05 de junio de 2026. 
+ 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+ 
+Sin otro particular, saluda cordialmente a usted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+ 
+Firmado 
+digitalmente por 
+Luis Lorca Arenas 
+Fecha: 
+2026.06.09 
+11:52:52 -04'00'
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC MAYO 2026 V1 
+Servicio Complementario – CTF 
+ 
+i. 
+PFV Malgarida 
+Timestamp 
+Consigna en 
+planta [MW] 
+Registro 
+RIO [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+19-05-2026 
+15:59:00 
+27 
+-53 
+19-05-2026 
+15:58:00 
+19-05-2026 
+16:23:00 
+La respuesta presenta un mal desempeño en C3; sin 
+embargo, simultáneamente el parque estaba prestando el 
+SSCC de CPF, lo que genera oscilaciones en la potencia 
+activa como consecuencia de la respuesta al CPF. 
+ 
+ii. 
+PE San Gabriel 
+Timestamp 
+Consigna en 
+planta [MW] 
+Registro 
+RIO [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+09-05-2026 
+17:11:01 
+166 
+73 
+09-05-2026 
+17:17:00 
+09-05-2026 
+17:38:00 
+Se confirma, mediante la revisión de registros internos y de 
+la 
+grabación 
+de 
+la 
+llamada 
+adjunta 
+(“_20260509_171002_d”), que la solicitud del SSCC de CTF 
+fue efectuada al CC de Acciona a las 17:10 hrs, no a las 17:17 
+hrs según RIO. 
+ 
+ 
+iii. 
+PE Tolpán Sur 
+Timestamp 
+Consigna en 
+planta [MW] 
+Registro 
+RIO [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+13-05-2026 
+5:49:00 
+5 
+-60 
+12-05-2026 
+5:48:00 
+12-05-2026 
+6:17:00 
+Se confirma, mediante la revisión de registros internos y de 
+la grabación de llamada adjunta (“_20260513_054812_d”), 
+que la solicitud del SSCC de CTF fue efectuada al CC de 
+Acciona el día 13-05-2026 a las 5:48:00, pero CDC registró la 
+solicitud para el día 12-05-2026 a las 5:48:00. 
+15-05-2026 
+19:28:00 
+1 
+-58 
+15-05-2026 
+19:26 
+15-05-2026 
+19:44 
+La evaluación del desempeño indica el tc2 erróneo. La 
+producción alcanzó la consigna ingresada de 1 MW a las 
+19:36:22, manteniéndose estable hasta el término de la 
+instrucción. 
+ 
+ 
+Servicio Complementario – CT 
+iv. 
+PE Tolpán Sur 
+Timestamp 
+Consigna en 
+planta [MVAr] 
+Registro 
+RIO 
+[MVAr] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO Comentario 
+- 
+-21 
+-21 
+30-05-2026 
+0:00:00 
+30-05-2026 
+14:16:00 
+El registro no corresponde a una nueva instrucción, sino al 
+registro de continuidad para el día siguiente. Esto puede 
+verificarse considerando que el registro anterior finaliza a 
+las 23:59 horas. 
+ 

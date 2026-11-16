@@ -1,0 +1,171 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 11 de marzo de 2026 
+DE 01653-26 
+Señor 
+Sebastián Ruiz-Tagle 
+Encargado Titular 
+Colbún S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+de la central TER Santa María. 
+[1] Carta GO N° 042/2026 de Colbún S.A., Ref.: 
+“Respuesta a observaciones al Informe Técnico de 
+Verificación de Control de Tensión de central TER 
+Santa María”, de fecha 24 de febrero de 2026. 
+Responde a Ingreso DE01655-26. 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación del Servicio Complementario (SC) enviado por su representada mediante 
+carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 
+4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el 
+proceso de verificación del SC de Control de Tensión (CT) de la central TER Santa María. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario a partir de las 00:00 del 12 de marzo de 2026 
+considerando los recursos indicados en el anexo a la presente carta. 
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de 
+prestación de la central mencionada se ha publicado en la siguiente ruta de la página web 
+del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > Central TER Santa María 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+CRV/WJS/adr 
+c.c.:  
+Sr. Rafael Zamorano – Encargado Suplente Colbún S.A. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central TER Santa María 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Santa María 
+A continuación, se presentan los parámetros operacionales aceptados por el 
+Coordinador Eléctrico.  
+• 
+Potencia máxima bruta: 378,958 [MW] 
+• 
+Potencia máxima neta: 348,353 [MW]  
+• 
+Potencia mínima bruta: 128,000 [MW]  
+• 
+Potencia mínima neta: 109,000 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión 
+Control de Tensión 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión: 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte de Colbún S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control de Tensión: 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de Tensión 
+Instalación 
+Recurso 
+Primario 
+  
+Tensión 
+[pu] 
+Potencia Reactiva [MVAr]  
+Potencia [MW]   
+0,9 
+0,95 
+1 
+1,05 
+1,1(1) 
+Central TER 
+Santa María 
+Carbón 
+128,0 
+-123,7 -137,4 -151,9 -166,8 -183,8 
+243,3 
+-114,3 -131,4 -149,1 -166,4 -180,4 
+308,7 
+-99,2 -119,5 -139,5 -158,9 -168,8 
+378,9 
+-80,4 
+-99,4 
+-123,0 -145,6 -148,8 
+378,0 
+183,3 232,4 
+274,3 
+312,5 
+321,4 
+308,7 
+286,4 320,0 
+351,6 
+360,8 
+353,7 
+243,3 
+343,6 372,1 
+387,9 
+375,6 
+376,6 
+128,0 
+401,1 416,9 
+418,1 
+413,8 
+402,8 
+(1) Limitación por protección de sobreflujo V/Hz en nivel de tensión de 1,09 pu. 

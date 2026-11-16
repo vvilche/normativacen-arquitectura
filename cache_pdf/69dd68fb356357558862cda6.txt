@@ -1,0 +1,45 @@
+Santiago, 13 de abril de 2026 
+DE 02431-26 
+Señor  
+Miguel Buzunariz R.  
+Encargado Titular  
+Enel Generación Chile S.A. 
+Geotérmica del Norte S.A. 
+Presente 
+Ref.: Respuesta a solicitud de acceso diario a 
+reportes de los servicios complementarios de control 
+de frecuencia y tensión. 
+ 
+[1] Carta OP 051-26, de Enel, de fecha 31 de marzo 
+de 2026, “Solicitud de acceso diario a reportes diarios 
+de monitoreo de control de frecuencia e informes de 
+respuesta CPF, CSF, CTF y CT.”.  
+Responde a Ingreso DE03234-26. 
+ 
+De mi consideración: 
+ 
+En relación con la carta de la Ref. [1], en la que su representada solicita publicar diariamente 
+los reportes de monitoreo de control de frecuencia y los archivos que indican el desempeño 
+de los distintos servicios complementarios (SSCC), puedo informar a Ud. que los procesos 
+de cálculo de indicadores de desempeño de SSCC, bajo los cuales se generan los archivos 
+requeridos en su comunicación, se enmarcan en los plazos asociados al proceso de cálculo 
+de IVTE, y por lo tanto, son emitidos dos veces al mes, en su versión preliminar y luego 
+definitiva. 
+Dichos cálculos, requieren etapas de revisión y procesamiento de información que no 
+permiten efectuar una publicación con la frecuencia requerida por su representada. Sin 
+perjuicio de lo anterior, en los casos que puedan requerir mayor atención para efectos de 
+identificar oportunidades de mejora en el desempeño de la prestación de SSCC, su 
+representada puede comunicarse a los correos anexos_dco@coordinador.cl y 
+verificación.SSCC@coordinador.cl para realizar consultas específicas sobre instalaciones 
+con mal desempeño o con problemas asociados a las señales y registros requeridos para 
+la verificación del correcto desempeño de su prestación de SSCC. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+   Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ 
+c.c.: Sr. Rodrigo Espinoza V. Gerente de Operación – Coordinador Eléctrico Nacional 

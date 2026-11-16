@@ -1,0 +1,54 @@
+ 
+ 
+ 
+SANTIAGO, 11 DE AGOSTO .2025 
+COM-19/2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para julio del 2025. 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para julio 2025. 
+ 
+1) 
+El 03-07-2025 la central TRAPEN_DIESEL recibe instrucción de activación por CTF (+) a las 16:42, 
+con hora de finalización a las 17:03. Sin embargo, en el RIO se señala que la activación fue entre las 
+16:55 y 17:03. Esto genera que se evalue el desempeño utilizando como base la potencia registrada 
+a las 16:55, cuando al central ya se encontraba en servicio, perjudicando directamente la evaluacion 
+dos y tres de la activación. Se adjunta la grabación “20250703164205” donde se evidencia la hora 
+de inicio real para la evaluación. Se solicita que se corriga la hora de inicio de la activación y se 
+recalcule factor de desempeño.  
+2) 
+E 08-07-2025 la central TENO_DIESEL recibe instruccion de activación por CTF(+) a las 08:02 con 
+hora de finalización a las 08:21. Sin embargo en el RIO se señala que la activación fue entre las 
+07:23 y las 08:21, perjudicando la evaluacion dos de la activación. Se adjunta la grabación 
+“20250708080225” donde se evidencia la hora de inicio real para la evaluación. Se solicita que se 
+corriga la hora de inicio y se recalcule el factor de desempeño.  
+3) 
+El 14-07-2025 a las 16:24 la central TRAPEN_DIESEL recibe una instrucción de activación de CTF 
+(+) por 68 MW, en cuyo momento, la central se encontraba en servicio por disponibilidad de CTF  
+(-). En el archivo “CTF_202507” se señala que la activación no cumple con la evaluación uno. Sin 
+embargo, la central si aumenta la potencia entregada, cumpliendo con las evaluaciones dos y tres. 
+Se solicita esclarecer las razones del incumplimiento en la evaluación uno. En su defecto recalcular 
+el factor de desempeño de esta activación considerando el cumplimiento de la evaluación uno.     
+Ademas, se sugiere incorporar los resultados del calculo de la evaluación uno para mayor 
+trazabilidad.  
+
+ 
+ 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+Andrés Guerra C. 
+Encargado Suplente 
+Enlasa Generación Chile S.A. 

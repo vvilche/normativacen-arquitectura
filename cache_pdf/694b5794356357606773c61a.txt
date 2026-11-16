@@ -1,0 +1,200 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 23 de diciembre de 2025 
+DE 08185-25 
+Señor 
+Juan Muñoz 
+Encargado Titular 
+Engie Energía Chile S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del SC 
+de Partida Autónoma (PA) de las unidades de Central 
+TER Arica. 
+[1] Carta ENGIE N°194/2023 del coordinado Engie 
+Energía Chile S.A., Ref.: “Envío de informes de 
+pruebas de verificación de SSCC de los motores 
+instalados en la Central Diésel Arica.”, de fecha 28 
+noviembre de 2023.  
+Responde a Ingreso: DE07170-23. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), ha finalizado el proceso de verificación del Servicio Complementario (SC) de 
+Partida Autónoma (PA) de las unidades M1AR U1 y U3, M2AR U1 y U2, y GMAR U1 a U4 
+de Central TER Arica. Como resultado de este proceso, las unidades mencionadas quedan 
+habilitadas para la prestación del mencionado servicio considerando los recursos indicados 
+en el anexo a la presente carta. 
+ 
+Los informes técnicos que justifican la verificación de la capacidad de la prestación del SC 
+de PA de las unidades mencionadas, han sido publicados en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Plan de 
+Recuperación de Servicio > Partida Autónoma > Central TER Arica 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+c.c.: 
+ 
+Encargados empresas coordinadas 
+Felipe Fleming C. – Encargado Suplente Engie Energía S.A. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC unidades M1AR U1 y 
+U3, M2AR U1 y GMAR U1 a U4 de Central TER Arica 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Arica 
+• Unidades M1AR U1 y M1AR U3 
+• Unidad GMAR U1, GMAR U2, GMAR U3 y GMAR U4 
+• Unidades M2AR U1 y M2AR U2 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Plan de Recuperación 
+de Servicio (PRS) 
+Partida Autónoma 
+(PA) 
+Partida Autónoma (PA) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) El tiempo de autonomía depende del combustible disponible en el tanque de 
+acumulación, el cual tiene una capacidad de 197 m3. La Central Diesel Arica 
+completa tiene una autonomía 53,6 horas, superior a 2 días.  Si solo se considera la 
+operación las unidades M1AR U1 y M1AR U3, el consumo total a plena carga 
+alcanza 0,506 m3/h, por lo que la autonomía alcanza 389,3 horas, superior a 16 
+días. 
+b) El control de tensión opera regulando automáticamente la tensión de barra en la 
+misma configuración que cuando opera sincronizada a la red y el ajuste de 
+frecuencia se realiza manualmente con el ajuste de “Velocidad” de las unidades. Al 
+ser reguladores analógicos no existe un cambio de modo al operar en isla. 
+4. La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Engie Energía Chile 
+S.A. 
+5. Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la 
+instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tabla en página siguiente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+a) Partida Autónoma: 
+SSCC 
+Plan de Recuperación de Servicio 
+Categoría 
+Partida autónoma 
+Subcategoría 
+Partida autónoma 
+Instalación Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+M1AR 
+M2AR 
+GMAR 
+TER Arica 
+Diésel 
+Potencia Máxima 
+[MW] 
+0,92 
+1,11 
+2,17 
+Tiempo de 
+Sincronización [min] 
+(1) 
+2,03 
+3,20 
+6,33 
+Tasa de Toma de 
+Carga [MW/min] 
+0,7 
+2 
+4,6 
+Tiempo de 
+Autonomía [HR] (2) 
+53,6 
+53,6 
+53,6 
+Modo de Control 
+Regulador 
+Carga/velocidad 
+Regulador 
+Carga/velocidad 
+Regulador 
+Carga/velocidad 
+Requiere 
+Equipamiento 
+Adicional (3) 
+NO 
+NO 
+NO 
+Primer Escalón de 
+carga [MW] (4) 
+0,7 
+0,99 
+2,1 
+Tiempo nuevo 
+arranque en caso de 
+desconexión 
+intempestiva [min] (5) 
+11 
+11 
+11 
+Tiempo permanencia 
+en vacío (6) 
+Sin 
+restricciones 
+Sin 
+restricciones 
+Sin 
+restricciones 
+(1) Tiempo asociado a la partida de unidades generadoras que prestan el SSCC de PA, correspondiente al 
+intervalo que transcurre desde que se solicita hasta el cierre contra barra muerta de la central. Este tiempo 
+incluye las maniobras previas de revisión y verificación. Lo anterior, considerando que las unidades se 
+encuentren disponibles, es decir no considera tiempos para validar integridad de instalaciones luego de 
+un siniestro provocado por: terremoto, tsunami, aluvión, crecida, incendio, entre otros. 
+(2) Tiempo de autonomía sujeto a disponibilidad de recurso primario (Diésel). Estanque de 197 m3. 
+(3) Cuenta con grupo de baterías de arranque. 
+(4) Condiciones particulares para la recuperación del primer escalón. Valor informado en carta DE08239-25. 
+(5) Tiempo necesario para reiniciar la partida, después de una desconexión de la unidad. 
+(6) Tiempo máximo de permanencia en giro en vacío (sin carga) sin restricción (no tiene tiempo límite).  
+ 

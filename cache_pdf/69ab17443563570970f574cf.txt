@@ -1,0 +1,100 @@
+ 
+ 
+Santiago, 05 de marzo de 2026. 
+ACC.ECH.041.26 
+ 
+Señora. 
+Gretchen Zbinden V.  
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+REF: 
+Adjunta 
+informe 
+técnico 
+en 
+complemento a carta DE11772-25 
+(ACC.ECH.204.25).  
+ANT.1:  Carta 
+DE05358-25 
+del 
+01 
+de 
+septiembre de 2025 del Coordinador 
+Eléctrico Nacional a Acciona Energía 
+Chile Holdings S.A. 
+ANT.2: Carta DE09868-25 del 24 de 
+septiembre de 2025 de Acciona 
+Energía Chile Holdings S.A. al 
+Coordinador Eléctrico Nacional. 
+ANT.3: Carta 
+DE11772-25 
+del 
+20 
+de 
+noviembre de 2025 de Acciona 
+Energía Chile Holdings S.A. al 
+Coordinador Eléctrico Nacional. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con el tema de la referencia, y dando continuidad a lo informado mediante las cartas señaladas 
+en los ANT. 2 y ANT.3, mi representada Acciona Energía Chile Holdings S.A. (en adelante, “Acciona”) 
+complementa los antecedentes y análisis desarrollados en atención a los requerimientos formulados por 
+el Coordinador Eléctrico Nacional (en adelante, “Coordinador”) en la minuta “COR-GO-DCO-SSCC-
+PFV_El_Romero_V1” (en adelante, la “Minuta”) adjunta al ANT.1.  
+ 
+A partir de la notificación del Coordinador, Acciona ha llevado a cabo diversas revisiones, simulaciones 
+y ajustes orientados a atender íntegramente las observaciones del Coordinador. En la presente 
+comunicación, se entrega el análisis correspondiente al único punto aún pendiente de la Minuta, apartado 
+3.2-a, referido al requerimiento de ajustar la configuración del controlador de frecuencia/potencia de 
+modo que la respuesta del Control Primario de Frecuencia (en adelante, “CPF”) no pase por la rampa de 
+toma y bajada de carga de la central. 
+ 
+En cumplimiento a lo requerido por el Coordinador, se implementó la modificación de la lógica 
+correspondiente, ajustando la configuración del controlador de frecuencia/potencia para asegurar que la 
+respuesta del CPF no pase por la rampa de toma y bajada de carga de la central.  
+ 
+Los antecedentes técnicos considerados se encuentran adjuntos. A partir de ellos, es posible concluir que 
+la rapidez de la rampa está intrínsecamente limitada por el tiempo de respuesta natural del parque 
+(controlador PI, lazos de control de inversores, lazo de medición, entre otros), lo que impide alcanzar un 
+
+ 
+ 
+tiempo de establecimiento del CPF inferior a 10 segundos probado ante un escalón de ±200 [mHz], 
+obteniéndose en la práctica tiempos de establecimiento entre 12 a 15 segundos.  
+ 
+Con el propósito de evaluar todas las alternativas técnicamente disponibles, se evalúo incluso el caso 
+extremo en que, tanto en el modelo homologado como en la parametrización del PPC (del inglés Power 
+Plant Controller o Control de Planta), se retiró la rampa rápida del control de Potencia/Frecuencia para 
+aplicar la consigna directamente al controlador. En ambos ejercicios, los resultados confirmaron que bajo 
+este escenario el parque presenta tiempos de establecimiento superiores a los 10 segundos. Por tanto, no 
+existen configuraciones adicionales que permitan reducir dicho tiempo sin comprometer la estabilidad 
+del control ni la seguridad de la operación. 
+ 
+Finalmente, y a partir de los resultados expuestos, resulta relevante lo indicado en el “Informe de Servicios 
+Complementarios Año 2026”, subtítulo “4.1.2 Control Primario de Frecuencia (CPF)”, específicamente 
+en el apartado “I. Estado Normal de Operación”, donde se establece que: 
+ 
+“Los rangos de ajustes específicos que deben implementar las unidades generadoras, parques 
+eólicos y fotovoltaicos, y sistemas de almacenamiento son determinados por el Coordinador, de 
+acuerdo con lo establecido en el Artículo 3-17 de la NTSyCS. Asimismo, en casos excepcionales 
+se podrá autorizar que las instalaciones operen con estatismos, bandas muertas o tiempos de 
+establecimiento superiores a los definidos en el presente informe, previa entrega de antecedentes 
+técnicos y la respectiva revisión del Coordinador.” (el subrayado es nuestro). 
+ 
+En virtud de lo anterior, y habiendo aportado los antecedentes técnicos que acreditan la imposibilidad de 
+cumplir con los tiempos de establecimiento inferiores a 10 segundos, solicitamos respetuosamente a 
+usted, considerar la excepción prevista en el propio Informe de Servicios Complementarios Año 2026, 
+autorizando para la central solar fotovoltaica El Romero tiempos de establecimiento superiores a los 
+establecidos por normativa. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado (S)  
+Acciona Energía Chile Holdings, S.A. 

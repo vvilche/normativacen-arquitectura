@@ -1,0 +1,196 @@
+ 
+ 
+   
+ 
+ 
+Acciona Energía. Isidora Goyenechea 2800, Of. 3201. Edificio Titanium La Portada, Las Condes. Santiago, Chile. 
+ 
+Santiago, 22 de octubre de 2026. 
+ACC.ECH.140.26 
+Señor: 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel 
+PRESENTE 
+ 
+De nuestra consideración: 
+ 
+En respuesta a la carta de la referencia, mediante la cual el Coordinador Eléctrico Nacional (“Coordinador”) 
+solicita a Acciona Energía Chile Holdings S.A. (“Acciona”) informar las razones de la desviación en el cronograma 
+de integración de los parques eólicos San Gabriel y Tolpán Sur al EDAG por Contingencia Específica de la Zona 
+Centro Sur, informamos lo siguiente: 
+ 
+1. Antecedentes: Mi representada ha mantenido informado al Coordinador sobre la programación de las 
+actividades mediante las cartas [1], [2] y [3]. En esta última se señaló expresamente que el cronograma 
+presentado era referencial, por cuanto el proceso de licitación había finalizado en abril de 2026 y aún 
+se encontraba pendiente la adjudicación y la programación definitiva del contratista. La proyección 
+informada en dicha oportunidad contemplaba la integración y validación del esquema durante marzo 
+de 2027. 
+ 
+2. Formalización contractual y programación del proveedor: Con posterioridad a la adjudicación, se 
+formalizó la contratación EPC con Sistemas Eléctricos, Ingeniería y Servicios S.A. (“SEISSA”), cuya fecha 
+de firma se registra para efectos de seguimiento del proyecto el 31 de agosto de 2026. El contrato 
+contempla un plazo de desarrollo de 180 días hábiles desde su firma para alcanzar el hito final de puesta 
+en servicio, bajo cuya consideración se mantenía una proyección inicial de término a marzo de 2027 
+conforme al cronograma referencial previamente informado al Coordinador. No obstante, durante la 
+reunión de inicio, efectuada el 23 de septiembre de 2026, el contratista compartió la Carta Gantt N° 
+348-26, revisión A (“Carta Gantt”), la cual se incluye en anexo a la presente comunicación, y que 
+proyecta la finalización de las actividades para el 23 de noviembre de 2027. En consecuencia, se 
+evidencia un desplazamiento de aproximadamente ocho meses respecto de la proyección inicial de 
+marzo de 2027, además de una desviación respecto del plazo contractual de 180 días hábiles. 
+ 
+3. Motivos de la desviación y estado de ejecución: De acuerdo con la programación de la Carta Gantt 
+entregada por SEISSA, el principal condicionante es el abastecimiento de los dispositivos de protección 
+y control SEL-751, para los cuales se informó un plazo estimado de fabricación de 41 semanas, más tres 
+semanas adicionales de gestión logística, con recepción de materiales prevista para agosto de 2027. Ello 
+desplaza la fabricación y programación de celdas, las pruebas FAT, el montaje, los ensayos SAT y la 
+integración con la Celda Maestra en S/E Charrúa. A la fecha, el proyecto se encuentra en etapa de 
+ingeniería y coordinación de suministro; según comunicación del contratista del 22 de octubre de 2026, 
+aún no se han emitido órdenes de compra de los equipos considerados. 
+ 
+ANT. 
+: 
+[1] Carta ACC.ECH.127.25 (DE12561-25) del 23 de 
+diciembre de 2025 de Acciona Energía Chile 
+Holdings S.A. al Coordinador Eléctrico Nacional. 
+[2] Carta ACC.ECH.047.26 (DE02612-26) del 13 de 
+marzo de 2026 de Acciona Energía Chile Holdings 
+S.A. al Coordinador Eléctrico Nacional. 
+[3] Carta ACC.ECH.072.26 (DE04680-26) del 14 de 
+mayo de 2026 de Acciona Energía Chile Holdings S. 
+A. al Coordinador Eléctrico Nacional 
+ 
+REF.  
+: 
+Respuesta a carta DE06812-26 del 15 de octubre de 
+2026. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acciona Energía. Isidora Goyenechea 2800, Of. 3201. Edificio Titanium La Portada, Las Condes. Santiago, Chile. 
+ 
+ 
+ 
+4. Gestiones y medidas de mitigación: Mi representada ha requerido formalmente a SEISSA justificar la 
+desviación, respaldar los plazos de suministro y evaluar alternativas que permitan reducir el tiempo de 
+implementación. En particular, se solicitó evaluar equipos alternativos que cumplan los requerimientos 
+técnicos del EDAG y presenten menores plazos de suministro. Mediante correo de 22 de octubre de 
+2026, SEISSA informó que se encuentra evaluando una solución con dispositivos Siemens, cuya 
+factibilidad técnica y plazo de suministro serán validados, junto con la emisión de una nueva 
+programación. Estas alternativas permanecen sujetas a revisión técnica y a las exigencias de integración, 
+funcionamiento y ciberseguridad aplicables al esquema. 
+ 
+5. Actualización del cronograma y seguimiento: Se acompaña, como antecedente de planificación del 
+contratista, la Carta Gantt que contempla recepción de equipos en agosto de 2027, ensayos FAT en 
+septiembre y octubre de 2027 e integración con la Celda Maestra en noviembre de 2027. Se precisa que 
+esta programación se encuentra bajo revisión por las alternativas de suministro indicadas y no 
+constituye una fecha definitiva ratificada por mi representada. Una vez que SEISSA entregue la 
+validación técnica de la solución alternativa y el cronograma revisado, éstos serán puestos 
+oportunamente en conocimiento del Coordinador, informando sus eventuales efectos en el plazo final 
+de implementación. 
+ 
+En consideración a lo anterior, solicitamos al Coordinador tener presentes los antecedentes y las medidas de 
+mitigación expuestas. Mi representada continuará realizando seguimiento a la ingeniería, adquisiciones y 
+actividades de integración para procurar la reducción de los plazos proyectados. Se anexa la Carta Gantt, como 
+respaldo de la programación actualmente informada por el contratista, sin perjuicio de su eventual actualización 
+posterior. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado (S) 
+Acciona Energía Chile Holdings, S.A. 
+ 
+Digitally signed by:
+Luis Lorca Arenas
+DN: CN = Luis 
+Lorca Arenas
+Date: 2026.10.22 
+22:35:16 -03'00'
+Luis 
+Lorca 
+Arenas
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acciona Energía. Isidora Goyenechea 2800, Of. 3201. Edificio Titanium La Portada, Las Condes. Santiago, Chile. 
+ 
+ 
+Anexo I: Cronograma actualizado. 
+ 
+RESUMEN PLAN DE TRABAJO 
+ITEM 
+Descripción 
+Fecha estimada 
+Ajustes de sobre 
+frecuencia 
+Cambios de ajustes de protección de Fase 0 
+Completado en 
+enero de 2026 
+Licitación y adjudicación 
+Proceso de selección y adjudicación del contratista EPC 
+Licitación 
+finalizada en 
+abril de 2026 
+Formalización y KOM 
+Firma informada para seguimiento y reunión de inicio 
+Completado 
+31/08/2026 y 
+23/09/2026 
+Ingeniería básica 
+Filosofía, listado de señales, arquitectura y documentación 
+21/10/2026–
+20/11/2026 
+Ingeniería de detalle 
+Esquemas constructivos, diagramas y protocolos de pruebas 
+23/11/2026–
+25/01/2027 
+Adquisición de equipos 
+Llegada de SEL-751 conforme a programación Rev. A 
+09/08/2027 
+(sujeto a 
+revisión) 
+Fabricación y 
+programación 
+Fabricación de celdas y programación de equipos 
+07/07/2027–
+10/09/2027 
+Ensayos FAT 
+Pruebas preliminares y FAT 
+27/09/2027–
+19/10/2027 
+Montaje y SAT 
+Traslado, montaje, conexionado y ensayos SAT 
+25/10/2027–
+17/11/2027 
+Integración y 
+comunicaciones 
+Integración con Celda Maestra S/E Charrúa; montajes y 
+pruebas de comunicaciones 
+18/11/2027–
+23/11/2027 
+ 

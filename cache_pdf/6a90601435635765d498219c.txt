@@ -1,0 +1,564 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 27 de agosto de 2026 
+DE 05733-26 
+Señor 
+Miguel Alarcón G. 
+Encargado Titular 
+GR Lenga SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios Complementarios de Control Primario 
+de 
+Frecuencia, 
+Control 
+Secundario 
+de 
+Frecuencia 
+e 
+integración 
+al 
+Despacho 
+Económico y Control Terciario de Frecuencia de 
+la Central Renovable con Capacidad de 
+Almacenamiento (CRCA) PFV y BESS Gabriela 
+(NUP 3849). 
+Responde 
+a 
+Ingresos: 
+DE06239-26 
+y 
+DE06250-26. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante las cartas de las Ref. [1] y [2], comunico a Ud. que, en cumplimiento 
+con lo establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los SSCC de Control Primario de 
+Frecuencia (CPF), Control Secundario de Frecuencia (CSF) e integración al módulo de 
+Despacho Económico del GMS/SCADA y Control Terciario de Frecuencia (CTF) de la 
+Central Renovable con Capacidad de Almacenamiento (CRCA) PFV y BESS Gabriela, 
+considerando sus modos de operación de generación directa, y de carga y descarga 
+del BESS. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios complementarios de CPF, CSF y CTF a partir de las 00:00 
+del día 03 de septiembre de 2026, considerando los recursos indicados en el anexo de la 
+presente carta. 
+ 
+Con respecto al CSF, para efectos de elaborar el correspondiente Informe Técnico de 
+Verificación según lo establecido en la Guía de Verificación de Control de Frecuencia, 
+solicito a Ud. enviar a la dirección electrónica dmap@coordinador.cl, a más tardar el 
+próximo 27 de septiembre de 2026, la siguiente información asociada al parque: 
+ 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF, CSF y CTF de la CRCA PFV y BESS Gabriela se encuentran 
+publicados en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación: 
+ 
+1. Control de Frecuencia > Control Primario de Frecuencia > CRCA PFV Gabriela 
+2. Control de Frecuencia Control Secundario de Frecuencia > CRCA PFV Gabriela 
+3. Control de Frecuencia > Control Terciario de Frecuencia > CRCA PFV Gabriela 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [3], siendo el plazo 
+para esta acción de 30 días corridos contados desde la fecha de emisión de la 
+presente carta. Pese a no contar con las señales necesarias para evaluar el 
+desempeño en la prestación, la CRCA PFV y BESS Gabriela quedará habilitada 
+para prestar el Servicio Complementario (SC) de Control Primario de Frecuencia 
+(CPF), pudiendo ser instruida por este Coordinador para prestar dicho servicio. En 
+dicho caso, la evaluación de estas instrucciones será “No Verificable”. 
+• 
+Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, para la evaluación de desempeño se podrán utilizar 
+medios alternativos para poder realizar la evaluación de desempeño de la prestación 
+del SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, la CRCA PFV y BESS Gabriela podrá participar de las subastas de Control de 
+Frecuencia, una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Sin perjuicio de lo anterior, la instalación mencionada podrá ser instruida de manera directa 
+por el Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC.  
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, puede 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+PVV/CRV/DIR/PCG/cfp 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Referencias: 
+ 
+[1] Carta GR-CHL0007A-419/2026 de GR Lenga SpA, Ref.: “Comunica la entrega del 
+informe de verificación de Servicios Complementarios de Control Terciario de Frecuencia. 
+NUP 3849 PFV+BESS Gabriela 220 MW”, de fecha 16 de julio de 2026. Ingreso DE06239-
+26. 
+ 
+[2] Carta GR-CHL0007A-420/2026 de GR Lenga SpA, Ref.: “Comunica la entrega del 
+informe de verificación de Servicios Complementarios de Control Primario de Frecuencia. 
+NUP 3849. PFV+BESS Gabriela 220 MW”, de fecha 17 de julio de 2026. Ingreso DE06250-
+26. 
+ 
+[3] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva CF 2025.07.31 > Protocolo de envío de registros Potencia/Frecuencia para 
+la evaluación del CPF 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central Renovable 
+con Capacidad de Almacenamiento PFV y BESS Gabriela 
+1. 
+Identificación de las Instalaciones Verificadas: 
+El PFV Gabriela y su BESS corresponden a una CRCA, cuyas características son indicadas en 
+los puntos siguientes.  
+Los siguientes parámetros operacionales están en proceso de aceptación por el Coordinador 
+Eléctrico. Estos valores serán actualizados en los Anexos del Informe de Servicios 
+Complementarios una vez que se encuentren disponibles y sean aceptados por el Coordinador 
+Eléctrico: 
+a) Central PFV Gabriela (Generación directa) 
+• 
+Potencia máxima bruta: 224,4953 [MW] 
+• 
+Potencia máxima neta: 220,000 [MW] 
+• 
+Potencia mínima bruta: 1,2972 [MW] 
+• 
+Potencia mínima neta: 0,3684 [MW] 
+b) BESS Gabriela (modo descarga BESS) 
+• 
+Potencia máxima bruta: 226,6521 [MW] 
+• 
+Potencia máxima neta: 219,8640 [MW] 
+• 
+Potencia mínima bruta: 3,6377 [MW] 
+• 
+Potencia mínima neta: -0,0002 [MW] 
+c) BESS PFV Gabriela (modo carga BESS) 
+• 
+Potencia máxima bruta: -213,4171 [MW] 
+• 
+Potencia mínima bruta: 9,9503 [MW] 
+ 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por Subfrecuencia 
+(CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Secundario de 
+Frecuencia 
+Control Secundatro de Frecuencia por 
+Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia por 
+Sobrefrecuencia (CSF-) 
+Control Terciario de 
+Frecuencia  
+ 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+• 
+El PFV y BESS Gabriela corresponde a una Central Renovable con Capacidad de 
+Almacenamiento (CRCA) con PPC compartido. Lo anterior se traduce en que la planta 
+puede recibir una sola consigna de P, Q y V conjunta para el PFV y el BESS.  
+Considerando lo anterior, en el caso que tanto el PFV como el BESS tengan disponible 
+recurso, reserva en giro y carga respectivamente, no se puede controlar cuál de las 
+componentes aporta al control de frecuencia, ya que, si una de las componentes no 
+alcanza a entregar el monto requerido, el PPC compensará con la segunda componente. 
+En un escenario sin recurso solar, escenario nocturno, será el BESS el que ejecute el 
+control de frecuencia  
+En consecuencia, a la fecha, no es posible la entrega de consignas diferenciadas 
+para el parque fotovoltaico y el BESS en la prestación de los SSCC.  
+Dicho lo anterior, la respuesta de control de frecuencia resulta equivalente en los distintos 
+modos de operación (generación directa, carga y descarga del BESS, e inyección 
+conjunta), lo cual es consistente con los resultados obtenidos en las pruebas de 
+verificación de SSCC. 
+a) Control Primario de Frecuencia: 
+• 
+Instalación con rango de ajuste de estatismo del 2% al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados por el operador de la central sin 
+restricciones particulares. Por consiguiente, se solicita que el valor de BM se mantenga 
+en 25 mHz.  
+• 
+Estatismo (R) actual de la instalación se encuentra ajustado al 4%, respecto a una 
+potencia base igual a la potencia máxima neta en el punto de conexión, correspondiente 
+a 220 [MW]. 
+b) Control Secundario de Frecuencia: 
+• 
+Las pruebas de CSF se efectuaron en horario diurno para el PFV y el BESS, bajo la lógica 
+implementada en el Master PPC (una sola consigna de potencia en el punto de conexión). 
+• 
+La verificación del CSF se realizó con el CPF habilitado y deshabilitado, utilizando para 
+este efecto un estatismo de 4% y una banda muerta de 25 mHz. 
+• 
+Para la prestación del SC de Control Secundario de Frecuencia se consideran todos los 
+inversores del PFV y BESS en servicio. 
+c) Control Terciario de Frecuencia: 
+Sin condiciones específicas para el SC mencionado. 
+ 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado GR Lenga SpA, tanto para 
+el PFV como para el BESS. 
+ 
+5. 
+Cuantía del recurso que puede prestar la instalación por Servicio Complementario, 
+categorías y subcategorías. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Primario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+PFV y BESS Gabriela / CRCA 
+Recurso Primario 
+Baterías / Solar 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+ 
+Generación 
+directa 
+Modo 
+descarga  
+Modo 
+carga 
+Características del 
+Controlador de Frecuencia 
+Rango de ajuste Estatismo 
+2-8% 
+Estatismo 
+4% 
+Rango de ajuste Banda muerta 
+[mHz] 
++/- 220 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1,05 
+Tiempo Activación CPF- [s] 
+<1,05 
+Límite de regulación superior [MW] 
+(2) 
+224,4953 
+226,6521 
+9,9503 
+Límite de regulación inferior [MW] (3) 
+1,2972 
+3,6377 
+-213,4171 
+Aportes (4) (5) (6)(7) 
+BM = 25 [mHz]  
+R = 4% 
+10  
+segundos 
+Aporte +0,2[Hz] [MW] 
+-19,34 
+-19,19 
+-19,00 
+Aporte -0,2[Hz] [MW] 
+19,22 
+19,11 
+19,14 
+Aporte +0,7[Hz] [MW] 
+-73,96 
+-74,22 
+-74,32 
+Aporte -0,7[Hz] [MW] 
+74,26 
+74,18 
+74,19 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-19,30 
+-19,32 
+-19,03 
+Aporte -0,2[Hz] [MW] 
+19,29 
+19,11 
+19,16 
+Aporte +0,7[Hz] [MW] 
+-74,18 
+-74,24 
+-74,22 
+Aporte -0,7[Hz] [MW] 
+74,24 
+74,15 
+74,18 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia Máxima bruta para los distintos modos de operación, actualmente en proceso de 
+aprobación por el Coordinador. 
+(3) Correspondiente a la Potencia Mínima bruta para los distintos modos de operación, actualmente en proceso de 
+aprobación por el Coordinador. 
+(4) Aportes para el modo Generación directa de CPF+ y CPF- fueron determinados con una consigna de 153,97 MW 
+(±0,2 Hz) y 88,02 MW (±0,7 Hz) vista desde bornes del PFV. 
+(5) Aportes para el modo Descarga BESS de CPF+ y CPF- fueron determinados con una consigna de 199,84 MW 
+(±0,2 Hz), 74,93 MW (+0,7 Hz) y 129,89 MW (-0,7 Hz) vista desde el BESS. 
+(6) Aportes para el modo híbrido (carga BESS desde el PFV) de CPF+ y CPF- fueron determinados con una consigna 
+de 77,12 MW (±0,2 Hz) y 21,91 MW (±0,7 Hz) vistos desde bornes BESS. 
+(7) Sin perjuicio de lo indicado en (4), (5) y (6), la respuesta de la instalación es homogénea en todo el rango de 
+operación de la CRCA y sus componentes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+b) Control Secundario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Generación 
+directa 
+Modo 
+descarga 
+Modo 
+carga 
+PFV y BESS 
+Gabriela / 
+CRCA 
+Baterías / 
+Solar 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+44 
+44 
+44 
+Bajada 
+-44 
+-44 
+-44 
+Aporte CSF [MW] (1) 
+Subida 
+219,63 
+219,86 
+223,37 
+Bajada 
+-219,63 
+-219,86 
+-223,37 
+Límite de regulación superior 
+[MW] (1) 
+220,00 
+219,86 
+9,95 
+Límite de regulación inferior [MW] 
+(1) 
+0,37 
+-0,0002 
+-213,42 
+(1) Los límites de regulación, correspondientes a la potencia máxima y mínimo técnico y el aporte máximo de CSF, podrán verse 
+modificados si se actualizan los parámetros operacionales de la instalación. 
+ 
+c) Control Terciario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- 
+Instalación 
+Tecnología 
+Parámetro 
+Valor determinado 
+Generación 
+directa 
+Modo 
+descarga  
+Modo 
+carga 
+PFV y BESS 
+Gabriela / 
+CRCA 
+Baterías / 
+Solar 
+Tasa normal de 
+operación 
+[MW/min] 
+Subida 
+43,93 
+44,02 
+44,00 
+Bajada 
+-44,15 
+-44,04 
+-43,98 
+Tasa máxima 
+de operación 
+[MW/min] 
+Subida 
+87,69 
+88,04 
+87,98 
+Bajada 
+-88,35 
+-87,98 
+-88 
+Tiempo de 
+respuesta 
+[minutos] 
+Subida 
+<5 
+<5 
+<5 
+Bajada 
+<5 
+<5 
+<5 
+Aporte CTF 
+[MW] (1) 
+Subida 
+188,0816 
+219,9668 
+219,3843 
+Bajada 
+-188,0816 
+-219,9668 
+-219,3843 
+Límite de regulación superior 
+[MW] (2) 
+224,4953 
+226,6521 
+9,9503 
+Límite de regulación inferior 
+[MW] (2) 
+1,2972 
+3,6377 
+-213,4171 
+(1) El aporte de CTF se determina como la diferencia entre las potencias netas máxima y mínima alcanzadas durante los ensayos 
+con la tasa nominal de operación. Para el modo generación directa, se consideran 188,5340 MW y 0,4524 MW, obteniéndose un 
+aporte de 188,0816 MW; para el modo descarga, se consideran 219,8901 MW y −0,0767 MW, obteniéndose un aporte de 219,9668 
+MW; y para el modo híbrido, se consideran 219,9810 MW y 0,5967 MW, obteniéndose un aporte de 219,3843 MW. 
+(2) Los límites de regulación, correspondientes a la potencia bruta, y el aporte máximo de CTF podrán verse modificados si se 
+actualizan los parámetros operacionales de la instalación. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Instalación Tecnología 
+Parámetro 
+Valor determinado 
+Generación directa Modo descarga  
+PFV y 
+BESS 
+Gabriela / 
+CRCA 
+Baterías / 
+Solar 
+Tiempo hasta sincronización 
+[min] 
+0,25 
+0,133 
+ 
+Tiempo hasta mínimo técnico 
+[min] 
+0,383 
+2,867 
+ 
+Reserva Fría [MW] 
+220 
+219,864 
+ 
+ 

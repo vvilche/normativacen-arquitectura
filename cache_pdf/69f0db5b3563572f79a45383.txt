@@ -1,0 +1,130 @@
+ 
+[EXTERNAL PERMITTED]
+ 
+ 
+ 
+ 
+ 
+Santiago, 23 de abril de 2026 
+ SC-2026-00027 
+Señor 
+Patricio Valenzuela  
+Subgerente de Análisis y Soporte Operacional  
+Gerencia Operación 
+Coordinador Eléctrico Nacional  
+PRESENTE 
+Ref.: Plan de Trabajo para la Veriﬁcación de los 
+Servicios Complementarios y Propuesta de 
+Experto Técnico para el proyecto NUP 4674 BESS 
+Willka. 
+De nuestra consideración. 
+En relación con la materia de la referencia, informamos Plan de Trabajo y Propuesta de 
+Experto Técnico para la realización de los ensayos requeridos para la veriﬁcación de 
+los servicios complementarios de Control de Tensión, Control Primario de Frecuencia, 
+Control Secundario de Frecuencia y Control Terciario de Frecuencia; de acuerdo con 
+lo siguiente: 
+1. Plan de trabajo para veriﬁcación de los servicios complementarios de Control 
+de Tensión, Control Primario de Frecuencia, Control Secundario de Frecuencia 
+y Control Terciario de Frecuencia en proyecto BESS Willka (“Proyecto”): 
+Actividad 
+Abr.26 
+May.26 Jun.26 
+Presentación Terna al CEN 
+ 
+ 
+ 
+Contratación de Empresa 
+ 
+ 
+ 
+Integración de Señales 
+ 
+ 
+ 
+Prueba de Señales SSCC 
+ 
+ 
+ 
+Elaboración de Protocolos 
+ 
+ 
+ 
+Revisión del CEN de los Protocolos 
+ 
+ 
+ 
+Ejecución de Pruebas 
+ 
+ 
+ 
+Elaboración de Informes 
+ 
+ 
+ 
+Presentación de informes al CEN 
+ 
+ 
+ 
+ 
+2. Propuesta y deﬁnición de Terna de Expertos Técnicos para la veriﬁcación de 
+servicios complementarios: 
+ 
+Para este Proyecto hemos considerado las siguientes empresas como posibles 
+Expertos Técnicos: 
+• GME-Mercados Energéticos Consultores SpA  
+
+ 
+[EXTERNAL PERMITTED]
+• Estudios Eléctricos 
+• Estudios Sistémicos 
+Cabe señalar que Inversiones Fotovoltaicas SpA ya contrató a la empresa GME-
+Mercados Energéticos Consultores SpA para la ejecución de las pruebas 
+normativas de Entrada en Operación del Proyecto considerando que la misma 
+empresa ejecutó estas pruebas en el PFV Willka, que en conjunto con el 
+proyecto BESS Willka forman parte de la CRCA respectiva, y que dicha empresa 
+ha asegurado la disponibilidad para ejecutar las pruebas a la brevedad. La 
+empresa ya cuenta con todos los antecedentes de la central. 
+En ese sentido, agradecemos que el Coordinador considere positivamente a 
+dicha empresa como el Experto Técnico, para efectos de la ejecución de la 
+Veriﬁcación de los SSCC y preparación de los informes respectivos. Al respecto, 
+se adjuntan CV de los profesionales de GME-Mercados Energéticos Consultores 
+SpA para efectos de su evaluación y también la correspondiente declaración de 
+ausencia de conﬂictos de interés. 
+Los ensayos de Veriﬁcación se realizarán de acuerdo con lo establecido en el 
+Anexo Técnico “Veriﬁcación de Instalaciones para la Prestación SSCC” y lo 
+estipulado en el Instructivo Técnico Veriﬁcación de Instalaciones para la 
+Prestación de SSCC. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+__________________________________ 
+Hero Morales 
+Encargado Suplente 
+Inversiones Fotovoltaicas SpA
+ 
+Hero Morales (Apr 24, 2026 17:03:56 EDT)
+Hero Morales
+
+SC-2026-00027_NUP 4674, Informa PP para
+SSCC
+Final Audit Report
+2026-04-24
+Created:
+2026-04-23
+By:
+Franco Vergara (franco.vergara@mytilineos.com)
+Status:
+Signed
+Transaction ID:
+CBJCHBCAABAA6J_VMwNiqGp8ApBqo7Y2TFfIOw7QgzQj
+"SC-2026-00027_NUP 4674, Informa PP para SSCC" History
+Document created by Franco Vergara (franco.vergara@mytilineos.com)
+2026-04-23 - 9:35:50 PM GMT
+Document emailed to Hero Morales (hero.morales@enfragen.com) for signature
+2026-04-23 - 9:35:54 PM GMT
+Email viewed by Hero Morales (hero.morales@enfragen.com)
+2026-04-24 - 9:03:28 PM GMT
+Document e-signed by Hero Morales (hero.morales@enfragen.com)
+Signature Date: 2026-04-24 - 9:03:56 PM GMT - Time Source: server
+Agreement completed.
+2026-04-24 - 9:03:56 PM GMT

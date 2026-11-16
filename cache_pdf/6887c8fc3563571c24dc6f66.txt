@@ -1,0 +1,100 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 24 de julio de 2025 
+AEL071-25 
+Señorita 
+Jorge Luis Gallegos Mellado 
+Ingeniero de Análisis de la Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+ 
+Ref.: Responde DE04413-25 Apertura intempestiva de  
+interruptor 52CTSA5 de S/E Central Mampil 
+ 
+ 
+De nuestra consideración: 
+ 
+Nos referimos a la carta DE04413-25 del día 17 de julio de 2025, a través de la cual el Coordinador solicita 
+información relacionada a la apertura intempestiva del interruptor 52CTSA5 de S/E Central Mampil, 
+ocurrida a las 21:44 horas del día 02 de junio de 2025, en el cual se vieron involucradas instalaciones de 
+propiedad de la empresa Duqueco SpA (representada por Aela Generación S.A.). 
+ 
+En relación con lo anterior, se contestan las respuestas a la información solicitada por el Coordinador: 
+ 
+- 
+Se reitera acera de un cronograma de trabajo con las tareas necesarias para la determinación 
+del origen y causa de la falla, para lo cual deberán remitir un Informe Técnico con los resultados 
+de cada actividad, considerando que los nuevos antecedentes proporcionados corresponden 
+básicamente a informes de mantenimientos previos al evento, sin un respaldo de las actividades 
+realizadas para el desarrollo de la investigación. Además, se adjunta respuesta de Coopelan 
+Ltda. a la carta DE03943-25, donde fueron solicitados antecedentes adicionales, cuyos registros 
+de sus protecciones no dan cuenta de la existencia de una falla en sus instalaciones. 
+ 
+R: Se adjunta un cronograma de trabajo, el cual considera una inspección de las instalaciones propias de 
+23 kV en busca de posibles puntos de falla con su correspondiente informe de respaldo, y además un 
+análisis en detalle de los registros de protecciones del evento en cuestión, con la finalidad de buscar 
+una mejora en los ajustes actuales de la protección involucrada. Los resultados de ambas tareas definirán, 
+en caso de ser necesarias, las acciones a seguir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+2 
+ 
+- 
+En relación con los hallazgos en los mantenimientos realizados el año 2024, según documento 
+“INFORME AREA ELECTRICA MM2024 Mampil.pdf”, se solicita mayores antecedentes acerca de 
+la condición detectada para los bushing del transformador 220/13.8 kV de S/E Central Mampil, 
+junto con los respectivos documentos de respaldo que den cuenta que dicha condición fue 
+resuelta. 
+ 
+R: Lo señalado en esta pregunta ocurrió en el transformador N°1, se hizo la consulta al especialista, el cual 
+indicó que no se trató de una filtración permanente o de una condición anómala, sino que esto sucedió 
+únicamente durante la condición de prueba (girar y deslizar conector para realizar medición), momento 
+en el cual se evidenció presencia de aceite. Posteriormente, al normalizar después de las mediciones, no 
+existía fuga ni presencia de aceite. La condición actual del transformador N°1 es normal.  Por otro lado, 
+cabe señalar que el transformador N°1 no tiene relación directa con el punto de la desconexión, sino más 
+bien es el transformador N°2. 
+ 
+ 
+- 
+En relación con las pruebas de control realizadas el 02 de mayo de 2024 al relé GE-350 (Celda 
+52TU2), según el documento “INX_GOP_PROT_PP_002_PRUEBAS_CONTROL_52TU2_CH-
+MAMPIL.pdf”, se solicita mayores antecedentes acerca de la condición detectada, donde se 
+indica que dicho relé fue desmontado para reemplazar la protección de la celda B la cual 
+presentó falla. Al respecto, se solicita precisar cuál protección presento falla (incluir diagrama 
+unilineal funcional con su ubicación) y si el reemplazo con reajuste de la protección en cuestión 
+cuenta con un ECAP de homologación aprobado por el Coordinador, junto con indicar las 
+respectivas solicitudes de trabajo ingresadas al aplicativo Neomante para tales efectos. 
+ 
+R: El Con respecto a los antecedentes del equipo reemplazado, estos corresponden a un equipo que 
+supervisa una carga independiente en 23 kV (Alimentador B del diagrama de la S/E adjunto), la cual no 
+guarda relación con los equipos involucrados en la operación en análisis. De todas formas, se adjuntan los 
+antecedentes del protocolo de pruebas y ajustes del equipo solicitado, trabajos ejecutados durante el 
+correspondiente mantenimiento mayor de las instalaciones en 2024 
+ 
+Se adjuntan a esta carta los antecedentes de respaldo. Esperando una buena acogida, le saluda 
+atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos de la Fuente 
+Encargado Titular 
+Aela Generación S.A.  

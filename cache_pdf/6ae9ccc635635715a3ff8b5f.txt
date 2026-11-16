@@ -1,0 +1,105 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl.  
+Santiago, 3 de noviembre de 2026 
+DE 07192-26 
+ 
+Señora 
+Fabiola Silva Berríos 
+Apoderada 
+Planta Solar Aguas Claras SpA 
+Presente 
+Ref.: Respuesta a carta DE08128-26, “Solicita 
+pronunciamiento 
+sobre 
+exigencias 
+técnicas 
+de 
+protección RI, comunicación SCADA y cargo de 
+monitoreo previstas por Enel”. 
+De mi consideración: 
+Me refiero a su carta de fecha 24 de septiembre de 2026, mediante la cual Planta Solar 
+Aguas Claras SpA, en su calidad de titular del PMGD Aguas Claras, plantea diversas 
+consultas relacionadas con las exigencias técnicas y económicas establecidas por Enel 
+para la protección, monitoreo y control de dicha instalación. 
+Al respecto, cabe señalar que las materias consultadas se encuentran, en general, 
+radicadas en ámbitos de competencia que la regulación atribuye a las Empresas 
+Distribuidoras, a la Superintendencia de Electricidad y Combustibles (SEC) o a la Comisión 
+Nacional de Energía (CNE), según corresponda. 
+En consecuencia, el Coordinador no puede, mediante una respuesta particular, modificar o 
+establecer metodologías, procesos o estándares definidos por la normativa, ni incorporar 
+excepciones o criterios adicionales respecto de medidas operativas cuya procedencia 
+corresponda evaluar a otros organismos o agentes. 
+En particular, respecto de cada una de las materias planteadas, informamos lo siguiente: 
+a) Uso del compacto de medida para la protección RI. 
+Respecto de las exigencias establecidas por Enel para la implementación de la protección 
+RI, cabe señalar que las condiciones técnicas asociadas a los sistemas de protección de 
+los PMGD deben ajustarse a lo establecido en la Norma Técnica de Conexión y Operación 
+de PMGD en Instalaciones de Media Tensión (NTCO). 
+En particular, el artículo 7-17 de dicha norma contempla condiciones técnicas para la 
+obtención de señales utilizadas por la protección RI, incluyendo las consideraciones 
+asociadas a la capacidad de los transformadores de medida y su carga nominal (burden). 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl.  
+En este contexto, corresponde a la respectiva Empresa Distribuidora establecer las 
+especificaciones técnicas aplicables a la integración de las instalaciones a sus redes, dentro 
+del marco establecido por la normativa vigente. 
+El Coordinador no tiene atribuciones para aprobar previamente dichas especificaciones ni 
+para determinar, mediante un pronunciamiento particular, la procedencia de restricciones 
+técnicas establecidas por la Empresa Distribuidora. 
+En consecuencia, una eventual controversia respecto de si la prohibición general de utilizar 
+el compacto de medida resulta compatible con las disposiciones del artículo 7-17 de la 
+NTCO deberá canalizarse ante la Superintendencia de Electricidad y Combustibles, dentro 
+del ámbito de sus competencias. 
+b) Apertura del interruptor de acoplamiento por pérdida de comunicación SCADA. 
+Respecto de la posibilidad de disponer la apertura del interruptor de acoplamiento ante la 
+pérdida de comunicaciones con el sistema SCADA de la Empresa Distribuidora, cabe 
+señalar que el artículo 9-7 de la NTCO regula la desconexión por pérdida de señal de 
+monitoreo y control del PMGD. 
+Conforme a dicha disposición, la facultad de desconexión se encuentra condicionada a que 
+la pérdida de señal pueda comprometer la operación segura de la Red de Distribución, 
+circunstancia cuya evaluación corresponde a la respectiva Empresa Distribuidora. 
+En consecuencia, no corresponde al Coordinador establecer criterios adicionales para 
+determinar la procedencia de dicha desconexión ni pronunciarse sobre los tiempos de 
+espera o parámetros específicos definidos por la Empresa Distribuidora, cuya conformidad 
+normativa deberá ser evaluada por las instancias competentes. 
+c) Cargo anual por monitoreo y control. 
+Respecto de los costos asociados a los servicios de monitoreo y control establecidos por 
+Enel, cabe señalar que no corresponde al Coordinador definir metodologías tarifarias ni 
+establecer valores de referencia respecto de los costos de operación y monitoreo que sean 
+de cargo de los PMGD. 
+La determinación de la metodología o de los criterios de valorización aplicables corresponde 
+a los organismos competentes, de conformidad con la normativa vigente, particularmente 
+lo dispuesto en el artículo 89 bis del Decreto Supremo N.º 88, de 2019, del Ministerio de 
+Energía, y sus modificaciones. 
+Asimismo, el Coordinador no participa en la determinación de las condiciones económicas 
+y comerciales de los servicios ofrecidos por las Empresas Distribuidoras ni le corresponde 
+validar los montos, metodologías de cálculo o mecanismos de facturación establecidos por 
+estas. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl.  
+En consecuencia, las consultas o controversias relacionadas con la procedencia, 
+determinación, desglose o justificación de los cobros establecidos por Enel deberán 
+canalizarse ante las instancias competentes. 
+En mérito de lo expuesto, y sin perjuicio de las competencias que correspondan a la CNE, 
+a la SEC y a la respectiva Empresa Distribuidora, el Coordinador no estima procedente 
+establecer, por la vía solicitada, requisitos técnicos adicionales, criterios de desconexión o 
+metodologías tarifarias distintas de aquellas contempladas en la normativa vigente. 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+c.c.:     
+Sr. Diego Perales R. – Gerente Legal y Regulación.  
+ 

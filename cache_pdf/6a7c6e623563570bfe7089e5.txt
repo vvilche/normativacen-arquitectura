@@ -1,0 +1,161 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 12 de agosto de 2026 
+DE 05366-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados al EAF 276 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada al EAF 276-2026 se encuentra 
+publicada, y puede ser descargada desde el Sitio Web del Coordinador Eléctrico Nacional, 
+en la siguiente ruta: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Indisponibilidad > 
+Indicadores NTISyC > 2026 > Julio > Cálculo por EAF > EAF 276-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el lunes 17 de agosto de 
+2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+SBS/ycl 
+ 
+c.c.:  
+Sr. Juan Alfonso Veloso Molina – Encargado titular Sistema de Transmisión del Sur S.A. 
+Sr. Kandinsky Dintrans Perez – Encargado titular Sociedad Austral de Electricidad S.A. 
+Sr. Gabriel Morales – Encargado titular Cooperativa Regional Eléctrica Llanquihue Ltda. 
+DBCD/DTE-SSCC/SGASO 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras 
+ 
+EAF 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 276-2026 
+14-07-2026 
+Sociedad Austral de 
+Electricidad S.A. 
+S/E Melipulli 
+Parcial 
+Si 
+Los siguientes clientes libres en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+- 
+ALIMENTOS 
+MULTIEXPORT 
+S.A. 
+(79891160) BA S/E MELIPULLI 23KV. 
+- 
+ADMINISTR 
+SUPERMERCADOS 
+HIPER 
+LTDA. (96505760) BA S/E MELIPULLI 23KV. 
+- 
+H Y B SPA (76115120) BA S/E MELIPULLI 
+23KV. 
+- 
+BADINOTTI CHILE S.A. (96505760) BA S/E 
+MELIPULLI 23KV. 
+- 
+INVERMAR 
+S.A. 
+(79797990) 
+BA 
+S/E 
+MELIPULLI 23KV. 
+- 
+SERVICIO DE SALUD DEL RELONCAVI 
+(61607700) BA S/E MELIPULLI 23KV. 
+ 
+Enviar antecedentes corregidos, indicando para 
+cada cliente libre la respectiva clave de balance. 
+EAF 276-2026 
+14-07-2026 
+Cooperativa 
+Regional Eléctrica 
+Llanquihue Ltda. 
+S/E Melipulli 
+No 
+- 
+ 
+No envía consumos afectados para el alimentador 
+"Feria" en las comunas de Puerto Montt y Puerto Varas, 
+respectivamente. 
+ 
+Enviar antecedentes solicitados. 
+ 

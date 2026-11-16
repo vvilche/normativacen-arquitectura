@@ -1,0 +1,200 @@
+ 
+ 
+ARAUCO BIOENERGIA S.A. 
+Av. El Golf 150. Piso 14 
+Las Condes – Santiago, Chile 
+Fono: 56-2 2461 7200 
+De uso Interno para la organización
+ 
+Santiago, 28 de agosto 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GAB-060/2025 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+REF: Respuesta a carta DE05006-25: Comunica atraso en el proceso de 
+Verificación de Instalaciones de Generación para la Prestación de 
+Servicios Complementarios de acuerdo con Cronograma Vigente. 
+ 
+De nuestra consideración: 
+ 
+En relación con sus consultas planteadas en su carta DE05006-25 relativas al avance del proceso de verificación 
+de instalaciones de generación para la prestación de servicios complementarios, podemos indicar lo siguiente: 
+ 
+1. “Informar las razones que provocaron el no haber enviado en plazo los informes de verificación de SSCC 
+de sus instalaciones de generación, indicando las acciones que ha tomado o tomará para que a futuro no 
+se generen nuevos retrasos.” 
+De acuerdo con el listado de instalaciones retrasadas en la entrega del informe de verificación de SSCC 
+presente en la tabla N°1 del anexo 1 de su carta, las instalaciones que presentarían atraso en la entrega de 
+los informes serían: 
+ 
+- 
+TER Cholguán U1 
+- 
+TER Nueva Aldea II U1 
+- 
+TER Nueva Aldea U2 
+La situación en cada una de estas instalaciones se detalla a continuación: 
+ 
+a) TER Cholguán U1: Mediante carta GAB-018/2025 del 10 de abril del 2025 hemos informado a este 
+Coordinador que las pruebas de verificación de los servicios complementarios de control terciario de 
+frecuencia en giro y control de tensión se realizarían durante el mes de octubre del 2025. La razón por la 
+que no se enviaron los informes en la fecha que se indica en la tabla 1 del anexo 1 de vuestra carta, esto 
+es enero del 2025, es la demora que tuvo el propio Coordinador en la aprobación de los protocolos 
+propuestos para el proceso de verificación.  
+
+ 
+Al respecto, mediante carta GAB-068/2024 del 13 de noviembre del 2024 se enviaron estos protocolos al 
+Coordinador para su aprobación, lo cual ocurrió mediante carta DE 00669-25 del 30 de enero del 2025, 
+dejando a Arauco sólo 1 día para dar cumplimiento con la fecha indicada inicialmente. Considerando la 
+fecha en que fueron aprobados los protocolos, fue imposible cumplir con la fecha propuesta 
+originalmente, considerando además que estas instalaciones forman parte de un proceso productivo 
+dependiente e integrado entre la producción de electricidad y la producción industrial y que estas pruebas 
+requieren la asistencia de personal especialista extranjero, lo cual debe gestionarse con meses de 
+antelación.  
+Por este motivo se informó una nueva fecha para la realización de estas pruebas mediante carta GAB-
+018/2025 del 10 de abril del 2025, la cual es octubre del 2025. 
+ 
+b) TER Nueva Aldea II U1: Los ensayos de verificación de servicios complementarios de esta unidad se 
+encontraban planificados para ser ejecutados durante el mes de enero del 2025. No obstante, por falta 
+de disponibilidad de los especialistas que debían participar de este proceso, los ensayos fueron 
+reprogramados para el me de abril del presente año.  
+El día 08 de abril, durante el inicio del proceso de pruebas, se presentó una falla en el sistema de 
+refrigeración de aceite de la unidad, por lo cual el proceso de ensayos fue suspendido y se reprogramo 
+para el mes de junio de 2025. El día 16 de junio de 2025, se presentó una falla en el HMI del sistema de 
+control de la unidad generadora, por lo que no fue posible realizar las pruebas que estaban programadas 
+entre el 24 y 26 de junio de 2025. 
+De acuerdo con la disponibilidad de personal especialista que debe participar en las pruebas, estas han 
+sido reprogramadas para ser realizadas en el mes de octubre de 2025. 
+ 
+c) TER Nueva Aldea U2: Mediante cartas GAB-017/2025 del 10 de abril del 2025 y GAB-025/2025 del 28 de 
+abril del 2025, hemos informado a este Coordinador que las pruebas de verificación de servicios 
+complementarios de control terciario de frecuencia y control de tensión se realizarían durante el mes de 
+diciembre del 2025 y que el envío de los informes correspondientes se realizaría durante el mes de enero 
+del 2026.  
+Tal como se informó en nuestra carta GAB-025/2025, la causa principal del retraso en la realización de los 
+ensayos en esta unidad, que originalmente estaban planificados para ser realizados durante el mes de 
+diciembre del 2024, se debe a la demora en el proceso de aprobación que realiza el propio Coordinador 
+a los protocolos de ensayos propuestos para esta unidad. Al respecto y a mayores detalles, estos fueron 
+entregados al Coordinador mediante nuestra carta GAB-060/2024 con fecha 24 de septiembre del 2024, 
+pero estos finalmente fueron aprobados con posterioridad a la fecha programada para las pruebas, 
+ocurriendo el 13 de marzo del 2025 mediante la carta DE01523-25.  
+Considerando la fecha en que fueron aprobados los protocolos, fue imposible cumplir con la fecha 
+propuesta originalmente. Cabe señalar que estas instalaciones forman parte de un proceso productivo 
+
+ 
+dependiente e integrado entre la producción de electricidad y la producción industrial y que estas pruebas 
+requieren la asistencia de personal especialista extranjero, lo cual debe gestionarse con meses de 
+antelación.  
+Por este motivo se informó una nueva fecha para la realización de estas pruebas mediante la carta GAB-
+017/2025 del 10 de abril del 2025 y ratificada mediante carta GAB-025/2025 del 28 de abril del 2025, la 
+cual es diciembre del 2025. 
+ 
+2. “La entrega de un plan de normalización que considere el envío de los mencionados informes de 
+verificación en un plazo máximo de 30 días corridos, contados desde la fecha de respuesta solicitada a la 
+presente comunicación. Dicho plan debe considerar las etapas a seguir y las fechas límite asociadas, 
+específicamente la fecha de envío de los protocolos de pruebas, la fecha en que llevará a cabo lo ensayos 
+y la fecha de envío del respectivo informe. De igual forma este plan de normalización no debe alterar la 
+entrega de los informes programados de otras instalaciones para los próximos meses por parte de su 
+representada.” 
+Como se ha indicado en el punto 1, solamente el informe de pruebas de verificación de SSCC para la unidad TER 
+Nueva Aldea II U1 presenta un retraso respecto de la fecha informada con anterioridad. Las unidades 
+autoporductoras TER Cholguán U1 y TER Nueva Aldea U2 no presentan un retraso respecto de las fechas 
+informadas por Arauco, manteniéndose estas en los plazos informados. 
+La tabla 1 presentada a continuación resume las fechas de realización de las pruebas de verificación de SSCC y la 
+de entrega de los informes al CEN: 
+ 
+ 
+ 
+Tabla 1: Programa de entrega de los informes de verificación de instalaciones de SSCC al CEN 
+ 
+Hacemos presente que a la fecha se han enviado los siguientes protocolos de verificación de instalaciones de 
+Arauco a este Coordinador, los cuales aún siguen sin revisión y/o aprobación, por lo cual no nos ha sido posible 
+programar la asistencia de los especialistas que participarán de las pruebas y por ende, la fecha de las pruebas. El 
+listado de protocolos aún sin aprobación se presenta a continuación: 
+ 
+- 
+TER Nueva Aldea U1: Los protocolos para las pruebas de verificación de SSCC de esta instalación fueron 
+enviados mediante carta GAB-036/2025 con fecha del 10 de junio del 2025. A la fecha, estos protocolos 
+Enviados al CEN Aprobados por CEN
+TER Cholguán U1
+CTF Giro, CT
+13-11-2025
+30-01-2025
+Agosto 2025
+Septiembre 2025
+TER Nueva Aldea U2
+CTF Giro, CT
+24-09-2024
+13-03-2025
+Diciembre 2025
+Enero 2026
+TER Nueva Aldea II U1
+CPF, CTF Giro, CT
+16-04-2024
+15-05-2024
+Octubre 2025
+Noviembre 2025
+Protocolos de pruebas
+Unidad
+SSCC a verificar
+Fecha de pruebas
+Envío de informe de 
+verificación al CEN
+
+ 
+aún no han sido aprobados, por lo que no nos es posible planificar la fecha en que se realizarán los ensayos 
+de verificación de SSCC en esta instalación. 
+ 
+- 
+TER Viñales U1: Los protocolos para las pruebas de verificación de SSCC de esta instalación fueron 
+enviados mediante carta GAB-056/2024 con fecha del 14 de agosto del 2024 y las pruebas estaban 
+programadas para enero del 2025. Mediante carta GAB-069/2024 con fecha del 02 de diciembre del 2024 
+se consultó a este Coordinador por el avance en el proceso de revisión de los protocolos de prueba 
+enviados en carta GAB-026/2024 y se indicó que las pruebas de verificación de SSCC para esta instalación 
+se realizarían a partir del 12 de marzo del 2025, sin obtener respuesta. Considerando esta demora en la 
+aprobación de los protocolos por parte de este Coordinador (los protocolos llevan 1 año en revisión), nos 
+ha sido imposible cumplir con los plazos informados para la realización de las pruebas de verificación de 
+SSCC.  
+Considerando que aún los protocolos de prueba para esta instalación no han sido aprobados, nos es 
+imposible indicar una nueva fecha para la realización de las pruebas y envío de los informes al 
+Coordinador. 
+Adicionalmente y respecto a las pruebas de verificación de SSCC de control primario de frecuencia que no 
+formaban parte de las pruebas de SSCC consideradas inicialmente por este Coordinador en su carta DE01292-21 
+y que han sido incorporadas en la tabla 1 del anexo 1 de esta carta, indicamos a este Coordinador que las plantas 
+autoproductoras de Arauco no pueden prestar el servicio de control primario (ni secundario) de frecuencia, por 
+limitaciones que impone el proceso productivo, por lo que no se considera realizar este tipo de pruebas en las 
+plantas autoproductoras de Arauco.  
+ 
+Por todo lo expuesto en esta carta, solicitamos corregir la tabla 1 del anexo 1 de la carta DE05006-25, con las 
+fechas de entrega de los informes de verificación de SSCC que Arauco ha enviado en las correspondencias 
+indicadas en esta carta y eliminar las pruebas de verificación de SSCC de control primario de frecuencia para la 
+central Nueva Aldea U2. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Leonardo Bastidas 
+Encargado Titular 
+ARAUCO BIOENERGÍA S.A. 
+Leonardo 
+Bastidas Almarza
+Firmado 
+digitalmente por 
+Leonardo Bastidas 
+Almarza 
+Fecha: 2025.08.28 
+18:38:13 -04'00'

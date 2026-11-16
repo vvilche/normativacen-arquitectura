@@ -1,0 +1,120 @@
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 6 de octubre de 2026 
+ATA 0038-2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operaciones 
+Coordinador Eléctrico Nacional 
+ 
+Ref: Actualiza plan de trabajo incorporación al EDAG asociado a PDCE Zona Norte. 
+[1] ATA 0034-2026, “Actualiza plan de trabajo incorporación al EDAG asociado a PDCE 
+Zona Norte”, de fecha 9 de septiembre de 2026. 
+ 
+ 
+De mi consideración, 
+ 
+En relación con el asunto de la referencia, me dirijo a Ud. con el objeto de informar una 
+actualización respecto del estado de avance del plan de trabajo para la incorporación al 
+esquema EDAG asociado al PDCE Zona Norte, previamente informado mediante la 
+comunicación indicada en la Ref. [1]. 
+ 
+Al respecto, el Experto Técnico responsable de la implementación ha informado una nueva 
+actualización de la fecha estimada de suministro de los equipos requeridos para la 
+ejecución de los trabajos, situación que impacta la programación de determinadas 
+actividades contempladas en el cronograma vigente. 
+ 
+En consideración a lo anterior, se adjunta como anexo el plan de trabajo actualizado, el cual 
+refleja el estado de avance de las actividades ejecutadas a la fecha e incorpora la 
+reprogramación de aquellas tareas que se han visto afectadas por la modificación en los 
+plazos de provisión de equipos, estableciendo las nuevas fechas estimadas para la 
+ejecución y finalización de los hitos pendientes. 
+ 
+Cabe señalar que, de acuerdo con la información proporcionada por el proveedor, la 
+recepción de los equipos se encuentra prevista tentativamente para el 2 de diciembre de 
+2026. Sobre la base de dicha fecha y considerando las actividades de instalación, 
+integración, pruebas y puesta en servicio asociadas, se estima que la implementación del 
+esquema EDAG podría completarse al 30 de diciembre de 2026. 
+ 
+Sin perjuicio de lo anterior, mi representada mantiene su compromiso con el cumplimiento 
+de este requerimiento y continúa realizando un seguimiento permanente de las actividades 
+comprometidas, impulsando las gestiones necesarias para avanzar en la ejecución de los 
+trabajos pendientes y concretar la implementación en el menor plazo posible. 
+ 
+
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+Atacama Solar SpA 
+ 
+
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Anexo 
+ 
+Tabla 1: Plan de trabajo actualizado. 
+ 
+Ítem
+Tarea/Hito
+Inicio
+Fin
+Porcentaje de avance
+Comentario
+1
+Levantamiento sobre las instalaciones
+Completado Completado
+100%
+2
+Desarrollo Ingeniería básica y detalles  
+Completado Completado
+100%
+3
+Gestión de compras y adqusición y recepción de equipos 
+18/05/2026 02/12/2026
+50%
+En espera de la recepción de los 
+equipos, sujeto a los plazos informados 
+por el experto técnico.
+4
+Fabricación de celdas y/o programación de equipos y 
+materiales
+03/12/2026 09/12/2026
+50%
+5
+Montaje y ensayos de equipos FAT/SAT
+10/12/2026 18/12/2026
+0%
+6
+Integración a celda maestra
+18/12/2026 23/12/2026
+0%
+7
+Puesta en marcha 
+28/12/2026 30/12/2026
+0%
+43%
+Avance Promedio Total 

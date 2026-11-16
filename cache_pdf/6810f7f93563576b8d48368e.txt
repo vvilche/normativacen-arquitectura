@@ -1,0 +1,171 @@
+ 
+ 
+ARAUCO BIOENERGIA SpA. 
+Av. El Golf 150. Piso 14 
+Las Condes – Santiago, Chile 
+Fono: 56-2 2461 7200 
+1 
+Santiago, 28 de abril 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GAB-025/2025 
+ 
+Señora 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+REF: Respuesta a carta DE02388-25: Comunica atraso en el 
+proceso de Verificación de Instalaciones de Generación para la 
+Prestación de Servicios Complementarios de acuerdo con 
+Cronograma Vigente. 
+ 
+De nuestra consideración: 
+ 
+En relación con vuestras consultas planteadas en su carta de la referencia y al atraso en el proceso de verificación 
+de instalaciones de generación de Arauco para la prestación de Servicios Complementarios, podemos indicar lo 
+siguiente: 
+ 
+1. Informar las razones que justifican el no haber enviado en plazo los informes de verificación de SSCC de 
+sus instalaciones de generación, indicando las acciones que ha tomado o tomará para que a futuro no se 
+generen nuevos retrasos. 
+Las instalaciones de generación de propiedad de Arauco indicadas en el anexo 1 de la carta de la 
+referencia, que se encontrarían con un atraso en su proceso de verificación son las siguientes: 
+ 
+I. 
+Central autoproductora Nueva Aldea, unidades 1 y 2 (TER Nueva Aldea U1 y TER Nueva Aldea U2) 
+• 
+Unidad 1 (Nueva Aldea TG1): Para esta unidad, está considerado realizar las pruebas de SSCC de 
+control terciario de frecuencia y control de tensión, conforme a lo solicitado en su carta DE01292-21. 
+Cabe señalar, que la verificación del servicio de control primario de frecuencia no fue solicitada 
+originalmente para esta unidad, y que tampoco es factible de entregar atendiendo a que esta es una 
+unidad cogeneradora y autoproductora de energía y que por las características del proceso 
+productivo no puede prestar este servicio. 
+Como se informó en nuestra carta GAB-017/2025, los protocolos de ensayos para la verificación de 
+los servicios complementarios de control de frecuencia y tensión se entregarán a fines del mes de 
+mayo de 2025. 
+El retraso respecto del programa original se debe principalmente al proceso de reemplazo del 
+regulador de tensión (AVR) que está planificado llevar a cabo en esta unidad durante el presente año. 
+Se ha definido realizar las pruebas de homologación del modelo matemático del nuevo regulador en 
+
+ 
+2 
+conjunto con las pruebas de verificación de la prestación de servicios complementarios, en atención 
+a las sinergias que presenta para Arauco realizar ambas pruebas en la misma oportunidad. 
+Así entonces, se tiene planificado que las pruebas de verificación de los servicios complementarios de 
+control terciario de frecuencia y control de tensión se realizarán en el mes de agosto del 2025. 
+ 
+• 
+Unidad 2 (Nueva Aldea TG3): Como se informó en nuestra carta GAB-017/2025, está planificado 
+realizar los ensayos de verificación de servicios complementarios en el mes de diciembre de 2025, 
+para los servicios de control terciario de frecuencia y control de tensión. Al igual que en el caso de la 
+unidad 1 (TG1), esta es una unidad de cogeneración y autoproductora de energía, la cual, por las 
+características del proceso productivo, no puede entregar el servicio de control primario de 
+frecuencia. 
+La causa principal del retraso en la realización de los ensayos, que originalmente estaban planificados 
+para ser realizados durante el mes de diciembre del 2024, se debe a la demora en el proceso de 
+aprobación que realiza el CEN a los protocolos de ensayos propuestos para esta unidad. Al respecto 
+y a mayores detalles, estos fueron entregados al coordinador mediante nuestra carta GAB-060/2024 
+con fecha 24 de septiembre del 2024, pero estos finalmente fueron aprobados con posterioridad a la 
+fecha programada para las pruebas, ocurriendo el 13 de marzo del 2025 mediante la carta DE01523-
+25. 
+ 
+II. 
+Central autoproductora Viñales (TER Viñales U1): Los ensayos de verificación de servicios 
+complementarios de esta unidad estaban programados para ser realizados durante el mes de marzo de 
+2025, conforme a nuestra carta GAB-069/2024 enviada el 02 de diciembre del 2024 y considerando los 
+servicios de control terciario de frecuencia y control de tensión, conforme a lo solicitado en su carta 
+DE01292-21.  
+Cabe señalar, que la verificación del servicio de control primario de frecuencia no fue solicitada 
+originalmente para esta unidad, y que tampoco es factible de entregar atendiendo a que esta es una 
+unidad cogeneradora y autoproductora de energía y que por las características del proceso productivo no 
+puede prestar este servicio. 
+La causa principal del retraso en la realización de los ensayos se debe a la demora en el proceso de 
+aprobación que realiza el CEN a los protocolos de ensayos propuestos para esta unidad. Al respecto y a 
+mayores detalles, estos fueron entregados al coordinador mediante nuestra carta GAB-056/2024 con 
+fecha 14 de agosto del 2024 y a la fecha aún no han sido aprobados. Mediante carta GAB-069/2024 se 
+informó que las pruebas se estaban programando para el 12 de marzo del presente año y se consultó por 
+el avance del proceso de revisión de los protocolos de pruebas para esta unidad. Esta carta aún no ha sido 
+respondida. 
+
+ 
+3 
+Debido a esto último, no nos es posible programar una fecha para la realización de los ensayos de 
+verificación de servicios complementarios en esta unidad, debido a que aún no se cuenta con la 
+aprobación de los protocolos de parte del CEN. 
+ 
+III. 
+Central Nueva Aldea II (TER Nueva Aldea II U1): Los ensayos de verificación de servicios complementarios 
+de esta unidad se encontraban planificados para ser ejecutados durante el mes de enero del 2025. No 
+obstante, por disponibilidad de los especialistas que debían participar de este proceso, éstos fueron 
+reprogramados para el me de abril del presente año. 
+El día 08 de abril, durante el inicio del proceso de pruebas, se presentó una falla en el sistema de 
+refrigeración de aceite de la unidad, por lo cual el proceso de ensayos fue suspendido y reprogramado 
+para ser realizado entre el 03 al 05 de Junio del presente año. 
+ 
+2. La entrega de un plan de regularización que considere el envío de los mencionados informes de verificación 
+en un plazo máximo de 30 días hábiles, contados desde la recepción de la presente carta. Dicho plan debe 
+considerar al menos las etapas y fechas límite asociadas, específicamente en lo que respecta a la fecha de 
+envío de los protocolos de pruebas, fecha en que llevará a cabo lo ensayos y la fecha de envío del respectivo 
+informe. Cabe destacar que este plan no debe alterar la entrega de los informes programados de otras 
+instalaciones para los próximos meses por parte de su representada. 
+Se adjunta el programa de entrega de los informes de verificación de servicios complementarios de 
+las unidades indicadas en el anexo 1 de la carta de la referencia: 
+ 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Leonardo Bastidas 
+Encargado Titular 
+ARAUCO BIOENERGÍA S.A. 
+Enviados al CEN
+Aprobados por CEN
+TER Nueva Aldea U1
+CTF Giro, CT
+Mayo 2025
+Pendiente
+Agosto 2025
+Septiembre 2025
+TER Nueva Aldea U2
+CTF Giro, CT
+24-09-2024
+13-03-2025
+Diciembre 2025
+Enero 2026
+TER Viñales U1
+CTF Giro, CT
+14-08-2024
+Pendiente
+TER Nueva Aldea II U1
+CPF, CTF Giro, CT
+16-04-2024
+15-05-2024
+03 de Junio 2025
+Julio 2025
+Protocolos de pruebas
+Unidad
+SSCC a verificar
+Fecha de pruebas
+Envío de informe de 
+verificación al CEN
+Se programará una vez aprobados los protocolos
+Leonardo 
+Bastidas 
+Almarza
+Firmado digitalmente 
+por Leonardo Bastidas 
+Almarza 
+Fecha: 2025.04.28 
+17:44:09 -04'00'

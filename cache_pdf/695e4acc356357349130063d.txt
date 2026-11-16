@@ -1,0 +1,229 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 7 de enero de 2026 
+DE 00075-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 523 al 533 del año 2025. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 523-2025 al EAF 533-
+2025 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC > 2025 > Diciembre > Cálculo por EAF: 
+ 
+1. EAF 523-2025 
+2. EAF 524-2025 
+3. EAF 525-2025 
+4. EAF 526-2025 
+5. EAF 527-2025 
+6. EAF 528-2025 
+7. EAF 529-2025 
+8. EAF 530-2025 
+9. EAF 531-2025 
+10. EAF 532-2025 
+11. EAF 533-2025 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el lunes 12 de enero de 
+2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+En relación con los cálculos, se debe considerar que las interrupciones asociadas a los EAF 
+524, 525, 527 y 530 no presentaron afectación a Puntos de Control. 
+ 
+Finalmente, se deja constancia, que toda la información recibida por las empresas 
+distribuidoras fue incorporada al cálculo. 
+ 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. Víctor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+Sr. Víctor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Sebastián Ruiz-Tagle – Encargado Titular Colbún S.A. 
+Sr. Jose Luis Neira Veloso – Encargado Titular Cooperativa Eléctrica Los Angeles LTDA 
+Sr. Juan Alfonso Veloso Molina – Encargado Titular Sistema de Transmisión del Sur S.A. 
+Sr. Kadir Andres Ruiz Novoa – Encargado Titular Cooperativa de Abastecimiento de Energía Eléctrica Curico 
+LTDA. 
+Sr. José Andrés San Martín Baeza – Encargado Titular SUBESTACIÓN PUCHUNCAVÍ S.A. 
+Sr. María José Reveco – Encargado Titular Transelec S.A. 
+Sr. Andrea Francisca Torneria Torres – Encargado Titular Indura S.A. 
+Sr. Daniel Pinto – Encargado Titular Empresa de los Ferrocarriles del Estado 
+Sr. Lienthur Juan SILVA MENDEZ – Encargado Titular Cooperativa Rural Eléctrica Río Bueno Ltda. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Sociedad Austral de Electricidad S.A. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Compañía Eléctrica de Osorno S.A 
+DBCD/DTE-SSCC/SGASO 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras 
+EAF  
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 523-2025 05-12-2025 
+Cooperativa 
+Eléctrica Los 
+Angeles LTDA 
+S/E El Lince 
+Parcial 
+SI 
+El alimentador Colbún tiene hora de normalización 
+equivalente previa a la hora de disponibilidad de la barra. 
+ 
+Se solicita detallar el mecanismo de recuperación de 
+estas cargas para este alimentador donde esto se 
+presente, y con el desglose requerido por la SEC, esto 
+es comunal y por zona de tarificación. 
+ 
+Se informa que la empresa Distribuidora remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido ni adjunta al Informe de Falla de 5 días. No 
+obstante. 
+EAF 526-2025 06-12-2025 
+Cooperativa de 
+Abastecimiento 
+de Energía 
+Eléctrica Curico 
+LTDA. 
+S/E Curicó 
+SI 
+SI 
+Se informa que la empresa Distribuidora remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido ni adjunta al Informe de Falla de 5 días. No 
+obstante, respecto del contenido recibido no se formulan 
+observaciones de calidad y/o formato, por lo que se 
+incorpora íntegramente al cálculo. 
+EAF 532-2025 08-12-2025 
+Cooperativa 
+Rural Eléctrica 
+Río Bueno Ltda. 
+S/E Chirre 
+SI 
+SI 
+El alimentador Chamul Ranco tiene hora de normalización 
+equivalente previa a la hora de disponibilidad de la barra. 
+ 
+Se solicita detallar el mecanismo de recuperación de 
+estas cargas para este alimentador donde esto se 
+presente, y con el desglose requerido por la SEC, esto 
+es comunal y por zona de tarificación. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+EAF  
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 533-2025 08-12-2025 
+Compañía 
+General de 
+Electricidad S.A. 
+S/E Granero 
+SI 
+SI 
+Los alimentadores La Compañía e Indura, tienen hora de 
+normalización 
+equivalente 
+previa 
+a 
+la 
+hora 
+de 
+disponibilidad de la barra. 
+Se solicita detallar el mecanismo de recuperación de 
+estas cargas para este alimentador donde esto se 
+presente, y con el desglose requerido por la SEC, esto 
+es comunal y por zona de tarificación. 
+Notas: 
+(1) El EAFs N° 529 no tuvieron afectación de Empresas Distribuidoras. 
+(2) En los EAF N° 524, 525, 527, 528 y 531 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A. fue recibida 
+en plazo y en forma, e incorporada al cálculo. 
+(3)  El EAF N° 530 la información recibida de la empresa distribuidora Cooperativa de Abastecimiento de Energía Eléctrica Curico LTDA. fue 
+recibida en plazo y en forma, e incorporada al cálculo. 
+(4)  El EAF N° 532 la información recibida de la empresa distribuidora Compañía Eléctrica de Osorno S.A fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+(5)  El EAF N° 532 la información recibida de la empresa distribuidora Sociedad Austral de Electricidad S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+ 
+ 
+ 
+ 

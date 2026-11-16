@@ -1,0 +1,70 @@
+Santiago, 05 de septiembre de 2025. 
+ACC.ECH.099.25 
+Señor: 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANT.  
+: 
+[1] Carta DE04978-25 del 14 de agosto de 
+2025. 
+ 
+REF.  
+: 
+Responde carta DE04978-25. 
+ 
+De mi consideración: 
+ 
+Mediante la presente, y en atención al requerimiento del Coordinador Eléctrico Nacional (en 
+adelante, “CEN”), comunicado mediante la carta DE04978-25, se remite en documento adjunto 
+una minuta técnica que da cuenta de la modificación del parámetro de la Potencia Base del 
+controlador de frecuencia/potencia de la central solar fotovoltaica Almeyda, de modo que dicho 
+parámetro corresponda a la Potencia Máxima de la instalación, conforme a lo solicitado. 
+ 
+Respecto a las centrales solares fotovoltaicas Usya y Malgarida, informamos que aún no ha sido 
+posible implementar la modificación del parámetro de la Potencia Base. Esto se debe a que el 
+fabricante del equipamiento, Ingeteam, requiere realizar una actualización de firmware del 
+Controlador de Planta (en adelante, “PPC”) como condición previa para efectuar el cambio de 
+parámetros, y no ha contado con disponibilidad para realizar dicha actualización antes del 05 de 
+septiembre de 2025, fecha límite establecida por el CEN. 
+ 
+La programación de la actualización y las pruebas de verificación del correcto desempeño 
+posterior al ajuste es la siguiente: 
+ 
+Central 
+Fecha 
+Hora inicio 
+PFV Malgarida 15-09-2025 07:30 am 
+PFV Usya 
+16-09-2025 07:30 am 
+Tabla 1 Programa de actualización y pruebas. 
+ 
+ 
+
+Considerando que posterior a estas pruebas debe elaborarse una minuta técnica que respalde el 
+comportamiento uniforme de la instalación en todo su rango operativo, solicitamos una 
+extensión del plazo de implementación hasta el 25 de septiembre de 2025, lo que permitiría 
+cumplir adecuadamente con lo requerido por el CEN. Esta solicitud se formula bajo el supuesto 
+de que la planificación indicada no sufra alteraciones. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+Felipe Escobar Tapia 
+Encargado (S)  
+Acciona Energía Chile Holdings, S.A. 
+ 
+ 
+ 

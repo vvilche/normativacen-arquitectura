@@ -1,0 +1,229 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+Santiago, 02 de junio de 2026 
+ 
+QLP202617 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a Carta DE 03429-26 – Proceso 
+de 
+Verificación 
+CSF-AGC 
+e 
+integración 
+AGC/ED 
+ 
+De nuestra consideración: 
+ 
+En atención a la carta de la referencia, mediante la cual se solicita informar el estado de 
+avance del proceso de verificación del Servicio Complementario de Control Secundario 
+de Frecuencia (CSF-AGC) y la integración al sistema de Despacho Económico (ED), junto 
+con el respectivo cronograma de trabajo, por medio de la presente informamos lo 
+siguiente: 
+ 
+1. Antecedentes y Estado de Implementación 
+ 
+Informamos a Ud. que la integración de PFV Quilapilún al AGC/ED requiere, como paso 
+previo e indispensable, la realización de un cambio en el Power Plant Controller (PPC) de 
+la instalación. Este cambio es necesario para habilitar la funcionalidad de recepción de 
+consignas de potencia activa expresadas en MW desde el Control Automático de 
+Generación (AGC), de conformidad con lo exigido en el Artículo 3-6, literales f) e i) de la 
+NTSyCS. 
+  
+Al respecto, comunicamos el siguiente estado de avance: 
+  
+I. 
+Las solicitudes de intervención asociadas al cambio de PPC han sido debidamente 
+ingresadas y gestionadas en la plataforma Neomante del CEN. 
+II. 
+Las pruebas internas del cambio de PPC se encuentran programadas para los días 
+10 al 12 de junio de 2026. 
+III. 
+Se ha comunicado al Departamento de Modelación y Aplicaciones EMS (DMAP) 
+del CEN, en el mes de mayo de 2026. 
+IV. 
+Una vez completado el cambio de PPC durante el mes de junio, se procederá con 
+la implementación de las señales SITR, el envío de la planilla de parámetros IEC 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+104 al Dpto. SCADA del CEN, y los pasos subsiguientes de integración al AGC/ED, 
+conforme al cronograma detallado a continuación. 
+ 
+2. Cronograma de Trabajo 
+ 
+A continuación, se presenta el cronograma de trabajo con los hitos y plazos específicos 
+para la integración de PFV Quilapilún al AGC/ED, considerando como plazo máximo el 
+mes de noviembre de 2026: 
+  
+Etapa 
+Descripción 
+Fecha 
+Responsable 
+Estado 
+1. Pruebas 
+internas cambio 
+de PPC 
+Ejecución de pruebas 
+internas asociadas al 
+cambio de Poder de 
+Control de la Planta 
+(PPC), con solicitudes de 
+intervención en 
+plataforma Neomante 
+del CEN ya gestionadas. 
+10–12 de 
+junio 2026 
+Chungungo 
+S.A. 
+En ejecución 
+2. Cambio de 
+PPC e 
+implementación 
+en terreno 
+Materialización del 
+cambio de PPC en las 
+instalaciones de PFV 
+Quilapilún, conforme a 
+las intervenciones 
+autorizadas en 
+Neomante. 
+Junio 2026 
+Chungungo 
+S.A. 
+Pendiente 
+3. 
+Implementación 
+señales SITR + 
+envío de planilla 
+IEC 104 
+Una vez completado el 
+cambio de PPC, 
+implementación de los 
+puntos de integración 
+requeridos y envío de 
+planilla con parámetros 
+IEC 104 al Dpto. SCADA 
+del CEN. 
+Junio 2026 
+Chungungo 
+S.A./ Dpto. 
+SCADA CEN 
+Pendiente 
+4. Pruebas 
+punto a punto 
+SITR 
+Coordinación y ejecución 
+de pruebas punto a 
+punto con el Dpto. 
+SCADA del CEN para 
+verificar integración al 
+SITR y recepción de 
+señales. 
+Julio 2026 
+Chungungo 
+S.A./ Dpto. 
+SCADA CEN 
+ 
+Pendiente 
+5. Aprobación 
+Revisión y validación 
+Julio 2026  
+Dpto. SCADA 
+Pendiente 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+pruebas internas 
+SITR 
+interna de resultados de 
+pruebas punto a punto 
+por parte del CEN.  
+CEN 
+6. Coordinación 
+pruebas CSF-
+AGC con DMAP 
+Coordinación con el 
+Dpto. de Modelación y 
+Aplicaciones EMS 
+(DMAP) para programar 
+pruebas funcionales de 
+integración al Despacho 
+Económico vía AGC 
+(CSF). 
+Julio-
+agosto 
+2026 
+Chungungo 
+S.A./ DMAP 
+CEN 
+Pendiente 
+7. Ejecución 
+pruebas CSF-
+AGC / ED 
+Ejecución de pruebas 
+funcionales de 
+integración al servicio 
+CSF y módulo de 
+Despacho Económico 
+(ED) vía AGC. 
+Julio-
+agosto 
+2026 
+ 
+Chungungo 
+S.A./ DMAP 
+CEN 
+Pendiente 
+8. Revisión y 
+aprobación CEN 
+Revisión de resultados 
+por parte del CEN y 
+aprobación formal de la 
+integración al AGC/ED.  
+Agosto 
+2026  
+DMAP CEN 
+Pendiente 
+  
+Nota: Los plazos indicados a partir de la etapa 3 son referenciales y dependen de la conclusión 
+exitosa del cambio de PPC dentro del mes de junio de 2026. Los plazos definitivos para las 
+pruebas con el CEN serán confirmados en coordinación con los departamentos SCADA y DMAP 
+una vez completado dicho cambio. La empresa se compromete a dar cumplimiento al proceso 
+dentro del plazo máximo de noviembre de 2026 establecido por el Coordinador. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Moraga 
+Encargado Titular 
+Chungungo S.A. 

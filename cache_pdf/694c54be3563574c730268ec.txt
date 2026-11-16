@@ -1,0 +1,420 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Santiago, 24 de diciembre de 2025 
+DE 08199-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Publicación Índices de Indisponibilidad 
+Norma Técnica de Indisponibilidad de Suministro 
+y Compensaciones asociados a interrupciones 
+programadas y de curso forzoso de noviembre 
+2025. 
+De mi consideración: 
+ 
+Mediante la presente, y en conformidad con lo establecido en el Artículo 3-10 de la 
+Norma Técnica de Indisponibilidad de Suministro y Compensaciones (NTISyC), 
+comunico a usted que la información correspondiente a las indisponibilidades 
+programadas y de curso forzoso de noviembre de 2025 se encuentra publicada, y 
+puede ser descargada desde el Sitio Web del Coordinador Eléctrico Nacional, en la 
+siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > 
+Indicadores > NTISyC > 2025 > Noviembre > Cálculo por Desconexión 
+Programada y Forzada 
+ 
+Su representada podrá realizar observaciones a los cálculos de los índices 
+mencionados hasta el 30 de diciembre de 2025, mediante carta y con copia al 
+correo electrónico ind.suministro@coordinador.cl, indicando en el asunto 
+“Observaciones a cálculos de indicadores de indisponibilidad programadas y curso 
+forzoso noviembre 2025”. Cabe destacar que las observaciones deben enmarcarse 
+en lo establecido en el Artículo 4-9 de la mencionada norma. 
+ 
+Adicionalmente, en el Anexo 1 a la presente carta se encuentra una evaluación de 
+la calidad de antecedentes solicitados a las empresas distribuidoras mediante las 
+cartas de la Ref. [2-8], según los formatos requeridos por la SEC en la carta de la 
+Ref. [1], mientras que en el Anexo 2 se encuentra una evaluación de los 
+antecedentes solicitados a Clientes Libres en Transmisión mediante la carta de la 
+Ref. [9-10], en virtud de lo señalado en el Artículo 1-7 de la NTISyC. Cabe destacar 
+que en los casos donde la información requerida no se ajuste a las condiciones 
+establecidas en las comunicaciones mencionadas o ésta no haya sido enviada en 
+los plazos correspondientes, esta situación será informada a la SEC.  
+ 
+Finalmente, he de informar que, en caso de no recibirse la información faltante, 
+especificada en los Anexos, el cálculo de indicadores se realizará con los 
+antecedentes disponibles. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+c.c.:  
+Sr. Víctor Gutiérrez González – Encargado Titular Compañía General de Electricidad S.A.  
+Sr. Pablo Juan Roberto Leal Vester – Encargado Titular Compañía Distribuidora de Energía Eléctrica CODINER S.A.  
+Sr. Kandinsky Dintrans Pérez – Encargado Titular Sociedad Austral de Electricidad S.A. 
+Sr. Leonardo Bastidas Almarza – Encargado Titular Arauco Bioenergía SpA 
+Sr. Luis Eduardo Sepúlveda Iturra – Encargado Titular Chilquinta Distribución S.A. 
+Sr. Felipe Aravena Cofre – Encargado Titular Compañía Eléctrica del Litoral S.A. 
+Sr. Felipe Aravena Cofre – Encargado Titular Energía de Casablanca S.A. 
+Sr. Roberto Alexandre Celedón Diaz – Encargado Titular Sociedad Contractual Minera Atacama Kozan 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Empresa Eléctrica de la Frontera S.A. 
+DBCD/DTE-SSCC/SGASO 
+Referencias: 
+[1] Oficio Electrónico N° 121688 de la Superintendencia de Electricidad y Combustibles (SEC), (N° 
+recepción OP01307-22) Ref.: “Instruye el envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022.   
+[2] Carta DE07840-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de noviembre de 2025.” de fecha 10 de 
+diciembre de 2025. Dirigida a Compañía General de Electricidad S.A.   
+[3] Carta DE07838-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de noviembre de 2025.” de fecha 10 de 
+diciembre de 2025. Dirigida a Compañía Eléctrica del Litoral S.A. 
+[4] Carta DE07839-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de noviembre de 2025.” de fecha 10 de 
+diciembre de 2025. Dirigida a Sociedad Austral de Electricidad S.A. 
+[5] Carta DE07841-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de noviembre de 2025.” de fecha 10 de 
+diciembre de 2025. Dirigida a Chilquinta Distribución S.A. 
+[6] Carta DE07842-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de noviembre de 2025.” de fecha 10 de 
+diciembre de 2025. Dirigida a Compañía Distribuidora de Energía Eléctrica CODINER S.A. 
+[7] Carta DE07843-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de noviembre de 2025.” de fecha 10 de 
+diciembre de 2025. Dirigida a Empresa Eléctrica de Casablanca S.A. 
+[8] Carta DE07844-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de noviembre de 2025.” de fecha 10 de 
+diciembre de 2025. Empresa Eléctrica de la Frontera S.A. 
+[9] Carta DE07850-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de noviembre de 2025.” de fecha 10 de 
+diciembre de 2025. Dirigida a Arauco Bioenergía SpA 
+[10] Carta DE07851-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de noviembre de 2025.” de fecha 10 de 
+diciembre de 2025. Dirigida a Sociedad Contractual Minera Atacama Kozan 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Anexo 1: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras  
+ 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+SD2025124343 
+30-11-2025 
+Compañía 
+General de 
+Electricidad S.A. 
+S/E Cerrillos  
+S/E Los Loros 
+Parcial 
+SI 
+Alimentadores Algarrobo, El Yeso, Elibor y Coemin de 
+S/E Cerrillos tienen una diferencia en hora de inicio de 
+Desconexión de 7 minutos previos a la hora efectiva 
+informada en la Solicitud de Desconexión. 
+ 
+Alimentadores Amolanas, Hornitos, La Puerta y 
+Pabellón de S/E Los Loros tienen una diferencia en 
+hora de inicio de Desconexión de 3 minutos previos a 
+la hora efectiva informada en la Solicitud de 
+Desconexión. 
+ 
+Revisar y corregir según corresponda, justificando 
+las diferencias. O, indicar hora de recuperación de 
+la barra en caso de haberse recuperado previo a la 
+hora de término de la solicitud. 
+SD2025118425 
+18-11-2025 
+Compañía 
+General de 
+Electricidad S.A. 
+S/E Cerrillos 
+Parcial 
+SI 
+Alimentadores Algarrobo y Elibor de S/E Cerrillos 
+tienen una diferencia en hora de inicio de Desconexión 
+de 4 minutos previos a la hora efectiva informada en la 
+Solicitud de Desconexión. 
+ 
+Alimentador El Yeso de S/E Cerrillos tiene una 
+diferencia en hora de inicio de Desconexión de 5 
+minutos previos a la hora efectiva informada en la 
+Solicitud de Desconexión. 
+   
+Revisar y corregir según corresponda, justificando 
+las diferencias. O, indicar hora de recuperación de 
+la barra en caso de haberse recuperado previo a la 
+hora de término de la solicitud. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+SD2025125816 
+18-11-2025 
+Compañía 
+General de 
+Electricidad S.A. 
+S/E El Peñón 
+Parcial 
+SI 
+El siguiente cliente libre en distribución no se encuentra 
+en las bases de datos del Coordinador:  
+  
+AGUAS DEL VALLE S.A (BA S/E EL PEÑON 13.2KV) 
+   
+Enviar antecedentes corregidos, indicando para el 
+cliente libre la respectiva clave de balance                
+SD2025124266 
+23-11-2025 
+Compañía 
+General de 
+Electricidad S.A. 
+S/E Tierra 
+Amarilla 
+S/E Plantas 
+Parcial 
+SI 
+Alimentadores Complejo Minero y Viñatas de S/E 
+Tierra Amarilla tienen una diferencia en hora de inicio 
+de Desconexión de 13 minutos previos a la hora 
+efectiva informada en la Solicitud de Desconexión. 
+ 
+Alimentadores Alcaparrosa y Punta Del Cobre de S/E 
+Tierra Amarilla tienen una diferencia en hora de inicio 
+de Desconexión de 11 minutos previos a la hora 
+efectiva informada en la Solicitud de Desconexión. 
+ 
+Alimentadores Alicanto y Biocobre, El Inca, Inacesa, 
+Los Carrera y Tierra Amarilla de S/E Plantas tienen una 
+diferencia en hora de inicio de Desconexión de 8 
+minutos previos a la hora efectiva informada en la 
+Solicitud de Desconexión.  
+ 
+ 
+   
+Revisar y corregir según corresponda, justificando 
+las diferencias. O, indicar hora de recuperación de 
+la barra en caso de haberse recuperado previo a la 
+hora de término de la solicitud. 
+SD2025123579 
+09-11-2025 
+Compañía 
+General de 
+Electricidad S.A. 
+S/E 
+Chacahuín 
+SI 
+SI 
+La información recibida desde la empresa distribuidora 
+Compañía General de Electricidad S.A. fue recibida en 
+plazo y en forma, e incorporada al cálculo.  
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+SD2025112548 
+02-11-2025 
+Sociedad Austral 
+de Electricidad 
+S.A. 
+S/E Ancud 
+SI 
+SI 
+La información recibida desde la empresa Sociedad 
+Austral de Electricidad S.A. fue recibida en plazo y en 
+forma, e incorporada al cálculo.  
+SD2025121685 
+02-11-2025 
+Empresa Eléctrica 
+de la Frontera 
+S.A. 
+S/E Traiguen 
+SI 
+SI 
+La información recibida desde la empresa Empresa 
+Eléctrica de la Frontera S.A. fue recibida en plazo y en 
+forma, e incorporada al cálculo.  
+SD2025121914 
+18-11-2025 
+Compañía 
+Eléctrica del 
+Litoral S.A. 
+S/E Quintay 
+NO 
+- 
+No envía anexo con los alimentadores que fueron 
+afectados 
+según 
+la 
+Solicitud 
+de 
+Desconexión 
+SD2025121914 para la S/E con consumos afectados 
+mencionada (Solicitado en comunicación DE07838-
+25).  
+Enviar antecedentes solicitados. 
+SD2025121914 
+18-11-2025 
+Chilquinta 
+Distribución S.A. 
+S/E Quintay 
+NO 
+- 
+No envía anexo con los alimentadores que fueron 
+afectados 
+según 
+la 
+Solicitud 
+de 
+Desconexión 
+SD2025121914 para la S/E con consumos afectados 
+mencionada (Solicitado en comunicación DE07841-
+25).  
+Enviar antecedentes solicitados. 
+SD2025121914 
+18-11-2025 
+Empresa Eléctrica 
+de Casablanca 
+S.A. 
+S/E Quintay 
+NO 
+- 
+No envía anexo con los alimentadores que fueron 
+afectados 
+según 
+la 
+Solicitud 
+de 
+Desconexión 
+SD2025121914 para la S/E con consumos afectados 
+mencionada (Solicitado en comunicación DE07843-
+25).  
+Enviar antecedentes solicitados. 
+SD2025121685 
+02-11-2025 
+Compañía 
+Distribuidora de 
+Energía Eléctrica 
+CODINER S.A. 
+S/E Traiguen 
+NO 
+- 
+No envía anexo con los alimentadores que fueron 
+afectados 
+según 
+la 
+Solicitud 
+de 
+Desconexión 
+SD2025121685 para la S/E con consumos afectados 
+mencionada (Solicitado en comunicación DE07842-
+25).  
+Enviar antecedentes solicitados. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Anexo 2: Estado de completitud y calidad de información solicitada a Clientes Libres en Transmisión  
+ 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Empresa 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+SD2025123880 
+18-11-2025 
+Arauco Bioenergía 
+SpA 
+S/E Central 
+Licanten 
+SI 
+SI 
+La información recibida desde la empresa 
+Arauco Bioenergía SpA. fue recibida en plazo y 
+en forma, e incorporada al cálculo.  
+SD2025124266 
+23-11-2025 
+Sociedad 
+Contractual Minera 
+Atacama Kozan 
+S/E Atacama 
+Kozan 
+NO 
+- 
+No envía anexo con los alimentadores que 
+fueron 
+afectados 
+según 
+la 
+Solicitud 
+de 
+Desconexión SD2025124266 para la S/E con 
+consumos afectados mencionada (Solicitado en 
+comunicación 
+DE07851-25). 
+Enviar 
+antecedentes solicitados. 
+ 

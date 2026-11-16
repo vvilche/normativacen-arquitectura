@@ -1,0 +1,51 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 08 de marzo de 2025 
+DE 01452-25 
+Señores 
+Encargados 
+Empresas Propietarias de Pequeños Medios 
+de Generación Distribuida (PMGD) 
+Presente 
+ 
+Ref.: Evento ocurrido en el Sistema Eléctrico 
+Nacional del día 25 de febrero de 2025. 
+De mi consideración: 
+ 
+Me refiero al evento ocurrido en el Sistema Eléctrico Nacional el día 25 de febrero de 
+2025, a partir de las 15:16 horas, que tuvo su origen en instalaciones de 500 kV entre las 
+SSEE Nueva Maitencillo y Nueva Pan de Azúcar, cuya propagación provocó la 
+desconexión intempestiva de distintas otras instalaciones de generación, transmisión y 
+afectación total del suministro eléctrico a clientes finales. 
+ 
+Al respecto, con el propósito de que este Coordinador pueda analizar adecuadamente y 
+de manera global las causas y consecuencias de este evento en el SEN, solicito a usted 
+remitir la siguiente información, a más tardar el día 12 de marzo de 2024: 
+ 
+(i) Nombre del PMGD. 
+(ii) Alimentador asociado a la red de media tensión. 
+(iii) Empresa distribuidora propietaria de dicha red de media tensión. 
+(iv) Potencia generada por el PMGD previo al evento [MW]. 
+(v) Potencia generada por el PMGD posterior al evento [MW]. 
+(vi) Conforme a lo descrito en el Título 7-6 de la Norma Técnica de Conexión y 
+Operación de PMGD (Comportamiento en estado de falla), los registros de 
+protecciones operadas sobre el PMGD que den cuenta del comportamiento en 
+estado de falla en la red, que identifique su activación ya sea ante desconexión por 
+tensión, por frecuencia y/o pérdida de sincronismo.  
+(vii) Horario de la reducción y/o desconexión de la generación [hh:mm:ss]. 
+(viii) Horario de normalización de la generación [hh:mm:ss]. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+REV/LCG/agc 
+c.c.:  
+Empresas Coordinadas 
+Departamento Análisis de la Operación 

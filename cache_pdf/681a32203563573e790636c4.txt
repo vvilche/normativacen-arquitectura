@@ -1,0 +1,50 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 05 de mayo de 2025 
+DE 02420-25 
+Señores 
+Encargados  
+Empresas Coordinadas PMGD 
+Presente 
+ 
+ 
+ 
+ 
+ 
+Ref.: Requiere información respecto de ajustes 
+en las protecciones de las plantas PMGD 
+ERV. 
+ 
+De mi consideración: 
+Por medio de la presente se solicita a su representada la actualización de la información 
+relativa a los ajustes de las funciones de protección de los inversores de sus centrales 
+PMGD de energía renovable variable (ERV) y de sus sistemas de almacenamiento en los 
+casos que corresponda. 
+Dicha información debe incluir los tiempos (en segundos) y valores de tensión (en p.u.) o 
+frecuencia (en Hz), según corresponda, conforme al formato establecido en el archivo 
+Excel® que se adjunta. 
+Se solicita remitir el archivo con la información requerida al correo electrónico 
+RT_PMGD@coordinador.cl, indicando en el asunto: “Ajuste VRT & FRT - PMGD” junto 
+con el nombre de la central generadora respectiva, a más tardar el lunes 12 de mayo de 
+2025. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+JMC/VMA/adr 
+ 
+Incl.: Lo indicado 
+c.c.:  
+Empresas Coordinadas 
+Sr. Rodrigo Espinoza V. – Gerente de Operación.   
+Sra. Consuelo Mengual H. – Directora Unidad Legal.   
+Sr. Rodrigo Barbagelata S. – Director de Regulación. 
+ 

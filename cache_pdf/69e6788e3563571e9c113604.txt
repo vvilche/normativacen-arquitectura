@@ -1,0 +1,190 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+Santiago, 20 de abril de 2026 
+DE 02610-26 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 138 al 141 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 138-2026 al EAF 141-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC > 2026 > Marzo > Cálculo por EAF: 
+ 
+1. EAF 138-2026 
+2. EAF 139-2026 
+3. EAF 140-2026 
+4. EAF 141-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el jueves 23 de abril de 
+2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+DR/ycl  
+ 
+c.c.:  
+Sr. Víctor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Víctor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+Sr. Francisco Messen Rebolledo – Encargado Titular Enel Distribución Chile S.A. 
+Sr. Juan Alfonso Veloso Molina – Encargado Titulas Sociedad Transmisora Metropolitana S.A. 
+Sr. Juan Alfonso Veloso Molina – Encargado Titular Sistema de Transmisión del Sur S.A. 
+Sr. Sergio Zamora Ramírez – Encargado Titular Bioenergías Forestales SpA 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Empresa Eléctrica de la Frontera S.A. 
+Sr. Alberto Sánchez Polanco – Encargado Titular Cooperativa Eléctrica Charrúa Ltda. 
+DBCD/DTE-SSCC/SGASO 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras  
+ 
+EAF (*) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 138-2026 
+20-03-2026 
+Enel Distribución 
+Chile S.A. 
+S/E Lo Prado 
+Parcial 
+SI 
+ 
+El siguiente cliente libre en distribución no se encuentra 
+en las bases de datos del Coordinador: 
+ 
+ 
+SOCIEDAD CONCESIONARIA RUTAS DEL 
+PACIFICO S.A. (96873140) BA S/E LO 
+PRADO 44KV BP1 
+ 
+Enviar antecedentes corregidos, indicando para el 
+cliente libre la respectiva clave de balance 
+EAF 140-2026 
+22-03-2026 
+Cooperativa 
+Eléctrica Charrúa 
+LTDA. 
+S/E Cholguán 
+(STS) 
+Parcial 
+SI 
+No envía la información sobre el consumo afectado en 
+la S/E Choguán (STS), específicamente, de los 
+alimentadores "Yungay" y "Tucapel" 
+ 
+Enviar los antecedentes solicitados 
+EAF 140-2026 
+22-03-2026 
+Empresa Eléctrica 
+de la Frontera S.A. 
+S/E Cholguán 
+(STS) 
+Parcial 
+SI 
+El siguiente cliente libre en distribución no se encuentra 
+en las bases de datos del Coordinador: 
+ 
+ 
+INVERSIONES 
+E 
+INMOBILIARIA 
+DV 
+(99528750) BA S/E CHOLGUAN (STS) 
+13.2KV BP 
+ 
+Enviar antecedentes corregidos, indicando para el 
+cliente libre la respectiva clave de balance 
+EAF 141-2026 
+22-03-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Palafitos 
+S/E Pacífico 
+Parcial 
+SI 
+No informa mecanismo de recuperación para el 
+alimentador "Pesquero" cuya hora de normalización de 
+consumo es previa a la hora de disponibilidad de la 
+barra. 
+ 
+Enviar los antecedentes solicitados 
+(*) En los EAF N°138 y 139 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+ 

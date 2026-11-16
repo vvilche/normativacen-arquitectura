@@ -1,0 +1,361 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 06 de enero de 2026 
+DE 00065-26 
+Señor 
+Sergio Zamora R. 
+Encargado Titular 
+Bioenergías Forestales SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Terciario de 
+Frecuencia de las centrales TER Santa Fe, TER 
+CMPC Laja y TER CMPC Pacífico. 
+[1] Carta BF-E-CYR-2025-052, Ref.: “Responde 
+observaciones 
+sobre 
+Informes 
+Técnicos 
+de 
+Verificación de SS.CC. de las centrales TER Santa Fe, 
+TER CMPC Laja y TER CMPC Pacífico”, de fecha 27 
+de octubre de 2025. 
+Responde a Ingreso: DE10929-25 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación del Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Terciario de Frecuencia (CTF) de las centrales TER Santa Fe, TER CMPC Laja y 
+TER CMPC Pacífico.  
+ 
+Como resultado de este proceso, las centrales mencionadas quedarán habilitadas para la 
+prestación del mencionado servicio complementario a partir de las 00:00 del 08 de enero 
+de 2026, considerando los recursos indicados en Anexo de la presente carta.  
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NT-SSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CTF de las centrales TER Santa Fe, TER CMPC Laja y TER CMPC 
+Pacífico se han publicado en las siguientes rutas de la página web del Coordinador Eléctrico 
+Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia 
+ 
+1. > Central TER Santa Fe 
+2. > Central TER CMPC Laja 
+3. > Central TER CMPC Pacífico 
+ 
+Finalmente, las centrales mencionadas podrán participar de las subastas de CTF una vez 
+que completen el proceso de solicitud de incorporación a la plataforma de subastas. Para 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, las centrales mencionadas podrán ser instruidas de manera 
+directa por el Coordinador Eléctrico Nacional en la prestación del mencionado SC.  
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/WJS/adr 
+c.c.:  
+Sr. Marcelo Lagos – Encargado Suplente Bioenergías Forestales SpA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+  
+Anexo: Resultados del Proceso de Verificación de SSCC de las Centrales 
+TER Santa Fe, TER CMPC Laja y TER CMPC Pacífico. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Santa Fe  
+• 
+Potencia máxima bruta 68,700 [MW] 
+• 
+Potencia mínima bruta 21,5 [MW] 
+b) Central TER CMPC Laja 
+• 
+Potencia activa máxima excedentes: 40,400 [MW] 
+• 
+Potencia activa mínima excedentes: 0 [MW] 
+c) Central TER CMPC Pacífico 
+• 
+Potencia activa máxima excedentes: 36,140 [MW] 
+• 
+Potencia activa mínima excedentes: 0 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Terciario de 
+Frecuencia  
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia: 
+Las siguientes condiciones específicas son aplicables a todas las centrales 
+mencionadas: 
+• 
+El control de la presión y la temperatura del vapor está determinado por el 
+comportamiento del sistema de combustión y de transferencia de calor en la caldera.  
+En consecuencia, las variaciones de carga del generador son una consecuencia 
+directa del proceso térmico y no un parámetro que pueda regularse libremente. Por 
+lo tanto, los movimientos de carga se realizan con el gradiente de operación normal, 
+tanto para la toma como para la bajada de carga. En este contexto, el operador no 
+tiene la posibilidad de ajustar dicho gradiente, ya que este depende de las 
+condiciones operacionales de la caldera. 
+• 
+El tiempo de activación de CTF depende del tiempo que se demora el operador en 
+consignar el nuevo valor de referencia de potencia, debiendo activarse en menos 
+de 5 min de acuerdo con las definiciones del SC. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Bioenergías 
+Forestales SpA para las centrales mencionadas. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Central TER Santa Fe: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Combustible 
+Parámetro 
+Valor determinado 
+TER Santa 
+Fe 
+Biomasa 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+1,370 
+ 
+Bajada 
+1,760 
+ 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+1,370 
+ 
+Bajada 
+1,760 
+ 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] 
+Subida 
+13,700 
+ 
+Bajada 
+-17,600 
+ 
+Límite de regulación superior [MW] (2) 
+68,700 
+ 
+Límite de regulación inferior [MW] (2) 
+21,5 
+ 
+(1) La tasa de subida y bajada de carga es fija. 
+ 
+(2) Los límites de regulación y el aporte máximo de CTF podrán verse modificados si se actualizan los parámetros 
+operacionales de la central TER Santa Fe. 
+ 
+b) Central TER CMPC Laja: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- 
+Central 
+Combustible 
+Parámetro 
+Valor determinado 
+TER CMPC 
+Laja 
+Biomasa 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+6,400 
+ 
+Bajada 
+3,010 
+ 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+6,400 
+ 
+Bajada 
+3,010 
+ 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] 
+Subida 
+40,200 
+ 
+Bajada 
+-30,100 
+ 
+Límite de regulación superior [MW] (2) (3) 
+40,200 
+ 
+Límite de regulación inferior [MW] (2) (3) 
+0 
+ 
+(1) La tasa de subida y bajada de carga es fija. 
+ 
+(2) Correspondiente a las potencias máximas y mínimas de excedentes. 
+ 
+(3) Los límites de regulación y el aporte máximo de CTF podrán verse modificados si se actualizan los parámetros 
+operacionales de la central TER CMPC Laja. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+c) Central TER CMPC Pacífico:  
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- 
+Central 
+Combustible 
+Parámetro 
+Valor determinado 
+TER CMPC 
+Pacífico 
+Biomasa 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+1,550 
+ 
+Bajada 
+1,810 
+ 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+1,550 
+ 
+Bajada 
+1,810 
+ 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] 
+Subida 
+15,500 
+ 
+Bajada 
+-18,100 
+ 
+Límite de regulación superior [MW] (2) (3) 
+36,140 
+ 
+Límite de regulación inferior [MW] (2) (3) 
+0 
+ 
+(1) La tasa de subida y bajada de carga es fija. 
+ 
+(2) Correspondiente a las potencias máximas y mínimas de excedentes. 
+ 
+(3) Los límites de regulación y el aporte máximo de CTF podrán verse modificados si se actualizan los parámetros 
+operacionales de la central TER CMPC Pacifico. 
+ 
+ 

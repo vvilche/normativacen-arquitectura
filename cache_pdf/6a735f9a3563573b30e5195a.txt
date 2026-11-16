@@ -1,0 +1,71 @@
+ 
+Santiago, 4 de agosto de 2026 
+Señores 
+Coordinador Eléctrico Nacional 
+Departamento de Medidas 
+Presente 
+ 
+ 
+Ref.: Informa falla del Equipo Compacto de 
+Medida y solicita consideración de registros de 
+generación en el IVTE de julio de 2026 – PMGD 
+PFV Chilener. 
+ 
+De nuestra consideración: 
+Por medio de la presente, Chilener II SpA, propietaria del PMGD PFV Chilener, informa una falla 
+ocurrida en el Equipo Compacto de Medida de la central, presuntamente asociada a una 
+descarga atmosférica registrada durante las intensas precipitaciones y tormentas eléctricas 
+ocurridas el día 8 de julio de 2026. 
+Producto del mismo evento, se produjo además una pérdida de comunicación con el medidor 
+de energía, lo que impidió acceder remotamente a sus registros y verificar oportunamente su 
+correcto funcionamiento. 
+Luego de realizar las labores necesarias para restablecer la comunicación, el día 22 de julio de 
+2026 se logró acceder nuevamente al medidor. En dicha instancia se detectó que este no estaba 
+registrando correctamente las variables de tensión, debido a una falla en el Equipo Compacto 
+de Medida. 
+Como consecuencia de esta anomalía, aunque el PMGD PFV Chilener continuó generando e 
+inyectando energía durante el mes de julio de 2026, dicha generación no quedó correctamente 
+registrada por el sistema oficial de medida durante el período afectado. 
+Con el objeto de acreditar la energía efectivamente generada por la central, se adjuntan los 
+registros rescatados directamente desde los inversores del PMGD, correspondientes al mes de 
+julio de 2026. De acuerdo con dichos registros, la generación total acumulada durante el período 
+asciende a 78.482 kWh. 
+Considerando que los valores registrados por los inversores corresponden a la generación antes 
+de las pérdidas eléctricas existentes hasta el punto oficial de medida, se ha aplicado una 
+estimación conservadora de pérdidas del 2 %. En consecuencia, la energía neta estimada 
+correspondiente al período es la siguiente: 
+• 
+Energía registrada por los inversores: 78.482,00 kWh 
+• 
+Pérdidas estimadas, equivalentes al 2 %: 1.569,64 kWh 
+• 
+Energía neta estimada: 76.912,36 kWh 
+Por lo anterior, estimamos que la energía que debiera ser considerada para el proceso de 
+valorización correspondiente al mes de julio de 2026 es de 76.912,36 kWh. 
+En consideración a lo expuesto, solicitamos al Coordinador Eléctrico Nacional: 
+
+ 
+1. Tener por informada la falla del Equipo Compacto de Medida del PMGD PFV Chilener. 
+2. Revisar los antecedentes y registros de generación adjuntos. 
+3. Considerar una energía neta estimada de 76.912,36 kWh para el proceso de elaboración 
+del Informe de Valorización de Transferencias de Energía —IVTE— correspondiente a 
+julio de 2026. 
+4. Informarnos cualquier antecedente, formato o procedimiento adicional que sea 
+necesario presentar para regularizar las mediciones correspondientes al período 
+afectado. 
+Chilener II SpA se encuentra realizando las gestiones técnicas necesarias para revisar, reparar o 
+sustituir los componentes afectados del Equipo Compacto de Medida, con el propósito de 
+restablecer el correcto registro de todas las variables eléctricas de la central. 
+Sin otro particular, y agradeciendo desde ya su atención y colaboración, saluda atentamente, 
+ 
+ 
+Dídac Álvarez Ortells 
+Chilener II SpA 
+proyectoschile@valfortec.com 
++56 9 4592 1343 
+ 
+ 
+ 
+Adj.: 
+1. Registros de generación obtenidos directamente desde los inversores del PMGD PFV 
+Chilener, correspondientes a julio de 2026. 

@@ -1,0 +1,38 @@
+CORRELATIVO DE 05458-25 
+Asunto: Responde Carta DE07652-25 - Implementación del SLRP de Generadora del 
+Pacífico SpA 
+ 
+ 
+De: Jorge Vargas Cáceres <Jorge.Vargas@coordinador.cl>  
+Enviado el: jueves, 28 de agosto de 2025 12:18 
+Para: veronica.bustos@enfragen.com 
+CC: cristian.sanhueza@enfragen.com; DMAP <DMAP@coordinador.cl> 
+Asunto: Responde Carta DE07652-25 - Implementación del SLRP de Generadora del Pacífico SpA 
+ 
+Estimada Verónica, 
+Junto con saludar, me refiero al plan de trabajo para la implementación del SLRP, informado 
+en su carta  adjunta. 
+Al respecto, tomamos conocimiento del plazo comprometido de implementación para el 
+4 de octubre de 2025. 
+Adicionalmente, les agradecemos informar semanalmente al correo dmap@coordinador.cl 
+sobre el estado de avance del plan informado. 
+Finalmente, posterior a las pruebas de comunicaciones con el Depto. SCADA, deberán 
+realizar las pruebas de sincronización de carpetas con el SLRP del Coordinador, para lo cual 
+deberá contactar al mismo correo dmap@coordinador.cl . 
+Quedamos atentos a cualquier consulta adicional que tengan 
+ 
+Saludos, 
+ 
+ 
+ 
+Jorge Vargas 
+Jefe Depto. Modelación y Aplicaciones EMS 
+Gerencia Operación 
+  
+Santiago de Chile 
+Tel: +56 2 2424 6362 
+ www.coordinador.cl 
+  
+  
+  
+ 

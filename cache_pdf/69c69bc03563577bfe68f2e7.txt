@@ -1,0 +1,154 @@
+ 
+ 
+ 
+ 
+ 
+Santiago, 26 de marzo 2026  
+OP 049-26 
+Señor 
+Rodrigo Espinoza V.  
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+MATERIA: 
+RESPUESTA Y ARGUMENTOS TÉCNICOS ASOCIADOS A LA EVALUACIÓN 
+DE DESEMPEÑO BAJO ESTANDAR NORMATIVO, OBSERVADO DURANTE EL 
+MES DE FEBRERO 2026 PARA LOS SERVICIOS COMPLEMENTARIOS CPF EN 
+LA CENTRAL TÉRMICA ATACAMA Y QUINTERO. 
+ 
+ 
+REF [1]: 
+“DESEMPEÑO DEFICIENTE EN LA PRESTACIÓN DE LOS SERVICIOS 
+COMPLEMENTARIOS DE CONTROL PRIMARIO DE FRECUENCIA, CONTROL 
+TERCIARIO DE FRECUENCIA Y CONTROL DE TENSIÓN DE LAS UNIDADES 
+GENERADORAS FEBRERO 2026”. (DE01769-26) 
+REF [2]:  
+“DESEMPEÑO DEFICIENTE EN LA PRESTACIÓN DE LOS (SERVICIOS 
+COMPLEMENTARIOS DE CONTROL PRIMARIO DE FRECUENCIA, CONTROL 
+TERCIARIO DE FRECUENCIA Y CONTROL DE TENSIÓN DE LAS UNIDADES 
+GENERADORAS.” (DE 01221-26) 
+ 
+ 
+ 
+De mi consideración, 
+ 
+En relación con la materia de la referencia, informamos a Usted el estado de avance 
+respecto de la investigación asociada al desempeño deficiente en la prestación de los 
+Servicios Complementario de la Central Atacama y Quintero. 
+ 
+En las últimas semanas, nuestro equipo técnico ha ejecutado un trabajo exhaustivo de 
+recopilación, revisión y análisis de antecedentes, abordando los distintos componentes que 
+intervienen en la regulación y operación del servicio. Este proceso ha incluido: 
+ 
+• 
+Evaluación del hardware de control y de las lógicas propias de las máquinas 
+involucradas en la prestación del servicio. 
+• 
+Revisión de la integración en los sistemas SCADA de planta. 
+• 
+Preparación de la data técnica necesaria para la evaluación correspondiente. 
+ 
+Asimismo, la semana del 16 de marzo del presente año, se desplegó un equipo en terreno 
+con el objetivo de revisar en detalle los aspectos operacionales relacionados con la 
+activación y supervisión del SS.CC. mientras estos se mantienen en servicio. Como parte 
+de esta actividad, se han analizado los rangos operacionales de prestación del servicio, 
+sus límites ambientales y las restricciones técnicas que pudiesen influir en su desempeño. 
+ 
+
+ 
+2
+Pese a los esfuerzos realizados, a la fecha no ha sido posible identificar la causa raíz del 
+desempeño deficiente en la prestación de los SS.CC. Considerando lo anterior, y en espera 
+de tener mayores antecedentes para asegurar una evaluación completa y concluyente que 
+nos permita realizar las acciones necesarias para cumplir con el SSCC, presentamos el 
+Programa de Trabajo más abajo. 
+ 
+Ahora bien, no descartamos la opción de contratar los servicios de una empresa externa si 
+es que no encontramos la causas raíz dentro de nuestros análisis.  
+ 
+Finalmente, con la conclusión y determinada las causas de la baja eficiencia del CPF, nos 
+comprometemos entregar a Ud. un informe técnico integral, las acciones correctivas 
+necesarias para la restitución confiable del servicio y una actualización del plan de trabajo, 
+si fuera necesario. 
+ 
+Sin otro particular, y agradeciendo su comprensión a la presente comunicación, 
+atentamente se despide, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Miguel Buzunariz R. 
+Encargado CEN 
+ENEL GENERACIÓN CHILE S.A. Y FILIALES 
+ 
+ 
+
+ 
+ 
+ 
+Anexo. 
+1.- Plan de trabajo. 
+ 
+ 
+semana
+semana
+semana
+semana
+semana
+semana
+semana
+semana
+semana
+semana
+semana
+semana
+semana
+semana
+semana
+23-03-2026
+30-03-2026
+06-04-2026
+13-04-2026
+20-04-2026
+27-04-2026
+04-05-2026
+11-05-2026
+18-05-2026
+25-05-2026
+01-06-2026
+08-06-2026
+15-06-2026
+22-06-2026
+29-06-2026
+Control primario de Frecuencia (CPF)
+A
+Informe Tecnico (Investigacion especialistas Tecnicos)
+1
+Verificacion Hardware (Elementos primarios de medicion)
+2
+Verificacion Logica de control CPF  en sistema Mark V (Evaluacion Tecnica, diagnostico y analisis)
+3
+Analisis operacional // Compromisos NTSyCS, Carga Base: Seguridad operacional (Minimo tecnico ambiental: CPF+, CPF- , Limites)
+4
+Analisis y verificacion de Datos de comunicación (PI)
+5
+Entrega informe tecnico (Causa Raiz y/o problemática del sistema)
+B
+Programa de acciones correctivas
+1
+Compra, reemplazo y configuracion (Hardware: Elementos primarios de medicion de señales)
+2
+Modificacion logica de control y Ajustes  CPF (Tunning)
+3
+Mejora Arquitectura de integracion y comunicación
+4
+Pruebas operacionales (O&M, TS, Coordinador Electrico) // Ciclo Abierto - Medio Ciclo - Ciclo completo (CC1-CC2)
+Item
+Actividad

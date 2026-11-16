@@ -1,0 +1,319 @@
+ 
+ 
+ 
+ 
+Señor 
+Ramón Castañeda 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Observaciones al Informe de Servicios Complementarios 2027, versión preliminar junio 2026. 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en representación de la Asociación Chilena de Energías Renovables 
+y Almacenamiento A.G. (“ACERA A.G.”), respetuosamente venimos a presentar observaciones y 
+comentarios al Informe de Servicios Complementarios 2027, versión preliminar junio 2026. 
+ 
+Lo anterior se realiza en el marco del proceso informado por el Coordinador Eléctrico Nacional 
+mediante carta DE 03727-26, de fecha 2 de junio de 2026, a través de la cual se comunicó la 
+publicación del referido informe preliminar y se abrió el plazo para la formulación de observaciones. 
+ 
+Las observaciones que se acompañan en anexo tienen por objeto contribuir al perfeccionamiento 
+del Informe de Servicios Complementarios 2027, abordando materias relevantes para la operación 
+segura, eficiente y flexible del SEN, en un contexto de creciente penetración de energías 
+renovables y sistemas de almacenamiento, así como de transición regulatoria asociada a la 
+implementación del Anexo Técnico de Exigencias Mínimas de Instalaciones Basadas en 
+Convertidores y del Anexo Técnico de Metodología para el Estudio de Análisis de Robustez del 
+Sistema Eléctrico Nacional. 
+ 
+En virtud de lo anterior, solicitamos tener por presentadas las observaciones contenidas en el 
+documento adjunto, para que sean analizadas y consideradas por el Coordinador en la elaboración 
+de la versión definitiva del Informe de Servicios Complementarios 2027. 
+ 
+Sin otro particular, y agradeciendo desde ya la consideración de estos comentarios, saluda 
+atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________________________ 
+Ana Lía Rojas 
+Directora Ejecutiva 
+ACERA AG. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+Observaciones y/o Comentarios1 
+Informe de Servicios Complementarios 2027 versión preliminar 
+ 
+Coordinado 
+N° 
+Capítulo 
+N° 
+Sección 
+Observaciones y/o Comentarios 
+ACERA 
+5 
+5.1 
+En el capítulo 5-1, literal i., se señala como uno de los 
+elementos técnicos que justifican la no implementación 
+de un CRF que los análisis de fallas de severidad 5 
+concluyen que la frecuencia mínima se alcanza en 
+aproximadamente 10 segundos, tiempo suficiente para la 
+actuación del CPF. Sin embargo, se estima necesario 
+complementar la fundamentación utilizada para descartar 
+la necesidad de CRF en el horizonte 2027, considerando 
+que el análisis presentado no permite verificar si fueron 
+evaluadas condiciones de mayor exigencia sistémica o 
+eventos que, aun cuando no correspondan estrictamente 
+a fallas de severidad 5, puedan generar efectos 
+relevantes sobre la dinámica de frecuencia, el RoCoF o 
+la necesidad de respuesta rápida. 
+ 
+En particular, se solicita aclarar si el Estudio de Control 
+de Frecuencia y Determinación de Reservas consideró, 
+descartó o analizó la aplicabilidad de contingencias de 
+mayor severidad o de impacto combinado tensión-
+frecuencia, tales como la severidad 4a definida en el 
+artículo 3-8 del Anexo Técnico del Estudio de Análisis de 
+Robustez, correspondiente a un cortocircuito trifásico a 
+tierra con impedancia de falla de hasta 1 Ohm, ocurrido 
+en un circuito de líneas de doble circuito o en una línea 
+de simple circuito con enmallamiento, seguido de la 
+desconexión del circuito fallado en tiempo normal por 
+acción de su sistema de protección. 
+ 
+Cabe señalar que el artículo 3-14 de la NT de SSCC 
+indica que, entre las evaluaciones para la determinación 
+de la reserva conjunta, deben considerarse fallas de 
+severidad 5, sin que ello necesariamente implique 
+restringir el análisis exclusivamente a dicho tipo de falla 
+cuando 
+existan 
+otras 
+condiciones 
+operativas 
+o 
+contingencias que puedan resultar relevantes para 
+evaluar la necesidad de CRF u otra categoría de Control 
+de Frecuencia de acción rápida. 
+ 
+Por lo anterior, se solicita complementar el análisis que 
+descarta la necesidad de CRF, incorporando escenarios 
+de mayor exigencia sistémica, incluyendo condiciones de 
+menor inercia, alta penetración de recursos basados en 
+ 
+1 Se solicita enviar la presente planilla con sus observaciones y/o comentarios en formato Word. 
+
+ 
+ 
+ 
+Coordinado 
+N° 
+Capítulo 
+N° 
+Sección 
+Observaciones y/o Comentarios 
+inversores, alta participación de BESS, configuraciones 
+de red débiles y eventos con impactos combinados sobre 
+tensión y frecuencia; o bien explicitar fundadamente por 
+qué dichas condiciones o severidades no resultan 
+aplicables para la determinación de requerimientos 
+mínimos de CRF en el horizonte 2027. 
+ACERA 
+5 
+5.1 
+Se solicita al Coordinador complementar y precisar la 
+metodología utilizada para incorporar la condición de 
+BESS en proceso de carga en la determinación de 
+reservas de CPF-, especialmente cuando la desconexión 
+intempestiva de un sistema de almacenamiento en carga 
+pueda constituir una contingencia de consumo relevante 
+para el SEN. 
+ 
+El Informe señala que, dados los antecedentes 
+disponibles para el ECFyDR 2026 Parte 1, la 
+contingencia considerada corresponde a 300 MW de 
+BESS en proceso de carga, entregando además 
+sensibilidades para 200 MW y 250 MW. Sin embargo, la 
+cartera de proyectos de almacenamiento en construcción 
+muestra que existen proyectos BESS que entrarán en 
+operación desde 2026 en adelante con potencias 
+superiores a 300 MW (por ejemplo el proyecto “BESS 
+Elena”, el proyecto “BESS Cristales” o el proyecto 
+“PAMPAS” 
+de 
+430MW, 
+340 
+MW 
+y 
+340 
+MW 
+respectivamente), por lo que dicha sensibilidad podría no 
+ser representativa del tamaño máximo de los recursos 
+que ingresarán al sistema en los próximos meses. 
+ 
+En ese contexto, se solicita que el Coordinador explicite 
+los criterios utilizados para definir el monto de 300 MW 
+como 
+contingencia 
+representativa, 
+indicando 
+si 
+corresponde 
+al 
+mayor 
+bloque 
+técnicamente 
+desconectable, a una hipótesis operativa, a antecedentes 
+disponibles al momento del estudio o a otro criterio. 
+Asimismo, se solicita evaluar la conveniencia de 
+incorporar sensibilidades adicionales para montos 
+superiores de BESS en carga, o bien establecer una 
+metodología 
+dinámica 
+que 
+permita 
+actualizar 
+el 
+requerimiento de CPF- en función de la potencia efectiva 
+de carga de los BESS disponibles y de la mayor 
+contingencia de consumo esperada en cada condición 
+operativa. 
+ 
+Lo anterior resulta especialmente relevante para evitar 
+que la determinación de reservas quede desactualizada 
+frente al crecimiento de proyectos de almacenamiento de 
+gran escala, y para compatibilizar adecuadamente la 
+
+ 
+ 
+ 
+Coordinado 
+N° 
+Capítulo 
+N° 
+Sección 
+Observaciones y/o Comentarios 
+operación de BESS en mercados de energía y Servicios 
+Complementarios con los requerimientos de seguridad y 
+calidad de servicio del SEN. 
+ACERA 
+5 
+5.2 
+En relación con el Servicio Complementario de Control 
+de Tensión y los futuros requerimientos asociados a 
+robustez del SEN, cabe tener presente que la 
+modificación de la Norma Técnica de Seguridad y 
+Calidad de Servicio, efectuada en febrero de 2026, 
+incorporó un mandato normativo específico para abordar 
+la robustez del sistema, a través del nuevo Anexo 
+Técnico de Metodología para el Estudio de Análisis de 
+Robustez del Sistema Eléctrico Nacional, junto con las 
+exigencias aplicables a instalaciones basadas en 
+convertidores contenidas en el AT IBR. En este contexto, 
+el presente Informe de Servicios Complementarios 2027 
+se elabora en una etapa de transición regulatoria y 
+técnica, en la cual aún se encuentra pendiente la primera 
+aplicación integral del Estudio de Robustez y la 
+determinación del aporte efectivo de instalaciones 
+basadas en convertidores, en particular de los BESS que 
+puedan operar como Grid Forming. 
+ 
+En el informe de SSCC 2027, se plantea que el análisis 
+de eventuales necesidades de nueva infraestructura o de 
+atributos de red que no se basen exclusivamente en la 
+capacidad de cortocircuito debe realizarse considerando 
+dicho marco normativo y los resultados del primer 
+Estudio de Robustez previsto para febrero de 2027. 
+Dicho estudio debiese permitir contar con una evaluación 
+más integral del desempeño dinámico del sistema, 
+incorporando adecuadamente los escenarios, supuestos, 
+criterios de modelación e indicadores definidos para 
+evaluar la robustez del SEN. 
+ 
+Sin perjuicio de lo anterior, preocupa que la remisión de 
+esta materia a un estudio posterior pueda generar 
+incertidumbre respecto de la oportunidad en que se 
+identificarán, justificarán y eventualmente materializarán 
+los 
+requerimientos 
+necesarios 
+para 
+mantener 
+condiciones adecuadas de fortaleza de red. Una 
+definición tardía podría retrasar la implementación de 
+infraestructura o atributos habilitantes para la operación 
+segura y eficiente del SEN, con potenciales efectos sobre 
+la seguridad y costos operacionales del sistema. 
+ 
+En consecuencia, se solicita al Coordinador: 
+ 
+
+ 
+ 
+ 
+Coordinado 
+N° 
+Capítulo 
+N° 
+Sección 
+Observaciones y/o Comentarios 
+● Precisar expresamente la forma en que los 
+resultados del Estudio de Robustez se vincularán 
+con el Informe de Servicios Complementarios 
+2027, especialmente respecto de la eventual 
+definición de requerimientos para el Servicio 
+Complementario de Control de Tensión u otros 
+servicios asociados a robustez del SEN. 
+ 
+● Someter a una instancia de consulta temprana 
+con los coordinados los principales supuestos, 
+escenarios y criterios de modelación que serán 
+utilizados en el Estudio de Robustez. 
+ 
+● Establecer que, una vez publicado el Estudio de 
+Robustez, se gatillará una actualización del 
+Informe de Servicios Complementarios 2027, 
+conforme al artículo 2-8 de la NTSSCC, para 
+incorporar sus resultados y, en caso de 
+corresponder, 
+definir 
+los 
+requerimientos, 
+mecanismos de materialización y calendarización 
+aplicables. 
+ 
+● Definir 
+los 
+eventuales 
+requerimientos 
+de 
+infraestructura a partir de atributos técnicos 
+verificables y tecnológicamente neutrales, de 
+modo que el mercado pueda proveer la solución 
+más eficiente para satisfacer las necesidades del 
+sistema bajo los estándares técnicos exigidos. 
+ 
+● Indicar las eventuales consecuencias técnicas y 
+operativas que se podrían gatillar por el hecho de 
+no incorporar en el presente Informe el análisis de 
+eventuales requerimientos de robustez, y de 
+diferir dicha definición hasta la publicación del 
+Estudio de Robustez previsto para febrero de 
+2027. 
+ 
+ 

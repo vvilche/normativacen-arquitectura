@@ -1,0 +1,83 @@
+                  
+Santiago de Chile, 10 de abril 2026 
+ 
+ 
+ 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta carta DE02041-26  
+ 
+ 
+ 
+De nuestra consideración 
+Junto con saludar, y en respuesta a la carta DE 02041-26, mediante la cual se solicita 
+el envío de antecedentes técnicos que respalden la limitación forzada de la Central PFV 
+Leyda asociada a la no respuesta ante activación de Control Primario de Frecuencia (CPF), 
+se informa lo siguiente: 
+Con fecha 18 de enero de 2026, se detectó una falla asociada a las señales de 
+comunicación en el Power Plant Controller (PPC) de la central. Específicamente, la falla 
+afecta la correcta visualización de variables críticas, entre ellas la medición de potencia en 
+tiempo real de los inversores. 
+Si bien el sistema mantiene operativa la capacidad de responder a de consignas 
+externas (por ejemplo, limitaciones de potencia instruidas por el Coordinador), la 
+indisponibilidad de la señal de potencia en tiempo real impide la correcta ejecución de las 
+lógicas de Control Primario de Frecuencia. 
+En este contexto, la central no se encuentra en condiciones de responder a solicitudes 
+de activación de CPF, lo que fundamenta la limitación informada en el Informe N° 
+2026000122. 
+Cabe señalar que la central continúa operando en condiciones normales de generación, 
+respondiendo adecuadamente a las consignas de limitación de potencia instruidas por el 
+Coordinador, pero sin participación en servicios complementarios asociados a CPF. 
+Ante esto, se han llevado a cabo instancias de diagnóstico en conjunto con el proveedor 
+del PPC, identificándose que la causa raíz del problema corresponde a una falla en las 
+señales de comunicación. A la fecha, no se ha efectuado reemplazo de equipos, y se 
+encuentra en proceso la definición técnica de la solución por parte del proveedor. 
+ 
+ 
+ 
+
+                  
+Actualmente, se está trabajando en conjunto con el proveedor GPM para la restitución 
+del sistema afectado. El plan de acción contempla las siguientes etapas: 
+ 
+Diagnóstico técnico: En curso 
+ 
+Adquisición/reemplazo de equipos: 16 de abril de 2026 
+ 
+Instalación de equipos: 18 de mayo de 2026 
+ 
+Pruebas y validación: 18 de mayo de 2026 
+ 
+Normalización del servicio de CPF: 19 de mayo de 2026 
+Este cronograma está sujeto a la disponibilidad de equipos y coordinación con el 
+proveedor, no obstante, se están realizando las gestiones necesarias para cumplir con las 
+fechas indicadas. 
+Mientras se mantiene la condición descrita, se han adoptado las siguientes medidas 
+operativas: 
+ 
+La central se encuentra excluida de la participación en servicios complementarios 
+de Control Primario de Frecuencia. 
+ 
+Se mantiene operación normal de generación, con cumplimiento de consignas de 
+limitación de potencia instruidas por el CEN. 
+ 
+La limitación de potencia es gestionada de manera remota desde el centro de 
+control. 
+Estas medidas permiten asegurar la operación segura y coordinada de la central dentro 
+del Sistema Eléctrico Nacional. 
+Finalmente, una vez normalizada la condición descrita, se informará oportunamente al 
+Coordinador adjuntando los respaldos técnicos correspondientes. 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+Matías Burton H. 
+Encargado Titular 
+Parque Solar Leyda SpA. 
+ 
+ 
+ 

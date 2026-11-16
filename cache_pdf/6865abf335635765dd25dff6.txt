@@ -1,0 +1,189 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago,02 de julio de 2025 
+DE 03343-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de Parámetros de Partida y 
+Detención de la Central TER Gran Teno, del 
+Coordinado GR Algarrobo SpA 
+[1] 
+Carta 
+GR-CHL0004A-616/2024 
+de 
+GR 
+Algarrobo SpA, Referencia: “Informa envío de 
+Informes de Parámetros de Partida y Detención y 
+de Mínimo Técnico PFV Gran Teno – NUP 3455”, 
+de fecha 10 de octubre de 2024. Ingreso 
+DE05886-24. 
+[2] Carta DE 03968-24, Referencia.: “Informes 
+Técnicos de Parámetros Operacionales de la 
+Central PFV Gran Teno, del coordinado GR 
+Algarrobo SpA.”, de fecha 08 de agosto de 2024. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+PFV Gran Teno, justificado en el Informe Técnico recibido mediante la comunicación de la 
+Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+técnico publicado en la página web del Coordinador mediante carta de la Ref. [2]. Por su 
+parte, el Coordinador Eléctrico envió observaciones de carácter técnico al coordinado GR 
+Algarrobo SpA, las que han sido publicadas en conjunto con el informe técnico final, en la 
+ruta indicada más adelante.  
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+PFV Gran Teno se presentan en el anexo de la presente comunicación. 
+ 
+Al respecto, comunico a Ud., que este parámetro entrará en vigencia a partir de las 00:00 
+horas del 04 de julio de 2025. 
+ 
+El informe técnico final que contiene la justificación de los parámetros indicados 
+anteriormente y las minutas de observaciones al informe técnico, enviadas al coordinado 
+GR Algarrobo SpA, han sido publicados en la siguiente ruta del sitio web del Coordinador 
+Eléctrico Nacional: 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Inicio > Operación > Parámetros operacionales de unidades generadoras > 
+Parámetros de Partida y Detención > Informes Determinación de Parámetros para 
+Procesos de Partida y Detención de Unidades Generadoras > Central PFV Gran Teno 
+> 2024 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GZV/PPF/DGQ/adr 
+c.c.: Sr. Cristián Soto – Encargado Titular GR Algarrobo SpA 
+DAA, DAEP, DIT, DPID, DPRO, DSCGx, DSCTx, DTE-SSCC, DTPT, DAOP, DCONEC, DCO, SGESO, SGPAE, SGTM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central PFV Gran Teno. 
+ 
+Tabla 1. Parámetros del proceso de partida Parque Fotovoltaico Gran Teno. 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0022 
+Tiempo [minutos] 
+0,3900 
+0,5000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0037 
+Tiempo [minutos] 
+0,4100 
+0,8233 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0157 
+Tiempo [minutos] 
+0,0200 
+3,4499 
+ 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención Parque Fotovoltaico Gran Teno. 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0157 
+Tiempo [minutos] 
+0,0200 
+3,4499 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0004 
+Tiempo [minutos] 
+0,4233 
+0,0933 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+NOTA: El tiempo mínimo de operación (TMO) y tiempo mínimo de detención (TMD) 
+son 0 [min]. 
+ 

@@ -1,0 +1,74 @@
+ 
+Sonnedix Conejo Solar SpA 
+Magdalena 140, Oficina 601 
+Las Condes, Santiago 
+sonnedix.com 
+CONFIDENTIAL 
+Santiago, 31 de julio de 2026 
+ 
+Sr. Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+Ref.: Actualización de estado y cronograma del proceso 
+de Verificación de Instalaciones de Generación para la 
+Prestación de Servicios Complementarios. Ref. Carta DE 
+05006-25. 
+ 
+ 
+De mi consideración, 
+ 
+Me dirijo a usted para informar el estado actual y el cronograma actualizado del proceso de Verificación 
+de la central PFV Conejo Solar. A la fecha se encuentran verificados el Control Terciario de Frecuencia 
+(CTF) y el Control Secundario de Frecuencia (CSF). Los servicios pendientes —Control Primario de 
+Frecuencia (CPF) y Control de Tensión (CT)— se encuentran en proceso de verificación por las siguientes 
+razones: 
+ 
+ 
+ 
+ 
+1. La verificación del CPF requiere la actualización del controlador de planta (PPC), cambio que 
+actualmente se está cotizando con el especialista del PPC existente. 
+2. Planificación y coordinación operativa de los ensayos con los equipos involucrados, asegurando 
+la disponibilidad de los recursos técnicos y de los especialistas. 
+ 
+ 
+Los ensayos se encuentran programados de acuerdo con el siguiente detalle, dentro del plazo final 
+establecido por el Coordinador (noviembre de 2026): 
+ 
+ 
+Planta 
+Fecha estimada 
+PFV Conejo 
+Pruebas CT: 30 de septiembre de 2026 
+PFV Conejo 
+Pruebas CPF: 30 de octubre de 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Sonnedix Conejo Solar SpA 
+Magdalena 140, Oficina 601 
+Las Condes, Santiago 
+sonnedix.com 
+CONFIDENTIAL 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Juan Cortés 
+Encargado Suplente 
+Sonnedix Conejo Solar SpA 

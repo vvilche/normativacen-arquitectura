@@ -1,0 +1,69 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 19 de octubre de 2026 
+AEL088C-26 
+Señor 
+Jorge Luis Gallegos Mellado 
+Ingeniero de Análisis de la Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a carta DE06715-26 EAF 239-2025 - Apertura 
+intempestiva del interruptor 52CTSA5 de S/E Central Mampil 
+ 
+De nuestra consideración: 
+ 
+En atención a la carta de referencia, mediante la cual se solicita información respecto del estado de avance 
+de las medidas comprometidas asociadas al evento EAF 239-2025, informamos lo siguiente: 
+ 
+1. Implementación de cambios de ajustes en la protección GE845 del paño CTSA5 de S/E Central 
+Mampil 
+ 
+Se confirma la ejecución exitosa de los trabajos comprometidos, los cuales fueron realizados el 13 de junio 
+de 2026 e informados posteriormente al Coordinador Eléctrico Nacional mediante correo electrónico 
+enviado a DAOP el 24 de junio de 2026. En dicha comunicación se adjuntaron el protocolo de pruebas y el 
+PrintOut actualizado del equipo intervenido. 
+ 
+Los antecedentes remitidos fueron revisados y aprobados por el Coordinador, cuya conformidad fue 
+comunicada mediante correo electrónico de fecha 15 de julio de 2026. Se adjunta la cadena de correos 
+correspondiente como respaldo. 
+ 
+2. Normalización de la estampa de tiempo de la protección GE350 de S/E Central Mampil 
+ 
+Se informa que, durante el desarrollo de esta actividad, se identificó la necesidad de ejecutar adecuaciones 
+adicionales para habilitar la sincronización horaria requerida, incluyendo la implementación de 
+infraestructura física y nuevos tendidos de cableado en la sala de celdas de 23 kV. 
+ 
+A la fecha se ha logrado normalizar localmente la estampa horaria del equipo. Sin embargo, la 
+implementación de la solución definitiva requiere intervenir instalaciones que exigen una desconexión de 
+la central para su ejecución en condiciones seguras. 
+ 
+Por lo anterior, esta actividad será programada juntamente con otras intervenciones que requieran 
+indisponibilidad de la instalación, aprovechando una ventana operacional adecuada. En este contexto, se 
+mantiene el compromiso de ejecutar la solución definitiva, estimándose su implementación entre 
+diciembre de 2026 y los primeros meses de 2027. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos De La Fuente Vásquez 
+Encargado Titular 
+AELA GENERACIÓN S.A. 
+ 

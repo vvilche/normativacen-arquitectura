@@ -1,0 +1,132 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 14 de mayo de 2026 
+DE 03274-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 173 al 175 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 173-2026 al EAF 175-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC > 2026 > Abril > Cálculo por EAF: 
+ 
+1. EAF 173-2026 
+2. EAF 174-2026 
+3. EAF 175-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el martes 19 de mayo de 
+2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+SBS/ycl 
+c.c.:  
+Sr. Jaime Acevedo Salinas – Encargado Titular Compañía Transmisora del Norte Grande S.A. 
+Sr. Felipe Aravena Cofre – Encargado Titular Compañía Eléctrica del Litoral S.A. 
+Sr. Jaime Acevedo Salinas – Encargado Titular Chilquinta Transmisión S.A. 
+Sr. Luis Eduardo Sepúlveda Iturra – Encargado Titular Chilquinta Distribución S.A. 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+DBCD/DTE-SSCC/SGASO 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras 
+ 
+EAF (*) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 174-2026 
+15-04-2026 
+Chilquinta 
+Distribución S.A. 
+S/E Miraflores 
+Parcial 
+Si 
+No informa consumos afectados para el paño PA S/E 
+Miraflores C2 conectado a la barra BA S/E 
+MIRAFLORES 12KV BP2. 
+No informa consumos afectados para los paños PA S/E 
+Miraflores C1 y C3 conectados a la barra BA S/E 
+MIRAFLORES 12KV BP1. 
+ 
+Enviar antecedentes solicitados. 
+(*) En los EAF N°173 la información recibida de la empresa distribuidora Compañía Eléctrica del Litoral S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+(*) En los EAF N°175 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+ 
+ 

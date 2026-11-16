@@ -1,0 +1,49 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 12 DE MAYO 2026 
+COM-52/2026 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operaciones. 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para abril del 2026 
+ 
+De nuestra consideración,  
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para abril 2026. 
+ 
+1) 
+El 11-05-2026 la central TENO DIESEL recibe instrucción de activación por CTF (+) de 27 MW 
+entre las 18:10 y 18:35. Sin embargo, a las 18:19 el CDC solicita la central a plena carga por 
+control de transferencia, interfiriendo en el proceso de toma de carga para cumplir con la 
+instrucción de activación emitida anteriormente. Se adjunta la grabación “20260411191804” 
+donde se evidencia la indicación. Se solicita que se elimine la instrucción de Servicios 
+Complementarios considerando que, entre las 18:10 y 18:19 no se cumple con el criterio 
+minimo para la evaluacion de desempeño y que por instrucción propia del Coordinador se 
+debió interrumpir el proceso normal de activación de CTF (+).  
+2) 
+El 25-04-2026 se informó en el Registro de Instrucciones de operación (RIO) la activacion por 
+CTF (+) de las centrales PENON DIESEL y TENO DIESEL entre las 07:43 y las 08:13. Sin embargo 
+según los registros de llamada, no se recibio ninguna instrucción en dicho horario, se adjunta 
+screenshot del software de registro de llamada con la información del dia 25-04-2026. Se 
+solicita que se compruebe que no se concretaron comunicaciones entre el CDC y CC de Enlasa 
+con el objetivo de que se elimine la instrucción de activación para ambas centrales.  
+ 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+Gustavo Ossa H. 
+Encargado titular.  
+Enlasa Generación Chile S.A. 

@@ -1,0 +1,175 @@
+ 
+ 
+ 
+ 
+ 
+ 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 14 de julio de 2025 
+ENGIE N°195/2025
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: 
+Responde 
+a 
+DE03562-25: 
+Apertura 
+intempestiva interruptor 52CT2 de S/E Mejillones. 
+De nuestra consideración, 
+ 
+En relación a su carta DE03562-25, damos respuesta a sus preguntas y solicitud de información: 
+ 
+• 
+Mantenimientos realizados a la instalación donde se produjo este evento (esquema de protección del paño 
+EPRO de S/E Mejillones) durante los últimos 24 meses. Junto con los antecedentes que acrediten los 
+mantenimientos realizados al equipo afectado, se deberá incluir un resumen de acuerdo con el siguiente formato: 
+ 
+Respuesta: 
+Se adjunta Informes de mantenimientos realizados en el archivo “EPRO 1 SE Mejillones MPB.zip”, con el 
+siguiente detalle: 
+ 
+Número  
+Mantenimiento  
+Tipo de  
+Mantenimiento  
+Nombre  
+Instalación  
+Fecha  
+Principales 
+Hallazgos  
+ 1 
+ Inspección 
+operacional 
+pruebas de 
+apertura y cierre 
+ Alimentador 
+Epro SE 
+Mejillones 23 
+kV 
+ 02 08 2024  Sin Hallazgos 
+ 2 
+ Inspección 
+operacional 
+pruebas de 
+apertura y cierre 
+ Alimentador 
+Epro SE 
+Mejillones 23 
+kV 
+ 27 05 2022  Sin Hallazgos 
+3 
+Inspección 
+operacional 
+pruebas de 
+apertura y cierre 
+Alimentador 
+Epro SE 
+Mejillones 23 
+kV 
+24 04 2024 
+Sin Hallazgos 
+4 
+Verificación de 
+ajustes de 
+protección  
+Alimentador 
+Epro SE 
+Mejillones 23 
+kV 
+04 01 2022 
+Sin Hallazgos 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Registros oscilográficos y de eventos en formato COMTRADE extraídos de las protecciones asociadas al paño 
+EPRO de S/E Mejillones, que permitan analizar su comportamiento en función de la configuración de sus ajustes 
+y de la ubicación del punto de falla. 
+ 
+Respuesta: 
+Dado que la protección EPRO no actuó durante el evento de falla ocurrido el 18-05-2025, no se generaron 
+registros COMTRADE asociados. No obstante, se adjuntan los registros correspondientes al paño CT2, 
+disponibles en el archivo comprimido “OSC CT2.zip”. 
+ 
+• 
+Motivos que propiciaron la no entrega de la información citada en la viñeta anterior en tiempo y forma, como 
+parte del contenido del Informe de Falla, junto con las acciones que su representada realizará para evitar una 
+nueva ocurrencia de omisión de dichos antecedentes. 
+ 
+Respuesta: 
+Dado que la falla se originó en instalaciones pertenecientes a CGE y que, al momento del evento, el 
+transformador de unión alimentaba exclusivamente a dicha empresa —sin afectar a otros consumos—, esta fue 
+clasificada con el ID OPE6 en el informe “IF 2025003658”, bajo el criterio de “Falla en instalaciones de terceros 
+o en otro segmento”, conforme a lo establecido en la Resolución Exenta N.º 30989 del 02/12/2019. En virtud de 
+dicha normativa, no se requiere la remisión de informes de mantenimiento para este tipo de eventos. 
+ 
+• 
+Análisis detallado de la coordinación entre las protecciones de los paños EPRO y CT2 de S/E Mejillones, al 
+momento de ocurrido este evento, tomando en consideración que el punto de falla habría ocurrido en las redes 
+de distribución del alimentado Punta Angamos. 
+ 
+Respuesta: 
+En cuanto a los ajustes de protección, la función 50N del interruptor 52EPRO (lado 23 kV) estaba configurada 
+con un umbral de 960 A, sin retardo (tiempo de operación instantáneo). Por su parte, la función 50N del 
+interruptor 52CT2 (lado 13,8 kV) se encuentra ajustada a 1350 A con un retardo de 0,2 segundos, de acuerdo 
+con el estudio ECAP-BP-22-133-ST. Luego se concluye que las protecciones actuaron correctamente de 
+acuerdo a ajustes. Cabe mencionar que los ajustes del equipo EPRO se homologaron de los ajustes del paño 
+E1, según ECAP-BP-22-133-ST(adjunto en la comunicación).  
+El equipo EPRO fue instalado para permitir la ejecución del proyecto “ampliación de barra de 23 KV, S/E 
+Mejillones” (NUP 4164), independizando el consumo de CGE de la barra de 23KV a través del Transformador 
+N°2 “Union”, por lo que no existen consumos adicionales afectados. 
+Finalmente, dado que la falla ocurrió en el sistema distribución esta debería haber sido despejada aguas abajo 
+del Epro. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Otros antecedentes que su representada considere relevantes en relación con lo solicitado. 
+ 
+Respuesta: 
+No se consideran antecedentes adicionales. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Pablo Jorquera Riquelme 
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 

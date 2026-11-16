@@ -1,0 +1,129 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+ 
+Santiago, 27 de febrero de 2025 
+DE 01275-25 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Según lista de distribución 
+Presente 
+Ref.:  Evento en el SEN ocurrido el 
+25 de febrero de 2025 
+ 
+De mi consideración,  
+ 
+Me refiero al evento ocurrido en el Sistema Eléctrico Nacional (SEN) el 25 de febrero de 
+2025, a partir de las 15:16 horas, que produjo un apagón total en el SEN debiéndose aplicar 
+el Plan de Recuperación de Servicio (PRS) y los Esquemas de Recuperación de Servicio 
+(ERS) correspondientes en las distintas áreas y zonas, con el objetivo de restablecer el 
+suministro del sistema. 
+Durante la aplicación del PRS, se evidenció la pérdida de comunicación de su sistema de 
+supervisión y control y, en algunos casos, la indisponibilidad de los canales de voz, lo que 
+generó retrasos en la correcta aplicación del PRS. 
+En este contexto, con el propósito de esclarecer las causas de estas indisponibilidades y 
+establecer medidas correctivas que aseguren el cumplimiento de los estándares de 
+disponibilidad, especialmente durante eventos de alto impacto que requieren la supervisión 
+del Coordinador y la ejecución oportuna de las instrucciones operativas, solicito a usted 
+remitir, a más tardar el 3 de marzo de 2025, la siguiente información: 
+• 
+Causa primaria de la indisponibilidad de los enlaces de comunicación o la pérdida 
+de calidad de las señales datos SITR para la supervisión del SEN, en particular 
+durante la aplicación del PRS. 
+ 
+• 
+Medidas correctivas o de mitigación, incluyendo los plazos de ejecución, que su 
+representada ha adoptado o adoptará para cumplir con los estándares de seguridad 
+y calidad de servicio establecidos en la normativa vigente (Art. 8, literal d. del Anexo 
+técnico Definición de Parámetros Técnicos y Operativos para el envío de Datos 
+SITR). 
+ 
+• 
+Otros antecedentes que su representada considere relevantes en relación con el 
+comportamiento de los sistemas de supervisión, control y comunicaciones de voz. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+DCST/adr 
+c.c.: 
+Señores Encargados Suplentes – Empresas Coordinadas 
+Sr. Patricio Valenzuela V. – Subgerente de Operación en Tiempo Real del Coordinador 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Lista de Distribución 
+ 
+Coordinado 
+Indisp. 
+Hotline 
+Indisp. SITR / 
+Telecontrol 
+AES Andes 
+ 
+Sí 
+Alfa Transmisora de Energía 
+ 
+Sí 
+CGE Transmisión S.A.  
+ 
+Sí 
+Enel Generación S.A. 
+ 
+Sí 
+Engie Energía Chile 
+ 
+Sí 
+Hidroeléctrica La Higuera S.A. 
+ 
+Sí 
+Minera Escondida Ltda. 
+ 
+Sí 
+Hidroeléctrica La Confluencia 
+ 
+Sí 
+Transelec S.A. 
+Sí 
+Sí 
+Sistema de Transmisión del Norte 
+ 
+Sí 
+Sociedad Transmisora Metropolitana S.A. 
+Sí 
+Sí 
+ 

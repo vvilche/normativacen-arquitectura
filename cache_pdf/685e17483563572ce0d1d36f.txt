@@ -1,0 +1,1584 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 26 de junio de 2025 
+ 
+    
+DE 03838-25 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Publicación de Indicadores de Desempeño 
+de Servicios Complementarios prestados durante 
+el mes de mayo 2025, segunda versión. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página web 
+del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de los Indicadores 
+de Desempeño de Servicios Complementarios prestados durante el mes de mayo 2025. Estos 
+indicadores fueron considerados en la versión definitiva del IVTE de dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador en la 
+siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2025 > Mayo 2025 > Versión 2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las observaciones 
+recibidas para la primera versión del Informe. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ASA/adr 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de mayo 2025 
+consideradas en la versión 2. 
+ 
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Cóndor y 
+Huemul 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+18-05-2025 
+07:00 
+Se evaluaron 1.93 minutos de Non tracking en el 
+período, específicamente entre las 07:48 y las 
+08:00hrs, y 2.66 minutos en modo Manual en el 
+período, específicamente entre las 07:00 y las 
+07:02:40. Al respecto, el período en modo 
+manual se trató del inicio de la activación por 
+parte del Coordinador y que venía de la hora 
+anterior, por lo que no aplica penalizar el 
+comportamiento de la central en dicho período. 
+Por otro lado, el período de Non tracking no 
+debería ser contabilizado ya que la central sigue 
+la consigna durante todo el período. Se solicita: 
+Asignar C=0 para el período, y reevaluar el 
+período de Non tracking (B). También se solicita 
+revisar la parametrización configurada en el 
+AGC, la central siguió la consigna de acuerdo 
+con su rampa establecida. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina 
+que los minutos categorizados como “modo 
+Manual” se originaron debido al tiempo de 
+ajuste del modo de control desde CDC. 
+ 
+Dicho lo anterior, el indicador de desempeño 
+cambia a 100%. 
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. 
+ 
+Por otro lado, el tiempo en categoría “Not 
+Tracking” es una medición que proviene 
+directamente de los registros del AGC. 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas de sintonización hechas por el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar 
+esta 
+sintonización 
+se 
+solicita 
+coordinar las pruebas directamente con el 
+Departamento de Modelación y aplicaciones 
+EMS al mail DMAP@coordinador.cl.  
+2 
+Cóndor y 
+Huemul 
+CSF 
+PE LLANOS DEL 
+VIENTO (U1-U32) 
+Fecha: 
+22-05-2025 
+16:00 
+Se evaluaron 0.73 minutos de Non tracking y 5.8 
+minutos en modo Manual en el período, 
+específicamente entre las 16:00 y las 16:05:48. 
+Se acoge parcialmente. 
+ 
+Ver respuesta a la observación N°1. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Al respecto, el período en modo manual se trató 
+del inicio de la activación por parte del 
+Coordinador y que venía de la hora anterior, por 
+lo que no aplica penalizar el comportamiento de 
+la central en dicho período. Se solicita asignar 
+C=0 para el período y corregir el cálculo de 
+desempeño para que no tome en cuenta el 
+período inicial en modo manual toda vez que la 
+central se viene integrando al AGC. 
+3 
+Cóndor y 
+Huemul 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+28-05-2025 
+08:00 
+Se evaluaron 2.27 minutos de Non tracking y 1.6 
+minutos en modo Manual en el período, 
+específicamente entre las 16:00 y las 16:05:48. 
+Al respecto, el período en modo manual se trató 
+del inicio de la activación por parte del 
+Coordinador y que venía de la hora anterior, por 
+lo que no aplica penalizar el comportamiento de 
+la central en dicho período. Por otro lado, el 
+período de Non tracking no debería ser 
+contabilizado durante la rampa de subida entre 
+las 08:42 y las 08:46 ya que la central sigue la 
+consigna durante todo el período. Se solicita: 
+Asignar C=0 para el período, y reevaluar el 
+período de Non tracking (B). También se solicita 
+revisar la parametrización configurada en el 
+AGC, la central siguió la consigna de acuerdo 
+con su rampa establecida. 
+Se acoge parcialmente. 
+ 
+Ver respuesta a la observación N°1. 
+4 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Almeyda 
+Fecha: 
+06-05-2025 
+07:40 
+Se califica como NV, por PQV_ Mala calidad, 
+pero como se observa en la imagen inferior, el 
+SSCC fue prestado según lo solicitado 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se ajusta la 
+señal de SCADA asociada a la potencia 
+reactiva de la central para esta instrucción 
+debido a la mala calidad de la señal original. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+En función de lo anterior se determina que la 
+central redujo los 17 MVAr solicitados por CDC. 
+ 
+Dicho lo anterior, el indicador se recalcula, por 
+lo que la respuesta cambia a 100%. 
+5 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Almeyda 
+Fecha: 
+19-05-2025 
+05:47 
+Se califica como NC, pero la planta presta el 
+SSCC según sus límites establecidos 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y las señales de 
+la central en SCADA, donde se verifica que la 
+unidad redujo en 17 MVAr su potencia reactiva, 
+siendo la instrucción de reducir 30 MVAr.  
+ 
+Según la carta de verificación de la central 
+(DE04725-22) y su curva PQ, la unidad es 
+capaz de reducir 35 MVAr su potencia reactiva 
+en las condiciones que se encontraba al 
+momento de la instrucción (tensión de 1,05 p.u. 
+y 0 MW de potencia activa). Dicho lo anterior el 
+indicador se mantiene. 
+6 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Malgarida 
+Fecha: 
+06-05-2025 
+07:40 
+Se califica como NV, por PQV_ Mala calidad, 
+pero como se observa en la imagen inferior, el 
+SSCC fue prestado según lo solicitado. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se ajusta la 
+señal de SCADA asociada a la potencia 
+reactiva para esta instrucción, debido a la mala 
+calidad de la señal original. En función de lo 
+anterior se determina que la central redujo los 
+60 MVAr solicitados por CDC.  
+ 
+Dicho lo anterior, el indicador se recalcula, por 
+lo que la respuesta cambia a 100%. 
+7 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+Disponibilidad 
+PFV Malgarida 
+Fecha: 
+27-05-2025 
+08:44 
+Se 
+calculó 
+el 
+desempeño 
+con 
+0% 
+por 
+“Disponibilidad”, debido al IL 2025001056 
+abierto el 19-05-2025 05:45 hrs. Este documento 
+Se acoge la observación. 
+ 
+Al momento de realizar el cálculo de 
+indicadores, la solicitud en cuestión no se 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+no fue cerrado a tiempo por error de CDC que ya 
+fue resuelto, y actualmente se encuentra cerrado 
+al 19-05-2025 10:22hrs. Se solicita corregir la 
+disponibilidad ya que el desempeño de la 
+instrucción esta validado con C1 
+encontraba 
+finalizada, 
+por 
+lo 
+que 
+fue 
+considerada en el cálculo de indicadores de 
+desempeño. 
+ 
+Dicha solicitud fue cerrada el día 19-05-2025 a 
+las 10:22 horas. Cabe recordar que es 
+responsabilidad del CC de su representada dar 
+aviso al CDC cuando finalizan las solicitudes 
+de desconexión/limitación, lo que no fue 
+realizado hasta la fecha ya mencionada. 
+ 
+Se analizan los antecedentes y se comprueba 
+que la limitación informada fue actualizada en 
+su campo de fecha de finalización.  
+ 
+Dicho lo anterior, se actualiza la evaluación de 
+disponibilidad para la unidad.  
+8 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+Disponibilidad 
+PFV Malgarida 
+Fecha: 
+28-05-2025 
+13:17 
+Se 
+calculó 
+el 
+desempeño 
+con 
+0% 
+por 
+“Disponibilidad”, debido al IL 2025001056 
+abierto el 19-05-2025 05:45hrs. Este documento 
+no fue cerrado a tiempo por error de CDC que ya 
+fue resuelto, y actualmente se encuentra cerrado 
+al 19-05-2025 10:22hrs. Se solicita corregir la 
+disponibilidad ya que el desempeño de la 
+instrucción esta validado con C1 
+Se acoge la observación. 
+ 
+Al momento de realizar el cálculo de 
+indicadores, la solicitud en cuestión no se 
+encontraba 
+finalizada, 
+por 
+lo 
+que 
+fue 
+considerada en el cálculo de indicadores de 
+desempeño. 
+Cabe 
+recordar 
+que 
+es 
+responsabilidad del CC de su representada dar 
+aviso al CDC cuando finalizan las solicitudes 
+de desconexión/limitación, lo que no fue 
+realizado hasta la fecha ya mencionada. 
+ 
+Dicho lo anterior, considerando el estado actual 
+de la solicitud en cuestión, se actualiza la 
+evaluación de disponibilidad para la unidad. 
+9 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+Disponibilidad 
+PFV Malgarida 
+Fecha: 
+28-05-2025 
+18:09 
+Se 
+calculó 
+el 
+desempeño 
+con 
+0% 
+por 
+“Disponibilidad”, debido al IL 2025001056 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+abierto el 19-05-2025 05:45hrs. Este documento 
+no fue cerrado a tiempo por error de CDC que ya 
+fue resuelto, y actualmente se encuentra cerrado 
+al 19-05-2025 10:22hrs. Se solicita corregir la 
+disponibilidad ya que el desempeño de la 
+instrucción esta validado con C1. 
+Al momento de realizar el cálculo de 
+indicadores, la solicitud en cuestión no se 
+encontraba 
+finalizada, 
+por 
+lo 
+que 
+fue 
+considerada en el cálculo de indicadores de 
+desempeño. 
+Cabe 
+recordar 
+que 
+es 
+responsabilidad del CC de su representada dar 
+aviso al CDC cuando finalizan las solicitudes 
+de desconexión/limitación, lo que no fue 
+realizado hasta la fecha ya mencionada. 
+ 
+Dicho lo anterior, considerando el estado actual 
+de la solicitud en cuestión, se actualiza la 
+evaluación de disponibilidad para la unidad. 
+10 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+Disponibilidad 
+PFV Malgarida 
+Fecha: 
+29-05-2025 
+19:01 
+Se 
+calculó 
+el 
+desempeño 
+con 
+0% 
+por 
+“Disponibilidad”, debido al IL 2025001056 
+abierto el 19-05-2025 05:45hrs. Este documento 
+no fue cerrado a tiempo por error de CDC que ya 
+fue resuelto, y actualmente se encuentra cerrado 
+al 19-05-2025 10:22hrs. Se solicita corregir la 
+disponibilidad ya que el desempeño de la 
+instrucción esta validado con C1 
+Se acoge la observación. 
+ 
+Al momento de realizar el cálculo de 
+indicadores, la solicitud en cuestión no se 
+encontraba 
+finalizada, 
+por 
+lo 
+que 
+fue 
+considerada en el cálculo de indicadores de 
+desempeño. 
+Cabe 
+recordar 
+que 
+es 
+responsabilidad del CC de su representada dar 
+aviso al CDC cuando finalizan las solicitudes 
+de desconexión/limitación, lo que no fue 
+realizado hasta la fecha ya mencionada. 
+ 
+Dicho lo anterior, considerando el estado actual 
+de la solicitud en cuestión, se actualiza la 
+evaluación de disponibilidad para la unidad. 
+11 
+Enlasa 
+Generación 
+Chile S.A. 
+CTF 
+TER PEÑON 
+Fecha: 
+01-05-2025 
+8:01:00 
+y 
+08:22 
+El 01-05-2025 la central PENON_DIESEL fue 
+activada por CTF (+) a las 08:01 hrs. siendo 
+retirada a las 08:13 hrs. Posteriormente, a las 
+08:22 hrs. el CDC instruyó nuevamente la 
+activación de la reserva de CTF (+), aunque la 
+central se encontraba en proceso de salida. La 
+Aclaración - No se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones de 
+las instrucciones, las cuales indican que la 
+instrucción de CTF+, asociada a aumentar 79 
+MW su generación presenta una respuesta del 
+100% y finaliza a las 08:13 hrs. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+central salió de servicio a las 08:24 y volvió a 
+ingresar a las 08:25 para prestar la reserva 
+solicitada (adjudicada y solicitada a esa hora), 
+como 
+se 
+menciona 
+en 
+la 
+grabación 
+“20250501083408”. Sin embargo, debido a que 
+en el momento de la activación la central estaba 
+disminuyendo generación se registra una 
+potencia inicial, afectando el desempeño por 
+evaluación 1. En este contexto, se presentan 
+escenarios que impiden la correcta evaluación 
+de desempeños y penalización de ingresos de la 
+central. Al momento de la segunda activación, 
+PENON_DIESEL se encontraba terminando su 
+proceso de salida. Por lo que se mantuvo la 
+acción para ingresar a cumplir con la reserva 
+solicitada.  
+ 
+Esto afecta la evaluación 1 a pesar de que la 
+reserva fue prestada cumpliendo con un 84% en 
+los indicadores 2 y 3. Por otro lado, durante la 
+primera activación el CDC tenía disponible la 
+central para la prestación de CTF (+) hasta las 
+09:16 por lo que la central pudo mantenerse en 
+servicio 
+con 
+instrucciones 
+intermedias 
+(continuidad) hasta que se estabilizaran las 
+desviaciones de frecuencia que afectaban al 
+sistema en la hora en cuestión. Sin embargo, 
+como se menciona en la metodología de cálculo 
+de desempeño publicada en 2023, punto 2.3.3, 
+la continuación del servicio activado aplica 
+cuando existe una modificación de la instrucción 
+inicial (consigna N) otorgando al coordinado una 
+segunda instrucción (consigna N+1). Este 
+criterio no aplica a esta situación en particular ya 
+que la central mantenía una instrucción de salida 
+Respecto a la instrucción de las 08:22 hrs., esta 
+corresponde a CTF+ con 79 MW, estando la 
+unidad en proceso de salida de operación, con 
+una potencia medida en SCADA en el minuto 
+t0 de 40 MW.  
+ 
+El funcionamiento del aplicativo utilizado para 
+el cálculo de desempeño considera, de forma 
+automática, el nivel de generación inicial al 
+momento de la instrucción y la potencia 
+máxima de la unidad. El aplicativo evalúa la 
+instrucción con el aporte de potencia que 
+efectivamente podría entregar la unidad, 
+siendo en este caso 39MW. Estos ajustes de 
+potencia se pueden observar en la columna 
+"con_base" del archivo CTF_202505.csv. Por 
+lo tanto, la segunda instrucción dada a las 
+08:22 hrs se evalúa como CTF+ en un monto 
+de 39 MW. 
+ 
+Adicionalmente, la central no registra una 
+limitación en Neomante que justifique la 
+incapacidad de la máquina de ajustar su 
+consigna una vez se encuentra en proceso de 
+salida de operación. Dicho lo anterior el 
+indicador no se modificará. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+de servicio y no se encontraba con inyección 
+estable 
+con 
+una 
+consigna 
+N. 
+ 
+No menor es que el indicador de desempeño 
+calculado afecta directamente a la energía 
+tranzada de la primera activación. Cabe 
+mencionar 
+que 
+ya 
+se 
+han 
+realizado 
+observaciones similares con respecto a dos 
+activaciones en una misma hora en la 
+publicación de indicadores de enero 2025. 
+Donde se recibe en respuesta que el factor de 
+activación horario es determinado por el 
+promedio simple de las n instrucciones de una 
+hora H. Sin embargo, en este caso en particular 
+no debiese aplicar la metodología de cálculo de 
+desempeño 
+de 
+CTF 
+con 
+instrucciones 
+intermedias 
+como 
+ya 
+fue 
+mencionado 
+anteriormente. Por estas razones se solicita que 
+se considere para la activación de las 08:22 del 
+01-05-2025 de PEÑON_DIESEL una potencia 
+inicial de 0 MW, considerando que la central sale 
+de servicio antes de prestar la reserva.  
+También se solicita que se realice una 
+modificación a la metodología de cálculo de 
+desempeño que defina el cálculo del factor de 
+desempeño 
+horario 
+cuando 
+ocurran 
+n 
+activaciones en una hora. Este factor de 
+activación 
+horario 
+debe 
+ser 
+representativo, realizando el promedio simple de 
+todos los factores de cumplimiento, en vez de los 
+factores de activación. Considerando que con 
+esta metodología solo un factor de cumplimiento 
+en cero penaliza completamente al menos 2 
+activaciones 
+con 
+100% 
+de 
+desempeño, al menos 3 activaciones con 95% 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+de desempeño y al menos 4 activaciones con 
+93% de desempeño. 
+12 
+Generadora 
+Metropolitana 
+SpA 
+CTF 
+General 
+Fecha: 
+General 
+Se 
+solicita 
+agregar 
+al 
+documento 
+CTF_202501.csv el valor de la potencia en 
+t0+30 seg, t0+5 min, t0 +5,5 min y t0+6 min. 
+No se acoge la observación. 
+ 
+El aplicativo analiza automáticamente los 
+tiempos indicados sin tener un reporte 
+intermedio. En caso de que su representada 
+requiera los datos intermedios, provenientes de 
+SCADA, estos pueden ser solicitados al correo 
+DCO@coordinador.cl. 
+13 
+Generadora 
+Metropolitana 
+SpA 
+CTF 
+TER Nueva Renca 
+Fecha: 
+09-05-2025 
+00:42 
+El día 09/05/2025 se solicita activación de CTF a 
+las 00:42 horas, luego a las 00:45 horas se 
+solicita la central a Mínimo Técnico (MT) y 
+finalización de activación de CTF a las 1:04 
+horas. Las instrucciones de activación de CTF y 
+consigna directa de manera traslapada son 
+incompatibles. Se solicita terminar la evaluación 
+del CTF en el momento que se da la instrucción 
+directa de llevar a la central a MT. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina 
+mediante las grabaciones que CDC instruyó 
+reducir la generación a MT a las 00:43 hrs., 
+durante la prestación del servicio. 
+ 
+Dicho lo anterior, el indicador se recalcula 
+considerando que la instrucción de CTF- es de 
+96 MW, por lo que la respuesta cambia a 100%, 
+lo que se traduce en un factor de desempeño 
+de 100%. 
+14 
+Generadora 
+Metropolitana 
+SpA 
+CTF 
+TER Nueva Renca 
+Fecha: 
+14-05-2025 
+11:12 
+El día 14/05/2025 se solicita activación de CTF a 
+las 11:12 horas, luego a las 11:24 horas se 
+solicita la central a MT y finalización de 
+activación de CTF a las 11:30 horas. Las 
+instrucciones de activación de CTF y consigna 
+directa de manera traslapada son incompatibles. 
+Se solicita terminar la evaluación del CTF en el 
+momento que se da la instrucción directa de 
+llevar a la central a MT. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina 
+mediante las grabaciones que CDC instruyó 
+reducir la generación a MT a las 11:22 hrs., 
+durante la prestación del servicio. 
+ 
+Dicho lo anterior, el indicador se recalcula 
+considerando que la instrucción es de CTF- en 
+82 MW, por lo que la respuesta cambia a 100%, 
+lo que se traduce en un factor de desempeño 
+de 100%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+15 
+Generadora 
+Metropolitana 
+SpA 
+CTF 
+TER Nueva Renca 
+Fecha: 
+14-05-2025 
+12:16 
+El día 14/05/2025 se solicita activación de CTF a 
+las 12:16 horas, luego a las 12:34 horas se 
+solicita la central a MT y finalización de 
+activación de CTF a las 13:02 horas. Las 
+instrucciones de activación de CTF y consigna 
+directa de manera traslapada son incompatibles. 
+Se solicita terminar la evaluación del CTF en el 
+momento que se da la instrucción directa de 
+llevar a la central a MT. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se constata que se instruyó CTF- por 82 
+MW a las 12:23 hrs. y no a las 12:16 hrs. Dicho 
+lo anterior se elimina el registro de las 12:16 hrs 
+evaluando solo la instrucción de las 12:23 hrs.. 
+16 
+Generadora 
+Metropolitana 
+SpA 
+CTF 
+General 
+Fecha: 
+General 
+Se solicita también revisar como se evalúa el 
+CTF cuando está el CPF activado, ya que la 
+instrucción de CTF puede ser contraria a lo que 
+se requiere por CPF, impactando el desempeño 
+del CTF 
+Aclaración. 
+ 
+En caso de prestaciones simultáneas entre 
+CPF 
+y 
+CTF 
+se 
+revisan 
+los 
+registros 
+frecuencia/potencia de la central enviados para 
+la evaluación de CPF y las señales SCADA de 
+la operación de la unidad. 
+ 
+A partir de estos insumos se analiza la 
+existencia 
+de 
+un 
+cambio 
+de 
+consigna 
+consistente con lo instruido por CDC en CTF, 
+de manera que la unidad pueda prestar CPF en 
+torno al ajuste de consigna. 
+17 
+Generadora 
+Metropolitana 
+SpA 
+CTF 
+PFV CEME 1 
+Fecha: 
+14-05-2025 
+11:12 
+El día 14/05/2025 a las 11:12 horas se considera 
+un Pt0 de 195 MW y según nuestros registros la 
+potencia en ese instante era de 218 MW. Se 
+solicita corregir la evaluación utilizando los 
+valores correspondientes a los tiempos. 
+No se acoge la observación.  
+ 
+Se analizan los antecedentes y se determina 
+que, según registros de potencia de la central 
+en el SCADA, esta no fue capaz de cumplir con 
+lo instruido por CDC. Dicho lo anterior la 
+evaluación se mantiene. 
+18 
+Generadora 
+Metropolitana 
+SpA 
+CTF 
+PFV CEME 1 
+Fecha: 
+14-05-2025 
+12:23 
+El día 14/05/2025 se solicita activación de CTF a 
+las 12:23 horas, luego a las 12:33 horas se da 
+instrucción directa de consiga por seguridad del 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se constata que se instruyó CTF- por 50 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+sistema y finalización de activación de CTF a las 
+12:47 horas. Las instrucciones de activación de 
+CTF y consigna directa de manera traslapada 
+son incompatibles. Se solicita terminar la 
+evaluación del CTF en el momento que se da la 
+instrucción directa. 
+MW a las 12:23 horas y, posteriormente, se 
+instruyó reducir la generación a MT a las 12:27 
+hrs. 
+ 
+Dicho lo anterior, el indicador se recalcula y la 
+respuesta cambia a 100%, lo que se traduce en 
+un factor de desempeño de 100%. 
+19 
+Generadora 
+Metropolitana 
+SpA 
+CTF 
+PFV CEME 1 
+Fecha: 
+16-05-2025 
+00:00 
+El día 16/05/2025 se solicita activación de CTF 
+de bajada de 113 MW, sin embargo, aparecen 
+93MW consignados en el documento de 
+evaluación. Se solicita corregir requerimiento de 
+CTF al instruido en tiempo real y realizar la 
+evaluación acorde a este. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se constata que se instruyó CTF- con 
+una consigna de -113 MW a las 15:41 horas. 
+Se modifican registros RIO en consistencia con 
+grabaciones. 
+ 
+Dicho lo anterior, el indicador se recalcula, por 
+lo que la respuesta cambia a 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+20 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+14.05.2025 
+11:13:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta indica que la central no podría 
+cumplir con el programa debido a restricciones 
+en el envío de gas desde Argentina, sin embargo 
+durante la activación la central estaba disponible 
+y de hecho la evaluación de la respuesta ante la 
+instrucción es del 100%. Se adjunta informe de 
+limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se comprueba 
+que la limitación informada fue actualizada de 
+manera posterior al cálculo de los indicadores 
+publicados, quedando con fecha de termino el 
+15-05-2025 a las 06:00 horas. Esto fue 
+realizado de manera posterior al cálculo de 
+indicadores publicados.  
+ 
+Sin perjuicio de lo mencionado, se recuerda 
+que el indicar las fechas de inicio y fin de las 
+solicitudes es exclusiva responsabilidad del 
+coordinado. 
+ 
+Dicho lo anterior, se actualiza la evaluación de 
+disponibilidad para la unidad.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Adicionalmente, se informa que la central 
+Nehuenco no recibió instrucciones de control 
+de tensión manual durante el mes. 
+21 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+15.05.2025 
+10:27:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta indica que la central no podría 
+cumplir con el programa debido a restricciones 
+en el envío de gas desde Argentina, sin embargo 
+durante la activación la central estaba disponible 
+y de hecho la evaluación de la respuesta ante la 
+instrucción es del 100%. Se adjunta informe de 
+limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°20. 
+22 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+15.05.2025 
+14:00:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta indica que la central no podría 
+cumplir con el programa debido a restricciones 
+en el envío de gas desde Argentina, sin embargo 
+durante la activación la central estaba disponible 
+y de hecho la evaluación de la respuesta ante la 
+instrucción es del 100%. Se adjunta informe de 
+limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°20. 
+23 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+15.05.2025 
+14:51:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°20. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta indica que la central no podría 
+cumplir con el programa debido a restricciones 
+en el envío de gas desde Argentina, sin embargo 
+durante la activación la central estaba disponible 
+y de hecho la evaluación de la respuesta ante la 
+instrucción es del 100%. Se adjunta informe de 
+limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+24 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+15.05.2025 
+15:33:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta indica que la central no podría 
+cumplir con el programa debido a restricciones 
+en el envío de gas desde Argentina, sin embargo 
+durante la activación la central estaba disponible 
+y de hecho la evaluación de la respuesta ante la 
+instrucción es del 100%. Se adjunta informe de 
+limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°20. 
+25 
+Colbún S.A. 
+CTF 
+PF Diego de 
+Almagro Sur 
+Fecha: 
+16.05.2025 
+16:06:00 
+(UTC-4) 
+De acuerdo con el registro de grabaciones de 
+Colbún se recibe la instrucción de bajar lo más 
+posible con el Parque, en este contexto se 
+procede a llegar hasta el mínimo técnico. 
+Solicitud: Revisar grabación y reevaluar si 
+corresponde. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se constata que se instruyó reducir la 
+generación al mínimo factible, a lo cual el 
+operador de Colbún respondió que este 
+mínimo factible es de 24 MW. Dicho esto, la 
+instrucción de CTF- de 24 MW es la que debe 
+ser evaluada. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+La unidad, según los datos de SCADA a la hora 
+de la instrucción, se encontraba generando 
+38,11 MW, por lo que debió ajustar su punto de 
+operación a 14,11 MW, no a mínimo técnico. 
+ 
+Dicho lo anterior, el indicador de desempeño se 
+mantiene. 
+26 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+18.05.2025 
+09:45:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta ilimitación se mantuvo vigente 
+hasta 15/05/2025 a las 06:00, por lo que no 
+aplica su consideración. Se adjunta limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°20. 
+27 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+19.05.2025 
+16:22:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta ilimitación se mantuvo vigente 
+hasta 15/05/2025 a las 06:00, por lo que no 
+aplica su consideración. Se adjunta limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°20. 
+28 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+20.05.2025 
+12:18:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta ilimitación se mantuvo vigente 
+hasta 15/05/2025 a las 06:00, por lo que no 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°20. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+aplica su consideración. Se adjunta limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+29 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+20.05.2025 
+15:11:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta ilimitación se mantuvo vigente 
+hasta 15/05/2025 a las 06:00, por lo que no 
+aplica su consideración. Se adjunta limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°20. 
+30 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+20.05.2025 
+19:55:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta ilimitación se mantuvo vigente 
+hasta 15/05/2025 a las 06:00, por lo que no 
+aplica su consideración. Se adjunta limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°20. 
+31 
+Colbún S.A. 
+CTF 
+PF Diego de 
+Almagro Sur 
+Fecha: 
+21.05.2025 
+15:01:00 
+(UTC-4) 
+De acuerdo con el registro RIO la unidad se 
+encontraba 
+participando 
+del 
+CPF 
+simultáneamente, adicionalmente a las 15:45 se 
+recibe la instrucción de bajar la generación en el 
+contexto de la prorrata lo que altera el dato de 
+potencia final a la cual debía llegar y que resulta 
+en un desempeño de 0% para la ultima etapa de 
+evaluación. Se adjunta registro en el cual se 
+observa 
+la 
+activación 
+de 
+la 
+prorrata. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se constata que se instruyó CTF- en 69 
+MW a las 15:01 hrs y posteriormente a las 
+15:45 hrs. se instruyó reducir la generación 
+debido a prorrata. 
+ 
+Dicho lo anterior, el indicador se recalcula 
+considerando una activación de CTF-, por lo 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Solicitud: Revisar contexto de instrucciones y 
+reevaluar si corresponde. 
+que la respuesta cambia a 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+32 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+22.05.2025 
+01:44:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta ilimitación se mantuvo vigente 
+hasta 15/05/2025 a las 06:00, por lo que no 
+aplica su consideración. Se adjunta limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°20. 
+33 
+Colbún S.A. 
+Disponibilidad 
+CT Nehuenco I 
+Fecha: 
+20.05.2025 
+16:32:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Mayo_2025_V1_JLM"la 
+unidad fue evaluada con factor de desempeño 
+0% debido a la limitación LI 2025001025, sin 
+embargo esta ilimitación se mantuvo vigente 
+hasta 15/05/2025 a las 06:00, por lo que no 
+aplica su consideración. Se adjunta limitación. 
+Solicitud: Revisar limitación y reevaluar si 
+corresponde 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°20. 
+34 
+Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+23.05.2025 
+19:18:00 
+(UTC-4) 
+De acuerdo con el registro de grabaciones de 
+Colbún se recibe la instrucción de activar el 
+servicio de bajada para ambas unidades 
+simultaneamente, en este contexto, dado que el 
+operador debe elegir primero a una unidad para 
+cambiar su estado de carga, es que la otra queda 
+fuera de cumplimiento para la primera etapa de 
+evaluación que corresponde a los primeros 5 
+minutos, asimismo se observa que en el resto de 
+las etapas la unidad responde según lo 
+requerido entregando toda su reserva a los 15 
+Se acoge la observación. 
+ 
+Es responsabilidad del coordinado contar con 
+el número de operadores necesarios para 
+cumplir con las instrucciones dadas por CDC, 
+las cuales indican que tanto la unidad 1 y 2 
+debieron prestar servicio a las 19:18 horas. En 
+meses futuros este tipo de observación no será 
+acogida. 
+ 
+Sin perjuicio de lo anterior, se analizan los 
+antecedentes y CDC confirma que tiene 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+minutos y la mantiene hasta la finalización de la 
+instrucción. Para complementar lo anterior se 
+puede observar que en este caso la unidad N°1 
+cumple con las tres etapas de evaluación, ya que 
+fue 
+la 
+primera 
+en 
+ser 
+consignada. 
+Solicitud: Revisar grabación y reevaluar si 
+corresponde. 
+conocimiento de esta condición particular de la 
+central Colbún. En función de ello se evalúa el 
+desempeño considerando a la unidad 2 con 
+una instrucción de CTF- de 110 MW a las 19:23 
+hrs. 
+ 
+Dicho lo anterior, el indicador se recalcula, por 
+lo que la respuesta cambia a 100%. 
+35 
+Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+24.05.2025 
+00:00:00 
+(UTC-4) 
+De acuerdo con el registro de grabaciones de 
+Colbún S.A. la activación del servicio se produce 
+a las 23:56 del día 23 de mayo, por lo que al 
+momento de ser evaluada la unidad ya estaba 
+siguiendo la instrucción. Se adjunta grabación. 
+Solicitud: Revisar grabación y reevaluar si 
+corresponde. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora 
+que los últimos minutos corresponden a una 
+continuación de la instrucción. 
+ 
+Dicho lo anterior, el indicador se recalcula 
+considerando que el inicio ocurrió el día 23.05 
+a las 23:56 hrs. resultando en la evaluación de 
+la respuesta cambia un 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+36 
+Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+24.05.2025 
+17:27:00 
+(UTC-4) 
+De acuerdo con el registro de grabaciones de 
+Colbún S.A. la unidad recibe la instrucción de 
+sincronizar y subir a plena carga a las 16:46 
+horas, posteriormente a eso la unidad se 
+mantuvo a plena carga sin recibir ninguna 
+instrucción adicional. En este contexto al 
+activarse el servicio de subida la unidad no tenía 
+margen 
+para 
+seguir 
+la 
+instrucción. 
+Solicitud: 
+Revisar 
+grabación 
+y 
+contexto 
+operacional para la evaluación. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora 
+que CDC instruyó CTF+ en 13,5 MW, esto es 
+aumentar la generación de la unidad a plena 
+carga resguardando la reserva de CTF 
+correspondiente. 
+ 
+Dicho lo anterior, el indicador se mantiene. 
+37 
+Colbún S.A. 
+CTF 
+UG Colbún 1 
+Fecha: 
+25.05.2025 
+17:24:00 
+(UTC-4) 
+De acuerdo con el documento "CTF_202505" la 
+unidad recibe la instrucción de subir 57,2 MW en 
+condiciones que estaba generando 177 MW. 
+No se acoge la observación. 
+ 
+La central no registra una limitación de la 
+potencia máxima por nivel de cota vía 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Esta activación se evalúa considerando que la 
+potencia máxima de la unidad es de 231 MW, sin 
+embargo, dado el nivel del embalse que se tenía 
+en ese instante la potencia máxima real era de 
+210 MW. 
+Solicitud: Se pide evaluar la capacidad máxima 
+de aporte de la unidad considerando la cota del 
+embalse. 
+Neomante para este día, a diferencia de 
+solicitudes 
+como 
+la 
+N°2025000940 
+y 
+N°2025000840 donde se señalan limitaciones 
+explícitamente asociadas a este punto. 
+ 
+Las instrucciones dadas por CDC consideran 
+ajustes de potencia por cotas de embalse en la 
+medida que estas se encuentren respaldas en 
+la plataforma Neomante.  
+ 
+Dicho lo anterior, el indicador se mantiene. 
+38 
+Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+28.05.2025 
+00:39:00 
+(UTC-4) 
+De acuerdo con el registro de grabaciones de 
+Colbún se recibe la instrucción de activar el 
+servicio de bajada para ambas unidades 
+simultaneamente, en este contexto, dado que el 
+operador debe elegir primero a una unidad para 
+cambiar su estado de carga, es que la otra queda 
+fuera de cumplimiento para la primera etapa de 
+evaluación que corresponde a los primeros 5 
+minutos, asimismo se observa que en el resto de 
+las etapas la unidad responde según lo 
+requerido entregando toda su reserva a los 15 
+minutos y la mantiene hasta la finalización de la 
+instrucción. Para complementar lo anterior se 
+puede observar que en este caso la unidad N°1 
+cumple con las tres etapas de evaluación, ya que 
+fue 
+la 
+primera 
+en 
+ser 
+consignada. 
+Solicitud: Revisar grabación y reevaluar si 
+corresponde. 
+Se acoge la observación. 
+ 
+Es responsabilidad del coordinado contar con 
+el número de operadores necesarios para 
+cumplir con las instrucciones dadas por CDC, 
+las cuales indican que tanto la unidad 1 y 2 
+debieron prestar servicio a las 19:18 horas. En 
+meses futuros este tipo de observación no será 
+acogida. 
+ 
+Sin perjuicio de lo anterior, se analizan los 
+antecedentes y CDC confirma que tiene 
+conocimiento de esta condición particular de la 
+central Colbún. En función de ello se analiza la 
+señal de SCADA asociada a la potencia activa 
+de ambas unidades, donde se constata que la 
+unidad prestó correctamente el servicio de CTF 
+solicitado.  
+ 
+Dicho lo anterior, el indicador se recalcula, por 
+lo que la respuesta cambia a 100%. 
+ 

@@ -1,0 +1,154 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 24 de agosto de 2026 
+DE 05662-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 332 al 338 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 332-2026 al EAF 338-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Indisponibilidad > 
+Indicadores NTISyC > 2026 > Julio > Cálculo por EAF: 
+ 
+1. EAF 332-2026 
+2. EAF 333-2026 
+3. EAF 334-2026 
+4. EAF 335-2026 
+ 
+5. EAF 336-2026 
+6. EAF 337-2026 
+7. EAF 338-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el jueves 27 de agosto de 
+2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. María José Reveco – Encargado Titular Transelec S.A. 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Pedro Maximiliano Ruminot Jara – Encargado Titular Anglo American Sur S.A. 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Empresa Eléctrica de la Frontera S.A. 
+Sr. María José Reveco – Encargado Titular CYT Operaciones SpA. 
+Sr. Hernán González Gaete – Encargado Titular Compañía SCM Minera Lumina Copper Chile. 
+Sr. Jaime Acevedo Salinas – Encargado Titular Chilquinta Transmisión S.A. 
+Sr. Luis Eduardo Sepúlveda Iturra – Encargado Titular Chilquinta Distribución S.A. 
+Sr. David Zamora Mesias – Encargado Titular Alfa Transmisora de Energía S.A. 
+Sr. Carolina Valderrama Campos – Encargado Titular Codelco (Corporación Nacional del Cobre). 
+DBCD/DTE-SSCC/SGASO 
+ 
+  
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 332-2026 
+18-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Chañaral 
+SI 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. No obstante, respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que se incorpora íntegramente al 
+cálculo. 
+EAF 338-2026 
+18-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Hernan 
+Fuentes 
+SI 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. No obstante, respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que se incorpora íntegramente al 
+cálculo. 
+(*) Los EAFs N°333, 335 y 337 no tuvieron afectación de Empresas Distribuidoras. 
+(**) En el EAF N°334 la información recibida de la empresa distribuidora Empresa Eléctrica de la Frontera S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+(**) En el EAF N°336 la información recibida de la empresa distribuidora Chilquinta Distribución S.A. fue recibida en plazo y en forma, e incorporada al cálculo. 
+ 

@@ -1,0 +1,5357 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Santiago, 14 de mayo de 2026 
+ 
+    
+DE 03269-26 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+Ref.: Respuestas a observaciones de 
+Indicadores de Desempeño de Servicios 
+Complementarios prestados durante los 
+meses de enero a junio de 2025 versión 3. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y considerando las comunicaciones de las 
+Ref. [1] a [7], relativas a los indicadores de desempeño de Servicios Complementarios 
+de los meses de enero a junio de 2025 -en su versión 2-, y habiendo revisado y atendido 
+las observaciones recibidas, informo a Ud. lo siguiente: 
+ 
+a) En anexo 1 de la presente comunicación se remiten las respuestas a las 
+observaciones recibidas a la versión 2 de los Indicadores de Desempeño de 
+Servicios Complementarios prestados durante los meses de enero a junio de 
+2025. Cabe destacar que los indicadores del mes de mayo de 2025, que fueran 
+publicados mediante comunicación de la Ref. [6], no sufren modificaciones.  
+ 
+b) De acuerdo con lo indicado en literal a) anterior, se encuentra disponible en el 
+sitio web del Coordinador la versión 3 del cálculo de los Indicadores de 
+Desempeño de SSCC prestados durante los meses desde enero a abril de 2025 
+y de junio del 2025.  
+ 
+c) Adicionalmente, en esta instancia, se deja disponible la primera versión de las 
+evaluaciones de desempeño del EDAG y la segunda versión de las evaluaciones 
+de desempeño del EDAC-BF/CE del mes de febrero 2025.  
+ 
+d) En cuanto a los indicadores de “Desempeño del Esquema de Plan de 
+Recuperación de Servicio en la categoría de Partida Autónoma, reitero a Ud. que 
+la segunda versión del cálculo de PRS-PA se encuentra disponible en la página 
+web del Coordinador según lo indicado en la carta de la Ref. [8]. 
+ 
+Al respecto, los indicadores mencionados pueden ser descargados desde las siguientes 
+rutas: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Desempeño y 
+Disponibilidad de Servicios Complementarios > 2025 
+• 
+Enero 2025 > Versión 3 
+• 
+Febrero 2025 > Versión 3 
+• 
+Marzo 2025 > Versión 3 
+• 
+Abril 2025 > Versión 3 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+• 
+Junio 2025 > Versión 3 
+ 
+Finalmente, comunico a Ud. que los indicadores antes individualizados serán 
+considerados en las reliquidaciones del IVTE, proceso que lidera la Gerencia de 
+Mercados de este Coordinador.  
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+ Coordinador Eléctrico Nacional 
+Referencias 
+ 
+[1] Carta DE01458-25, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de enero 2025, segunda versión.” de fecha 
+10 de marzo de 2025. 
+[2] Carta DE01751-25, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de febrero 2025, segunda versión.” de fecha 
+25 de marzo de 2025. 
+[3] Carta DE02477-25, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de marzo 2025, segunda versión.” de fecha 
+28 de abril de 2025. 
+[4] Carta DE03186-25, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de abril 2025, segunda versión.” de fecha 
+28 de mayo de 2025. 
+[5] Carta DE03748-25, Ref.: “Desempeño del Esquema de Desconexión Automático de 
+Carga (EDAC) por Subfrecuencia y Contingencia Extrema, asociados a los eventos de 
+falla ocurridos en febrero de 2025 (EAF 062-2025, EAF 072-2025 y EAF 089-2025).” de 
+fecha 19 de junio de 2025. 
+[6] Carta DE03838-25, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de mayo 2025, segunda versión.” de fecha 
+26 de junio de 2025. 
+[7] Carta DE04487-25, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de junio 2025, segunda versión.” de fecha 
+24 de julio de 2025. 
+[8] Carta DE05173-25, Ref.: “Desempeño del Esquema de Plan de Recuperación de 
+Servicio en la categoría de Partida Autónoma (PRS-PA) el 25 de febrero de 2025, en su 
+segunda versión.” de fecha 20 de agosto de 2025. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 1: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+enero 2025 versión 2. 
+ 
+Consultas recibidas mediante: 
+- 
+Engie Energía Chile S.A.: recibidas mediante carta ENGIE N°269/2025. Ingreso DE09581-25.   
+- 
+Generadora Metropolitana SpA: observaciones pendientes de respuesta, en revisión al momento de la emisión de la carta Ref. 
+[1] 
+- 
+Cóndor Energía SpA: observaciones pendientes de respuesta, en revisión al momento de la emisión de la carta Ref. [1] 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Engie 
+Energía 
+Chile S.A. 
+EDAG 
+ de diciembre 
+2024 
+ 
+(correspondiente 
+al cálculo de 
+enero 2025) 
+PE Calama 
+El 20/12/24 se realizó un mantenimiento 
+programado según la solicitud 2024129889 
+subida a la plataforma Neomante. La 
+disponibilidad calculada por el Coordinador 
+para las horas 12 a la 16 dio lugar a un factor 
+de desempeño mensual de 99,44% (no sujeto 
+a remuneración) cuando debió haber sido del 
+100% al ser un mantenimiento programado 
+debidamente 
+formalizado, 
+por 
+lo 
+que 
+solicitamos revisar y rectificar. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se corrobora que 
+la 
+solicitud 
+2024129889 
+fue 
+aprobada 
+e 
+ingresada 
+adecuadamente 
+en 
+plataforma 
+Neomante. Los trabajos fueron desarrollados de 
+manera efectiva entre las 09:21 y 11:44 de la 
+mañana según lo establecido de manera oficial 
+en la plataforma.  
+ 
+Dicho lo anterior, se recalcula el desempeño de 
+las horas 9, 10 y 11 con 100% y el resto se 
+mantiene. 
+2 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Fecha: 01-ene-2025 Hora 18 
+ 
+Se indican 3.3 minutos de non tracking y 0.6 
+minutos en manual durante un ascenso de 
+consignas desde el valor mínimo (19 MW) 
+hasta 176 MW. Durante ese tiempo la central 
+subió de acuerdo con su rampa en cada 
+consigna enviada por el AGC. Se solicita 
+reevaluar, considerando que esta situación se 
+ha repetido en evaluaciones anteriores. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+medición que proviene directamente de los 
+registros del AGC.  
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+3 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Fecha: 02-ene-2025 Hora 15 
+ 
+Se indican 3.8 minutos de non tracking. Se 
+observa que durante toda la hora la central 
+siguió la consigna sin problemas. Se solicita 
+reevaluar el factor de desempeño y la 
+parametrización en el SCADA, considerando 
+que esta situación se ha repetido en 
+evaluaciones anteriores. 
+No se acoge la observación. 
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC. Dicho lo anterior, el indicador 
+de desempeño se mantiene. 
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+4 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Fecha: 04-ene-2025 Hora 17 
+ 
+Se indican 3.8 minutos de non tracking. Se 
+No se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+observa que durante toda la hora la central 
+siguió la consigna sin problemas. Se solicita 
+reevaluar el factor de desempeño y la 
+parametrización en el SCADA, considerando 
+que esta situación se ha repetido en 
+evaluaciones anteriores. 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC. Dicho lo anterior, el indicador 
+de desempeño se mantiene. 
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+5 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Fecha: 07-ene-2025 Hora 18 
+ 
+Se indican 3.1 minutos de non tracking 
+durante un ascenso de consignas. Durante 
+ese tiempo la central subió de acuerdo con su 
+rampa en cada consigna enviada por el AGC. 
+Se solicita reevaluar, considerando que esta 
+situación se ha repetido en evaluaciones 
+anteriores. 
+No se acoge la observación. 
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC. Dicho lo anterior, el indicador 
+de desempeño se mantiene. 
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+6 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Fecha: 09-ene-2025 Hora 18 
+ 
+Se indican 3.9 minutos de non tracking 
+durante un ascenso de consignas desde 31 
+MW hasta 182 MW. Durante ese tiempo la 
+central subió de acuerdo con su rampa en 
+cada consigna enviada por el AGC. Se solicita 
+reevaluar, considerando que esta situación se 
+ha repetido en evaluaciones anteriores. 
+No se acoge la observación. 
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC. Dicho lo anterior, el indicador 
+de desempeño se mantiene. 
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+7 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Fecha: 10-ene-2025 Hora 18 
+ 
+Se indican 3.3 minutos de non tracking y 8.5 
+minutos en manual durante un ascenso de 
+consignas desde 21 MW hasta 140 MW. 
+Durante ese tiempo la central subió de 
+acuerdo con su rampa en cada consigna 
+enviada por el AGC. Se solicita reevaluar, 
+considerando que esta situación se ha 
+repetido en evaluaciones anteriores. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+medición que proviene directamente de los 
+registros del AGC.  
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+8 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Fecha: 11-ene-2025 Hora 14 
+ 
+Se indican 3.3 minutos de non tracking y 3.7 
+minutos en manual durante un período donde 
+la central permaneció en el mismo setpoint 
+solicitado sin cambios desde el inicio de la 
+hora (20 MW). Se observa que en ese período 
+el Reg limit low (MW) era de 48 MW, inferior 
+al monto actual. Se solicita reevaluar sin 
+considerar este período. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC.  
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+9 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Fecha: 14-ene-2025 Hora 19 
+ 
+Se indican 3.3 minutos de non tracking y 4.3 
+minutos en manual durante un período donde 
+la central no presentó el recurso eólico 
+disponible 
+para 
+alcanzar 
+la 
+consigna 
+solicitada. Efectivamente, a partir de las 19:41 
+el recurso disminuyó, pero el Reg Limit Low 
+(MW) permaneció en 133 MW, lo cual no 
+podía ser alcanzado. Se solicita reevaluar sin 
+considerar este período. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC.  
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+10 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Fecha: 17-ene-2025 Hora 18 
+ 
+Se indican 10.1 minutos de non tracking y 0.1 
+minutos en manual. Se observa que durante 
+toda la hora la central siguió la consigna sin 
+problemas. Se solicita reevaluar el factor de 
+desempeño y la parametrización en el 
+SCADA, considerando que esta situación se 
+ha repetido en evaluaciones anteriores. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 83%.  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC.  
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+11 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Fecha: 20-ene-2025 Hora 13 
+ 
+Se indican 1.6 minutos en non tracking y 2.2 
+minutos en manual. Se observa que durante 
+toda la hora la central siguió la consigna sin 
+problemas. Se solicita reevaluar el factor de 
+desempeño y la parametrización en el 
+SCADA, considerando que esta situación se 
+ha repetido en evaluaciones anteriores. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 97%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC.  
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+12 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Fecha: 24-ene-2025 Hora 14 
+ 
+Se indican 1.9 minutos de non tracking y 2.8 
+minutos en manual. Se observa que durante 
+toda la hora la central siguió la consigna sin 
+problemas. Se solicita reevaluar el factor de 
+desempeño y la parametrización en el 
+SCADA, considerando que esta situación se 
+ha repetido en evaluaciones anteriores. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 96%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC.  
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+13 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA (U1-
+U35) 
+Fecha: 09-ene-2025 Hora 7 
+ 
+Se indican 0.1 minutos de non tracking y 4.9 
+minutos en manual. Durante la hora hubo 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+períodos con recurso por debajo del valor Reg 
+Limit High (MW). Aparte de eso, la central 
+siguió la consigna sin problemas. Se solicita 
+reevaluar el factor de desempeño y la 
+parametrización en el SCADA, considerando 
+que esta situación se ha repetido en 
+evaluaciones anteriores. 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 99%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC.  
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+14 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA (U1-
+U35) 
+Fecha: 10-ene-2025 Hora 9 
+ 
+Se indican 3.3 minutos de non tracking y 2.1 
+minutos en manual. En ese período la central 
+tuvo recurso disponible por debajo del Reg 
+Limit Low (MW) de 100 MW.  Se solicita 
+reevaluar sin considerar este período. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+15 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA (U1-
+U35) 
+Fecha: 11-ene-2025 Hora 9 
+ 
+Se indican 8.4 minutos de non tracking y 7 
+minutos en manual. En este período la central 
+tuvo recurso disponible por debajo de la 
+consigna y del Reg Limit Low (MW).  Se 
+solicita reevaluar sin considerar este período. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 86%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC.  
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+16 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA (U1-
+U35) 
+Fecha: 14-ene-2025 Hora 15 
+ 
+Se indican 3.3 minutos de non tracking y 1.8 
+minutos en manual. En este período la central 
+tuvo recurso disponible por debajo de la 
+consigna y del Reg Limit Low (MW). Se 
+solicita reevaluar sin considerar este período. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC.  
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+17 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA (U1-
+U35) 
+Fecha: 14-ene-2025 Hora 17 
+ 
+Se indican 3.3 minutos de non tracking y 2.7 
+minutos en manual. En este período la central 
+tuvo recurso disponible por debajo de la 
+consigna y del Reg Limit Low (MW). Se 
+solicita reevaluar sin considerar este período. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que 
+los minutos categorizados como “modo Manual” 
+se originaron debido al tiempo de ajuste del modo 
+de control desde CDC. Dicho lo anterior, el 
+indicador de desempeño cambia a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su 
+artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+la prestación del SC de CSF. Por otro lado, el 
+tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los 
+registros del AGC.  
+ 
+Adicionalmente, las mediciones y parámetros 
+han sido ajustados en consistencia con las 
+pruebas 
+de 
+sintonización 
+hechas 
+por 
+el 
+Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o 
+actualizar esta sintonización se solicita coordinar 
+las pruebas directamente con el Departamento 
+de Modelación y aplicaciones EMS al correo 
+DMAP@coordinador.cl. 
+18 
+Generadora 
+Metropolitan
+a SpA 
+CPF 
+TER Nueva Renca 
+Fecha: Todo el mes 
+ 
+Se 
+solicita 
+realizar 
+la 
+evaluación 
+de 
+desempeño con los archivos que serán 
+enviados al correo dco@coordinador.cl, ya 
+que los cargados automáticamente tienen 
+errores. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se incluyen los 
+registros potencia y frecuencia enviados por su 
+representada a dicho correo. El indicador de 
+respuesta mensual se recalcula y queda en 63% 
+19 
+Observación 
+Interna 
+CPF 
+Todas 
+Fecha: Todo el mes 
+ 
+Se constata que en la segunda versión de los 
+indicadores de CPF solo registró valores “No 
+participa”, “No verificable” y “No verificable 
+(1)” en el factor mensual de respuesta. Lo 
+anterior se produjo debido a un desajuste en 
+los valores del archivo “tabla_resumen.xlsx”. 
+Se acoge la observación. 
+  
+Se revisan los antecedentes y se corrigen los 
+indicadores de desempeño mensuales de las 
+unidades participantes en CPF el mes de enero 
+2025, 
+tanto 
+en 
+el 
+documento 
+“tabla_resumen.xlsx” como también en la hoja 
+"CPF 
+Mensual" 
+del 
+documento 
+“SSCC_Desempeño_Enero_2025_V3”. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 2: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+febrero 2025 versión 2. 
+ 
+Consultas recibidas mediante: 
+- 
+Engie Energía Chile S.A.: recibidas mediante carta ENGIE N°269/2025. Ingreso DE09581-25.   
+- 
+Acciona Energía Chile Holdings S.A.: observaciones pendientes de respuesta, en revisión al momento de la emisión de la carta 
+Ref. [2]. 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Observación 
+interna 
+PRS-PA 
+Todas 
+Al momento de emitir la segunda versión de los indicadores de 
+febrero 2025, la evaluación final de PRS-PA se encontraba aún 
+bajo análisis debido al amplio flujo de información y 
+antecedentes. Dicho lo anterior estos factores de desempeño 
+fueron emitidos de forma posterior en carta Ref. [8]. 
+Aclaración. 
+ 
+Se incluye en la planilla de evaluación de 
+desempeño 
+mensual 
+“SSCC_Desempeño_Febrero_2025_V3” los 
+desempeños finales de PRS-PA emitidos en 
+carta Ref. [8] 
+2 
+Engie 
+Energía 
+Chile S.A. 
+EDAG 
+ de enero 2025 
+ 
+(correspondiente 
+al cálculo de 
+febrero 2025) 
+ 
+ 
+TER IEM 
+U1 
+El 06/01/25 en la hora 10, la disponibilidad calculada por el 
+Coordinador fue de 58% dando lugar a un factor de desempeño 
+mensual menor al mínimo requerido para recibir la 
+remuneración mensual. A esa misma hora, nuestro sistema de 
+monitoreo registró una deshabilitación local que dura sólo 45 
+segundos según se podrá constatar en el registro de alarmas 
+y eventos que se adjunta como Anexo 1. Por las razones 
+expuestas, solicitamos al Coordinador la revisión y rectificación 
+del factor mensual de desempeño para este controlador. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina 
+con la señal SCADA que la deshabilitación 
+local duró 51 segundos, por lo que el factor de 
+disponibilidad se recalcula y queda en un 
+98,58% lo que se traduce en un factor de 
+desempeño de 100%. 
+ 
+3 
+Acciona 
+Energía 
+Chile 
+Holdings 
+S.A. 
+CTF 
+PE 
+TOLPAN 
+SUR 
+Fecha: 22-02-2025 21:18  
+CDC no registra en RIO la instrucción, luego de escuchar las 
+llamadas se confirma la recepción de la consigna a las 21:18 
+solicitando reducir 21 MW. Revisar y registrar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y CDC ajusta el 
+RIO incluyendo esta instrucción, cuyo inicio 
+es a las 21:18 y su finalización es a las 21:31. 
+Dicho lo anterior se calcula el indicador y su 
+evaluación es de 100% en la hora 21. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 3: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+marzo 2025 versión 2. 
+ 
+Consultas recibidas mediante: 
+- Anglo American Sur S.A.: recibida mediante agenda pública y carta Ingreso DE09821-25. 
+- Arauco Bioenergía SpA: recibida mediante carta Ingreso DE06182-25. 
+- Bioenergías Forestales SpA: recibida mediante carta Ingreso DE06216-25. 
+- Cementos Melón: recibida mediante carta Ingreso DE06129-25. 
+- Cerro Colorado: recibida mediante carta Ingreso DE06215-25. 
+- CGE Transmisión S.A.: recibida mediante carta Ingreso DE06459-25. 
+- ENAP Refinerías S.A. Refinerías S.A.: recibida mediante carta Ingreso DE06221-25. 
+- Engie Energía Chile S.A.: recibida mediante carta Ingreso DE09581-25. 
+- Haldeman-Michilla: recibida mediante carta Ingreso DE06222-25 y DE06223-25. 
+- Metro de Santiago: recibida mediante carta Ingreso DE06220-25. 
+- Minera Escondida BHP: recibida mediante carta Ingreso DE06229-25. 
+- Minera Spence BHP: recibida mediante carta Ingreso DE06227-25. 
+- Minera Valle Central: recibida mediante carta Ingreso DE06196-25. 
+- Papelera Dos S.A.: recibida mediante carta Ingreso OP00135-25 (oficina de partes). 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Engie Energía 
+Chile S.A. 
+EDAG 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Todas 
+Se solicita al Coordinador publicar los factores de 
+desempeño de los controladores del EDAG x CE 
+de la Zona Norte durante el mes de febrero/25 
+habiendo pasado un tiempo prudente para su 
+determinación.   
+Se acoge la observación. 
+ 
+Se incluye en la planilla de evaluación de 
+desempeño 
+mensual 
+“SSCC_Desempeño_Marzo_2025_V3” 
+los desempeños del EDAG de febrero 
+2025. 
+2 
+Observación 
+Interna 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Instalaciones en isla 
+norte con respecto a la 
+falla 25F (EAF089-25) 
+La falla del 25F redundó en la conformación de dos 
+islas eléctricas en el sistema: una excedentaria al 
+norte de las SS/EE Nueva Pan de Azúcar, Pan de 
+Azúcar y Las Compañías, y otra deficitaria al sur 
+de dichas SS/EE. 
+ 
+Dicho lo anterior, la isla norte al presentar 
+sobrefrecuencias no se considera en el cálculo de 
+desempeño de EDAC BF y CE, por lo que las 
+instalaciones presentes en aquella isla son 
+eliminadas de la planilla de evaluación. 
+Se acoge la observación. 
+ 
+En el caso del EAF 089-25 se eliminan las 
+instalaciones presentes en isla norte de la 
+planilla 
+de 
+evaluación 
+ya 
+que 
+no 
+corresponden a operaciones por EDAC-
+BF. 
+3 
+Arauco 
+Bioenergía 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Planta Valdivia 
+El complejo industrial Planta Valdivia, en el cual se 
+encuentra la Central Autoproductora Valdivia, al 
+momento del evento del día 25 de febrero de 2025, 
+se encontraba inyectando excedentes de energía 
+al SEN por un total aproximado de 41 MW, por lo 
+cual no le es exigible disponer de EDAC-BF. Al no 
+operar el EDAC, no se generó un archivo 
+oscilográfico COMTRADE. 
+Se acoge la observación. 
+ 
+Según lo establecido en estudio de 
+esquemas de desconexión automática de 
+cargas noviembre 2013 - octubre 2015 las 
+centrales autoproductoras sólo prestan 
+EDAC 
+cuando 
+no 
+estén 
+aportando 
+energía al sistema (acuerdo vigente al 
+momento de la falla). Al momento de la 
+falla la central se encontraba en servicio y 
+por lo tanto no corresponde prestación de 
+EDAC. Dicho lo anterior la evaluación se 
+elimina. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+4 
+Arauco 
+Bioenergía 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Subestación Central 
+Horcones 
+Es esencial hacer presente que, la subestación 
+central Horcones corresponde a la subestación de 
+conexión de la central Horcones, que es una 
+unidad generadora térmica, por lo cual no existen 
+consumos o retiros conectados. De esta manera, 
+no hubo ni correspondía realizar una desconexión 
+de carga. Al no existir un EDAC, no se generó un 
+archivo oscilográfico COMTRADE. 
+Se acoge la observación – Aclaración. 
+ 
+El nombre correcto de la subestación es 
+S/E Horcones y no S/E Central Horcones, 
+por lo que se actualiza el nombre. En S/E 
+Horcones se conecta la central TER 
+Arauco la cual compone a la instalación 
+Planta Arauco. 
+ 
+Según lo establecido en estudio de 
+esquemas de desconexión automática de 
+cargas noviembre 2013 - octubre 2015 las 
+centrales autoproductoras sólo prestan 
+EDAC 
+cuando 
+no 
+estén 
+aportando 
+energía al sistema (acuerdo vigente al 
+momento de la falla). Al momento de la 
+falla la central se encontraba en servicio y 
+por lo tanto no corresponde prestación de 
+EDAC.  
+ 
+Dicho lo anterior la evaluación de Planta 
+Arauco se elimina. 
+5 
+Arauco 
+Bioenergía 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Planta Viñales 
+El complejo industrial Planta Viñales, en el cual se 
+encuentra la Central Autoproductora Viñales, al 
+momento del evento del día 25 de febrero de 2025, 
+se encontraba inyectando excedentes de energía 
+al SEN por un total aproximado de 31 MW, por lo 
+cual no le es exigible disponer de EDAC-BF. Al no 
+operar el EDAC, no se generó un archivo 
+oscilográfico COMTRADE. 
+Se acoge la observación. 
+ 
+Según lo establecido en estudio de 
+esquemas de desconexión automática de 
+cargas noviembre 2013 - octubre 2015 las 
+centrales autoproductoras sólo prestan 
+EDAC 
+cuando 
+no 
+estén 
+aportando 
+energía al sistema (acuerdo vigente al 
+momento de la falla). Al momento de la 
+falla la central se encontraba en servicio y 
+por lo tanto no corresponde prestación de 
+EDAC. Dicho lo anterior la evaluación se 
+elimina. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+6 
+Arauco 
+Bioenergía 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Paneles Nueva Aldea y 
+Planta Celulosa Nueva 
+Aldea 
+Los complejos industriales Planta Nueva Aldea y 
+Planta Celulosa Nueva Aldea, en el cual se 
+encuentra la Central Autoproductora Nueva Aldea, 
+al momento del evento del día 25 de febrero de 
+2025, se encontraba inyectando excedentes de 
+energía al SEN por un total aproximado de 40 MW, 
+por lo cual no le es exigible disponer de EDACBF. 
+Al no operar el EDAC, no se generó un archivo 
+oscilográfico COMTRADE. 
+Se acoge la observación. 
+ 
+Según lo establecido en estudio de 
+esquemas de desconexión automática de 
+cargas noviembre 2013 - octubre 2015 las 
+centrales autoproductoras sólo prestan 
+EDAC 
+cuando 
+no 
+estén 
+aportando 
+energía al sistema (acuerdo vigente al 
+momento de la falla). Al momento de la 
+falla la central se encontraba en servicio y 
+por lo tanto no corresponde prestación de 
+EDAC. Dicho lo anterior la evaluación se 
+elimina. 
+7 
+Bioenergías 
+Forestales 
+SpA SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°52, 
+Subestación: CMPC 
+Planta Valdivia, 
+Alimentador: Desfibrador 
+1 
+La definición de cargas detalladas en el documento 
+no corresponde a la versión actualizada y revisada 
+con el propio Coordinador Eléctrico Nacional, por 
+lo que, solicitamos sean incorporadas dichas 
+cargas para una posterior nueva evaluación del 
+desempeño EDAC-BF. 
+ 
+Ver cartas:BF081-2024 (correlativo DE03380-24), 
+DE02698-21, BF075-2024 (Correlativo DE02066-
+24) 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. Se corrobora que en la 
+adecuación aprobada por el coordinador 
+el alimentador no es parte del EDAC, por 
+lo que la instrucción se elimina. 
+8 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°53, 
+Subestación: CMPC 
+Planta Valdivia, 
+Alimentador: Desfibrador 
+2 
+La definición de cargas detalladas en el documento 
+no corresponde a la versión actualizada y revisada 
+con el propio Coordinador Eléctrico Nacional, por 
+lo que, solicitamos sean incorporadas dichas 
+cargas para una posterior nueva evaluación del 
+desempeño EDAC-BF. 
+ 
+Ver cartas:BF081-2024 (correlativo DE03380-24), 
+DE02698-21, BF075-2024 (Correlativo DE02066-
+24) 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. El indicador se mantiene en 
+0% porque el COMTRADE no tiene señal 
+de potencia por lo que no se puede probar 
+el monto desconectado. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+9 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°54, 
+Subestación: CMPC 
+Laja, Alimentador: 
+CMPC Laja 
+La definición de cargas detalladas en el documento 
+no corresponde a la versión actualizada y revisada 
+con el propio Coordinador Eléctrico Nacional, por 
+lo que, solicitamos sean incorporadas dichas 
+cargas para una posterior nueva evaluación del 
+desempeño EDAC-BF. 
+ 
+Ver: Se solicita considerar operación correcta de 
+EDAC-BF tomando como referencia el documento 
+aprobado por el CEN enviado por CMPC "EDAC-
+BF Zona Troncal Sur año 2015 versión 5" donde se 
+indica que la Central CMPC Laja ha sido declarada 
+como Autoproductor y sólo desprende carga 
+cuando se tenga tanto el Turbogenerador 3 (TG3) 
+como Turbogenerador 4 (TG4) fuera de servicio. El 
+día del evento el TG3 se encontraba en servicio por 
+lo que no corresponde la actuación del EDAC-BF, 
+según lo señalado anteriormente. CMPC se 
+encuentra a la espera de respuesta a reunión 
+solicitada con el departamento de Modelación y 
+Aplicaciones EMS del CEN para presentar 
+propuesta de actualización de cargas y de 
+operación EDAC-BF de la carga respectiva.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. Se corrobora que en la 
+adecuación aprobada por el coordinador 
+el alimentador no es parte del EDAC, por 
+lo que la instrucción se elimina. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+10 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°55, 
+Subestación: CMPC 
+Pacífico, Alimentador: 
+CMPC Pacífico 
+La definición de cargas detalladas en el documento 
+no corresponde a la versión actualizada y revisada 
+con el propio Coordinador Eléctrico Nacional, por 
+lo que, solicitamos sean incorporadas dichas 
+cargas para una posterior nueva evaluación del 
+desempeño EDAC-BF. 
+ 
+Ver: Se solicita considerar operación correcta de 
+EDAC-BF tomando como referencia el documento 
+aprobado por el CEN enviado por CMPC "EDAC-
+BF Zona Troncal Sur año 2015 versión 5" donde se 
+indica que la Central CMPC Laja ha sido declarada 
+como Autoproductor y sólo desprende carga 
+cuando se tenga tanto el Turbogenerador 3 (TG3) 
+como Turbogenerador 4 (TG4) fuera de servicio. El 
+día del evento el TG3 se encontraba en servicio por 
+lo que no corresponde la actuación del EDAC-BF, 
+según lo señalado anteriormente. CMPC se 
+encuentra a la espera de respuesta a reunión 
+solicitada con el departamento de Modelación y 
+Aplicaciones EMS del CEN para presentar 
+propuesta de actualización de cargas y de 
+operación EDAC-BF de la carga respectiva.  
+Se acoge la observación. 
+ 
+Según lo establecido en estudio de 
+esquemas de desconexión automática de 
+cargas noviembre 2013 - octubre 2015 las 
+centrales autoproductoras sólo prestan 
+EDAC 
+cuando 
+no 
+estén 
+aportando 
+energía al sistema (acuerdo vigente al 
+momento de la falla). Al momento de la 
+falla la central se encontraba en servicio y 
+por lo tanto no corresponde prestación de 
+EDAC. Dicho lo anterior la evaluación se 
+elimina. 
+11 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°56, 
+Subestación: CMPC 
+Santa Fe, Alimentador: 
+CMPC Santa Fe 
+Se solicita revisión de información referente a "N° 
+de análisis 56". Se presentan diferencias con la 
+carga desprendida y lo declarado de acuerdo a los 
+compromisos 
+CMPC 
+en 
+carta 
+BF081-2024 
+(correlativo DE03380-24)  
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se 
+corrobora 
+vía 
+probatorios 
+que 
+el 
+alimentador CMPC Santa Fe desconectó 
+1,2MW, por lo que el indicador de 
+respuesta se mantiene en 80%. 
+12 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°57, 
+Subestación: Planta 
+AGA, Alimentador: 
+Planta AGA 2 
+Actualmente la carga no forma parte de las cargas 
+declaradas en compromisos por CMPC en carta 
+BF081-2024 (correlativo DE03380-24), se solicita 
+eliminar del listado.  
+No se acoge la observación.  
+ 
+Se analizan los antecedentes y se 
+determina 
+que 
+la 
+propuesta 
+de 
+adecuación enviada por su representada 
+y aprobada por el coordinador incluye este 
+alimentador, por lo que el alimentador y su 
+evaluación se mantienen. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+13 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°58, 
+Subestación: Planta 
+AGA, Alimentador: 
+Planta AGA 2 
+Se solicita revisión de información referente a "N° 
+de análisis 58". Se presentan diferencias en lo 
+declarado de acuerdo a los compromisos CMPC 
+en carta BF081-2024 (correlativo DE03380-24)  
+ Se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se 
+actualizan. 
+Se 
+corrobora 
+vía 
+probatorios 
+que 
+el 
+alimentador 
+desconectó 3,2 MW, por lo que el 
+indicador de respuesta se mantiene en 
+100%. 
+14 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°59, 
+Subestación: Planta 
+AMSA, Alimentador: 
+Planta AMSA 1 
+Se solicita considerar operación EDAC de Baja 
+Frecuencia relacionado al N° de análisis 59 como 
+correcto. Al respecto se concluye que la 
+información 
+entregada 
+en 
+el 
+documento 
+“EDAC_Febrero-2025-SEN-final” 
+difiere 
+a 
+la 
+información declarada. En anexo a la siguiente 
+comunicación se adjunta oscilografias referente al 
+evento 
+EAF 
+089-2025. 
+Se 
+concluye 
+que 
+Fact_EDAC es 100 % debido a que se cumple con 
+la operación del esquema EDAC-BF declarado. El 
+esquema actual pertenece a un esquema 
+distribuido 
+industrial 
+donde 
+las 
+cargas 
+comprometidas no cuentan con celdas asociadas, 
+la operación EDAC-BF se realizada a través de la 
+protección del incoming mide en Alta Tensión 
+disparando sobre las cargas en media tensión, 
+dentro del registro de Eventos y Oscilografía se 
+observa la operación correcta del escalón 6.  
+ Se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. El indicador se mantiene en 
+0% porque COMTRADE presenta señales 
+sin sentido físico y mal escaladas. Se 
+observa monto de 0 MW antes del trip. 
+Dicho lo anterior el indicador no cambia. 
+15 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°60, 
+Subestación: Planta 
+AMSA, Alimentador: 
+Planta AMSA 2 
+No aplica - Revisar comentario en columna final de 
+la tabla.  
+No se acoge la observación. 
+ 
+Coordinado 
+no 
+emite 
+observación, 
+aunque se analizan los antecedentes y los 
+datos asociados a alimentadores AMSA 1 
+y 2 se actualizan. El indicador se mantiene 
+en 0% porque COMTRADE presenta 
+señales sin sentido físico y mal escaladas. 
+Dicho lo anterior el indicador no cambia. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+16 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°61, 
+Subestación: Planta 
+Pacífico, Alimentador: 
+ERCO 2 
+Actualmente carga no conforma parte de las 
+cargas declaradas en compromisos por CMPC en 
+carta BF081-2024 (correlativo DE03380-24). Se 
+solicita eliminar del Listado 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. Se corrobora que en la 
+adecuación aprobada por el coordinador 
+el alimentador no es parte del EDAC, por 
+lo que la instrucción se elimina. 
+17 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°62, 
+Subestación: Planta 
+Pacífico, Alimentador: 
+ERCO 2 
+Actualmente carga no conforma parte de las 
+cargas declaradas en compromisos por CMPC en 
+carta BF081-2024 (correlativo DE03380-24). Se 
+solicita eliminar del Listado 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. Se corrobora que en la 
+adecuación aprobada por el coordinador 
+el alimentador no es parte del EDAC, por 
+lo que la instrucción se elimina. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+18 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°63, 
+Subestación: Planta 
+Pacífico, Alimentador: 
+Plywood 2 
+Se solicita considerar correcta la operación 
+tomando 
+en 
+cuenta 
+que 
+se 
+disponen 
+de 
+antecedenes que respaldan la operación del rele 
+de protección EDAC-BF de acuerdo a la carga 
+comprometida y según propuesta aprobada por el 
+CEN. Actualmente se encuentra en desarrollo un 
+proyecto de remplazo de protección con la finalidad 
+de poder cumplir con lo exigido en la normativa, 
+dado que la solución definitiva consiste en 
+implementar nuevos equipos de protección, 
+solución que se encuentra en desarrollo y será 
+presentada al Departamento de Operación (DAOP 
+- 
+CEN) 
+con 
+propuesta 
+final.  
+ 
+De acuerdo a registros oscilográficos disponibles 
+en Anexo "Análisis N°63" a la presente carta, la 
+operación EDAC-BF es correcta debido a que se 
+dispone de Antecedentes Suficientes de la 
+operación EDAC-BF. Según registro de evento y 
+oscilografia se observa la orden de apertura desde 
+el sistema de protecciones al interruptor según sus 
+ajustes). El esquema actual pertenece a un 
+esquema distribuido industrial donde el relé 
+MICOM P142 quien mide y efectua el disparo solo 
+mide 
+tensión 
+del 
+interruptor 
+52-K02. 
+Las 
+mediciones de corriente no están implementadas 
+en este EDAC. Destacamos que actualmente nos 
+encontramos trabajando en una solución definitiva 
+que 
+será 
+presentada 
+al 
+Departamento 
+de 
+modelación y Estudios del CEN, con la finalidad de 
+poder dejar registro en oscilografia de la apertura 
+del interruptor. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados a alimentadores Plywood se 
+actualizan. El indicador se mantiene en 
+0% porque COMTRADE no presenta 
+señal de potencia. Dicho lo anterior el 
+indicador no cambia. 
+19 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°64, 
+Subestación: Colbún, 
+Alimentador: Maule 1 
+Se solicita considerar correcta la operación dado 
+que se disponen de antecedentes que respaldan la 
+operación del rele de protección EDAC-BF. Según 
+carta BF075-2024 (Correlativo DE02066-24) se 
+indica que actualmente se lleva a cabo un proyecto 
+de actualización de protecciones, solución que se 
+encuentra en desarrollo. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque COMTRADE no 
+presenta señal de potencia. Dicho lo 
+anterior el indicador no cambia. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+20 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°65, 
+Subestación: Colbún, 
+Alimentador: Maule 2 
+'Se solicita considerar correcta la operación 
+considerando que se disponen de antecedentes 
+que respaldan la operación del rele de protección 
+EDAC-BF, considerando que según carta BF075-
+2024 (Correlativo DE02066-24) se indica que 
+actualmente se lleva a cabo un proyecto de 
+remplazo de protección con la finalidad de poder 
+cumplir con lo exigido en la normativa, dado que la 
+solución definitiva consiste en implementar nuevos 
+equipos de protección, solución que se encuentra 
+en desarrollo. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque COMTRADE no 
+presenta señal de potencia. Dicho lo 
+anterior el indicador no cambia. 
+21 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°66, 
+Subestación: Colbún, 
+Alimentador: Maule 3 
+'Se solicita considerar correcta la operación 
+considerando que se disponen de antecedentes 
+que respaldan la operación del rele de protección 
+EDAC-BF, considerando que según carta BF075-
+2024 (Correlativo DE02066-24) se indica que 
+actualmente se lleva a cabo un proyecto de 
+remplazo de protección con la finalidad de poder 
+cumplir con lo exigido en la normativa, dado que la 
+solución definitiva consiste en implementar nuevos 
+equipos de protección, solución que se encuentra 
+en desarrollo. 
+ No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque COMTRADE no 
+presenta señal de potencia. Dicho lo 
+anterior el indicador no cambia. 
+22 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°67, 
+Subestación: Colbún, 
+Alimentador: Maule 4 
+'Se solicita considerar correcta la operación 
+considerando que se disponen de antecedentes 
+que respaldan la operación del rele de protección 
+EDAC-BF, considerando que según carta BF075-
+2024 (Correlativo DE02066-24) se indica que 
+actualmente se lleva a cabo un proyecto de 
+remplazo de protección con la finalidad de poder 
+cumplir con lo exigido en la normativa, dado que la 
+solución definitiva consiste en implementar nuevos 
+equipos de protección, solución que se encuentra 
+en desarrollo. 
+ No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque COMTRADE no 
+presenta señal de potencia. Dicho lo 
+anterior el indicador no cambia. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+23 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°68, 
+Subestación: Isla De 
+Maipo, Alimentador: 
+Tissue TA 
+Se solicita considerar operación correcta debido al 
+monto de carga desprendida corresponde a lo 
+comprometido y que se disponen de antecedentes 
+que respaldan la operación correcta de las cargas 
+comprometidas en EDAC-BF. Según carta BF075-
+2024 (Correlativo DE02066-24) se indica que 
+actualmente nos encontramos desarrollando el 
+proyecto reemplazo de reles EDAC-BF Planta 
+Talagante.  
+ No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque COMTRADE no 
+presenta señal de potencia. Dicho lo 
+anterior el indicador no cambia. 
+24 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°69, 
+Subestación: Maipo, 
+Alimentador: Cordillera 
+Se solicita revisar operación EDAC de Baja 
+Frecuencia relacionado al N° de análisis 69, al 
+respecto se concluye una correcta operación en 
+Fact_EDAC debido a que se cumple con la 
+operación del esquema EDAC-BF declarado. 
+Ademas la información entregada en el documento 
+“EDAC_Febrero-2025-SEN-final” 
+difiere 
+a 
+la 
+información declarada 
+ No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque COMTRADE no 
+presenta señal de potencia ni trip EDAC. 
+Dicho lo anterior el indicador no cambia. 
+25 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°70, 
+Subestación: Puente 
+Alto, Alimentador: 
+Chimolsa1 
+Se adjunta registros en Formato Comtrade en N° 
+de análisis 70 donde se confirma un FACT_EDAC 
+de 
+100% 
+operación 
+de 
+Esquema 
+de 
+Desprendimiento de Carga "EDAC" 
+ No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque no hay nuevos 
+registros COMTRADE. Dicho lo anterior el 
+indicador no cambia. 
+26 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°71, 
+Subestación: Puente 
+Alto, Alimentador: Tissue 
+PA 1 
+Se considera una operación correcta del EDAC-
+BF. Se adjunta registros en Formato Comtrade en 
+N° de análisis 71 y 72 donde se confirma una 
+correcta 
+operación 
+de 
+Esquema 
+de 
+Desprendimiento de Carga "EDAC". Se solicita 
+revisión 
+de 
+antecedentes 
+entregados 
+en 
+respuestas debido a que existe una correcta 
+operación del Esquema EDAC 
+ No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque no hay nuevos 
+registros COMTRADE. Dicho lo anterior 
+el indicador no cambia. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+27 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°72, 
+Subestación: Puente 
+Alto, Alimentador: Tissue 
+PA 2 
+Se considera una operación correcta del EDAC-
+BF. Se adjunta registros en Formato Comtrade en 
+N° de análisis 71 y 72 donde se confirma una 
+correcta 
+operación 
+de 
+Esquema 
+de 
+Desprendimiento de Carga "EDAC". Se solicita 
+revisión 
+de 
+antecedentes 
+entregados 
+en 
+respuestas debido a que existe una correcta 
+operación del Esquema EDAC 
+ No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque no hay nuevos 
+registros COMTRADE. Dicho lo anterior 
+el indicador no cambia. 
+28 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°620, 
+Subestación: 
+CHUMPULLO, 
+Alimentador: S/E 
+CHUMPULLO BT1 
+Actualmente carga no conforma parte de las 
+cargas declaradas en compromisos por CMPC en 
+carta BF081-2024 (correlativo DE03380-24), se 
+solicita 
+eliminar 
+del 
+Listado. 
+Ademas 
+Coordinado no presenta EDAC asociado 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. Se corrobora que en la 
+adecuación aprobada por el coordinador 
+el alimentador no es parte del EDAC, por 
+lo que la instrucción se elimina. 
+29 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°621, 
+Subestación: 
+CHUMPULLO, 
+Alimentador: S/E 
+CHUMPULLO BT1 
+Actualmente carga no conforma parte de las 
+cargas declaradas en compromisos por CMPC en 
+carta BF081-2024 (correlativo DE03380-24), se 
+solicita 
+eliminar 
+del 
+Listado. 
+Ademas 
+Coordinado no presenta EDAC asociado 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. Se corrobora que en la 
+adecuación aprobada por el coordinador 
+el alimentador no es parte del EDAC, por 
+lo que la instrucción se elimina. 
+30 
+Bioenergías 
+Forestales 
+SpA 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Evaluación N°622, 
+Subestación: 
+PROCART, Alimentador: 
+S/E PROCART J1 
+Actualmente carga no conforma parte de las 
+cargas declaradas en compromisos por CMPC en 
+carta BF081-2024 (correlativo DE03380-24), se 
+solicita 
+eliminar 
+del 
+Listado. 
+Ademas 
+Coordinado no presenta EDAC asociado 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. Se corrobora que en la 
+adecuación aprobada por el coordinador 
+el alimentador no es parte del EDAC, por 
+lo que la instrucción se elimina. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+31 
+Cerro 
+Colorado 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Todas 
+1. Envío de información técnica: En relación con lo 
+indicado en el comentario del informe —“No 
+presenta archivo COMTRADE” y “Antecedentes 
+insuficientes (Incorrecta)” como calificación del 
+monto de desconexión—, confirmamos que la 
+información oscilográfica correspondiente fue 
+enviada. Esta incluyó los archivos COMTRADE 
+asociados al evento del 25 de febrero de 2025, los 
+cuales fueron remitidos al despacho de On Group 
+y cargados en Neomante el 28 de febrero de 2025. 
+Adicionalmente, se compartió la planilla Informe de 
+Falla 
+Preliminar 
+CERRO 
+COLORADO 
+25 
+FEBRERO 2025, que contiene el detalle técnico 
+del evento y los antecedentes disponibles para su 
+evaluación. Este registro fue cargado también en 
+Neomante el día 28 de febrero de 2025, en archivo 
+subido “IF (1).zip”. 
+ 
+2. Condición operativa de Cerro Colorado: La 
+instalación 
+Cerro 
+Colorado 
+se 
+encuentra 
+actualmente en un proceso de preservación. Tal 
+como fue informado al Coordinador mediante la 
+carta DE02342-23, desde enero de 2024 se han 
+paralizado las actividades extractivas y de 
+procesamiento de mineral, por un período de al 
+menos cinco años. En este contexto, la ausencia 
+de 
+señales 
+de 
+potencia 
+en 
+los 
+registros 
+COMTRADE y la imposibilidad de asociarlos a 
+escalones o alimentadores específicos se explican 
+por la condición de no operación de la instalación, 
+lo cual afecta directamente la respuesta esperada 
+del esquema EDAC. 
+Se acoge la observación. 
+ 
+Cerro Colorado no está habilitado para 
+prestar SSCC de EDAC debido a su cierre 
+transitorio de faenas. Dicho lo anterior no 
+se considera parte del EDAC ni de la 
+planilla de evaluación. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+32 
+ENAP 
+Refinerías 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Todas 
+Respecto a la planilla “EDAC_Febrero 2025 SEN 
+final.xlsx”, podemos observar que para ENAP 
+Refinerías S.A. Refinería S.A. (en adelante ERSA), 
+se nos solicita presentar los archivos Contrade, a 
+lo anterior podemos indicarle que tal como ha sido 
+comunicado en instancias anteriores (Ref. [1]), el 
+EDAC-BF se encuentra formalmente deshabilitado 
+en nuestras instalaciones, en virtud de la 
+autorización expresa otorgada por el CEN, a través 
+de la solicitud realizada por ERSA mediante carta 
+DE05126-21 de fecha 30 de septiembre de 2021, 
+la cual fue confirmada por correo electrónico de 
+fecha 1 de agosto de 2022, respaldo que se 
+adjunta a esta presentación. 
+ 
+Como 
+ya 
+hemos 
+señalado 
+en 
+otras 
+presentaciones, dicha autorización se fundamenta 
+en que, tras la adquisición por parte de ERSA de la 
+Cogeneradora 
+Biobío 
+(ex 
+Central  
+Petropower), en julio de 2017, ERSA comenzó su 
+operación en el SEN en calidad de Autoproductor, 
+aumentando la confiabilidad de ENAP Refinerías 
+S.A. Refinería Biobío, operando en forma integrada 
+(Cogeneradora y Refinería) al tratarse de procesos 
+integrados y dependientes. En este contexto, solo 
+los excedentes -siempre que existan- de energía 
+generados, son inyectados al SEN. 
+Por todo lo anterior, y considerando que los 
+sistemas EDAC-BF se encuentran deshabilitados 
+con la debida autorización del CEN, informamos 
+que ERSA no dispone de los archivos Comtrade 
+solicitados en esta oportunidad, dado que no 
+cuenta con la obligación de hacerlo. 
+Se acoge la observación. 
+ 
+ENAP Refinerías S.A. no está habilitado 
+para prestar SSCC de EDAC en su 
+complejo Biobio y Aconcagua debido a 
+que 
+operan 
+como 
+centrales 
+autoproductoras (TER Petropower y TER 
+Aconcagua). 
+Dicho 
+lo 
+anterior 
+las 
+instrucciones 
+EDAC 
+asociadas 
+son 
+eliminadas 
+de 
+la 
+evaluación. 
+ 
+Considerando lo anterior el indicador se 
+recalcula y se elimina a Enap Refinerías 
+S.A. de la operación de EDAC. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+33 
+Haldeman-
+Michilla 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Faena Michilla 
+2. En el evento referido, blackout del Sistema 
+Eléctrico Nacional (SEN), no hay archivos 
+Comtrade asociados a la sub-frecuencia de 48,5 
+Hz, puesto que la falla fue generalizada en el SEN 
+que provocó la desconexión aguas arriba de la S/E 
+Mejillones de propiedad de ENGIE, desde donde 
+se conecta la línea Mejillones – El Lince de 110 kV 
+que abastece el suministro eléctrico a la Faena 
+Michilla, propiedad de Minera HMC S.A., dicha 
+falla, causó perturbaciones de sobrefrecuencia y 
+posiblemente sobrevoltaje en la red Norte del lugar 
+de la falla. 
+  
+3. De acuerdo con el punto anterior, no hubo 
+ninguna sub-frecuencia asociada en el escalón de 
+48,5Hz, como se pide informar en el archivo excel. 
+  
+4. Acorde a nuestros registros del RS Metrix y 
+archivos Comtrade en barra 110 kV S/E El Lince 
+de la Faena Michilla, en el anexo adjunto, se 
+observa que no hubo falla por sub-frecuencia en la 
+barra de 110 kV.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se 
+corrobora que Faena Michilla es parte de 
+la isla norte de la falla, la cual registró 
+sobrefrecuencia. Dicho lo anterior no se 
+considera parte del EDAC-BF ni de la 
+planilla de evaluación. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+34 
+Haldeman-
+Michilla 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Faena Sagasca 
+De acuerdo con la Mat., referente al Desempeño 
+del Esquema de Desconexión Automático de 
+Carga (EDAC) por Subfrecuencia y Contingencia 
+Extrema, asociados a los eventos de falla ocurridos 
+en febrero de 2025 (EAF 062-2025, EAF 072-2025 
+y EAF 089-2025), mi empresa ha enviado 
+innumerables correos señalando la situación de 
+nuestro EDAC en la S/E La Cascada a vuestros 
+encargados, además hemos informado a vuestro 
+Gerente de Operaciones esta situación, tal como 
+se menciona en nuestras cartas HMC N°043/24 de 
+fecha, 17 de junio de 2024 y HMC N°004/25 de 
+fecha, 02 de abril de 2025, para mayor 
+entendimiento adjuntamos dichas cartas. Por las 
+razones explicadas en las mencionadas cartas y 
+mientras se mantenga desconectada la S/E La 
+Cascada de la Faena Sagasca del SEN, es 
+imposible que mi empresa pueda aportar con un 
+Esquema de Desconexión Automática de Carga, 
+ya que ellas no están disponibles y no existen 
+sistemas de protección activos asociados a ella. 
+Se acoge la observación. 
+ 
+Faena Sagasca no está habilitada para 
+prestar SSCC de EDAC debido a que 
+opera de forma aislada al sistema 
+eléctrico. 
+35 
+Metro 
+Santiago 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Todas 
+En efecto, en respuesta carta DE01743-25, el 25 
+de marzo de 2025 Empresa de Transportes de 
+Pasajeros Metro S.A. (Metro S.A.) informó a este 
+Coordinador Eléctrico Nacional respecto de la 
+actuación de los Esquemas de Desconexión 
+Automática de Carga (EDAC), indicando que el 
+monto de carga desconectada asociada a la 
+operación del EDAC-BF fue de 12,5MW (carta 
+ENERGIA Nº 24-25), lo cual no es consistente con 
+los datos incorporados en la antedicha planilla. 
+Asimismo, el 5 de mayo de 2025 Metro S.A. remitió 
+el informe de verificación EDAC (carta ENERGIA 
+Nº 35-25). Este informe concluyó que el equipo de 
+protección de Metro S.A. opera dentro de lo 
+establecido en la normativa y que se comprobó que 
+su 
+sistema 
+EDAC-BF 
+estaba 
+funcionando 
+correctamente. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque COMTRADE no 
+presenta señal de potencia. Dicho lo 
+anterior el indicador no cambia. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+36 
+Minera 
+Escondida 
+BHP 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Todas 
+En relación a la carta de la referencia, de fecha 19 
+de junio de 2025, informamos a usted que 
+mediante carta E – 020 – 2025 de fecha 1 de abril 
+de 2025, hicimos entrega del total de la información 
+relacionada con la operación del EDAC – BF de 
+Minera Escondida, asociada al evento del 27 de 
+febrero de 2025. En los archivos entregados se 
+evidencia que existe aporte de Minera Escondida 
+por la operación de estos relés con los montos 
+registrados en los archivos COMTRADE, para los 
+alimentadores que efectivamente estaban con 
+carga. Si bien pueden existir algunas diferencias 
+en el formato de estos archivos respecto a los 
+requerimientos del Coordinador, que estamos 
+revisando, creemos que Minera Escondida si 
+aportó a la seguridad del servicio mediante el 
+EDAC – BF que tenemos implementados. 
+Aclaración. 
+ 
+Se analizan los antecedentes y se 
+corrobora que las instalaciones de Minera 
+Escondida forman parte de la isla norte de 
+la falla, la cual registró sobrefrecuencia. 
+Dicho lo anterior no se considera parte del 
+EDAC-BF ni de la planilla de evaluación. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+37 
+Minera 
+Spence BHP 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Todas 
+1. Envío de antecedentes técnicos: 
+ 
+Minera Spence S.A. confirma que toda la 
+información solicitada fue enviada oportunamente, 
+incluyendo 
+los 
+archivos 
+COMTRADE 
+correspondientes a los eventos evaluados. Por lo 
+tanto, las observaciones que califican el monto de 
+desconexión como “Antecedentes insuficientes 
+(Incorrecta)” 
+no 
+reflejan 
+la 
+documentación 
+efectivamente 
+entregada. 
+Los 
+registros 
+oscilográficos fueron preparados y enviados 
+conforme a los requerimientos establecidos, y 
+contienen la información necesaria para su análisis 
+técnico. 
+ 
+2. Observaciones levantadas a Minera Spence 
+S.A. 
+ 
+En la planilla se evaluaron cuatro escalones 
+correspondientes a distintas instalaciones de la 
+operación, con comentarios que indican que “la 
+frecuencia de operación no es adecuada” y que “no 
+se puede probar el monto desconectado por falta 
+de señal de potencia”. Sin embargo, reiteramos 
+que los archivos COMTRADE fueron entregados y 
+contienen la información técnica necesaria para su 
+análisis. Las oscilografías enviadas muestran los 
+instantes de trigger y trip de las protecciones al 
+momento de operar los EDAC en las cabeceras. 
+Sin embargo, esto ocurre instantes después del 
+evento 
+principal, 
+caracterizado 
+por 
+una 
+sobretensión 
+transitoria. 
+Esta 
+sobretensión 
+provocó múltiples desprendimientos a nivel de las 
+cargas, por lo que, al momento de operar los 
+EDAC, 
+los 
+niveles 
+de 
+potencia 
+en 
+los 
+alimentadores ya eran bajos. Adjuntamos los 
+registros de potencia de los alimentadores 
+correspondientes a los dos primeros escalones del 
+EDAC. 
+Aclaración. 
+ 
+Se analizan los antecedentes y se 
+corrobora que las instalaciones de Minera 
+Spence forman parte de la isla norte de la 
+falla, la cual registró sobrefrecuencia. 
+Dicho lo anterior no se considera parte del 
+EDAC-BF ni de la planilla de evaluación. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+38 
+Minera Valle 
+Central 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Todas 
+Respecto 
+al 
+desempeño 
+EDAC-BF: 
+Este 
+Coordinador envió los antecedentes y respaldos 
+mediante la carta N° DE02703-25, de fecha 25 de 
+marzo de 2025, en la que indica que, de acuerdo 
+con lo aprobado por el Coordinador, Minera Valle 
+Central no aporta desprendimiento de carga en el 
+escalón N° 4 del EDAC-BF. 2. Respecto al 
+desempeño EDAC-CE: Este Coordinador envió los 
+antecedentes y respaldos mediante la carta N° 
+02702-25, de fecha 25 de marzo de 2025, en la 
+cual se señala que el relé EDAC-CE no actuó 
+debido a la ausencia de las condiciones de 
+gradiente y frecuencia requeridas para su 
+operación, 
+por 
+lo 
+que 
+no 
+se 
+produjo 
+desprendimiento de carga. 
+Se acoge la observación. 
+ 
+Minera valle central realizó el proceso de 
+adecuación y fue aprobado por el 
+coordinador. La propuesta no incluye al 
+escalón 4 en EDAC BF. Se constata que 
+el coordinado al 18 de febrero 2025 tenía 
+sus ajustes realizados en función de la 
+adecuación aprobada y se encontraba 
+listo 
+para 
+realizar 
+las pruebas 
+de 
+verificación del esquema. Dicho lo anterior 
+se elimina la instrucción para el escalón 4. 
+39 
+Cementos 
+Melón 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Todas 
+En atención a la carta DE 03748-25 enviada el día 
+19 de junio del 2025, la cual se refiere a 
+Desempeño 
+del 
+Esquema 
+de 
+Desconexión 
+Automático de Carga (EDAC) por Subfrecuencia y 
+Contingencia Extrema, asociados a los eventos de 
+falla ocurridos en febrero de 2025 (EAF 062-2025, 
+EAF 072-2025 y EAF 089-2025). En cuyo informe 
+indica que no es posible calcular el índice de 
+desempeño de Melón S.A, debido a que faltan 
+antecedentes. Informamos lo siguiente: 
+ 
+- Melón S.A cargó los archivos COMTRADE en 
+plataforma SIREP según lo solicitado, bajo el 
+correlativo 7227. 
+- 
+Adjuntamos 
+los 
+archivos 
+COMTRADE 
+correspondientes 
+al 
+evento 
+del 
+25 
+de 
+febrero del 2025. 
+Se acoge la observación. 
+ 
+El COMTRADE ya no se encuentra 
+corrupto por lo que pudo ser analizado. En 
+función de lo anterior los datos se 
+actualizan y se recalcula el desempeño. 
+No obstante lo anterior, el indicador se 
+mantiene en 0% debido a que el tiempo de 
+operación es cercano a los 990ms, 
+superando los 200ms. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+40 
+Papelera Dos 
+(Papeles Bio 
+Bio) 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Todas 
+En primer término, corresponde hacer presente 
+que a la fecha en que ocurrió el EAF 089-2025, 
+Papelera Dos S.A. (registrada en la plataforma 
+Neomante 
+como 
+Papeles 
+Bio 
+Bío 
+S.A. 
+a esa época) no contaba con acceso a la 
+plataforma Neomante. Por esta razón, con fecha 
+27 de febrero de 2025, se solicitó asistencia a 
+soporte.neomante@coordinador.cl para generar 
+acceso a la plataforma como nuevo usuario. 
+ 
+Lo anterior obedece a que, en ese momento, en la 
+actualidad, la empresa Papelera Dos S.A. aún no 
+figura como coordinada en los registros del 
+Coordinador Eléctrico Nacional. Esta situación se 
+encuentra en proceso de regularización, según se 
+informó en cartas de 30 de mayo, 17 de junio y 20 
+de junio, todas de 2025. 
+ 
+Producto de lo anterior, ante el impedimento de 
+acceder a la plataforma Neomante, los informes de 
+48 horas y de 5 días posteriores a la falla EAF 089-
+2025 fueron enviados por este mismo medio. 
+Adjunto a la presente misiva podrá encontrar los 
+respaldos que dan cuenta del envío de los informes 
+mediante correo electrónico 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. El indicador se mantiene en 
+0% porque COMTRADE no tiene señal de 
+potencia y no se puede identificar la señal 
+de trip EDAC-BF con los escalones 
+asociados. 
+41 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+El Cobre / C1 
+Debido a la perdida de potenciales de la Barra N°1 
+de 15kV, no se produjo lo correcta operación de 
+este esquema. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque no hay nuevos 
+registros COMTRADE. Dicho lo anterior el 
+indicador no cambia. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+42 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+La Puente Alta / C9 
+Debido a la perdida de potenciales de la Barra N°1 
+de 15kV, no se produjo lo correcta operación de 
+este esquema. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque no hay nuevos 
+registros COMTRADE. Dicho lo anterior el 
+indicador no cambia. 
+43 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Lo Conty / C4 
+Debido a la perdida de potenciales de la Barra N°1 
+de 15kV, no se produjo lo correcta operación de 
+este esquema. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque no hay nuevos 
+registros COMTRADE. Dicho lo anterior el 
+indicador no cambia. 
+44 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+El Olivar / C5 
+Debido a la perdida de potenciales de la Barra N°1 
+de 15kV, no se produjo lo correcta operación de 
+este esquema. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque no hay nuevos 
+registros COMTRADE. Dicho lo anterior el 
+indicador no cambia. 
+45 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Requinoa / C6 
+Debido a la perdida de potenciales de la Barra N°1 
+de 15kV, no se produjo lo correcta operación de 
+este esquema. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+asociados se actualizan. El indicador se 
+mantiene en 0% porque no hay nuevos 
+registros COMTRADE. Dicho lo anterior el 
+indicador no cambia. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+46 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Zapallar / C1 
+El archivo COMTRADE enviado es el mismo que 
+para los otros alimentadores de la S/E Casas 
+Viejas, en este se puede observar la frecuencia de 
+operación del SP. 
+No se acoge la observación. 
+ 
+La evaluación 0% se produce debido a 
+que en este alimentador se desconectó un 
+monto de potencia negativo, lo que no es 
+consistente con una correcta operación 
+del 
+EDAC. 
+La 
+carga 
+debe 
+ser 
+desconectada de manera selectiva con 
+respecto a los PMGD que allí se 
+encuentren, más aún considerando que 
+es un evento de subfrecuencia. 
+47 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Quella / C3 
+En informe de (falla) fue demostrada la correcta 
+actuación de Relé EDAC. Se solicitar reevaluar 
+ No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. El indicador se mantiene en 
+0% porque COMTRADE no tiene señal de 
+potencia. Dicho lo anterior el indicador se 
+mantiene. 
+48 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Tabolguén / ET2 
+El archivo COMTRADE enviado es el mismo que 
+para el alimentador Pocillas, en este se puede 
+observar la frecuencia de operación del SP. 
+No se acoge la observación. 
+ 
+La evaluación 0% se produce debido a 
+que en este alimentador se desconectó un 
+monto de potencia negativo, lo que no es 
+consistente con una correcta operación 
+del 
+EDAC. 
+La 
+carga 
+debe 
+ser 
+desconectada de manera selectiva con 
+respecto a los PMGD que allí se 
+encuentren, más aún considerando que 
+es un evento de subfrecuencia. 
+49 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Almirante Riveros 
+No aplica, puesto que no el sistema de protección 
+no se encontraba habilitado para operar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se 
+determina que el alimentador Almirante 
+Riveros no se encontraba habilitado para 
+prestar EDAC al momento de la falla por 
+lo que la instrucción se elimina. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+50 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Las Haras 
+No aplica, puesto que no el sistema de protección 
+no se encontraba habilitado para operar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se 
+determina que el alimentador Las Haras 
+no se encontraba habilitado para prestar 
+EDAC al momento de la falla por lo que la 
+instrucción se elimina. 
+51 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Mahuidanche 
+No aplica, puesto que no el sistema de protección 
+no se encontraba habilitado para operar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se 
+determina 
+que 
+el 
+alimentador 
+Mahuidanche no se encontraba habilitado 
+para prestar EDAC al momento de la falla 
+por lo que la instrucción se elimina. 
+52 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Alcazar / C10 
+Si bien existió sobreescritura en del evento, a 
+través de los registros SER se puede demostrar 
+una correcta actuación del sistema de protección. 
+No se acoge la observación. 
+ 
+Los probatorios requeridos para evaluar la 
+prestación de EDAC son los archivos 
+COMTRADE (.dat y .cfg). En caso de que 
+estos no estén presentes la evaluación es 
+0%. Adicionalmente, cabe señalar que la 
+sobreescritura de un COMTRADE es una 
+operación indeseada de este y no desliga 
+la responsabilidad del coordinado. 
+53 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Paillihue / C11 
+Si bien existió sobreescritura en del evento, a 
+través de los registros SER se puede demostrar 
+una correcta actuación del sistema de protección. 
+No se acoge la observación. 
+ 
+Los probatorios requeridos para evaluar la 
+prestación de EDAC son los archivos 
+COMTRADE (.dat y .cfg). En caso de que 
+estos no estén presentes la evaluación es 
+0%. Adicionalmente, cabe señalar que la 
+sobreescritura de un COMTRADE es una 
+operación indeseada de este y no desliga 
+la responsabilidad del coordinado. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+54 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Quilque / C5 
+Si bien existió sobreescritura en del evento, a 
+través de los registros SER se puede demostrar 
+una correcta actuación del sistema de protección. 
+No se acoge la observación. 
+ 
+Los probatorios requeridos para evaluar la 
+prestación de EDAC son los archivos 
+COMTRADE (.dat y .cfg). En caso de que 
+estos no estén presentes la evaluación es 
+0%. Adicionalmente, cabe señalar que la 
+sobreescritura de un COMTRADE es una 
+operación indeseada de este y no desliga 
+la responsabilidad del coordinado. 
+55 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Bolívar / C1 
+Cabe señalar que el Esquema EDAC no posee los 
+atributos necesarios para el registro de potencia, 
+sin embargo esto es posible demostrarlo a través 
+de los esquemas de medida de la cabecera de MT. 
+Al respecto solicito reconsiderar la evaluación. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los 
+probatorios no incluyen los archivos 
+COMTRADE (.dat y .cfg). Cabe indicar 
+que los probatorios requeridos para 
+evaluar la prestación de EDAC son los 
+archivos COMTRADE (.dat y .cfg). En 
+caso de que estos no estén presentes la 
+evaluación es 0%.  
+ 
+En caso de que no estén o tengan menos 
+variables que las mínimas para la 
+evaluación (frecuencia, trip edac, potencia 
+activa) la prestación no se puede probar 
+por lo que la evaluación es 0%.  
+56 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Puangue / C2 
+El archivo COMTRADE enviado es el mismo que 
+para el alimentador Huechún, en este se puede 
+observar la frecuencia de operación del SP. 
+No se acoge la observación. 
+ 
+La evaluación 0% se produce debido a 
+que en este alimentador se desconectó un 
+monto de potencia negativo, lo que no es 
+consistente con una correcta operación 
+del 
+EDAC. 
+La 
+carga 
+debe 
+ser 
+desconectada de manera selectiva con 
+respecto a los PMGD que allí se 
+encuentren, más aún considerando que 
+es un evento de subfrecuencia. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+57 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Santa Cecilia / C1 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE presenta que 
+la señal de potencia es menor al 20% de 
+lo comprometido, siendo evaluada en 
+categoría "Incorrecta". Dicho lo anterior el 
+indicador es 0%. 
+58 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+S/E ALTO HOSPICIO 
+C28 
+En primera instancia no se habían cargado las 
+oscilografías, sin embargo, porsteriormente se 
+realizó la carga de este archivo.  
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los 
+probatorios enviados corresponden a una 
+descripción de los hechos sin incluir los 
+archivos COMTRADE (.dat y .cfg). Cabe 
+indicar que los probatorios requeridos 
+para evaluar la prestación de EDAC son 
+los archivos COMTRADE (.dat y .cfg). En 
+caso de que estos no estén presentes la 
+evaluación es 0%.  
+ 
+En caso de que no estén o tengan menos 
+variables que las mínimas para la 
+evaluación (frecuencia, trip edac, potencia 
+activa) la prestación no se puede probar 
+por lo que la evaluación es 0%.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+59 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Alberto Hurtado / E5 
+Cabe señalar que el Esquema EDAC no posee los 
+atributos necesarios para el registro de potencia, 
+sin embargo esto es posible demostrarlo a través 
+de los esquemas de medida de la cabecera de MT. 
+Al respecto solicito reconsiderar la evaluación. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los 
+probatorios no incluyen los archivos 
+COMTRADE (.dat y .cfg). Cabe indicar 
+que los probatorios requeridos para 
+evaluar la prestación de EDAC son los 
+archivos COMTRADE (.dat y .cfg). En 
+caso de que estos no estén presentes la 
+evaluación es 0%.  
+ 
+En caso de que no estén o tengan menos 
+variables que las mínimas para la 
+evaluación (frecuencia, trip edac, potencia 
+activa) la prestación no se puede probar 
+por lo que la evaluación es 0%.  
+60 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Bolívar / C1 
+Cabe señalar que el Esquema EDAC no posee los 
+atributos necesarios para el registro de potencia, 
+sin embargo esto es posible demostrarlo a través 
+de los esquemas de medida de la cabecera de MT. 
+Al respecto solicito reconsiderar la evaluación. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los 
+probatorios no incluyen los archivos 
+COMTRADE (.dat y .cfg). Cabe indicar 
+que los probatorios requeridos para 
+evaluar la prestación de EDAC son los 
+archivos COMTRADE (.dat y .cfg). En 
+caso de que estos no estén presentes la 
+evaluación es 0%.  
+ 
+En caso de que no estén o tengan menos 
+variables que las mínimas para la 
+evaluación (frecuencia, trip edac, potencia 
+activa) la prestación no se puede probar 
+por lo que la evaluación es 0%.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+61 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Alberto Hurtado / E5 
+Cabe señalar que el Esquema EDAC no posee los 
+atributos necesarios para el registro de potencia, 
+sin embargo esto es posible demostrarlo a través 
+de los esquemas de medida de la cabecera de MT. 
+Al respecto solicito reconsiderar la evaluación. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los 
+probatorios no incluyen los archivos 
+COMTRADE (.dat y .cfg). Cabe indicar 
+que los probatorios requeridos para 
+evaluar la prestación de EDAC son los 
+archivos COMTRADE (.dat y .cfg). En 
+caso de que estos no estén presentes la 
+evaluación es 0%.  
+ 
+En caso de que no estén o tengan menos 
+variables que las mínimas para la 
+evaluación (frecuencia, trip edac, potencia 
+activa) la prestación no se puede probar 
+por lo que la evaluación es 0%.  
+62 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Trocadero / E13 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. El indicador se mantiene en 
+0% porque COMTRADE no tiene señal de 
+potencia. Dicho lo anterior el indicador se 
+mantiene. 
+63 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Argentina / C18 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. El indicador se mantiene en 
+0% porque COMTRADE no tiene señal de 
+potencia. Dicho lo anterior el indicador se 
+mantiene. 
+64 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Argentina / C18 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. El indicador se mantiene en 
+0% porque COMTRADE no tiene señal de 
+potencia. Dicho lo anterior el indicador se 
+mantiene. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+65 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Las Tacas / E1 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+ Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE no presenta 
+señal de potencia y por otro lado se 
+observa que la frecuencia de operación no 
+es la adecuada según el escalón. Dicho lo 
+anterior el indicador es 0%. 
+ 
+Cabe destacar que la actuación del relé al 
+desconectar carga es solo una de las 
+condiciones que se deben cumplir para un 
+buen desempeño. 
+66 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Chacalluta / C10 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE no presenta 
+señal de potencia. Dicho lo anterior el 
+indicador es 0%. 
+ 
+Cabe destacar que la actuación del relé al 
+desconectar carga es solo una de las 
+condiciones que se deben cumplir para un 
+buen desempeño. 
+67 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Curarrehue / E5 
+Si bien existió sobreescritura en del evento, a 
+través de los registros SER se puede demostrar 
+una correcta actuación del sistema de protección. 
+No se acoge la observación. 
+ 
+Los probatorios requeridos para evaluar la 
+prestación de EDAC son los archivos 
+COMTRADE (.dat y .cfg). En caso de que 
+estos no estén presentes la evaluación es 
+0%. Adicionalmente, cabe señalar que la 
+sobreescritura de un COMTRADE es una 
+operación indeseada de este y no desliga 
+la responsabilidad del coordinado. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+68 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Antumalal / E3 
+Si bien existió sobreescritura en del evento, a 
+través de los registros SER se puede demostrar 
+una correcta actuación del sistema de protección. 
+No se acoge la observación. 
+ 
+Los probatorios requeridos para evaluar la 
+prestación de EDAC son los archivos 
+COMTRADE (.dat y .cfg). En caso de que 
+estos no estén presentes la evaluación es 
+0%. Adicionalmente, cabe señalar que la 
+sobreescritura de un COMTRADE es una 
+operación indeseada de este y no desliga 
+la responsabilidad del coordinado. 
+69 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Elibor / E4 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE no presenta 
+señal de potencia. Dicho lo anterior el 
+indicador es 0%. 
+ 
+Cabe destacar que la actuación del relé al 
+desconectar carga es solo una de las 
+condiciones que se deben cumplir para un 
+buen desempeño. 
+70 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Industrial / C9 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE no presenta 
+señal de potencia. Dicho lo anterior el 
+indicador es 0%. 
+ 
+Cabe destacar que la actuación del relé al 
+desconectar carga es solo una de las 
+condiciones que se deben cumplir para un 
+buen desempeño. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+71 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Azapa / C1 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE no presenta 
+señal de potencia. Dicho lo anterior el 
+indicador es 0%. 
+ 
+Cabe destacar que la actuación del relé al 
+desconectar carga es solo una de las 
+condiciones que se deben cumplir para un 
+buen desempeño. 
+72 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+21 de Mayo / C9 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE no presenta 
+señal de potencia. Dicho lo anterior el 
+indicador es 0%. 
+ 
+Cabe destacar que la actuación del relé 
+al desconectar carga es solo una de las 
+condiciones que se deben cumplir para 
+un buen desempeño. 
+73 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Tadeo Haenke / C19 
+Si bien existió sobreescritura en del evento, a 
+través de los registros SER se puede demostrar 
+una correcta actuación del sistema de protección. 
+No se acoge la observación. 
+ 
+Los probatorios requeridos para evaluar la 
+prestación de EDAC son los archivos 
+COMTRADE (.dat y .cfg). En caso de que 
+estos no estén presentes la evaluación es 
+0%. Adicionalmente, cabe señalar que la 
+sobreescritura de un COMTRADE es una 
+operación indeseada de este y no desliga 
+la responsabilidad del coordinado. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+74 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Chepe / C3 
+Se solicita indicar porqué la frecuencia de 
+operación no es adecuada. 
+ Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE presenta que 
+el relé opera a los 47,4 Hz, lo que es 
+inconsistente con el escalón 3 (48,8 Hz) 
+correspondiente a Chepe. Dicho lo 
+anterior el indicador es 0%. 
+75 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+21 de Mayo / C2 
+Se solicita indicar porqué la frecuencia de 
+operación no es adecuada. 
+ Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE presenta que 
+el relé opera a los 47,4 Hz, lo que es 
+inconsistente con el escalón 1 (49 Hz) 
+correspondiente a 21 de mayo. Dicho lo 
+anterior el indicador es 0%. 
+76 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+S/E Paine AT 
+Se solicita indicar porqué la frecuencia de 
+operación no es adecuada. 
+ Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE presenta que 
+el relé opera a los 49,2 Hz, lo que es 
+inconsistente con el escalón 3 de EDAC-
+CE (49,5 Hz @ -2,2 Hz/s) correspondiente 
+a esta instalación, además, el probatorio 
+no registra la señal de potencia. Dicho lo 
+anterior el indicador es 0%. 
+77 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+S/E Rancagua B4 
+Se solicita indicar porqué la frecuencia de 
+operación no es adecuada. 
+ Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE presenta que 
+el relé opera a los 49,2 Hz, lo que es 
+inconsistente con el escalón 3 de EDAC-
+CE (49,5 Hz @ -2,2 Hz/s) correspondiente 
+a esta instalación, además, el probatorio 
+no registra la señal de potencia. Dicho lo 
+anterior el indicador es 0%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+78 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+S/E Cachapoal BT1 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE no presenta 
+señal de potencia. Dicho lo anterior el 
+indicador es 0%. 
+ 
+Cabe destacar que la actuación del relé al 
+desconectar carga es solo una de las 
+condiciones que se deben cumplir para un 
+buen desempeño. 
+79 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+S/E San Vicente de 
+Tagua Tagua BT2 
+Se solicita aclarar la razón por la cual se asignó 
+una calificación de 0%, considerando que la 
+actuación del relé ha sido evaluada como correcta.  
+Aclaración. 
+ 
+Se analizan los antecedentes y se 
+observa que el COMTRADE no presenta 
+señal de potencia. Dicho lo anterior el 
+indicador es 0%. 
+ 
+Cabe destacar que la actuación del relé al 
+desconectar carga es solo una de las 
+condiciones que se deben cumplir para un 
+buen desempeño. 
+80 
+CGE 
+Transmisión 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+BA S/E San Francisco 
+se Mostazal 66KV BP1 
+BA S/E San Francisco 
+de Mostazal 66KV BP2 
+No es parte de esquema EDAC-BF sistémico, 
+debido a que pertenece a un esquema para forma 
+isla. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y los datos 
+se actualizan. Se corrobora que en la 
+adecuación aprobada por el coordinador 
+el alimentador no es parte del EDAC, por 
+lo que la instrucción se elimina. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+81 
+Anglo 
+American 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+MantoVerde 
+En los registros que el Coordinador utiliza para 
+computar la carga comprometida por AAS en los 
+EDAC-BF y EDAC-CE existe un error de 
+asignación de los EDAC de las instalaciones de 
+Manto Verde, los cuales no son centros de 
+operación o instalaciones de AAS y que 
+corresponden a otra empresa Coordinada. En 
+efecto, los centros productivos o de operaciones 
+que posee AAS son sólo Los Bronces, El Soldado 
+y Fundición Chagres. Con ello, la carga que de 
+AAS comprometida y evaluada por el Coordinador 
+pasaría de 69,528 MW a 62,728 MW en demanda 
+alta (la utilizada por el Coordinador en su 
+evaluación), en conformidad a lo establecido por el 
+Coordinador en su Informe de SSCC 2025 que se 
+emitió en diciembre de 2024 (debe descontar 6,8 
+MW asociados a Manto Verde) de las tablas 
+contenidas en las hojas “EDAC Centro Sur 
+Vigente” y “EDAC Centro Sur Propuesto” 
+Se acoge la observación - Aclaración. 
+ 
+Se analizan los antecedentes y se 
+corrobora que el alimentador pertenece al 
+coordinado Mantoverde S.A.  y no a Anglo 
+American, por lo que se actualiza la 
+información.  
+ 
+No obstante, lo anterior el alimentador 
+Mantoverde y su subestación Diego de 
+Almagro forman parte de la isla norte de 
+la falla, la cual registró sobretensión y 
+sobrefrecuencia. Dicho lo anterior no se 
+considera parte del EDAC-BF ni de la 
+planilla de evaluación. 
+82 
+Anglo 
+American 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+Motor Pebbles 1-2 
+Motor Bolas 1 
+Motor Molino SAG 
+Estos alimentadores corresponden al total EDAC-
+CE división los bronces establecidos en anexo de 
+38MW en total. Estos no se encuentran en anexo 
+EAF-89 ni tampoco en la evaluación EDAC. Deben 
+ser incorporados en las evaluaciones versiones 
+V3. La carta estableciendo esta información es de 
+2013 y en anexo no están desagregados por 
+alimentador. 
+Se acoge la observación - Aclaración. 
+ 
+Se analizan los antecedentes y se 
+corrobora que los alimentadores Motor 
+Pebbles, Motor Molino Bolas 1 y Motor 
+Molino SAG pertenecen al esquema 
+EDAC-CE. Se actualiza la información y 
+se añaden los alimentadores, los cuales 
+contienen 
+probatorios 
+COMTRADE 
+adecuados. 
+Se 
+recalculan 
+los 
+indicadores 
+de 
+desempeño, siendo evaluados con 80%, 
+100% y 100% para cada alimentador 
+respectivamente. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+83 
+Compañía 
+Distribuidora 
+de Energía 
+Eléctrica 
+CODINER 
+S.A. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+La Católica 
+Puente Ahogado 
+Durante la revisión de los registros operacionales 
+y en coordinación con los antecedentes locales de 
+supervisión SCADA, se verificó la desconexión de 
+dos sistemas EDAC pertenecientes a la red de 
+distribución de CODINER: 
+ 
+1. Alimentador 
+La 
+Católica 
+con 
+2,6MW 
+desconectados. 
+2. Alimentador Puente Ahogado con 2,2MW 
+desconectados. 
+ 
+Ambas 
+desconexiones 
+fueron 
+activadas 
+correctamente conforme a la instrucción de 
+contingencia vigente, registrándose la reducción 
+de 
+carga 
+total 
+correspondiente 
+(4,8 
+MW 
+acumulados). No obstante, dichos valores no se 
+encuentran 
+reflejados 
+en 
+los 
+reportes 
+de 
+cuantificación de EnS ni en el Anexo de resultados 
+del Grupo 1 – EDAC, según lo publicado por ese 
+Coordinador. 
+ 
+En virtud de lo anterior, se solicita tener en 
+consideración 
+estas 
+desconexiones 
+en 
+la 
+actualización de los índices de participación 
+asociados a esquemas EDAC, a fin de reflejar de 
+manera precisa el desempeño operativo de 
+CODINER Ltda. durante el evento del 25 de 
+febrero de 2025, conforme a la metodología de 
+asignación establecida en la carta DE05335-25 y 
+su anexo metodológico complementario. 
+No se acoge la observación – 
+Aclaración. 
+ 
+Los probatorios requeridos para evaluar la 
+prestación de EDAC son los archivos 
+COMTRADE (.dat y .cfg). En caso de que 
+estos no estén presentes la evaluación es 
+0%. En este caso, ninguno de los dos 
+alimentadores 
+registra 
+el 
+envío 
+de 
+archivos COMTRADE por lo que la 
+evaluación se mantiene, ya que, al no 
+existir estos registros, no es posible 
+probar el monto desconectado. 
+ 
+Adicionalmente 
+se 
+aclara 
+que 
+los 
+alimentadores que forman parte del 
+esquema EDAC de su representada son 
+Los Cantaros y Puente Ahogado, por lo 
+que el alimentador La Católica no se 
+considera como operación de EDAC ni 
+tampoco forma parte de planes de 
+adecuaciones 
+informados 
+por 
+su 
+representada a la fecha. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+84 
+Cooperativa 
+de 
+Abastecimient
+o de Energía 
+Eléctrica 
+Curico LTDA. 
+EDAC 
+ de febrero 2025 
+ 
+(correspondiente 
+al cálculo de 
+marzo 2025) 
+52C6 de SE Curicó 
+Se 
+informó 
+oportunamente 
+al 
+Coordinador, 
+mediante cartas CEC N°1000/2022 y CEC 
+N°1167/2023, 
+la 
+configuración 
+vigente 
+del 
+esquema EDAC-BF, incluyendo la relocalización al 
+alimentador 52C1 Morza de la Subestación Quinta, 
+reemplazando 
+al 
+alimentador 
+52C6 
+de 
+la 
+Subestación Curicó. 
+ 
+Se 
+remitieron 
+los 
+registros 
+COMTRADE 
+correspondientes a la operación de los esquemas 
+EDAC 
+mediante 
+carta 
+CEC 
+N°0344/2025, 
+confirmando 
+la 
+correcta 
+ejecución 
+del 
+desprendimiento de carga instruido. 
+ 
+Las observaciones emitidas por el Coordinador se 
+sustentan en información desactualizada, que no 
+refleja 
+la 
+condición 
+vigente 
+comunicada 
+formalmente por esta Cooperativa. 
+ 
+La reducción de carga desprendida observada se 
+debió a una condición técnica no prevista, 
+asociada a la inyección de PMGD, y no constituye 
+en ningún caso un incumplimiento por parte de 
+CEC. Este hecho se encuentra respaldado en el 
+informe final del análisis sistémico del evento del 
+25F, elaborado por la Universidad de Chile en julio 
+de 2025, específicamente en el punto 8.5 del 
+documento. 
+Se acoge parcialmente la observación. 
+- Aclaración 
+ 
+Se analizan los antecedentes y constata 
+que el reemplazo del alimentador 52C6 de 
+S/E Curicó por el alimentador 52C1 de 
+S/E Quinta se encontraba pendiente de 
+aprobación por parte del Coordinador. Sin 
+perjuicio de lo anterior se actualizan los 
+nombres. 
+ 
+Sin perjuicio de lo anterior, se observa que 
+el COMTRADE se encuentra mal ajustado 
+en su información, ya que se observa que 
+el alimentador 52C1 de S/E Quinta había 
+operado antes de las 15:15 horas por lo 
+que el indicador se mantiene. 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 4: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de abril 
+2025 versión 2. 
+ 
+Consultas recibidas mediante: 
+- 
+Cóndor Energía SpA: observaciones pendientes de respuesta de la carta Ref. [4] 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Cóndor y 
+Huemul 
+CSF 
+PE CERRO 
+TIGRE (U1-U44) 
+Fecha: 06-04-2025 15:00 
+ 
+Se evaluaron 3.33 minutos de Non tracking y 1.2 
+minutos en modo manual en el período, 
+específicamente entre las 15:03 y las 15:06:20. Al 
+respecto, se observa en los mismos registros del 
+CEN 
+(Planilla 
+"Copy 
+of 
+AGCReport 
+- 
+2.4.2_1al16_abr") que se aplicó un parámetro "Reg 
+limit High" de 30 MW, y luego la central comenzó 
+el non tracking. Posterior a ello, se aumentó a las 
+15:06:20 el parámetro a 81.2 MW. y la central 
+comenzó el seguimiento correcto. Se solicita 
+reevaluar con 100% de desempeño ya que el 
+período con non tracking y manual debe ser 
+descartado. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los minutos 
+categorizados como “modo Manual” se originaron debido al 
+tiempo de ajuste del modo de control desde CDC. Dicho lo 
+anterior, el indicador de desempeño cambia a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-54 
+señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. Por 
+otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados en consistencia con las pruebas de sintonización 
+hechas por el Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad generadora. En caso 
+de querer ajustar o actualizar esta sintonización se solicita 
+coordinar las pruebas directamente con el Departamento de 
+Modelación 
+y 
+aplicaciones 
+EMS 
+al 
+correo 
+DMAP@coordinador.cl. 
+2 
+Cóndor y 
+Huemul 
+CSF 
+PE CERRO 
+TIGRE (U1-U44) 
+Fecha: 17-04-2025 16:00 
+ 
+Se evaluaron 3.4 minutos de Non tracking en el 
+período, específicamente entre las 16:16 y las 
+16:31. Al respecto, se observa que la central sigue 
+la consigna durante todo el período. Se solicita 
+reevaluar y revisar la parametrización configurada 
+No se acoge la observación. 
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-54 
+señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. Por 
+otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+en el AGC, la central siguió la consigna de acuerdo 
+con su rampa establecida. 
+AGC. Dicho lo anterior, el indicador de desempeño se 
+mantiene. 
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados en consistencia con las pruebas de sintonización 
+hechas por el Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad generadora. En caso 
+de querer ajustar o actualizar esta sintonización se solicita 
+coordinar las pruebas directamente con el Departamento de 
+Modelación 
+y 
+aplicaciones 
+EMS 
+al 
+correo 
+DMAP@coordinador.cl. 
+3 
+Cóndor y 
+Huemul 
+CSF 
+PE LLANOS 
+DEL VIENTO 
+(U1-U32) 
+Fecha: 19-04-2025 16:00 
+ 
+Se evaluaron 0.6 minutos de Non tracking y 18.33 
+minutos en modo manual en el período, 
+específicamente entre las 16:01 y las 16:21:52. Al 
+respecto, se observa que la central no tenía bien 
+parametrizado el valor "Reg Limit Low (MW)" al 
+inicio de la hora, y recién a las 16:19 se bajó a 18.7 
+MW, lo que permitió que la central bajara. Se 
+solicita reevaluar con 100% de desempeño ya que 
+el período con non tracking y manual debe ser 
+descartado. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los minutos 
+categorizados como “modo Manual” se originaron debido al 
+tiempo de ajuste del modo de control desde CDC. Dicho lo 
+anterior, el indicador de desempeño cambia a 98%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-54 
+señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. Por 
+otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados en consistencia con las pruebas de sintonización 
+hechas por el Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad generadora. En caso 
+de querer ajustar o actualizar esta sintonización se solicita 
+coordinar las pruebas directamente con el Departamento de 
+Modelación 
+y 
+aplicaciones 
+EMS 
+al 
+correo 
+DMAP@coordinador.cl. 
+4 
+Cóndor y 
+Huemul 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 15-04-2025 07:00 
+ 
+Se evaluaron 3.4 minutos de Non Tracking y 3.73 
+minutos en modo manual en el período. Al 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los minutos 
+categorizados como “modo Manual” se originaron debido al 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+respecto, se observa que la central sigue la 
+consigna durante todo el período. Se solicita 
+reevaluar y revisar la parametrización configurada 
+en el AGC, la central siguió la consigna de acuerdo 
+con su rampa establecida. 
+tiempo de ajuste del modo de control desde CDC. Dicho lo 
+anterior, el indicador de desempeño cambia a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-54 
+señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. Por 
+otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados en consistencia con las pruebas de sintonización 
+hechas por el Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad generadora. En caso 
+de querer ajustar o actualizar esta sintonización se solicita 
+coordinar las pruebas directamente con el Departamento de 
+Modelación 
+y 
+aplicaciones 
+EMS 
+al 
+correo 
+DMAP@coordinador.cl. 
+5 
+Cóndor y 
+Huemul 
+CSF 
+PE CERRO 
+TIGRE (U1-U44) 
+Fecha: 02-04-2025 16:00 
+ 
+Se evaluaron 3.93 minutos de Non tracking en el 
+período, específicamente entre las 16:01 y las 
+16:20. Al respecto, se observa que la central sigue 
+la consigna durante todo el período. Se solicita 
+reevaluar y revisar la parametrización configurada 
+en el AGC, la central siguió la consigna de acuerdo 
+con su rampa establecida. 
+No se acoge la observación. 
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-54 
+señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. Por 
+otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC. Dicho lo anterior, el indicador de desempeño se 
+mantiene. 
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados en consistencia con las pruebas de sintonización 
+hechas por el Coordinador a través del Departamento de 
+Aplicaciones EMS aplicadas a la unidad generadora. En caso 
+de querer ajustar o actualizar esta sintonización se solicita 
+coordinar las pruebas directamente con el Departamento de 
+Modelación 
+y 
+aplicaciones 
+EMS 
+al 
+correo 
+DMAP@coordinador.cl. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 5: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de junio 
+2025 versión 2. 
+ 
+Consultas recibidas mediante: 
+- 
+Acciona Energía Chile Holdings S.A.: recibidas mediante carta ACC.ECH.089.25. Ingreso DE07374-25. 
+- 
+Enel Generación Chile S.A.: recibidas mediante carta OP 229-25. Ingreso DE07884-25. 
+- 
+Empresa Eléctrica Rucatayo S.A.: recibidas mediante plataforma de observaciones del departamento de Transferencias de 
+Energía y SSCC con correlativo O2025-0036881. 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Empresa 
+Eléctrica 
+Rucatayo S.A. 
+CT 
+HP Rucatayo 
+Fecha: 01 y 29 de junio. 
+ 
+Durante los días 01 y 29, se prestaron dos servicios 
+de Control de Tensión, los cuales se encuentran 
+debidamente registrados en el sistema RIO. Sin 
+embargo, no hemos recibido la correspondiente 
+remuneración por dichas prestaciones. 
+ 
+En cuanto al porcentaje de desempeño, nos 
+gustaría conocer el motivo específico por el cual se 
+ha evaluado de forma desfavorable, ya que, según 
+nuestra 
+revisión, 
+ambas 
+prestaciones 
+se 
+ejecutaron dentro de los tiempos y márgenes 
+establecidos por la normativa vigente. 
+Aclaración. 
+ 
+Cabe destacar que durante junio 2025 la central HP 
+Rucatayo participó en CT manual y CT automático, por lo que 
+su desempeño depende del promedio del factor de respuesta 
+entre ambos servicios. 
+ 
+La evaluación de CT manual se realiza en la barra principal 
+de la unidad, en este caso el desempeño de las unidades HP 
+Rucatayo se evalúa según la tensión de su barra principal 
+Rucatayo 220kV. El tag SCADA en cuestión es “RUCATAY 
+220J1     V”.  
+  
+Las evaluaciones de CT Manual en junio 2025 son: 
+1. 01 de junio 07:30 hrs: Evaluado como “No Participa” 
+debido a que la tensión en la barra principal no 
+presentó variaciones ante la instrucción de CDC. 
+Dicho lo anterior se analiza la curva PQ de la unidad 
+y se constata vía mediciones SCADA que su señal 
+de potencia reactiva en bornes “RUCATAY 13.GEN1  
+Q” presenta movimientos en el sentido contrario a 
+los solicitados por CDC. 
+ 
+2. 29 de junio 01:43 hrs: Evaluado como “No Participa” 
+debido a que la tensión en la barra principal no 
+presentó variaciones ante la instrucción de CDC. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Dicho lo anterior se analiza la curva PQ de la unidad 
+y se constata vía mediciones SCADA que su señal 
+de potencia reactiva en bornes “RUCATAY 13.GEN1  
+Q” presenta movimientos en el sentido contrario a 
+los solicitados por CDC. 
+ 
+Las evaluaciones de CT Automático se miden en bornes de 
+la unidad y se registra la potencia activa, reactiva y tensión 
+desde el sistema SCADA a cada segundo. Los tags son: 
+a. V: RUCATAY 13.GEN1   V 
+b. P: RUCATAY 13.GEN1   P 
+c. 
+Q: RUCATAY 13.GEN1   Q 
+ 
+Todas ellas de exclusiva responsabilidad de su representada, 
+al igual que la tensión en su barra principal. Además, las 
+evaluaciones de categoría “No Verificable” se producen 
+debido a que estas se mantienen invariantes en períodos 
+superiores a 4 minutos. Lo anterior es un incumplimiento de 
+los criterios de calidad definidos en el artículo 13 del Anexo 
+Técnico “Definición de Parámetros Técnicos y Operativos 
+para el Envío de Datos al SITR”. 
+ 
+Dado esto, el coordinado debe revisar la calidad de sus 
+señales en sistema SCADA, para lo cual tiene que contactar 
+directamente 
+al 
+área 
+TI 
+SCADA 
+al 
+mail 
+tec.scada@coordinador.cl 
+ 
+Para más información, la metodología puede ser descargada 
+del sitio web del Coordinador de la siguiente ruta: Inicio > 
+Operación del Sistema > Post-Operación > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios 
+> Metodología Cálculo Desempeño SSCC 
+2 
+Empresa 
+Eléctrica 
+Rucatayo S.A. 
+CTF 
+HP Rucatayo 
+Fecha: 03 y 29 de junio. 
+ 
+Durante los días 03 y 29 de junio, se prestaron 
+servicios correspondientes a Control Terciario de 
+Frecuencia, que no se encuentran reflejados en el 
+Se acoge la observación - Aclaración. 
+ 
+Se analizan los antecedentes y mediciones y se constata lo 
+siguiente: 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+sistema RIO, figurando como observaciones fuera 
+de plazo. A continuación, se detallan los eventos: 
+ 
+- 
+03 de junio: Activación desde las 03:23 
+AM hasta las 05:00 AM 
+- 
+29 de junio: Activación desde las 09:53 
+AM hasta las 10:01 AM 
+ 
+Además, en la observación del RIO se nos informó 
+que no se encontró evidencia de activación formal 
+del CTF hacia nuestra central en los horarios 
+señalados. 
+Sin 
+embargo, 
+adjuntamos 
+las 
+grabaciones de las llamadas telefónicas en las que 
+se nos solicitó explícitamente ejecutar dichas 
+prestaciones. 
+1. Instrucción 29 de junio: Fue evaluada con 100% en 
+su factor de respuesta y así se constata en los 
+indicadores emitidos en carta de la Ref. [7]. 
+ 
+2. Instrucción 03 de junio: No corresponde a una 
+instrucción de CTF, debido a que en ningún 
+momento se solicitó la activación del servicio. 
+ 
+Las grabaciones son explícitas e indican que CDC 
+solicita a HP Rucatayo el ajuste de la central para su 
+disponibilidad en caso de activación. Es decir, CDC 
+no instruyó a la central a la activación del servicio.  
+ 
+En una interacción posterior su representada llama 
+al CDC para ajustar la central para evitar verter. En 
+esta interacción se estima que el CC de Rucatayo 
+confunde el concepto de "Finalización de CTF", dado 
+a que en el bloque correspondiente ya no tenía 
+SSCC CTF. 
+ 
+Dicho lo anterior los indicadores se mantienen. 
+3 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Malgarida 
+Fecha: 03-06-2025 09:14 
+ 
+ 
+Se califica como NC, pero la planta presta el SSCC 
+según sus límites establecidos, tal como se 
+observa en las imágenes n°1 a n°9 y tablas n°1 a 
+n°9.  
+ 
+Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.06_Respuesta_CT” 
+de 
+la 
+V2, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe un 
+error en el registro mostrado en las columnas “P” y 
+“T” correspondientes a las evaluaciones “t10Q” y 
+“t15Q” respectivamente, debido a que  
+Se acoge la observación. 
+ 
+La señal de SCADA de potencia reactiva usada inicialmente, 
+corresponde a la potencia en el lado de baja tensión del 
+transformador elevador de la central.   
+ 
+Esta señal, en el momento de la evaluación no tiene la 
+calidad adecuada para la evaluación del desempeño de la 
+instalación en dicha instrucción, por lo que se realizan ajustes 
+para usar la señal de potencia reactiva en el lado de alta 
+tensión del transformador elevador. 
+ 
+Dicha evaluación identifica que la central cumplió con la 
+instrucción solicitada por CDC de absorber -60 MVAr. Dicho 
+lo anterior el indicador de respuesta a 100%, ya que la 
+instrucción cambió su categoría a “Cumple”.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+todos estos registros, referentes a la central PFV 
+Malgarida, tienen valor de -30 para todas las 
+instrucciones en cuestión; y en consecuencia 
+entendemos que esto estaría impactando en la 
+evaluación del Factor de Desempeño, calificando 
+todos los registros como “NC” cuando se puede 
+apreciar en las imágenes n°1 a n°9 y tablas n°1 a 
+n°9, que la central estableció los movimientos de 
+consigna de reactivos entre 1 y 5 minutos a la 
+consigna final requerida. Lo que dista de lo 
+evaluado en la BBDD utilizada. 
+4 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Malgarida 
+Fecha: 05-06-2025 15:47 
+ 
+Se califica como NC, pero la planta presta el SSCC 
+según sus límites establecidos, tal como se 
+observa en las imágenes n°1 a n°9 y tablas n°1 a 
+n°9.  
+ 
+Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.06_Respuesta_CT” 
+de 
+la 
+V2, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe un 
+error en el registro mostrado en las columnas “P” y 
+“T” correspondientes a las evaluaciones “t10Q” y 
+“t15Q” respectivamente, debido a que todos estos 
+registros, referentes a la central PFV Malgarida, 
+tienen valor de -30 para todas las instrucciones en 
+cuestión; y en consecuencia entendemos que esto 
+estaría impactando en la evaluación del Factor de 
+Desempeño, calificando todos los registros como 
+“NC” cuando se puede apreciar en las imágenes 
+n°1 a n°9 y tablas n°1 a n°9, que la central 
+estableció los movimientos de consigna de 
+reactivos entre 1 y 5 minutos a la consigna final 
+requerida. Lo que dista de lo evaluado en la BBDD 
+utilizada. 
+Se acoge la observación. 
+ 
+La señal de SCADA de potencia reactiva usada inicialmente, 
+corresponde a la potencia en el lado de baja tensión del 
+transformador elevador de la central.   
+ 
+Esta señal, en el momento de la evaluación no tiene la 
+calidad adecuada para la evaluación del desempeño de la 
+instalación en dicha instrucción, por lo que se realizan ajustes 
+para usar la señal de potencia reactiva en el lado de alta 
+tensión del transformador elevador. 
+ 
+Dicha evaluación identifica que la central cumplió con la 
+instrucción solicitada por CDC de absorber -60 MVAr. Dicho 
+lo anterior el indicador de respuesta a 100%, ya que la 
+instrucción cambió su categoría a “Cumple”.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+5 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Malgarida 
+Fecha: 06-06-2025 13:18 
+ 
+Se califica como NC, pero la planta presta el SSCC 
+según sus límites establecidos, tal como se 
+observa en las imágenes n°1 a n°9 y tablas n°1 a 
+n°9.  
+ 
+Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.06_Respuesta_CT” 
+de 
+la 
+V2, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe un 
+error en el registro mostrado en las columnas “P” y 
+“T” correspondientes a las evaluaciones “t10Q” y 
+“t15Q” respectivamente, debido a que todos estos 
+registros, referentes a la central PFV Malgarida, 
+tienen valor de -30 para todas las instrucciones en 
+cuestión; y en consecuencia entendemos que esto 
+estaría impactando en la evaluación del Factor de 
+Desempeño, calificando todos los registros como 
+“NC” cuando se puede apreciar en las imágenes 
+n°1 a n°9 y tablas n°1 a n°9, que la central 
+estableció los movimientos de consigna de 
+reactivos entre 1 y 5 minutos a la consigna final 
+requerida. Lo que dista de lo evaluado en la BBDD 
+utilizada. 
+Se acoge la observación. 
+ 
+La señal de SCADA de potencia reactiva usada inicialmente, 
+corresponde a la potencia en el lado de baja tensión del 
+transformador elevador de la central.   
+ 
+Esta señal, en el momento de la evaluación no tiene la 
+calidad adecuada para la evaluación del desempeño de la 
+instalación en dicha instrucción, por lo que se realizan ajustes 
+para usar la señal de potencia reactiva en el lado de alta 
+tensión del transformador elevador. 
+ 
+Dicha evaluación identifica que la central cumplió con la 
+instrucción solicitada por CDC de absorber -60 MVAr. Dicho 
+lo anterior el indicador de respuesta a 100%, ya que la 
+instrucción cambió su categoría a “Cumple”.  
+6 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Malgarida 
+Fecha: 09-06-2025 23:35 
+ 
+Se califica como NC, pero la planta presta el SSCC 
+según sus límites establecidos, tal como se 
+observa en las imágenes n°1 a n°9 y tablas n°1 a 
+n°9.  
+ 
+Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.06_Respuesta_CT” 
+de 
+la 
+V2, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe un 
+error en el registro mostrado en las columnas “P” y 
+Se acoge la observación. 
+ 
+La señal de SCADA de potencia reactiva usada inicialmente, 
+corresponde a la potencia en el lado de baja tensión del 
+transformador elevador de la central.   
+ 
+Esta señal, en el momento de la evaluación no tiene la 
+calidad adecuada para la evaluación del desempeño de la 
+instalación en dicha instrucción, por lo que se realizan ajustes 
+para usar la señal de potencia reactiva en el lado de alta 
+tensión del transformador elevador. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+“T” correspondientes a las evaluaciones “t10Q” y 
+“t15Q” respectivamente, debido a que todos estos 
+registros, referentes a la central PFV Malgarida, 
+tienen valor de -30 para todas las instrucciones en 
+cuestión; y en consecuencia entendemos que esto 
+estaría impactando en la evaluación del Factor de 
+Desempeño, calificando todos los registros como 
+“NC” cuando se puede apreciar en las imágenes 
+n°1 a n°9 y tablas n°1 a n°9, que la central 
+estableció los movimientos de consigna de 
+reactivos entre 1 y 5 minutos a la consigna final 
+requerida. Lo que dista de lo evaluado en la BBDD 
+utilizada. 
+Dicha evaluación identifica que la central cumplió con la 
+instrucción solicitada por CDC de absorber -60 MVAr. Dicho 
+lo anterior el indicador de respuesta a 100%, ya que la 
+instrucción cambió su categoría a “Cumple”.  
+7 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Malgarida 
+Fecha: 11-06-2025 00:23 
+ 
+Se califica como NC, pero la planta presta el SSCC 
+según sus límites establecidos, tal como se 
+observa en las imágenes n°1 a n°9 y tablas n°1 a 
+n°9.  
+ 
+Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.06_Respuesta_CT” 
+de 
+la 
+V2, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe un 
+error en el registro mostrado en las columnas “P” y 
+“T” correspondientes a las evaluaciones “t10Q” y 
+“t15Q” respectivamente, debido a que todos estos 
+registros, referentes a la central PFV Malgarida, 
+tienen valor de -30 para todas las instrucciones en 
+cuestión; y en consecuencia entendemos que esto 
+estaría impactando en la evaluación del Factor de 
+Desempeño, calificando todos los registros como 
+“NC” cuando se puede apreciar en las imágenes 
+n°1 a n°9 y tablas n°1 a n°9, que la central 
+estableció los movimientos de consigna de 
+reactivos entre 1 y 5 minutos a la consigna final 
+Se acoge la observación. 
+ 
+La señal de SCADA de potencia reactiva usada inicialmente, 
+corresponde a la potencia en el lado de baja tensión del 
+transformador elevador de la central.   
+ 
+Esta señal, en el momento de la evaluación no tiene la 
+calidad adecuada para la evaluación del desempeño de la 
+instalación en dicha instrucción, por lo que se realizan ajustes 
+para usar la señal de potencia reactiva en el lado de alta 
+tensión del transformador elevador. 
+ 
+Dicha evaluación identifica que la central cumplió con la 
+instrucción solicitada por CDC de absorber -60 MVAr. Dicho 
+lo anterior el indicador de respuesta a 100%, ya que la 
+instrucción cambió su categoría a “Cumple”.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+requerida. Lo que dista de lo evaluado en la BBDD 
+utilizada. 
+8 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Malgarida 
+Fecha: 15-06-2025 22:49 
+ 
+Se califica como NC, pero la planta presta el SSCC 
+según sus límites establecidos, tal como se 
+observa en las imágenes n°1 a n°9 y tablas n°1 a 
+n°9.  
+ 
+Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.06_Respuesta_CT” 
+de 
+la 
+V2, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe un 
+error en el registro mostrado en las columnas “P” y 
+“T” correspondientes a las evaluaciones “t10Q” y 
+“t15Q” respectivamente, debido a que todos estos 
+registros, referentes a la central PFV Malgarida, 
+tienen valor de -30 para todas las instrucciones en 
+cuestión; y en consecuencia entendemos que esto 
+estaría impactando en la evaluación del Factor de 
+Desempeño, calificando todos los registros como 
+“NC” cuando se puede apreciar en las imágenes 
+n°1 a n°9 y tablas n°1 a n°9, que la central 
+estableció los movimientos de consigna de 
+reactivos entre 1 y 5 minutos a la consigna final 
+requerida. Lo que dista de lo evaluado en la BBDD 
+utilizada. 
+Se acoge la observación. 
+ 
+La señal de SCADA de potencia reactiva usada inicialmente, 
+corresponde a la potencia en el lado de baja tensión del 
+transformador elevador de la central.   
+ 
+Esta señal, en el momento de la evaluación no tiene la 
+calidad adecuada para la evaluación del desempeño de la 
+instalación en dicha instrucción, por lo que se realizan ajustes 
+para usar la señal de potencia reactiva en el lado de alta 
+tensión del transformador elevador. 
+ 
+Dicha evaluación identifica que la central cumplió con la 
+instrucción solicitada por CDC de absorber -60 MVAr. Dicho 
+lo anterior el indicador de respuesta a 100%, ya que la 
+instrucción cambió su categoría a “Cumple”.  
+9 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Malgarida 
+Fecha: 16-06-2025 11:18 
+ 
+Se califica como NC, pero la planta presta el SSCC 
+según sus límites establecidos, tal como se 
+observa en las imágenes n°1 a n°9 y tablas n°1 a 
+n°9.  
+ 
+Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.06_Respuesta_CT” 
+de 
+la 
+V2, 
+específicamente los datos contenidos en la hoja 
+Se acoge la observación. 
+ 
+La señal de SCADA de potencia reactiva usada inicialmente, 
+corresponde a la potencia en el lado de baja tensión del 
+transformador elevador de la central.   
+ 
+Esta señal, en el momento de la evaluación no tiene la 
+calidad adecuada para la evaluación del desempeño de la 
+instalación en dicha instrucción, por lo que se realizan ajustes 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+“DB_CT_Manual” ya que aparentemente existe un 
+error en el registro mostrado en las columnas “P” y 
+“T” correspondientes a las evaluaciones “t10Q” y 
+“t15Q” respectivamente, debido a que todos estos 
+registros, referentes a la central PFV Malgarida, 
+tienen valor de -30 para todas las instrucciones en 
+cuestión; y en consecuencia entendemos que esto 
+estaría impactando en la evaluación del Factor de 
+Desempeño, calificando todos los registros como 
+“NC” cuando se puede apreciar en las imágenes 
+n°1 a n°9 y tablas n°1 a n°9, que la central 
+estableció los movimientos de consigna de 
+reactivos entre 1 y 5 minutos a la consigna final 
+requerida. Lo que dista de lo evaluado en la BBDD 
+utilizada. 
+para usar la señal de potencia reactiva en el lado de alta 
+tensión del transformador elevador. 
+ 
+Dicha evaluación identifica que la central cumplió con la 
+instrucción solicitada por CDC de absorber -60 MVAr. Dicho 
+lo anterior el indicador de respuesta a 100%, ya que la 
+instrucción cambió su categoría a “Cumple”.  
+10 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Malgarida 
+Fecha: 21-06-2025 09:01 
+ 
+Se califica como NC, pero la planta presta el SSCC 
+según sus límites establecidos, tal como se 
+observa en las imágenes n°1 a n°9 y tablas n°1 a 
+n°9.  
+ 
+Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.06_Respuesta_CT” 
+de 
+la 
+V2, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe un 
+error en el registro mostrado en las columnas “P” y 
+“T” correspondientes a las evaluaciones “t10Q” y 
+“t15Q” respectivamente, debido a que todos estos 
+registros, referentes a la central PFV Malgarida, 
+tienen valor de -30 para todas las instrucciones en 
+cuestión; y en consecuencia entendemos que esto 
+estaría impactando en la evaluación del Factor de 
+Desempeño, calificando todos los registros como 
+“NC” cuando se puede apreciar en las imágenes 
+n°1 a n°9 y tablas n°1 a n°9, que la central 
+estableció los movimientos de consigna de 
+Se acoge parcialmente la observación. 
+ 
+La señal de SCADA de potencia reactiva usada inicialmente, 
+corresponde a la potencia en el lado de baja tensión del 
+transformador elevador de la central.   
+ 
+Esta señal, en el momento de la evaluación no tiene la 
+calidad adecuada para la evaluación del desempeño de la 
+instalación en dicha instrucción, por lo que se realizan ajustes 
+para usar la señal de potencia reactiva en el lado de alta 
+tensión del transformador elevador. 
+ 
+A pesar del ajuste, se observa que en el inicio de la 
+instrucción la unidad se encontraba inyectando 0,11MVAr, 
+mientras que a los 15 minutos esa condición se mantuvo, por 
+lo que la unidad no cumplió con la instrucción dada por CDC. 
+Dicho lo anterior el indicador de respuesta no cambia.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+reactivos entre 1 y 5 minutos a la consigna final 
+requerida. Lo que dista de lo evaluado en la BBDD 
+utilizada. 
+11 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV Malgarida 
+Fecha: 30-06-2025 09:33 
+ 
+Se califica como NC, pero la planta presta el SSCC 
+según sus límites establecidos, tal como se 
+observa en las imágenes n°1 a n°9 y tablas n°1 a 
+n°9.  
+ 
+Se 
+solicita 
+revisar 
+el 
+documento 
+“2025.06_Respuesta_CT” 
+de 
+la 
+V2, 
+específicamente los datos contenidos en la hoja 
+“DB_CT_Manual” ya que aparentemente existe un 
+error en el registro mostrado en las columnas “P” y 
+“T” correspondientes a las evaluaciones “t10Q” y 
+“t15Q” respectivamente, debido a que todos estos 
+registros, referentes a la central PFV Malgarida, 
+tienen valor de -30 para todas las instrucciones en 
+cuestión; y en consecuencia entendemos que esto 
+estaría impactando en la evaluación del Factor de 
+Desempeño, calificando todos los registros como 
+“NC” cuando se puede apreciar en las imágenes 
+n°1 a n°9 y tablas n°1 a n°9, que la central 
+estableció los movimientos de consigna de 
+reactivos entre 1 y 5 minutos a la consigna final 
+requerida. Lo que dista de lo evaluado en la BBDD 
+utilizada. 
+No se acoge la observación. 
+ 
+La central fue instruida a bajar su Q en 60 MVAr, pero solo 
+baja 31 MVAr aproximadamente partiendo en 1 MVAr al 
+momento de la instrucción. El coordinado indica que la 
+prestación del SC cumplió dentro de los límites establecidos, 
+pero según carta de verificación del CT (DE04726-22), para 
+el nivel de tensión (1,05 p.u. aproximadamente) e inyección 
+de Potencia activa (100 MW aproximadamente) la capacidad 
+de absorción de reactivos al momento de la instrucción es de 
+-166 MVAr.  
+ 
+Por lo tanto, la observación es rechazada y se mantiene 
+evaluación No Cumple. 
+12 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV EL 
+ROMERO 
+Fecha: 29-06-2025 17:52 
+ 
+Se observa a la V2 del Informe del Factor de 
+Desempeño lo siguiente: Se califica como NC, pero 
+se corrobora mediante grabación de Hotline, que 
+despachador instruye mantener prestando el 
+servicio, por lo que el registro de RIO no 
+corresponde a una nueva instrucción, sino a la 
+instrucción de continuidad del servicio debido a fin 
+No se acoge la observación. – Aclaración. 
+ 
+De acuerdo con lo establecido en las Reglas de la OTR, las 
+instrucciones de CT emitidas por el CDC se mantendrán 
+vigentes mientras la planta posea recurso primario que le 
+permita generar potencia activa. Una vez que el valor de la 
+potencia activa sea nulo, por ausencia del recurso primario, 
+se considerará el servicio de CT terminado por lo que los 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+del recurso primario. A pesar de lo anterior, el 
+registro se mantiene y se evalúa como “NC” 
+impactando en el FD de la central. 
+respectivos CCs deberán ajustar la consigna de potencia 
+reactiva de la central ERV a cero MVAr. 
+ 
+En esta instrucción el despachador de CDC indica 
+adecuadamente que la unidad debe continuar prestando el 
+servicio sin recurso, ya que al no disponer de recurso 
+primario la unidad debió volver a 0 MVAr a la espera de una 
+nueva instrucción. Cabe destacar que las reglas son 
+explícitas en indicar que una instrucción del tipo “Continúa 
+SSCC-CT” es solo al crear un registro a las 00:00 horas 
+donde se arrastre la prestación desde el día anterior.  
+ 
+Dicho lo anterior se revisan los antecedentes y se reitera que 
+la instrucción de las 17:52 horas es un inicio de una 
+activación sin recurso primario y no una continuidad, por lo 
+que se rechaza la observación.  
+ 
+Las Reglas de Operación vigentes pueden ser descargadas 
+del sitio web del Coordinador de la siguiente ruta: Inicio > 
+Informes 
+y 
+Estudios 
+> 
+Operación 
+> 
+Servicios 
+Complementarios > Reglas de Operación de Servicios 
+Complementarios 
+13 
+Enel 
+Generación 
+Chile S.A. 
+CPF 
+HE RAPEL U1 a 
+U4 
+Se detectó que archivos cargados durante el mes 
+de junio para unidades U1, U2, U3 y U4 
+presentaron errores en la data de potencia 
+informada causando que el desempeño de dichas 
+unidades fuera mal evaluado. Este error ya fue 
+subsanado en entregas de julio y las cargadas 
+diariamente durante agosto. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se incorporan los registros 
+actualizados de las unidades HE Rapel U1, U2, U3 y U4, las 
+cuales quedan con un factor de desempeño mensual de 
+100%. 
+ 

@@ -1,0 +1,98 @@
+ 
+1 
+ 
+April 2, 2026 
+ 
+Attention: Members of the Managing Board 
+Coordinador Eléctrico Nacional (“CEN”) 
+Av. Parque Isidora 1061   
+Pudahuel, Santiago  
+Chile 
+ 
+RE: 
+Exploring Opportunities for PSCAD Collaboration with CEN 
+ 
+Dear Members of the Managing Board, 
+ 
+Munoz Munoz Limitada (“Munoz”) is the authorized representative of Manitoba Hydro 
+International Ltd. (“MHI”) in Chile. MHI is the developer and owner of PSCAD™ and has a proven 
+track record in electromagnetic transient (EMT)–based modeling and simulation, supporting 
+utilities and system operators worldwide in system planning and operational studies. 
+ 
+In April 2024, MHI and Munoz had the opportunity to meet with CEN engineering experts to 
+discuss EMT simulations, highlight the importance of using vendor-level, real-code EMT models, 
+and offer support from MHI. As part of that conversation, we also highlighted how PSCAD is widely 
+used by vendors to create detailed models that accurately reflect the performance of their power 
+electronics devices, including, without limitation, high-voltage direct current (“HVDC”), wind, solar, 
+battery energy storage systems (“BESS”), and others.  
+ 
+Although we have not had further discussions after the 2024 meeting, we remain available to 
+support the development of a wide-area model in PSCAD, enabling original equipment 
+manufacturer (“OEM”) models to be readily included in critical simulations. 
+ 
+We learned of the recent Chilean blackout. We recognize that events of this nature can pose 
+significant challenges when attempting to replicate them for future grid studies. In light of this, we 
+emphasize the importance of using real-code models, which provide a robust framework for 
+accurately analyzing complex system behaviours. 
+ 
+We remain fully committed to supporting the Chilean energy system in every way possible, and we 
+welcome guidance from CEN on if and how we may contribute. PSCAD continues to be a valuable 
+tool for developers and plant owners, particularly those facing oscillations that require deeper 
+investigation beyond what generic models can offer.   Real-code OEM models play a critical role in 
+these cases, and we hope to collaborate in ways that reinforce their value, while supporting 
+broader goals of system reliability and resilience. 
+ 
+CEN holds PSCAD licenses, and as a valued customer, we would like to share the following outline 
+of services, which MHI would be pleased to discuss, should these be of interest to CEN: 
+• 
+Conversion of the entire transmission network system into PSCAD format, including: 
+o 
+Integration of dynamic models into the network, benchmarked and tested for 
+accuracy. 
+
+ 
+ 
+ 
+ 
+ 
+Page 2 of 2 
+o 
+Tools to extract specific portions of the network for targeted EMT studies (auto 
+extraction of a smaller part of the network for any specific study). 
+o 
+Methods to seamlessly generate study scenarios (e.g., different operating 
+conditions and future-year cases) from the base PSCAD case. 
+o 
+Supplementary tools to automate contingency studies and analyze results. 
+• 
+Coordination with equipment vendors to help procure necessary models when vendor-
+provided versions are unavailable for certain equipment or plants. 
+• 
+A 3-4-day PSCAD training session in Chile, tailored to CEN’s needs. 
+• 
+Support in conducting a wide-area EMT stability analysis for a selected network condition, 
+along with knowledge transfer. 
+ 
+Munoz is pleased to provide this informational outline for CEN’s consideration and discussion 
+purposes on behalf of MHI.  
+ 
+We hope that the services outlined are of interest, and we would appreciate a meeting at your 
+convenience to discuss further if it aligns with CEN’s current priorities. We look forward to the 
+opportunity to support your team. 
+ 
+Best Regards, 
+ 
+ 
+ 
+ 
+ 
+Mauricio Muñoz M. 
+ 
+--  
+Power Business - M&M Limitada 
+PSCAD Rep. Argentina, Bolivia, Chile, Colombia y Perú 
+RTDS Simulator Rep. Chile 
+info@powerbusiness.cl  
+ 
+ 
+ 

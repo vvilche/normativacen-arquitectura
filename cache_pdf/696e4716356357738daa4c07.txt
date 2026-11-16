@@ -1,0 +1,72 @@
+ 
+ 
+ 
+GO N° 015/2026 
+Santiago, 16 de enero de 2026 
+ 
+Señora  
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.:  Respuesta de Colbún por el desempeño deficiente en la prestación del Control de 
+Tensión en la unidad N°1 de la central Canutillar. 
+ 
+Ant.:  [1] Carta DE 08422-25, fecha 31 de diciembre de 2025, Ref.: “Desempeño deficiente en la 
+prestación de los Servicios Complementarios de Control Primario de Frecuencia, Control 
+Terciario de Frecuencia y Control de Tensión de las unidades generadoras.” 
+ 
+[2] Carta DE 00124-26, fecha 06 de enero de 2026, Ref.: “Envía informes técnicos de 
+verificación de Control de Tensión de la central hidroeléctrica Canutillar.” 
+ 
+ 
+De nuestra consideración:  
+ 
+En relación con su carta Ant. [1] mediante la cual nos solicita informar los motivos y acciones que 
+permitan normalizar el comportamiento presentado por la unidad N°1 de la central Canutillar en la 
+prestación del Servicio Complementario de Control de Tensión, durante los meses de agosto, 
+septiembre y octubre de 2025, se ha revisado la situación y quisiera informar lo siguiente: 
+ 
+En primer lugar, tal y como menciona la carta se ha identificado que, para ambas unidades 
+de la central Canutillar, las curvas P-Q informadas al Coordinador no reflejan la capacidad 
+de reactivos reales que estas tienen disponibles. En este contexto, durante el mes de 
+noviembre del 2025 Colbún S.A. realizó pruebas de verificación de Control de Tensión a 
+cargo del Experto Técnico Estudio Eléctricos. Los informes técnicos asociados a estas 
+pruebas fueron entregados al Coordinador el 06 de enero de 2026 mediante la carta 
+DE00124-26. Estas pruebas tuvieron como objetivo relevar la curva P-Q real de ambas 
+unidades de la central. Actualmente los informes se encuentran en revisión por parte del 
+Departamento Control de Operación del Coordinador, esperamos que una vez aprobadas el 
+Coordinador las utilice como referencia. 
+ 
+Respecto al desempeño deficiente que ha presentado la unidad N°1 de la central Canutillar 
+durante los meses antes mencionados, hemos identificado que estos se deben principalmente 
+a diferencias entre la señal de tensión con la que el Coordinador evalúa el servicio respecto 
+a la señal que utiliza el operador en la central como referencia para verificar el valor de la 
+tensión de la barra de 220kV de la S/E Puerto Montt, la cual es propiedad del Coordinado 
+Transelec S.A., por lo que su calidad no depende de Colbún. Asimismo, al comparar la 
+evaluación del Coordinador con la propia de Colbún se observan diferencias importantes 
+entre el valor del voltaje que tiene disponible cada uno en tiempo real.  
+
+ 
+ 
+ 
+Lo anterior se repite en todas las instalaciones que participan del Control de Tensión Manual, 
+y que se evalúan en instalaciones de terceros. En atención a lo anterior resulta relevante que 
+el Coordinador indique en su informe mensual de evaluación de los SSCC cuál es el TAG 
+preciso con el cual se está verificando el servicio, así como también permita a los 
+Coordinados disponer de las mismas para el correcto seguimiento de las instrucciones 
+recibidas.  
+ 
+A modo de complemento de la situación descrita, se adjunta a la presente carta los informes 
+de evaluación del servicio de Control de Tensión elaborados por Colbún S.A. durante los 
+meses de agosto, septiembre y octubre del 2025 para las unidades de la central Canutillar, 
+en los cuales se evidencian estas diferencias de valores de la tensión en la S/E Puerto Montt. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+Sebastián Ruiz-Tagle Mena 
+Encargado Titular 
+COLBÚN S.A. 

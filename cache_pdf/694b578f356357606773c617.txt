@@ -1,0 +1,185 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 23 de diciembre de 2025 
+DE 08182-25 
+Señor 
+Sebastián Ruiz Tagle 
+Encargado Titular 
+Colbún S.A 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+SC de Partida Autónoma (PA) de las unidades 
+U1 y U2 de Central HE Colbún. 
+[1] Carta GO N°259/2025 del coordinado 
+Colbún S.A. Ref.: “Observaciones a Informes 
+de Verificación de Partida autónoma (PA) de 
+Unidades HE Colbún U1 y U2”, de fecha 29 de 
+octubre de 2025. 
+Responde a Ingreso DE10964-25  
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT SSCC), ha finalizado 
+el proceso de verificación del Servicio Complementario (SC) de Partida Autónoma (PA) de 
+las unidades U1 y U2 de la central HE Colbún. Como resultado de este proceso, las 
+unidades mencionadas quedan habilitadas para la prestación del mencionado servicio 
+considerando los recursos indicados en el anexo a la presente carta. 
+ 
+El informe técnico que justifica la verificación de la capacidad de la prestación del SC de 
+PA de las unidades mencionadas, ha sido publicado en la siguiente ruta de la página web 
+del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Plan de 
+Recuperación de Servicio > Partida Autónoma > Central HE Colbún 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+c.c.: 
+ 
+Empresas Coordinadas 
+Rafael Zamorano – Encargado Suplente Colbún S.A. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación del SC de Partida Autónoma 
+de las unidades 1 y 2 de Central HE Colbún 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central HE Colbún 
+• Unidad U1 
+• Unidad U2 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Plan de Recuperación 
+de Servicio (PRS) 
+Partida Autónoma 
+(PA) 
+Partida Autónoma (PA) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Las condiciones particulares del sistema de transmisión consisten en mantener 
+desconectadas las compensaciones serie de la línea 2x220 kV Colbún–Puente 
+Negro, ya que esta condición es necesaria para iniciar la PA de las unidades. 
+b) Cuenta con la posibilidad de operar en modo isla para los procesos de Partida 
+Autónoma regulando su propia frecuencia y de la isla eléctrica que se forma en caso 
+de ejecución del PRS. 
+c) La tasa de toma de carga recomendada es menor a 25MW/min. Los primeros 
+escalones se toman de forma instantánea, posteriormente los gradientes de toma 
+de carga de las unidades dependerán de los eventos de conexión de carga y 
+generación que se vayan dando en el sistema.  
+d) En caso de producirse una salida intempestiva de la unidad en cualquier etapa de 
+su arranque, se deberá esperar su detención completa, es decir, que alcance 0 RPM 
+y se active el indicador de “unidad lista para partir”. 
+e) Cuando las unidades operan en vacío, estas no tienen limitación de tiempo para 
+permanecer en velocidad de sincronismo sin tomar carga. 
+f) En estas condiciones, las unidades pueden operar a cargas inferiores a su mínimo 
+técnico por un período máximo de 500 horas anuales, conforme a la recomendación 
+del fabricante. 
+g) Tiempos de autonomía de la unidad asociado a nivel embalse. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Colbún S.A 
+ 
+5. Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la 
+instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+ 
+Ver tabla en página siguiente. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Partida Autónoma: 
+ 
+SSCC 
+Plan de Recuperación de Servicio 
+Categoría 
+Partida autónoma 
+Subcategoría 
+Partida autónoma 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+HE Colbún 
+Hidráulica 
+Potencia Máxima [MW] 
+231,2 
+232 
+Tiempo de Sincronización [min] (1) 
+11,97 
+12,82 
+Tasa de Toma de Carga [MW/min] 
+(6) 
+26,1 
+37,1 
+Tiempo de Autonomía [hr] (2) 
+Sin limitaciones Sin limitaciones 
+Modo de Control 
+Regulador de 
+velocidad en 
+modo isla 
+Regulador de 
+velocidad en 
+modo isla 
+Requiere Equipamiento Adicional (3) 
+Si 
+Si 
+Primer Escalón de carga [MW] (4) 
+30 
+30 
+Escalones sucesivos de carga [MW] 
+25 
+25 
+Tiempo nuevo arranque en caso de 
+desconexión intempestiva [min]  
+20 
+20 
+Tiempo permanencia en vacío (5) 
+Sin restricción 
+Sin restricción 
+ 
+(1) Tiempo asociado a la partida de unidades generadoras que prestan el SC de PA, correspondiente al intervalo 
+que transcurre desde que se solicita la partida autónoma hasta el cierre contra barra muerta de la central. Lo 
+anterior, considerando que las unidades se encuentren disponibles, es decir no considera tiempos para 
+validar integridad de instalaciones luego de un siniestro provocado por: terremoto, tsunami, aluvión, crecida, 
+incendio, entre otros. 
+(2) Tiempo de autonomía sujeto a disponibilidad de recurso primario (agua embalse). 
+(3) Cuenta con grupo electrógeno auxiliar a petróleo, con una autonomía de 7 horas a plena carga. 
+(4) Primer escalón de carga que puede tomar la unidad sin poner en riesgo la estabilidad de la unidad en este 
+proceso. 
+(5) Tiempo máximo de permanencia en giro en vacío (sin carga) no tiene restricción.  
+(6) Tasa de Toma de Carga depende de la demanda disponible, siendo recomendable mantenerla bajo los 25 
+[MW/min]. Los valores de la tabla corresponden a los obtenidos durante las pruebas. 

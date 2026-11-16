@@ -1,0 +1,243 @@
+ 
+ 
+1 
+ 
+ 
+ 
+CARTA MINENERGIA N° 
+ANT.: 
+1) Decreto Exento N°134, de 24 de junio de 
+2022, del Ministerio de Energía, que otorga 
+a empresa AES Andes S.A. permiso de 
+intercambio internacional de energía y 
+demás servicios eléctricos con la República 
+Argentina. 
+2) Carta AR-030206-2026, de 3 de febrero 
+de 2026, de AES Andes S.A. 
+3) Carta N°60, de 17 de febrero de 2026, de 
+la Subsecretaría de Energía. 
+4) Carta AR-170206-2026, de 17 de febrero 
+de 2026, de AES Andes S.A. 
+5) Carta N°65, del 20 de febrero de 2026, 
+de la Subsecretaría de Energía. 
+6) Carta DE 01844-26, del 20 de marzo de 
+2026, del Coordinador Eléctrico Nacional. 
+7) Oficio Ordinario N°319, de 20 de marzo 
+de 2026, de la Comisión Nacional de 
+Energía. 
+8) Oficio Ordinario N°330305, de 27 de abril 
+de 2026, de la Superintendencia de 
+Electricidad y Combustibles. 
+9) Documento denominado “Actualización 
+de Minuta DAOP Nº 02/2025. Evaluación 
+de alternativas topológicas para maximizar 
+las inyecciones de generación de las 
+centrales conectadas al nodo Jadresic 220 
+kV en la zona Norte Grande del SEN”, 
+emitido por el Coordinador Eléctrico 
+Nacional. 
+MAT.: 
+Solicita informe complementario en virtud 
+de la presentación realizada por la empresa 
+AES ANDES S.A. 
+ 
+SANTIAGO, 
+ 
+Señor,  
+Ramón Castañeda  
+Director Ejecutivo  
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+De mi consideración, 
+Junto con saludar, mediante la carta de ANT. 5), el Ministerio de Energía solicitó al Coordinador Eléctrico 
+Nacional, en adelante el “Coordinador” emitir un informe técnico en relación con la solicitud presentada 
+por la Empresa, en adelante la “Solicitante” o la “Empresa” para la modificación de las condiciones del 
+permiso de intercambio internacional de energía eléctrica otorgado mediante el ANT. 1). 
+Luego, mediante la carta referida en ANT. 6), el Coordinador remitió su Informe Técnico denominado 
+“Análisis solicitud de Intercambios Internacionales realizada por AES Andes – Febrero 2026”, que contiene 
+157
+20 de mayo 2026
+
+ 
+ 
+2 
+ 
+ 
+el análisis técnico, operativo y económico respecto de la solicitud formulada por la Empresa, en relación 
+con su impacto en la seguridad y calidad del servicio del Sistema Eléctrico Nacional, en adelante “SEN”, 
+así como en su operación económica, además de lo informado por medio de los documentos señalados 
+en ANT. 7) y ANT. 8). 
+Asimismo, en el marco de los análisis desarrollados por el Coordinador, y con el objeto de realizar una 
+revisión completa del requerimiento presentado por la Solicitante, se ha considerado la necesidad de 
+tener presente la actualización de la Minuta DAOP N°02/2025 referida en el ANT. 9), en adelante la 
+“Minuta”, cuyos antecedentes y conclusiones resultan pertinentes para la evaluación de las condiciones 
+operativas del sistema eléctrico vinculadas con la materia objeto de la solicitud. 
+En atención a lo anterior, solicita a usted tenga a bien remitir un informe complementario destinado a dar 
+respuesta a las solicitudes de aclaración contenidas en el presente requerimiento, de acuerdo con el 
+detalle que se indica a continuación. 
+ 
+A. Respecto del documento citado en el ANT. 9), se solicita pronunciarse sobre los siguientes aspectos: 
+1. En relación con los trabajos de reemplazo de los TT/CC en las SS/EE Laberinto, Andes y Nueva 
+Zaldívar, y cambio de tap de los TT/CC en las SS/EE Andes y Monte Mina, se solicita indicar lo que 
+sigue:    
+a) Fecha de entrada en operación de las instalaciones anteriormente mencionadas; 
+b) Impacto en las condiciones de la zona con ocasión de su entrada en operación. En 
+particular, indicar la capacidad de evacuación de energía de la zona en horario nocturno 
+antes de los trabajos, y a cuánto aumentó posterior a ellos. 
+2. En relación con lo expuesto en el acápite “Análisis y Resultados” de la Minuta, se sostuvo que “[A]l 
+activarse restricciones de transmisión en la línea 220 kV Monte Mina - Nueva Zaldívar, así como 
+también podría ocurrir con la línea 220 kV Nueva Zaldívar - Sulfuros, las topologías 2 o 3 resultan 
+ser una medida de mitigación para reducir las congestiones en dichas líneas a cambio de mantener 
+el enmallamiento, siendo la topología 1 aquella que en su defecto maximiza esas inyecciones.”. 
+Conforme a lo anterior, se solicita indicar: (i) si existen modificaciones topológicas que permitan 
+disminuir las restricciones de transmisión en la zona y que, en consecuencia, posibiliten aumentar 
+la capacidad de evacuación de energía a que se refiere el literal b) del numeral anterior; y (ii) la 
+nueva capacidad máxima factible de evacuación de energía de dicha zona. 
+3. Respecto del esquema “Automatismo EDAG/ERAG Parinas - Monte Mina - Nueva Zaldívar 220 
+kV”, NUP 5594, se requiere informar la fecha estimada de su entrada en operación. Asimismo, se 
+solicita indicar si la implementación de dicho automatismo podría incidir en los resultados de 
+seguridad del sistema y en la configuración de eventuales condiciones en que los sistemas de 
+almacenamiento de energía no hayan podido descargar la totalidad de la energía almacenada 
+disponible antes de su siguiente ciclo de carga, en adelante “Vertimiento de Energía Almacenada”, 
+en la zona. 
+ 
+B. En cuanto al Informe Técnico denominado “Análisis solicitud de Intercambios Internacionales 
+realizada por AES Andes en Feb-2026" adjunto al ANT. 6): 
+1. En el numeral 3.1.2 del Informe, se indica que “[D]urante el periodo nocturno el recurso energético 
+previamente almacenado en la componente de almacenamiento de las centrales de AES Andes, es 
+efectivamente aprovechado por el sistema, salvo en situaciones particulares de exceso de 
+generación eólica en la zona que han provocado que las baterías no han podido descargar.”. 
+Respecto de las situaciones particulares a las que se alude, se solicita indicar: 
+a) Detalle de los eventos verificados, con indicación de: (i) la fecha de ocurrencia de cada 
+evento; (ii) la cantidad de energía almacenada que no pudo ser inyectada antes del 
+siguiente ciclo de carga; (iii) la cantidad de energía almacenada efectivamente inyectada; 
+(iv) instalaciones y/o eventos que dieron origen a las restricciones de transmisión 
+observadas; (v) el perfil de inyecciones de los sistemas de almacenamiento involucrados; 
+(vi) el perfil de inyecciones de otras centrales generadoras en la zona, durante  todo el 
+horario nocturno y hasta el siguiente periodo de carga; 
+
+ 
+ 
+3 
+ 
+ 
+b) Los horarios que fueron considerados como disponibles para la inyección, a efectos de 
+determinar la condición de Vertimiento de Energía Almacenada;  
+c) Proyección de la eventual reiteración de eventos como los descritos en el informe. En 
+caso de estimarse su ocurrencia futura, se solicita identificar los montos estimados de 
+energía almacenada que no podrían ser inyectados al SEN antes del siguiente ciclo de 
+carga, desagregados según las variables que el Coordinador estime relevantes, tales como 
+el nivel de energía renovable disponible en la zona y su probabilidad de ocurrencia. 
+2. Respecto del bypass entre el circuito 2 de la línea 2x220 kV Andes – Futuro y los transformadores 
+de la S/E Andes, mencionado en el acápite “Cambios topológicos asociados a la solicitud”, se 
+requiere lo siguiente: 
+a) Describir en mayor detalle su configuración eléctrica y las topologías asociadas, con 
+indicación de su modo de operación esperado (operación normal, bajo contingencia, o 
+ambas), así como las razones técnicas que justifican su necesidad, considerando que dicho 
+bypass no fue considerado en el proyecto Parque Andes Solar III y Adecuaciones en S/E 
+Futuro, NUP 4857; 
+b) Indicar si el bypass es una condición necesaria para acceder a la solicitud de exportación 
+de energía almacenada en los términos requeridos por AES Andes. En caso de contar no 
+con el bypass, indicar la potencia máxima factible de exportar en el horario solicitado. 
+ 
+3. Respecto de la ampliación del concepto de vertimiento asociado a los sistemas de 
+almacenamiento, se solicita indicar si el Coordinador ha evaluado escenarios en los cuales la 
+exportación de energía almacenada, –en los términos planteados por la Empresa–, pudiera 
+implicar sobrecostos de operación para el SEN. En caso afirmativo, se solicita identificar dichos 
+escenarios y precisar las medidas de mitigación identificadas. 
+4. En cuanto a la operación segura del SEN, se solicita indicar si el Coordinador ha identificado riesgos 
+en el desempeño del Plan de Recuperación de Servicio, en adelante “PRS”, particularmente 
+aquellos relativos a un aumento en los tiempos de recuperación del sistema, debido a las 
+configuraciones operativas asociadas a la exportación de energía. 
+5. En virtud de las facultades otorgadas el Coordinador en el artículo 72°-10 de la Ley General de 
+Servicios Eléctricos, se solicita incluir un pronunciamiento respecto de una eventual afectación a 
+las condiciones de competencia en los mercados, asociada a las condiciones operativas 
+consideradas en la solicitud. 
+6. Se solicita indicar si existen proyectos que permitan mejorar las condiciones previstas de 
+vertimiento de energía almacenada en la zona. En caso afirmativo, se requiere detallar, para cada 
+uno de dichos proyectos: (i) su estado de avance, precisando si se encuentran en periodo de 
+puesta en servicio, contemplados en la planificación de la expansión de la transmisión, o en otra 
+etapa de desarrollo; (ii) la fecha estimada de entrada en operación; y (iii) el efecto esperado sobre 
+las condiciones de operación del sistema, en particular respecto de la reducción o mitigación del 
+vertimiento de energía. 
+7. Se solicita indicar si en el Informe Técnico fue considerada la exportación de los pequeños medios 
+de generación distribuida, en adelante “PMGD”, de tipo fotovoltaico, indicados en el Anexo N°4 
+del ANT. 2) denominado “Factibilidad de Maximizar Inyección al SADI”, los cuales, de acuerdo con 
+lo informado en la misiva, corresponderían a una capacidad de 24 MW conectados al nivel 
+terciario del ATR1 de la S/E Andes. Adicionalmente, se solicita Indicar: (i) si dichos PMGD se 
+encuentran actualmente en operación; (ii) la identificación de sus propietarios; y (iii) si dichas 
+instalaciones califican como candidatas a exportar energía. 
+C. En atención a lo informado por la Comisión mediante el ANT. 7) y por la Superintendencia a través 
+del ANT. 8), en relación con la solicitud presentada por la Empresa, se solicita lo siguiente: 
+1. Efectuar un análisis técnico que considere la verificación de los distintos parámetros operativos 
+relevantes, las topologías consideradas y las variables de operación del sistema, con el objetivo 
+de validar las capacidades de transferencia de exportación a través del enlace. Lo anterior, en 
+atención a que las capacidades de exportación informadas por la Solicitante se sustentan en gran 
+
+ 
+ 
+4 
+ 
+ 
+medida en el aporte de generación de las centrales fotovoltaicas conectadas a la línea de 
+interconexión. 
+2. Realizar la verificación de la compatibilidad entre la capacidad potencial de exportación a través 
+de las centrales generadoras y de los sistemas de almacenamiento de energía, y la capacidad de 
+transferencia disponible del enlace internacional, de conformidad con los estudios eléctricos 
+acompañados por la Empresa. 
+3. En relación con los tiempos de maniobra requeridos, se solicita referirse a los siguientes aspectos: 
+a) Verificar que se mantienen los tiempos de maniobra actualmente vigentes, según lo 
+indicado en el Anexo N°3 del ANT. 2), en atención a la incorporación de un mayor número 
+de instalaciones a las maniobras; 
+b) Contrastar dichos tiempos con los observados en la operación real, estableciendo 
+métricas que permitan detectar desviaciones relevantes; y  
+c) Verificar que los tiempos observados en la operación real resulten suficientes para 
+garantizar una operación segura, así como el cumplimiento del carácter de interrumpible 
+del intercambio internacional. 
+4. En cuanto a los protocolos operativos vigentes entre el Coordinador y CAMMESA, y en virtud de 
+la solicitud formulada por la Empresa, se solicita indicar la procedencia de actualizar dichos 
+protocolos, con expresa mención a los esquemas de automatismo, los límites de potencia 
+diferenciados y los mecanismos de supervisión en tiempo real, de conformidad con las 
+modificaciones en las condiciones previstas en el Decreto Exento N°134, de 2022, bajo los 
+siguientes escenarios: 
+a) Incorporación de sistemas de almacenamiento, manteniendo la capacidad de 
+transferencia en 80 MW el límite de intercambio; e 
+b) Incorporación de sistemas de almacenamiento, aumentando la capacidad de 
+transferencia a 250 MW. 
+ 
+El informe requerido deberá remitirse dentro del plazo de 15 días hábiles, contados desde la notificación 
+de la presente comunicación. 
+Sin otro particular,  
+Saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+VIVIANA PEREZ RIVERA 
+SUBSECRETARIA DE ENERGÍA (S) 
+ 
+ 
+ 
+ 
+DISTRIBUCIÓN: 
+- 
+Coordinador Eléctrico Nacional. 
+- 
+AES Andes S.A. (Los Conquistadores 1730, comuna de Providencia, Santiago, correos electrónicos: paola.hartung@aes.com; 
+alan.alvarez@aes.com; daniella.bustos@aes.com). 
+- 
+Gabinete Ministra de Energía. 
+- 
+Gabinete Subsecretario de Energía. 
+- 
+División Jurídica, Ministerio de Energía. 
+- 
+División de Mercados Eléctricos, Ministerio de Energía. 
+- 
+Oficina de Partes – Archivo, Ministerio de Energía. 
+Este Documento ha sido firmado electrónicamente de acuerdo a la ley Nº 19.799
+Código: 1779114181796 validar en
+https://validadoc.minenergia.cl/Documento?codigoid=1779114181796
+JGE/DTN/ASA/JRU/IAB/RGI/PHV/FTM/phv
+Código: 1779322031484F321 validar en  https://www3.esigner.cl:8543/EsignerValidar/verificar.jsp

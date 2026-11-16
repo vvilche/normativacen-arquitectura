@@ -1,0 +1,152 @@
+ 
+ 
+ Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 21 de enero de 2026 
+DE 00414-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de los Parámetros para los 
+Procesos de Partida y Detención de la Central TER 
+Los Pinos. 
+[1] Carta GO N° 265/2025, Ref.: “Respuesta a 
+Observaciones al informe de Parámetros de Partida 
+y Detención de la Central TER Los Pinos.”, de fecha 
+07 de noviembre de 2025. Ingreso DE11226-25. 
+[2] 
+Carta 
+DE08010-25, 
+Ref.: 
+“Informe 
+de 
+Parámetros de Partida y Detención de la Central 
+TER Los Pinos”, de fecha 17 de diciembre de 2025. 
+ 
+De nuestra consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras”, 
+comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de los valores 
+de los parámetros de partida y detención de central TER Los Pinos, en conformidad con el 
+Informe Técnico recibido mediante la carta de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+técnico ya mencionado publicado en la página web del Coordinador mediante carta de la 
+Ref. [2]. Por su parte, el Coordinador no realizó observaciones de carácter técnico al Informe 
+antes mencionado. 
+ 
+Al respecto, los valores de los parámetros de Partida y Detención de la central TER Los 
+Pinos, se indican en las tablas incorporadas en el Anexo de la presente carta.  
+ 
+En cumplimiento del Artículo 13 del Anexo Técnico en mención, los parámetros para los 
+procesos de Partida y Detención mencionados entrarán en vigencia a partir de las 00:00 
+horas del viernes 23 de enero de 2026. 
+ 
+El informe de parámetros de partida y detención que contiene la justificación de los 
+parámetros indicados anteriormente puede ser descargado en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación > Parámetros operacionales de unidades generadoras > 
+Parámetros de Partida y Detención > Informes Determinación de Parámetros para 
+Procesos de Partida y Detención de Unidades Generadoras > Central TER Los Pinos 
+> 2026 
+ 
+ 
+
+ 
+ 
+ Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GZV/CRV/PPF/SGM/adr 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Parámetros de Partida y Detención de la Central TER Los Pinos 
+ 
+El consumo de combustible, utilizados en la determinación de los Parámetros de Partida y 
+Detención de la central TER Los Pinos, se encuentran referenciados a una base de poder 
+calorífico de 11.000 [kcal/kg] para petróleo Diesel. Además, se considera una densidad para 
+el petróleo diésel de 0,85 [T/m3]. 
+ 
+Tabla 1. Parámetros del proceso de partida TER Los Pinos con combustible Diésel 
+Etapa 
+Parámetro 
+Unidad 
+Partida – Sincronización 
+Diésel [ton] 
+0,1910 
+Consumo SSAA [MWh] 
+0,0090 
+Tiempo [min] 
+4,9000 
+Sincronización – Mínimo Técnico 
+Diésel [ton] 
+0,0550 
+Consumo SSAA [MWh] 
+0,0109 
+Tiempo [min] 
+0,5700 
+Mínimo Técnico – Potencia Nominal 
+Diésel [ton] 
+0,9730 
+Consumo SSAA [MWh] 
+0,0552 
+Tiempo [min] 
+2,8800 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención TER Los Pinos con combustible Diésel 
+Etapa 
+Parámetro 
+Unidad 
+Potencia Nominal – Mínimo Técnico 
+Diésel [ton] 
+0,9730 
+Consumo SSAA [MWh] 
+0,0552 
+Tiempo [min] 
+2,8800 
+Mínimo Técnico – Desconexión 
+Diésel [ton] 
+0,0550 
+Consumo SSAA [MWh] 
+0,0109 
+Tiempo [min] 
+0,5700 
+Desconexión – Detención (1) 
+Diésel [ton] 
+0,0351 
+Consumo SSAA [MWh] 
+0,0165 
+Tiempo [min] 
+9,0000 
+ 
+(1) 
+Se considera que el estado de detención es cuando entra en virado. 
+ 
+ 
+El tiempo mínimo de operación (TMO) es de 0 [min]. 
+El tiempo mínimo en estado Detenido (TMD) es de 0 [min]. 

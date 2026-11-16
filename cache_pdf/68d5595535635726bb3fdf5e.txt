@@ -1,0 +1,103 @@
+ 
+[EXTERNAL PERMITTED]
+ 
+Señor 
+Gretchen Zbinden V. 
+Coordinador Eléctrico Nacional  
+Subgerenta de Análisis y Soporte Operacional 
+Av. Parque Isidora 1061 
+Pudahuel 
+ 
+ 
+P R E S E N T E 
+Santiago, 24 de septiembre de 2025 
+IIFF-SSCC-004-25 
+ 
+Ant: [1] IIFF-025-25 Entrega de Informs de 
+SSCC de PFV Willka, del coordinado Inversiones 
+Fotovoltaicas SpA con fecha 10 de julio de 
+2025. 
+[2] DE05382-25 Observaciones al Informe 
+Técnico de Verificación de SSCC de Control de 
+Tensión 
+de 
+la 
+Central 
+PFV 
+Willka, 
+del 
+Coordinador Electrico Nacional con fecha de 1 
+de septiembre de 2025. 
+ 
+Ref.: IIFF-SSCC-004-25 Solicita extensión 
+plazo carta DE05382-25. 
+ 
+ 
+De nuestra consideración. 
+ 
+Nos referimos a la carta del Ant [2] DE05382-25, mediante la cual el Coordinador 
+Eléctrico Nacional informa las observaciones al Informe Técnico de Verificación del SC 
+de Control de Tensión de la Central PFV Willka presentado por Inversiones Fotovoltaicas 
+SpA. 
+ 
+El análisis de la factibilidad de ampliar el rango de la curva P-Q del parque conlleva un 
+análisis que involucra diferentes partes, entre ellos: 
+ 
+• 
+El fabricante de los inversores, empresa “PowerElectronics“, para solicitar las 
+aclaraciones relacionadas con los límites de nivel de tensión operacional, y 
+también para analizar la posibilidad de ampliar el rango operacional y dar mayor 
+flexibilidad del Parque Fotovoltaico en prestación de SC de Control de Tensión. 
+• 
+El fabricante del PPC, empresa “PowerFactors“, para que nos confirme la 
+posibilidad de modificar los limites actualmente habilitados en caso de tener una 
+respuesta afirmativa por parte del fabricante de los inversores.  
+• 
+El ejecutor de pruebas de verificación de SSCC, empresa “Mercados Energéticos”, 
+para verificar factibilidad y validar las condiciones de operación esperadas. 
+ 
+Considerando la coordinación requerida entre las distintas partes, la cual ha tomado más 
+tiempo del esperado para obtener la respectiva respuesta, solicitamos a Ud. extender el 
+
+ 
+[EXTERNAL PERMITTED]
+plazo para responder a las observaciones levantadas en su carta a más tardar el día 15 
+de octubre de 2025. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+__________________________________ 
+Luis Fredes Bastias 
+Representante Legal 
+Inversiones Fotovoltaicas SpA 
+76.319.461-2 
+ 
+
+IIFF-SSCC-004-25 Solicita extensión plazo
+carta DE05382-25
+Final Audit Report
+2025-09-24
+Created:
+2025-09-24
+By:
+Franco Vergara (franco.vergara@mytilineos.com)
+Status:
+Signed
+Transaction ID:
+CBJCHBCAABAA5U5dy3lMc8Ux5_Mfzj4PSh4aLWNso7an
+"IIFF-SSCC-004-25 Solicita extensión plazo carta DE05382-25" 
+History
+Document created by Franco Vergara (franco.vergara@mytilineos.com)
+2025-09-24 - 7:46:14 PM GMT
+Document emailed to Luis Fredes (luis.fredes@mytilineos.com) for signature
+2025-09-24 - 7:46:17 PM GMT
+Email viewed by Luis Fredes (luis.fredes@mytilineos.com)
+2025-09-24 - 7:46:43 PM GMT
+Document e-signed by Luis Fredes (luis.fredes@mytilineos.com)
+Signature Date: 2025-09-24 - 7:48:02 PM GMT - Time Source: server
+Agreement completed.
+2025-09-24 - 7:48:02 PM GMT

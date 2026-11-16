@@ -1,0 +1,46 @@
+ 
+ 
+ 
+OR-000217-2026 
+ 
+Santiago, 29/07/2026 
+ 
+Señor 
+Ramón Castañeda. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA: Protocolos de Verificación de SSCC de equipos vinculantes de S/E Charrúa 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente y para dar cumplimiento con lo establecido en el Anexo Técnico 
+“Verificación de instalaciones para la prestación de SSCC” de la Norma Técnica de Servicios 
+Complementarios, se adjuntan revisión 1 de los Protocolos Específicos de Pruebas para la 
+Verificación de Servicios Complementarios – Equipos Vinculantes, correspondientes a los siguientes 
+equipos: 
+ 
+• 
+Relé Sincronizador KT8 de S/E Charrúa 
+(EN202709.1_PEP_SSCC_EV_SE CHA_KT8_Rev.0); 
+ 
+• 
+Relé Sincronizador JT8 de S/E Charrúa 
+(EN202709.1_PEP_SSCC_EV_SE CHA_JT8_Rev.1); 
+ 
+ 
+Sin otro particular, saludan atentamente a usted 
+ 
+ 
+TRANSELEC S.A., 
+ 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 
+ 
+Docusign Envelope ID: AB188715-1447-8907-80F3-E2D1E5F749C2

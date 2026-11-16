@@ -1,0 +1,212 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 22 de diciembre de 2025 
+DE 08159-25 
+Señor 
+Luis Fredes 
+Encargado Titular 
+Doña Antonia Solar SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+del PFV Doña Antonia. 
+[1] Carta DAS-SSCC-005-25 de Doña Antonia Solar 
+SpA, Ref.: “Respuesta a las últimas observaciones 
+realizadas al informe de SSCC del PFV Doña Antonia”, 
+de fecha 03 de diciembre de 2025. 
+Responde a Ingreso DE12140-25 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación del Servicio Complementario (SC) enviado por su representada mediante 
+carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 
+4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el 
+proceso de verificación del SC de Control de Tensión (CT) del PFV Doña Antonia. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del 24 de diciembre de 2025 
+considerando los recursos indicados en el anexo a la presente carta. 
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de 
+prestación del CT del PFV Doña Antonia se ha publicado en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > PFV Doña Antonia 
+ 
+Sin perjuicio de lo anterior, la central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del mencionado SC.  
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+PGR/adr 
+c.c.: Sr. Cristian Villalon – Encargado Suplente Doña Antonia Solar SpA. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PFV Doña Antonia 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV Doña Antonia 
+Los siguientes Parámetros Operacionales a la fecha de emisión de esta carta de 
+verificación se encuentran en proceso de aprobación por el Coordinador.  
+• 
+Potencia máxima bruta: 80,29 [MW] 
+• 
+Potencia máxima neta: 79,35 [MW]  
+• 
+Potencia mínima bruta: 2,70 [MW]  
+• 
+Potencia mínima neta: 2,42 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión 
+Control de Tensión 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión: 
+• 
+La central tiene limitada la inyección/absorción de reactivos a ± 25 MVAr 
+establecida a nivel de PPC por el fabricante en condiciones de diseño. En este 
+contexto, el Coordinador está solicitando levantar dicha limitación, con el fin de 
+ensayar la curva P-Q teórica máxima de la central.  
+• 
+Se verifica la funcionalidad Qnight, tanto en su respuesta dinámica como estática. 
+La central alcanza los valores máximos de absorción e inyección de potencia 
+reactiva en ausencia de recurso primario. 
+• 
+El consumo medio de la central sin recurso, en horas de la noche, corresponde a 
+137,42 [kW]. Este valor será considerado para compensar las pérdidas activas 
+adicionales en la prestación de Control de Tensión sin recurso primario (modo 
+Qnight). 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte de Doña Antonia Solar SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control de Tensión: 
+ 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Instalación 
+Recurso 
+Primario 
+  
+Tensión [pu] 
+Potencia Reactiva [MVAr]  
+Potencia 
+[MW] 
+  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+Central PFV 
+Doña 
+Antonia  
+ Solar 
+-0,64 (1) (2) 
+25 
+25 
+25 
+25 
+25 
+2,42 (1)  
+25 
+25 
+25 
+25 
+25 
+23,80 (1) 
+25 
+25 
+25 
+25 
+25 
+47,60 (1)  
+25 
+25 
+25 
+25 
+25 
+73,77 (1) 
+25 
+25 
+25 
+25 
+25 
+79,35 (1) 
+-25 
+-25 
+-25 
+-25 
+-25 
+47,60 (1) 
+-25 
+-25 
+-25 
+-25 
+-25 
+23,80 (1) 
+-25 
+-25 
+-25 
+-25 
+-25 
+2,42 (1) 
+-25 
+-25 
+-25 
+-25 
+-25 
+-0,56 (1) (2) 
+-25 
+-25 
+-25 
+-25 
+-25 
+(1) Limitación de consigna de potencia reactiva en el PPC del parque en un valor máximo de ±25 MVAr. 
+(2) Corresponde al despacho de potencia del modo Q-Night. 
+ 

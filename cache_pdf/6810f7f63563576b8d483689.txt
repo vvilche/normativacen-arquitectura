@@ -1,0 +1,78 @@
+Santiago, 28 de abril de 2025. 
+ACC.ECH. 042.25 
+Señor: 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANT.  
+: 
+[1] Carta DE02389-25 del 22 de abril de 
+2025. 
+[2] Carta de Acciona ACC.ECH.067.24 del 
+11 de octubre de 2024 (Correlativo CEN. -
+CARTA110411-24) 
+ 
+REF.  
+: 
+Proceso 
+de 
+Verificación 
+de 
+Instalaciones de Generación para la 
+Prestación 
+de 
+Servicios 
+Complementarios próximos a vencer 
+de acuerdo con Cronograma Vigente. 
+ 
+De mi consideración: 
+ 
+El Coordinador Eléctrico Nacional (en adelante, “Coordinador”), mediante el ANT [1], 
+comunica que, a la fecha, mi representada tiene procesos en curso para los que corresponde el 
+envío del Informe de Verificación para el mes de junio de 2025, asociados a las unidades PE San 
+Gabriel y PE Tolpán Sur, a saber: 
+ 
+ 
+ 
+Al respecto, queremos informar a usted que, como fue señalado por Acciona mediante ANT [2], 
+para la correcta ejecución de los ensayos de los Servicios Complementarios de Control de 
+Tensión y Control de Frecuencia, así como la integración de estas unidades al sistema AGC, por 
+prestación de Control Secundario de Frecuencia (CSF) y SCED para el despacho automático de 
+unidades, el tecnólogo ha indicado la necesidad de llevar a cabo una actualización del Program 
+Pack del Power Plant Controller (PPC) para ambas unidades. 
+ 
+De acuerdo con lo indicado también en ANT [2], donde señalamos que la ejecución de estos 
+trabajos se llevaría a cabo durante abril de 2025, informamos a usted que el proceso de 
+actualización se encuentra a la fecha en pleno desarrollo y en sus etapas finales de ejecución. No 
+obstante lo anterior, y en virtud de las distintas pruebas y eventuales ajustes que el tecnólogo 
+debe realizar una vez implementada la nueva versión del Program Pack, requerimos un mayor 
+grado de detalle por parte del tecnólogo que nos permita conocer el cronograma de cierre de 
+este proyecto, y así precisar las fechas asociadas al proceso de verificación por usted solicitada. 
+ 
+
+Es por lo anterior y habiendo señalado el estado de adecuación de las unidades previo al proceso 
+de verificación, es que queremos solicitar a usted tener a bien la entrega del programa de 
+verificación solicitado en ANT [1], para el lunes 05 de mayo del presente año. 
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+Felipe Escobar Tapia 
+Encargado (S)  
+Acciona Energía Chile Holdings, S.A. 
+ 
+ 

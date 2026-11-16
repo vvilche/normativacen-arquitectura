@@ -1,0 +1,159 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+Santiago, 27 de marzo de 2024 
+DE 01828-24 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Resultado de Ensayos de Verificación de 
+Servicios Complementarios – Control de Tensión 
+(CT) de STATCOM SE Maipo, del coordinado 
+Nirivilo Transmisora de Energía S.A. 
+[1] 
+Carta 
+CE-09-2025-NITE 
+de 
+Nirivilo 
+Transmisora de Energía S.A., Ref.: “Entrega 
+Informe Final de Verificación de Control de 
+Tensión de Servicios Complementarios NUP 
+2409.”, de fecha 27 de febrero de 2025. 
+Responde Ingreso DE01231-25 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y tras completar la revisión el informe técnico 
+de verificación de SSCC enviado por su representada mediante la carta de la Ref. [1], 
+comunico a Ud. que en cumplimiento con lo establecido en el Artículo 4-16 de la Norma 
+Técnica de Servicios Complementarios (NTSSCC) y el Artículo 10 del Anexo Técnico 
+“Verificación de Instalaciones para la prestación SSCC”, el cierre del proceso de 
+Verificación de Servicios Complementarios – Control de Tensión (CT) del STATCOM S/E 
+Maipo, propiedad de Nirivilo Transmisora de Energía S.A., mediante el recurso técnico 
+detallado en el Anexo 1 de la presente carta.  
+ 
+Como resultado de este proceso, la instalación indicada queda verificada para la 
+prestación de dicho servicio, mediante el recurso técnico identificado en el Anexo 
+mencionado. 
+ 
+El informe técnico que justifica la Verificación de Servicios Complementarios - Control de 
+Tensión (CT) de la instalación ya mencionada se encuentra publicado en el sitio web del 
+Coordinador en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso 
+de Verificación de Instalaciones > Verificación Instalaciones de Transmisión > 
+Control de Tensión > Compensadores CER y STATCOM > S/E Maipo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+GZV/JKH/DGQ/AHM 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+Anexo 1: Resultados Proceso de Verificación de Servicios Complementarios de 
+Control de Tensión (CT) del Coordinado Nirivilo Transmisora de Energía S.A. 
+1. Identificación de Instalaciones Verificadas y Servicios Complementarios que 
+presta el conjunto de instalaciones: 
+Sistema de compensación de reactivos STATCOM S/E Maipo paño BCER1, con una 
+capacidad de inyección/absorción de ±200 MVAr. 
+2. Servicios Complementarios que presta la instalación 
+SSCC 
+Categoría de SSCC 
+Instalación 
+Control de Tensión (CT) 
+Compensadores 
+CER y STATCOM 
+STATCOM S/E Maipo BCER1 
+ 
+3. Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la 
+instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+ 
+SSCC 
+Control de Tensión  
+Categoría 
+Compensadores CER y STATCOM 
+Subcategoría 
+STATCOM Control de Tensión 
+Modos de Control 
+Control de Potencia Reactiva y 
+Control de Tensión con Estatismo 
+Instalación 
+ Tensión [pu]  
+ 
+Condición 
+Potencia Reactiva [MVAr] 
+0,93 
+0,95 
+1,00 
+1,05 
+1,07 
+STATCOM 
+Maipo 
+Máxima Absorción 
+-200,0 
+-200,0 
+-200,0 
+-161,8 
+-81,3 
+Reactivo Cero 
+0,0 
+0,0 
+0,0 
+0,0 
+0,0 
+Máxima Inyección 
+200,0 
+200,0 
+200,0 
+200,0 
+200,0 
+ 
+4. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+Sin condiciones específicas para el SC mencionado. 
+5. La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Nirivilo Transmisora 
+de Energía S.A. para sus instalaciones asociadas a la SE Maipo. 
+ 

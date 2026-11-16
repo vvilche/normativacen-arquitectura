@@ -1,0 +1,137 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 03 de junio de 2026 
+DE 03748-26 
+ 
+Señor 
+Miguel Buzunariz 
+Encargado Titular 
+Enel Green Power Chile S.A. 
+Presente 
+Ref.: Aprueba Protocolos para los Ensayos de 
+Verificación de Instalaciones para la prestación de los 
+Servicios Complementarios de Control Terciario de 
+Frecuencia y Control de Tensión de centrales de Enel 
+Green Power Chile S.A. 
+Responde a Ingreso DE04823-26. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en el 
+Artículo 8 del Anexo Técnico “Verificación de Instalaciones para la prestación de SSCC” de 
+la Norma Técnica de Servicios Complementarios (NTSSCC), se han revisado los 
+antecedentes entregados por su representada mediante carta de la Ref. [1]. 
+ 
+Al respecto, comunicamos a Ud. que este Coordinador, aprueba los Protocolos para los 
+Ensayos de Verificación de los Servicios Complementarios de Control Terciario de 
+Frecuencia (CTF) y Control de Tensión (CT) a prestar por las instalaciones indicadas en el 
+Anexo 1 de la presente comunicación. 
+ 
+Considerando lo indicado, y con la finalidad de continuar con el proceso de Verificación de 
+los Servicios Complementarios, solicito a usted lo siguiente: 
+a) Informar las curvas de carga asociadas a las pruebas según cartas de las Ref. [2] y 
+[3], ingresándolas en la correspondiente solicitud de trabajo del sistema Neomante, 
+con estado operativo “PDO”. Asimismo, en dicha solicitud se deberá describir los 
+movimientos de carga previstos para la ejecución de las pruebas, indicando las 
+máximas variaciones instantáneas de potencia activa, y los rangos máximos de 
+inyección y absorción de potencia reactiva y de variación de tensión a efectuar, así 
+como las condiciones operativas asociadas, con el fin de asegurar una adecuada 
+coordinación operativa. Se informa que eventualmente las condiciones de máxima 
+absorción y de máxima inyección de reactivos, deban ensayarse por separado, 
+según los análisis de seguridad que consigne el Coordinador y según las tensiones 
+objetivos de los ensayos, por ejemplo, en periodos de demanda alta y demanda baja 
+en el SEN, dependiendo del tamaño de la instalación y su punto de conexión. 
+b) Una vez ingresada la solicitud de trabajo, conforme a lo requerido en literal a) 
+anterior, informar el N° de la solicitud de trabajo creada en el sistema Neomante. 
+c) Habiendo realizado los ensayos, y en conformidad con el capítulo 5 del “Instructivo 
+Técnico para la Verificación de Instalaciones para la prestación de SSCC”, enviar el 
+Informe Técnico con los resultados de la verificación, en un plazo máximo de 15 
+días hábiles contados desde que finalizan los ensayos. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Los antecedentes requeridos en los literales a) y b) deberán ser enviados, al correo 
+verificacion.sscc@coordinador.cl, con el asunto “Respuesta carta DE03748-26 – Ensayos 
+Verificación SSCC centrales Enel Green Power Chile S.A.” cumpliendo con los plazos 
+establecidos precedentemente. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+DIR/PGR/WJS/adr 
+c.c.:  
+Sr. Adrian Gúzman – Encargado Suplente Enel Green Power Chile S.A. 
+ 
+Referencias 
+[1] Carta EGP 057-26 de Enel Green Power Chile S.A., Ref.: “Envío de los protocolos de 
+Verificación de Servicios Complementarios de Control de Tensión y Control Terciario de 
+Frecuencia”, de fecha 04 de mayo de 2026. Ingreso DE04823-26. 
+[2] Carta DE05925-24, Ref.: “Modificación al ingreso de solicitudes de pruebas de centrales 
+generadoras en plataforma Neomante”, de fecha 11 de noviembre de 2024. 
+[3] Carta DE05995-25, Ref.: “Adecuaciones funcionales a la Plataforma de Solicitudes de 
+Trabajo del Coordinador Eléctrico Nacional”, de fecha 24 de septiembre de 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Anexo 1: Aprobación de Protocolos de Instalaciones de Enel Green Power Chile 
+S.A. 
+N° 
+Instalación 
+SSCC (1) (2) 
+CT 
+CTF 
+1 
+PE La Cabaña 
+Sí 
+N/A 
+2 
+PFV El Manzano 
+Sí 
+Sí 
+3 
+PFV Guanchoi 
+Sí 
+Sí 
+4 
+PFV Las Salinas 
+Sí 
+Sí 
+5 
+PFV Sol de Lila 
+Sí 
+N/A 
+6 
+PFV Valle del Sol 
+Sí 
+Sí 
+(1) "Sí" indica que el Protocolo para los Ensayos de Verificación del Servicio Complementario 
+correspondiente es aprobado mediante la presente comunicación. 
+(2) "N/A" indica que el protocolo correspondiente no fue enviado al Coordinador para su revisión y 
+aprobación. 
+ 

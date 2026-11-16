@@ -1,0 +1,47 @@
+ 
+ 
+OR-000060-2026 
+ 
+Santiago, 18 de febrero de 2026 
+ 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA: Procedimiento de verificación SSCC en equipos FACTS de Transelec 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, por medio de la presente y para dar cumplimiento con lo establecido en el Anexo  
+Técnico “Verificación de instalaciones para la prestación de SSCC” de la Norma Técnica de Servicios  
+Complementarios, se remiten los procedimientos correspondientes al desarrollo de los ensayos de 
+verificación del Servicio Complementario de Control de Tensión para los equipos FACTS de 
+Transelec. Asimismo, se incorpora el cronograma de actividades, indicando las tareas programadas 
+para su ejecución en terreno:  
+ 
+• CER Cardones JT4 220 kV 100 MVAr 
+(EE-EN-2025-2766-RB_Procedimiento_de_ensayos_SSCC_CER_Cardones.pdf, rev. B) 
+• STATCOM Cerro Navia 220/34kV_140MVA 
+(EE-EN-2025-2844-RB_Procedimiento_de_ensayos_SSCC_STATCOM_Cerro_Navia.pdf, rev.B) 
+• CER Pan de Azúcar JT5 13.2KV 24MVAR 
+(EE-EN-2025-2938-RB_Procedimiento_de_ensayos_SSCC_CER_Pan _de_Azucar_2.pdf, rev.B);  
+• CER Pan de Azúcar JT6 13.2KV 24MVAR 
+(EE-EN-2025-2943-RB_Procedimiento_de_ensayos_SSCC_CER_Pan _de_Azucar_1.pdf, rev.B) 
+ 
+Quedamos atentos a sus comentarios u observaciones. 
+ 
+Sin otro particular, saludan atentamente a usted 
+ 
+ 
+ 
+ 
+______________________________ 
+Mauricio Fernández Berrios 
+Subgerente de Planificación y Regulación 
+Encargado Suplente 
+Transelec S.A. 
+Docusign Envelope ID: F410C5EB-1945-4F7D-99F7-19A0BE4944E8

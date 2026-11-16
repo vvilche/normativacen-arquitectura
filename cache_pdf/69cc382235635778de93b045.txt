@@ -1,0 +1,379 @@
+ 
+        BIOENERGIAS FORESTALES 
+                               Agustinas 1343, Santiago, Chile 
+      www.cmpc.com 
+  
+1 
+Santiago, 31 de marzo 2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación. 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+BF-E-CAE-2026-032: 
+Respuesta 
+a 
+carta 
+DE01769-26. Desempeño deficiente en la 
+prestación de los Servicios Complementarios 
+de Control Primario de Frecuencia, Control 
+Terciario de Frecuencia y Control de Tensión de 
+las unidades generadoras febrero 2026.  
+Ref. DE01221-26 / DE08422-25: Desempeño 
+deficiente en la 
+prestación 
+de 
+Servicios 
+Complementarios. 
+De nuestra consideración, 
+Por medio de la presente, damos respuesta a lo solicitado en su carta de referencia, 
+mediante la cual se requiere la entrega de antecedentes respecto del desempeño en la 
+prestación de los Servicios Complementarios (SSCC) de Control Primario de Frecuencia 
+(CPF), Control Terciario de Frecuencia (CTF) y Control de Tensión en las unidades CMPC 
+Laja, CMPC Pacífico y TER Santa Fe. 
+Al respecto, si bien reconocemos que el desempeño en el Control Terciario de Frecuencia 
+de algunas de nuestras unidades ha sido deficiente en los últimos meses, es necesario 
+precisar que la regulación vigente no contempla las particularidades operativas de los 
+Autoproductores. 
+Las centrales aludidas operan bajo el ciclo continuo Kraft, un proceso industrial diseñado 
+para la recuperación de químicos, autogeneración de energía y producción de celulosa. 
+Bajo este esquema, cualquier perturbación en la línea productiva impacta directamente 
+en los excedentes de energía disponibles. Por lo tanto, el cumplimiento total de los SSCC 
+programados (subastados o asignados) está estrictamente supeditado a la estabilidad 
+operacional del proceso principal, la cual no puede garantizarse de forma absoluta 
+mediante un plan de trabajo externo. 
+Sin perjuicio de lo anterior, y con el objetivo de normalizar esta situación, 
+comprometemos las siguientes medidas correctivas: 
+• 
+Gestión de Disponibilidad: Se ha implementado en la plataforma Neomante la 
+declaración explícita de limitación de SSCC ante inestabilidades del proceso, 
+
+ 
+        BIOENERGIAS FORESTALES 
+                               Agustinas 1343, Santiago, Chile 
+      www.cmpc.com 
+  
+2 
+utilizando la glosa: “Afecta SSCC en condición Deshabilitado”, conforme a lo 
+solicitado por el Coordinador Eléctrico Nacional (CEN). [Estado: Realizado]. 
+• 
+Estudio de Flexibilidad: Desarrollo de un análisis técnico sobre la capacidad 
+de modulación y tiempos de respuesta de las calderas de proceso. [Estado: 
+En desarrollo]. 
+• 
+Nuevas Pruebas: Ejecución de nuevos ensayos técnicos en las unidades con 
+desempeño observado. El cronograma detallado se adjunta en el Anexo de 
+esta misiva. 
+Finalmente, solicitamos considerar el programa de pruebas propuesto, cuyo propósito 
+es validar en primera instancia la capacidad actual de CMPC Laja y CMPC Pacifico para 
+la prestación de SSCC de Control Terciario de Frecuencia. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marcelo Lagos Peña. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+Encargado Suplente Bioenergías Forestales SpA.  
+ 
+ 
+
+ 
+        BIOENERGIAS FORESTALES 
+                               Agustinas 1343, Santiago, Chile 
+      www.cmpc.com 
+  
+3 
+ 
+[ANEXO 1]  
+ 
+Cronograma de Verificación de Servicios Complementarios (SSCC) de TER CMPC Laja. 
+ 
+ 
+Actividades Generales 
+AÑO/MES 
+2026 
+Fecha Inicio  
+[dd-mm-
+aaaa] 
+Fecha Fin  
+[dd-mm-aaaa] FEB MAR ABR MAY JUN JUL AGO SEP OCT NOV DIC 
+1 Recopilación de antecedentes técnicos 
+26-03-2025 
+05-04-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 Análisis de información 
+05-04-2025 
+30-04-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3 Preparación de Protocolos de 
+Verificación y Ensayos 
+30-04-2025 
+15-05-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+4 Revisión y aprobación de Protocolo de 
+Verificación por parte del CEN 
+15-05-2025 
+14-06-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+5 Logística y Preparación 
+14-06-2025 
+09-07-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+6 Ensayos y verificación de SSCC (*) 
+09-07-2025 
+03-08-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+7 Informe Técnico resultado de Ensayos 
+03-08-2025 
+28-08-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+8 Revisión de Ensayos por parte del CEN. 
+28-08-2025 
+02-10-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+        BIOENERGIAS FORESTALES 
+                               Agustinas 1343, Santiago, Chile 
+      www.cmpc.com 
+  
+4 
+ 
+ 
+ 
+ 
+Cronograma de Verificación de Servicios Complementarios (SSCC) de TER CMPC Pacífico. 
+ 
+ 
+Actividades Generales 
+AÑO/MES 
+2026 
+Fecha Inicio  
+[dd-mm-
+aaaa] 
+Fecha Fin  
+[dd-mm-aaaa] FEB MAR ABR MAY JUN JUL AGO SEP OCT NOV DIC 
+1 Recopilación de antecedentes técnicos 
+26-03-2025 
+05-04-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 Análisis de información 
+05-04-2025 
+30-04-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3 Preparación de Protocolos de 
+Verificación y Ensayos 
+30-04-2025 
+15-05-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+4 Revisión y aprobación de Protocolo de 
+Verificación por parte del CEN 
+15-05-2025 
+14-06-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+5 Logística y Preparación 
+14-06-2025 
+09-07-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+6 Ensayos y verificación de SSCC (*) 
+09-07-2025 
+03-08-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+7 Informe Técnico resultado de Ensayos 
+03-08-2025 
+28-08-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+8 Revisión de Ensayos por parte del CEN. 
+28-08-2025 
+02-10-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 

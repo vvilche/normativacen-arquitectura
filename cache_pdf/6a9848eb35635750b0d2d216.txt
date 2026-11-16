@@ -1,0 +1,239 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 02 de septiembre de 2026 
+DE 05854-26 
+ 
+ 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+(Según lista de distribución) 
+Presente 
+ 
+Ref.: Solicita antecedentes técnicos de los 
+relés con función de gradiente de frecuencia 
+(ROCOF) asociados a esquemas EDAC y 
+EDAG. 
+ 
+De mi consideración: 
+Este Coordinador se encuentra desarrollando una revisión de la medición y del desempeño 
+de las funciones de gradiente de frecuencia o tasa de cambio de frecuencia (ROCOF) 
+utilizadas en los Esquemas de Desconexión Automática de Carga (EDAC) y en los 
+Esquemas de Desconexión Automática de Generación (EDAG) implementados en el 
+Sistema Eléctrico Nacional (SEN). Los antecedentes que se recaben constituirán insumo 
+para la evaluación del desempeño de este tipo de funciones en redes débiles o con alta 
+penetración de recursos basados en inversores. 
+En este contexto, y con el objeto de complementar la caracterización técnica de los equipos 
+que participan en dichos esquemas, resulta necesario disponer de antecedentes relativos 
+a sus ajustes, características de medición y desempeño declarado por los fabricantes, 
+considerando como referencia los estándares internacionales aplicables. 
+Por lo anterior, en ejercicio de las funciones de coordinación de la operación del SEN 
+establecidas en el artículo 72-1 de la Ley General de Servicios Eléctricos, y conforme a las 
+obligaciones de entrega de información técnica que la Norma Técnica de Seguridad y 
+Calidad de Servicio y el Anexo Técnico "Determinación del requerimiento y evaluación de 
+desempeño de los EDAC, EDAG y ERAG" imponen a los Coordinados, se solicita a su 
+representada remitir, para cada relé que participe en un EDAC y/o EDAG mediante una 
+función de gradiente de frecuencia, los antecedentes que se indican a continuación. 
+1. Identificación del equipo y alcance 
+- 
+Subestación, paño e identificación del relé. 
+- 
+Fabricante, modelo y versión de firmware del relé. 
+- 
+Esquema en que participa: EDAC por Subfrecuencia (EDAC-BF), EDAC por 
+Contingencia Específica (EDAC-CE) Zona Norte, EDAC por Contingencia Específica 
+(EDAC-CE) Centro Sur, o EDAG Zona Norte. 
+2. Ajustes implementados 
+- 
+Umbral de gradiente de frecuencia, en Hz/s, y temporización asociada, en 
+milisegundos y umbral de frecuencia que supervisa la función, en Hz. 
+- 
+Supervisiones y bloqueos habilitados —subtensión, salto de fase, tasa de cambio de 
+tensión u otros— con sus respectivos umbrales, cuando aplique. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+- 
+Número de mediciones consecutivas de confirmación antes de emitir la orden de 
+desconexión. 
+- 
+Print-out de los ajustes vigentes del relé en que consten los parámetros anteriores, 
+adjunto a la respuesta. 
+3. Características de la medición de ROCOF declaradas por el fabricante 
+- 
+Ventana de tiempo utilizada para determinar el ROCOF, expresada en milisegundos. 
+- 
+Método de cálculo, filtrado, promediado o suavizado empleado. 
+- 
+Rango de medición y resolución de ROCOF. 
+- 
+Exactitud declarada y condiciones de referencia bajo las cuales se garantiza, en 
+particular contenido armónico, desviación respecto de la frecuencia nominal y 
+desequilibrio. 
+4. Conformidad declarada 
+- 
+Indicar si el fabricante declara conformidad de la función de gradiente de frecuencia 
+con la norma IEC 60255-181:2019, o con otro estándar, identificándolo. 
+- 
+Identificar el documento del fabricante que respalda dicha declaración. 
+ 
+Los antecedentes de los numerales 3 y 4 deberán respaldarse mediante documentación 
+del fabricante —manual, hoja de datos o comunicación técnica—, identificando versión y 
+sección. En caso de que el fabricante no declare alguno de dichos antecedentes, el 
+Coordinado deberá indicarlo expresamente en la planilla del Anexo 2, señalando el 
+documento consultado y las gestiones realizadas ante el fabricante. La ausencia de 
+declaración del fabricante no exime de la obligación de responder. 
+Los antecedentes solicitados deberán remitirse antes del 21 de septiembre de 2026.  Para 
+estos efectos, los encargados titulares de cada empresa coordinada recibirán una 
+notificación desde el aplicativo “Conecta Coordinador” (https://omnicanal.coordinador.cl/), 
+empleando el formato de la planilla que se adjunta como Anexo 2. 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+c.c.:  
+Sr. Victor Velar – Subgerente Estudios y Simulación en Tiempo Real – Coordinador Eléctrico Nacional 
+Sr. Patricio Valenzuela – Subgerente Control y Desarrollo Operacional – Coordinador Eléctrico Nacional 
+Sr. Eugenio Quintana – Jefe Estudios Eléctricos Aplicados - Coordinador Eléctrico Nacional 
+Sr. Jorge Vargas – Jefe Modelación y Aplicaciones EMS - Coordinador Eléctrico Nacional 
+ 
+GO/DEE  
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ANEXO 1 LISTA DE DISTRIBUCIÓN 
+EDAG Zona Norte 
+Coordinado 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+AELA GENERACIÓN S.A. 
+AES ANDES S.A. 
+ANDES SOLAR II SPA 
+ANDES SOLAR IV SPA 
+ARCADIA GENERACIÓN SOLAR S.A. 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+BOLERO SPA 
+CERRO DOMINADOR CSP S.A. 
+COLBÚN S.A. 
+CÓNDOR ENERGÍA SPA 
+CONEJO SOLAR SPA 
+COPEC RENOVABLES SPA 
+EMPRESA ELÉCTRICA ANGAMOS SPA 
+EMPRESA ELÉCTRICA COCHRANE SPA 
+ENEL GREEN POWER CHILE S.A. 
+ENGIE ENERGÍA CHILE S.A. 
+ENLIGHT INVESTMENTS SPA 
+FOTOVOLTAICA NORTE GRANDE 5 SPA 
+GENERACIÓN SOLAR SPA 
+GEOTÉRMICA DEL NORTE S.A. 
+GM HOLDINGS S.A. 
+GR CHAÑAR SPA 
+GR LENGA SPA 
+HUEMUL ENERGÍA SPA 
+IBEREÓLICA CABO LEONES II S.A. 
+INVERSIONES FOTOVOLTAICAS SPA 
+JAVIERA SPA 
+OPDENERGY GENERACIÓN SPA 
+PARQUE EÓLICO ANTOFAGASTA SPA 
+PARQUE FOTOVOLTAICO NUEVO QUILLAGUA SPA 
+PARQUE SOLAR FOTOVOLTAICO SOL DEL DESIERTO SPA 
+PLANTA SOLAR SAN PEDRO III SPA 
+PLANTA SOLAR TOCOPILLA SPA 
+POZO ALMONTE SOLAR 2 S.A. 
+POZO ALMONTE SOLAR 3 S.A. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Coordinado 
+PUNTO DEL SOL SPA 
+SOLAR ELENA SPA 
+TAMAKAYA ENERGÍA SPA 
+Tamarugal Solar 1 S.A. 
+TSGF SPA 
+ 
+EDAC BF 
+Coordinado 
+Anglo American Sur S.A. 
+Arauco Bioenergía SpA 
+Bioenergías Forestales SpA 
+Cemento Polpaico S.A. 
+Cementos Bío Bío del Sur S.A. 
+Chilquinta Distribución S.A. 
+CIA. Minera Mantos de Oro 
+Codelco (Corporación Nacional del Cobre) 
+Compañía Distribuidora de Energía Eléctrica CODINER S.A. 
+Compañía Doña Inés de Collahuasi SCM 
+Compañía Eléctrica del Litoral S.A. 
+Compañía General de Electricidad S.A. 
+Compañía Minera del Pacífico S.A. 
+Compañía Minera Lomas Bayas 
+Compañía Minera Maricunga 
+Compañía Minera Teck Carmen de Andacollo 
+Compañía Minera Teck Quebrada Blanca S.A. 
+Compañía Minera Zaldívar SpA 
+Compañía Siderúrgica Huachipato S.A. 
+Cooperativa de Consumo de Energía Eléctrica Chillán Ltda. 
+Cristalerías de Chile S.A. 
+EFE Valparaíso S.A. 
+EKA CHILE S.A. 
+Empresa de Transporte de Pasajeros Metro S.A. 
+Empresa Eléctrica Puente Alto S.A. 
+Enaex S.A. 
+Enel Distribución Chile S.A. 
+Mantoverde S.A. 
+Masisa S.A. 
+Minera Centinela 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Coordinado 
+Minera Escondida Ltda. 
+Minera Las Cenizas S.A. 
+Minera Los Pelambres 
+Minera Meridian Ltda. 
+Minera Valle Central S.A. 
+Nova Andino Litio SpA 
+Papelera Dos S.A. 
+Proyectos Eléctricos y de Construcción INSTA&PRO SpA 
+Sierra Gorda SCM 
+Sociedad Austral de Electricidad S.A. 
+Sociedad Contractual Minera El Abra 
+Sociedad Química y Minera de Chile S.A. 
+ 
+EDAC CE 
+Coordinado 
+Anglo American Sur S.A. 
+Bioenergías Forestales SpA 
+Cemento Polpaico S.A. 
+Chilquinta Distribución S.A. 
+Codelco (Corporación Nacional del Cobre) 
+Compañía Doña Inés de Collahuasi SCM 
+Compañía Eléctrica del Litoral S.A. 
+Compañía General de Electricidad S.A. 
+Compañía Minera Zaldívar SpA 
+Cristalerías de Chile S.A. 
+Empresa Eléctrica Puente Alto S.A. 
+Enel Distribución Chile S.A. 
+Melon S.A. 
+Minera Antucoya 
+Minera Centinela 
+Minera Escondida Ltda. 
+Minera Los Pelambres 
+Minera Spence S.A. 
+Minera Valle Central S.A. 
+Nova Andino Litio SpA 
+Sierra Gorda SCM 
+Sociedad Contractual Minera El Abra 
+Sociedad Química y Minera de Chile S.A. 
+ 

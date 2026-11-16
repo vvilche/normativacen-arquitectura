@@ -1,0 +1,228 @@
+ 
+Santiago, 12 de febrero de 2025. 
+  ACC.ECH.008.25 
+Señor: 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe Desempeño Servicios Complementarios – enero 2025. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de enero 2025, que fue publicado en su página web y cuya publicación fue comunicada a través 
+de la carta DE 00866-25 de fecha 07 de febrero de 2025. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+Felipe Escobar Tapia 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC ENERO 2025 V1 
+Servicio Complementario – CPF 
+Planta: PFV Almeyda 
+Comentario 
+El documento "SSCC_Desempeno_Enero_2025_V1" determina que el desempeño de la central solar fotovoltaica PFV Almeyda no es verificable, esto siendo que la central prestó 
+recurrentemente el servicio de Control Primario de Frecuencia y cuyos antecedentes que permitirían verificar el desempeño fueron enviados al Coordinador en el formato requerido. 
+Planta: PFV Usya 
+Comentario 
+El documento "SSCC_Desempeno_Enero_2025_V1" determina que el desempeño de la central solar fotovoltaica PFV Usya no es verificable, esto siendo que la central prestó 
+recurrentemente el servicio de Control Primario de Frecuencia y cuyos antecedentes que permitirían verificar el desempeño fueron enviados al Coordinador en el formato requerido. 
+Planta: PFV Malgarida 
+Comentario 
+El documento "SSCC_Desempeno_Enero_2025_V1" determina que el desempeño de la central solar fotovoltaica PFV Malgarida no es verificable, esto siendo que la central prestó 
+recurrentemente el servicio de Control Primario de Frecuencia y cuyos antecedentes que permitirían verificar el desempeño fueron enviados al Coordinador en el formato requerido. 
+ 
+ 
+ 
+ 
+ 
+
+Servicio Complementario – CT 
+Planta: PE Tolpán Sur 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO 
+Hora FIN registro 
+RIO 
+Comentario 
+- 
+- 
+-10 
+12-01-2025 
+02:54:00 
+- 
+Instrucción se observa sólo en RIO, pero verificando las grabaciones de las llamadas del día, la 
+instrucción no fue solicitada por CDC. 
+21-01-2025 
+2:54:50 
+-10 
+- 
+- 
+- 
+Instrucción no se encuentra en RIO, pero se verifica la solicitud mediante la grabación de la 
+llamada. Por coincidencias en la hora, se prevé error en el registro del día con la incidencia 
+anterior. 
+Planta: PE San Gabriel 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO 
+Hora FIN registro 
+RIO 
+Comentario 
+- 
+- 
+-22 
+12-01-2025 
+02:54:00 
+- 
+Instrucción se observa sólo en RIO, pero verificando las grabaciones de las llamadas del día, la 
+instrucción no fue solicitada por CDC. 
+21-01-2025 
+2:55:29 
+-22 
+- 
+- 
+- 
+Instrucción no se encuentra en RIO, pero se verifica la solicitud mediante la grabación de la 
+llamada. Por coincidencias en la hora, se prevé error en el registro del día con la incidencia 
+anterior. 
+Servicio Complementario – CTF 
+Planta: PE San Gabriel 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MW] 
+Registro ∆P 
+RIO 
+Hora INICIO 
+registro RIO 
+Hora FIN registro 
+RIO 
+Comentario 
+03-01-2025 
+07:45:28 
+23 
+-41,5 
+03-01-2025 
+07:42:00 
+03-01-2025 
+07:49:00 
+Existe error de registro en RIO, ya que se había asignado directamente -85 MW al bloque 
+programado (-41,5), totalizando un bloque de -126,5. El parque responde en tiempo y 
+variación según el bloque de 126,5MW. 
+18-01-2025 
+7:44:23 
+2 
+134 
+18-01-2025 
+07:42:00 
+18-01-2025 
+08:00:00 
+CDC registra en RIO el bloque como SSCC de CTF (+), pero como lo indica el programa, el 
+bloque corresponde a una prestación de SSCC de CTF (-). La planta responde en tiempo y 
+variación según el bloque programado. 
+20-01-2025 
+13:16:10 
+22 
+28 
+20-01-2025 
+13:13:00 
+20-01-2025 
+13:34:00 
+CDC registra en RIO el bloque como SSCC de CTF (+), pero como lo indica el programa, el 
+bloque corresponde a una prestación de SSCC de CTF (-). La planta responde en tiempo y 
+variación según el bloque programado. 
+
+Planta: PFV Malgarida 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MW] 
+Registro ∆P 
+RIO 
+Hora INICIO 
+registro RIO 
+Hora FIN registro 
+RIO 
+Comentario 
+20-01-2025 
+11:26:11 
+15 
+84 
+20-01-2025 
+11:24:00 
+20-01-2025 
+11:33:00 
+CDC registra en RIO el bloque como SSCC de CTF (+), pero como lo indica el programa, el 
+bloque corresponde a una prestación de SSCC de CTF (-). La planta responde en tiempo y 
+variación según el bloque programado. 
+20-01-2025 
+11:59:18 
+15 
+84 
+20-01-2025 
+11:58:00 
+20-01-2025 
+12:27:00 
+CDC registra en RIO el bloque como SSCC de CTF (+), pero como lo indica el programa, el 
+bloque corresponde a una prestación de SSCC de CTF (-). La planta responde en tiempo y 
+variación según el bloque programado. 
+20-01-2025 
+13:15:11 
+52 
+118 
+20-01-2025 
+13:13:00 
+20-01-2025 
+13:34:00 
+CDC registra en RIO el bloque como SSCC de CTF (+), pero como lo indica el programa, el 
+bloque corresponde a una prestación de SSCC de CTF (-). La planta responde en tiempo y 
+variación según el bloque programado. 
+Planta: PFV Usya 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MW] 
+Registro ∆P 
+RIO 
+Hora INICIO 
+registro RIO 
+Hora FIN registro 
+RIO 
+Comentario 
+20-01-2025 
+13:15:03 
+8 
+42 
+20-01-2025 
+13:14:00 
+20-01-2025 
+13:34:00 
+CDC registra en RIO el bloque como SSCC de CTF (+), pero como lo indica el programa, el 
+bloque corresponde a una prestación de SSCC de CTF (-). La planta responde en tiempo y 
+variación según el bloque programado. 
+24-01-2025 
+14:36:13 
+25 
+22 
+24-01-2025 
+14:35:00 
+24-01-2025 
+14:52:00 
+Se evalúa con mal desempeño el C3, pero la variabilidad de la potencia se debe a que en 
+simultaneo se prestaba el SSCC de CPF. 
+ 

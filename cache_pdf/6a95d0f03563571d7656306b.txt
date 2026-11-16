@@ -1,0 +1,253 @@
+ 
+ 
+ 
+ 
+Lautaro, 28 de agosto de 2026  
+PEL.G.26.021 
+ 
+ 
+Sr. 
+PATRICIO VALENZUELA V. 
+Subgerente de Control y Desarrollo Operacional 
+COORDINADOR ELÉCTRICO NACIONAL 
+ 
+ 
+ 
+Ref.: [1] Carta DE 05315-26, “Incumplimiento de plazos en 
+la implementación de PMU y PDC del Módulo de Medición 
+Fasorial del Coordinador”. 
+[2] Carta DE08933-25, “Instruye implementación y solicita 
+plan de trabajo para implementación de puntos de 
+monitoreo del Módulo de Medición Fasorial del SEN”. 
+ 
+ 
+Estimado: 
+ 
+Por medio de la presente, y en respuesta a la Carta DE 05315-26 de fecha 21 de agosto de 2026, mediante 
+la cual se solicitan antecedentes adicionales respecto al incumplimiento de plazos en la implementación 
+de las PMU y PDC del Módulo de Medición Fasorial del Coordinador, informamos lo siguiente: 
+ 
+1. Carta Gantt Actualizada (Anexo 1): Adjuntamos el cronograma actualizado con fecha estimada 
+de finalización de actividades para el 31 de diciembre de 2026. Cabe señalar que la desviación 
+respecto a los plazos informados en la Carta DE08933-25 se debió a la alta demanda actual del 
+requerimiento, lo que impidió que la empresa contratada cumpliera con los plazos pactados y 
+con la disponibilidad oportuna de los equipos. Asimismo, precisamos que la conexión de los 
+equipos PMU exige que las unidades generadoras se encuentren fuera de servicio, condición que 
+no fue posible hacer coincidir previamente con las fechas de Parada General de Planta por los 
+motivos expuestos. 
+ 
+2. Comprobante de Atrasos e Imposibilidad Operativa (Anexo 2): Adjuntamos la comunicación 
+enviada por la empresa contratada informando los retrasos en las actividades en terreno. Si bien 
+el contratista propuso ejecutar los trabajos en junio, esto no resultó factible al encontrarse 
+ambas unidades en servicio. Por ello, las labores se reprogramaron para la próxima detención 
+programada en septiembre de 2026. 
+ 
+3. Planificación de Trabajos (Anexo 3): Incluimos el plan de trabajo detallado para las actividades 
+de montaje de armarios (gabinetes), las cuales se ejecutarán durante la Parada General de Planta 
+en el mes de septiembre de 2026. Este anexo es un archivo Excel que se adjunta a través del 
+Sistema de Correspondencia. 
+ 
+ 
+
+ 
+ 
+ 
+Para más detalles, puede comunicarse con el Sr. Héctor Saavedra Poblete a través del correo electrónico 
+hsaavedra@comasageneracion.cl o a los teléfonos 45 2992816 y celular +56 9 56184629. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HECTOR SAAVEDRA POBLETE 
+SUBGERENTE DE OPERACIONES 
+CENTRAL LAUTARO COMASA SPA 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ANEXO 1 
+ 
+Carta Gantt Actualizada – Implementación PMU TER Lautaro 
+ 
+Actividades 
+dic-25 
+ene-
+26 
+feb-
+26 
+mar-
+26 
+abr-26 
+may-
+26 
+jun-26 jul-26 
+ago-
+26 
+sept-
+26 
+oct-26 
+nov-
+26 
+dic-26 
+Planificación 
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Compras y adquisición de equipos   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Ingeniería Básica   
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Ingeniería de Detalles   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Implementación   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Montaje   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Pruebas   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Cierre Proyecto   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+Detalle actualización 
+INICIO 
+FIN 
+Montaje de Equipos, tendido y conexionado de cables 
+01-09-2026 10-09-2026 
+Pruebas de verificación 
+  
+Pruebas SAT Locales 
+  
+COMASA entrega enlace operativo y protocolizado hacia PDC Local 
+01-10-2026 31-10-2026 
+Pruebas SAT 
+  
+  
+01-12-2026 10-12-2026 
+CIERRE PROYECTO 
+  
+  
+  
+  
+Actualización Planos  
+15-12-2026 31-12-2026 
+Entrega de documentación AS-BUILT 
+15-12-2026 31-12-2026 
+Reunión de cierre 
+  
+  
+15-12-2026 31-12-2026 
+Parada General de Planta desde 1 noviembre hasta 8 de diciembre 2026 
+ 
+No se consideran actividades desde el 1 de noviembre hasta el 8 de diciembre por estar en Parada General de Planta.
+
+ 
+ 
+ 
+Anexo
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

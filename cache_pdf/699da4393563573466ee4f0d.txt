@@ -1,0 +1,220 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 23 de febrero de 2026 
+DE 01268-26 
+Señor 
+Leonardo Bastidas 
+Encargado Titular 
+Arauco Bioenergía SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Terciario de 
+Frecuencia de la central TER Nueva Aldea II. 
+[1] Carta GAB-005/2026 de Arauco Bioenergía SpA, 
+Ref.: “Informe resultados pruebas de Verificación 
+Servicios Complementarios Central Nueva Aldea II”, 
+de fecha 16 de enero de 2026. 
+Responde a Ingreso: DE00545-26. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control Terciario 
+de Frecuencia (CTF) de la central TER Nueva Aldea II. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario a partir de las 00:00 del 26 de febrero de 2026, 
+considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CTF de la central TER Nueva Aldea II se encuentra publicado en la siguiente 
+ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central TER Nueva Aldea II 
+ 
+Finalmente, la central mencionada podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del mencionado SC. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, puede 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+DIR/WJS/adr 
+c.c.: 
+Sr. Danilo Salinas – Encargado Suplente Arauco Bioenergía SpA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+1 para la estimación del valor de la potencia mínima neta, se consideran los consumos propios de la central TER Nueva Aldea 
+II, correspondientes al 4,15%. Este valor se obtiene desde la plataforma Infotécnica del Coordinador. 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central TER Nueva Aldea II 
+1. 
+Identificación de las Instalaciones Verificadas: 
+A continuación, se presentan los parámetros operacionales que, a la fecha de emisión de 
+esta carta de verificación de SSCC, se encuentran aprobados por el Coordinador Eléctrico. 
+a) Central TER Nueva Aldea II 
+• 
+Potencia máxima bruta: 10,313 [MW] 
+• 
+Potencia máxima neta:  9,885 [MW] 
+• 
+Potencia mínima bruta: 2,000 [MW]  
+• 
+Potencia mínima neta1: 1,917 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF)  
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia 
+• La Central Nueva Aldea II U1 no cuenta con un parámetro en el sistema de control 
+que permita ajustar las tasas de toma y bajada de carga, ya que los cambios de tasa 
+de toma y bajada de carga se realizan de forma manual, operando las manillas 
+disponibles en el tablero de control.  
+• TER Nueva Aldea II no cumple con el tiempo de sincronización de 5 minutos. Dado 
+lo anterior, no se verifica en CTF frío. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Arauco Bioenergía 
+SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en la página siguiente 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+a) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Central TER Nueva 
+Aldea II 
+Diésel 
+Tasa normal de 
+operación [MW/min] 
+Subida 
+7,68 
+Bajada 
+7,78 
+Tasa máxima de 
+operación [MW/min] (1) 
+Subida 
+7,68 
+Bajada 
+7,78 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+Bajada 
+<5 
+Aporte CTF [MW] (2) 
+Subida 
+7,968 
+Bajada 
+-7,968 
+Límite de regulación superior [MW] 
+(3) 
+10,313 
+Límite de regulación inferior [MW] 
+(3) 
+2,000 
+(1) Los cambios en la tasa de toma y bajada de carga se realizan de forma manual, operando manillas en el tablero de 
+control. El valor máximo corresponde a 7,68 MW/min para subida y 7,78 MW/min para bajada de carga y puede ser reducida 
+de manera manual por el operador de la central a solicitud del Coordinador. 
+(2) La reserva se determina como la diferencia entre la potencia neta máxima y la potencia neta mínima, correspondientes 
+a 9,885 MW y 1,917 MW, respectivamente 
+(3) Los límites de regulación, correspondientes a la potencia bruta y al aporte máximo de CTF, podrán verse modificados 
+en caso de que se actualicen los parámetros operacionales de la central. 
+ 
+ 

@@ -1,0 +1,132 @@
+ 
+ 
+__________________________________________________________________________________________________________ 
+ 
+Sol de Los Andes SpA. Los Militares 5953, Oficina 1803, Las Condes - Santiago 
+ 
+OPDE-CL-GR-0777 
+Santiago, septiembre 11, 2025 
+ 
+Sr. Eugenio Quintana 
+Jefe de Estudios Eléctricos 
+Coordinador Eléctrico Nacional (CEN) 
+Av. Parque Isidora 1061 
+Pudahuel 
+ 
+Ref.: 
+Participación en Esquema EDAG Zona Norte de 
+central PFV Sol de los Andes  
+ 
+Ant:  
+[1] 
+Carta DE 03967-25, publicación del Informe de 
+Servicios Complementarios 2026, versión junio 2025, 
+de fecha 30 de junio de 2025 (ISSCC). 
+[2] 
+Carta DE04095-25, Incorporación de unidades 
+generadoras adicionales al EDAG de la Zona Norte 
+del PDCE ZN, de fecha 7 de julio de 2025. 
+[3] 
+Carta DE05007-25, Proceso de Verificación de 
+Instalaciones de Generación para la Prestación de 
+Servicios Complementarios próximos a vencer de 
+acuerdo con Cronograma Vigente de fecha 13 de 
+agosto de 2025. 
+[4] 
+Carta OPDE-CL-GR-0764, Solicita Declaración en 
+Construcción – BESS Sol de Los Andes, de fecha 18 de 
+agosto de 2025. 
+[5] 
+Carta 
+OPDE-CL-GR-0767, 
+solicita 
+reunión 
+y 
+reconsiderar participación de central PFV Sol de los 
+Andes en el esquema EDAG 
+ 
+ 
+De nuestra consideración, 
+ 
+Yo, Carlos Rodolfo Ortiz Gajardo, en representación de Sol de Los Andes SpA (ex AustrianSolar Chile Uno 
+SpA), ambos domiciliados para todos los efectos en Los Militares 5953, Oficina 1803, Las Condes, Santiago, 
+mediante la presente me dirijo a usted en relación con vuestra solicitud [2] de incorporar a la central PFV 
+Sol de los Andes en el Esquema EDAG por Contingencia Específica asociado a PDCE Zona Norte, según lo 
+indicado en el Informe de Servicios Complementarios de 2026, informado en [1].   
+ 
+Sobre el cumplimiento del Esquema de EDAG referido, por la presente carta solicitamos excluir a la central 
+Sol de los Andes del EDAG asociado al PDCE Zona Norte, atendido que la topología eléctrica de la planta 
+no permite la desconexión independiente de la generación fotovoltaica respecto del sistema de 
+almacenamiento (BESS) que exige el ISSCC para instalaciones con almacenamiento. Solicitamos considerar 
+los siguientes factores que respaldan nuestra solicitud: 
+ 
+1. Marco ISSCC aplicable [1]: El ISSCC 2026 establece que, en centrales con almacenamiento, el 
+automatismo debe ser capaz de aislar y desconectar exclusivamente la generación, manteniendo 
+en servicio el BESS cuando esté cargando, y que el BESS solo se desconecte si está inyectando. 
+ 
+
+ 
+ 
+ 
+__________________________________________________________________________________________________________ 
+ 
+Sol de Los Andes SpA. Los Militares 5953, Oficina 1803, Las Condes - Santiago 
+2. Condición particular de Sol de los Ande: Este activo fotovoltaico entrará en servicio como central 
+híbrida PV+BESS con acoplamiento compartiendo una misma barra de MT y vía única de 
+evacuación a SET. Los unifilares muestran que los ramales BESS (“CIRCUITO 1–4 – HIBRIDACIÓN 
+PSFV Sol de los Andes”) se acoplan en la misma barra de MT que los circuitos de generación solar 
+(“CIRCUITO 1–5 PFV Sol de Los Andes”) antes de evacuar a la SET. En esta configuración no 
+existen dos barras MT independientes ni un seccionamiento que permita, ante una orden EDAG, 
+desconectar únicamente la generación PV sin afectar al BESS conectado al mismo punto común 
+de acoplamiento. 
+ 
+3. Incompatibilidad práctica con el requisito ISSCC: Dado el bus común de MT, cualquier actuación 
+tipo EDAG que opere por apertura del punto de evacuación o por trip de barra implica 
+desconectar simultáneamente PV y BESS, lo que contradice el requisito de mantener el 
+almacenamiento en servicio cuando está cargando y desconectarlo solo si inyecta. En 
+consecuencia, incluir a Sol de los Andes en EDAG bajo su configuración actual no es consistente 
+con el propio diseño funcional del esquema para plantas con almacenamiento definido en el 
+ISSCC. 
+ 
+4. Clasificación y listado vigentes:  Advertimos que en el ISSCC la central figura actualmente como 
+PFV dentro de los escalones del EDAG Zona Norte, situación que no refleja su condición híbrida 
+PV+BESS. Solicitamos ajustar la clasificación y excluir a Sol de los Andes del listado de unidades 
+llamadas a EDAG ya que subsiste la imposibilidad de separación PV/BESS. 
+ 
+Adjuntamos archivo unifilar en PDF, que evidencia el punto común de acoplamiento en MT y la 
+inexistencia de seccionamiento selectivo PV/BESS. Agradeceremos confirmar la exclusión de Sol de los 
+Andes del EDAG y la reclasificación operativa como planta híbrida PV+BESS, en línea con el ISSCC y la 
+imposibilidad técnica actual. 
+ 
+Esperamos vuestra favorable respuesta al respecto y expresamos nuestra disposición a remitir cualquier 
+antecedente adicional para su consideración. En caso de requerirlo, nuestros equipos de trabajo se 
+encuentran desde ya a completa disposición del CEN para contestar cualquier duda o inquietud, o para 
+enviar cualquier información adicional que Ud. estime pertinente, a través de correo electrónico, que 
+deberá dirigirse conjuntamente a fcarcos@opdenergy, ndiaz@opdenergy.com, cortiz@opdenergy.com, 
+atocornal@opdenergy.com   
+ 
+Mi poder para representar a AustrianSolar Chile SpA (hoy Sol de Los Andes SpA) consta en escritura 
+pública de fecha 12 de octubre de 2021, otorgada en la Notaría de Santiago de don Roberto Cifuentes 
+Allel (Repertorio No. 15993 /2021) 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________ 
+Carlos Rodolfo Ortiz Gajardo  
+19.457.444-4 
+Representante Legal 
+Sol de Los Andes SpA 
+CARLOS 
+RODOLFO 
+ORTIZ 
+GAJARDO
+Firmado 
+digitalmente por 
+CARLOS RODOLFO 
+ORTIZ GAJARDO 
+Fecha: 2025.09.11 
+23:24:45 -03'00'

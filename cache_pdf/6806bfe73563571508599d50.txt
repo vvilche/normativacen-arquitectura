@@ -1,0 +1,68 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+  Santiago, 21 de abril de 2025 
+DE 02384-25 
+Señores 
+Encargados 
+Empresas Distribuidoras 
+Presente 
+ 
+Ref.:  Respecto del registro actualizado de los 
+PMGD conectados a instalaciones de 
+distribución. 
+De mi consideración: 
+Por medio de la presente, y en conformidad con lo dispuesto en el Artículo 72°-8 de la Ley 
+General de Servicios Eléctricos sobre los Sistemas de Información Pública del Coordinador, 
+solicitamos a su representada la entrega de la información correspondiente al registro 
+actualizado de los PMGD conectados a sus instalaciones de distribución. 
+En este contexto, y de acuerdo con el Artículo 7 sobre Información Técnica Mínima del Anexo 
+Técnico de Información de Instalaciones y Equipamiento, el Coordinador puede solicitar 
+información adicional cuando sea necesario para cumplir con sus funciones. Además, 
+conforme a lo dispuesto en la Norma Técnica de Conexión y Operación de PMGD en 
+Instalaciones de Media Tensión, específicamente en el Capítulo 2, que aborda la Información 
+Pública de las Redes de Distribución, así como en los artículos relacionados con el alcance y 
+detalle de la información técnica de los sistemas de generación, solicitamos la entrega de los 
+antecedentes correspondientes a los siguientes puntos: 
+1. Artículo 2-3: Alcance de la Información Técnica de las Redes de Distribución 
+Listado de Alimentadores, que debe incluir: 
+• 
+Código único y nombre del Alimentador. 
+• 
+Código único y nombre del paño en la base de información técnica del 
+Coordinador, donde se conecta el alimentador en la subestación primaria de 
+distribución. 
+2. Artículo 2-5: Información Técnica de los Sistemas de Generación 
+Listado de PMGD conectados por Alimentador, que debe incluir: 
+• 
+Código único y nombre del Alimentador. 
+• 
+Código único y nombre del PMGD. 
+Solicitamos que los antecedentes indicados sean entregados dentro del plazo máximo de diez 
+(10) días hábiles en el formato para completar la información requerida se encuentra adjunto 
+a la presente carta, el cual deberá ser utilizado para asegurar la correcta entrega de los 
+antecedentes solicitados al siguiente buzón infotecnica@coordinador.cl. 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Finalmente, en caso de dudas o consultas respecto a este requerimiento, pueden 
+contactarnos a través del mismo buzón. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+           Erick Zbinden A. 
+        Gerente de Planificación y Desarrollo de la Red 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CHO/VAC 
+c.c.: 
+ 
+Encargados titulares – Empresas PMGD 
+Sra. Carla Hernández O. - Subgerente de interconexión de proyectos. 
+Sr. Víctor Álvarez C. - Jefe Departamento Activos e Información Técnica. 

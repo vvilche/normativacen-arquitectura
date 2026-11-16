@@ -1,0 +1,422 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 20 de marzo de 2026 
+DE 01854-26 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 093 al 097 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 093-2026 al EAF 097-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC > 2026 > Febrero > Cálculo por EAF: 
+ 
+1. EAF 093-2026 
+2. EAF 094-2026 
+3. EAF 095-2026 
+4. EAF 096-2026 
+5. EAF 097-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el miércoles 25 de marzo 
+de 2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+c.c.:  
+Sr. Camilo Sanhueza Bravo – Encargado Titular Empresa Eléctrica Transemel S.A. 
+Sr. Víctor Gutiérrez González – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Guillermo Eduardo Guerra Godoy – Encargado Titular Empresa Eléctrica Puente Alto S.A. 
+Sr. Guillermo Eduardo Guerra Godoy – Encargado Titular Transmisora Eléctrica Cordillera SpA 
+Sr. Juan Eduardo Muñoz Tapia – Encargado Titular Engie Energía Chile S.A. 
+Sr. Jaime Acevedo Salinas – Encargado Titular Chilquinta Transmisión S.A. 
+Sr. Luis Eduardo Sepúlveda Iturra – Encargado Titular Chilquinta Distribución S.A. 
+Sr. Felipe Aravena Cofré – Encargado Titular Compañía Eléctrica del Litoral S.A. 
+Sr. Felipe Aravena Cofré – Encargado Titular Energía de Casablanca S.A. 
+Sra. María José Reveco – Encargada Titular Transelec S.A. 
+Sra. Carolina Valderrama Campos – Encargada Titular Codelco (Corporación Nacional del Cobre) 
+DBCD/DTE-SSCC/SGASO 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras 
+ 
+EAF (*) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 093-2026 
+20-02-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Pacífico 
+Parcial 
+Si 
+El siguiente cliente libre en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+• 
+HOTELERA Y TURISMO OCEANO S.A. 
+(78512450) BA S/E PACIFICO 13.8KV 
+ 
+Enviar antecedentes corregidos, indicando para el 
+cliente libre la respectiva clave de balance. 
+EAF 094-2026 
+21-02-2026 
+Empresa Eléctrica 
+Puente Alto S.A. 
+S/E Costanera 
+S/E Puente Alto 
+(TEC) 
+Parcial 
+SI 
+Los siguientes clientes libres en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+• 
+COMERCIALIZADORA S.A. (81675600) BA 
+S/E PUENTE ALTO 12KV B2 
+• 
+HIPERMERCADOS 
+TOTTUS 
+S.A. 
+(96792430) BA S/E PUENTE ALTO 12KV B3 
+• 
+F. Y F. CORDILLERA (96587230) BA S/E 
+PUENTE ALTO 12KV B2 
+• 
+SOC ADM DE CENTROS COMERCIALES 
+(76588066) BA S/E PUENTE ALTO 12KV B2 
+• 
+HIPERMERCADOS 
+TOTTUS 
+S.A. 
+(96792430) BA S/E PUENTE ALTO 12KV B2 
+• 
+SUPERMERCADOS MONTSERRAT SAC. 
+(93307000) BA S/E COSTANERA 12.5KV B2 
+• 
+ARENEX 
+S 
+A 
+(79662760) 
+BA 
+S/E 
+COSTANERA 12.5KV B2 
+ 
+Enviar antecedentes corregidos, indicando para 
+cada cliente libre la respectiva clave de balance. 
+EAF 094-2026 
+21-02-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Puente Alto 
+(TEC) 
+Parcial 
+SI 
+Los alimentadores Cerro La Ballena y Casas Viejas 
+(S/E Puente Alto (TEC)) tienen hora de normalización 
+equivalente previa a la hora de disponibilidad de la 
+barra. 
+ 
+Se solicita detallar el mecanismo de recuperación 
+de estas cargas para los alimentadores donde esto 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+EAF (*) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+se presente, y con el desglose requerido por la 
+SEC, esto es comunal y por zona de tarificación. 
+EAF 095-2026 
+21-02-2026 
+Compañía General 
+de Electricidad 
+S/E Pozo 
+Almonte 
+Parcial 
+SI 
+La 
+información 
+proporcionada 
+no 
+contenía 
+la 
+desagregación comunal respectiva para el alimentador 
+“Pampino”, solo se remitió un solo bloque de 
+información para las comunas de Pozo Almonte, Huara 
+y Colchane, omitiendo la desagregación comunal. 
+ 
+Por lo tanto, se solicita detallar los consumos para 
+el alimentador con el desglose requerido por la 
+SEC, esto es con la desagregación comunal y por 
+zona de tarificación. 
+ 
+EAF 096-2026 
+21-02-2026 
+Energía de 
+Casablanca S.A. 
+S/E Quintay 
+S/E Algarrobo 
+Norte 
+Parcial 
+Si 
+El alimentador El Batro (S/E Quintay) tiene hora de 
+normalización equivalente previa a la hora de 
+disponibilidad de la barra. 
+ 
+Se solicita detallar el mecanismo de recuperación 
+de estas cargas para este alimentador donde esto 
+se presente, y con el desglose requerido por la 
+SEC, esto es comunal y por zona de tarificación. 
+EAF 096-2026 
+21-02-2026 
+Chilquinta 
+Distribución S.A. 
+S/E Quintay 
+Parcial 
+Si 
+El alimentador Santa Augusta (S/E Quintay) tiene hora 
+de normalización equivalente previa a la hora de 
+disponibilidad de la barra. 
+ 
+Se solicita detallar el mecanismo de recuperación 
+de estas cargas para este alimentador donde esto 
+se presente, y con el desglose requerido por la 
+SEC, esto es comunal y por zona de tarificación. 
+EAF 097-2026 
+22-02-2026 
+Chilquinta 
+Distribución S.A. 
+S/E San Rafael 
+S/E San Felipe 
+S/E Nueva 
+Panquehue 
+ 
+Parcial 
+Si 
+La 
+información 
+proporcionada 
+no 
+contenía 
+la 
+desagregación comunal respectiva para los siguientes 
+alimentadores: 
+ 
+• 
+Para el alimentador “Los Andes” solo se 
+remitió 
+información 
+relacionada 
+a 
+las 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+EAF (*) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+comunas Calle Larga y Los Andes, omitiendo 
+la comuna de Rinconada. 
+ 
+• 
+Para el alimentador “San Vicente” solo se 
+remitió 
+información 
+relacionada 
+a 
+las 
+comunas 
+Los 
+Andes 
+y 
+San 
+Esteban, 
+omitiendo la comuna de Calle Larga. 
+ 
+Por lo tanto, se solicita detallar los consumos para 
+cada uno de los alimentadores mencionados, con 
+el desglose requerido por la SEC, esto es comunal 
+y por zona de tarificación. 
+ 
+Los siguientes clientes libres en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+• 
+ESVAL S.A (76000739) BA S/E SAN RAFAEL 
+(CHILQUINTA) 23kV BP1 
+• 
+SOCIEDAD 
+ADMINISTRADORA 
+DE 
+CENTROS COMERCIALES SPA  (76588066) 
+BA S/E SAN RAFAEL (CHILQUINTA) 12kV 
+BP2 
+• 
+HIPERMERCADOS 
+TOTTUS 
+S.A. 
+(78627210) 
+BA 
+S/E 
+SAN 
+RAFAEL 
+(CHILQUINTA) 12kV BP2 
+• 
+CASINO RINCONADA S A  (99598900) BA 
+S/E SAN RAFAEL (CHILQUINTA) 23kV BP1 
+• 
+INVERSIONES 
+Y 
+SERVICIOS 
+GUADALQUIVIR LTDA. (76837530) BA S/E 
+SAN RAFAEL (CHILQUINTA) 23kV BP1 
+• 
+AGRICOLA PEPPI SPA (79867680) BA S/E 
+SAN RAFAEL (CHILQUINTA) 23kV BP1 
+• 
+EXP. DE MOSTOS Y JUGOS JUCOSOL S.A. 
+(96910300) 
+BA 
+S/E 
+SAN 
+RAFAEL 
+(CHILQUINTA) 23kV BP1 
+• 
+ESVAL S A (76000739) BA S/E SAN RAFAEL 
+(CHILQUINTA) 12kV BP2 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+EAF (*) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+• 
+AGRICOLA MONCURI SPA (96525040) BA 
+S/E SAN RAFAEL (CHILQUINTA) 12kV BP2 
+• 
+AGRICOLA RIO BLANCO S.A. (86162600) 
+BA S/E SAN RAFAEL (CHILQUINTA) 12kV 
+BP2 
+• 
+AGRÍCOLA BROWN S.A. (84485800) BA S/E 
+SAN RAFAEL (CHILQUINTA) 12kV BP2 
+• 
+CORMECANICA S.A. (93367000) BA S/E 
+SAN RAFAEL (CHILQUINTA) 12kV BP2 
+ 
+Enviar antecedentes corregidos, indicando para 
+cada cliente libre la respectiva clave de balance. 
+ 
+ 
+(*) En el EAF N° 096 la información recibida de la empresa distribuidora Compañía Eléctrica del Litoral S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+ 

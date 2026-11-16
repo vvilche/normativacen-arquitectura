@@ -1,0 +1,73 @@
+ 
+Sonnedix Conejo Solar SpA 
+Magdalena 140, Oficina 601 
+Las Condes, Santiago 
+sonnedix.com 
+CONFIDENTIAL 
+Santiago, 20 de julio de 2026 
+ 
+SCone-013-26 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+Ref.: Respuesta a Carta DE 04209-26, Solicitud de 
+antecedentes técnicos que respalden los Informes de 
+Limitación (IL) declarados para la prestación de Control 
+Dinámico de Tensión (CDT). 
+ 
+De mi consideración, 
+ 
+Me dirijo a usted en atención a lo solicitado mediante la carta de la referencia, con el objeto de informar 
+los antecedentes técnicos que respaldan el Informe de Limitación (IL) N° 2026001230, registrado en la 
+plataforma NeoMante para la central PFV Conejo Solar, así como las medidas correctivas orientadas a 
+normalizar la prestación del Control Dinámico de Tensión (CDT). En este contexto, se han identificado las 
+acciones necesarias para restablecer la operación en modo CDT y dar respuesta a las observaciones 
+registradas para PFV Conejo Solar, conforme al siguiente detalle: 
+ 
+1. Se realizó la adquisición de un nuevo servidor que será utilizado como puerta de enlace entre el 
+PPC y los inversores, con el objetivo de optimizar los tiempos de comunicación y respuesta del 
+sistema de control de planta, facilitando la ejecución de las pruebas requeridas por el Coordinador 
+y contribuyendo a la normalización de la funcionalidad CDT. 
+2. Asimismo, continuaremos con el proceso de análisis, validación e implementación de las medidas 
+correctivas necesarias hasta lograr el cumplimiento íntegro de los requerimientos operacionales 
+establecidos, manteniendo informado al Coordinador respecto de los avances y de la 
+actualización del estado del IL en la plataforma NeoMante. 
+ 
+Las actividades asociadas a la normalización de la funcionalidad CDT se ejecutarán de acuerdo con el 
+siguiente detalle: 
+ 
+Actividad 
+Fecha estimada 
+Instalación y puesta en 
+servicio del servidor de 
+enlace PPC – inversores 
+31 de agosto de 2026 
+Pruebas de normalización 
+y levantamiento del IL N° 
+2026001230 
+31 de agosto de 2026 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+
+ 
+Sonnedix Conejo Solar SpA 
+Magdalena 140, Oficina 601 
+Las Condes, Santiago 
+sonnedix.com 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Claudio Silva Bustamante 
+Encargado Suplente 
+Sonnedix Conejo Solar SpA 

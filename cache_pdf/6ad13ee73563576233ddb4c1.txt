@@ -1,0 +1,61 @@
+ 
+Av. Presidente Riesco 5561, Piso 17 
+Las Condes, Santiago, Chile 
+ 
+Santiago, 15 de octubre de 2026 
+Gerencia de Centros de Despacho y Control Nº03814-2026 
+ 
+ 
+Señor 
+Rodrigo Espinoza  
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+ 
+ 
+Ref.: Responde a cartas DE05854-26 y DE06602-
+26, que solicitan antecedentes técnicos de los 
+relés con función de gradiente de frecuencia 
+(ROCOF) asociados a esquemas EDAC y EDAG. 
+ 
+ 
+Junto con saludar, informamos a usted que en la carpeta anexa se encuentran los 
+antecedentes que dan respuesta a las cartas DE05854-26 y DE06602-26, relativas a los 
+esquemas EDAC y EDAG. Respecto del archivo Excel Anexo_2, este fue completado y 
+cargado en la plataforma ConectaCEN. 
+ 
+ 
+Quedamos a su disposición para atender consultas sobre el particular. 
+ 
+Saluda Atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Víctor Gutiérrez González 
+Encargado Titular 
+Compañía General de Electricidad S.A. 
+ 
+Cc:  
+Sr. Victor Velar - Subgerente de Estudios y Simulación en Tiempo Real -Coordinador Eléctrico Nacional  
+Sr. Patricio Valenzuela - Subgerente de Control y Desarrollo Operacional -Coordinador Eléctrico Nacional  
+Sr. Luis Calabrán - Subgerente de Operación en Tiempo Real -Coordinador Eléctrico Nacional 
+Sr. Eugenio Quintana – Jefe Estudios Eléctricos Aplicados - Coordinador Eléctrico Nacional  
+Sr. Jorge Vargas – Jefe Modelación y Aplicaciones EMS - Coordinador Eléctrico Nacional 
+VICTOR 
+ALFONSO 
+GUTIERREZ 
+GONZALEZ
+Firmado 
+digitalmente por 
+VICTOR ALFONSO 
+GUTIERREZ 
+GONZALEZ 
+Fecha: 2026.10.15 
+16:33:30 -03'00'

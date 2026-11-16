@@ -1,0 +1,36 @@
+Santiago, 24 de abril de 2026
+Señores
+Coordinador Eléctrico Nacional 
+Presente
+Ref.: Envío anexos de servicios complementarios - Arena BESS NUP4749
+De nuestra consideración: 
+Nos comunicamos con usted en representación de nuestro cliente CI GMF II Arena ProjectCo 
+SpA, quien en cumplimiento de lo establecido en la Norma Técnica de Seguridad y Calidad de 
+Servicio y por medio de la presente hacemos entrega de los informes y anexos de servicios 
+complementarios correspondientes a proyecto Arena BESS con NUP4749.
+Los antecedentes remitidos corresponden a la información requerida para registro y validación 
+por parte del Coordinador eléctrico nacional;
+
+Control primario de frecuencia
+
+Control terciario de frecuencia 
+
+Control de tensión
+Dentro de las carpetas, los informes de cada prueba de EO se complementan con sus propios 
+ensayos. Se encuentran en formato CSV con su tag correspondiente.
+Conforme a lo indicado en la normativa vigente.
+En caso de requerirse antecedentes adicionales o aclaraciones, quedamos atentos a sus 
+comentarios.
+Sin otro particular, le saluda atentamente,
+---------------------------------------
+Gabriela Silva Parraguez. 
+Coordinador de Proyecto
+WSP Chile.
+Firmado digitalmente por Silva,
+Gabriela (CLGS200427)
+DN: cn=Silva, Gabriela
+(CLGS200427), ou=WSPObjects,
+email=gabriela.silva@wsp.com
+Fecha: 2026.04.24 13:13:48 -04'00'
+Silva, Gabriela
+(CLGS200427)

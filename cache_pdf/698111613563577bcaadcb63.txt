@@ -1,0 +1,537 @@
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Santiago, 30 de enero de 2026 
+OP 021-26 
+ 
+Srta. 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA COMPLEMENTARIA A CARTA DE08422-25: DESEMPEÑO 
+DEFICIENTE EN LA PRESTACIÓN DE LOS SERVICIOS COMPLEMENTARIOS DE 
+CONTROL 
+PRIMARIO 
+DE 
+FRECUENCIA, 
+CONTROL 
+TERCIARIO 
+DE 
+FRECUENCIA Y CONTROL DE TENSIÓN DE LAS UNIDADES GENERADORAS. 
+ 
+De nuestra consideración, 
+ 
+Me refiero a la comunicación DE08422-25 en la que de acuerdo con la información 
+analizada por el Coordinador, se informa que parques y unidades de generación de mi 
+representada han presentado un desempeño de bajo estándar normativo en la prestación 
+de los SSCC de CPF y CT. Adicionalmente, se solicita el envío de antecedentes para 
+detallar el comportamiento descrito, en específico se solicita lo siguiente: 
+a) Informe técnico que dé cuenta de la causa raíz que origina el desempeño no 
+satisfactorio de la prestación de los SSCC de CPF, CTF y CT, según corresponda. 
+Dicho informe deberá contar al menos con el diagnóstico y la descripción del 
+problema presentado, adjuntando los antecedentes de respaldo y el análisis de 
+variables operacionales que sustenten el motivo del bajo desempeño.  
+b) Indicar las acciones correctivas que ha implementado o implementará con el fin de 
+mejorar el desempeño de sus unidades.  
+c) En el caso de requerir tomar acciones correctivas, deberá enviar un plan de trabajo 
+indicando claramente las actividades a realizar y los plazos en que estas se llevarán 
+a cabo, especificando el impacto esperado de cada acción en el desempeño de las 
+instalaciones.  
+Este plan de trabajo debe considerar que las acciones destinadas a mejorar el 
+desempeño de la prestación de SSCC estén implementadas en un plazo no superior 
+a 30 días corridos, contados desde el plazo solicitado de respuesta a la presente 
+comunicación. 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Las instalaciones de mi representada incluidas en la comunicación DE08422-25 son las 
+siguientes: 
+• 
+Unidades generadoras con mal desempeño en CPF durante los meses de agosto, 
+septiembre y octubre de 2025. 
+ 
+TER Atacama CC1-TG1: De acuerdo con lo indicado en la comunicación DE08422-25 y su 
+anexo, se informa un desempeño deficiente en la prestación de CPF+ y CPF-, indicando 
+como observación, que la “Unidad no realiza CPF cuando las variaciones de frecuencia se 
+encuentran dentro de la banda de 0,2 Hz”. Al respecto, se indica que el regulador de 
+velocidad de la unidad tiene ajustado como banda muerta para el CPF un valor de 25 [mHz] 
+y un estatismo de 8%, por lo que posee las condiciones necesarias para regular frecuencia 
+en la banda descrita en la comunicación. No obstante, se están analizando en detalle los 
+registros de la operación de la central en el periodo solicitado y en específico los periodos 
+donde se informa un desempeño deficiente para determinar las condiciones de operación 
+de la central, lo que permitirá definir acciones  y planes de mejora en caso de ser requeridos. 
+ 
+• 
+Unidades generadoras con mal desempeño en CT durante los meses de agosto, 
+septiembre y octubre de 2025. 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+Al respecto, de acuerdo con los registros de la calificación de la prestación del SDC de CT 
+y a los registros de operación podemos indicar lo siguiente respecto de las instalaciones de 
+mi representada: 
+ 
+• 
+PE Renaico: Según nuestros registros el PE Renaico respondió correctamente a las 
+instrucciones para prestar CT en el periodo entre agosto y octubre 2025. Solamente 
+presenta un no cumplimiento el 04 de septiembre de 2025, condición que se debe a 
+un error en el envío de consigna al parque, situación resuelta que no requiere plan de 
+trabajo. Anexo a la presente comunicación se indica el detalle de este análisis. 
+ 
+Fecha 
+Unidad 
+Respuesta CT 
+Automática 
+Respuesta 
+CT por 
+Instrucción 
+Disp. 
+Desempeño 
+Factor de 
+Desempeño 
+Comentario 
+12-08-
+2025 
+PE RENAICO 
+(U1-U44) 
+No participa 
+0% 
+100% 
+0% 
+0% 
+Responde 
+Correctamente 
+13-08-
+2025 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+21-08-
+2025 
+No participa 
+0% 
+100% 
+0% 
+0% 
+Responde 
+Correctamente 
+26-08-
+2025 
+No participa 
+0% 
+100% 
+0% 
+0% 
+Responde 
+Correctamente 
+04-09-
+2025 
+No participa 
+0% 
+100% 
+0% 
+0% 
+Error en envío 
+de consigna al 
+parque 
+30-09-
+2025 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+01-10-
+2025 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+03-10-
+2025 
+PE RENAICO 
+(U1-U44) 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+07-10-
+2025 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+08-10-
+2025 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+12-10-
+2025 
+No participa 
+0% 
+100% 
+0% 
+0% 
+Responde 
+Correctamente 
+13-10-
+2025 
+No participa 
+0% 
+100% 
+0% 
+0% 
+Responde 
+Correctamente 
+18-10-
+2025 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+29-10-
+2025 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+• 
+PFV Finis Terrae: Según nuestros registros el PFV Finis Terrae respondió 
+correctamente a las instrucciones para prestar CT en el periodo entre agosto y octubre 
+2025. Anexo a la presente comunicación se indica el detalle de este análisis. 
+ 
+Fecha 
+Unidad 
+Respuesta CT 
+Automática 
+Respuesta 
+CT por 
+Instrucción 
+Disp. 
+Desempeño 
+Factor de 
+Desempeño 
+Comentario 
+02-08-2025 
+PFV FINIS 
+TERRAE 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+03-08-2025 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+06-08-2025 
+No participa 
+0% 
+100% 
+0% 
+0% 
+Responde 
+Correctamente 
+09-09-2025 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+10-09-2025 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+22-09-2025 
+No participa 
+0% 
+100% 
+0% 
+0% 
+Responde 
+Correctamente 
+01-10-2025 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+09-10-2025 
+ 
+No participa 
+0% 
+100% 
+0% 
+0% 
+Responde 
+Correctamente 
+29-10-2025 
+ 
+No participa 
+100% 
+100% 
+100% 
+100% 
+  
+ 
+• 
+CH Pehuenche U1 y U2: Según nuestros registros la Central Pehuenche respondió 
+correctamente a las instrucciones para prestar CT en el periodo entre agosto y octubre 
+2025, si bien se observan errores menores, se consideran del orden de 2%. Anexo a 
+la presente comunicación se indica el detalle de este análisis. 
+ 
+Fecha 
+Unidad 
+Respuesta CT 
+Automática 
+Respuesta 
+CT por 
+Instrucción 
+Disp. 
+Desempeño 
+Factor de 
+Desempeño 
+Comentario 
+07-08-2025 PEHUENCHE 
+U1 
+99% 
+0% 
+100% 
+49% 
+0% 
+RESPUESTA 
+CORRECTA 
+19-08-2025 PEHUENCHE 
+U1 
+98% 
+0% 
+100% 
+49% 
+0% 
+RESPUESTA 
+CORRECTA, 
+ERROR DE APP 
+0,2-0,3 KV 
+RESPECTO A LA 
+CONSIGNA 
+19-08-2025 PEHUENCHE 
+U2 
+99% 
+0% 
+100% 
+49% 
+0% 
+RESPUESTA 
+CORRECTA 
+22-08-2025 PEHUENCHE 
+U1 
+98% 
+0% 
+100% 
+49% 
+0% 
+RESPUESTA 
+CORRECTA, 
+ERROR DE APP 
+0,2-0,3 KV 
+RESPECTO A LA 
+CONSIGNA 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Fecha 
+Unidad 
+Respuesta CT 
+Automática 
+Respuesta 
+CT por 
+Instrucción 
+Disp. 
+Desempeño 
+Factor de 
+Desempeño 
+Comentario 
+22-08-2025 PEHUENCHE 
+U2 
+99% 
+0% 
+100% 
+49% 
+0% 
+RESPUESTA 
+CORRECTA 
+29-08-2025 PEHUENCHE 
+U1 
+98% 
+100% 
+100% 
+99% 
+100% 
+  
+31-08-2025 PEHUENCHE 
+U2 
+98% 
+100% 
+100% 
+99% 
+100% 
+  
+11-10-2025 PEHUENCHE 
+U1 
+98% 
+100% 
+100% 
+99% 
+100% 
+  
+11-10-2025 PEHUENCHE 
+U2 
+98% 
+100% 
+100% 
+99% 
+100% 
+  
+28-10-2025 PEHUENCHE 
+U1 
+98% 
+0% 
+100% 
+49% 
+0% 
+RESPUESTA 
+CORRECTA, 
+ERROR DE APP 
+0,2-0,3 KV 
+RESPECTO A LA 
+CONSIGNA 
+28-10-2025 PEHUENCHE 
+U2 
+99% 
+0% 
+100% 
+49% 
+0% 
+RESPUESTA 
+CORRECTA 
+29-10-2025 PEHUENCHE 
+U1 
+98% 
+0% 
+100% 
+49% 
+0% 
+RESPUESTA 
+CORRECTA 
+29-10-2025 PEHUENCHE 
+U2 
+98% 
+0% 
+100% 
+49% 
+0% 
+RESPUESTA 
+CORRECTA 
+31-10-2025 PEHUENCHE 
+U1 
+98% 
+100% 
+100% 
+99% 
+100% 
+  
+ 
+En consecuencia, solicitamos respetuosamente recalificar el desempeño del PE Renaico, 
+PFV Finis Terrae y CH Pehuenche de acuerdo con estos antecedentes. 
+ 
+El anexo de esta comunicación se encuentra en el siguiente enlace: 
+ 
+ 
+https://drive.google.com/drive/folders/1yeitRyhJwvjzP7_J7OjyMm74xIGIak_w 
+ 
+ 
+ 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación, le saluda 
+atentamente, 
+ 
+ 
+ 
+ 
+_________________________ 
+Miguel Buzunariz 
+Encargado CEN. 
+Enel Generación Chile S.A. 
+Enel Green Power Chile S.A. 
+Empresa Eléctrica Pehuenche S.A. 
+ 
+ 
+ 

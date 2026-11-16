@@ -1,0 +1,64 @@
+Santiago, 02 de abril de 2025 
+DE 01951-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente  
+Ref.: 
+Publicación 
+Versión 
+Final 
+de 
+Requisitos Técnicos para tecnologías Grid-
+Forming (GFM) y Grid-Following (GFL), 
+incluyendo respuestas a observaciones 
+recibidas a la Versión Inicial. 
+[1] Carta DE05707-24.
+[2] Carta DE06369-24.
+De mi consideración: 
+El 30 de octubre de 2024, mediante la carta de la Ref. [1], el Coordinador Eléctrico 
+Nacional publicó dos propuestas técnicas en su versión 0 sobre requisitos mínimos 
+para recursos basados en inversores (IBR): una orientada a la tecnología Grid-
+Forming (GFM) y otra a la tecnología Grid-Following (GFL). Ambas propuestas 
+buscan contribuir al establecimiento de estándares técnicos mínimos, asegurando 
+así que los nuevos recursos integrados al sistema eléctrico, e incluso instalaciones 
+existentes cuando sea técnicamente justificado, aporten a la seguridad y 
+confiabilidad de la red. Esto resulta particularmente relevante en un contexto de 
+creciente incorporación de energías renovables y almacenamiento. 
+Adicionalmente, se plantea incorporar estos requisitos en la Norma Técnica de 
+Seguridad y Calidad de Servicio (NTSyCS), considerando que estos atributos y 
+requerimientos son fundamentales para alcanzar los objetivos de la transición 
+energética. 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300
+www.coordinador.cl
+En este sentido, informo que la versión final de dichas propuestas, junto con las 
+respuestas a las observaciones recibidas sobre la versión inicial (cuyo plazo de 
+recepción fue extendido hasta el 15 de enero de 2025, mediante carta de la Ref. 
+[2]), 
+se 
+encuentran 
+disponibles 
+en 
+el 
+sitio 
+web 
+del 
+Coordinador 
+(www.coordinador.cl), en la siguiente dirección: 
+•
+https://www.coordinador.cl/operacion/documentos/requisitos-tecnologias-
+gfm-y-gfl/.
+Sin otro particular, saluda atentamente a Ud., 
+     Ernesto Huber J. 
+    Director Ejecutivo 
+    Coordinador Eléctrico Nacional 
+REV/agc 
+c.c.:       Sra. María Consuelo Mengual H.Directora Unidad Legal. 
+Sr. Rodrigo Barbagelata S. Director Unidad de Regulación. 
+Sr. Erick Zbinden A. Gerente de Planificación y Desarrollo de la Red. 
+Sr. Marcelo Bobadilla M. Gerente de Mercados. 
+Sr. Rodrigo Espinoza V. Gerente de Operación. 
+Sr. Víctor Velar G. Subgerente Estudios y Simulación en Tiempo Real. 

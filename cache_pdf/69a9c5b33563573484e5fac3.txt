@@ -1,0 +1,53 @@
+ 
+Santiago, 05 de marzo 2026                   
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional  
+Presente 
+Ref.:  Respuesta a Carta DE 03635-24 – Apertura intempestiva interruptor 52J8 S/E Cardones 
+ 
+De nuestra consideración: 
+Junto con saludarla, y en respuesta a su carta DE 03635-24, de fecha 18 de julio de 2024, referida a la 
+apertura intempestiva del interruptor 52J8 de S/E Cardones, ocurrida a las 15:06 horas del día 05 de junio 
+de 2024, mediante la cual se solicita la regularización del Informe de Falla de 5° día, venimos en manifestar 
+lo siguiente: 
+a) Informes emitidos por CMP S.A. 
+ 
+CMP S.A., quien era la operadora de Tecnocap S.A. hasta 31 de mayo del 2025, emitió oportunamente los 
+Informes de Falla de 2° día correspondientes a S/E Cerro Negro Norte y S/E Totoralillo, los cuales fueron 
+ingresados conforme a lo establecido en la normativa vigente. Se adjuntan nuevamente dichos 
+antecedentes para su revisión. 
+b) Informe de 5° día 
+ 
+En relación con el Informe de Falla de 5° día, cabe señalar que no se dispuso de antecedentes adicionales 
+relevantes respecto de lo ya informado, tales como el análisis detallado de protecciones solicitado. 
+Asimismo, se tuvo en consideración que la empresa Transelec S.A. emitió el respectivo Informe del 5° día, 
+según consta en el documento “Informe-Diario-05-06-2024” (anexo), donde Transelec S.A. informa lo 
+siguiente: 
+15:06 S/E Cardones interruptor J8 interrupción forzada por protecciones y se pierden 30 MW de consumos 
+de SS/EE Totoralillo y Cerro Negro Norte. Causa Informada: Intervención fortuita durante trabajos 
+programados, según IF 2024002415. 
+En dicho contexto, y atendido que los antecedentes disponibles ya habían sido informados y que el análisis 
+técnico del evento se encontraba contenido en el informe antes mencionado. 
+c) Causa del evento 
+ 
+Finalmente, y conforme a los antecedentes recopilados, el evento tuvo su origen en un error humano en 
+las instalaciones de Transelec S.A. asociado a un rotulado incorrecto, situación que fue detectada y 
+corregida prácticamente de manera inmediata, adoptándose las acciones correspondientes para evitar su 
+reiteración. 
+
+Sin perjuicio de lo anterior, tomamos nota de lo señalado en su comunicación respecto del cumplimiento 
+de los plazos y formalidades establecidos en el Título 6-7 de la Norma Técnica de Seguridad y Calidad de 
+Servicio, y revisaremos nuestros procedimientos internos a fin de asegurar que, en lo sucesivo, los 
+informes requeridos sean ingresados dentro de los plazos definidos, evitando la repetición de situaciones 
+como la observada. 
+Quedamos a su disposición para remitir cualquier antecedente adicional que estime necesario. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Nicolás González Abarca 
+Encargado Titular 
+Tecnocap 

@@ -1,0 +1,53 @@
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+Santiago, 14 de octubre de 2026
+AES 0146-2026
+Señor 
+Ramón Castañeda
+Director Ejecutivo
+Coordinador Eléctrico Nacional
+Ref: Solicitud de Modificación No Relevante (MNR) Etapa 2 NUP 3551 "Automatismo de 
+control de transferencia de la LT 220 kV Alfalfal–Los Almendros"”
+De mi consideración,
+En atención con lo establecido en el Artículo 11 del Anexo Técnico “Requisitos Técnicos 
+Mínimos de Instalaciones que se Interconectan al SI”, solicito a Ud. el inicio del proceso de 
+conexión para el proyecto “Solicitud de Modificación No Relevante (MNR) Etapa 2 NUP 
+3551 "Automatismo de control de transferencia de la LT 220 kV Alfalfal–Los Almendros”. 
+En Formulario “Solicitud Inicio Proceso Modificación No Relevante (MNR)”, adjunto a la 
+presente, se incluyen los antecedentes solicitados en el mencionado Artículo.
+ 
+El proyecto surge como consecuencia de la modificación topológica asociada a la 
+incorporación de la nueva S/E Baja Cordillera (NUP 2412) en la LT Alto Maipo–Florida 2 × 
+110 kV. Se prevé que al Entrar en Operación dicho seccionamiento requerirá ajustes en la 
+lógica de funcionamiento del «Automatismo de control de transferencia de la LT 220 kV 
+Alfalfal–Los Almendros, Etapa 1» (NUP 3551).
+ 
+El objetivo de la Etapa 2 es asegurar que el automatismo correspondiente a la Etapa 1 
+(NUP 3551) continúe controlando la transferencia de la LT Alfalfal–Los Almendros bajo la 
+nueva configuración topológica, que incorpora la S/E Baja Cordillera.
+Sin otro particular, saluda atentamente a Ud.,
+Paola Hartung Martínez
+Representante Legal
+AES Andes S.A.
+
+Electronic Record of Contracts
+This document was generated as a record of certain contracts created, accepted and stored electronically.
+Summary of Contracts
+This document contains the following contracts.
+Title
+ID
+Letter (Aes Andes S.A. and AES)
+8a132117-e19e-4714-88d5-c5de4e1b115b
+Contract signed by:
+Paola Hartung Martínez
+Signer ID:
+74ccb0b8-e89b-4526-97af-ba299863ec4d
+Email:
+paola.hartung@aes.com
+Date / Time:
+Oct 14, 2026 at 5:37 PM UTC
+IP Address:
+186.11.89.68
+User Agent:
+Mozilla/5.0 (iPhone; CPU iPhone OS 27_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/153.0.4234.46 
+Version/27.0 Mobile/15E148 Safari/604.1

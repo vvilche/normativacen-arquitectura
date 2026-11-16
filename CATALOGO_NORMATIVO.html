@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Catálogo de entregables normativos CEN</title>
+<style>
+  :root{--azul:#0b2c4d;--ac:#0a7ea4;--mor:#6a3d9a;--gris:#5a6a7a;--line:#dde5ec;--bg:#f6f8fa}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:#16212c;
+       font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+  header{background:var(--azul);color:#fff;padding:26px 30px}
+  header h1{margin:0 0 5px;font-size:23px;letter-spacing:-.3px}
+  header .s{opacity:.78;font-size:13.5px}
+  .kpis{display:flex;gap:12px;flex-wrap:wrap;margin-top:18px}
+  .kpi{background:rgba(255,255,255,.1);border-radius:8px;padding:10px 15px;min-width:118px}
+  .kpi b{display:block;font-size:21px;line-height:1.2}
+  .kpi span{font-size:11.5px;opacity:.75}
+  .marco{max-width:1000px;margin:0 auto;padding:22px 24px 70px}
+  h2{font-size:15px;color:var(--azul);text-transform:uppercase;letter-spacing:.7px;
+     margin:30px 0 14px;padding-bottom:7px;border-bottom:2px solid var(--ac)}
+  h2 small{text-transform:none;letter-spacing:0;color:var(--gris);font-weight:400;font-size:12.5px}
+  details.norma{background:#fff;border:1px solid var(--line);border-radius:9px;
+       margin-bottom:9px;padding:0;overflow:hidden}
+  details.norma summary{padding:13px 16px;cursor:pointer;display:flex;align-items:center;
+       gap:12px;list-style:none}
+  details.norma summary::-webkit-details-marker{display:none}
+  details.norma summary:hover{background:#f4f8fb}
+  .sigla{font-size:11px;font-weight:700;color:#fff;background:var(--ac);
+         padding:3px 9px;border-radius:5px;letter-spacing:.3px;white-space:nowrap}
+  .nom{flex:1;font-size:14.5px;color:var(--azul)}
+  .n{font-size:16px;font-weight:700;color:var(--ac);white-space:nowrap}
+  .n small{font-weight:400;font-size:10.5px;color:var(--gris);margin-left:4px}
+  details[open] .nom{font-weight:600}
+  .bar{height:5px;background:#eef2f6;border-radius:3px;margin:0 16px}
+  .bar i{display:block;height:100%;border-radius:3px}
+  .tags{display:flex;gap:6px;flex-wrap:wrap;padding:11px 16px 4px}
+  .tag{font-size:10.5px;background:#eef4f8;color:#3b4e60;padding:3px 9px;border-radius:4px}
+  .tag i{font-style:normal;opacity:.55;margin-left:4px}
+  .ents{padding:8px 16px 15px}
+  .ent{border-left:2px solid #e3ebf1;padding:7px 0 7px 12px;margin:7px 0}
+  .ent-h{font-size:13.5px;color:var(--azul)}
+  .ent-h .art{font-size:11px;color:var(--gris);margin-left:8px;font-style:italic}
+  .ent-m{font-size:12.5px;color:#46586a;margin-top:3px}
+  .lbl{font-size:10.5px;text-transform:uppercase;letter-spacing:.5px;
+        color:var(--ac);font-weight:600;margin-right:6px}
+  .anexo{background:#fff;border:1px solid var(--line);border-radius:9px;
+          padding:13px 16px;margin-bottom:8px}
+  .a-h{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+  .a-h b{font-size:13.5px;color:var(--azul);font-weight:600}
+  .a-h .n{font-size:14px;color:var(--mor)}
+  .ents-a{margin-top:7px;display:flex;gap:6px;flex-wrap:wrap}
+  .chip{font-size:11px;background:#f3f0f8;color:#5b4478;padding:3px 9px;border-radius:4px}
+  .mrow{display:flex;align-items:center;gap:11px;margin:5px 0;font-size:13px}
+  .mnom{width:44%;color:#3b4e60;text-align:right;font-size:12.5px}
+  .mbar{flex:1;height:7px;background:#eef2f6;border-radius:4px;overflow:hidden}
+  .mbar i{display:block;height:100%;background:var(--ac);border-radius:4px}
+  .mn{width:52px;text-align:right;font-weight:600;color:var(--azul);font-size:12.5px}
+  .nota{background:#fff;border:1px solid var(--line);border-left:3px solid #c77d0a;
+        border-radius:7px;padding:13px 16px;font-size:13px;color:#3f4e5c;margin-top:14px}
+  .nota b{color:#a8680a}
+  footer{margin-top:32px;padding-top:14px;border-top:1px solid var(--line);
+          font-size:11.5px;color:var(--gris)}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Catálogo de entregables normativos CEN</h1>
+  <div class="s">Cada exigencia con su norma, su artículo, su frecuencia y su evidencia de cierre.
+    Medido sobre 5,612 cartas reales del Coordinador.</div>
+  <div class="kpis">
+    <div class="kpi"><b>13,983</b><span>cartas en el registro</span></div>
+    <div class="kpi"><b>5,612</b><span>con texto leído</span></div>
+    <div class="kpi"><b>4</b><span>normas técnicas</span></div>
+    <div class="kpi"><b>10</b><span>anexos técnicos</span></div>
+    <div class="kpi"><b>36</b><span>entregables declarados</span></div>
+  </div>
+</header>
+
+<div class="marco">
+
+  <h2>Normas técnicas <small>— ordenadas por cuántas cartas las invocan</small></h2>
+  
+<details class="norma">
+  <summary>
+    <span class="sigla">NT SSCC</span>
+    <span class="nom">Norma Técnica de Servicios Complementarios</span>
+    <span class="n">733<small>cartas</small></span>
+  </summary>
+  <div class="bar"><i style="width:100.0%;background:#0a7ea4"></i></div>
+  <div class="tags"><span class="tag">Servicios Complementarios <i>710</i></span><span class="tag">Estudios e Informes <i>18</i></span><span class="tag">Comunicaciones Autoridad/Judiciales <i>4</i></span><span class="tag">Auditorías <i>1</i></span></div>
+  <div class="ents"><div class="ent">
+              <div class="ent-h"><b>Informe Técnico de Verificación SSCC</b>
+                <span class="art">AT Verificación, art. 9</span></div>
+              <div class="ent-m"><span class="lbl">Frecuencia</span> Por servicio y por instalación</div>
+              <div class="ent-m"><span class="lbl">Evidencia de cierre</span> Observaciones del Coordinador o aprobación</div>
+            </div><div class="ent">
+              <div class="ent-h"><b>Anexos de Instalaciones que prestan SSCC</b>
+                <span class="art">AT Verificación</span></div>
+              <div class="ent-m"><span class="lbl">Frecuencia</span> Anual</div>
+              <div class="ent-m"><span class="lbl">Evidencia de cierre</span> Informe SSCC del año publicado</div>
+            </div><div class="ent">
+              <div class="ent-h"><b>Respuesta a observaciones al ITV</b>
+                <span class="art">AT Verificación, art. 9</span></div>
+              <div class="ent-m"><span class="lbl">Frecuencia</span> Por observación, plazo de carta</div>
+              <div class="ent-m"><span class="lbl">Evidencia de cierre</span> Carta de respuesta con antecedentes</div>
+            </div></div>
+</details>
+<details class="norma">
+  <summary>
+    <span class="sigla">NT ISC</span>
+    <span class="nom">Norma Técnica de Indisponibilidad de Suministro y Compensaciones</span>
+    <span class="n">642<small>cartas</small></span>
+  </summary>
+  <div class="bar"><i style="width:87.6%;background:#0a7ea4"></i></div>
+  <div class="tags"><span class="tag">Mantenimiento, Desconexión, Fallas y Limitaciones <i>414</i></span><span class="tag">Indisponibilidades de generación y transmisión <i>225</i></span><span class="tag">Operación Real y Programada <i>2</i></span><span class="tag">Transferencias económicas entre empresas <i>1</i></span></div>
+  <div class="ents"><div class="ent">
+              <div class="ent-h"><b>Registro e informe de evento de falla (EAF)</b>
+                <span class="art">Art. 4-5</span></div>
+              <div class="ent-m"><span class="lbl">Frecuencia</span> Por evento</div>
+              <div class="ent-m"><span class="lbl">Evidencia de cierre</span> Publicación de índices de indisponibilidad y ENS</div>
+            </div><div class="ent">
+              <div class="ent-h"><b>Antecedentes para cálculo de compensaciones</b>
+                <span class="art">Art. 4-5 y siguientes</span></div>
+              <div class="ent-m"><span class="lbl">Frecuencia</span> Por evento</div>
+              <div class="ent-m"><span class="lbl">Evidencia de cierre</span> Instrucción de pago o reembolso del Coordinador</div>
+            </div><div class="ent">
+              <div class="ent-h"><b>Descargos ante instrucción de pago</b>
+                <span class="art">NT ISC</span></div>
+              <div class="ent-m"><span class="lbl">Frecuencia</span> Por instrucción</div>
+              <div class="ent-m"><span class="lbl">Evidencia de cierre</span> Carta con descargos y respaldo técnico</div>
+            </div></div>
+</details>
+<details class="norma">
+  <summary>
+    <span class="sigla">NT SyCS</span>
+    <span class="nom">Norma Técnica de Seguridad y Calidad de Servicio</span>
+    <span class="n">486<small>cartas</small></span>
+  </summary>
+  <div class="bar"><i style="width:66.3%;background:#0a7ea4"></i></div>
+  <div class="tags"><span class="tag">Auditorías <i>279</i></span><span class="tag">Mantenimiento, Desconexión, Fallas y Limitaciones <i>91</i></span><span class="tag">Plataformas para la operación (SCADA) <i>42</i></span><span class="tag">Servicios Complementarios <i>34</i></span><span class="tag">Indisponibilidades de generación y transmisión <i>13</i></span></div>
+  <div class="ents"><div class="ent">
+              <div class="ent-h"><b>Estudio de Sintonización de PSS</b>
+                <span class="art">Título 1-2, art. 1-9</span></div>
+              <div class="ent-m"><span class="lbl">Frecuencia</span> Ante cambio de parque o por instrucción</div>
+              <div class="ent-m"><span class="lbl">Evidencia de cierre</span> Informe final publicado y adoptado por las coordinadas</div>
+            </div><div class="ent">
+              <div class="ent-h"><b>Anexos de Servicios Complementarios</b>
+                <span class="art">Título 1-2</span></div>
+              <div class="ent-m"><span class="lbl">Frecuencia</span> Anual y por cambio de instalación</div>
+              <div class="ent-m"><span class="lbl">Evidencia de cierre</span> Informes EO con ensayos en CSV por tag</div>
+            </div><div class="ent">
+              <div class="ent-h"><b>Plan de acción ante hallazgos</b>
+                <span class="art">Título 4</span></div>
+              <div class="ent-m"><span class="lbl">Frecuencia</span> Por hallazgo</div>
+              <div class="ent-m"><span class="lbl">Evidencia de cierre</span> Carta de respuesta con cronograma</div>
+            </div></div>
+</details>
+<details class="norma">
+  <summary>
+    <span class="sigla">NT CyO</span>
+    <span class="nom">Norma Técnica de Coordinación y Operación</span>
+    <span class="n">131<small>cartas</small></span>
+  </summary>
+  <div class="bar"><i style="width:17.9%;background:#0a7ea4"></i></div>
+  <div class="tags"><span class="tag">Transferencias económicas entre empresas <i>73</i></span><span class="tag">Costos/Precios <i>22</i></span><span class="tag">Operación Real y Programada <i>21</i></span><span class="tag">Servicios Complementarios <i>9</i></span><span class="tag">Pagos o reliquidaciones de transmisión <i>2</i></span></div>
+  <div class="ents"><div class="ent">
+              <div class="ent-h"><b>Programación de la operación</b>
+                <span class="art">Título de operación</span></div>
+              <div class="ent-m"><span class="lbl">Frecuencia</span> Diaria y semanal</div>
+              <div class="ent-m"><span class="lbl">Evidencia de cierre</span> Programación publicada por el Coordinador</div>
+            </div><div class="ent">
+              <div class="ent-h"><b>Informe de desviación de la programación</b>
+                <span class="art">NT CyO</span></div>
+              <div class="ent-m"><span class="lbl">Frecuencia</span> Por desviación</div>
+              <div class="ent-m"><span class="lbl">Evidencia de cierre</span> Justificación aceptada</div>
+            </div></div>
+</details>
+
+  <h2>Anexos técnicos <small>— el articulado específico de cada norma</small></h2>
+  
+<div class="anexo">
+  <div class="a-h">
+    <b>Anexo Técnico Verificación de Instalaciones para la prestación de SSCC</b>
+    <span class="n">597</span>
+  </div>
+  <div class="bar"><i style="width:100.0%;background:#6a3d9a"></i></div>
+  <div class="ents-a"><span class='chip'>Informe Técnico de Verificación</span> · <span class='chip'>Anexos de instalación</span> · <span class='chip'>Protocolo de prueba</span></div>
+</div>
+<div class="anexo">
+  <div class="a-h">
+    <b>Anexo Técnico SITR</b>
+    <span class="n">205</span>
+  </div>
+  <div class="bar"><i style="width:34.3%;background:#6a3d9a"></i></div>
+  <div class="ents-a"><span class='chip'>Plan de implementación SITR</span> · <span class='chip'>Informe de pruebas de verificación SCADA</span></div>
+</div>
+<div class="anexo">
+  <div class="a-h">
+    <b>Anexo Técnico Pruebas de Potencia Máxima en Unidades Generadoras</b>
+    <span class="n">149</span>
+  </div>
+  <div class="bar"><i style="width:25.0%;background:#6a3d9a"></i></div>
+  <div class="ents-a"><span class='chip'>Informe de prueba de potencia máxima</span> · <span class='chip'>Curvas de carga</span> · <span class='chip'>Registro de instrumentos</span></div>
+</div>
+<div class="anexo">
+  <div class="a-h">
+    <b>Anexo Técnico Plan de Recuperación del Servicio</b>
+    <span class="n">124</span>
+  </div>
+  <div class="bar"><i style="width:20.8%;background:#6a3d9a"></i></div>
+  <div class="ents-a"><span class='chip'>Protocolo de verificación PRS</span> · <span class='chip'>Informe de prueba de partida autónoma</span></div>
+</div>
+<div class="anexo">
+  <div class="a-h">
+    <b>Anexo Técnico Medición Fasorial (PMU/PDC)</b>
+    <span class="n">81</span>
+  </div>
+  <div class="bar"><i style="width:13.6%;background:#6a3d9a"></i></div>
+  <div class="ents-a"><span class='chip'>Estado de implementación de PMU</span> · <span class='chip'>Protocolo de verificación</span> · <span class='chip'>Informe de cierre</span></div>
+</div>
+<div class="anexo">
+  <div class="a-h">
+    <b>Anexo Técnico de Automatismos (EDAC/EDAG)</b>
+    <span class="n">55</span>
+  </div>
+  <div class="bar"><i style="width:9.2%;background:#6a3d9a"></i></div>
+  <div class="ents-a"><span class='chip'>Lógica del automatismo</span> · <span class='chip'>Protocolo de prueba de desconexión</span> · <span class='chip'>Informe de actuación</span></div>
+</div>
+<div class="anexo">
+  <div class="a-h">
+    <b>Anexo Técnico Determinación de Consumos Específicos</b>
+    <span class="n">40</span>
+  </div>
+  <div class="bar"><i style="width:6.7%;background:#6a3d9a"></i></div>
+  <div class="ents-a"><span class='chip'>Informe de consumos específicos</span> · <span class='chip'>Respaldo de medición de combustible</span></div>
+</div>
+<div class="anexo">
+  <div class="a-h">
+    <b>Anexo Técnico Definición de Parámetros Técnicos y Operativos</b>
+    <span class="n">33</span>
+  </div>
+  <div class="bar"><i style="width:5.5%;background:#6a3d9a"></i></div>
+  <div class="ents-a"><span class='chip'>Ficha de parámetros técnicos</span> · <span class='chip'>Declaración de límites operativos</span></div>
+</div>
+<div class="anexo">
+  <div class="a-h">
+    <b>Anexo Técnico Sistema de Monitoreo (ATSM)</b>
+    <span class="n">25</span>
+  </div>
+  <div class="bar"><i style="width:4.2%;background:#6a3d9a"></i></div>
+  <div class="ents-a"><span class='chip'>Plan de disponibilidad SITR</span> · <span class='chip'>Informe de señales</span> · <span class='chip'>Plan de mejoras</span></div>
+</div>
+<div class="anexo">
+  <div class="a-h">
+    <b>Anexo Técnico Registro de Protecciones (SLRP)</b>
+    <span class="n">18</span>
+  </div>
+  <div class="bar"><i style="width:3.0%;background:#6a3d9a"></i></div>
+  <div class="ents-a"><span class='chip'>Informe de lectura remota de protecciones</span> · <span class='chip'>Registro COMTRADE</span></div>
+</div>
+
+  <h2>Universo completo de materias <small>— de qué se ocupa el Coordinador</small></h2>
+  <div class="mrow"><span class="mnom">Indisponibilidades de generación y transmisión</span><span class="mbar"><i style="width:19.4%"></i></span><span class="mn">2,706</span></div><div class="mrow"><span class="mnom">Servicios Complementarios</span><span class="mbar"><i style="width:18.8%"></i></span><span class="mn">2,628</span></div><div class="mrow"><span class="mnom">Mantenimiento, Desconexión, Fallas y Limitaciones</span><span class="mbar"><i style="width:10.6%"></i></span><span class="mn">1,477</span></div><div class="mrow"><span class="mnom">Plataformas para la operación (SCADA)</span><span class="mbar"><i style="width:10.4%"></i></span><span class="mn">1,456</span></div><div class="mrow"><span class="mnom">Operación Real y Programada</span><span class="mbar"><i style="width:10.0%"></i></span><span class="mn">1,398</span></div><div class="mrow"><span class="mnom">Proyectos y Estudios de Conexión</span><span class="mbar"><i style="width:8.8%"></i></span><span class="mn">1,230</span></div><div class="mrow"><span class="mnom">Auditorías</span><span class="mbar"><i style="width:8.1%"></i></span><span class="mn">1,131</span></div><div class="mrow"><span class="mnom">Transferencias económicas entre empresas</span><span class="mbar"><i style="width:4.1%"></i></span><span class="mn">568</span></div><div class="mrow"><span class="mnom">Licitaciones de Transmisión</span><span class="mbar"><i style="width:3.3%"></i></span><span class="mn">464</span></div><div class="mrow"><span class="mnom">Administración y Presupuesto</span><span class="mbar"><i style="width:2.1%"></i></span><span class="mn">299</span></div><div class="mrow"><span class="mnom">Estudios e Informes</span><span class="mbar"><i style="width:1.6%"></i></span><span class="mn">217</span></div><div class="mrow"><span class="mnom">Comunicaciones Autoridad/Judiciales</span><span class="mbar"><i style="width:1.0%"></i></span><span class="mn">143</span></div><div class="mrow"><span class="mnom">Pagos o reliquidaciones de transmisión</span><span class="mbar"><i style="width:0.6%"></i></span><span class="mn">79</span></div><div class="mrow"><span class="mnom">Planificación de la Transmisión</span><span class="mbar"><i style="width:0.4%"></i></span><span class="mn">59</span></div>
+
+  <div class="nota">
+    <b>Qué mide esto y qué no.</b> Las cifras de cartas salen de contar coincidencias del
+    nombre de cada norma en los 5,612 textos con PDF en caché
+    (35.3 % cita explícitamente alguna norma).
+    Los entregables, frecuencias y evidencias son la lectura del articulado tal como aparece
+    invocado en las cartas. <b>No es la norma comentada</b>: es el catálogo de lo que el
+    Coordinador efectivamente exige, con la carta que lo respalda.
+  </div>
+
+  <footer>
+    Generado 2026-11-09T12:11:33 · fuente: data/cartas_cen_full.json (registro) y
+    cache_pdf/ (texto) · regenerar con <code>python src/catalogo_normativo.py</code>
+  </footer>
+</div>
+</body>
+</html>

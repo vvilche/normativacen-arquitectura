@@ -1,0 +1,161 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 26 de marzo de 2026 
+DE 01930-26 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación Parámetros de Partida y 
+Detención de la Central PFV Tutuvén. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+PFV Tutuvén, en conformidad con el Informe Técnico final recibido mediante la 
+comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+publicado en la página web del Coordinador mediante la comunicación de la Ref. [2]. Por 
+su parte, el Coordinador efectuó observaciones de carácter técnico mediante la 
+comunicación de la Ref. [3], las cuales fueron subsanadas por el coordinado Parque Solar  
+Tangua SpA. 
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+PFV Tutuvén se presentan en el anexo de la presente comunicación. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del 30 de marzo de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Parámetros de Partida y Detención > Informes 
+Determinación de Parámetros para Procesos de Partida y Detención de Unidades 
+Generadoras > Central PFV Tutuvén > 2025 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+ 
+CRV/PPF/ASA/ycl  
+ 
+ 
+Referencias 
+ 
+[1] Carta GR-CHL0110A-142/2026 de Parque Solar Tangua SpA, Ref.: “Entrega de 
+antecedentes y respuesta a observaciones DE 06673-25 – Central PFV Tutuvén (NUP 
+1480)”, de fecha 18 de marzo de 2026. Ingreso DE02868-26. 
+ 
+[2] Carta DE04805-25, Ref.: “[NUP 1480] Informes Técnicos de Parámetros Operacionales 
+de la central PFV Tutuvén”, de fecha 05 de agosto de 2025. 
+ 
+[3] Carta DE06673-25, Ref.: “Observaciones al Informe Técnico Potencia Máxima y 
+Parámetros de Partida y Detención de la Central PFV Tutuvén”, de fecha 21 de octubre de  
+2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central PFV Tutuvén 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PFV Tutuvén(1) 
+Etapa 
+Parámetro 
+Central 
+Partida – Sincronización 
+Consumo SSAA [MWh] 
+0,0014 
+Tiempo [minutos] 
+7,0500 
+Sincronización – Mínimo Técnico 
+Consumo SSAA [MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0500 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA [MWh] 
+0,0004 
+Tiempo [minutos] 
+5,2290 
+(1) Los valores de potencia máxima y mínima neta del PFV Tutuvén son de 8,7366 MW y 0,0126 MW 
+respectivamente. 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PFV Tutuvén 
+Etapa 
+Parámetro 
+Central 
+Potencia Nominal – Mínimo Técnico Consumo SSAA [MWh] 
+0,0004 
+Tiempo [minutos] 
+5,1870 
+Mínimo Técnico – Desconexión 
+Consumo SSAA [MWh] 
+0,0001 
+Tiempo [minutos] 
+0,2667 
+Desconexión – Detención 
+Consumo SSAA [MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0500 
+ 
+ 
+NOTA: El tiempo mínimo de operación (TMO) y tiempo mínimo de detención (TMD) 
+son 0 [min]. 

@@ -1,0 +1,201 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 12 de enero de 2026 
+DE 00204-26 
+Señor 
+Juan Muñoz 
+Encargado Titular 
+Engie Energía Chile S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Control Secundario de Frecuencia e integración 
+al Despacho Económico del BESS Tocopilla. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), se ha realizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+automático del GMS/SCADA del BESS Tocopilla. Como resultado de este proceso, la 
+instalación mencionada queda habilitada para la prestación del mencionado servicio a partir 
+de las 00:00 del día 15 de enero de 2026. 
+ 
+Por otra parte, para efectos de elaborar el correspondiente Informe Técnico de Verificación 
+según lo establecido en la Guía de Verificación de Control de Frecuencia, le solicito envíe 
+a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 12 de febrero 
+de 2026, la siguiente información asociada al parque: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+ 
+Los reportes técnicos que justifican la verificación de la capacidad de la prestación del SC 
+de CSF de la instalación mencionada se encuentran publicados en la siguiente ruta de la 
+página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Secundario de Frecuencia > BESS Tocopilla 
+ 
+Dado lo anterior, para que el BESS Tocopilla pueda participar de las subastas de CSF, 
+deberán completar el proceso de solicitud de incorporación a la plataforma de subastas. 
+Para ello, su representada deberán presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Sin perjuicio de lo anterior, la instalación en asunto podrá ser instruida de manera directa 
+por el Coordinador Eléctrico Nacional en la prestación del Control Secundario de 
+Frecuencia. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse al correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+C.c.: 
+Sr. Felipe Fleming – Encargado Suplente Engie Energía Chile S.A. 
+DCO/DMAP 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Instalación 
+BESS Tocopilla 
+1. 
+Identificación de las Instalaciones Verificadas 
+A continuación, se presentan los siguientes parámetros operacionales que, a la fecha de 
+emisión de esta carta de verificación de SSCC, se encuentran en proceso de revisión por 
+el Coordinador Eléctrico: 
+a) BESS Tocopilla (modo descarga) 
+• 
+Potencia máxima bruta: 119,521 [MW] 
+• 
+Potencia máxima neta: 116,609 [MW] 
+• 
+Potencia mínima bruta: 1,940 [MW]  
+• 
+Potencia mínima neta: 1,000 [MW] 
+b) BESS Tocopilla1 (modo carga) 
+• 
+Potencia máxima bruta: -114,398 [MW] 
+• 
+Potencia máxima neta: -116,682 [MW] 
+• 
+Potencia mínima bruta: -1,540 [MW]  
+• 
+Potencia mínima neta: -2,500 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+• 
+El BESS Tocopilla es una instalación Stand Alone. La instalación cuenta con un 
+sistema de control PPC, el cual permite el control de las variables eléctricas en el 
+paño HT4 de la S/E Central Tocopilla 110kV.  
+• 
+Para la prestación del SC de Control Secundario de Frecuencia se consideran todos 
+los inversores en servicio. 
+• 
+Se realizaron pruebas con el CPF habilitado y deshabilitado, utilizando un estatismo 
+del 5 % y una banda muerta de frecuencia de 25 mHz. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado para la instalación 
+BESS Tocopilla. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Control Secundario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Modo 
+descarga 
+Modo 
+carga 
+BESS Tocopilla  
+Stand Alone 
+Baterías 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+23,333 
+23,333 
+Bajada 
+23,333 
+23,333 
+Aporte CSF [MW] (1) 
+Subida 
+115,609 
+114,182 
+Bajada 
+-115,609 
+-114,182 
+Límite de regulación superior [MW] (1) 
+116,609 
+-2,500 
+Límite de regulación inferior [MW] (1) 
+1,000 
+-116,682 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a potencia activa neta, podrán verse modificados 
+si se actualizan los parámetros operacionales de la Instalación. 
+ 

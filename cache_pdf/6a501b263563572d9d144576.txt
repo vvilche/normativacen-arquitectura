@@ -1,0 +1,349 @@
+ 
+Santiago, 09 de julio de 2026. 
+  ACC.ECH.094.26 
+Señor: 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones a Indicadores Desempeño Servicios Complementarios – junio 2026. 
+ 
+De nuestra consideración: 
+ 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de junio de 2026, que fue publicado en su página web y cuya publicación fue comunicada a 
+través de la carta DE 04548-26 de fecha 07 de julio de 2026. 
+ 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+ 
+Sin otro particular, saluda cordialmente a usted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+ 
+Firmado 
+digitalmente 
+por Luis 
+Lorca Arenas
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC JUNIO 2026 V1 
+Servicio Complementario – CPF 
+ 
+i. 
+PE Tolpán Sur 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+12-06-2026 
+00:00:00 
+- 
+12-06-2026 
+07:00:00 
+12-06-2026 
+08:00:00 
+RIO indica asignación directa, pero revisando grabación de 
+llamada previo a la hora de activación, la asignación no es 
+instruida 
+por 
+CDC. 
+Se 
+adjunta 
+llamada 
+“_20260612_065226_d.wav”. 
+ 
+ii. 
+PFV Usya 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+09-06-2026 
+12:07:49 
+- 
+09-06-2026 
+13:00:00 
+09-06-2026 
+14:00:00 
+Según PID de las 13 se tiene asignación en los bloques 13 y 
+14, pero CDC a las 13:02 hrs. instruye el término del CPF, 
+debido a prorrata de S/E Calama 220/110 kV. Por lo que se 
+solicita la reconsideración de parte del CEN y retirar este 
+registro de los casos negativos del mes de junio. Se adjunta 
+llamada “_20260609_130210_d.wav”. 
+11-06-2026 
+13:01:43 
+- 
+11-06-2026 
+14:00:00 
+11-06-2026 
+16:00:00 
+Según PID, desde el bloque 14 se tiene asignación de CPF (-) 
+con inicio a las 13:00 hrs; sin embargo, RIO la considera a 
+contar de las 14:00 hrs. Se solicita al CEN la reconsideración 
+del caso, evaluando el SSCC según la hora de inicio efectiva. 
+Se adjunta de llamada “_20260611_125127_d” 
+21-06-2026 
+7:59:10 
+- 
+21-06-2026 
+08:00:00 
+21-06-2026 
+09:00:00 
+Según reporte del Saturn2e del día 21, el registro catalogado 
+con referencia (e2+) corresponde al intervalo de las 12:10 - 
+12:20 (UTC 0), pero como se aprecia en los gráficos de la 
+Figura 2.2.1 – 1, el aporte se calcula a las 12:02, 
+correspondiente a los 10 minutos anteriores al intervalo 
+evaluado. Por lo que se solicita la reconsideración de parte 
+del CEN y retirar este registro de los casos negativos del mes 
+de junio 
+22-06-2026 
+13:01:34 
+- 
+22-06-2026 
+13:00:00 
+22-06-2026 
+16:00:00 
+Según reporte del Saturn2e del día 22, el registro catalogado 
+con referencia (e2+) corresponde al intervalo de las 17:10 - 
+17:20 (UTC 0), pero como se aprecia en los gráficos de la 
+Figura 2.2.1 – 1, el aporte se calcula a las 17:00, 
+correspondiente a los 10 minutos anteriores al intervalo 
+evaluado. Por lo que se solicita la reconsideración de parte 
+del CEN y retirar este registro de los casos negativos del mes 
+de junio 
+ 
+iii. 
+PFV Malgarida 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+06-06-2026 
+12:04:48 
+- 
+06-06-2026 
+13:18:00 
+06-06-2026 
+14:00:00 
+Según PID, desde el bloque 13 se tiene asignación de CPF con 
+inicio a las 12:00 hrs; sin embargo, en RIO no se observa el 
+registro 
+correspondiente. 
+Se 
+adjunta 
+de 
+llamada 
+“_20260606_131622_d” 
+
+29-06-2026 
+8:01:24 
+- 
+29-06-2026 
+08:00:00 
+29-06-2026 
+16:00:00 
+Según reporte del Saturn2e del día 29, el registro catalogado 
+con referencia (e2+) corresponde al intervalo de las 12:20 - 
+12:30 (UTC 0), pero como se aprecia en los gráficos de la 
+Figura 2.2.1 – 1, el aporte se calcula a las 12:11, 
+correspondiente a los 10 minutos anteriores al intervalo 
+evaluado. Por lo que se solicita la reconsideración de parte 
+del CEN y retirar este registro de los casos negativos del mes 
+de junio 
+Servicio Complementario – CSF 
+iv. 
+PE San Gabriel 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+03-06-2026 
+21:00:00 
+- 
+03-06-2026 
+20:00:00 
+03-06-2026 
+22:00:00 
+Según PID de las 18 se tiene asignación de CSF a partir de 
+las 21:00 hrs y RIO contempla desde el bloque 20:00. Por lo 
+que se solicita retirar este registro del bloque 21 (20:00 a 
+21:00). Se adjunta de llamada “_20260603_205005_d” 
+07-06-2026 
+00:00:00 
+- 
+07-06-2026 
+12:00:00 
+07-06-2026 
+16:00:00 
+SSCC no programado. Se solicita retirar estos registros del 
+mes de junio. 
+v. 
+PFV El Romero 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+07-06-2026 
+13:02:19 
+- 
+07-06-2026 
+14:00:00 
+07-06-2026 
+15:00:00 
+Según PID se tiene asignación de CSF con inicio a las 13:00 
+hrs; sin embargo, RIO la considera a contar de las 14:00 
+hrs. Se solicita al CEN la reconsideración del caso, 
+evaluando el SSCC según la hora de inicio efectiva. Se 
+adjunta llamada “_20260607_130155_d.wav”. 
+vi. 
+PFV Usya 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+09-06-2026 
+12:07:49 
+- 
+09-06-2026 
+13:00:00 
+09-06-2026 
+14:00:00 
+Según PID de las 13 se tiene asignación en los bloques 13 y 
+14, pero CDC a las 13:02 hrs. instruye el término del CSF, 
+debido a prorrata de S/E Calama 220/110 kV. Por lo que se 
+solicita la reconsideración de parte del CEN y retirar este 
+registro de los casos negativos del mes de junio. Se adjunta 
+llamada “_20260609_130210_d.wav”. 
+ 
+ 
+ 
+
+Servicio Complementario – CTF 
+vii. 
+PFV Almeyda 
+Timestamp 
+Consigna en 
+planta [MW] 
+Registro 
+RIO 
+[MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+03-06-2026 
+15:50:24 
+2 
+-32 
+03-06-2026 
+15:49:00 
+03-06-2026 
+16:13:00 
+La evaluación del desempeño indica el tc2 erróneo. La 
+producción alcanzó la consigna ingresada de 3 MW a las 
+15:56:07, manteniéndose estable hasta el término de la 
+instrucción.  
+ 
+Servicio Complementario – CT 
+viii. 
+PFV Malgarida 
+Timestamp 
+Consigna en 
+planta [MVAr] 
+Registro 
+RIO 
+[MVAr] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+- 
+- 
+-60 
+25-06-2026 
+23:59 
+- 
+Instrucción no evaluada en el desempeño, pero se observa 
+en RIO y se adjunta la grabación de la solicitud 
+“_20260625_180457_d.wav”. 
+ 
+ix. 
+PFV El Romero 
+Timestamp 
+Consigna en 
+planta [MVAr] 
+Registro 
+RIO 
+[MVAr] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+- 
+- 
+-60 
+24-06-2026 
+23:59 
+- 
+Instrucción no evaluada en el desempeño, pero se observa 
+en RIO y se adjunta la grabación de la solicitud 
+“_20260624_225701_d.wav”. 
+- 
+- 
+-60 
+25-06-2026 
+23:59 
+- 
+Instrucción no evaluada en el desempeño, pero se observa 
+en RIO y se adjunta la grabación de la solicitud 
+“_20260625_222114_d.wav”. 
+- 
+- 
+-60 
+27-06-2026 
+23:59 
+- 
+Instrucción no evaluada en el desempeño, pero se observa 
+en RIO y se adjunta la grabación de la solicitud 
+“_20260627_221530_d.wav”. 
+ 

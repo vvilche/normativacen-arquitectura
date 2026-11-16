@@ -1,0 +1,134 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+Santiago, 08 de octubre de 2025 
+DE 06386-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+(Según lista de distribución) 
+Presente 
+Ref.: 
+Proceso 
+de 
+Verificación 
+del 
+Servicio 
+Complementario (SC) de Control Secundario de 
+Frecuencia (CSF) 
+De mi consideración: 
+ 
+Me refiero a la exigencia establecida en la NTSyCS para las instalaciones de generación, 
+particularmente, al artículo 3-6, literales f) e i), relacionados con la obligación de disponer 
+en dichas instalaciones del control y entradas para efectos de recibir una consigna de 
+potencia activa, expresada en MW, desde el Control Automático de Generación (AGC), para 
+efectos de modificar su generación de potencia activa y participar en el CSF. 
+ 
+Cabe destacar, que de acuerdo con lo establecido en el artículo 4-2 de la NTSSC, toda 
+instalación interconectada al SEN destinada a la prestación de SSCC deberá someterse a 
+la verificación de los recursos técnicos asociados a dicha infraestructura, de acuerdo con el 
+modo que lo efectúe el Coordinador, con independencia del mecanismo de materialización, 
+estando sus instalaciones identificadas como potenciales prestadores del SC de CSF.  
+ 
+Al respecto, con el fin de llevar a cabo el proceso de verificación del SC de CSF vía AGC y 
+su integración al Despacho Económico (DE), para las instalaciones de generación de su 
+propiedad, solicito a usted y según lo requerido en las comunicaciones de la Ref. [1], [2], 
+[3], [4] y [5], enviar un cronograma de trabajo que contenga los principales hitos de la 
+verificación del Control Secundario de Frecuencia (CSF) y del Despacho Económico 
+(ED). Las unidades en cuestión se especifican en el Anexo a la presente carta. 
+ 
+Finalmente, cabe señalar que la integración al AGC no requiere el envío de señales SITR 
+adicionales a aquellas que ya fueron solicitadas a raíz de la integración de sus unidades al 
+Despacho Económico (ED). 
+ 
+La información solicitada debe ser enviada mediante carta y con copia al correo electrónico 
+dmap@coordinador.cl,antes del 22 de octubre de 2025.  
+ 
+Cualquier consulta en relación con la información requerida remitirla al mismo correo 
+indicado anteriormente. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GZV/CRV/adr  
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+Referencias 
+[1] Carta DE01036-25, Ref.: “Actualización del Cronograma de Verificación de Servicios 
+Complementarios (SSCC) en instalaciones existentes de Generación y Almacenamiento”. 
+De fecha. de fecha 22 de abril de 2025 
+[2] Carta DE02388-25, Ref.: “Comunica atraso en el proceso de Verificación de 
+Instalaciones de Generación para la Prestación de Servicios Complementarios de acuerdo 
+con Cronograma Vigente”. de fecha 22 de abril de 2025 
+[3] Carta DE02389-25, Ref.: “Proceso de Verificación de Instalaciones de Generación para 
+la Prestación de Servicios Complementarios próximos a vencer de acuerdo con 
+Cronograma Vigente.” De fecha 22 de abril de 2025 
+[4] Carta DE05006-25, Ref.: “Comunica atraso en el proceso de Verificación de 
+Instalaciones de Generación para la Prestación de Servicios Complementarios de acuerdo 
+con Cronograma Vigente.”. de 13 agosto de 2025. 
+[5] Carta DE05007-25, Ref.: “Proceso de Verificación de Instalaciones de Generación para 
+la Prestación de Servicios Complementarios próximos a vencer de acuerdo con 
+Cronograma Vigente.” de 13 agosto de 2025. 
+ 
+ 
+ 
+ 
+Lista de distribución 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+ANEXO: Listado de unidades a verificar en CSF según cronograma 2025      
+(atrasadas o vencidas) 
+ 
+ 
+Coordinado 
+Unidad 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+HP CURILLINQUE U1 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+HP LOMA ALTA U1 
+ENEL GENERACIÓN CHILE S.A. 
+HP LOS MOLLES U1 
+ENEL GENERACIÓN CHILE S.A. 
+HP LOS MOLLES U2 
+ENEL GREEN POWER CHILE S.A. 
+PE RENAICO I (U1-U44) 
+ENEL GREEN POWER CHILE S.A. 
+PE RENAICO II (U45-U76) 
+ENEL GREEN POWER CHILE S.A. 
+PE TALTAL (U1-U33) 
+ENEL GENERACIÓN CHILE S.A. 
+PFV AZABACHE 
+ENEL GREEN POWER CHILE S.A. 
+PFV CHAÑARES 
+ENEL GREEN POWER CHILE S.A. 
+PFV SOL DE LILA 
+ENEL GREEN POWER CHILE S.A. 
+PFV VALLE DEL SOL 
+ 

@@ -1,0 +1,79 @@
+Cerro del Plomo 5420, Oficina 1305 
+Las Condes 
+Tel.: +56(2) 23333540 
+ 
+P á g i n a 1 | 2 
+ 
+ 
+ 
+ 
+Santiago, 13 de junio de 2025 
+Carta: 250613-PEAT-CEN-001 
+ 
+ASUNTO 
+: 
+Responde Verificación de Servicios Complementarios  
+PARQUE EÓLICO ATACAMA 
+ANTECENTES 
+: 
+[1] Email: Verificación de SSCC del PE Atacama, de fecha 2 de junio de 2025 de Cristian 
+Reyes, Coordinador Eléctrico Nacional 
+ 
+ 
+Señora 
+Rodrigo Espinoza V 
+Gerente de Operaciones 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+De nuestra consideración, nos referimos a nuestro Parque Eólico Atacama, propiedad de Parque Eólico 
+Atacama. Al cual, mediante la carta y correo electrónico de la Ref. [1] y [2] el Coordinador Eléctrico 
+Nacional solicitado información respecto del avance en el Proceso de Verificación de Servicios 
+Complementarios. 
+Respecto a los puntos comentados por vuestra representada en el análisis de riesgos solicitado, 
+comentamos lo siguiente: 
+1. Se adjunta documento “Protocolo SSCC PE Atacama.pdf” 
+2. Riesgo 2 (CT): Transmitiremos su solicitud al Experto Técnico, para proponga una metodología 
+para extrapolar la curva P-Q a las tensiones en el POI que no pudieron ser ensayadas, tomando 
+en cuenta las características técnicas de la unidad y los resultados de los ensayos que sí pudieron 
+ser ejecutados. Lo anterior, se enviará junto con el Informe. 
+3. Riesgo 3 (Informes de PP.OO.): Para dar curso a lo solicitado por Ud. y no supeditar los ensayos 
+de SSCC a la aceptación de los parámetros, es que solicitamos por favor, que nos emita una carta 
+confirmando que indique que, en caso de que los Informes de Parametrización (Mínimo Técnico, 
+Potencia Máxima, y Partida y Detención) sean modificados en su respectivo proceso, ya sea por 
+observaciones u otra instancia; esto no tenga impacto respecto del proceso de Verificación de 
+Servicios Complementarios, ya sea y no limitándose a: la realización de estos u otros ensayos, 
+actualización de protocolo, informe de verificación, u otro documento atingente al proceso. De 
+otra manera, no vemos como es posible mitigar este riesgo. 
+4. Riesgo 4 (CSF): Comunicamos que no hemos sido notificados respecto de la solución de las 
+incidencias respecto del Coordinador Eléctrico Nacional. Se realizará un análisis operativo y de 
+infraestructura, para evaluar la nueva solución propuesta por el Departamento de Modelación y 
+
+ 
+Cerro del Plomo 5420, Oficina 1305 
+Las Condes 
+Tel.: +56(2) 23333540 
+ 
+P á g i n a 2 | 2 
+ 
+ 
+ 
+Aplicación EMS, y confirmar si efectivamente fue resuelto o si queda algún ajuste adicional. En 
+caso de que los análisis indiquen que efectivamente fue resuelto, este riesgo ya no estaría 
+presente para Parque Eólico Atacama. 
+Sin otro particular, saluda atentamente a usted. 
+ 
+ 
+_________________________ 
+Héctor Astudillo Silva 
+Encargado Titular 
+Parque Eólico Atacama SpA 
+ 
+Incluye: Lo indicado 
+Cc:  
+Sra. Gretchen Zbinden – Subgerente de Control y Análisis Operacional, Coordinador Eléctrico Nacional 
+Sr. Cristian Reyes – Ingeniero Senior de Control de la Operación, Coordinador Eléctrico Nacional 
+Sr. Arturo Olavarria – Ingeniero de Modelación y Aplicaciones EMS, Coordinador Eléctrico Nacional 
+Sr. Manuel Pardo – Encargado Suplente, Parque Eólico Atacama SpA 
+ 

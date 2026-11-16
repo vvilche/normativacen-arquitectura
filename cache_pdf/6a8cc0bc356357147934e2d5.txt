@@ -1,0 +1,75 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono +562 24246300 
+www.coordinador.cl 
+  
+ 
+Santiago, 24 de agosto de 2026 
+ 
+DE 05670-26 
+Señores 
+Encargados Empresas Coordinadas 
+Gerentes Empresas Coordinadas 
+Presente 
+ 
+Ref [1].: Consulta Guía Técnica de Buenas 
+Prácticas y Requerimientos Base para 
+Sistemas SCADA y SITR. 
+De nuestra consideración: 
+En el marco de las funciones del Coordinador Eléctrico Nacional asociadas a la 
+supervisión y coordinación de la operación en tiempo real del Sistema Eléctrico 
+Nacional, y considerando la relevancia que poseen los sistemas SCADA y el 
+Sistema de Información en Tiempo Real (SITR) para la seguridad, continuidad y 
+calidad de la operación, el Coordinador ha desarrollado la “Guía Técnica de 
+Buenas Prácticas y Requerimientos Base para Sistemas SCADA y SITR”. 
+El documento tiene por objeto entregar a las Empresas Coordinadas lineamientos 
+técnicos y buenas prácticas orientadas al diseño, implementación, operación, 
+mantenimiento, disponibilidad, continuidad operacional y recuperación de los 
+sistemas SCADA y SITR, complementando las exigencias establecidas en la 
+normativa técnica vigente aplicable a estas materias. 
+En este contexto, se informa que la versión preliminar de la Guía Técnica de Buenas 
+Prácticas y Requerimientos Base para Sistemas SCADA y SITR se encuentra 
+disponible para revisión de las Empresas Coordinadas en ConectaCen de la página 
+del coordinador (Mi Coordinador\Requerimientos). 
+Considerando que la experiencia y antecedentes técnicos de las Empresas 
+Coordinadas constituyen un elemento relevante para la adecuada aplicación de 
+estas buenas prácticas, se solicita a su representada efectuar una revisión del 
+documento y remitir las observaciones, comentarios o propuestas de mejora que 
+estime pertinentes. 
+Las observaciones deberán estar orientadas principalmente a identificar aspectos 
+técnicos que requieran aclaración, adecuación o complementación, así como 
+aquellas disposiciones cuya implementación pudiera presentar dificultades técnicas 
+u operacionales que resulte pertinente considerar previo a la emisión de la versión 
+definitiva de la Guía. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono +562 24246300 
+www.coordinador.cl 
+Para efectos de ordenar y facilitar el proceso de revisión, las observaciones 
+deberán ser remitidas utilizando el archivo Excel publicado en la herramienta de 
+ConectaCen denominado “Observaciones Guía Técnica SCADA y SITR.xlsx”, 
+identificando, el capítulo, el texto asociado, la observación o comentario 
+correspondiente y, cuando proceda, una propuesta de modificación. 
+Se solicita enviar las observaciones a más tardar el 10/09/2026, a través de 
+ConectaCen del Coordinador, cualquier otra forma de envío de las observaciones 
+o comentarios no serán evaluadas. 
+Finalizado el período de consulta, el Coordinador analizará las observaciones 
+recibidas y realizará las adecuaciones que correspondan para posteriormente emitir 
+la versión definitiva del documento. 
+Agradecemos desde ya la participación y colaboración de su representada en este 
+proceso. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Víctor Reyes Jara 
+Jefe de departamento SCADA 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 

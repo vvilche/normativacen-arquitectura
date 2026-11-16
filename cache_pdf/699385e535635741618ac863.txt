@@ -1,0 +1,49 @@
+ 
+ 
+ 
+OR-000056-2026 
+ 
+Santiago, 13/02/2026 
+ 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA: Responde a Observaciones a Protocolos de Verificación de SSCC de Control de Tensión 
+de S/E Jadresic. [1] Carta DE 00101-26 del Coordinador Eléctrico Nacional. 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, por medio de la presente y para dar cumplimiento con lo establecido en el Anexo 
+Técnico “Verificación de instalaciones para la prestación de SSCC” de la Norma Técnica de Servicios 
+Complementarios, se adjuntan revisión 1 de los Protocolos Específicos de Pruebas para la 
+Verificación de Servicios Complementarios – Control de Tensión, correspondientes a los siguientes 
+equipos, conforme a las observaciones dispuestas en carta de Referencia [1]:  
+ 
+• 
+Banco de Condensadores KZ1 de S/E Jadresic 
+(EN202709.1_IET_SSCC_CT_SE Jadresic_KZ1_Rev.1); 
+• 
+Banco de Condensadores KZ2 de S/E Jadresic 
+(EN202709.1_IET_SSCC_CT_SE Jadresic_KZ2_Rev.1); 
+ 
+Al respecto, se acompaña una Minuta de Respuestas al Documento de Observaciones 
+(MR_202709.1_SSCC_CT_JAD_Rev.0). 
+ 
+Quedamos atentos a sus comentarios u observaciones. 
+ 
+Sin otro particular, saludan atentamente a usted 
+ 
+TRANSELEC S.A., 
+ 
+ 
+ 
+Mauricio Fernández Berrios 
+Subgerente de Planificación y Regulación 
+Encargado Suplente 
+TRANSELEC S.A. 
+Docusign Envelope ID: 722B3E9D-DE37-4CDF-A19D-CEC68C1A1065

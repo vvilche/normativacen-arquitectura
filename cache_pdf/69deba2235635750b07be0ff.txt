@@ -1,0 +1,200 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 14 de abril de 2026 
+DE 02467-26 
+Señor 
+Eduardo Verdugo 
+Encargado Titular 
+AES Andes S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Control Secundario de Frecuencia e integración 
+al Despacho Económico del BESS VR2 de HP 
+Alfalfal. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), se ha realizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+automático del GMS/SCADA del BESS VR2 de HP Alfalfal. Como resultado de este 
+proceso, la instalación mencionada queda habilitada para la prestación del mencionado 
+servicio a partir de las 00:00 del día 16 de abril de 2026. 
+ 
+Por otra parte, para efectos de elaborar el correspondiente Informe Técnico de Verificación 
+según lo establecido en la Guía de Verificación de Control de Frecuencia, solicito a Ud. 
+enviar a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 14 de 
+mayo de 2026, la siguiente información asociada al parque: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+ 
+Los reportes técnicos que justifican la verificación de la capacidad de la prestación del SC 
+de CSF de la instalación mencionada se encuentran publicados en la siguiente ruta de la 
+página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Secundario de Frecuencia > Central HP Alfalfal  
+ 
+Dado lo anterior, para que el BESS VR2 Alfalfal pueda participar de las subastas de CSF, 
+se deberá completar el proceso de solicitud de incorporación a la plataforma de subastas. 
+Para ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026) 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Sin perjuicio de lo anterior, la instalación en asunto podrá ser instruida de manera directa 
+por el Coordinador Eléctrico Nacional en la prestación del Control Secundario de 
+Frecuencia. 
+ 
+En el caso de su representada tenga alguna consulta sobre el procedimiento de Subastas 
+para Control de Frecuencia, estas pueden ser dirigidas a la casilla de correo electrónico 
+programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+C.c.: 
+Sr. Juan Pablo Kindermann – Encargado Suplente AES Andes S.A. 
+DCO/DMAP 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Instalación 
+BESS VR2 de HP Alfalfal  
+1. 
+Identificación de las Instalaciones Verificadas 
+A continuación, se presentan los parámetros operacionales que, a la fecha de emisión de 
+esta carta de verificación de SSCC, se encuentran aceptados por el Coordinador Eléctrico. 
+a) BESS VR2 HP Alfalfal (modo descarga) 
+• 
+Potencia máxima bruta: 49,910 [MW] 
+• 
+Potencia máxima neta: 49,081 [MW] 
+• 
+Potencia mínima bruta: 0,270 [MW]  
+• 
+Potencia mínima neta: 0,033 [MW] 
+b) BESS VR2 HP Alfalfal (modo carga) 
+• 
+Potencia máxima bruta: -48,710 [MW] 
+• 
+Potencia máxima neta: -49,081 [MW] 
+• 
+Potencia mínima bruta: -0,185 [MW]  
+• 
+Potencia mínima neta: -0,421 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+• 
+El BESS VR2 de HP Alfalfal corresponden a una central renovable con capacidad 
+de almacenamiento (CRCA) con PPC independiente, es decir, no opera bajo un 
+esquema de control dependiente, permitiendo la asignación de consignas de P, Q y 
+V de manera independiente para cada componente de la CRCA. 
+• 
+Las pruebas de CSF en asunto contemplan a la componente de almacenamiento de 
+la central.  
+• 
+Para la prestación del SC de Control Secundario de Frecuencia se consideran todos 
+los inversores del BESS en servicio. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado para la instalación 
+BESS VR2 de HP Alfalfal. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Control Secundario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Modo 
+descarga 
+Modo 
+carga (2) 
+BESS VR2 HP 
+Alfalfal 
+Baterías 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+10 
+10 
+Bajada 
+10 
+10 
+Aporte CSF [MW] (1) 
+Subida 
+49,048 
+48,620 
+Bajada 
+-49,048 
+-48,620 
+Límite de regulación superior [MW] (1) 
+49,081 
+-0,421 
+Límite de regulación inferior [MW] (1) 
+0,033 
+-49,041 
+(1) Los límites de regulación, correspondientes a la potencia máxima y mínimo técnico netos, en carga y descarga, y el 
+aporte máximo de CSF, podrán verse modificados si se actualizan los parámetros operacionales de la Instalación. 
+(2) Las pruebas en modo carga se realizaron desde la central. 
+ 

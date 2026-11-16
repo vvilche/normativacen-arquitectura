@@ -1,0 +1,264 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 03 de febrero de 2026 
+DE 00797-26 
+Señor 
+Pablo Marcos 
+Encargado Titular 
+Cóndor Energía SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control 
+Primario de Frecuencia de la central PE 
+Tchamma. 
+Responde a Ingreso: DE12800-25. 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado 
+el proceso de verificación del SC de Control Primario de Frecuencia (CPF) de la central PE 
+Tchamma. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del 05 de febrero de 2026 considerando 
+los recursos indicados en el anexo de la presente carta. 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de 
+prestación del CPF de la central PE Tchamma se ha publicado en la siguiente ruta de la 
+página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Primario de Frecuencia > Central PE Tchamma 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2], siendo el plazo 
+para esta acción de 30 días corridos.  Pese a no contar con las señales necesarias 
+para evaluar el desempeño en la prestación, la central PE Tchamma quedará 
+habilitada para prestar el Servicio Complementario (SC) de Control Primario de 
+Frecuencia (CPF), pudiendo ser instruido por este Coordinador para prestar dicho 
+servicio. En dicho caso, la evaluación de estás instrucciones será “No Verificable”. 
+• 
+Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, para la evaluación de desempeño se podrán utilizar 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+medios alternativos para poder realizar la evaluación de desempeño de la prestación 
+del SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, la central mencionada podrá participar de las subastas de Control de 
+Frecuencia, una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del mencionado SC.  
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/DIR/WJS/adr 
+c.c.:  
+Sr. Felipe Fernández – Encargado Suplente Cóndor Energía SpA 
+ 
+Referencias: 
+ 
+[1] Carta CH335-2025, Ref.: “Envía nueva versión y responde a observaciones de Informe 
+de Verificación SC CPF del PE Tchamma”, de fecha 31 de diciembre de 2025. Ingreso 
+DE12800-25. 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 
+> 
+Instructivos 
+Técnicos 
+> 
+Protocolo 
+de 
+envío 
+de 
+registros 
+Potencia/Frecuencia para la evaluación del CPF 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PE Tchamma 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE Tchamma 
+• 
+Potencia máxima bruta: 174,063 [MW] 
+• 
+Potencia máxima neta: 171,770 [MW]  
+A continuación, se presentan las potencias mínimas considerando un solo aerogenerador 
+en funcionamiento y los restantes en pausa. 
+• 
+Potencia mínima bruta: 0,548 [MW]  
+• 
+Potencia mínima neta: 0,000 [MW] 
+A continuación, se presentan potencias mínimas considerando la central con todos los 
+aerogeneradores en funcionamiento. 
+• 
+Potencia mínima bruta: 16,515 [MW]  
+• 
+Potencia mínima neta: 15,750 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Instalación con rango de ajuste de estatismo del 2% al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados con la unidad en servicio desde 
+el sistema SCADA. 
+• 
+Estatismo (R) actual se encuentra ajustado al 3,64%, respecto a una potencia base 
+igual a su potencia nominal de 175 [MW].  
+• 
+Para los escalones de ±0,7 Hz, a partir de los resultados de los ensayos presentados 
+en el informe de verificación de SSCC, se observa que el aporte y la respuesta de 
+la central se entrega aproximadamente entre un 30 % y un 50 % de la reserva a los 
+10 segundos. 
+Considerando lo anterior, el Coordinador verificará el recurso presente y se solicitará 
+un plan de trabajo a Cóndor Energía SpA, buscando optimizar la respuesta CPF. En 
+caso de que se implementen mejoras a la respuesta CPF de la central, el 
+Coordinador actualizará y comunicará los nuevos recursos CPF del PE Tchamma. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Cóndor Energía SpA. 
+5. Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Control Primario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+Central PE Tchamma 
+Recurso Primario 
+Eólico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Valor determinado 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2% - 8% 
+Estatismo 
+3,64% 
+Rango de ajuste Banda muerta [mHz] 
+25 - 200 
+Banda muerta [mHz] 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (1) 
+174,063 
+Límite de regulación inferior [MW] (2) 
+16,515 
+Aportes (6) 
+ BM = 25 [mHz]  
+R = 3,64% 
+10  
+segundos 
+Aporte +0,2[Hz] [MW] (3) 
+-16,560 
+Aporte -0,2[Hz] [MW] (3) 
+17,190 
+Aporte +0,7[Hz] [MW] (4) 
+-34,370 
+Aporte -0,7[Hz] [MW] (5) 
+22,670 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] (3) 
+-17,580 
+Aporte -0,2[Hz] [MW] (3) 
+17,290 
+Aporte +0,7[Hz] [MW] (4) 
+-65,060 
+Aporte -0,7[Hz] [MW] (5) 
+66,740 
+(1) Correspondiente a la potencia máxima bruta aprobada por el Coordinador. 
+(2) Correspondiente a la potencia mínima bruta considerando todos los aerogeneradores en funcionamiento. 
+(3) Los aportes correspondientes a CPF+ y CPF- en ±0,2 [Hz] fueron determinados considerando una consigna de 65 [MW].  
+(4) Los aportes correspondientes CPF+ en +0,7 [Hz] fueron determinados considerando una consigna de 130 [MW].  
+(5) Los aportes correspondientes CPF- en -0,7 [Hz] fueron determinados considerando una consigna de 65 [MW].  
+(6) Sin perjuicio de los niveles de carga presentados en (3) a (5), la respuesta de la instalación es homogénea en todo su 
+rango de operación 
+ 
+ 

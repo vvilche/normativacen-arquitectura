@@ -1,0 +1,132 @@
+                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 1 de 3 
+  
+2026.06.09 Informacion sobre verificacion SSCC GS 
+Santiago, 9 de junio de 2026 
+Sr 
+Ramón Castañeda P. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+Referencia: Responde a carta DE03702-26 
+ 
+Junto con saludar, me dirijo a usted en relación a la carta DE03702-26, enviada por el Coordinador 
+Eléctrico Nacional (CEN) el día 3 de junio de 2026. En dicha carta se reitera el vencimiento del plazo para hacer 
+envío de los informes de Servicios Complementarios (SSCC) y se solicita a Generación Solar SpA informar las 
+razones, antecedentes o circunstancias asociadas al incumplimiento en la verificación de SSCC en la planta 
+fotovoltaica María Elena. 
+ 
+La Planta Fotovoltaica María Elena presenta una serie de trabajos pendientes que han retrasado la 
+verificación de Servicios Complementarios (SSCC). 
+ 
+En primer lugar, se está realizando la actualización del Power Plant Controller (PPC), el cual 
+actualmente solo dispone de control de potencia activa mediante consignas directas y control de potencia activa 
+y factor de potencia a nivel de inversor. 
+ 
+Como parte de los compromisos asociados a la obtención de la Entrada en Operación Comercial 
+(COD) del sistema BESS de Generación Solar SpA Etapa 1 (60 MW, 2 horas), se estableció la actualización de la 
+homologación del modelo dinámico de la planta fotovoltaica. Para ello, el 11 de noviembre de 2025 se contrató 
+a Smart Electric con el objetivo de implementar mejoras en el PPC que permitan el control de potencia activa 
+mediante rampas y el control de factor de potencia tanto a nivel de planta como de inversor (se adjunta 
+cotización y orden de compra asociada a dicho servicio). 
+ 
+Sin embargo, estas actividades se han visto retrasadas debido al proceso de integración del SCADA 
+de la planta fotovoltaica con el SCADA del BESS, servicio contratado en el año 2024 que considera el desarrollo 
+e implementación del SCADA para el BESS + PFV María Elena (se adjunta factura asociada a dicho servicio). Esta 
+integración tiene como objetivo centralizar la supervisión de ambas instalaciones en una única plataforma, 
+facilitando así su operación coordinada. 
+ 
+En paralelo, se contrató a I-SEP para la ejecución de las pruebas requeridas a nivel de inversor y de 
+planta para la actualización de la homologación del modelo dinámico de la planta fotovoltaica mediante la oferta 
+“ISEP25-C195_Rev1” (adjunta). No obstante, este servicio se encuentra actualmente en espera hasta que finalice 
+la actualización del PPC. 
+ 
+ 
+ 
+ 
+
+                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 2 de 3 
+  
+Cabe señalar que, una vez completada la actualización de la homologación del modelo dinámico, la 
+planta aún no dispondrá de las funcionalidades de control de frecuencia, control de potencia reactiva ni control 
+de voltaje exigidas por la normativa vigente. Para habilitar dichas funcionalidades, se encuentra planificado el 
+reemplazo del PPC actual por un nuevo controlador desarrollado por Green Power Monitoring (GPM). 
+ 
+Una vez implementado este nuevo controlador, será necesario realizar primero la validación de su 
+modelo dinámico y, posteriormente, la verificación de los Servicios Complementarios de la planta, completando 
+así las actividades requeridas para su cumplimiento normativo. 
+ 
+El segundo motivo que ha retrasado la verificación de los SSCC en la planta fotovoltaica es que, en 
+este momento, el parque se encuentra en proceso de reparación de 25 de los 343 inversores Bonfiglioli. Esto 
+fue determinado la semana del 10 de septiembre 2025, cuando se realizó una visita a terreno por parte de 
+Eficiencia Solar para hacer el levantamiento del estado de los inversores del parque. 
+ 
+El servicio de normalización de inversores en planta está calendarizado para finalizar el 21 de 
+diciembre de 2026 y fue iniciado durante la semana del 4 de mayo de 2026 bajo la oferta de servicios “RES-
+Restauración operatividad.pdf” (adjunta). Las actividades de normalización consideran reparaciones como el 
+cambio de IGBTs (Insulated Gate Bipolar Transistor), contactor de precarga, ventiladores, reparación de la placa 
+de control y condensadores de estos mismos. A la vez, se debe realizar una actualización completa del sistema 
+de control del parque con el fin de mejorar las comunicaciones en planta. Esto considera principalmente la 
+reconfiguración de los 49 centros de transformación (CTs) de Single-Master a Master-Slave. 
+ 
+A continuación, presentamos nuestro plan de verificación de SSCC: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 3 de 3 
+  
+Se espera retomar el proceso de verificación de SSCC y efectuar el envío de los informes 
+correspondientes al CEN una vez que se cuente con las condiciones operacionales adecuadas para la correcta 
+ejecución de las pruebas. Lo cual consiste en haber realizado el reemplazo del PPC de la planta fotovoltaica por 
+uno que cumple con las exigencias normativas dadas por las versiones vigentes de la Norma Técnica de 
+Seguridad y Calidad de Servicio y la Norma Técnica de Servicios Complementarios, y haber finalizado la 
+normalización de los inversores. 
+ 
+De esta forma, se define el objetivo de hacer la entrega de los informes durante la semana del 12 
+de julio de 2027.  
+ 
+Se adjunta documentación de respaldo de los procesos actualmente en gestión y desarrollo, la cual 
+da cuenta del avance de las actividades comprometidas, así como de las gestiones realizadas para su pronta 
+ejecución y cierre. 
+ 
+Sin otro particular, quedamos atentos a sus comentarios y a cualquier antecedente adicional que 
+estime pertinente para dar continuidad a este proceso. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eliseo López Nitsche 
+ 
+Encargado Titular 
+ 
+Generación Solar SpA 
+ 

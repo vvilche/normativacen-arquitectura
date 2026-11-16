@@ -1,0 +1,41 @@
+ 
+ 
+OR-000239-2026 
+ 
+Santiago, 24 de agosto de 2026 
+ 
+Señor  
+Ramon Castañeda P. 
+Director Ejecutivo  
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+REFERENCIA: 
+Presentación Procedimiento de ensayos SSCC y Pruebas de validación de modelo 
+dinámico (VMD) del equipo de compensación de S/E Lagunas, para verificación de 
+Servicios complementarios por proyecto NUP 3887 “MR Reemplazo equipo de 
+compensación reactiva en S/E Lagunas (RCER AT)” 
+ 
+ 
+De nuestra consideración: 
+ 
+En relación con el proyecto “NUP 3887 - MR Reemplazo equipo de compensación reactiva en S/E 
+Lagunas (RCER AT)”, por medio de la presente se formaliza los siguientes procedimientos para su 
+revisión y validación: 
+ 
+• 
+EE-EN-2026-1736-RA 
+Procedimiento_de_ensayos_VMD_STATCOM_SE_Lagunas 
+• 
+EE-EN-2026-1736-RA 
+Procedimiento_de_ensayos_SSCC_STATCOM_SE_Lagunas 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 
+TRANSELEC S.A. 
+ 

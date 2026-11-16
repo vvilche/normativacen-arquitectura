@@ -1,0 +1,51 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+GM N°2025-019 
+12 de marzo de 2025 
+ 
+Señorita 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref: Observaciones a Indicadores Desempeño Servicios Complementarios – febrero 2025 
+ 
+En relación con el Informe de desempeño preliminar de servicios complementarios de enero 2025 
+publicado mediante carta DE 01408-25 de fecha 07 de marzo de 2025, tenemos las siguientes 
+observaciones: 
+SSCC 
+Central 
+Observaciones 
+CTF 
+General 
+Se solicita agregar al documento CTF_202502.csv el valor de la potencia en 
+t0+30 seg, t0+5 min, t0 +5,5 min y t0+6 min.  
+CPF 
+Central Nueva Renca 
+Se solicita realizar la evaluación de desempeño para los días entre el 01 y 12 
+de 
+febrero 
+con 
+los 
+archivos 
+que 
+serán 
+enviados 
+al 
+correo 
+dco@coordinador.cl, ya que los cargados automáticamente para ese periodo 
+tienen errores. 
+ 
+Sin otro particular, le saluda atentamente 
+ 
+ 
+ 
+Carolina Vélez K. 
+Encargada Titular 
+Generadora Metropolitana SpA 

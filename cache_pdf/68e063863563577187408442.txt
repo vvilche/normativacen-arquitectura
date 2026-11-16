@@ -1,0 +1,652 @@
+ 
+ 
+Parque Isidora Sur N°1061, Pudahuel, Santiago de Chile - Teléfono: (+56 2) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 3 de octubre de 2025 
+ 
+DE 06088-25 
+Señor 
+Marco Mancilla Ayancán 
+Secretario Ejecutivo 
+Comisión Nacional de Energía 
+Presente 
+ 
+Ref.: Estudio de Continuidad de Suministro. 
+Publicación Informe Final.  Título 6-4 de 
+la NT de SyCS. 
+ 
+De nuestra consideración: 
+La Norma Técnica de Seguridad y Calidad de Servicio establece en sus artículos 6-26 
+y 6-27 la realización de un Estudio de Continuidad de Suministro con una periodicidad 
+anual. 
+En este contexto, se elaboró un Informe Preliminar de dicho estudio, el cual incluyó las 
+recomendaciones a la Comisión Nacional de Energía (CNE) contempladas en los 
+artículos mencionados. Este informe fue puesto a disposición de los Coordinados para 
+observaciones el 29 de agosto de 2025, mediante carta DE05355-25. 
+Atendidas las observaciones recibidas, remito a usted, en anexo a la presente, las 
+recomendaciones contenidas en el Informe Final del referido estudio, el cual se 
+encuentra disponible en el sitio web del Coordinador Eléctrico Nacional 
+(www.coordinador.cl), a través del siguiente enlace: 
+https://www.coordinador.cl/operacion/documentos/estudios-para-la-seguridad-y-
+calidad-del-servicio/continuidad-de-suministro/2024-continuidad-de-suministro/ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ Ernesto Huber J. 
+Director Ejecutivo 
+  Coordinador Eléctrico Nacional  
+ 
+REV/VVG/adr/agc 
+c.c: 
+Sra. Marta Cabeza V. - Superintendenta de Electricidad y Combustibles, SEC. 
+Sres. Encargados Empresas Coordinadas. 
+Gerencia de Operación, Subgerencia de Estudios y Simulación en Tiempo Real, Depto. Estudios Eléctricos.
+
+ 
+ 
+Parque Isidora Sur N°1061, Pudahuel, Santiago de Chile - Teléfono: (+56 2) 2424 6300 
+www.coordinador.cl 
+Anexo – Recomendaciones 
+ 
+A continuación, se resumen las recomendaciones del Coordinador de acuerdo con lo 
+dispuesto en los artículos 6-26 y 6-27 de la NTSyCS. Se debe señalar, además, que 
+esta versión del estudio —al igual que la anterior— incorpora cinco años de 
+estadísticas relativas a los Índices de Continuidad en Puntos de Control. En 
+consecuencia, las recomendaciones aquí presentadas consolidan una metodología 
+que permite determinar de manera objetiva los estándares descritos en la NTSyCS, 
+cuyos valores son finalmente definidos por la Comisión Nacional de Energía. 
+ 
+a) Índices de continuidad aceptables FMIK y TTIK en los Puntos de Control de Clientes: 
+ 
+Zona 
+FMIK Límite 
+TTIK Límite 
+Iquique 
+3.8 
+5.8 
+Tocopilla 
+0.8 
+1.0 
+Antofagasta 
+2.0 
+1.9 
+Copiapó 
+2.0 
+3.0 
+Coquimbo 
+2.2 
+2.2 
+Valparaíso 
+1.1 
+0.8 
+Aconcagua 
+2.1 
+2.9 
+Metropolitana 
+0.9 
+0.5 
+Melipilla 
+2.2 
+1.9 
+Rapel 
+3.1 
+4.5 
+Rancagua 
+1.8 
+1.4 
+Itahue 
+2.4 
+1.5 
+Charrúa 
+3.1 
+2.4 
+Concepción 
+2.5 
+3 
+Araucanía 
+3.5 
+3.4 
+Chiloé 
+4.3 
+2.7 
+ 
+ 
+b) Índices de Indisponibilidad de Generación: 
+ 
+Índice de 
+Indisponibilidad 
+Hidráulica 
+Embalse 
+Hidráulica 
+Pasada 
+Térmica Vapor 
+Turbina Gas 
+HPROg Sugerido 
+500 
+380 
+940 
+380 
+HFORg Sugerido 
+120 
+60 
+250 
+60 
+FFORg Sugerido 
+9 
+5 
+15 
+5 
+Índice de 
+Indisponibilidad 
+Ciclo 
+Combinado 
+Motor 
+Diésel 
+Parque Motores 
+Diésel 
+Parque Eólico y 
+Fotovoltaico 
+HPROg Sugerido 
+620 
+380 
+20 
+20 
+HFORg Sugerido 
+250 
+120 
+10 
+10 
+FFORg Sugerido 
+15 
+10 
+3 
+3 
+ 
+ 
+ 
+
+ 
+ 
+Parque Isidora Sur N°1061, Pudahuel, Santiago de Chile - Teléfono: (+56 2) 2424 6300 
+www.coordinador.cl 
+c) Índices de Indisponibilidad de Transmisión: 
+ 
+Índice de  
+Indisponibilidad 
+Líneas 44 kV ≤ 
+Tensión < 100 kV 
+Líneas 100 kV ≤ 
+Tensión < 220 kV 
+Líneas 220kV ≤ Tensión < 
+500 kV 
+Líneas 500 
+kV ≤ 
+Tensión 
+HPROt Sugerido 
+10 
+15 
+15 
+15 
+HFORt Sugerido 
+20 
+10 
+10 
+5 
+FFORt Sugerido 
+4 
+3 
+2 
+2 
+Índice de  
+Indisponibilidad 
+Transformadores 
+Equipos de Compensación 
+HPROt Sugerido 
+25 
+30 
+HFORt Sugerido 
+35 
+55 
+FFORt Sugerido 
+1 
+1 
+ 
+ 
+d) Indisponibilidad aceptable TTIK, en aquellas barras del STN en las cuales la CNE 
+efectúe fijación de precios de nudo de corto plazo con el desglose de acuerdo con el 
+origen de la indisponibilidad (Transmisión Nacional, Transmisión Zonal, Transmisión 
+Dedicada, Generación y Otros): 
+ 
+Promedio ponderado TTIK (h/año) aceptables por Barra del Sistema de Transmisión Nacional del SEN 
+Barra STN/ Origen 
+Generación 
+Otros 
+Transmisión 
+Zonal 
+Transmisión 
+Dedicada 
+Transmisión  
+Nacional 
+TOTAL 
+NTSyCS 
+2020, 
+Art. 9-3 
+ALTO JAHUEL 220 
+0.04 
+0.04 
+0.40 
+0.09 
+0.63 
+1.19 
+3.63 
+ANCOA 220 
+0.26 
+0.27 
+2.86 
+0.67 
+4.45 
+8.50 
+8.50 
+ATACAMA 220 
+0.07 
+0.07 
+0.76 
+0.18 
+1.18 
+2.26 
+5.16 
+CALAMA 220 
+0.03 
+0.03 
+0.34 
+0.08 
+0.52 
+1.00 
+ 
+CARDONES 220 
+0.09 
+0.09 
+1.02 
+0.24 
+1.58 
+3.02 
+10.73 
+CAUTÍN 220 
+0.08 
+0.08 
+0.87 
+0.20 
+1.36 
+2.59 
+ 
+CERRO NAVIA 220 
+0.01 
+0.01 
+0.10 
+0.02 
+0.16 
+0.30 
+3.63 
+CHARRUA 220 
+0.08 
+0.08 
+0.82 
+0.19 
+1.28 
+2.45 
+8.42 
+CHENA 220 
+0.01 
+0.01 
+0.10 
+0.02 
+0.16 
+0.30 
+3.63 
+CHILOE 220 
+0.08 
+0.08 
+0.91 
+0.21 
+1.41 
+2.70 
+ 
+CIRUELOS 220 
+0.11 
+0.11 
+1.14 
+0.27 
+1.78 
+3.40 
+11.24 
+COLBUN 220 
+0.05 
+0.05 
+0.50 
+0.12 
+0.78 
+1.50 
+8.50 
+CONDORES 220 
+0.18 
+0.18 
+1.95 
+0.46 
+3.03 
+5.80 
+ 
+CRUCERO 220 
+0.04 
+0.05 
+0.48 
+0.11 
+0.75 
+1.44 
+3.64 
+D. DE ALMAGRO 220 
+0.09 
+0.09 
+0.95 
+0.22 
+1.47 
+2.82 
+11.03 
+EL TESORO 220 
+0.06 
+0.06 
+0.64 
+0.15 
+0.99 
+1.90 
+ 
+HUALPEN 220 
+0.09 
+0.09 
+1.02 
+0.24 
+1.58 
+3.03 
+12.45 
+ITAHUE 220 
+0.06 
+0.06 
+0.61 
+0.14 
+0.94 
+1.80 
+12.15 
+LABERINTO 220 
+0.05 
+0.05 
+0.51 
+0.12 
+0.79 
+1.52 
+ 
+LAGUNAS 220 
+0.18 
+0.18 
+1.95 
+0.46 
+3.03 
+5.80 
+5.16 
+LAGUNILLAS 220 
+0.13 
+0.13 
+1.37 
+0.32 
+2.13 
+4.08 
+12.45 
+LOS MAQUIS 220 
+0.13 
+0.13 
+1.36 
+0.32 
+2.12 
+4.05 
+ 
+LOS VILOS 220 
+0.07 
+0.07 
+0.74 
+0.17 
+1.15 
+2.20 
+9.15 
+MAIPO 220 
+0.02 
+0.02 
+0.17 
+0.04 
+0.26 
+0.50 
+ 
+MAITENCILLO 220 
+0.09 
+0.10 
+1.02 
+0.24 
+1.59 
+3.04 
+9.03 
+MELIPILLA 220 
+0.03 
+0.04 
+0.38 
+0.09 
+0.59 
+1.13 
+7.09 
+MELIPULLI 220 
+0.09 
+0.10 
+1.02 
+0.24 
+1.59 
+3.03 
+ 
+NOGALES 220 
+0.04 
+0.04 
+0.41 
+0.10 
+0.64 
+1.23 
+9.15 
+PAN DE AZUCAR 220 
+0.07 
+0.07 
+0.73 
+0.17 
+1.14 
+2.19 
+ 
+PARINACOTA 220 
+0.18 
+0.18 
+1.95 
+0.46 
+3.03 
+5.80 
+ 
+
+ 
+ 
+Parque Isidora Sur N°1061, Pudahuel, Santiago de Chile - Teléfono: (+56 2) 2424 6300 
+www.coordinador.cl 
+Promedio ponderado TTIK (h/año) aceptables por Barra del Sistema de Transmisión Nacional del SEN 
+Barra STN/ Origen 
+Generación 
+Otros 
+Transmisión 
+Zonal 
+Transmisión 
+Dedicada 
+Transmisión  
+Nacional 
+TOTAL 
+NTSyCS 
+2020, 
+Art. 9-3 
+POLPAICO 220 
+0.02 
+0.02 
+0.20 
+0.05 
+0.32 
+0.60 
+7.09 
+POZO ALMONTE 220 
+0.18 
+0.18 
+1.95 
+0.46 
+3.03 
+5.80 
+ 
+PUERTO MONTT 220 
+0.36 
+0.36 
+3.90 
+0.91 
+6.08 
+11.62 
+11.62 
+QUILLOTA 220 
+0.03 
+0.03 
+0.29 
+0.07 
+0.45 
+0.86 
+7.35 
+RAHUE 220 
+0.11 
+0.11 
+1.16 
+0.27 
+1.80 
+3.45 
+11.62 
+RAPEL 220 
+0.18 
+0.18 
+1.92 
+0.45 
+2.99 
+5.71 
+7.09 
+TARAPACA 220 
+0.18 
+0.18 
+1.95 
+0.46 
+3.03 
+5.80 
+5.16 
+TEMUCO 220 
+0.12 
+0.12 
+1.34 
+0.31 
+2.08 
+3.98 
+8.92 
+VALDIVIA 220 
+0.11 
+0.11 
+1.14 
+0.27 
+1.78 
+3.40 
+11.24 
+ 
+
+CORREO DE ENVÍO A OFICINA DE PARTES DE LA CNE 
+DE CARTA DE 06088-25 
+ 
+ 
+ 
+De: Alejandra Domínguez Rivera  
+Enviado el: viernes, 3 de octubre de 2025 20:04 
+Para: oficinadepartes <oficinadepartes@cne.cl>; Ivan Gajardo (Oficina de Partes) 
+<igajardo@cne.cl> 
+CC: Rodrigo Espinoza Vilches <Rodrigo.Espinoza@coordinador.cl>; Víctor Velar Guerrero 
+<Victor.Velar@coordinador.cl>; Eugenio Ernesto Quintana Painemal 
+<eugenio.quintana@coordinador.cl>; Carlos Alvear Araneda <Carlos.Alvear@coordinador.cl>; 
+Hernán Barra Cáceres <Hernan.Barra@coordinador.cl>; Simon Veloso Rivera 
+<simon.veloso@coordinador.cl> 
+Asunto: Adjunta carta DE 06088-25  
+ 
+Sres. Oficina de Partes CNE, 
+Sr. Iván Gajardo 
+ 
+De mi consideración: 
+ 
+Junto con saludarlos, por indicación del Sr. Ernesto Huber J., Director Ejecutivo del 
+Coordinador Eléctrico Nacional, adjunto carta DE 06088-25 Ref.: Estudio de 
+Continuidad de Suministro. Publicación Informe Final. Título 6-4 de la NT de SyCS. 
+Agradeceré confirmar por esta via la correcta recepción del correo y su adjunto. 
+Atte., 
+ 
+ 
+ 
+Alejandra Domínguez R. 
+Secretaria 
+Gerencia Personas y Administración 
+  
+Santiago de Chile 
+Tel: +56 2 2424 6411 
+ www.coordinador.cl 
+  
+  
+  
+ 
+ 
+ 
+
+COMPROBANTE RECEPCION SEC DE COPIA CARTA DE06088-25 
+ 
+ 
+De: info@sec.cl <info@sec.cl>  
+Enviado el: viernes, 3 de octubre de 2025 20:06 
+Para: Alejandra Domínguez Rivera <Alejandra.Dominguez@coordinador.cl> 
+Asunto: Informa Ingreso OP Virtual N°342480 
+ 
+ 
+[ CORREO EXTERNO. Solo abra links o adjuntos de remitentes conocidos, no revele 
+sus contraseñas]  
+ 
+ 
+ 
+Estimado(a) Coordinador Electrico Nacional 
+ 
+La informacion enviada, a nuestra Oficina de Partes Virtual, 
+ha sido recibida exitosamente y registrada con el N° de OP 
+342480, si cumple todos los patrones necesarios, 
+procederemos a realizar el ingreso a nuestros sistemas, 
+para ser derivado a la oficina SEC SANTIAGO. 
+ 
+¡Gracias 
+por 
+comunicarse 
+con 
+la 
+SEC! 
+ 
+www.sec.cl  
+ 
+ 
+ 
+Este es un mensaje automatico y solo tiene fines informativos, por 
+lo que le solicitamos no responder el presente mail. 
+Se ha enviado sin tildes u otros caracteres especiales a fin de 
+evitar posibles errores de lectura a traves de su software de correo 
+electronico.  
+ 
+ 

@@ -1,0 +1,113 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 29 de julio de 2026 
+ASII 0036-2026 
+ 
+ 
+Señor  
+Rodrigo Espinoza 
+Gerente de Operación  
+Coordinador Eléctrico Nacional  
+ 
+Ref: Actualiza cronograma para verificación de CSF-AGC 
+[1] DE03429-26, “Proceso de Verificación del Servicio Complementario (SC) de Control 
+Secundario de Frecuencia (CSF-AGC) e incorporación a la herramienta de despacho 
+económico (ED)”, de fecha 20 de mayo de 2026. 
+[2] ASII 0031-2026, “Responde carta DE03429-26 sobre proceso de verificación de Control 
+Secundario de Frecuencia e incorporación a la herramienta de despacho económico”, de 
+fecha 29 de mayo de 2026 
+ 
+ 
+De mi consideración, 
+ 
+En relación con la materia de la referencia, me dirijo a Ud. con el propósito de presentar 
+una actualización del plan de trabajo destinado a completar la verificación del Control 
+Secundario de Frecuencia de la Central Andes Solar IIA. 
+ 
+Al respecto, algunas de las actividades consideradas en el cronograma original han 
+requerido un plazo mayor al previsto inicialmente, por lo que resulta necesario ajustar la 
+programación informada por mi representada mediante la comunicación individualizada en 
+la Ref. [2]. 
+ 
+Asimismo, cabe señalar que actualmente se encuentran en coordinación las pruebas punto 
+a punto requeridas para la verificación, las que se espera realizar durante la próxima 
+semana. 
+ 
+Finalmente, en anexo se adjunta el plan de trabajo actualizado, que incorpora los ajustes 
+necesarios para concluir las actividades pendientes. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+Andes Solar II SpA. 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Anexo 
+Ítem 
+Nombre de tarea 
+Estado 
+Comienzo 
+Fin 
+1 
+Reunión técnica O&M 
+Completado 
+Completado 
+Completado 
+2 
+Adquisición de hardware RTU 
+Completado 
+Completado 
+Completado 
+3 
+Armado de hardware nueva RTU560 
+AGC 
+Completado 
+Completado 
+Completado 
+4 
+Entrega de mapas de señales Modbus 
+y DNP3 de actual RTU Foxboro AGC 
+Completado 
+Completado 
+Completado 
+5 
+Señales SITR 
+Completado 
+Completado 
+Completado 
+6 
+Análisis control de PPC BESS y PV 
+En proceso 
+01/09/2025 
+14/08/2026 
+7 
+Pruebas internas de CSF PV + BESS 
+En proceso 
+29/06/2025 
+14/08/2026 
+8 
+Pruebas punto a punto 
+En proceso 
+29/07/2026 
+07/08/2026 
+9 
+Pruebas Sintonización de AGC 
+Pendiente 
+10/08/2026 
+31/08/2026 
+Tabla 1: Plan de trabajo actualizado 
+ 

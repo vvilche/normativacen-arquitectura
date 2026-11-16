@@ -1,0 +1,50 @@
+ 
+ 
+ 
+ 
+ 
+ 
+    
+Sonnedix Cox Energy Chile SpA 
+Magdalena 140, oficina 601 
+Las Condes, Santiago. 
+sonnedix.com 
+CONFIDENTIAL 
+ 
+Santiago, 6 de mayo de 2026 
+SXC-005-26 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+Ref: Actualización de cronograma de Verificación de 
+Instalaciones de Generación para la Prestación del Servicio 
+de Control Secundario de Frecuencia (AGC) — PFV Meseta 
+de Los Andes. 
+ 
+De mi consideración, 
+ 
+En complemento a nuestra carta SXC-023-25 de fecha 6 de marzo de 2026, me dirijo a usted 
+para informar que el proceso de Verificación de la central PFV Meseta de Los Andes para la 
+prestación del servicio de Control Secundario de Frecuencia (CSF/AGC) ha experimentado un 
+atraso respecto al cronograma comprometido. Dicho atraso se debe principalmente a 
+dificultades técnicas en la integración de las señales DNP3 adicionales requeridas para la 
+operación del AGC, las cuales han demandado una coordinación extendida entre los equipos de 
+control y comunicaciones involucrados. El nuevo cronograma estimado es el siguiente: 
+ 
+Planta 
+Fecha estimada 
+PFV Meseta de Los Andes Pruebas de sintonización AGC con el CEN: Semana de 18 de 
+mayo de 2026 
+PFV Meseta de Los Andes Entrega de informe o verificación final: Semana de 1 de junio 
+de 2026 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+______________________________ 
+Claudio Silva 
+Encargado Titular 
+Sonnedix Cox Energy Chile SpA 

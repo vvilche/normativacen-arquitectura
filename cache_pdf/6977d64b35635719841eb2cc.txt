@@ -1,0 +1,56 @@
+ 
+Grenergy Renovables Pacific Ltda 
+RUT: 76.257.813-1 
+Avda. Isidora Goyenechea 2800, oficina 3702 – Las Condes – Santiago 
+Tel.: 56 (2) 22483253 
+ 
+1 
+  
+Santiago, viernes, 23 de enero de 2026 
+       GR-CHL0007A-14/2026 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operaciones 
+Coordinador Eléctrico Nacional 
+Presente 
+Mat.: Presentación de experto técnico, para las pruebas de 
+Parámetros de Generación y Verificación de SSCC, por 
+proyecto “NUP3849 – PFV + BESS Gabriela – Etapa 2”. 
+De nuestra consideración: 
+En relación con el proyecto “NUP3849 – PFV + BESS Gabriela – Etapa 2” (en adelante, el “Proyecto”), propiedad de 
+GR Lenga SpA, Rol Único Tributario N° 76.885.319-3, mediante la presente comunicación formalizamos la 
+presentación de la empresa Estudios Electromagnéticos (EEMT), como experto técnico para realizar las pruebas en 
+Unidades Generadoras y Verificación de Instalaciones para la Prestación de Servicios Complementarios (SSCC). 
+Por lo anterior, las pruebas que se realizarán por parte del experto técnico para generar los respectivos informes y 
+ensayos son las siguientes: 
+1. Parámetros de Generación 
+• 
+Potencia Máxima (Pmáx). 
+• 
+Parámetros de Procesos de Partida y Detención (PPyD). 
+• 
+Determinación de Mínimos Técnicos (MT). 
+2. Validación de Modelo Dinámico. 
+3. Verificación de Instalaciones para la Prestación de SSCC 
+• 
+Control Primario de Frecuencia (CPF). 
+• 
+Control Terciario de Frecuencia (CTF). 
+• 
+Control de Tensión (CT). 
+Dado lo anterior, en el Anexo N°1 de la presente comunicación se encuentran los antecedentes del experto técnico, 
+por lo cual solicitamos su revisión y aprobación, para realizar las pruebas, informes y ensayos indicados 
+anteriormente. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+_________________________ 
+Rodrigo Hernández Palma 
+p.p. GR Lenga SpA. 
+RODRIGO JAVIER 
+HERNANDEZ 
+PALMA
+Firmado digitalmente por 
+RODRIGO JAVIER HERNANDEZ 
+PALMA 
+Fecha: 2026.01.23 13:25:12 -03'00'

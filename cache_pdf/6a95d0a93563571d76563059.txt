@@ -1,0 +1,273 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 28 de agosto de 2026 
+AES 0115-2026 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+Ref: Responde carta DE 05638-26. EAF 246/2026 - Apertura intempestiva del 
+interruptor 52B1 de S/E Enlace. 
+[1] Carta DE 05638-26, “EAF 246/2026: Apertura intempestiva del interruptor 52B1 de S/E 
+Enlace.”, de fecha 21 de agosto de 2026. 
+ 
+ 
+De mi consideración, 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. con el propósito de dar respuesta a la 
+carta de Ref. [1], en la cual solicita antecedentes adicionales a los informados originalmente 
+en el Informe de Falla de 5 días. Al respecto puedo indicar lo siguiente: 
+ 
+a) Antecedentes respecto del origen y causa de la apertura del interruptor 52B1 de 
+S/E Enlace, junto con sus correspondientes respaldos, indicando el Fenómeno 
+Físico respectivo.  
+ 
+La apertura del interruptor 52B1 de S/E Enlace se produjo por la operación de la 
+protección de sobrecorriente temporizada de fase (función 51P del relé SEL-351A), ante 
+una sobrecarga sostenida en la línea 66 kV Enlace–Fibranova. El relé registró una 
+corriente de 297 A primarios, valor superior al umbral de operación ajustado de 280 A 
+primarios (7 A secundarios, TC 200/5, curva IEC Normalmente Inversa - Curve C, Level 
+0,15). Al mantenerse la condición durante el tiempo definido por la característica 
+temporizada, la protección emitió la orden de apertura, despejando la sobrecarga. 
+ 
+La sobrecarga tuvo su origen en la transferencia de consumos de las SS/EE Cabrero, 
+Masisa y Fibranova hacia S/E Enlace, derivada de trabajos de desconexión programados 
+por terceros en la línea 66 kV Charrúa–Cabrero de solicitud DI2026065063. 
+ 
+Fenómeno Físico: OPE06, falla originada en instalaciones de terceros u otro segmento 
+(transferencia de carga por maniobra programada). 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+ 
+b) Proposición acerca del origen de la falla (Externa, Interna, Fuerza Mayor o Caso 
+Fortuito), junto con los antecedentes probatorios que respalden dicha 
+proposición. 
+ 
+Dependiendo de la propuesta y del Fenómeno Físico que produce la falla, se 
+deberán enviar los Probatorios y Antecedentes correspondientes, de acuerdo con 
+lo estipulado en la Resolución Exenta N°30989 de la SEC. 
+ 
+Mi representada propone clasificar el origen de la falla como Externa. Lo anterior, debido 
+a que tanto la solicitud del evento —desconexión programada de la línea 66 kV Charrúa–
+Cabrero — como las maniobras y transferencias de carga fueron ejecutadas por 
+terceros. Es decir, mi representada no tuvo injerencia ni control durante el evento. Se 
+configura así el criterio de exterioridad, por tratarse de un hecho ajeno a la voluntad y 
+gestión del propietario de la instalación afectada. 
+ 
+En respaldo de esta proposición, y de acuerdo con los probatorios exigidos para una 
+causa externa por falla en instalaciones de terceros, adjuntan los siguientes 
+antecedentes: 
+ 
+• 
+Secuencia de operación de las protecciones que operaron en el paño B1 de S/E 
+Enlace (registro de eventos SER). 
+• 
+Informe Técnico de la operación de las protecciones en función de sus ajustes 
+vigentes (contenido en el IF2026003365 adjunto y cargado en sistema Neomante). 
+• 
+Registros oscilográficos en formato COMTRADE de las protecciones operadas.  
+ 
+c) Mantenimientos realizados a la S/E Enlace, durante los últimos 24 meses, junto 
+con los antecedentes que acrediten su realización, indicando los principales 
+hallazgos. 
+Este listado además deberá precisar el número del respectivo permiso de trabajo 
+que fuera aprobado por el Coordinador mediante el aplicativo Neomante, para 
+intervenir o desconectar las instalaciones sujetas a su coordinación:  
+ 
+Mi representada se encuentra recopilando y consolidando los antecedentes solicitados 
+para S/E Enlace. Al respecto, se informa que dicha recopilación y revisión ha requerido 
+un tiempo mayor al inicialmente estimado, atendida la necesidad de reunir información 
+proveniente de distintas fuentes y efectuar las validaciones correspondientes. 
+En este contexto, mi representada continuará realizando las gestiones necesarias para 
+completar los antecedentes y remitirá la respuesta correspondiente a más tardar el día 
+30 de septiembre de 2026. 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+d) Registros oscilográficos en formato COMTRADE y registro de eventos de las 
+protecciones operadas en S/E Enlace, junto con el análisis de su operación en 
+función de sus ajustes. 
+ 
+Se adjuntan a la presente comunicación los registros oscilográficos en formato COMTRADE 
+y el registro de eventos de las protecciones que operaron en el paño B1 de la S/E Enlace. 
+ 
+El análisis de dicha operación, considerando los ajustes vigentes al momento del evento, 
+se encuentra contenido en los numerales 10.1, 10.2 y 11 del IF N° 2026003365, adjunto a 
+la presente comunicación y disponible en el sistema Neomante. A continuación, se presenta 
+un resumen de sus principales conclusiones: 
+ 
+Parámetro 
+Valor / Resultado 
+Relé / función operada 
+SEL-351A, función 51P (sobrecorriente temporizada de fase) 
+Transformador de corriente 
+TC 200/5 
+Ajuste de pickup 51P 
+7 A secundarios (equivalentes a 280 A primarios) 
+Curva / Level 
+IEC Normalmente Inversa (Curve C) / Level 0,15 
+Corriente registrada 
+297 A (Fase A), 279 A (Fase B), 284 A (Fase C) primarios 
+Resultado de la operación 
+Correcta y conforme a ajustes presente en Infotecnica: 
+arranque, temporización y apertura del 52B1. 
+ 
+e) Detalle pormenorizado de las maniobras, con sus respectivos horarios, realizadas 
+para la normalización de las instalaciones. 
+ 
+El detalle cronológico de las maniobras ejecutadas para la normalización de las 
+instalaciones se encuentra contenido en el Capítulo 9 del IF N° 2026003365, documento 
+adjunto y cargado en el sistema Neomante. En consecuencia, no existen antecedentes 
+adicionales ni información nueva respecto de lo ya informado. 
+ 
+En particular, el detalle es el siguiente: 
+ 
+Instalación 
+Evento 
+Hora 
+SE Cabrero 66 kV 
+Abre 52BL por transferencia de cargas. 
+08:02 
+SE Enlace 66 kV 
+(AES Andes) 
+Abierto 52B1 por sobrecorriente de fase (sobrecarga por 
+transferencia de cargas, por maniobras en instalaciones 
+de terceros). 
+08:02 
+SE Cabrero 66 kV 
+F/S por pérdida de tensión desde SE Enlace 66 kV 
+08:02 
+SE Fibranova 66 kV 
+F/S por pérdida de tensión desde SE Enlace 66 kV 
+08:02 
+SE Masisa 66 kV 
+F/S por pérdida de tensión desde SE Enlace 66 kV 
+08:02 
+SE Cabrero 66 kV 
+Cierre fallido de 52BL, por normalización. 
+08:05 
+SE Cabrero 66 kV 
+Cierre fallido de 52BL, por normalización. 
+08:06 
+SE Cabrero 66 kV 
+Cierre fallido de 52BL, por normalización. 
+08:07 
+SE Enlace 66 kV 
+(AES Andes) 
+Cerrado 52B1, por normalización. 
+08:11 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Instalación 
+Evento 
+Hora 
+SE Cabrero 66 kV 
+Normaliza consumos. 
+08:11 
+SE Fibranova 66 kV 
+Normaliza consumos. 
+08:11 
+SE Central Masisa 
+En servicio, Central Masisa, por normalización. 
+08:57 
+ 
+f) Plan de trabajo para la normalización de las señales que deben llegar al SITR del 
+Coordinador, asociadas a la S/E Enlace. 
+Al respecto, y de acuerdo con el análisis y revisión realizada en el contexto de la 
+falla, los paños B1 y BL1, y la barra N°1 66 kV de S/E Enlace no cuentan con 
+señales que lleguen al SITR del Coordinador. A efectos de regularizar las señales 
+su representada deberá contactar en primer lugar al personal del Departamento 
+de Confiabilidad y Soporte Técnico del Coordinador, al correo electrónico 
+dcst@coordinador.cl, para conocer el listado de señales SITR requeridas, y 
+posteriormente al personal del departamento de SCADA y SITR del Coordinador, 
+al correo electrónico tec.scada@coordinador.cl, para implementar las señales 
+SITR que deben estar implementadas en el SCADA del Coordinador.  
+ 
+Con fecha 24 de agosto de 2026, mi representada realizó una consulta formal al 
+Departamento de Confiabilidad y Soporte Técnico del Coordinador, a través de la casilla 
+de correo electrónico habilitada para tales efectos (dcst@coordinador.cl), solicitando el 
+listado de señales SITR requeridas para los paños B1, BL1 y la Barra N° 1 de 66 kV de 
+la S/E Enlace. Se adjunta como respaldo copia del referido correo electrónico. 
+ 
+A la fecha de la presente comunicación, no se ha recibido respuesta ni el listado 
+solicitado. Cabe señalar que dicha información resulta indispensable para la definición 
+del plan de trabajo correspondiente, incluyendo actividades, plazos y recursos 
+asociados, el cual mi representada se compromete a presentar oportunamente ante ese 
+Coordinador una vez que se disponga de los antecedentes requeridos.  
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+g) Otros antecedentes que AES Andes S.A. considere relevante en relación con lo 
+solicitado.  
+ 
+Mi representada indica lo siguiente: 
+• 
+El trabajo DI2026065063 que derivó a la condición operacional de sobrecarga sobre 
+el paño B1 de S/E Enlace 66 kV, fue programado correctamente por la empresa 
+solicitante, informando a las demás empresas en la zona de intervención y aprobado 
+por el Coordinador Eléctrico Nacional, siguiendo el conducto regular establecido 
+para este tipo de intervenciones. 
+• 
+Los registros aportados demuestran que el sistema de protección y el interruptor 
+52B1 – propiedad de mi representada – operaron correctamente según a los ajustes 
+informados en Infotécnica, detectando correctamente la magnitud de corriente que 
+superó su umbral de operación (297 A > 280 A) y realizando la apertura el interruptor 
+en los tiempos esperados. Respecto a la normalización, dichos equipos operaron 
+correctamente y conforme a lo esperado. No se observa mal funcionamiento alguno 
+de los equipos de mi representada, ni que hayan ocasionado o agravado el evento 
+de falla. 
+• 
+Conforme a lo indicado en el EAF 246/2026, al detectarse la condición de 
+sobrecarga en el paño B1, el centro de control de STS intentó el recierre del 
+interruptor 52BL en S/E Cabrero (maniobra sin éxito). 
+Por su parte, el sistema de protección e interruptor del paño B1 de S/E Enlace 66 
+kV detectó correctamente que la carga que superaba su umbral de operación y 
+operó en consecuencia, realizando la apertura del interruptor 52B1 en los tiempos 
+conforme a su curva de ajuste. Ambas actuaciones son consistentes con una 
+operación normal de los equipos y las variables presentes durante el evento. 
+ 
+De acuerdo con los antecedentes expuestos, mi representada reitera su solicitud de 
+categorizar como de origen Externo el evento, dado que su causa proviene de trabajos 
+realizados por terceros, los cuales fueron programados y validados según los procesos 
+correspondientes, en una instalación aguas abajo de S/E Enlace, sin que se evidencie falla 
+o mal funcionamiento de las instalaciones propiedad de mi representada. 
+  
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+AES Andes S.A. 

@@ -1,0 +1,65 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLY & ENERGY MANAGEMENT 
+ 
+Santiago, 26 de agosto de 2026 
+ENGIE N°292/2026
+ 
+Señor 
+Patricio Valenzuela V.  
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: 
+Responde 
+a 
+carta 
+DE05418-26:
+“Incumplimiento asociado al Proceso de Verificación 
+de Control de Tensión de instalaciones asociadas a 
+la instrucción de Control Dinámico de Tensión (CDT), 
+en el marco de las medidas operacionales definidas 
+por el Coordinador Eléctrico Nacional.”. 
+Ref.:  
+[1] Carta DE03477-26 del Coordinador Eléctrico 
+Nacional, del 11 de junio de 2025.  
+[2] Carta DE05418-26 del Coordinador Eléctrico 
+Nacional, del 21 de agosto de 2026. 
+ 
+De nuestra consideración, 
+ 
+Respecto a los comentarios realizados en el Anexo 2 de su comunicación en Ref. [2], en específico en relación con 
+el CT de PFV TAMAYA SOLAR y en atención a las observaciones emitidas en su comunicación en Ref. [1], 
+informamos lo siguiente: 
+ 
+Limitación en el lado inductivo del PPC (-37,47 MVAr): Actualmente nos encontramos gestionando con el 
+fabricante del controlador PPC (POWERFACTORS) la verificación técnica de dicha limitación. Nos comprometemos 
+a informar, a más tardar el 10 de septiembre, la solución propuesta para dicha condición, con el objetivo de 
+posteriormente planificar la repetición de la prueba y registrar de manera completa la curva PQ teórica en cuanto a 
+la absorción de reactivos. 
+ 
+Operación de reactivos en absorción/inyección sin recurso primario: Este punto será debidamente aclarado 
+en la minuta de respuesta que mandaremos junto con una nueva versión el informe a más tardar el 04/09/26.  
+ 
+Cambiador de tomas del transformador de poder: Igual que el punto anterior. 
+ 
+En relación con la puesta en servicio del Master PPC, esta se está programando para el 25 de septiembre del año 
+en curso. Una vez implementado — el cual asumirá el control conjunto del parque PV y el BESS Tamaya — se 
+deberán programar nuevas pruebas para actualizar el proceso de verificación de los SSCC comprometidos para 
+ambas instalaciones. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+Juan Muñoz Tapia 
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 

@@ -1,0 +1,53 @@
+Santiago, 28-08-2026 
+N° 152026 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+Presente 
+Ref.: Respuesta a carta DE05315-26 – Incumplimiento de plazos en la implementación 
+de PMU del Módulo de Medición Fasorial del Coordinador – Punto de monitoreo PE La 
+Flor 
+Por medio de la presente, y en relación con la carta DE05315‑26, de 21 de agosto de 
+2026, mediante la cual el Coordinador Eléctrico Nacional comunica a Vientos de 
+Renaico Spa el incumplimiento del plazo comprometido para la implementación de la 
+unidad de medición fasorial (PMU) asociada a PE La Flor, inicialmente comprometido 
+para el 30 de julio de 2026, Vientos de Renaico Spa expone a continuación las razones 
+del incumplimiento, las acciones realizadas y el plan de acción para dar cumplimiento 
+a lo requerido por el Coordinador. 
+Al respecto, cabe señalar que el retraso tuvo su origen en el proceso de licitación para 
+el suministro e instalación del equipo PMU de PE La Flor. Durante dicho proceso, 
+Vientos de Renaico Spa enfrentó dificultades en la convocatoria de oferentes y en la 
+recepción de ofertas técnico‑económicas. A ello se sumó que el proveedor tecnológico 
+con quien la empresa evaluaba la ejecución del suministro comunicó su imposibilidad 
+de continuar con el proceso. Dicha situación obligó a Vientos de Renaico Spa a reiniciar 
+la búsqueda de integradores y constituyó la causa directa del incumplimiento del plazo 
+comprometido. 
+No obstante, lo anterior, informamos que el proyecto se encuentra actualmente ya 
+adjudicado y avanzando con los proveedores involucrados según cronograma de 
+ejecución vigente, cuyos hitos principales se detallan a continuación: 
+ 
+ 
+• Adquisición de PMU: 07-09-2026 al 23-11-2026 (56 días). 
+
+• Ingeniería de detalle: 07-09-2026 al 02-11-2026. 
+• Levantamiento en sitio: Del 01-09-2026 al 04-09-2026. 
+• Tendido de cableado (interior de sala): diciembre 2026. 
+• Montaje de PMU en armario existente: diciembre 2026 – enero 2027. 
+• Conexionado de señales de potencial/corriente a PMU: enero 2027. 
+• Enlaces de comunicación y licencias PDC Corporativo: Desde septiembre 2026 
+– enero 2027. 
+• Pruebas SAT del PMU: febrero 2027. 
+• Pruebas de Integración con el CEN: marzo 2027. 
+• Entrega de dossier técnico / punch list al Coordinador: marzo 2027. 
+Conforme a lo anterior, y considerando el margen necesario para la coordinación de 
+las pruebas finales de integración con el Coordinador, Vientos de Renaico Spa estima 
+la puesta en servicio del PMU de PE La Flor durante el primer trimestre de 2027, al 
+encontrarse el proceso de adquisición e implementación ya adjudicado y en ejecución. 
+Sin otro particular, le saluda, atentamente, 
+ 
+ 
+Italo Perfetti 
+Área Coordinador Eléctrico 
+Vientos de Renaico Spa 

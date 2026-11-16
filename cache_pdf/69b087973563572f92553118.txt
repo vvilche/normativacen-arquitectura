@@ -1,0 +1,46 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 10 DE MARZO 2026 
+COM-48/2026 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para febrero del 
+2026 
+ 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para enero 2026. 
+ 
+1) 
+El 24-02-2026 a las 19:21 las centrales PENON DIESEL y TENO DIESEL recibieron instrucción 
+de activacion por CTF (+). Según el informe publicado ambas centrales presentan un 
+desempeño de 0% en la hora 19. Sin embargo, en el archivo “CTF_202602” las centrales para 
+esa fecha y hora registran factores de cumplemiento de 91% y 100% respectivamente.  
+Se solicita que se reconozca la información publicada en la base de datos “CTF_202602” y se 
+corrijan los desempeños publicados en el informe para las centrales PENON DIESEL y TENO 
+DIESEL el día 24-02-2026 hora 19.  
+ 
+ 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Andrés Guerra C. 
+Encargado Suplente 
+Enlasa Generación Chile S.A. 

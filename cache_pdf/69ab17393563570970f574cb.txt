@@ -1,0 +1,90 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+Santiago, 05 de marzo de 2026 
+ 
+QLP202610 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a carta DE 01003-26 –
+Comunica atraso en el proceso de Verificación 
+de Instalaciones de Generación para la 
+Prestación de Servicios Complementarios de 
+acuerdo con Cronograma Vigente. 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, y en relación con la carta DE 01003-26, mediante la cual se comunica 
+el atraso en el proceso de Verificación de Instalaciones de Generación para la Prestación 
+de Servicios Complementarios (SSCC) de acuerdo con el cronograma vigente, nos 
+referimos a la instalación PFV Quilapilún de nuestra representada. 
+ 
+Actualmente, se ha definido realizar el reemplazo del Power Plant Controller (PPC) de la 
+central por motivos de confiabilidad operativa. En este contexto, nos encontramos en 
+proceso de definición de los requisitos técnicos asociados al nuevo PPC, etapa necesaria 
+previo al inicio de su implementación. 
+ 
+Considerando que la implementación de un nuevo PPC implicará la necesidad de realizar 
+una nueva validación del modelo dinámico de la planta, así como también repetir el 
+proceso de verificación de Servicios Complementarios, hemos determinado no avanzar 
+con el proceso de verificación de SSCC bajo la configuración actual de la planta, a fin de 
+evitar la ejecución de ensayos y procesos de verificación que quedarían obsoletos una vez 
+implementado el nuevo controlador. 
+ 
+En este contexto, se presenta el siguiente plan de trabajo de dichas actividades 
+contemplando la implementación del cambio de PPC en conjunto con el Anexo 
+correspondiente. 
+ 
+ 
+ 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quedamos atentos a cualquier observación adicional. 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Moraga Á.  
+Encargado Suplente 
+Chungungo S.A. 

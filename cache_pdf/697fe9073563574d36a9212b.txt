@@ -1,0 +1,46 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 02 de febrero de 2026 
+DE 00586-26 
+ 
+Señor 
+Víctor Gutiérrez González 
+Encargado Titular 
+CGE Transmisión S.A. 
+Presente 
+Ref.: EAF 558/2025 - Apertura intempestiva 
+del interruptor 52H2 de S/E Quelentaro 
+De mi consideración: 
+ 
+Me refiero a la apertura intempestiva del interruptor 52H2 de S/E Quelentaro, ocurrida a las 
+16:22 horas del día 23 de diciembre de 2025, en la cual se vieron involucradas instalaciones 
+de su representada. 
+ 
+Al respecto, con el objetivo de aclarar debidamente las causas y consecuencias de los 
+eventos en cuestión, en conformidad con lo que establece el Título 6-7, y en particular, el 
+Artículo 6-44 de la Norma Técnica de Seguridad y Calidad de Servicio, y en virtud de las 
+modificaciones aplicadas al proceso de los Estudios para Análisis de Falla, instruidas por la 
+Superintendencia de Electricidad y Combustibles mediante las Resoluciones Exentas 
+N°30989-2019 y N°30891-2019, solicito a usted remitir al Coordinador antes de las 18:00 
+horas del día 09 de febrero de 2026, la siguiente información: 
+ 
+Envío de los registros oscilográficos de la protección asociada al paño C1 de S/E 
+Quelentaro en formato COMTRADE, y envío de sus registros de eventos en formato 
+de texto y formato COMTRADE, junto con el correspondiente análisis en función de 
+sus ajustes. 
+En caso de que los sistemas de protecciones involucrados no dispongan de esa 
+información, se deberá enviar un cronograma para regularizar dicho atributo, de 
+manera de que los esquemas de protecciones asociados a dichos paños den 
+cumplimiento a la normativa vigente. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+ Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. Claudio Metayer Guerrero - Encargado Suplente de la empresa CGE Transmisión S.A. 
+DAOP/ngm 

@@ -1,0 +1,247 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 12 de mayo de 2026 
+DE 03184-26 
+ 
+ 
+Señor 
+Pablo Marcos 
+Encargado Titular 
+Huemul Energía SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario de Control de Tensión de la 
+central PE Ckhuri (NUP 380). 
+ 
+[1] Carta CH044-2026 de Huemul Energía SpA, Ref.: 
+“Informe Técnico de Verificación de Prestación de 
+Servicios Complementarios del proyecto PE Ckhúri (ex 
+Ckani) (NUP 380) – Control de Tensión”, de fecha 24 
+de marzo de 2026. 
+Responde a Ingreso DE02971-26 
+ 
+ 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado 
+el proceso de verificación del Servicio Complementario (SC) de Control de Tensión (CT) de 
+la central PE Ckhuri. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario a partir de las 00:00 del 14 de mayo de 2026 
+considerando los recursos indicados en el anexo de la presente carta. 
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información solicitada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de 
+prestación del CT de la central PE Ckhuri se ha publicado en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional: 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > Central PE Ckhuri 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PGR/ycl 
+c.c.:  
+Sr. Felipe Fernández – Encargado Suplente Huemul Energía SpA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PE Ckhuri 
+1. 
+Identificación de las Instalaciones Verificadas: 
+A continuación, se describen los parámetros operacionales preliminares considerados en 
+el proceso de verificación, los que se encuentran en proceso de aceptación por el 
+Coordinador Eléctrico: 
+a) Central PE Ckhuri 
+• 
+Potencia máxima bruta: 95,257 [MW] 
+• 
+Potencia máxima neta: 94,334 [MW]  
+• 
+Potencia mínima bruta: 1,135 [MW]  
+• 
+Potencia mínima neta: 0,090 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión 
+Control de Tensión 
+Control de Tensión (CT) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión: 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte de Huemul Energía SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+a) Control de Tensión 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Instalación 
+Recurso 
+Primario 
+             Tensión [pu] 
+ 
+Potencia [MW] 
+Potencia Reactiva [MVAr]  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+Central PE 
+Ckhuri 
+Eólico 
+0,09 
+61,0 
+61,0 
+61,0 
+61,0 
+61,0 
+34,0 
+59,0 
+59,0 
+59,0 
+59,0 
+59,0 
+68,0 
+54,0 
+54,0 
+54,0 
+54,0 
+54,0 
+94,3 
+46,0 
+46,0 
+46,0 
+46,0 
+46,0 
+94,3 
+-55,0 
+-65,0 
+-77,0 
+-77,0 
+-77,0 
+68,0 
+-67,0 
+-67,0 
+-67,0 
+-67,0 
+-67,0 
+34,0 
+-60,0 
+-60,0 
+-60,0 
+-60,0 
+-60,0 
+0,09 
+-57,0 
+-57,0 
+-57,0 
+-57,0 
+-57,0 
+ 

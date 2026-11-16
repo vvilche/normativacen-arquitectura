@@ -1,0 +1,281 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 26 de marzo de 2026 
+DE 01969-26 
+Señor 
+Sebastián Ruiz-Tagle 
+Encargado Titular 
+Colbún S.A 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control 
+Primario de Frecuencia de las unidades HE 
+Angostura U1, U2 y U3. 
+Responde a Ingresos: DE02045-26. 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de las Ref. [1], comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación del SC de Control Primario de 
+Frecuencia (CPF) de las unidades HE Angostura U1, U2 y U3. 
+ 
+Como resultado de este proceso, las unidades mencionadas quedan habilitadas para la 
+prestación de los mencionados servicios complementarios a partir de las 00:00 del 02 de 
+abril de 2026 considerando los recursos indicados en el anexo de la presente carta. 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+prestación del CPF de las unidades de la central HE Angostura se han publicado en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Primario de Frecuencia > Central HE Angostura 
+ 
+Finalmente, las unidades mencionadas de central HE Angostura podrán participar de las 
+subastas de Control de Frecuencia, una vez que se complete el proceso de solicitud de 
+incorporación a la plataforma de subastas. Para ello, su representada deberá presentar los 
+antecedentes indicados en las Bases Administrativas de Subastas para Control de 
+Frecuencia, que se encuentran publicadas en la siguiente ruta de la página web del 
+Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V7 
+(Fecha de publicación: 13/02/2026) 
+ 
+Sin perjuicio de lo anterior, las unidades HE Angostura U1, U2 y U3 podrán ser instruidas 
+de manera directa por el Coordinador Eléctrico Nacional en la prestación del mencionado 
+SC.  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/DIR/PPF/ycl  
+c.c.:  
+Sr. Rafael Zamorano – Encargado Suplente Colbún S.A. 
+ 
+Referencias: 
+ 
+[1] Carta GO N°045/2026 de Colbún S.A., Ref.: “Respuesta a observaciones a los Informes 
+Técnicos de Verificación del servicio complementario (SC) de Control Primario de 
+Frecuencia (CPF) de las unidades 1, 2 y 3 de HE Angostura”, de fecha 02 de marzo de 
+2026. Ingreso DE02045-26. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC HE Angostura 
+1. 
+Identificación de las Instalaciones Verificadas:  
+a) HE Angostura U1 
+• 
+Potencia máxima bruta: 138,7 MW 
+• 
+Potencia mínima bruta: 74 MW  
+b) HE Angostura U2 
+• 
+Potencia máxima bruta: 138,7 MW 
+• 
+Potencia mínima bruta: 74 MW  
+c) HE Angostura U3 
+• 
+Potencia máxima bruta: 46,2 MW 
+• 
+Potencia mínima bruta: 24 MW  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Instalación con rango de ajuste de estatismo del 3% al 8%. 
+• 
+El estatismo puede ser ajustado por el operador de la central y desde el centro de 
+control, estando la unidad en servicio. 
+• 
+La banda muerta no puede ser ajustada y está configurada permanentemente en 15 
+mHz. 
+• 
+Estatismo (R) actual se encuentra ajustado al 4% para U1, U2 y 5% para U3, 
+respecto a una potencia base igual a su potencia bruta de turbina de 142,5 MW para 
+U1, U2 y 47,25 MW para U3.  
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Colbún S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tabla en página siguiente. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+a) Control Primario de Frecuencia: 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+Central HE Angostura 
+Recurso Primario 
+Hidráulica 
+ 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+ 
+U1 
+U2 
+U3 
+Características del Controlador 
+de Frecuencia 
+Rango de ajuste Estatismo 
+3 a 8% 
+3 a 8% 
+3 a 8% 
+Estatismo 
+4,00% 
+4,00% 
+5,00% 
+Rango de ajuste Banda muerta 
+[mHz] 
+15 
+15 
+15 
+Banda muerta [mHz] 
+15 
+15 
+15 
+Tiempo Activación CPF+ [s] 
+<1 
+<1 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+<1 
+<1 
+Límite de regulación superior 
+[MW] (1) 
+138,7 
+138,7 
+46,2 
+Límite de regulación inferior 
+[MW] (2) 
+74 
+74 
+24 
+Aportes (5) 
+ BM = 15 [mHz]  
+10 segundos 
+Aporte +0,2[Hz] [MW] (3) 
+-3,82 
+-3,22 
+-2,03 
+Aporte -0,2[Hz] [MW] (3) 
+3,62 
+2,88 
+1,89 
+Aporte +0,7[Hz] [MW] (3) 
+-16,57 
+-14,31 
+-6,31 
+Aporte -0,7[Hz] [MW] (4) 
+16,06 
+14,69 
+5,26 
+5 minutos 
+Aporte +0,2[Hz] [MW] (3) 
+-15,33 
+-14,22 
+-3,77 
+Aporte -0,2[Hz] [MW] (3) 
+14,17 
+14,13 
+3,86 
+Aporte +0,7[Hz] [MW] (3) 
+-50,26 
+-50,46 
+-13,31 
+Aporte -0,7[Hz] [MW] (4) 
+51,72 
+50,1 
+13,27 
+ (1) Correspondiente a la Potencia Máxima bruta disponible en Infotecnica. 
+ (2) Correspondiente al Mínimo Técnico bruto disponible en Infotecnica. 
+ (3) Aportes para la unidad 1 y 2 de CPF en ±0,2 [Hz] y +0,7 [Hz] determinados con una consigna de 89 [MW] y 124 [MW], 
+respectivamente. Aportes para la unidad 3 en ±0,2 [Hz] y +0,7 [Hz] determinados con una consigna de 28 [MW].  
+ (4) Aportes para la unidad 1 y 2 de CPF en -0,7 [Hz] determinados con una consigna de 89 [MW]. Aportes para la unidad 
+3 de CPF en -0,7 [Hz] determinados con una consigna de 42 [MW]. 
+ (5) Sin perjuicio de los aportes para las consignas de carga ensayadas, la respuesta de la central es homogénea en todo 
+su rango de operación 
+ 

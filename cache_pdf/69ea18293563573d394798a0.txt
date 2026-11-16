@@ -1,0 +1,1056 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 23 de abril de 2026 
+ 
+    
+DE 02690-26 
+ 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Publicación de Indicadores de Desempeño 
+de Servicios Complementarios prestados durante 
+el mes de marzo 2026, segunda versión. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página web 
+del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de los Indicadores 
+de Desempeño de Servicios Complementarios prestados durante el mes de marzo 2026. Estos 
+indicadores fueron considerados en la versión definitiva del IVTE de dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador en la 
+siguiente ruta: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2026 > Marzo 2026 > Versión 2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las observaciones 
+recibidas a la primera versión publicada de dichos indicadores de desempeño. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+                                                                                    Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+                                                                                              Coordinador Eléctrico Nacional 
+ 
+ASA/adr 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de marzo 2026 
+consideradas en la versión 2. 
+ 
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CT 
+TER CAMPICHE 
+U1 
+Fecha: 
+04-03-2026 
+a 
+07-03-2026 
+no hubo instrucción de control de tensión por 
+parte del coordinador 
+No se acoge la observación. – Aclaración. 
+ 
+Se reitera que el desempeño de las unidades 
+corresponde a la multiplicación de los factores de 
+disponibilidad y respuesta, según lo estipulado en 
+el artículo 5-55 de la Norma Técnica de Servicios 
+Complementarios. 
+ 
+Según el artículo 5-49 de esta misma normativa 
+indica que en casos donde la unidad no haya sido 
+activada se considerará un factor de activación del 
+100%, siempre que la instalación junto con su 
+recurso se haya encontrado disponible. 
+ 
+Adicionalmente, se recuerda que las unidades 
+sincrónicas son evaluadas en el servicio de 
+Control de Tensión de manera permanente, 
+automática y sin necesidad de una instrucción 
+manual (CT Automático), el cual tiene como 
+objetivo que la tensión en bornes se mantenga 
+dentro de una banda de variación de 0,1k. La 
+tensión se evalúa a partir de las señales SCADA 
+en bornes de la unidad sincrónica. Lo anterior se 
+encuentra indicado tanto en la metodología de 
+evaluación de desempeño (Metodología Cálculo 
+Desempeño 
+SSCC 
+| 
+Coordinador 
+Eléctrico 
+Nacional) como en las reglas de operación 
+vigentes (Reglas de Operación de Servicios 
+Complementarios 
+| 
+Coordinador 
+Eléctrico 
+Nacional). 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+En este caso TER CAMPICHE U1 fue evaluado 
+con 0% en su desempeño debido a que no se 
+encontró disponible durante los días indicados, 
+según su solicitud Neomante N° 2026001442 la 
+cual 
+indica 
+que 
+la 
+unidad 
+se 
+encuentra 
+deshabilitada en CT por la apertura intempestiva 
+de su interruptor 52JT4, lo que desconectó a la 
+unidad. 
+ 
+El detalle de las evaluaciones de su representada 
+en la prestación de SSCC se encuentra disponible 
+para su revisión en el siguiente enlace: Índices de 
+Desempeño 
+y 
+Disponibilidad 
+de 
+Servicios 
+Complementarios 
+| 
+Coordinador 
+Eléctrico 
+Nacional. 
+2 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CT y 
+CTF 
+TER 
+VENTANAS U2 
+Fecha: Todo el mes 
+ 
+no hubo instrucción de control de tensión por 
+parte del coordinador 
+Aclaración. 
+ 
+Esta unidad cesó su operación de manera 
+definitiva por lo que se elimina de las planillas de 
+evaluación. 
+3 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CT 
+TER NUEVA 
+VENTANAS U1 
+Fecha: 24-03-2026  
+ 
+no hubo instrucción de control de tensión por 
+parte del coordinador 
+No se acoge la observación. -  Aclaración. 
+ 
+Se recuerda que las unidades sincrónicas son 
+evaluadas en el servicio de Control de Tensión de 
+manera permanente, automática y sin necesidad 
+de una instrucción manual (CT Automático), el 
+cual tiene como objetivo que la tensión en bornes 
+se mantenga dentro de una banda de variación de 
+0,1k. La tensión se evalúa a partir de las señales 
+SCADA en bornes de la unidad sincrónica. Lo 
+anterior se encuentra indicado tanto en la 
+metodología 
+de 
+evaluación 
+de 
+desempeño 
+(Metodología 
+Cálculo 
+Desempeño 
+SSCC 
+| 
+Coordinador Eléctrico Nacional) como en las 
+reglas 
+de 
+operación 
+vigentes 
+(Reglas 
+de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Operación de Servicios Complementarios | 
+Coordinador Eléctrico Nacional). 
+ 
+En el caso particular del día 24-03-2026 el índice 
+de desempeño fue 97% debido a que entre las 
+15:55 horas y 16:45 horas la unidad se encontraba 
+indisponible según la solicitud Neomante N° 
+2026000735, por falla en su pulverizador. Lo 
+anterior implicó que la unidad estuvo disponible 
+sólo un 97% del día. 
+ 
+Este valor es menor al 98% definido en la NT-
+SSCC en su artículo 5-71 para el servicio de 
+control de tensión, por lo que el factor de 
+desempeño para ese día es 0%. 
+4 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CSF 
+TER CAMPICHE 
+U1 
+Fecha: Hora 4 de los días 08-03-2026, 12-03-
+2026 y 15-03-2026 CEN instruye habilitar AGC. 
+Se solicita evaluar dicho servicio. 
+No se acoge la observación. -  Aclaración. 
+ 
+Se aclara que la evaluación del desempeño de 
+CSF se contabiliza a partir de la medición del 
+tiempo de las unidades en AGC, la cual es 
+obtenida directamente de sus registros fuente y es 
+contabilizada de manera automática. 
+ 
+En los días y horas mencionados no se registra a 
+la unidad TER CAMPICHE U1 en AGC, por lo que 
+el indicador no cambia. 
+5 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CSF 
+TER CAMPICHE 
+U1 
+Fecha: Hora 0 de los días 10-03-2026, 13-03-
+2026 y 15-03-2026 
+ 
+CEN instruye habilitar AGC. Se solicita evaluar 
+dicho servicio. 
+No se acoge la observación. -  Aclaración. 
+ 
+Se aclara que la evaluación del desempeño de 
+CSF se contabiliza a partir de la medición del 
+tiempo de las unidades en AGC, la cual es 
+obtenida directamente de sus registros fuente y es 
+contabilizada de manera automática. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+En los días y horas mencionados no se registra a 
+la unidad TER CAMPICHE U1 en AGC, por lo que 
+el indicador no cambia.  
+6 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CSF 
+TER NUEVA 
+VENTANAS U1 
+Fecha: 05-03-2026 hora 23, 08-03-2026 hora 2 y 
+3, 11-03-2026 hora 2, 3, 4 y 5, 16-03-2026 hora 
+21, 22 y 23, 17-03-2026 hora 0 
+ 
+Coordinado indica que el servicio fue realizado  
+No se acoge la observación. -  Aclaración. 
+ 
+Se aclara que la evaluación del desempeño de 
+CSF se contabiliza a partir de la medición del 
+tiempo de las unidades en AGC, la cual es 
+obtenida directamente de sus registros fuente y es 
+contabilizada de manera automática. 
+ 
+En los días y horas mencionados no se registra a 
+la unidad TER CAMPICHE U1 en AGC, por lo que 
+el indicador no cambia. 
+ 
+En el caso particular del día 16-03-2026 en las 
+horas 22 y 23 el desempeño fue 0% debido a que 
+la unidad se encontraba indisponible según la 
+solicitud Neomante N°2026000652, la cual indica 
+que la unidad se encuentra deshabilitada en CSF 
+por problemas de comunicación con AGC por lo 
+que el indicador tampoco cambia. 
+7 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CSF 
+TER NUEVA 
+VENTANAS U1 
+Fecha: 24-03-2026 hora 16 
+ 
+Central no fue programada para entregar CSF 
+No se acoge la observación. -  Aclaración. 
+ 
+No es una observación. No presenta probatorios 
+de ningún tipo y no señala observación alguna. 
+ 
+En el caso particular del día 24-03-2026 en la hora 
+16 el desempeño fue 0% debido a que la unidad 
+se encontraba indisponible según la solicitud 
+Neomante N° 2026000735, la cual indica que la 
+unidad se encuentra deshabilitada en CSF por 
+fallas en su pulverizador. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+8 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER NUEVA 
+VENTANAS U1 
+Fecha: 23-03-2026 hora 6 y 24-03-2026 hora 15 
+y 16 
+ 
+Coordinador solicita CTF por períodos muy 
+cortos, la unidad comienza el servicio de 
+modificación de su potencia y a los 11 minutos 
+se finaliza la instrucción. Se solicita revisar la 
+evaluación de desempeño considerando el 
+tiempo de la instrucción   
+No se acoge la observación. -  Aclaración. 
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de 
+CTF tiene una duración menor a 15 minutos se 
+evalúa considerando los movimientos de la unidad 
+que se espera se hagan en ese lapso.  
+ 
+En la evaluación del día 23-03-2026 hora 6 se 
+registra que la instrucción presenta hora de inicio 
+a las 06:37 horas y hora de finalización a las 07:07 
+horas, por lo que es una instrucción de una 
+duración mayor a 11 minutos. Se analizan los 
+antecedentes 
+y 
+señales 
+SCADA 
+de 
+esta 
+instrucción, donde se constata que la unidad 
+presentó una variación de -22,5MW en lugar de 
+los -18MW solicitados por CDC. Dicho lo anterior 
+el indicador no cambia. 
+ 
+En el caso particular del día 24-03-2026 en las 
+horas 15 y 16 el desempeño fue 0% debido a que 
+la unidad se encontraba indisponible según la 
+solicitud Neomante N° 2026000735, la cual indica 
+que la unidad se encuentra deshabilitada en CTF 
+por falla en su pulverizador. 
+9 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER CAMPICHE 
+U1 
+Fecha: 12-03-2026 hora 19 
+ 
+El llamado del CEN se realiza a las 19:14 hrs, 
+solicitando 20 MW de bajada unidad comienza a 
+bajar carga a las 19:17 hrs de 267 MW a 251 MW 
+hasta las 19:26 hrs. Coordinador llama a las 
+19:26 hrs dando fin a la instrucción. Se solicita 
+revisar la evaluación de la respuesta de la unidad 
+considerando los tiempos de la instrucción  
+No se acoge la observación. 
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de 
+CTF tiene una duración menor a 15 minutos se 
+evalúa considerando los movimientos de la unidad 
+que se espera se hagan en ese lapso.  
+ 
+En este caso se evalúa el criterio C1, lo cual TER 
+CAMPICHE U1 no cumple, ya que al analizar los 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+antecedentes y señales SCADA se observa que la 
+unidad a los 5 minutos aumenta su potencia, lo 
+que es contrario a la instrucción de CDC.  
+ 
+Dicho lo anterior el indicador se mantiene y se 
+reitera que, en caso de que una instrucción de 
+CTF tenga una duración menor a 15 minutos, esto 
+no es justificación para no ajustar la potencia 
+inyectada y cumplir con el criterio C1 de 
+evaluación. 
+10 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER CAMPICHE 
+U1 
+Fecha: 16-03-2026 hora 3 
+ 
+Coordinador llama a las 03:16 hrs. Solicitando a 
+la unidad bajar 20 MW, la unidad comienza a 
+bajar a las 03:18 hrs de 268 MW a 248 MW hasta 
+las 03:32 hrs cuando Coordinador da fin a la 
+instrucción. Se solicita evaluar la instrucción.   
+Aclaración. 
+ 
+En los documentos disponibles en la web 
+“SSCC_Desempeño_Marzo_2026_V1” 
+y 
+“BD_SSCC_Desempeño_Marzo_2026_V1” esta 
+instrucción se encuentra evaluada con 100% en 
+su factor de respuesta, por lo que esta 
+observación no aplica. 
+11 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER CAMPICHE 
+U1 
+Fecha: 19-03-2026 hora 3 
+ 
+Coordinador llama a las 03:11 hrs. Solicitando 
+bajar 10 MW. La unidad comienza a bajar a las 
+03:16 hrs de 268 MW a 258 MW hasta las 03:22 
+hrs. cuando se da fin a la instrucción. Se solicita 
+revisar la evaluación de desempeño  
+No se acoge la observación. 
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de 
+CTF tiene una duración menor a 15 minutos se 
+evalúa considerando los movimientos de la unidad 
+que se espera se hagan en ese lapso.  
+ 
+En este caso se evalúa el criterio C1, lo cual TER 
+CAMPICHE U1 no cumple, ya que al analizar los 
+antecedentes y señales SCADA se observa que la 
+unidad a los 5 minutos aumenta su potencia, lo 
+que es contrario a la instrucción de CDC.  
+ 
+Dicho lo anterior el indicador se mantiene y se 
+reitera que, en caso de que una instrucción de 
+CTF tenga una duración menor a 15 minutos, esto 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+no es justificación para no ajustar la potencia 
+inyectada y cumplir con el criterio C1 de 
+evaluación. 
+12 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER CAMPICHE 
+U1 
+Fecha: 19-03-2026 hora 4 
+ 
+Coordinador solicita CTF por períodos muy 
+cortos,  
+la unidad comienza el servicio de modificación 
+de su potencia y a los 11 minutos se finaliza la 
+instrucción. Se solicita revisar la evaluación de 
+desempeño considerando el tiempo de la 
+instrucción   
+No se acoge la observación. 
+ 
+La instrucción registrada presenta hora de inicio a 
+las 04:21 horas y hora de finalización a las 04:50, 
+por lo que es una instrucción de una duración 
+mayor a 11 minutos (29 minutos).  
+ 
+Se analizan los antecedentes y señales SCADA, 
+donde se constata que la unidad presentó una 
+variación de -28MW en lugar de los -9MW 
+solicitados por CDC. Dicho lo anterior el indicador 
+no cambia.  
+13 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER CAMPICHE 
+U1 
+Fecha: 20-03-2026 hora 6 
+ 
+Coordinador llama a las 06:21 hrs. Solicitando 
+bajar 15 MW la unidad comienza a bajar a las 
+06:22 hrs de 269 MW a 254 MW hasta las 06:27 
+hrs cuando el Coordinador da fin a la instrucción. 
+Se solicita revisar la evaluación de desempeño 
+de la instrucción realizada. 
+No se acoge la observación. 
+ 
+La instrucción registrada presenta hora de inicio a 
+las 06:21 horas y hora de finalización a las 06:40, 
+por lo que es una instrucción de una duración 
+mayor a 11 minutos (19 minutos).  
+ 
+Se analizan los antecedentes y señales SCADA, 
+donde se constata que la unidad presentó una 
+variación de 16MW en lugar de los 15MW 
+solicitados por CDC. Dicho lo anterior el indicador 
+no cambia. 
+14 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER CAMPICHE 
+U1 
+Fecha: 23-03-2026 hora 4 
+ 
+Coordinador llamado a las 04:12 hrs. Solicitando 
+bajar 20 MW la unidad ya iba bajando ya que a 
+las 03:55 hrs se había solicitado bajar a MT, bajó 
+de 251 MW a 242 MW mientras duró la 
+Aclaración. 
+ 
+En los documentos disponibles en la web 
+“SSCC_Desempeño_Marzo_2026_V1” 
+y 
+“BD_SSCC_Desempeño_Marzo_2026_V1” esta 
+instrucción se encuentra evaluada con 100% en 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+activación, la cual finalizó a las 04:17 hrs. Se 
+solicita evaluar dicha instrucción   
+su factor de respuesta, por lo que esta 
+observación no aplica. 
+15 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER CAMPICHE 
+U1 
+Fecha: 02-03-2026 hora 23 
+ 
+Coordinador solicita CTF por períodos muy 
+cortos, la unidad comienza el servicio de 
+modificación de su potencia y a los 11 minutos 
+se finaliza la instrucción. 
+ 
+Se solicita revisar la evaluación de desempeño 
+considerando el tiempo de la instrucción. 
+ 
+CEN activa 18 MW de bajada por CTF (270 a 
+252 MW). Activación finaliza a las 23:59 horas. 
+Se solicita evaluar la instrucción   
+No se acoge la observación. 
+ 
+La instrucción registrada presenta hora de inicio a 
+las 23:40 horas y hora de finalización a las 23:56 
+por lo que es una instrucción de una duración 
+mayor a 11 minutos (16 minutos).  
+ 
+Se analizan los antecedentes y señales SCADA, 
+donde se constata que la unidad presentó una 
+variación de 21,3MW en lugar de los 20MW 
+solicitados por CDC. Dicho lo anterior el indicador 
+no cambia. 
+16 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER CAMPICHE 
+U1 
+Fecha: 02-03-2026 hora 19 
+ 
+CEN activa 18 MW de bajada por CTF. 
+Activación finaliza a las 23:59 horas. Se solicita 
+evaluar la instrucción 
+Aclaración. 
+ 
+En los documentos disponibles en la web 
+“SSCC_Desempeño_Marzo_2026_V1” 
+y 
+“BD_SSCC_Desempeño_Marzo_2026_V1” no se 
+registran instrucciones a TER CAMPICHE U1 en 
+la hora y fecha señalada, por lo que esta 
+observación no aplica. 
+17 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER CAMPICHE 
+U1 
+Fecha: 02-03-2026 hora 3 
+ 
+CEN activa 18 MW de bajada por CTF (267 a 
+249 MW). Activación finaliza a las 03:22 horas. 
+Se solicita evaluar la instrucción 
+Aclaración. 
+ 
+En los documentos disponibles en la web 
+“SSCC_Desempeño_Marzo_2026_V1” 
+y 
+“BD_SSCC_Desempeño_Marzo_2026_V1” 
+se 
+registra que la instrucción a TER CAMPICHE U1 
+en la hora y fecha señalada tiene un desempeño 
+de 100%, por lo que esta observación no aplica. 
+18 
+Engie 
+Energía 
+Chile S.A. 
+CTF 
+TER Tocopilla 
+U16 
+Fecha: 16-03-2026 12:33 
+ 
+La 
+instrucción 
+para 
+control 
+terciario 
+de 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+frecuencia, correspondiente a una subida de 100 
+MW, fue recibida a las 12:33 y finalizó a las 
+12:41. De acuerdo con nuestros registros, la 
+unidad se encontraba operando en 130 MW, 
+aumentando 
+su 
+carga 
+hasta 
+188 
+MW. 
+Posteriormente, a las 12:41, la instrucción fue 
+modificada para retornar la unidad a 130 MW. En 
+consecuencia, los registros evidencian que se 
+dio cumplimiento al movimiento de carga 
+requerido, satisfaciendo el criterio C1. El 
+criterio C2 no es evaluable, dado que la 
+instrucción tuvo una duración inferior a 15 
+minutos. 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de 
+CTF tiene una duración menor a 15 minutos se 
+evalúa considerando los movimientos de la unidad 
+que se espera se hagan en ese lapso.  
+ 
+En este caso se evalúa el criterio C1, lo cual TER 
+TOCOPILLA U16 cumple, ya que al analizar los 
+antecedentes y señales SCADA se observa que la 
+unidad a los 5 minutos aumenta su potencia, lo 
+que es acorde a la instrucción de CDC.  
+ 
+Dicho lo anterior el indicador se recalcula y pasa a 
+100% en la instrucción. 
+19 
+Engie 
+Energía 
+Chile S.A. 
+CT 
+TER Tocopilla 
+U16 
+Fecha: 21-03-2026 01:15 
+ 
+Si bien la instrucción inicial para control de 
+tensión emitida por el CEN al despacho ENGIE 
+fue de −1 kV, posteriormente se acordó un 
+cumplimiento de −2 kV en barra, condición que 
+se cumple según los datos entregados y 
+analizados.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se confirma que la instrucción correspondió 
+a bajar -2kV. Dicho lo anterior se actualiza el RIO 
+y el indicador de respuesta para el día 21-03-2026 
+pasa a 100%. 
+20 
+Acciona 
+Energía 
+Chile 
+Holdings 
+S.A. 
+CTF 
+PE TOLPAN 
+SUR 
+Fecha: 24-03-2026 13:03 
+ 
+Respuesta es evaluada con mal desempeño en 
+C3, pero en simultaneo el parque prestaba el 
+SSCC de CPF.  
+No se acoge la observación.  
+  
+Se analizan los registros de potencia y frecuencia 
+de la unidad, constatando que el cambio de 
+consigna aplicado correspondió a un aumento de 
+potencia activa cuando la instrucción dada por 
+CDC era de CTF de bajada.  
+ 
+Dicho lo anterior, el indicador de respuesta se 
+mantiene. 
+21 
+Acciona 
+CTF 
+PE TOLPAN 
+SUR 
+Fecha: 25-03-2026 20:32 
+No se acoge la observación.  
+  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+ 
+Respuesta es evaluada con mal desempeño en 
+C3, pero en simultaneo el parque prestaba el 
+SSCC de CPF.  
+Se analizan los registros de potencia y frecuencia 
+de la unidad, constatando que la consigna de la 
+unidad 
+permaneció 
+constante 
+cuando 
+la 
+instrucción dada por CDC era de CTF de bajada.  
+ 
+Dicho lo anterior, el indicador de respuesta se 
+mantiene. 
+22 Colbún S.A. 
+CTF 
+UG Machicura 1 
+Fecha: 05.03.2026 00:08:00 (UTC-3) 
+ 
+La unidad se encontraba fuera de servicio al 
+momento de recibir la instrucción. 
+ 
+Solicitud: Verificar condición operacional de esta 
+unidad en particular y evaluar en consecuencia.  
+No se acoge la observación. – Aclaración. 
+ 
+En los documentos disponibles en la web 
+“SSCC_Desempeño_Marzo_2026_V1” 
+y 
+“BD_SSCC_Desempeño_Marzo_2026_V1” no se 
+registran instrucciones a HP MACHICURA en la 
+hora y fecha señalada, por lo que esta 
+observación no aplica. 
+ 
+A la misma fecha y hora se instruyó a HP La Mina, 
+por lo que se entiende que la observación apunta 
+a esta unidad. 
+ 
+HP La Mina la cual fue evaluada con 0% porque 
+transcurridos los 15 minutos iniciales mantuvo una 
+potencia de despacho menor a su mínimo técnico 
+de 4,2MW. Dicho lo anterior el indicador se 
+mantiene y se solicita al coordinado a enviar un 
+informe de mínimo técnico actualizado para la 
+central HP La Mina (ambas unidades). 
+23 Colbún S.A. 
+CTF 
+PFV Diego de 
+Almagro Sur 
+Fecha: 07.03.2026 17:46:00 (UTC-3) 
+ 
+De acuerdo con el registro RIO se recibe 
+instrucción a las 17:46 y finaliza a las 17:59. En 
+este contexto la instrucción dura menos que el 
+tiempo mínimo para entregar toda la reserva, 15 
+minutos. 
+No se acoge la observación. 
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de 
+CTF tiene una duración menor a 15 minutos se 
+evalúa considerando los movimientos de la unidad 
+que se espera se hagan en ese lapso.  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Solicitud: Revisar extensión de instrucción y 
+quitar de la evaluación si corresponde. 
+En este caso se evalúa el criterio C1, lo cual PFV 
+Diego de Almagro Sur no cumple, ya que al 
+analizar los antecedentes y señales SCADA se 
+observa que la unidad a los 5 minutos mantiene su 
+potencia estable en 116 MW, lo que es contrario a 
+la instrucción de CTF- dada por CDC.  
+ 
+Dicho lo anterior el indicador se mantiene y se 
+reitera que, en caso de que una instrucción de 
+CTF tenga una duración menor a 15 minutos, esto 
+no es justificación para no ajustar la potencia 
+inyectada y cumplir con el criterio C1 de 
+evaluación. 
+24 Colbún S.A. 
+CTF 
+PFV Diego de 
+Almagro Sur 
+Fecha: 15.03.2026 11:42:00 (UTC-3) 
+ 
+De acuerdo con el registro de instrucciones y 
+grabaciones de Colbún SA no se produjo la 
+instrucción de activación del CTF de bajada por 
+125 MW según lo indica el Coordinador en su 
+registro RIO. Tampoco se encontró la instrucción 
+de finalización de la instrucción. Esto es 
+consistente con la operación del Parque ya que 
+mantiene su potencia activa durante toda la hora. 
+Solicitud: Revisar registro de instrucción y quitar 
+evaluación si corresponde. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde CDC confirma que no existió instrucción de 
+activación. Dicho lo anterior se actualiza el RIO y 
+la instrucción se elimina. 
+25 Colbún S.A. 
+CTF 
+PFV Diego de 
+Almagro Sur 
+Fecha: 15.03.2026 12:08:00 (UTC-3) 
+ 
+De acuerdo con el registro RIO se recibe 
+instrucción a las 12:08 y finaliza a las 12:20. En 
+este contexto la instrucción dura menos que el 
+tiempo mínimo para entregar toda la reserva, 15 
+minutos.  
+Asimismo, de acuerdo con el registro de 
+instrucciones y grabaciones de Colbún SA no se 
+produjo la instrucción de activación del CTF de 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde CDC confirma que no existió instrucción de 
+activación. Dicho lo anterior se actualiza el RIO y 
+la instrucción se elimina. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+bajada por 125 MW según lo indica el 
+Coordinador en su registro RIO. Tampoco se 
+encontró la instrucción de finalización de la 
+instrucción. Esto es consistente con la operación 
+del Parque ya que mantiene su potencia activa 
+durante toda la hora 
+ 
+Solicitud: Revisar extensión de instrucción y 
+quitar de la evaluación si corresponde.   
+26 Colbún S.A. 
+CTF 
+CT Nehuenco I 
+Fecha: 22.03.2026 09:28:00 (UTC-3) 
+ 
+De acuerdo con el registro de grabaciones de 
+Colbún SA se recibe la instrucción de activación 
+de CTF de subida por 50 MW a las 09:28 horas. 
+Posteriormente a las 09:30 el operador del 
+Coordinador llama nuevamente, indicando que 
+por despacho económico la unidad debe ir a 
+plena carga, por lo que la instrucción de CTF 
+queda inválida luego de este llamado. Se 
+adjuntan ambas grabaciones. 
+  
+Solicitud: 
+Revisar 
+contexto 
+operacional 
+e 
+instrucciones recibidas por el operador del CEN, 
+quitar 
+instrucción 
+de 
+la 
+evaluación 
+si 
+corresponde. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se constata que CDC solicita a TER 
+Nehuenco II (y no TER Nehuenco I) subir a plena 
+carga mientras se encuentra aumentando su 
+generación por CTF+.  
+ 
+Dicho lo anterior se actualiza RIO y se recalcula la 
+respuesta a 100% para esta instrucción para TER 
+Nehuenco II. 
+27 Colbún S.A. 
+CTF 
+PFV Diego de 
+Almagro Sur 
+Fecha: 31.03.2026 10:11:00 (UTC-3) 
+ 
+De acuerdo con el registro RIO del Coordinador 
+al momento de recibir la instrucción de activación 
+del CTF de subida, el Parque se encontraba 
+prestando simultáneamente el CPF de subida, 
+por lo que se superponen la acción de ambos. 
+Solicitud: Evaluar la instrucción considerando la 
+acción de prestación simultánea de CPF y CTF, 
+y que se debe dejar reserva para acción de CPF. 
+No se acoge la observación. 
+ 
+La 
+unidad 
+no 
+presenta 
+datos 
+de 
+potencia/frecuencia para el mes de marzo que 
+permitan probar que la unidad prestó el servicio de 
+CPF de forma adecuada. Debido a lo anterior no 
+es posible verificar si existió un ajuste de consigna 
+consistente con lo instruido por CDC para el 
+servicio de CTF durante la prestación de CPF. En 
+función de lo anterior, el indicador se mantiene. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+28 Observación 
+Interna 
+Todos 
+los 
+servicios 
+TER Tarapacá 
+TGTAR 
+La central TER TARAPACÁ TGTAR cesó su 
+operación el 22 de febrero de 2026, por lo que 
+se debe eliminar de las planillas de desempeño 
+SSCC. 
+Se acoge la observación. 
+ 
+Se elimina de la planilla de evaluación a la 
+instalación TER Tarapacá TGTAR, debido a que 
+cesó su operación y no corresponde que sea 
+evaluada. 
+ 

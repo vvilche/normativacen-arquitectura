@@ -1,0 +1,274 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1/3 
+ 
+ 
+ 
+Dirección: Avenida Bernardo O’Higgins 1465 – Santiago Downtown, Santiago Chile - www.sec.cl 
+INSTRUYE 
+REEMBOLSO 
+EN 
+LOS 
+TÉRMINOS QUE SE INDICAN 
+ 
+ 
+ 
+VISTOS:  
+ 
+ 
+ Lo dispuesto en la Ley N°18.410, Orgánica de la 
+Superintendencia de Electricidad y Combustibles; en la Ley N° 19.880, sobre Bases de los 
+Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del 
+Estado; en el D.F.L. Nº4/20.018, de 2006, del Ministerio de Economía, Fomento y 
+Reconstrucción, (en adelante Ley Eléctrica o LGSE); en el D.S. Nº327, de 1997, del Ministerio 
+de Minería, Reglamento de la Ley Eléctrica (en adelante el Reglamento Eléctrico); en el D.S. 
+Nº31, de 2017, del Ministerio de Energía, que Aprueba reglamento para la determinación y pago 
+de las compensaciones por indisponibilidad de suministro eléctrico (en adelante Reglamento 
+de Compensaciones); en la Norma Técnica de Indisponibilidad de Suministro y 
+Compensaciones, de 2020, de la CNE (en adelante NTISyC); lo establecido en las Resolución 
+N°36, de 2024, de la Contraloría General de la República, sobre trámite de toma de razón, y 
+ 
+ 
+CONSIDERANDO: 
+ 
+ 
+1°. Que, el Título 3-2 de la norma NTISyC señala 
+los estándares de indisponibilidad de suministro por eventos, fallas o desconexiones 
+programadas. Por su parte, el numeral 11, del artículo 3°, de la Ley N° 18.410, señala que le 
+corresponde a la Superintendencia de Electricidad y Combustibles, en adelante la 
+Superintendencia, revisar los antecedentes asociados a un evento que provoque 
+indisponibilidad de suministro, a fin de determinar si los hechos configuran un caso de fuerza 
+mayor. Así también, los artículos 14°, 16° y 17° del Reglamento de Compensaciones señalan 
+que la Superintendencia determinará si procede o no el pago de compensaciones, debiendo 
+indicar los límites máximos a compensar por cada empresa responsable; que en caso de que 
+proceda el pago de compensaciones, deberá instruir a las empresas suministradoras de los 
+usuarios finales afectados, su pago en la facturación más próxima, o en aquella que determine; 
+y que, efectuado el pago, las empresas suministradoras dentro del plazo de 15 días hábiles 
+deberán acreditar dicha situación ante esta Superintendencia. 
+ 
+2°. Que, mediante carta DE 04931-24 del 
+27.09.2024, el Coordinador Eléctrico Nacional ha informado a esta Superintendencia que el 
+punto de control indicado en la tabla N°1 excedió los estándares de indisponibilidad 
+establecidos en el Título 3-2, de la norma NTISyC. 
+ 
+Tabla 1. Punto de control y sus estándares  
+ 
+Punto de Control 
+Sist. Tx Origen 
+Evento 
+Redundancia 
+Estándar T. [h] 
+Estándar Frec 
+BA S/E MEJILLONES 23KV/ CEMENTO POLPAICO S.A.  
+Zonal  
+SI  
+3  
+2  
+ 
+3°. Que, de acuerdo con la carta del CEN, los 
+eventos señalados en la Tabla 2 han contribuido a superar los estándares del punto de control 
+señalado en el considerando 2 de esta resolución, durante el periodo de control en análisis. 
+ 
+ 
+ 
+ 
+ 
+RESOLUCION EXENTA ELECTRONICA N° 41582
+Santiago, 26 de Agosto de 2026
+V°B° ALS/JNS/MAL/MCP/NMM
+https://wlhttp.sec.cl/timesM/global/imgPDF.jsp?pa=4315960&pd=5167939&pc=2009983
+Caso:2009983 Acción:4315960 Documento:5167939
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2/3 
+ 
+ 
+ 
+Dirección: Avenida Bernardo O’Higgins 1465 – Santiago Downtown, Santiago Chile - www.sec.cl 
+ 
+Tabla 2. Eventos que contribuyeron a superar los estándares durante periodo de control y su respectiva 
+ENS 
+ 
+Evento 
+Fecha 
+Evento 
+Eint del 
+evento [MWh] 
+Instalación donde se produce evento 
+Propietaria u operadora de la 
+instalación 
+EAF 346-2021  19-11-2021  
+11,75  
+S/E MEJILLONES E1  
+ENGIE ENERGÍA CHILE 
+S.A.  
+EAF 363-2021  07-12-2021  
+0,67  
+SP S/E MEJILLONES JT4  
+ENGIE ENERGÍA CHILE 
+S.A.  
+ 
+4°. Que, en concordancia con lo anterior, y lo 
+indicado en el Reglamento de Compensaciones y la NTISyC, esta Superintendencia, mediante 
+la Res. Ex. Electrónica N° 29132, del 05.12.2024, instruyó a la empresa suministradora que 
+se muestra en la Tabla 3, efectuar el pago de compensaciones a los clientes finales afectados 
+por las interrupciones de suministro que se detallan en la tabla 2.  
+ 
+Tabla 3. Suministradores, Clientes finales y montos compensados. 
+ 
+Afectado 
+Rut Afectado 
+Suministrador 
+ Compensación [$]  
+Monto en palabras 
+CEMENTO POLPAICO 
+S.A. 
+91337000-7 
+COLBÚN S.A. 
+$  465.186.- 
+Cuatrocientos sesenta y cinco 
+mil, ciento ochenta y seis 
+pesos. 
+ 
+5°. Que, el artículo 4-17 de la NTISyC establece 
+que el pago del monto compensatorio a los usuarios finales debe ser acreditado por la empresa 
+suministradora. Mediante cartas señaladas en la Tabla 4, las empresas suministradoras allí 
+señaladas, informaron a esta Superintendencia el cumplimiento de lo instruido a su empresa a 
+través de Resolución SEC señalada en el Considerando N°4 de este documento. 
+ 
+Tabla 4. Cartas Empresa Suministradora informa a SEC cumplimiento de pago. 
+ 
+Suministrador 
+N° ingreso SEC carta 
+Fecha ingreso SEC carta 
+COLBÚN S.A. 
+408501 
+31/07/2026 
+ 
+6°. Que, habiéndose acreditado el pago de las 
+compensaciones a los usuarios finales afectados por la interrupción de suministro no autorizada 
+indicada en el considerando 3°, en cumplimiento con el Art. 20 del Reglamento de 
+Compensaciones, esta Superintendencia deberá instruir, a través del Coordinador Eléctrico 
+Nacional, CEN, a los propietarios o a quienes operen las instalaciones donde se produjo la falla, 
+evento o su propagación, el reembolso total e inmediato a las empresas suministradoras el 
+monto pagado por estas por concepto de compensaciones a usuarios finales. 
+ 
+ 
+ 
+ 
+ 
+RESUELVO: 
+ 
+1º Que, las siguientes empresas responsables de 
+alguno de los eventos señaladas en la Tabla 2, deberán realizar el pago de reembolso a las 
+respectivas empresas suministradoras, por los montos que se indican en la Tabla 5.  
+ 
+Tabla 5. Reembolso responsable eventos a Suministradores. 
+Empresa Responsable 
+Suministrador de coordinado afectado 
+Monto que debe 
+Reembolsar [$] 
+ENGIE ENERGÍA CHILE S.A. 
+COLBÚN S.A. 
+$ 465.186.- 
+ 
+ 
+RESOLUCION EXENTA ELECTRONICA N° 41582
+Santiago, 26 de Agosto de 2026
+V°B° ALS/JNS/MAL/MCP/NMM
+https://wlhttp.sec.cl/timesM/global/imgPDF.jsp?pa=4315960&pd=5167939&pc=2009983
+Caso:2009983 Acción:4315960 Documento:5167939
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3/3 
+ 
+ 
+ 
+Dirección: Avenida Bernardo O’Higgins 1465 – Santiago Downtown, Santiago Chile - www.sec.cl 
+2º Que, el Coordinador Eléctrico Nacional, dentro 
+de los 3 días hábiles siguientes a la recepción de esta resolución, deberá comunicar a través 
+de medios electrónicos a las empresas responsables señaladas en la Tabla 5, la instrucción de 
+reembolso, indicándoles que estas tendrán un plazo máximo de 10 días hábiles, contado desde 
+la comunicación hecha por el Coordinador, para realizar dicho reembolso. 
+ 
+3º Que, habiéndose realizado el reembolso, el 
+Coordinador Eléctrico Nacional deberá informar a esta superintendencia en un plazo de 5 días 
+el cumplimiento de dicho acto. 
+ 
+4º Que, el Coordinador Eléctrico Nacional deberá 
+adoptar las medidas pertinentes para garantizar el reembolso total dentro de los plazos 
+indicados en el resuelvo anterior. Asimismo, el Coordinador deberá informar a esta 
+Superintendencia 
+cualquier 
+incumplimiento 
+de 
+la 
+obligación 
+de 
+pago 
+señalada 
+precedentemente.  
+ 
+5º Que, efectuado el pago del reembolso por 
+concepto de compensaciones, las empresas responsables señaladas en la Tabla 5 podrán 
+reclamar ante esta Superintendencia la improcedencia de su obligación de pago, su monto o la 
+prorrata asignada, según corresponda. El reclamo ante la Superintendencia deberá presentarse 
+por el interesado dentro del plazo de 5 días hábiles contado desde la fecha en que se efectuó 
+el reembolso efectivo de las compensaciones de que tratan los resuelvos anteriores, mediante 
+solicitud fundada y adjuntando los antecedentes que correspondan. 
+ 
+6º Que, 
+la 
+información 
+requerida 
+deberá 
+presentarse por escrito ante esta Superintendencia, acompañando todos los antecedentes que 
+sean pertinentes. Toda la información entregada deberá indicar como referencia: Caso TIMES 
+N° 2009983. 
+ 
+ 
+ 
+  
+ANÓTESE, NOTIFÍQUESE Y ARCHÍVESE 
+ 
+ 
+ 
+MARTA CABEZA VARGAS 
+Superintendenta de Electricidad y Combustibles  
+ 
+RESOLUCION EXENTA ELECTRONICA N° 41582
+Santiago, 26 de Agosto de 2026
+V°B° ALS/JNS/MAL/MCP/NMM
+https://wlhttp.sec.cl/timesM/global/imgPDF.jsp?pa=4315960&pd=5167939&pc=2009983
+Caso:2009983 Acción:4315960 Documento:5167939
+           Firmado digitalmente por
+Marta Cabeza Vargas

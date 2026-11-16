@@ -1,0 +1,83 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OP 229-25 
+ 
+   FECHA:   11/08/2025 
+                  Pág.      1 de 1 
+ 
+Sr.     
+GRETCHEN ZBINDEN V.  
+SUBGERENTA DE ANÁLISIS Y SOPORTE OPERACIONAL 
+COORDINADOR ELÉCTRICO NACIONAL 
+Dirección 
+Av. Parque Isidora 1061, Pudahuel - Santiago 
+Teléfono 
+(56) (2) 424 6300 
+Fax 
+(56) (2) 424 6301 
+Remite 
+ 
+ADRIAN GUZMAN M 
+ENCARGADO CEN 
+Enel Generación Chile 
+Dirección 
+ 
+Roger de Flor N°2725 – Piso 18 – Las Condes – Santiago 
+Teléfono 
+ 
+(56) (2) 2630 9000 
+Fax 
+ 
+(56) (2) 2635 4087 
+ 
+MATERIA: 
+ 
+• 
+OBSERVACIONES A INDICADORES DESEMPEÑO SERVICIOS COMPLEMENTARIOS  
+JUNIO 2025.  CORRECCIÓN REGISTROS CPF RAPEL U1 A U4. 
+• 
+CARTA 
+DE 
+04487-25: 
+INDICADORES 
+DE 
+DESEMPEÑO 
+DE 
+SERVICIOS 
+COMPLEMENTARIOS PRESTADOS DURANTE EL MES DE JUNIO 2025, SEGUNDA 
+VERSIÓN 
+ 
+ 
+De mi consideración, 
+ 
+ 
+Me refiero a los archivos de registros CPF entregados durante el mes de junio para la evaluación 
+del desempeño del servicio de control de frecuencia de Central Rapel.    
+ 
+Se detectó que archivos cargados durante el mes de junio para unidades U1,U2, U3 y U4 
+presentaron errores en la data de potencia informada causando que el desempeño de dichas 
+unidades fuera mal evaluado. Este error ya fue subsanado en entregas de julio y las cargadas 
+diariamente durante agosto. 
+ 
+Se generaron archivos con información corregida los cuales se entregan a través del siguiente 
+vinculo:  
+https://drive.google.com/file/d/1rlIHlb76o7JWd9uGB7zx5_jcmMpuzBta/view?usp=sharing 
+ 
+Mucho agradeceríamos puedan considerar estos archivos corregidos en una tercera versión de 
+cálculo de indicadores de desempeño del mes de junio y que sean utilizados en futura reliquidación 
+del Balance de SSCC de junio 2025. 
+ 
+ 
+Sin otro particular y esperando una favorable acogida, atentamente se despide, 
+ 
+ 
+ 
+Adrian Guzman M. 
+Encargado CEN 
+ENEL GENERACIÓN CHILE S.A. 
+ 

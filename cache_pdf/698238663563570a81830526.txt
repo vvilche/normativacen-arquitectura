@@ -1,0 +1,47 @@
+ 
+ 
+ 
+OR-000040-2026 
+ 
+Santiago, 29/01/2026 
+ 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA: Protocolos de Verificación de SSCC de equipos vinculantes de S/E Puerto Montt 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente y para dar cumplimiento con lo establecido en el Anexo Técnico 
+“Verificación de instalaciones para la prestación de SSCC” de la Norma Técnica de Servicios 
+Complementarios, se adjuntan revisión 0 de los Protocolos Específicos de Pruebas para la 
+Verificación de Servicios Complementarios – Equipos Vinculantes, correspondientes a los siguientes 
+equipos: 
+ 
+• 
+Relé Sincronizador Paño J1 de S/E Puerto Montt 
+(EN202709.1_PEP_SSCC_EV_SE PMO_J1_Rev.0); 
+ 
+• 
+Relé Sincronizador Paño J2 de S/E Puerto Montt 
+(EN202709.1_PEP_SSCC_EV_SE PMO_J2_Rev.0); 
+ 
+• 
+Relé Sincronizador Paño J3 de S/E Puerto Montt 
+(EN202709.1_PEP_SSCC_EV_SE PMO_J3_Rev.0); 
+ 
+• 
+Relé Sincronizador Paño J4 de S/E Puerto Montt 
+(EN202709.1_PEP_SSCC_EV_SE PMO_J4_Rev.0); 
+Sin otro particular, saludan atentamente a usted 
+TRANSELEC S.A., 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 

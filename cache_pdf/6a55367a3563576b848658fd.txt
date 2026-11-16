@@ -1,0 +1,373 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+Santiago, 10 de julio de 2026 
+ 
+BDD202609 
+Patricio Valenzuela V. 
+Subgerente de Control y  
+Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: 
+Observaciones 
+a 
+Indicadores 
+de 
+Desempeño de Servicios Complementarios – 
+junio 2026 – SAE del Desierto 
+[1] DE04548-26, Publicación de Indicadores de 
+Desempeño de Servicios Complementarios 
+prestados durante el mes de junio de 2026. 
+ 
+De nuestra consideración 
+ 
+En relación con la publicación de los Indicadores de Desempeño de Servicios 
+Complementarios del mes de junio de 2026 mediante la carta de la Ref. [1], y 
+dentro del plazo establecido para tal efecto, en nombre de BESS del Desierto SpA, 
+entregamos en la presente nuestras observaciones. 
+ 
+Habiendo reproducido el cálculo a partir del reporte Saturn2e, constatamos que 
+la totalidad de la diferencia se explica por 103 registros de diez minutos calificados 
+como “(e2) No aporta lo esperado cuando se producen variaciones en la 
+frecuencia mayores a ±0,2 Hz”. Sin dichos registros, el indicador de la Central 
+alcanza un 96,19 % por sobre el 89% indicado en informe de indicadores de 
+desempeño. 
+ 
+Observación 1. Instante de evaluación del aporte. Conforme a la Metodología de 
+Cálculo de Desempeño de SSCC, el aporte de potencia se mide en el instante 
+Teval = máx(t0 + 10 s, t1), donde t0 corresponde al inicio de la perturbación y t1 al 
+momento en que la frecuencia alcanza los ±0,2 Hz. En los registros observados, la 
+frecuencia demora una mediana de 25 segundos en recorrer el tramo 
+comprendido entre t0 y t1, de modo que Teval coincide con t1 en el 84 % de los 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+casos. En consecuencia, se exige a la Central el aporte completo de régimen, esto 
+es 13,74 MW, en el segundo exacto en que la frecuencia alcanza el umbral, sin 
+conceder tiempo de respuesta alguno a partir de éste. Lo anterior resulta 
+incompatible con el tiempo de establecimiento de 30 segundos que admite la 
+propia normativa y que el reporte Saturn2e verifica y certifica como conforme 
+para la Central, con una media de 22,9 segundos. Medido con la misma fórmula 
+y la misma línea base dentro de dicho tiempo de establecimiento, el aporte 
+mediano de la Central asciende de 10,56 MW a 14,77 MW, por sobre lo exigido. 
+ 
+Observación 2. Calificación de los eventos como contingencia. La Metodología 
+define el desempeño de CPF Contingencia como la respuesta de potencia que 
+debe ser proporcionada ante una contingencia en tiempos menores a diez 
+segundos y sostenida por un período de al menos cinco minutos. En los 103 
+registros observados, la excursión de frecuencia más allá de ±0,2 Hz presenta una 
+duración mediana de once segundos y una duración máxima de 167 segundos 
+en todo el mes, no registrándose ninguna excursión que alcance los cinco 
+minutos. Dichos eventos no reúnen, por tanto, la condición de permanencia que 
+la 
+propia 
+Metodología 
+exige 
+para ser 
+evaluados 
+como contingencia, 
+correspondiendo su evaluación en estado normal o su clasificación como 
+“Indefinido”, según ya se aplica a otros 345 registros del mismo reporte. 
+ 
+Observación 3. Tolerancia aplicada. En los registros calificados como (e4), el 
+reporte aplica de manera explícita una tolerancia de 20 % sobre el aporte nominal 
+esperado. En los registros (e2) no se aplica tolerancia alguna en magnitud. El 
+propio reporte da cuenta de un registro rechazado con un aporte de 13,572 MW 
+frente a los 13,65 MW exigidos, esto es, una diferencia de 0,078 MW, equivalente 
+al 0,04 % de la potencia máxima de la Central e inferior al error de muestreo de 
+0,2 % que la Metodología reconoce. Solicitamos aplicar en Banda 2 la misma 
+tolerancia utilizada en los registros (e4) o, al menos, la banda de error de medición 
+reconocida por la normativa. 
+ 
+Observación 4. Antecedentes del cálculo. El reporte no consigna, para cada 
+registro, los valores de t0, t1, P0_Promedio y del aporte calculado, incluyéndose 
+únicamente dos ejemplos por categoría. Solicitamos remitir dicho detalle para 
+los 103 registros calificados como (e2), por ser condición necesaria para verificar 
+el resultado publicado. Asimismo, solicitamos aclarar el límite de banda muerta 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+aplicable a un sistema de almacenamiento, toda vez que el reporte declara un 
+límite de 0,025 Hz, en circunstancias que la Metodología establece dicho valor 
+para unidades sincrónicas y fija ±200 mHz para instalaciones ERNC. 
+ 
+ 
+Observación 5. Registros excluidos por cambio de consigna y estado “No 
+Verificable”. De las 511 horas del mes en que la Central tuvo comprometido el 
+servicio de CPF en alguna dirección, 130, fueron calificadas como “No Verificable” 
+en la publicación horaria de ese Coordinador, asignándoseles un Factor de 
+Desempeño horario igual a cero, por haber quedado la totalidad de sus seis 
+registros de diez minutos en las categorías “Indefinido” u “Otro”. Esta última 
+categoría concentra 1.375 de sus 1.470 registros en la sub-categoría (g4) “cambio 
+de consigna”. La Central presta de manera simultánea los servicios de CPF y CSF, 
+consistiendo este último, precisamente, en el seguimiento de las consignas de 
+potencia que el AGC envía a la unidad, por lo que el movimiento de consigna no 
+constituye 
+una 
+anomalía 
+sino 
+la 
+prestación 
+misma 
+de 
+un 
+servicio 
+complementario instruido. El criterio (g4), concebido para unidades cuya 
+consigna permanece constante, excluye por diseño la práctica totalidad de los 
+registros de una instalación que presta CSF, dejándola estructuralmente “No 
+Verificable” durante buena parte del mes. Hemos verificado que, durante dichas 
+horas, la respuesta de control primario de la Central, resulta estadísticamente 
+equivalente a la de las horas efectivamente evaluadas, de modo que la no-
+verificabilidad no obedece a una falla o ausencia de control primario, sino a que 
+la coexistencia del CSF impide al algoritmo aplicar su método de estimación de 
+línea base. Solicitamos que, para las instalaciones que prestan simultáneamente 
+CPF y CSF, la evaluación del control primario se realice sobre la componente de 
+respuesta a la frecuencia, sin excluir el registro por el solo hecho de existir un 
+cambio de consigna atribuible al CSF. 
+ 
+Por lo anterior, solicitamos tener presente estas observaciones, reclasificar los 103 
+registros calificados como (e2) y recalcular el factor de activación de Control 
+Primario de Frecuencia de la Central para el mes de junio de 2026. Se adjunta a 
+la presente el anexo técnico con el detalle de la reproducción del cálculo, la 
+individualización de los registros observados y los antecedentes que respaldan 
+cada una de las observaciones. 
+ 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+Sin otro particular, se despide atentamente a usted, 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Moraga 
+Encargado Titular 
+BESS del Desierto SpA 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+Anexo 
+Respaldo de la Observación 1 — instante de evaluación del aporte 
+Sobre los 103 registros (e2), 65 admiten la reconstrucción inequívoca de su excursión de 
+frecuencia. En ellos, la frecuencia demora una mediana de 25 segundos en recorrer el tramo 
+entre el inicio de la perturbación (t0) y el cruce de los ±0,2 Hz (t1); como t1 − t0 supera los 10 
+segundos, el instante de evaluación Teval = máx(t0 + 10 s, t1) coincide con t1 en el 84 % de los 
+registros. Midiendo el mismo aporte, con idéntica fórmula y línea base, en instantes posteriores 
+dentro del tiempo de establecimiento normado (30 s): 
+Instante de medición 
+Aporte mediano 
+Registros que cumplen 
+Teval 
+10,56 MW 
+12 / 65 
+10 s después del cruce 
+12,96 MW 
+25 / 65 
+20 s después del cruce 
+13,82 MW 
+33 / 65 
+Máximo dentro de los 30 s normados 
+14,77 MW 
+42 / 65  (65 %) 
+ 
+Aporte exigido: 13,74 MW en CPF−; 13,65 MW en CPF+. 
+Caso testigo — registro 11/06/2026 12:10 UTC, calificado (e2−) 
+Instante 
+f [Hz] 
+P [MW] 
+Consigna [MW] 
+P − Consigna 
+Exigido (droop) 
+t1 (cruce) 
+50,2053 
+−74,43 
+−62,00 
+12,43 
+14,15 
+t1 + 5 s 
+50,2130 
+−75,76 
+−62,00 
+13,76 
+14,76 
+t1 + 10 s 
+50,2059 
+−76,90 
+−62,00 
+14,90 
+14,20 
+t1 + 15 s 
+50,1762 
+−77,15 
+−62,00 
+15,15 
+11,84 
+ 
+La evaluación en t1 arroja 12,43 MW (inferior a 13,74 MW) y concluye “NO realiza CPF”. Diez 
+segundos después la Central entrega 14,90 MW, por sobre lo exigido, con la consigna constante 
+en −62,00 MW durante toda la ventana; la respuesta medida es íntegramente CPF. 
+Respaldo de la Observación 2 — los eventos no constituyen contingencia 
+La excursión de frecuencia más allá de ±0,2 Hz asociada a los registros (e2) presenta una 
+duración mediana de 11 segundos y una máxima de 167 segundos en todo el mes. Ningún 
+evento alcanza los 300 segundos de permanencia que la Metodología (§2.1.2) exige para 
+calificar una respuesta como CPF Contingencia. 
+ 
+ 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+Duración de la excursión sobre ±0,2 Hz 
+Valor 
+Mediana 
+11 s 
+Máxima observada en el mes 
+167 s 
+Registros con excursión ≥ 300 s (exigencia NT) 
+0 de 103 
+ 
+Respaldo de la Observación 3 — tolerancia asimétrica 
+En los registros (e4) el reporte aplica de forma explícita una tolerancia de 20 % (aporte esperado 
+13,74 MW → tolerancia 2,748 MW → aporte requerido 10,992 MW). En los registros (e2) no se 
+aplica tolerancia alguna en magnitud: el propio reporte rechaza un registro con un aporte de 
+13,572 MW frente a los 13,65 MW exigidos. La diferencia es de 0,078 MW, equivalente al 0,04 
+% de la potencia máxima de la Central e inferior al error de muestreo de 0,2 % (±0,40 MW) que 
+la propia Metodología reconoce en su nota al pie del §2.1.2. 
+Respaldo de la Observación 4 — banda muerta y antecedentes por registro 
+El reporte declara para la Central un límite superior de banda muerta de 0,025 Hz, valor que la 
+Metodología (§2.1.1, letra b) reserva para unidades sincrónicas, fijando ±200 mHz para 
+instalaciones ERNC: 
+Unidad 
+Banda muerta 
+declarada 
+Categoría 
+Del Desierto – BESS 
+0,025 Hz 
+Almacenamiento 
+La Cabaña / El Manzano / Don Humberto – BESS 
+0,025 Hz 
+Almacenamiento 
+Malgarida – PFV / Horizonte Norte – PE 
+0,025 Hz 
+ERNC 
+Límite ERNC según Metodología §2.1.1 
+±0,200 Hz 
+— 
+ 
+Asimismo, se asigna (c) = 0 y (d) = 0 registros por actuación truncada, pese a que la Central 
+operó 2,2 h con CPF− comprometido bajo −185 MW (mínimo técnico −194,27 MW) y 0,4 h con 
+CPF+ comprometido sobre 190 MW (Pmáx 198,84 MW). Se solicita el detalle por registro de los 
+valores t0, t1, P0_Promedio y aporte para los 103 registros (e2). 
+Respaldo de la Observación 5 — categoría (g) y estado “No Verificable” 
+De las 511 horas comprometidas, 130 (25 %) resultaron “No Verificable”, con Factor de 
+Desempeño horario igual a cero; 128 de ellas por movimiento de consigna (g4). Contrastada la 
+respuesta de control primario (P − Po) contra el estatismo homologado, las horas “No 
+Verificable” son estadísticamente equivalentes a las evaluadas: 
+ 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+Horas “No Verificable” 
+Horas “Evaluada” 
+Fracción del aporte de estatismo entregado (mediana) 
+92 % 
+93 % 
+Correlación (P − Po) con la respuesta requerida 
+0,64 
+0,66 
+Recorrido de consigna en la hora (mediana) 
+85 MW 
+72 MW 
+ 
+El fenómeno afecta transversalmente a los sistemas de almacenamiento que prestan CSF, que 
+acumulan volúmenes de categoría (g) muy superiores a los de las unidades sincrónicas: 
+Unidad 
+Indicador 
+Horas (g) “Otro” 
+El Manzano – BESS 
+0,92 
+430,3 
+Don Humberto – BESS 
+0,89 
+273,0 
+La Cabaña – BESS 
+0,91 
+283,5 
+Del Desierto – BESS 
+0,89 
+245,0 
+Unidades sincrónicas 
+0,94 – 1,00 
+10 – 45 
+ 
+Efecto cuantificado sobre el indicador 
+Manteniendo la agregación del reporte (A = 820, B = 159, C = 492) y reclasificando únicamente 
+los registros (e2): 
+Escenario 
+Factor de activación 
+Factor de 
+desempeño 
+Publicado por el Coordinador 
+89,19 % 
+0,89 
+Los que cumplen dentro de los 30 s normados → (a2) 
+93,75 % 
+0,94 
+Los de excursión < 30 s → Indefinido (f3) 
+95,45 % 
+1,00 
+Combinado (67 → a2, 33 → f3) 
+95,99 % 
+1,00 
+Los 103 registros (e2) → Indefinido 
+96,19 % 
+1,00 
+ 

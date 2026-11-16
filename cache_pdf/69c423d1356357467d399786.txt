@@ -1,0 +1,115 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 25 de marzo 2026 
+AES 0040-2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+Ref.: Informe Técnico sobre la necesidad de nuevos Servicios Complementarios asociados 
+a Robustez de Frecuencia (Inercia) y Robustez de Tensión (Fortaleza de la Red). 
+ 
+De nuestra consideración, 
+ 
+Junto con saludarle cordialmente, tenemos a bien remitir a usted el Informe “Propuesta de 
+Diseño de Mercado para Atributos de Flexibilidad y Seguridad del SEN” (en adelante, el 
+“Informe”), elaborado por AES Andes junto a un asesor. 
+ 
+El objeto de la presente es, por una parte, manifestar nuestra preocupación respecto de la 
+creciente escasez de atributos sistémicos críticos — particularmente Robustez de 
+Frecuencia (Inercia) y Robustez de tensión (Fortaleza de la Red) — en el Sistema Eléctrico 
+Nacional (SEN) y la inexistencia de señales de mercado para la provisión de estos atributos 
+para los recursos existentes. Asimismo, poner a disposición del Coordinador los principales 
+hallazgos técnicos y económicos del Informe, los cuales, a nuestro juicio, refuerzan la 
+necesidad de avanzar oportunamente en la definición y reconocimiento de nuevos Servicios 
+Complementarios asociados a dichos atributos. 
+ 
+Tal como ha sido reconocido en recientes modificaciones a la Norma Técnica de Seguridad 
+y Calidad de Servicio, el SEN se encuentra inmerso en una transición acelerada, 
+caracterizada por la entrada masiva de recursos basados en inversores (IBR) —
+principalmente generación fotovoltaica y sistemas de almacenamiento con baterías (BESS) 
+— y por el retiro progresivo o reconversión de generación síncrona convencional. Lo 
+anterior, ha derivado y continuará profundizando una reducción estructural de los niveles 
+de inercia y de potencia de cortocircuito, atributos esenciales para asegurar una operación 
+resiliente y estable del sistema frente a perturbaciones de frecuencia y tensión. Los análisis 
+técnicos disponibles muestran que, en escenarios diurnos de alta penetración solar, el 
+sistema opera con niveles de ESCR muy deprimidos en extensas zonas, particularmente 
+en el Norte Grande, requiriendo altos montos de despacho forzado de generación síncrona, 
+lo que evidencia que el déficit de estos atributos no es meramente coyuntural, sino de 
+carácter estructural. 
+ 
+En este contexto, resulta especialmente relevante reconocer el rol que actualmente 
+cumplen las centrales térmicas en operación, las cuales aportan inercia y fortaleza de la red 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+de manera intrínseca. Sin embargo, el diseño actual de los mercados de Energía, Potencia 
+y Servicios Complementarios no entrega señales económicas suficientes para asegurar la 
+viabilidad técnica y económica de estas instalaciones, especialmente en un entorno de 
+remuneración de energía y potencia decrecientes. 
+ 
+De no corregirse esta situación, existe el riesgo de que estas centrales enfrenten señales 
+económicas insuficientes, que deriven en retiros anticipados o indisponibilidades 
+crecientes, profundizando aún más la escasez de atributos sistémicos y obligando al 
+sistema a recurrir a medidas de mayor costo, tales como despachos forzados extendidos 
+de unidades de alto costo variable para el sistema como podrían ser unidades diésel, o 
+inversiones aceleradas en costosa infraestructura dedicada para proveer estos servicios, lo 
+cual de acuerdo con los análisis realizados podrían conducir a elevar los costos por tales 
+servicios en hasta un rango de 3 a 4 veces los valores actuales. 
+ 
+A la luz de lo anterior, estimamos que el reconocimiento explícito de los servicios de 
+Robustez de Frecuencia (Inercia) y Robustez de Tensión (Fortaleza de la Red) como 
+Servicios Complementarios, o como nuevas categorías dentro de los servicios existentes, 
+constituye una condición habilitante clave para resguardar la seguridad y eficiencia del SEN 
+durante su transición. 
+ 
+En este sentido, el Informe busca ser un insumo técnico, que contribuya a una discusión 
+informada sobre el diseño de mercado más adecuado para internalizar estos atributos 
+críticos. 
+ 
+Quedamos a su disposición para profundizar en los antecedentes presentados y colaborar 
+en las instancias técnicas que el Coordinador estime pertinentes. 
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+Paola Hartung Martínez 
+Directora Asuntos Regulatorios 
+AES Andes S.A. 
+
+Electronic Record of Contracts
+This document was generated as a record of certain contracts created, accepted and stored electronically.
+Summary of Contracts
+This document contains the following contracts.
+Title
+ID
+Letter (CEN and AES)
+e3bd98e5-0b71-42f4-90ab-891169e21770
+Contract signed by:
+paola hartung
+Signer ID:
+f104b894-9499-46c8-a9a4-9bfb8b962c7a
+Email:
+paola.hartung@aes.com
+Date / Time:
+Mar 25, 2026 at 12:54 PM UTC
+IP Address:
+181.43.59.77
+User Agent:
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/145.0.3800.99 Ver-
+sion/18.0 Mobile/15E148 Safari/604.1

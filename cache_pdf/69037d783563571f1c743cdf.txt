@@ -1,0 +1,69 @@
+ 
+Teatinos N°280, Piso 11, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+ 
+                                                                                           Santiago, 30 de octubre de 2025 
+                                                                                                                        DE 06938-25 
+Señor 
+Encargado Titular 
+Empresas Coordinadas 
+(según lista de distribución) 
+Presente 
+ 
+Ref.: Implementación 
+y 
+verificación 
+del 
+Esquema de Desconexión Automática 
+de Carga (EDAC) por Baja Frecuencia 
+(BF). 
+[1] Carta DE03371-25 del Coordinador 
+de fecha 05 de junio de 2025. 
+ 
+ 
+De mi consideración: 
+Me refiero a la carta de la Ref. [1], mediante la cual le solicité el plan de trabajo y cronograma 
+que está llevando a cabo para cumplir con la implementación del EDAC BF propuesto por 
+su representada y que fue aprobado por el Coordinador. Al respecto, solicito enviar un 
+complemento de su cronograma antes del 12 de noviembre de 2025, el cual debe 
+incorporar, además de los hitos considerados en una primera instancia, las actividades 
+asociadas a la implementación de las señales SITR, la incorporación de las variables 
+mínimas requeridas de los registros oscilográficos en formato COMTRADE y el envío del 
+informe final de verificación. 
+Finalmente, se hace presente la obligación legal que asiste a toda empresa coordinada de 
+proporcionar oportunamente al Coordinador toda la información que éste requiera para el 
+cumplimiento de sus funciones, y que la omisión de esta obligación podrá ser sancionado 
+por la Superintendencia de Electricidad y Combustibles, conforme lo señalado en el Artículo 
+72-2 de la Ley General de Servicios Eléctricos. 
+Finalmente, para efectos del envío de lo solicitado y en caso de consultas, agradeceré 
+dirigirlas directamente a la dirección edac@coordinador.cl y dmap@coordinador.cl . 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GO/SGASO/DMAP/DEE/DCO 
+c.c.: Srs. Encargados Suplentes según Lista de Distribución 
+Archivo DE 
+
+ 
+Teatinos N°280, Piso 11, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+ 
+Lista de Distribución: 
+ 
+Aguas Antofagasta S.A. 
+Compañía Minera Lomas Bayas 
+Minera Centinela 
+Minera Los Pelambres 
+Papelera Dos S.A. 
+Sociedad Química y Minera de Chile S.A. 
+ 
+ 

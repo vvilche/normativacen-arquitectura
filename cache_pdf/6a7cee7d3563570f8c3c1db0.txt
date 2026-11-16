@@ -1,0 +1,581 @@
+ 
+Santiago, 12 de agosto de 2026. 
+  ACC.ECH.103.26 
+Señor: 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones a Indicadores Desempeño Servicios Complementarios – julio 2026. 
+ 
+De nuestra consideración: 
+ 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de julio de 2026, que fue publicado en su página web y cuya publicación fue comunicada a 
+través de la carta DE05255-26 de fecha 07 de agosto de 2026. 
+ 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+ 
+Sin otro particular, saluda cordialmente a usted. 
+ 
+ 
+ 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+ 
+Firmado 
+digitalmente por 
+Luis Lorca 
+Arenas 
+Fecha: 
+2026.08.12 
+12:37:40 -04'00'
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC JULIO 2026 V1 
+Servicio Complementario – CPF 
+ 
+i. 
+PE Tolpán Sur 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+24-07-2026 
+06:40:00 
+- 
+24-07-2026 
+06:00:00 
+24-07-2026 
+08:10:00 
+Se producen variaciones de potencia activa en respuesta a 
+la variabilidad del recurso eólico, debido a una bajada 
+abrupta de 10 MW a partir de las 6:38 am. Lo anterior, 
+afecta negativamente al registro contemplado en el periodo 
+6:40 a 6:50 en UTC-4 según el reporte del Saturn2e. 
+Considerando que lo anterior fue debido a la variabilidad del 
+recurso eólico y no a una respuesta propia de la planta, se 
+solicita reconsiderar el registro individualizado y retirarlo de 
+los casos negativos del mes de julio. 
+ 
+ii. 
+PFV Usya 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+03-07-2026 
+15:30:00 
+- 
+03-07-2026 
+10:00:00 
+03-07-2026 
+16:00:00 
+Se producen variaciones de potencia activa en respuesta a 
+la variabilidad del recurso solar, producto de nubosidad en 
+la zona. Esta situación se sostiene por 15 minutos (desde las 
+15:27 horas a las 15:42 horas). Lo anterior, afecta 
+negativamente a 2 registros según el reporte del Saturn2e. 
+Considerando que lo anterior fue debido a la variabilidad del 
+recurso solar y no a una respuesta propia de la planta, se 
+solicita reconsiderar los registros individualizados y 
+retirarlos de los casos negativos del mes de julio. 
+05-07-2026 
+12:30:00 
+- 
+05-07-2026 
+10:00:00 
+05-07-2026 
+15:00:00 
+Se producen variaciones de potencia activa en respuesta a 
+la variabilidad del recurso solar, producto de nubosidad en 
+la zona. Esta situación se sostiene por 19 minutos (desde las 
+12:31 horas a las 12:50 horas). Lo anterior, afecta 
+negativamente a 2 registros según el reporte del Saturn2e. 
+Considerando que lo anterior fue debido a la variabilidad del 
+recurso solar y no a una respuesta propia de la planta, se 
+solicita reconsiderar los registros individualizados y 
+retirarlos de los casos negativos del mes de julio. 
+10-07-2026 
+12:20:00 
+47 
+10-07-2026 
+08:00:00 
+10-07-2026 
+16:00:00 
+Durante el periodo evaluado la central mantuvo una 
+asignación de 10 MW de bajada asociada a la PID de bloque 
+1, sin contar por programación ni por instrucción directa 
+con una asignación de subida. Al analizar los eventos 
+evaluados, 
+se 
+observa 
+que 
+la 
+central 
+responde 
+adecuadamente a los eventos de sobrefrecuencia (bajada), 
+en concordancia con la capacidad comprometida y 
+requerida según programa. Por el contrario, los eventos de 
+subfrecuencia (subida) exigen una capacidad de respuesta 
+que no fue requerida, por programación o instrucción 
+directa, para el periodo analizado. Por lo que, la evaluación 
+estaría afectando negativamente a una prestación no 
+requerida ni asignada a la central durante el periodo 
+
+analizado, así que se solicita al Coordinador reevaluar el 
+evento y retirarlo de los registros negativos del mes de julio. 
+14-07-2026 
+15:02:00 
+- 
+14-07-2026 
+14:00:00 
+14-07-2026 
+16:00:00 
+Según PID, el servicio comienza a las 15:00hrs, pero RIO 
+contempla desde 14:00hrs. Por lo que se solicita retirar el 
+registro del bloque 15. Se puede comprobar en la llamada 
+'_20260714_135339_d' que desde CDC tampoco hay 
+asignación directa. 
+23-07-2026 
+14:02:12 
+- 
+- 
+- 
+Se solicita incluir registro, ya que bloque está programado 
+en PID, pero no se observa en RIO. Se puede comprobar la 
+solicitud 
+de 
+activación 
+en 
+la 
+grabación 
+'_20260723_140150_d' 
+ 
+iii. 
+PFV Malgarida 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+15-07-2026 
+11:02:00 
+- 
+- 
+- 
+Se solicita incluir registro, ya que bloque está programado 
+en PID, pero no se observa en RIO. Se puede comprobar en 
+la grabación '_20260715_120852_d', en la cual se acuerda 
+la desactivación del servicio, una vez terminado la hora. 
+ 
+Servicio Complementario – CSF 
+iv. 
+PE Tolpán Sur 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+- 
+- 
+08-07-2026 
+09:00:00 
+08-07-2026 
+10:00:00 
+Se solicita eliminar este registro, ya que el SSCC fue 
+reemplazado por control de transferencias en LT 220 kV 
+Charrúa - Santa Clara. Se puede verificar en la grabación 
+'20260708_0850006_d' 
+v. 
+PE San Gabriel 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+13-07-2026 
+07:00:10 
+- 
+13-07-2026 
+07:00:00 
+13-07-2026 
+09:00:00 
+Se solicita eliminar registro, ya que se informó a CDC que 
+no se puede cumplir con el servicio en el bloque 9, por 
+bajo recurso. CDC instruye retirar el AGC, como se puede 
+comprobar en la grabación '_20260713_080214_d'.  
+15-07-2026 
+02:09:36 
+- 
+15-07-2026 
+01:00:00 
+15-07-2026 
+03:00:00 
+Según PID el servicio comienza a las 2:00hrs hrs y RIO 
+contempla desde las 1:00hrs. Por lo que se solicita retirar 
+el registro del bloque 2. Se puede comprobar en la llamada 
+'_20260715_005139_d' que desde CDC terminan el 
+servicio del bloque 1. 
+
+16-07-2026 
+06:00:30 
+- 
+- 
+- 
+Se solicita incluir registro, ya que bloque está programado 
+en PID, pero no se observa en RIO. Se puede comprobar la 
+solicitud de activación en la grabación 
+'_20260716_055119_d' 
+16-07-2026 
+09:00:46 
+- 
+16-07-2026 
+07:00:00 
+16-07-2026 
+13:00:00 
+Según PID el servicio comienza a las 9:00hrs y RIO 
+contempla desde las 7:00hrs. Por lo que se solicita retirar 
+el registro del bloque 8.  Se puede verificar la solicitud de 
+activación en la grabación '_20260716_085409_d' 
+vi. 
+PFV Usya 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+18-07-2026 
+08:59:00 
+- 
+- 
+- 
+Se solicita incluir registro, ya que bloque está programado 
+en PID, pero no se observa en RIO. Se puede comprobar la 
+solicitud de activación en la grabación 
+'_20260718_085228_d' 
+21-07-2026 
+00:00:00 
+- 
+21-07-2026 
+11:00:00 
+21-07-2026 
+14:00:00 
+Se solicita eliminar registro, ya que el servicio no fue 
+entregado bajo el IL 2026002238. 
+ 
+vii. 
+FV Malgarida 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+19-07-2026 
+07:59:54 
+- 
+- 
+- 
+Se solicita incluir registro, ya que bloque está programado 
+en PID, pero no se observa en RIO. Se puede comprobar la 
+solicitud de activación en la grabación 
+'_20260719_075354_d'.  
+viii. 
+PFV Almeyda 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+08-07-2026 
+09:06:59 
+- 
+- 
+- 
+Se solicita incluir registro, ya que bloque está programado 
+en PID, pero no se observa en RIO. Se puede verificar en la 
+llamada '_20260708_085006_d' la solicitud de activación 
+por parte de CDC. 
+18-07-2026 
+00:00:00 
+- 
+18-07-2026 
+09:00:00 
+18-07-2026 
+10:00:00 
+Se solicita eliminar registro, ya que se informó a CDC que 
+no se puede cumplir con el servicio del bloque 10, por bajo 
+recurso. Servicio fue reemplazado, como se verifica en la 
+grabación '_20260718_085228_d' 
+ 
+
+ 
+ix. 
+PFV El Romero 
+Timestamp 
+Consigna en 
+planta [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+14-07-2026 
+14:05:34 
+- 
+- 
+- 
+Se solicita incluir registro, ya que bloque está programado 
+en PID, pero no se observa en RIO. Se puede comprobar la 
+solicitud de activación en la grabación 
+'_20260714_135339_d' 
+Servicio Complementario – CT 
+x. 
+PFV Almeyda 
+Timestamp 
+Consigna en 
+planta [MVAr] 
+Registro 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+23-07-2026 
+10:47 
+-6 
+- 
+- 
+- 
+Se solicita incluir registro, ya que corresponde a 
+pruebas de curva PQ. 
+23-07-2026 
+10:50 
+-11 
+- 
+- 
+- 
+Se solicita incluir registro, ya que corresponde a 
+pruebas de curva PQ. 
+23-07-2026 
+10:53 
+-17 
+- 
+- 
+- 
+Se solicita incluir registro, ya que corresponde a 
+pruebas de curva PQ. 
+23-07-2026 
+11:00 
+6 
+- 
+- 
+- 
+Se solicita incluir registro, ya que corresponde a 
+pruebas de curva PQ. 
+23-07-2026 
+11:03 
+11 
+- 
+- 
+- 
+Se solicita incluir registro, ya que corresponde a 
+pruebas de curva PQ. 
+23-07-2026 
+11:08 
+17 
+- 
+- 
+- 
+Se solicita incluir registro, ya que corresponde a 
+pruebas de curva PQ. 
+ 
+ 
+ 
+
+Servicio Complementario – CTF 
+xi. 
+FV Malgarida 
+Timestamp 
+Consigna en 
+planta [MW] 
+Registro 
+RIO 
+[MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+11-07-2026 
+14:43 
+58 
+-32 
+11-07-2026 
+14:43 
+11-07-2026 
+15:13 
+Se solicita corregir el registro de desempeño, dado que la 
+evaluación refleja un bajo cumplimiento del C3; sin 
+embargo, esta situación se produjo porque, porque 
+simultáneamente se prestaba el SSCC de CSF. 
+15-07-2026 
+14:40 
+23 
+-67 
+15-07-2026 
+14:38 
+15-07-2026 
+15:38 
+Se solicita reevaluar el desempeño, ya que calificado como 
+“No Verificable”. Y como se observa en la siguiente tabla, 
+el servicio fue prestado según lo requerido.  
+ 
+Fecha 
+Potencia [MW] 
+15-jul-26 14:37:00 
+105,203 
+15-jul-26 14:38:00 
+90,532 
+15-jul-26 14:39:00 
+68,617 
+15-jul-26 14:40:00 
+47,985 
+15-jul-26 14:41:00 
+28,103 
+15-jul-26 14:42:00 
+23,075 
+15-jul-26 14:48:00 
+23,021 
+15-jul-26 14:55:00 
+23,064 
+15-jul-26 15:00:00 
+23,057 
+15-jul-26 15:05:00 
+23,021 
+15-jul-26 15:11:00 
+23,019 
+15-jul-26 15:22:00 
+22,999 
+15-jul-26 15:28:00 
+23,011 
+15-jul-26 15:34:00 
+23,015 
+15-jul-26 15:40:00 
+23,038 
+15-jul-26 15:45:00 
+23,021 
+15-jul-26 15:46:00 
+23,087 
+15-jul-26 15:47:00 
+42,857 
+ 
+ 
+ 
+ 
+ 
+
+xii. 
+PE Tolpán Sur 
+Timestamp 
+Consigna en 
+planta [MW] 
+Registro 
+RIO 
+[MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+15-07-2026 
+16:11 
+15 
+-23 
+15-07-2026 
+16:06 
+15-07-2026 
+17: 
+Se solicita reevaluar el desempeño, ya que calificado como 
+“No Verificable”. Y como se observa en la siguiente tabla, 
+el servicio fue prestado según lo requerido.  
+ 
+ 
+ 
+ 
+ 
+Fecha
+Portencia [MW]
+15-jul-26 16:06:00
+36,485
+15-jul-26 16:07:00
+37,252
+15-jul-26 16:08:00
+36,590
+15-jul-26 16:11:00
+37,878
+15-jul-26 16:12:00
+29,661
+15-jul-26 16:13:00
+21,679
+15-jul-26 16:14:00
+14,988
+15-jul-26 16:15:00
+15,028
+15-jul-26 16:21:00
+14,803
+15-jul-26 16:27:00
+14,869
+15-jul-26 16:33:00
+15,283
+15-jul-26 16:34:00
+14,956
+15-jul-26 16:35:00
+15,179
+15-jul-26 16:41:00
+15,022
+15-jul-26 16:47:00
+14,888
+15-jul-26 16:53:00
+15,086
+15-jul-26 16:59:00
+15,202
+15-jul-26 17:03:00
+15,419
+15-jul-26 17:04:00
+22,355
+15-jul-26 17:05:00
+24,789

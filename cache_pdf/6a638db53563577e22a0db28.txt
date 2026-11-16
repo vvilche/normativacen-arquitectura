@@ -1,0 +1,299 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Informe Análisis de Control Secundario de Frecuencia (CSF) 
+CENTRAL TENO GAS 
+ 
+ 
+REV 
+FECHA 
+DESCRIPCION 
+POR 
+REV. 
+APRB. 
+1 
+21-07-2026 
+Emisión Final 
+EE 
+JA 
+JA 
+ 
+
+ 
+ 
+ 
+ 
+Este documento es propiedad intelectual de Inersa no podrá ser copiado, emitido o utilizado con otro propósito distinto al que se define en este documento. 
+INERSA25-005 / Rev 1 
+- 2 -
+Tabla de contenidos 
+1. 
+Introducción ................................................................................................................ - 4 - 
+2. 
+Definiciones ................................................................................................................ - 4 - 
+3. 
+Requerimiento Normativo ........................................................................................... - 5 - 
+3.1 
+Control de frecuencia ..................................................................................................... - 5 - 
+3.2 
+Control Terciario de Frecuencia ....................................................................................... - 7 - 
+4. 
+Contexto Teno Gas ...................................................................................................... - 8 - 
+5. 
+Análisis y Conclusiones ................................................................................................ - 9 - 
+6. 
+Anexos ........................................................................................................................ - 9 - 
+
+ 
+ 
+ 
+ 
+Este documento es propiedad intelectual de Inersa no podrá ser copiado, emitido o utilizado con otro propósito distinto al que se define en este documento. 
+INERSA25-005 / Rev 1 
+- 4 -
+ 
+1. INTRODUCCIÓN 
+El presente informe tiene por objetivo evaluar la capacidad técnica de la central TER Teno 
+Gas para la prestación del Servicio Complementario de Control Secundario de 
+Frecuencia, conforme a los requisitos establecidos en el "Informe de Definición de 
+Servicios Complementarios" (Resolución Exenta N° 545-2025). 
+La Central Térmica Teno Gas se ubica en la comuna de Teno, región del Maule. La planta 
+Teno Gas 50 está concebida y diseñada para operar con dos alternativas de combustible, 
+gas natural (GN) o gas licuado de petróleo (GLP), con potencias resultantes de 52,00 MW 
+y 44,72 MW respectivamente. La planta fue diseñada y construida para evacuar la 
+totalidad de la potencia instalada. Sin embargo, actualmente opera solo con combustible 
+GLP-Propano HD5, dadas las condiciones actuales de sus instalaciones y equipamiento. 
+Por lo tanto, este informe y los resultados en él indicados son válidos para combustible 
+GLP. La nave de generación de la central está conformada por 26 motores modelo 
+CG170-20 de la marca Caterpillar. 
+La ampliación Teno+10, aprobada ambientalmente mediante RCA N° 202207001110 del 
+10 de junio de 2022, agrega cinco 5 nuevas unidades generadoras a la central Teno Gas. 
+Con esta ampliación, la central eleva su capacidad instalada total de 44,7 MWe a 54,1 
+MWe, operando en conjunto con 31 unidades generadoras que utilizan GLP-Propano 
+HD5 como combustible. 
+La energía generada se transporta mediante líneas de 14,4 kV hacia un transformador 
+elevador de relación 14,4/66 kV, junto con sus respectivos sistemas de protección e 
+interruptores en alta y baja tensión, ubicado en la S/E Aguas Claras. Esta subestación se 
+encuentra conectada a la S/E Aguas Negras (ENLASA Generación) mediante una línea 
+de 66 kV de aproximadamente 250 m de longitud, donde la conexión a la barra de 66 kV 
+se realiza a través de un desconectador. Finalmente, la inyección de energía de la central 
+se efectúa en la barra de 66 kV de la S/E Teno. 
+2. DEFINICIONES 
+- 
+ETERM: Tensión en bornes del generador 
+- 
+ITERM: Corriente en bornes del generador 
+- 
+EFD: Tensión de campo del generador 
+- 
+IFD: Corriente de campo del generador 
+- 
+PELEC/QELEC: Potencia eléctrica activa/reactiva generada 
+- 
+FREC: Frecuencia eléctrica 
+
+ 
+ 
+ 
+ 
+Este documento es propiedad intelectual de Inersa no podrá ser copiado, emitido o utilizado con otro propósito distinto al que se define en este documento. 
+INERSA25-005 / Rev 1 
+- 5 -
+- 
+SS/AA: Servicios Auxiliares 
+- 
+AVR: Regulador de tensión 
+- 
+GOV: Regulador de velocidad 
+- 
+CEN: Coordinador Eléctrico Nacional 
+- 
+SEN: Sistema Eléctrico Nacional 
+- 
+CTF: Control terciario de frecuencia 
+- 
+CTFg: Control terciario de frecuencia en giro 
+- 
+TC: Transformador de corriente 
+- 
+TP: Transformador de potencial 
+- 
+NTSSCC: Norma Técnica de Servicios Complementarios 
+- 
+Pmax: Potencia activa neta máxima de la unidad 
+- Pmin: Potencia activa neta correspondiente al mínimo técnico de la unidad 
+3. REQUERIMIENTO NORMATIVO 
+3.1 Control de frecuencia 
+El objetivo de esta sección es citar los requerimientos mínimos que debe cumplir cada 
+una de las instalaciones interconectadas al SEN para verificar las capacidades para 
+prestar el servicio de control de frecuencia, específicamente control rápido de frecuencia 
+(CRF), control primario de frecuencia (CPF), control secundario de frecuencia (CSF) y 
+control terciario de frecuencia (CTF) según la Norma Técnica de Servicios 
+Complementarios (NTSSCC), y el Anexo Técnico “Verificación de Instalaciones para la 
+Prestación de SS.CC.”. 
+En líneas generales, las instalaciones deberán ser a los menos capaces de: 
+• Operar de manera estable en forma permanente en el rango de frecuencia 
+comprendido entre 49 y 51 Hz, para tensiones comprendidas entre 0.95 y 1.05 por 
+unidad de la tensión nominal. 
+• No reducir en más de un 10% su potencia activa entregada en estado normal de 
+operación al SEN en su punto de conexión para frecuencias estabilizadas en el 
+rango de 47.5 Hz y 49.5 Hz. 
+• Soportar cambios de frecuencia de hasta 2 Hz/s sin desconectarse del SEN. Para 
+ello, la tasa de cambio de la frecuencia (RoCoF) debe ser medida durante un 
+período de 500 ms, según lo señalado en el artículo 3-11 de la NTSyCS. 
+En la Figura 1 se muestra la interpretación temporal de como intervienen las diferentes 
+subcategorías de los SS.CC. referidas al control de frecuencia según el Coordinador: 
+
+ 
+ 
+ 
+ 
+Este documento es propiedad intelectual de Inersa no podrá ser copiado, emitido o utilizado con otro propósito distinto al que se define en este documento. 
+INERSA25-005 / Rev 1 
+- 6 -
+ 
+Figura 1: Control de Frecuencia – Subcategorías según intervalo temporal 
+En la Figura 2 se presenta la interpretación de los distintos tiempos involucrados en cada 
+subcategoría de los SS.CC. de control de frecuencia de manera referencial. 
+ 
+Figura 2: Control de Frecuencia – Subcategorías según intervalo temporal 
+
+ 
+ 
+ 
+ 
+Este documento es propiedad intelectual de Inersa no podrá ser copiado, emitido o utilizado con otro propósito distinto al que se define en este documento. 
+INERSA25-005 / Rev 1 
+- 7 -
+Donde: 
+• Tiempo de inicio de activación: Período en que se inicia la prestación del "Recurso 
+Técnico Comprometido", contado desde que es requerido el respectivo Servicio 
+Complementario. Se entenderá que el respectivo Servicio Complementario es 
+requerido cuando se produzca una condición operativa en el SEN, que active 
+automatismos locales; a través del envío de la consigna tratándose de servicios 
+automáticos centralizados; o desde la instrucción, en la operación en tiempo real, 
+del Coordinador tratándose de Servicios Complementarios cuyo modo de 
+activación no es mediante automatismos, según corresponda. 
+• Tiempo total de activación: Período en que se entrega la totalidad del "Recurso 
+Técnico Comprometido", incluyendo el "Tiempo de inicio de activación". 
+• Tiempo de entrega: Período en que las instalaciones deberán ser capaces de 
+mantener el total del "Recurso Técnico Comprometido", contando desde el 
+momento en que transcurrió el "Tiempo total de activación". 
+Lo presentado anteriormente en ambas figuras se puede resumir en la siguiente tabla: 
+Subcategoría 
+Modo de 
+activación 
+Tiempo 
+de inicio 
+de 
+activación 
+Tiempo 
+total de 
+activación 
+Mínimo 
+tiempo de 
+entrega 
+Máximo 
+tiempo de 
+entrega 
+CRF 
+Automático local 
+- 
+1 s 
+5 min 
+- 
+CPF 
+Automático local 
+- 
+10 s 
+5 min 
+- 
+CSF 
+Automático 
+centralizado 
+- 
+5 min 
+15 min 
+- 
+CTF 
+Por instrucción, 
+en la operación 
+en tiempo real, 
+del CEN 
+5 min 
+15 min 
+- 
+1 hs 
+CI 
+Por instrucción, 
+en la operación 
+en tiempo real, 
+del CEN 
+- 
+30 min 
+2 hs 
+- 
+Tabla 1: Tiempos comprometidos por subcategoría – SS.CC. Control de frecuencia 
+3.2 Control Secundario de Frecuencia 
+Requerimientos para la prestación de CSF: 
+
+ 
+ 
+ 
+ 
+Este documento es propiedad intelectual de Inersa no podrá ser copiado, emitido o utilizado con otro propósito distinto al que se define en este documento. 
+INERSA25-005 / Rev 1 
+- 8 -
+El CSF deberá operar de forma centralizada y automática a través de un esquema de 
+control centralizado o AGC. El Tiempo Total de Activación del servicio CSF será de 5 
+[min], y su Mínimo Tiempo de Entrega será de 15 [min] 
+4. CONTEXTO TENO GAS 
+Los mínimos técnicos de la central son de 1,2 MW, valor que corresponde a la potencia 
+mínima de operación de uno de los motores del conjunto, según el Informe de mínimo 
+técnico de la central Teno Gas. Un incremento de potencia por sobre este nivel requiere 
+el encendido de motores adicionales en frío, cuyo tiempo desde el inicio del proceso de 
+partida hasta la sincronización es de 4,50 min. Posteriormente, el proceso de arranque 
+hasta alcanzar el mínimo técnico con todos los motores encendidos demora 10,33 min, 
+excediendo el tiempo total de activación de 5 minutos definido en el "Informe de Definición 
+de Servicios Complementarios" (Resolución Exenta N° 545-2025). 
+En consecuencia, con la planta operando a mínimo técnico, el arranque presenta un 
+comportamiento no lineal durante el encendido de cada motor. Ante una orden de 
+encendido simultáneo de todos los motores, la planta alcanza el mínimo técnico con todos 
+los motores encendidos en 10,33 min y la plena carga en 13,25 min, según el Informe 
+Técnico de Parámetros de Partida y Detención de la Central TER Teno Gas. 
+ 
+Figura 3: Extracto de informe PPyD de la Central Teno Gas 
+El arranque incluye un tramo lineal entre 37,2000 MW y 53,8500 MW, correspondiente al 
+rango en que todos los motores se encuentran en operación, desde mínimo técnico con 
+todos los motores encendidos hasta plena carga. En la siguiente figura se representa la 
+curva de arranque cualitativa de la central desde mínimo técnico. 
+
+ 
+ 
+ 
+ 
+Este documento es propiedad intelectual de Inersa no podrá ser copiado, emitido o utilizado con otro propósito distinto al que se define en este documento. 
+INERSA25-005 / Rev 1 
+- 9 -
+ 
+Figura 4: Curva de arranque de Central Teno Gas, desde mínimo técnico. 
+5. ANÁLISIS Y CONCLUSIONES 
+En conclusión, la central presenta un tiempo de activación de 10,33 min desde mínimo 
+técnico (1,2 MW) hasta la operación de todos los motores a mínimo técnico (37,2 MW), 
+superior a los 5 minutos exigidos en el "Informe de Definición de Servicios 
+Complementarios" (Resolución Exenta N° 545-2025), lo que evidencia una restricción 
+operativa para el cumplimiento de dicho requisito. El arranque se caracteriza por un 
+comportamiento no lineal desde el mínimo técnico (1,2 MW) hasta el encendido conjunto 
+de los motores a 37,200 MW, seguido de un tramo lineal de toma de arranque hasta 
+alcanzar la plena carga de 53,850 MW en 13,25 min. 
+6. ANEXOS  
+Junto a este documento se anexan los siguientes archivos: 
+1 
+Informe de mínimo técnico de la central Teno Gas 
+2 
+Informe Técnico de Parámetros de Partida y Detención de la Central TER Teno 
+Gas. 

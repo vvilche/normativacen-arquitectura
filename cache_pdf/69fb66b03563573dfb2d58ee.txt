@@ -1,0 +1,84 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 6 de mayo de 2026 
+DE 03069-26 
+ 
+ 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas  
+Presente  
+ 
+Ref.: Guía para la Verificación de Instalaciones 
+Basadas en Inversores Grid Forming (IBR 
+GFM) 
+[1] 
+Resolución Exenta Nº 45/2026, Aprueba 
+modificación de la Norma Técnica de 
+Seguridad y Calidad de Servicio, incorpora 
+los nuevos Anexos Técnicos que se indican, 
+modifica la Norma Técnica de Servicios 
+Complementarios, y fija el texto refundido de 
+ambas normas, en conformidad con lo 
+dispuesto en el artículo 72°-19 de la Ley 
+General de Servicios Eléctricos”, de la 
+Comisión Nacional de Energía. 
+[2] 
+Oficio N° 337, de 30 de marzo de 2026, de 
+la Comisión Nacional de Energía. 
+ 
+De mi consideración: 
+ 
+Por medio de la presente, le comunico que está disponible la Guía para la Verificación de 
+Instalaciones Basadas en Inversores Grid Forming (IBR GFM). 
+El propósito de este documento es establecer una guía referencial de verificación técnica 
+para instalaciones basadas en inversores Grid Forming (IBR GFM) que se conecten al 
+Sistema Eléctrico Nacional (SEN), con foco particular en sistemas BESS. 
+En concreto, el documento define un proceso de verificación en tres etapas para comprobar 
+que una instalación GFM cumple con el marco del AT-IBR de la Ref. [1] y la Ref. [2]: 
+• 
+Etapa 1 – Pre-conexión: verificación mediante modelos EMT/HIL, validando el 
+modelo EMT de la planta contra hardware real. 
+• 
+Etapa 2 – Comisionamiento: pruebas en sitio para verificar el comportamiento del 
+hardware real instalado en la subestación. 
+• 
+Etapa 3 – Operación: monitoreo continuo del desempeño de la planta conectada al 
+SEN durante su vida útil. 
+Además, la guía busca servir como marco inicial para el establecimiento de criterios 
+técnicos, pruebas, procedimientos y valores umbrales de aceptación que luego alimentarán 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+un Procedimiento Interno del Coordinador, una vez incorporados resultados de proyectos 
+piloto en terreno con este tipo de tecnologías. 
+La mencionada guía puede descargarse desde el sitio web del Coordinador a través del 
+siguiente enlace: 
+ 
+https://www.coordinador.cl/operacion/documentos/requisitos-tecnologias-gfm-y-
+gfl/verificacion-instalaciones-gfm/ 
+ 
+Se adjuntan tanto la guía como la plantilla con la cual podrá hacer envío de sus 
+observaciones y comentarios, que servirán de retroalimentación para la publicación del 
+Procedimiento Interno mencionado previamente. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+VVG/SVR/DPR/adr 
+Incl: Lo indicado 
+c.c.:  
+Sr. Víctor Velar – Subgerente de Estudios y Simulación en Tiempo Real 
+Sr. Simón Veloso – Jefe del Departamento de Simulación y Laboratorio en Tiempo Real 
+Sr. Diego Perales – Director de Unidad Legal 
+ 

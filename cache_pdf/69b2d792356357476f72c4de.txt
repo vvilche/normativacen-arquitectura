@@ -1,0 +1,123 @@
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+Carta ENLI-46-26 
+Santiago, 11 de marzo de 2026 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en atención a lo solicitado mediante carta de Ref.: [5], mediante la cual se 
+reitera la instrucción efectuada a través de las cartas de Ref.: [1] y [2] donde se requiere a las Empresas 
+Coordinadas migrar sus servicios de PRMTE, WAMS, SLRP y SITR, desde el Data Center ubicado en 
+Avenida Apoquindo N°7071, comuna de Las Condes, perteneciente a la empresa Telefónica, al Data 
+Center del Coordinador, ubicado en Parque Isidora Sur N°1061, comuna de Pudahuel, vengo en 
+informarle que Enlight Investments ha concluido exitosamente el proceso de migración de sus 
+servicios. 
+ 
+Detalle de la migración de los servicios. 
+ 
+En atención a lo informado por esta parte mediante cartas de Ref.: [3] y [4], así como lo comunicado por 
+EnorChile a través de su carta de Ref.: [6], el detalle de la migración de los servicios de Enlight 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref: Responde carta DE 01500-26 Informando estado del 
+traslado de servicios de Data Center de Telefónica al Data 
+Center del Coordinador. 
+[1] DE03539-25, de 17 de junio de 2025, informa el proceso de 
+traslado de los servicios PRMTE, WAMS, SLRP y SITR. 
+[2] DE 00851-26, de 11 de febrero de 2026, Traslado de 
+servicios de Data Center de Telefónica al Data Center del 
+Coordinador. 
+[3] Carta ENLI-43-26 (DE01362-26), de 13 de febrero de 2026, 
+Responde carta DE00900-26 Cumplimiento de los planes de 
+implementación de PMU del Módulo de Medición Fasorial del 
+SEN y solicita lo que indica. 
+[4] Carta ENLI-44-26 (DE01658-26), de 24 de febrero de 2026, 
+Responde carta DE00851-26 Informando estado del traslado 
+de servicios de Data Center de Telefónica al Data Center del 
+Coordinador. 
+[5] DE 01500-26, de 04 de marzo de 2026, Traslado de servicios 
+de Data Center de Telefónica al Data Center del Coordinador. 
+[6] Carta EN-CO-TI-8, de 10 de marzo de 2026, de EnorChile. 
+Señor 
+Ramón Castañeda Ponce 
+Director Ejecutivo 
+Coordinador Eléctrico 
+Nacional 
+PRESENTE 
+ 
+ 
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+Investments al Data Center del Coordinador, ubicado en Parque Isidora Sur N°1061, comuna de 
+Pudahuel, es el siguiente: 
+ 
+- 
+Respecto del SLRP: Como es de su conocimiento, nuestra central actualmente no cuenta con 
+protecciones aplicables a la integración con este sistema, por lo cual no existe la necesidad de migrar 
+tal servicio. 
+ 
+- 
+Respecto de la WAMS: Actualmente nuestra central no tiene PMU instalada, pero está en proceso 
+de implementarla conforme al programa de trabajo actualizado que se le comunicó mediante carta 
+de Ref.: [3], instancia en la que solicitamos que dicho equipo establezca un enlace de comunicaciones 
+directo al PDC Corporativo del Data Center ENEA. Cabe señalar que dicha solicitud fue contestada 
+favorablemente a través de correo electrónico con fecha 6 de marzo de 2026, por lo que esperamos 
+materializar dicha conexión en los plazos propuestos 
+ 
+Respecto de nuestros servicios de SITR y PRMTE y su migración al Data Center del Coordinador, cabe 
+hacer presente que ellos operan a través del Centro de Control de EnorChile, por lo que ha sido dicha 
+empresa quien ha llevado adelante las gestiones para migrarlos. 
+ 
+En este contexto y conforme a lo informado por EnorChile mediante su carta de Ref.: [6], el estado de 
+las gestiones es el siguiente: 
+ 
+- 
+Respecto del SITR: Con fecha 17 de febrero de 2026 se recibió la confirmación de migración exitosa 
+de sistemas DNP3 e ICCP de EnorChile, quedando regularizada la migración SITR de todas las 
+instalaciones reportadas por estos medios, incluyendo el de Enlight Investments, como se puede 
+verificar en el Anexo B de la carta de Ref.: [6]. 
+ 
+- 
+Respecto de la PRMTE: Con fecha 9 de marzo de 2026 se recibió confirmación de la correcta 
+migración de 209 medidores reportados por EnorChile, entre los que se encuentra el Enlight 
+Investments, como se puede verificar en el Anexo B de la carta de Ref.: [6]. 
+ 
+De este modo, y dando respuesta al requerimiento efectuado por la carta de Ref.: [5] dentro del plazo 
+establecido, por medio de la presente comunicación le informamos que a contar del 9 de marzo de 2026 
+Enlight Investments ha dado completo cumplimiento a las instrucciones del Coordinador Eléctrico 
+Nacional respecto de la migración de nuestros servicios de PRMTE y SITR, desde el Data Center ubicado 
+en Avenida Apoquindo N°7071, comuna de Las Condes, perteneciente a la empresa Telefónica, al Data 
+Center del Coordinador, ubicado en Parque Isidora Sur N°1061, comuna de Pudahuel, y no cuenta con 
+servicios de SLRP ni WAMS que deban ser migrados. 
+ 
+Sin otro particular, lo saluda atentamente, 
+ 
+ 
+ 
+ 
+Mauricio Ortuondo 
+Encargado Suplente 
+Enlight Investments 
+ 
+Mauricio, 

@@ -1,0 +1,323 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+             Santiago, 17 de septiembre de 2025 
+                                                                                                                            DE05863-25 
+ 
+ 
+ 
+ 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Presente 
+ 
+ 
+Ref.: Consideraciones generales para el registro de la 
+operación real en plataforma OpReal. 
+[1] Decreto 125 del Ministerio de Energía, que aprueba 
+Reglamento de la Coordinación y Operación del Sistema 
+Eléctrico Nacional. 
+[2] Norma Técnica de Seguridad y Calidad de servicio para 
+Sistemas Medianos, de marzo de 2022. 
+[3] Carta DE03824-22, del 25 de agosto de 2022, sobre el 
+“Registro de la operación real en ‘Sistema OPREAL’”. 
+[4] Carta DE02682-24, del 27 de mayo del 2024, que 
+responde a carta DE00459-24 sobre el ingreso a OpReal 
+de centrales BESS. 
+[5] Cartas DE02889-24, DE02890-24, DE02891-24, 
+DE02892-24 y DE02893-24, del 06 de junio del 2024, sobre 
+la regularización de señales de los SAE para el SITR. 
+[6] Norma Técnica de Coordinación y Operación del 
+Sistema Eléctrico Nacional. Capítulo de Programación de 
+la Operación. 
+ 
+ 
+Estimados Encargados: 
+ 
+Como es de su conocimiento, la información de la operación real del Sistema 
+Eléctrico Nacional y los Sistemas Medianos es fundamental para el cumplimiento de las 
+funciones establecidas en la LGSE que debe realizar este Coordinador, en particular, los 
+Sistemas de Información Pública, procesos de la Programación de la Operación, 
+elaboración de pronósticos, reportes operacionales, entre otros. Para estos fines, el 
+Coordinador cuenta con la plataforma Operación Real, en adelante “OpReal”, para que las 
+empresas coordinadas entreguen la información al Coordinador de manera automática. 
+ 
+A raíz de diversas consultas e inconsistencias recurrentes detectadas en la 
+información entregada por las empresas coordinadas o integrantes de Sistemas Medianos, 
+así como la necesidad de complementar instrucciones para la entrega de información de la  
+operación real de Sistemas de Almacenamiento de Energía y Centrales Renovables con 
+Capacidad de Almacenamiento, en el Anexo de la presente comunicación se describen las 
+principales instrucciones que deben ser adoptadas por los profesionales de su representada 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+al momento de cargar la información en OpReal, a efectos de contar con información 
+oportuna, cabal, completa y veraz. 
+ 
+ 
+Saluda atentamente a usted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Juan Marcos Donoso Navarro 
+Jefe de Programación de la Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+JPA/JMD/JPR/agc 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ANEXO 
+ 
+(1) 
+Consideraciones generales sobre la plataforma OpReal 
+ 
+1.1 
+Plazo de entrega de la información 
+Dadas las atribuciones entregadas a este Coordinador por las normativas citadas 
+en las referencias [1] y [2], en particular en el Artículo 15 del DS 125 que indica que “[l]os 
+Coordinados estarán obligados a proporcionar oportunamente al Coordinador y actualizar 
+toda la información, en forma cabal, completa y veraz, que éste requiera para el 
+cumplimiento de sus funciones”, y en el Artículo 8-1 de la NTSyCS SSMM que señala que 
+“[l]os Integrantes deberán sujetarse […] a los requisitos de información en tiempo y forma 
+que le sea solicitada”, se ha instruido en diversas ocasiones (ver ref. [3]) que todos los 
+valores requeridos “deben ser informados […], a más tardar 2 horas después de ocurrida 
+la operación real”. Dicho plazo se justifica dado que varios procesos del Coordinador 
+dependen de estos datos, como por ejemplo la Programación de la Operación. 
+ 
+1.2 
+Responsabilidad de información y contactos 
+La carga de estos datos en la plataforma es exclusiva responsabilidad de las 
+empresas Coordinadas, Operadoras Principales e Integrantes. Por lo tanto, en caso de 
+delegar esta obligación a otra empresa coordinada o a un tercero, es responsabilidad de su 
+representada garantizar que todo el proceso se realice correctamente. Esto último es 
+posible dado que en OpReal se privilegia el agrupar la reportería en torno a la figura del 
+Centro de Control, de forma que quienes manejan los datos reales sean los encargados de 
+subirlos a la plataforma. Así, les solicitamos encarecidamente traspasar esta información a 
+los responsables finales de interactuar con OpReal, sobre todo si son servicios tercerizados 
+a una empresa no coordinada. 
+ 
+La única exención a esta regla son las centrales PMGD, para las que se extrae la 
+información directamente desde la red de medidores PRMTE, en concordancia con lo 
+explicado en el numeral 2.1 de la presente comunicación. No obstante, si una PMGD no 
+posee un medidor conectado a la plataforma, deberá registrar su generación como 
+cualquier otra central. 
+ 
+Por otro lado, es responsabilidad exclusiva de cada empresa mantener actualizada 
+la lista de usuarios y sus correos electrónicos en la plataforma OpReal, dado que las 
+comunicaciones enviadas desde este Coordinador por temas relativos a ella se realizan 
+principalmente a estas direcciones. 
+ 
+1.3 
+Administración y Soporte de la plataforma 
+En caso de consultas o incidencias en el proceso de carga de información, ajustes 
+en la responsabilidad de información o la lista de usuarios, o cualquier otra gestión sobre la 
+plataforma OpReal, deben contactarse oportunamente con el Departamento de 
+Programación 
+de 
+la 
+Operación 
+vía 
+correo 
+electrónico 
+a 
+la 
+casilla 
+soporte.opreal@coordinador.cl. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Además, aprovecho esta comunicación para informarles que se ha publicado en la 
+web de este Coordinador una guía de usuarios Coordinados para la plataforma OpReal. 
+Esta puede encontrarse en la siguiente ubicación, y en esta URL: 
+ 
+Web CEN ➔ Plataformas Coordinados ➔ Sistema Operación Real ➔ Guía Usuarios 
+ 
+(2) 
+Reporte de generación de energía 
+ 
+2.1 
+Consideraciones generales 
+La plataforma OpReal tiene como objetivo almacenar la información de generación 
+bruta horaria de energía, la que es usada en diversos procesos que, por su naturaleza y 
+producto, solo pueden ser realizados con este valor. De acuerdo con esto, en ninguna 
+circunstancia se debe registrar datos de generación instantánea, ni menos la inyección neta 
+de energía al sistema al que se conecta la central, unidad y/o configuración. No obstante, 
+en el caso de las centrales PMGD y las autoproductoras se debe reportar sus excedentes 
+de energía (i.e.: inyección neta al sistema correspondiente). 
+ 
+La información de generación bruta horaria de energía debe ser ingresada en los 
+campos de la tabla “Energia generada en mwh” presente en el menú Digitación > Operación 
+Coordinado, considerando que el primer dato de dicha tabla representa la energía generada 
+en el intervalo entre las 00:00:00 y 00:59:59 de cada día. Vale la pena destacar que todos 
+los valores deben ser registrados explícitamente, incluso si son iguales a cero. 
+ 
+Si bien la visualización en la web solo muestra dos decimales, los datos son 
+almacenados con la precisión que se ingresan al sistema, con un máximo de 14 cifras 
+significativas. Por lo mismo, el ideal es considerar, al menos, tres cifras decimales, lo cual 
+debe ser respetado para todas las unidades de generación, independiente de su capacidad 
+instalada. 
+ 
+Frente a cambios de hora, se debe considerar lo expuesto en la Guía de Usuarios 
+anteriormente señalada, que en su página 21 indica que: 
+• 
+Cuando se transita de horario de verano al de invierno (es decir, se retrasa una 
+hora), se agrega una hora 25 al sábado correspondiente para registrar el dato de 
+operación en la “segunda hora 23:00” de aquel día. 
+• 
+Cuando se cambia de horario de invierno al de verano (se adelanta una hora), se 
+mantiene dicho día con las 24 horas, y para la primera hora del día siguiente se 
+registra un valor cero. 
+ 
+Dado que en las regiones de Aysén y de Magallanes se utiliza el mismo huso horario 
+todo el año (UTC-3), no se debe tomar en cuenta los cambios de hora. Es decir, si aparece 
+una hora 25 esta debe ser rellenada con cero, mientras que la hora 01 del día posterior al 
+cambio de horario de invierno a de verano debe ser rellenada normalmente. 
+ 
+2.2 
+Criterios específicos por tecnología 
+Dadas las características particulares de algunas tecnologías, se deben tener las 
+siguientes consideraciones al reportar la generación bruta horaria de energía en la 
+plataforma OpReal. 
+ 
+Centrales Renovables con Capacidad de Almacenamiento (CRCA) 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Es necesario complementar y hacer extensivas a todas las empresas coordinadas 
+las instrucciones particulares indicadas en las ref. [4] y [5], por lo que una CRCA debe 
+reportar los siguientes datos: 
+a) Generación bruta de energía de la componente de generación, en MWh, en las 
+llaves asociadas a la central renovable correspondiente. Es decir, la generación 
+bruta debe considerar la suma de la energía destinada al sistema, a la componente 
+de almacenamiento y a los consumos propios. 
+b) Retiro bruto realizado por la componente de almacenamiento desde la componente 
+de generación, en MWh, en las llaves nombradas como “Retiro” o “Retiro de central”. 
+c) Retiro bruto realizado por la componente de almacenamiento desde el sistema, en 
+MWh, en las llaves identificadas única y expresamente como “Retiro del sistema”. 
+d) Aporte de energía bruta de la componente de almacenamiento, en MWh, en las 
+llaves marcadas como “Inyección”. 
+ 
+De acuerdo con lo anterior, se debe considerar al almacenamiento como una central 
+independiente para todos los registros en OpReal, mientras que la componente de 
+generación debe registrar su generación bruta efectiva, sin descontar aquella que se 
+consume por la componente de almacenamiento. 
+ 
+Por otro lado, lo mencionado en el literal c) solo es válido para aquellas baterías de 
+CRCA que posean autorización de Acceso Abierto para realizar retiros desde el sistema al 
+que están conectadas. 
+ 
+Además de lo anterior, y según lo expresado en [5], “[…] en el caso de contar con 
+instalaciones existentes que no dispongan de Equipos de Medida de energía que permitan 
+registrar la componente almacenamiento, su representada deberá determinar la 
+información antes señalada de manera indirecta en función de las variables SITR: Estado 
+de Carga, Potencia Activa Bruta de carga y Potencia Activa Bruta de descarga del SITR”. 
+ 
+Centrales gasíferas 
+Las centrales de este tipo deben seguir dos consideraciones particulares: 
+a) La generación debe registrarse en la llave que corresponda al combustible utilizado. 
+Es decir, la energía generada con Gas Natural Licuado debe asignarse a la llave de 
+GNL, aquella producida con Gas Natural por Ducto a las llaves GN o identificadas 
+como Gas Argentino, y finalmente el diésel a su llave correspondiente. 
+b) Debe considerarse la configuración en la que se está operando. Es decir, si se tienen 
+llaves diferenciadas para ciclo abierto, medio ciclo y ciclo completo, se debe asignar 
+la energía a la llave que corresponda. Si un cambio de configuración se realizó 
+dentro de un bloque horario, la energía generada por cada configuración debe 
+registrarse en su llave correspondiente, y no agruparlas en una sola por cada bloque 
+horario. 
+ 
+(3) 
+Reporte de otros datos de la operación 
+Además de la generación de energía, OpReal recibe y almacena otros valores 
+importantes de la operación real de los sistemas. Todos estos se ingresan en Digitación > 
+Operación Coordinado, con las consideraciones específicas mencionadas a continuación. 
+ 
+3.1 
+Caudal 
+• 
+Tabla OpReal: “Agua transportada en metros cúbicos por segundo”. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+• 
+Unidad: metros cúbicos por segundo. 
+• 
+Temporalidad: promedio diario. 
+ 
+3.2 
+Cota de embalses 
+• 
+Tabla OpReal: “Cota en metros al finalizar la hora”, y “Cota en metros al finalizar el 
+día”. 
+• 
+Unidad: metros sobre el nivel del mar, con dos decimales de precisión para 
+representar los centímetros. 
+• 
+Temporalidad: horaria o diaria, según la tabla, al finalizar dicho bloque temporal. 
+ 
+3.3 
+Precipitaciones 
+• 
+Tabla OpReal: “Agua caída en milímetros”. 
+• 
+Unidad: milímetros, equivalente a litros por metro cuadrado. 
+• 
+Temporalidad: acumulado diario. 
+ 
+3.4 
+Transferencias por las líneas 
+• 
+Tabla OpReal: “Transferencia de energía activa en línea”, y “Transferencia de 
+energía reactiva en línea”. 
+• 
+Unidad: MWh y MVArh, respectivamente 
+• 
+Temporalidad: horario. 

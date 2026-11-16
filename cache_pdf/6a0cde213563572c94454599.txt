@@ -1,0 +1,545 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ Santiago, 19 de mayo de 2026 
+       DE 03423-26 
+ 
+ 
+Señores  
+Encargados 
+Según Lista de Distribución 
+Presente 
+ 
+Ref. Cumplimiento de los planes de 
+implementación de PMU del Módulo 
+de Medición Fasorial del SEN 
+[1] Carta DE04823-25, de fecha 19 
+de 
+agosto 
+de 
+2025, 
+“Instruye implementación y solicita 
+plan de trabajo para implementación 
+de puntos de monitoreo de Módulo 
+Fasorial del SEN”.  
+ 
+De mi consideración: 
+Me refiero a la carta de la Ref. [1], mediante la cual solicitamos el envío de un plan de trabajo 
+y cronograma detallado para cumplir con la implementación de los puntos de monitoreo 
+mediante PMU instruidos. Al respecto, según los antecedentes que disponemos a la fecha 
+y de acuerdo con los plazos comprometidos en el plan informado por su representada, 
+presenta al cierre del mes de abril de 2026 hitos vencidos sin justificación de atrasos. 
+Conforme con lo señalado, solicito a Ud. informar para cada uno de los puntos de monitoreo 
+indicados en el Anexo y, a más tardar el próximo 25 de mayo de 2026, lo siguiente: 
+a) El estado de avance de los hitos del proyecto, en particular, aquellos que se 
+encuentran vencidos. 
+b) Las medidas que está llevando a cabo para efectos de remediar el atraso en la 
+implementación y cumplir con el hito final de implementación. 
+c) Indicar, en particular, lo siguiente: 
+i. 
+Si la PMU ya se encuentra instalada en terreno. 
+ii. 
+Si ya finalizó la implementación de los canales de comunicaciones al PDC 
+local y/o corporativo, según corresponda. 
+iii. 
+Si ya adquirió la o las licencias de comunicaciones requeridas para 
+comunicar cada PMU al PDC del Coordinador. 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Finalmente, para efectos de enviar lo solicitado y en caso de requerir consultas adicionales, 
+derivarlas directamente a través del correo DMAP@coordinador.cl . 
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CAE/ycl 
+Incluye: Lo indicado 
+ 
+c.c.: Sres. Encargados Suplentes, según lista de Distribución 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO 
+ 
+ 
+Puntos de monitoreo con hitos parciales del plan de implementación vencidos 
+ 
+Coordinado 
+Elemento  
+Punto de medida 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+PFV USYA 
+En punto de control PPC 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+PFV ALMEYDA 
+En punto de control PPC 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+PE TOLPAN SUR 
+En punto de control PPC 
+AELA GENERACIÓN S.A 
+HP PEUCHEN U1 
+Bornes de la unidad 
+AELA GENERACIÓN S.A 
+HP PEUCHEN U2 
+Bornes de la unidad 
+AELA GENERACIÓN S.A 
+HP MAMPIL U1 
+Bornes de la unidad 
+AELA GENERACIÓN S.A 
+HP MAMPIL U2 
+Bornes de la unidad 
+AELA GENERACIÓN S.A 
+HP LICAN U1 
+Bornes de la unidad 
+AELA GENERACIÓN S.A 
+HP LICAN U2 
+Bornes de la unidad 
+AELA GENERACIÓN S.A 
+PE CUEL 
+En punto de control PPC 
+AELA GENERACIÓN S.A 
+BESS SAN ANDRES 
+Punto de control del BESS 
+AELA GENERACIÓN S.A 
+PFV SALVADOR 
+En punto de control PPC 
+AELA GENERACIÓN S.A 
+BESS SALVADOR 
+Punto de control del BESS 
+AELA GENERACIÓN S.A 
+PFV SAN ANDRES 
+En punto de control PPC 
+ALBA SPA 
+PE SAN PEDRO 
+En punto de control PPC 
+CENTELLA TRANSMISIÓN S.A. 
+PUNTA SIERRA – CENTELLA  
+220kV C2 
+Paño J14 y J15 de SE Punta 
+Sierra 
+CENTELLA TRANSMISIÓN S.A./INTERCHILE 
+S.A. 
+NUEVA PAN DE AZUCAR – 
+PUNTA SIERRA 220KV C1 
+Paño J7 y J8 de SE Nueva 
+Pan de Azucar 
+COLBÚN S.A. 
+HE COLBUN 
+Bornes de la unidad 
+COLBÚN S.A. 
+HE ANGOSTURA U2 
+Bornes de la unidad 
+COLBÚN S.A. 
+HE CANUTILLAR 
+Bornes de la unidad 
+COLBÚN S.A. 
+HE ANGOSTURA U3 
+Bornes de la unidad 
+COLBÚN S.A. 
+HE MACHICURA U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+HE MACHICURA U2 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP RUCUE U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP RUCUE U2 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP QUILLECO U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP LA MINA U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP LA MINA U2 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP SAN IGNACIO 
+Bornes de la unidad 
+COLBÚN S.A. 
+TER NEHUENCO II CC1-TV 
+Bornes de la unidad 
+COLBÚN S.A. 
+TER NEHUENCO CC1-TV 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP QUILLECO U2 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP LOS QUILOS U1 
+Bornes de la unidad 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Coordinado 
+Elemento  
+Punto de medida 
+COLBÚN S.A. 
+HP CHIBURGO U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP CHIBURGO U2 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP BLANCO U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+TER CANDELARIA U2 
+Bornes de la unidad 
+COLBÚN S.A. 
+TER CANDELARIA U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+TER NEHUENCO 9B U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP LOS QUILOS U2 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP LOS QUILOS U3 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP JUNCALITO U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP CHACABUQUITO U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP CHACABUQUITO U2 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP CHACABUQUITO U3 
+Bornes de la unidad 
+COLBÚN S.A. 
+HP CHACABUQUITO U4 
+Bornes de la unidad 
+COLBÚN S.A. 
+TER SANTA MARIA U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+TER LOS PINOS U1 
+Bornes de la unidad 
+COLBÚN S.A. 
+PFV MACHICURA 
+En punto de control PPC 
+COLBÚN S.A. 
+BESS CHACA 
+Punto de control del BESS 
+COLBÚN S.A. 
+HP HORNITOS U1 
+Bornes de la unidad 
+ELÉCTRICA NUEVA ENERGÍA S.A. 
+TER ESCUADRON U1 
+Bornes de la unidad 
+ELÉCTRICA NUEVA ENERGÍA S.A. 
+TER ESCUADRON U2 
+Bornes de la unidad 
+EMPRESA ELÉCTRICA CIPRES SPA 
+PFV LOS NARANJOS 
+En punto de control PPC 
+EMPRESA ELÉCTRICA RAULI SPA 
+PFV RAULI 
+En punto de control PPC 
+EMPRESA ELÉCTRICA VALLENAR S.A. 
+TER MAITENCILLO 
+Bornes de la unidad 
+ENERGÍA CERRO EL MORADO S.A. 
+PFV DOÑA CARMEN SOLAR 
+En punto de control PPC 
+ENERGÍAS UCUQUER DOS S.A. 
+PE UCUQUER II 
+En punto de control PPC 
+ENGIE ENERGÍA CHILE S.A. 
+TER MEJILLONES CTM3-TV 
+Bornes de la unidad 
+ENGIE ENERGÍA CHILE S.A. 
+HP CHAPIQUIÑA U1 
+Bornes de la unidad 
+ENGIE ENERGÍA CHILE S.A. 
+BESS CAPRICORNIO 
+Punto de control del BESS 
+ENGIE ENERGÍA CHILE S.A. 
+BESS TAMAYA SOLAR 
+Punto de control del BESS 
+ENGIE ENERGÍA CHILE S.A. 
+PFV CAPRICORNIO U1 
+En punto de control PPC 
+EÓLICA MONTE REDONDO SPA 
+HP LAJA I U1 
+Bornes de la unidad 
+EÓLICA MONTE REDONDO SPA 
+HP LAJA I U2 
+Bornes de la unidad 
+EÓLICA MONTE REDONDO SPA 
+PE MONTE REDONDO 
+En punto de control PPC 
+EÓLICA LA ESPERANZA S.A. 
+PE LA ESPERANZA 
+En punto de control PPC 
+GR LIUN SPA 
+PFV TAMANGO 
+En punto de control PPC 
+GUACOLDA ENERGÍA SPA 
+TER GUACOLDA U1 
+Bornes de la unidad 
+GUACOLDA ENERGÍA SPA 
+TER GUACOLDA U2 
+Bornes de la unidad 
+GUACOLDA ENERGÍA SPA 
+TER GUACOLDA U3 
+Bornes de la unidad 
+GUACOLDA ENERGÍA SPA 
+TER GUACOLDA U4 
+Bornes de la unidad 
+GUACOLDA ENERGÍA SPA 
+TER GUACOLDA U5 
+Bornes de la unidad 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Coordinado 
+Elemento  
+Punto de medida 
+HIDROELÉCTRICA RÍO LIRCAY S.A. 
+HP LIRCAY U1 y U2 
+Bornes de la unidad 
+HIDROELÉCTRICA RÍO LIRCAY S.A. 
+HP PROVIDENCIA U1 y U2 
+Bornes de la unidad 
+INNERGEX ENERGÍA RENOVABLE SPA 
+HP GUAYACAN U1 
+Bornes de la unidad 
+INNERGEX ENERGÍA RENOVABLE SPA 
+HP GUAYACAN U2 
+Bornes de la unidad 
+INTERCHILE S.A. 
+NUEVA CARDONES - NUEVA 
+MAITENCILLO 500KV C2 
+K5/K6 DE SE NUEVA 
+CARDONES 
+INTERCHILE S.A. 
+NUEVA CARDONES - NUEVA 
+MAITENCILLO 500KV C1 
+K11/K12 DE SE NUEVA 
+MAITENCILLO 
+INTERCHILE S.A. 
+NUEVA CARDONES - NUEVA 
+MAITENCILLO 500KV C2 
+K8/K9 DE SE NUEVA 
+MAITENCILLO 
+INTERCHILE S.A. 
+NUEVA MAITENCILLO - 
+NUEVA PAN DE AZUCAR 
+500KV C1 
+K10/K11 DE SE NUEVA 
+MAITENCILLO 
+INTERCHILE S.A. 
+NUEVA MAITENCILLO - 
+NUEVA PAN DE AZUCAR 
+500KV C1 
+K8/K9 DE SE NUEVA PAN 
+DE AZÚCAR 
+INTERCHILE S.A. 
+NUEVA MAITENCILLO - 
+NUEVA PAN DE AZUCAR 
+500KV C2 
+K11/K12 DE SE NUEVA PAN 
+DE AZÚCAR 
+INTERCHILE S.A. 
+NUEVA PAN DE AZUCAR - 
+POLPAICO (TRANSELEC) 
+500KV C2 
+K10/K11 DE SE NUEVA PAN 
+DE AZÚCAR 
+INTERCHILE S.A. 
+NUEVA PAN DE AZUCAR - 
+POLPAICO (TRANSELEC) 
+500KV C1 
+K3 DE SE POLPAICO 
+INTERCHILE S.A. 
+NUEVA PAN DE AZUCAR - 
+POLPAICO (TRANSELEC) 
+500KV C2 
+K4 DE SE POLPAICO 
+MANTOS COPPER S.A. 
+TER MANTOS BLANCOS 
+Bornes de la unidad 
+PACIFIC HYDRO PUNTA SIERRA SPA 
+PE PUNTA SIERRA + BESS 
+PUNTA SIERRA 
+En punto de control PPC 
+PARQUE EÓLICO EL ARRAYÁN SPA 
+PE EL ARRAYAN 
+Paño JT1 de SE El Arrayán 
+RÍO ALTO SPA 
+PE SAN PEDRO II 
+En punto de control PPC 
+SOLAR LOS LOROS SPA 
+PFV LOS LOROS 
+En punto de control PPC 
+SONNEDIX COX ENERGY CHILE SPA 
+PFV MESETA DE LOS ANDES 
+Lado AT del transformador 
+elevador del parque 
+VIENTOS DE RENAICO SPA 
+PE LA FLOR 
+En punto de control PPC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lista de Distribución 
+ 
+Acciona Energía Chile Holdings S.A. 
+Aela Generación S.A. 
+Alba SpA 
+Centella Transmisión S.A. 
+Centella Transmisión S.A./Interchile S.A. 
+Colbún S.A. 
+Eléctrica Nueva Energía S.A. 
+Empresa Eléctrica Ciprés SpA 
+Empresa Eléctrica Rauli SpA 
+Empresa Eléctrica Vallenar S.A. 
+Energía Cerro El Morado S.A. 
+Energías Ucuquer Dos S.A. 
+Engie Energía Chile S.A. 
+Eólica La Esperanza S.A. 
+Eólica Monte Redondo SpA 
+GR Liun SpA 
+Guacolda Energía SpA 
+Hidroeléctrica Río Lircay S.A. 
+Innergex Energía Renovable SpA 
+Interchile S.A. 
+Mantos Copper S.A. 
+Pacific Hydro Punta Sierra SpA 
+Parque Eólico El Arrayán SpA 
+Río Alto SpA 
+Solar Los Loros SpA 
+Sonnedix Cox Energy Chile SpA 
+Vientos de Renaico SpA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

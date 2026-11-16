@@ -1,0 +1,84 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLY & ENERGY MANAGEMENT 
+ 
+Santiago, 17 de marzo de 2026 
+ENGIE N°062/2026
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Informa nueva fecha de ejecución de 
+pruebas de verificación de servicios complementarios 
+de equipos de vinculación de paño H1 de S/E 
+Antofagasta. 
+Ref.: 
+[1] Carta ENGIE N°180/2025 del 25 de junio de 2025.
+[2] Carta Coordinador DE04367-25 del 18 de julio de 
+2025.  
+[3] Carta ENGIE N°227/2025 del 8 de agosto de 2025.
+[4] Carta Coordinador DE06219-25 del 06 de octubre 
+de 2025. 
+[5] Carta ENGIE N°304/2025 del 23 de octubre de 
+2025. 
+[6] Carta Coordinador DE06927-25, del 30 de octubre 
+de 2025. 
+[7] Carta Coordinador DE00984-26, del 10 de febrero 
+de 2026. 
+[8] Carta ENGIE N°044/2026, del 04 de marzo de 
+2026. 
+ 
+De nuestra consideración, 
+ 
+En relación con la carta de la referencia [7], mediante la cual el Coordinador Eléctrico Nacional aprueba los 
+Protocolos para los Ensayos de Verificación de los Servicios Complementarios de Equipos de Vinculación de S/E 
+Antofagasta paño H1, y la carta de referencia [8] mediante el cual se Engie Energía Chile S.A informo fecha de 
+ejecución de pruebas para el 18 de marzo, informamos que Engie Energía Chile S.A. ha reprogramado la ejecución 
+de las correspondientes pruebas de verificación para los días 31 de Marzo y 01 de Abril de 2026, por motivos 
+incompatible con DI2026016033 correspondiente a la desconexión del transformador 220/110 kV de S/E 
+Capricornio. 
+ 
+Las actividades serán realizadas considerando las siguientes solicitudes ingresadas al Sistema Neomante:  
+• DI2026026333  
+• DI2026026334  
+• DI2026026335 
+• DI2026026336 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Una vez ejecutados los ensayos, Engie Energía Chile S.A. remitirá al Coordinador el Informe Técnico con los 
+resultados de las pruebas, en cumplimiento de lo establecido en el Anexo Técnico “Verificación de Instalaciones 
+para la prestación de SSCC” de la Norma Técnica de Servicios Complementarios y en el Instructivo Técnico para la 
+Verificación de Instalaciones para la prestación de SSCC. 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+ 
+ 
+Juan Muñoz  
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+  

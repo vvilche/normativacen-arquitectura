@@ -1,0 +1,56 @@
+ 
+Santiago, 06 de julio de 2026 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Ref.: Solicitud Prorroga entrega Plan de Trabajo 
+para la Verificación de CSF. 
+[1] Carta DE03429-26 Proceso de Verificación del 
+Servicio 
+Complementario 
+(SC) 
+de 
+Control 
+Secundario 
+de 
+Frecuencia 
+(CSF-AGC) 
+e 
+incorporación a la herramienta de despacho 
+económico (ED). 
+[2] Carta DE05507-26 de COPEC Renovables SpA, 
+de fecha 12 de junio de 2026, informa estado de 
+implementación e integración AGC/SITR de PFV 
+Granja Solar. 
+De nuestra consideración: 
+Junto con saludar, y a modo de complementar nuestra respuesta de la comunicación [2] DE05507-
+26 de fecha 12 de junio de 2026, mediante la cual indicamos el estado de implementación de enlaces 
+y señales requeridas para la integración al SITR/AGC y el cronograma de actividades pendientes para 
+la verificación del Servicio Complementario de Control Secundario de Frecuencia (CSF-AGC) de la 
+central PFV Granja Solar, informamos lo siguiente. 
+Con el objetivo de regularizar y avanzar en el cumplimiento de los requerimientos establecidos por 
+ese Coordinador es que solicitamos nos puedan otorgar una prórroga hasta el 31 de julio de 2026 para 
+poder entregar el cronograma de actividades, junto con las fechas y plazos de los siguientes hitos:  
+i. 
+Enlaces no implementados. 
+ii. 
+Enlaces implementados en instalaciones de su representada. 
+iii. 
+Pruebas punto a punto ejecutadas sobre los enlaces implementados, verificando su 
+integración al SITR del Coordinador —gestionadas con el Departamento SCADA— y la 
+correspondiente recepción de señales. 
+iv. 
+Pruebas funcionales de integración al Despacho Económico vía AGC, programadas con el 
+Coordinador. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Paula Domínguez 
+Encargado Suplente 
+COPEC Renovables SpA 
+77.875.443-6 
+PFV GRANJA SOLAR 

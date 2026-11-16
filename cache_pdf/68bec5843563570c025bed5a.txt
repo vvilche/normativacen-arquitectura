@@ -1,0 +1,43 @@
+ 
+ 
+ 
+GO N° 218/2025 
+Santiago, 05 de septiembre de 2025 
+ 
+Señor  
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ant.:  [1] Carta DE 04978-25, fecha 14 de agosto de 2025, del Coordinador a Colbún, “Solicita 
+ajustar Potencia Base utilizada en el controlador de Frecuencia/Potencia” 
+ 
+Ref.: 
+Confirma modificación de la Potencia Base utilizada en controlador de 
+Frecuencia/Potencia del PFV Diego de Almagro Sur. 
+ 
+De nuestra consideración:  
+ 
+En relación con su carta de Ant. [1], mediante la cual solicita a Colbún S.A. modificar en el 
+controlador de frecuencia del PFV Diego de Almagro Sur el ajuste de la potencia base, al valor de 
+potencia máxima de la unidad de 211,6 MW, conforme lo establece el Artículo 3-17 de la Norma 
+Técnica de Seguridad y Calidad de Servicio (NT de SyCS).  
+ 
+De acuerdo con la instrucción recibida, Colbún S.A. tomó contacto con el fabricante SMA y planificó 
+en conjunto intervenciones sobre el controlador de frecuencia y la realización de ensayos. El trabajo 
+se desarrolló exitosamente el 21 de agosto de 2025, bajo la solicitud de intervención 
+SD Nº2025090746. Las pruebas para demostrar la respuesta esperada del controlador de frecuencia 
+se realizaron posteriormente el 27 de agosto de 2025 bajo la solicitud de intervención 
+SD Nº2025091573. 
+ 
+Se envía adjunto la Minuta Técnica preparada por Colbún con los antecedentes de respaldo que 
+demuestran que la unidad PFV Diego de Almagro Sur presenta un comportamiento y aporte de 
+potencia activa uniforme en todo su rango de operación, cumpliendo la NT de SyCS.  
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+Sebastián Ruiz-Tagle Mena 
+Encargado Titular 
+COLBÚN S.A. 
+Incl.: Lo indicado 

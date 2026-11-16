@@ -1,0 +1,96 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 28 de enero de 2026 
+DE 00571-26 
+Señor 
+Eduardo Verdugo 
+Encargado Titular  
+AES Andes S.A 
+Presente 
+Ref.: Aprueba Protocolos para los Ensayos de 
+Verificación de Control de Frecuencia y Control de 
+Tensión de Central HP Alfalfal. 
+Responde a Ingreso DE00172-26 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en 
+el Artículo 8 del Anexo Técnico “Verificación de Instalaciones para la prestación de 
+SSCC” de la Norma Técnica de Servicios Complementarios (NTSSCC), se han 
+revisado los antecedentes entregados por su representada mediante comunicación 
+de la Ref. [1]. 
+ 
+Al respecto, comunicamos a Ud. que este Coordinador, aprueba los Protocolos para 
+los Ensayos de Verificación de los Servicios Complementarios de Control Primario 
+de Frecuencia (CPF), Control Terciario de Frecuencia (CTF) y Control de Tensión 
+(CT) a prestar por la central HP Alfalfal. 
+ 
+Considerando lo indicado, y con la finalidad de continuar con el proceso de 
+Verificación de Servicios Complementarios, solicito a usted lo siguiente: 
+• Informar a más tardar el 10 de febrero de 2026, al correo que se indica más 
+adelante, la fecha de realización de los ensayos, la cual no podrá ser 
+posterior al 12 de marzo de 2026. 
+• Informar las curvas de carga asociadas a las pruebas según cartas de las 
+Ref. [2] y [3], ingresándolas en la correspondiente solicitud de trabajo del 
+sistema Neomante, con estado operativo “PDO”. Adicionalmente, esta 
+información, debe ser enviada al correo electrónico mencionado más abajo, 
+indicando el N° de aviso de trabajo asociado al sistema Neomante. 
+• En conformidad con el capítulo 5 del “Instructivo Técnico para la Verificación 
+de Instalaciones para la prestación de SSCC”, enviar el Informe Técnico con 
+los resultados de la verificación, en un plazo máximo de 15 días hábiles 
+contados desde que finalizan los ensayos. 
+ 
+Los 
+antecedentes 
+requeridos 
+deberán 
+ser 
+enviados, 
+al 
+correo 
+verificacion.sscc@coordinador.cl, con el asunto “Respuesta carta DE0571-26 – 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Ensayos Verificación SSCC HP Queltehues” cumpliendo con los plazos 
+establecidos precedentemente. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+DIR/PGR/ycl 
+c.c.: 
+Sr. Juan Pablo Kindermann – Encargado Suplente AES Andes S.A 
+ 
+ 
+Referencias: 
+[1] Carta 0006-AES-26 del coordinado AES Andes S.A., Ref.: “Envío de protocolos de 
+verificación de Servicios Complementarios - Central Alfalfal”, de fecha 07 de enero de 2026. 
+Ingreso DE00172-26. 
+[2] Carta DE05925-24, Ref.: “Modificación al ingreso de solicitudes de pruebas de centrales 
+generadoras en plataforma Neomante”, de fecha 11 de noviembre de 2024. 
+[3] Carta DE05995-25, Ref.: “Adecuaciones funcionales a la Plataforma de Solicitudes de 
+Trabajo del Coordinador Eléctrico Nacional.”, de fecha 24 de septiembre de 2025. 
+ 
+ 
+ 
+ 
+ 

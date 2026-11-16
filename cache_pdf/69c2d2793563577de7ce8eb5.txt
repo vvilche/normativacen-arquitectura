@@ -1,0 +1,216 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 24 de marzo de 2026 
+DE 01906-26 
+Señor 
+Eduardo Verdugo 
+ 
+Encargado Titular 
+Andes Solar SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Control Secundario de Frecuencia e integración 
+al Despacho Económico de la Central PFV 
+Andes Solar. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), ha finalizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+automático del GMS/SCADA de la Central PFV Andes Solar.  
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario a partir de las 00:00 del día 26 de marzo de 2026. 
+ 
+Por otra parte, para efectos de elaborar el correspondiente Informe Técnico de Verificación 
+según lo establecido en la Guía de Verificación de Control de Frecuencia, le solicito envíe 
+a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 24 de abril de 
+2026, la siguiente información asociada al parque: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99,95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+ 
+El reporte técnico que justifica la verificación de la capacidad de la prestación del SC de 
+CSF de la central PFV Andes Solar se encuentra publicado en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Secundario de Frecuencia > Central PFV Andes Solar 
+ 
+Dado lo anterior, para que la central PFV Andes Solar pueda participar de las subastas de 
+CSF, deberá completar el proceso de solicitud de incorporación a la plataforma de subastas. 
+Para ello, su representada deberán presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026) 
+ 
+Sin perjuicio de lo anterior, la central mencionada podrá ser instruida de manera directa por 
+el Coordinador Eléctrico Nacional en la prestación del Control Secundario de Frecuencia. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia puede 
+comunicarse al correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PGR/ycl  
+ 
+C.c.: 
+Sr. Juan Pablo Kindermann – Encargado Suplente Andes Solar SpA 
+DCO/DMAP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central  
+PFV Andes Solar 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV Andes Solar 
+Los siguientes parámetros operacionales corresponden a los disponibles actualmente 
+en la plataforma infotécnica del Coordinador Eléctrico. 
+• 
+Potencia máxima bruta: 21,795 [MW] 
+• 
+Potencia máxima neta: 21,425 [MW] 
+Los siguientes parámetros operacionales fueron aceptados por el Coordinador 
+Eléctrico mediante carta DE00467-21. 
+• 
+Potencia mínima bruta: 0,30 [MW] 
+• 
+Potencia mínima neta: 0,27 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+Para la prestación del SC de Control Secundario de Frecuencia se consideran todos 
+los inversores disponibles en servicio. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado para la central PFV 
+Andes Solar. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Central 
+PFV Andes 
+Solar 
+ 
+Solar 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+4,35 
+ 
+Bajada 
+4,35 
+ 
+Aporte CSF [MW] (1) 
+Subida 
+19,6 
+ 
+Bajada 
+-19,6 
+ 
+Límite de regulación superior [MW]  
+19,87 
+ 
+Límite de regulación inferior [MW] 
+0,27 
+ 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a potencia activa neta en el POI, podrán 
+verse modificados si se actualizan los parámetros operacionales de la central PFV Andes Solar. 

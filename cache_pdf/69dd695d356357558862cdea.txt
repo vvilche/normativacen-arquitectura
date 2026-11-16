@@ -1,0 +1,75 @@
+ 
+Santiago, 13 de abril de 2026. 
+  ACC.ECH.062.26 
+Señor: 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe de Desempeño de Servicios Complementarios – marzo 2026. 
+ 
+De nuestra consideración: 
+ 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de marzo de 2026, que fue publicado en su página web y cuya publicación fue comunicada a 
+través de la carta DE 02297-26 de fecha 08 de abril de 2026. 
+ 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+ 
+Sin otro particular, saluda cordialmente a usted. 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado (S)  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC MARZO 2026 V1 
+Servicio Complementario – CTF 
+Planta PE Tolpán Sur 
+Timestamp 
+Planta 
+Consigna 
+en Planta 
+[MW] 
+Registro 
+en RIO 
+[MW] 
+ 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+24-03-2026 
+13:04:58 
+26 
+-11 
+24-03-2026 
+13:03:00 
+24-03-2026 
+13:32:00 
+Respuesta es evaluada con mal desempeño en C3, pero en 
+simultaneo el parque prestaba el SSCC de CPF. 
+25-03-2026 
+20:34:02 
+15 
+-55 
+25-03-2026 
+20:32:00 
+25-03-2026 
+20:46:00 
+Respuesta es evaluada con mal desempeño en C1, pero en 
+simultaneo el parque prestaba el SSCC de CPF. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

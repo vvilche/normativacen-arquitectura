@@ -1,0 +1,87 @@
+ 
+Chuquicamata, 21 de agosto de 2026  
+Señeres 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Solicitud de aclaración y 
+antecedentes técnicos – Restricción 
+operacional Línea N°22 
+ 
+Mediante el presente solicitamos al Coordinador Eléctrico Nacional una aclaración formal respecto 
+del criterio técnico utilizado para solicitar la apertura de la Línea N°22 (LT 100 kV 10A–KM6) como 
+condición asociada a determinadas intervenciones en el Sistema Eléctrico de Potencia de División 
+Chuquicamata. 
+Esta condición nos genera especial preocupación, considerando que durante los últimos meses 
+hemos recibido esta instrucción en, al menos, dos situaciones distintas: 
+1. Intervención de Línea 6C – mayo de 2026 
+Con motivo de una intervención programada de la Línea 6C, se nos indicó que, para materializar su 
+desconexión, debía mantenerse además abierta la Línea N°22. 
+Frente a esta condición, División Chuquicamata efectuó simulaciones de flujo de potencia para 
+diferentes configuraciones y contingencias del sistema. Los resultados mostraron que mantener 
+simultáneamente fuera de servicio las líneas 6C y 22 reduce significativamente la robustez del 
+sistema y su capacidad para enfrentar contingencias adicionales. 
+En particular, fueron evaluados escenarios incorporando sucesivamente la indisponibilidad de Línea 
+3 y posteriormente de las líneas 6B o 7B, evidenciándose condiciones operacionales 
+considerablemente más restrictivas para el SEP DCH. 
+2. Intervención ATR-1 S/E Chuquicamata – julio de 2026 
+Posteriormente, con motivo de una intervención programada del autotransformador ATR-1 de S/E 
+Chuquicamata, nuevamente se estableció como condición la apertura de la Línea N°22. 
+Para evaluar esta configuración, División Chuquicamata desarrolló nuevos estudios de flujo de 
+potencia considerando las condiciones solicitadas por el CEN. 
+Los análisis muestran que, al considerar fuera de servicio L-3, L-22 y ATR-1, con el anillo del SEP DCH 
+abierto, el ATR-2 queda como elemento encargado de soportar prácticamente la totalidad de la 
+carga asociada a División Chuquicamata. Bajo el escenario analizado, dicho autotransformador —
+con capacidad de 120 MVA— alcanza una carga aproximada de 169 MVA, condición que supera 
+ampliamente su capacidad y que no resulta operacionalmente admisible. 
+En contraste, al mantener el anillo del SEP DCH cerrado, el flujo puede distribuirse entre ATR-2 y 
+ATR-3, reduciendo sustancialmente la exposición frente a la pérdida de uno de estos elementos. 
+Por lo anterior, desde División Chuquicamata no logramos identificar el fundamento técnico que 
+hace recomendable la apertura de la Línea N°22 en estas condiciones. Por el contrario, nuestros 
+
+análisis indican que su apertura disminuye la redundancia del sistema, restringe las alternativas de 
+transferencia de carga y puede generar escenarios en los cuales una contingencia adicional derive 
+en sobrecargas severas y eventualmente en la desenergización de parte importante o de la totalidad 
+de las instalaciones de División Chuquicamata. 
+En consideración a lo anterior, solicitamos al Coordinador informar formalmente: 
+• 
+El criterio técnico y operacional utilizado para determinar la apertura de la Línea N°22. 
+• 
+Los estudios, simulaciones o análisis de contingencias que sustentan dicha condición. 
+• 
+Los parámetros de entrada considerados, particularmente demanda de División 
+Chuquicamata, topología de la red, disponibilidad de líneas y transformadores, 
+capacidades nominales y límites operacionales utilizados. 
+• 
+Las contingencias consideradas en el análisis (N-1, N-2 u otro criterio aplicable) y los límites 
+de seguridad adoptados. 
+• 
+El objetivo sistémico que se busca resguardar mediante la apertura de Línea N°22 y los 
+riesgos que, desde la perspectiva del Coordinador, se producirían en caso de mantenerla 
+en servicio. 
+Para División Chuquicamata este antecedente es fundamental, debido a que somos responsables 
+de resguardar la continuidad y seguridad operacional de nuestro sistema eléctrico y de procesos 
+productivos de alta criticidad. 
+En función de los estudios efectuados hasta ahora, nuestra posición técnica es que no resulta 
+aceptable efectuar la apertura de la Línea N°22 bajo las condiciones señaladas, mientras no se 
+cuente con antecedentes técnicos que demuestren que dicha configuración mantiene niveles 
+adecuados de seguridad, confiabilidad y capacidad de respuesta frente a contingencias. 
+Nuestro interés es comprender y conciliar los criterios utilizados por el Coordinador con las 
+restricciones y características reales de nuestro sistema, de manera de establecer una configuración 
+operacional que resguarde tanto la seguridad del Sistema Eléctrico Nacional como la continuidad y 
+confiabilidad del SEP de División Chuquicamata. 
+Se adjuntan como antecedentes los análisis y simulaciones efectuados por División Chuquicamata 
+para ambas condiciones. 
+Agradecemos desde ya su revisión y solicitamos su pronunciamiento respecto de los antecedentes 
+señalados. 
+Atentamente, 
+ 
+ 
+ 
+ 
+ 
+Javier Jara Garrido 
+Ingeniero Experto 
+“Encargado CEN Suplente División 
+Chuquicamata” 
+ 

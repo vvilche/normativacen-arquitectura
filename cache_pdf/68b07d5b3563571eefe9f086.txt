@@ -1,0 +1,177 @@
+ 
+Nala Renewables Limited - Chile 
+Isidora Goyenechea 2800, Floor 9, Office 901 
+www.nalarenewables.com 
+SNC-2025-L-010 
+Tortuga Solar SpA 
+ 
+Isidora Goyenechea 2800 
+Oficina 901, Piso 9 
+Las Condes, Santiago 
+Chile 
+ 
+Privado y Confidencial 
+Vía email 
+ 
+Señor, 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+P R E S E N T E 
+27 de Agosto de 2025 
+ 
+Ref.: Respuesta a carta DE 05203-25 de fecha 22 de agosto de 2025. 
+ 
+ 
+De nuestra consideración, 
+ 
+1. Antecedentes 
+ 
+Hemos recibido su carta DE 05203-25, de fecha 22 de agosto de 2025, en la cual se 
+indica que la información remitida por Tortuga Solar SpA propietaria del proyecto 
+denominado PMGD PFV TORTUGA SOLAR (San Carlos) en respuesta a los oficios DE 
+02420-25 (05.05.2025) y DE 02294-25 (15.04.2025) habría sido parcial o insuficiente 
+para verificar el cumplimiento de los artículos 7-29 y 7-30 de la NTCO-PMGD. 
+ 
+En relación con ello, cabe precisar que la información solicitada sobre los ajustes de 
+los inversores (VRT y FRT) fue entregada oportunamente, según consta en los correos 
+electrónicos remitidos con fecha 9 de mayo de 2025 a RT_PMGD@coordinador.cl, las 
+cuales se adjuntan a la presente comunicación. 
+ 
+2. Alcance normativo 
+ 
+La NTCO-PMGD (febrero 2024) establece en sus artículos 7-29 y 7-30 los requisitos de 
+protecciones de tensión y frecuencia en el punto de conexión. Dichos artículos regulan 
+umbrales y tiempos de actuación de protecciones en la interfaz con la red, mas no 
+contemplan como requisito habilitante para la puesta en servicio ni para la operación 
+la entrega de parámetros internos de los inversores. 
+ 
+Por su parte, el artículo 5 del DS 88/2019 impone un deber genérico de entregar al 
+Coordinador la información que este requiera, lo cual reconocemos y cumplimos. Sin 
+embargo, debe distinguirse entre dicha obligación de información y los requisitos 
+habilitantes de operación establecidos en la NTCO. 
+ 
+ 
+Docusign Envelope ID: D5C542CA-0A0E-4FF1-A1B6-B68F9B4A27F3
+
+ 
+Nala Renewables Limited - Chile 
+Isidora Goyenechea 2800, Floor 9, Office 901 
+www.nalarenewables.com 
+3. Facultades del Coordinador 
+ 
+De conformidad con el artículo 102 del DS 88/2019, el Coordinador solo se encuentra 
+facultado para limitar las inyecciones de un PMGD en caso de que el incumplimiento 
+de las exigencias normativas configure una condición de riesgo para la seguridad del 
+servicio, o bien cuando la ausencia de información esencial haga imposible verificar el 
+cumplimiento de dichas exigencias. Esta disposición, al tratarse de una potestad 
+excepcional que restringe derechos de inyección reconocidos por la Ley General de 
+Servicios Eléctricos, debe ser interpretada en forma restrictiva y sujeta a los principios 
+de legalidad y proporcionalidad. 
+ 
+En el presente caso: 
+ 
+1. 
+No existe incumplimiento objetivo de la NTCO-PMGD, pues los artículos 7-29 y 
+7-30 refieren a protecciones en el punto de conexión, las cuales estuvieron a 
+la vista del CEN durante el proceso de conexión a través del Formulario 21 de 
+la empresa distribuidora y respecto de las cuales se han iniciado gestiones de 
+verificación y actualización, conforme a lo exigido. 
+ 
+2. No existe ausencia de información esencial, ya que la planilla Excel con los 
+ajustes de los inversores fue oportunamente entregada y los parámetros 
+relevantes a nivel de conexión se encuentran disponibles para revisión. 
+ 
+3. La medida de limitación de inyecciones, en consecuencia, carecería de 
+fundamento normativo y técnico, resultando desproporcionado respecto del 
+objetivo de seguridad que busca cautelar el Coordinador. 
+ 
+Por lo anterior, concluimos que no concurren los presupuestos habilitantes del artículo 
+102 del DS 88/2019, de modo que una restricción de inyecciones en estas 
+circunstancias constituiría una aplicación indebida de dicha facultad, afectando 
+injustificadamente la operación de instalaciones que se encuentran en cumplimiento 
+normativo. 
+ 
+4. Gestiones en curso 
+ 
+Con todo, se han iniciado gestiones para: 
+• 
+Verificar la congruencia entre los parámetros de los inversores y los ajustes de 
+las protecciones de conexión. 
+• 
+Contratar un servicio externo especializado para la revisión y eventual 
+actualización de dichos ajustes. 
+ 
+5. Solicitud de prórroga 
+ 
+Atendida la complejidad técnica y contractual de estas gestiones, el plazo otorgado 
+hasta el 29 de agosto de 2025 resulta materialmente inviable. Solicitamos se conceda 
+una prórroga de 60 días hábiles para la entrega de la información complementaria y 
+respaldos solicitados. 
+ 
+ 
+ 
+ 
+ 
+Docusign Envelope ID: D5C542CA-0A0E-4FF1-A1B6-B68F9B4A27F3
+
+ 
+Nala Renewables Limited - Chile 
+Isidora Goyenechea 2800, Floor 9, Office 901 
+www.nalarenewables.com 
+6. Petición concreta 
+ 
+En mérito de lo expuesto, solicitamos: 
+ 
+(i) Tener por entregada la información remitida en respuesta a los oficios 
+anteriores. 
+(ii) Considerar las gestiones en curso de verificación y actualización. 
+(iii) Conceder prórroga de 60 días hábiles. 
+(iv) Abstenerse de aplicar la medida de limitación de inyecciones del art. 102 DS 
+88/2019, por no concurrir sus presupuestos. 
+ 
+ 
+Sin otro particular, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pp. Tortuga Solar SpA 
+ 
+pp. Tortuga Solar SpA 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Se adjunta: Correos electrónicos remitidos con fecha 9 de mayo de 2025 a 
+RT_PMGD@coordinador.cl 
+ 
+Docusign Envelope ID: D5C542CA-0A0E-4FF1-A1B6-B68F9B4A27F3

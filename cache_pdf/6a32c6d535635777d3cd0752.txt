@@ -1,0 +1,101 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLY & ENERGY MANAGEMENT 
+ 
+Santiago, 16 de junio de 2026 
+ENGIE N°194/2026
+ 
+Señor 
+Patricio Valenzuela V.  
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: 
+Respuesta 
+a 
+carta 
+DE03776-26: 
+“Desempeño deficiente en la prestación de los 
+Servicios Complementarios de Control Primario de 
+Frecuencia, Control Terciario de Frecuencia y Control 
+de Tensión de unidades generadoras en abril 2026.” 
+Ref.:  
+[1] Carta DE03776-26 del Coordinador Eléctrico 
+Nacional, del 4 de junio de 2026. 
+ 
+De nuestra consideración, 
+ 
+En respuesta a su carta en Ref. [1], asociada a la prestación deficiente de los Servicios Complementarios de Control 
+Primario de Frecuencia (CPF) y Control Terciario de Frecuencia (CTF) durante el mes de abril de 2026 por parte de 
+las instalaciones PE Kallpa, PE Monte Redondo y TER Andina, informamos lo siguiente: 
+ 
+PE Kallpa: 
+• La causa raíz del incumplimiento corresponde a una configuración errónea en el servidor de respaldo del 
+PPC, específicamente asociada a la activación del modo de control de frecuencia. 
+• Una vez identificado el comportamiento anómalo del parque, se ejecutaron trabajos correctivos para 
+normalizar el servidor de respaldo, replicando la configuración del servidor principal. Tras la normalización, se 
+llevaron a cabo pruebas de escalones de frecuencia de ±0,2 Hz bajo la SODI N°39 - 2026. Dichas pruebas 
+corroboraron la correcta respuesta del parque con ambos servidores, con lo cual se subsanó la deficiencia en 
+la prestación del control primario de frecuencia. 
+• Se adjunta a esta comunicación el informe de causa raíz correspondiente a esta falencia. Dicho documento 
+incluye el diagnóstico, la descripción del problema, las acciones correctivas aplicadas, el respaldo de las 
+pruebas realizadas y la evidencia de la correcta respuesta del parque. 
+ 
+PE Monte Redondo: 
+• El desempeño deficiente del control terciario de frecuencia obedece a un comportamiento anómalo sin 
+precedentes, y actualmente se encuentra bajo análisis del fabricante del sistema de control. Por este motivo, 
+se ha planificado la ejecución de actividades correctivas enfocadas en normalizar la prestación de este 
+servicio por parte del parque. A continuación, se presenta el cronograma de actividades a realizar: 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TER Andina: 
+• Los antecedentes asociados a la central TER Andina serán enviados a más tardar el viernes 19 de junio de 
+2026. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Juan Muñoz  
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 
+Ítem
+Nombre de la tarea
+Fecha Inicio
+Fecha Fin
+1
+Levantamiento de situación actual
+08-06-2026
+16-06-2026
+2
+Acciones correctivas a implementar
+17-06-2026
+25-06-2026
+3
+Pruebas de normalización
+26-06-2026
+03-06-2026
+4
+Finalización de la normalización
+04-07-2026
+04-07-2026

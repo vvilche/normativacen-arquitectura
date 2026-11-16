@@ -1,0 +1,206 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 29 de mayo de 2026 
+DE 03642-26 
+ 
+Señor 
+Ronny Muñoz 
+Encargado Titular 
+Hidroeléctrica San Andrés SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+de las unidades HP San Andrés U1 y U2. 
+ 
+[1] Carta HSA-202 de Hidroeléctrica San Andrés SpA, 
+Ref.: “Ingreso de Informe de Control de Tensión HSA”, 
+de fecha 25 de mayo de 2026. 
+Responde a Ingreso: DE04932-26. 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado 
+el proceso de verificación del Servicio Complementario (SC) de Control de Tensión (CT) de 
+las unidades U1 y U2 de central HP San Andrés. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario a partir de las 00:00 del 04 de junio de 2026 
+considerando los recursos indicados en el anexo de la presente carta. 
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información solicitada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de 
+prestación del CT de las unidades 1 y 2 de central HP San Andrés se encuentra publicado 
+en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > Central HP San Andrés 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+CRV/WJS/ycl 
+c.c.:  
+Sr. Jorge Zarate – Encargado Suplente Hidroeléctrica San Andrés SpA. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central HP San Andrés 
+1. 
+Identificación de las Instalaciones Verificadas: 
+A continuación, se presentan los parámetros operacionales de central HP San Andrés. A la 
+fecha de emisión de la presente carta de verificación de SSCC, los valores de potencia 
+máxima se encuentran aceptados por el Coordinador Eléctrico, mientras que los valores de 
+potencia mínima se encuentran en proceso de aceptación por parte de éste. 
+a) Central HP San Andrés, unidad 1: 
+• 
+Potencia máxima bruta: 21,736 [MW]  
+• 
+Potencia máxima neta: 21,432 [MW]  
+• 
+Potencia mínima bruta: 0,700 [MW]  
+• 
+Potencia mínima neta: 0,566 [MW]  
+b) Central HP San Andrés, unidad 2: 
+• 
+Potencia máxima bruta: 22,427 [MW]  
+• 
+Potencia máxima neta: 22,111 [MW]  
+• 
+Potencia mínima bruta: 1,285 [MW]  
+• 
+Potencia mínima neta: 1,149 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión: 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte de Hidroeléctrica San Andrés SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en las páginas siguientes.
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+a) Control de Tensión – HP San Andrés unidad 1 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de Tensión 
+Instalación 
+Recurso 
+Primario 
+  
+Tensión [pu] 
+Potencia Reactiva [MVAr]  
+Potencia [MW]   
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+Central HP 
+San Andrés  
+Unidad 1 
+Hidráulica 
+de Pasada 
+0,7 
+-6,25 -6,61 -6,97 -7,32 -7,68 
+8,38 
+-4,62 -4,97 -5,68 -5,68 -6,04 
+14,26 
+-3,38 -3,73 -4,73 -4,44 -4,80 
+21,73 
+-1,79 -2,15 -3,79 -2,87 -3,22 
+21,73 
+6,00 
+6,66 
+7,17 
+7,84 
+7,85 
+14,26 
+9,94 10,37 10,68 10,80 10,94 
+8,38 
+11,76 12,08 12,30 12,47 12,41 
+0,7 
+12,68 12,96 13,11 13,40 13,16 
+b) Control de Tensión – HP San Andrés unidad 2 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de Tensión 
+Instalación 
+Recurso 
+Primario 
+  
+Tensión [pu] 
+Potencia Reactiva [MVAr]  
+Potencia [MW]   
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+Central HP San 
+Andrés Unidad 
+2 
+Hidráulica 
+de Pasada 
+1,28 
+-6,13 -6,49 -6,79 -7,20 -7,68 
+8,38 
+-4,62 -4,97 -5,64 -5,68 -6,04 
+14,26 
+-3,38 -3,73 -4,66 -4,44 -4,80 
+22,42 
+-1,65 -2,00 -3,76 -2,72 -3,07 
+22,42 
+5,67 
+6,23 
+6,78 
+7,40 
+7,48 
+14,26 
+9,94 10,37 10,68 10,80 10,94 
+8,38 
+11,76 12,08 12,30 12,81 12,41 
+1,28 
+12,66 12,94 13,11 13,46 13,16 
+ 

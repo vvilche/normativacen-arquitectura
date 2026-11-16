@@ -1,0 +1,206 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 15 de enero de 2025 
+DE 00294-25 
+ 
+ 
+Señora 
+Carolina Vélez 
+Encargado Titular 
+GM Holdings S.A. 
+Presente 
+ 
+ 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Terciario de Frecuencia de la Central PFV CEME 1. 
+[1] Carta GMH N°2024- 267, Ref.: “Envío informe de 
+Verificación de SSCC PFV CEME 1” de fecha 24 de 
+diciembre de 2024. Ingreso: DE07464-24. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control Terciario 
+de Frecuencia (CTF) de la Central PFV CEME 1.  
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio a partir de las 00:00 del 16 de enero de 2025 considerando los 
+recursos indicados en el anexo de la presente carta.  
+ 
+En anexo de la presente comunicación se presenta la información indicada en el artículo 4-
+16 de la NT-SSCC con respecto a los resultados del proceso de verificación de SSCC, 
+mientras que el informe técnico que justifica la verificación de la capacidad de la prestación 
+del CTF de central PFV CEME 1 se encuentra publicado en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central PFV CEME 1 
+ 
+Finalmente, Central PFV CEME 1 podrá participar de las subastas de CTF una vez que 
+complete el proceso de solicitud de incorporación a la plataforma de subastas. Para ello, su 
+representada deberá presentar los antecedentes indicados en las Bases Administrativas de 
+Subastas para Control de Frecuencia, que se encuentran publicadas en la siguiente ruta de 
+la página web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse con el correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+JKH/CRV/WJS/adr 
+c.c.: Empresas Coordinadas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central PFV CEME 1 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV CEME 1 (Potencia máxima neta 401,106 [MW]) 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de  
+SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Terciario 
+de Frecuencia  
+Control Terciario de Frecuencia 
+por Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia 
+por Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+Sin condiciones especificas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado GM Holdings S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+PFV CEME 1 
+Solar 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+39,430 
+Bajada 
+39,430 
+Tasa máxima de operación 
+[MW/min] 
+Subida 
+76 
+Bajada 
+76 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<1 
+Bajada 
+<1 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Aporte CTF [MW] (1) 
+Subida 
+397,689 
+Bajada 
+-397,689 
+Límite de regulación superior [MW] (1) 
+401,106 
+Límite de regulación inferior [MW] (1) 
+3,417 
+(1) Los límites de regulación y el aporte máximo de CTF podrán verse modificados si se actualizan los parámetros 
+operacionales de la central PFV CEME 1 
+ 
+ 

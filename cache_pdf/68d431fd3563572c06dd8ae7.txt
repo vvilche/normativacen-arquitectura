@@ -1,0 +1,85 @@
+ 
+ 
+ 
+ 
+ 
+ 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 23 de septiembre de 2025 
+ENGIE N°281/2025
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Respuesta a Carta DE 05665-25. Aprueba 
+Protocolos para los Ensayos de Verificación de 
+Control de Frecuencia y Control de Tensión del BESS 
+PFV Coya. 
+De nuestra consideración, 
+ 
+En relación con la comunicación del asunto, respecto a los Protocolos para los Ensayos de Verificación de Control 
+de Frecuencia y Control de Tensión del BESS PFV Coya, informamos lo siguiente: 
+ 
+• 
+La planta Coya opera bajo una configuración “DC Coupling”, en la que el sistema fotovoltaico (PV) y el 
+sistema de almacenamiento en baterías (BESS) comparten un único inversor. En estas condiciones, el 
+diseño debe contemplar simultáneamente la capacidad de carga de las baterías y la reserva de potencia 
+necesaria para la prestación de los servicios complementarios de Control Primario de Frecuencia (CPF) y 
+Control Secundario de Frecuencia (CSF). Este esquema difiere de una configuración en que PV y BESS 
+operan como unidades separadas, y se está trabajando en un desarrollo específico para implementar en el 
+Power Plant Controller (PPC). 
+• 
+En este contexto, la ejecución de los ensayos solicitados requiere previamente un período de desarrollo de 
+ingeniería, pruebas e implementación, dado que resulta indispensable: 
+o 
+Estabilizar el balance de carga de las baterías. 
+o 
+Completar la implementación integral del PPC, que considere tanto el Control Primario de 
+Frecuencia (CPF) como el Control Secundario de Frecuencia (CSF). 
+ 
+Estas actividades se encuentran actualmente en curso, con soporte directo de los fabricantes Sungrow y GPM. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Considerando lo anterior, se solicita un plazo de seis meses para completar las implementaciones señaladas. Al 
+momento de la implementación de los cambios, le informaremos con el fin de coordinar la ejecución de los ensayos, 
+junto con el envío de los antecedentes técnicos complementarios exigidos, en conformidad con lo establecido en la 
+Norma Técnica de Servicios Complementarios y en el Instructivo Técnico de Verificación. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Pablo Jorquera Riquelme 
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 
+ 

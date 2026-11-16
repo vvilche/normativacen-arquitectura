@@ -1,0 +1,206 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 12 de enero de 2026 
+DE 00202-26 
+Señora 
+Verónica Bustos 
+Encargado Titular 
+Generadora Antilhue SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Terciario de 
+Frecuencia de las unidades 1 y 2 de central TER 
+Antilhue. 
+[1] Carta EFC-2025-00200 de Generadora Antilhue 
+SpA, “Respuesta a carta DE06512-25. Observaciones 
+a Informes Técnicos de Verificación de SS.CC. de las 
+unidades 1 y 2 de Central TER Antilhue”, recibida el 11 
+de noviembre de 2025. 
+Responde a Ingreso: DE11353-25. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviado por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Terciario de Frecuencia (CTF) de las unidades 1 y 2 de central TER Antilhue. 
+ 
+Como resultado de este proceso, las unidades mencionadas quedan habilitadas para la 
+prestación del mencionado servicio complementario a partir de las 00:00 del 15 de enero 
+de 2026, considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CTF de las unidades mencionadas se encuentran publicados en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central TER Antilhue 
+ 
+Finalmente, las unidades mencionadas podrán participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Sin perjuicio de lo anterior, sus unidades podrán ser instruidas de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del Control Terciario de Frecuencia. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse al correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/WJS/adr 
+Sr. Cristian Sanhueza – Encargado Suplente Generadora Antilhue SpA. 
+ 
+ 
+ 
+
+ 
+1 para la estimación del valor de la potencia mínima neta, se consideran los consumos propios de las unidades de central 
+TER Antilhue, correspondientes a 1,62% y 1,55 % para las unidades 1 y 2, respectivamente. Estos valores se obtienen desde 
+la plataforma Infotécnica del Coordinador. 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central TER Antilhue 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) TER Antilhue Unidad 1 
+• 
+Potencia máxima bruta: 47,198 [MW] 
+• 
+Potencia máxima neta: 46,432 [MW] 
+• 
+Potencia mínima bruta: 25 [MW] 
+• 
+Potencia mínima neta1: 24,595 [MW] 
+b) TER Antilhue Unidad 2 
+• 
+Potencia máxima bruta: 48,725 [MW] 
+• 
+Potencia máxima neta: 47,971 [MW] 
+• 
+Potencia mínima bruta: 25 [MW] 
+• 
+Potencia mínima neta1: 24,612 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia: 
+La rampa de toma y bajada de carga de las unidades U1 y U2 se encuentra fija en 10 
+MW/min, sin posibilidad de ser modificada por el operador de la central. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Generadora Antilhue 
+SpA. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Instalación Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+Central TER 
+Antilhue 
+Diésel 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+10 
+11,5 
+Bajada 
+10 
+10 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+10 
+11,5 
+Bajada 
+10 
+10 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+<5 
+Bajada 
+<5 
+<5 
+Aporte CTF [MW] (2) 
+Subida 
+21,837 
+23,359 
+Bajada 
+-21,837 
+-23,359 
+Límite de regulación superior [MW] (3) 
+47,198 
+48,725 
+Límite de regulación inferior [MW] (3) 
+25 
+25 
+(1) Tasa de subida y bajada de carga fija, sin posibilidad de ser ajustada. 
+(2) La reserva se determina como la diferencia entre las potencias netas máxima y mínima de cada una de las unidades. 
+Para la Unidad 1, estos valores corresponden a 46,432 [MW] y 24,595 [MW], respectivamente, mientras que para la 
+Unidad 2 corresponden a 47,971 [MW] y 24,612 [MW], respectivamente. 
+(3) Los límites de regulación, correspondientes a la potencia bruta y el aporte máximo de CTF podrán verse modificados 
+si se actualizan los parámetros operacionales de la central. 
+ 

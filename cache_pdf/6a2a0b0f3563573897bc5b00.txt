@@ -1,0 +1,163 @@
+ 
+Santiago, 10 de junio de 2026 
+ 
+PS 2610 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a carta DE03702-26, "Incumplimiento de Verificación de SSCC y falta de respuesta a 
+requerimientos del Coordinador", de fecha 3 de junio de 2026. 
+[1] Carta DE05006-25, "Comunica atraso en el proceso de Verificación de Instalaciones de Generación para la 
+Prestación de SSCC", del 13 de agosto de 2025. 
+[2] Carta DE01003-26, "Comunica atraso en el proceso de Verificación de Instalaciones de Generación para la 
+Prestación de SSCC", del 11 de febrero de 2026. 
+[3] Carta DE03702-26, "Incumplimiento de Verificación de SSCC y falta de respuesta a requerimientos del 
+Coordinador", del 3 de junio de 2026. 
+De nuestra consideración: 
+ 
+Por medio de la presente, damos respuesta a la carta de la Ref. [3], la cual solicita a nuestra representada 
+informar fundadamente las razones del incumplimiento de la verificación de los Servicios Complementarios 
+(SSCC) de la instalación PFV El Pelícano, así como la falta de respuesta a las comunicaciones previas de las Ref. 
+[1] y [2]. 
+En primer lugar, lamentamos profundamente no haber dado respuesta oportuna a los requerimientos 
+formulados por el Coordinador Eléctrico Nacional mediante las cartas [1] y [2], y estamos realizando las mejoras 
+de procesos necesarias para que esto no suceda nuevamente. En este contexto, queremos comunicar al 
+Coordinador las razones de fondo que han impedido el cumplimiento del cronograma de verificación, así como 
+las acciones concretas que se están adoptando para normalizar la situación. 
+1. Situación de la verificación de CPF y CT — PFV El Pelícano 
+Respecto de la verificación de los servicios complementarios de Control Primario de Frecuencia (CPF) y Control 
+de Tensión (CT) para la instalación PFV El Pelícano,  podemos comentar que, desde la publicación del cronograma 
+definitivo con plazo de julio de 2025, se contrató y trabajó con un asesor técnico externo con el objeto de 
+subsanar las brechas identificadas durante el proceso de verificación. Sin embargo, pese a las múltiples gestiones 
+realizadas dicho asesor no logró resolver las brechas técnicas señaladas por el verificador del proceso, lo que 
+imposibilitó la elaboración y el envío de los protocolos e informes de verificación requeridos. 
+Ante esta situación, Pelícano Solar tomó la decisión de poner término a la relación de trabajo con dicho asesor 
+y está en el proceso de contratación de un nuevo asesor técnico, lo que se espera tener listo durante el mes de 
+Junio. 
+A continuación, se presenta el cronograma de trabajo propuesto para la normalización y verificación definitiva 
+de CPF y CT, con plazo objetivo de cuatro (4) meses contados desde la presente comunicación: 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Hito
+Fecha comprometida
+Responsable
+Contratación de nuevo asesor/experto 
+técnico para proceso de verificación
+30 de junio de 2026
+Pelícano Solar
+Diagnóstico de brechas y revisión de 
+protocolos con nuevo asesor técnico
+31 de julio de 2026
+Pelícano Solar / Nuevo Asesor
+Subsanación de brechas técnicas 
+identificadas (CPF y CT)
+31 de agosto de 2026
+Pelícano Solar / Nuevo Asesor
+Ensayos internos de verificación de CPF y CT 
+al CEN (>=15 días previos a ensayos)
+15 de septiembre de 2026
+Pelícano Solar / Nuevo Asesor 
+/Asesor de Verificación 
+Realización de ensayos CPF y CT
+30 de septiembre de 2026
+Pelícano Solar / Nuevo Asesor
+Envío de informes finales de verificación CPF 
+y CT al CEN
+10 de octubre de 2026
+Pelícano Solar
+Pelícano Solar se compromete a notificar al Coordinador el cumplimiento de cada hito en la fecha 
+comprometida, 
+a 
+través 
+del 
+Sistema 
+de 
+Correspondencia 
+del 
+CEN, 
+con 
+copia 
+al 
+correo 
+verificacion.SSCC@coordinador.cl. 
+2. Situación de la verificación de CSF (AGC) — PFV El Pelícano 
+En relación con la verificación del Servicio Complementario de Control Secundario de Frecuencia (CSF / AGC), 
+Pelícano Solar desea expresar sus disculpas por no haber respondido los requerimientos del Coordinador en los 
+plazos establecidos, pero manifestamos nuestra disposición e interés en dar inicio formal al proceso de 
+verificación del CSF, siguiendo el flujo de actividades establecido en el Anexo 1 de la carta Ref. [2]. No obstante, 
+en la actualidad hemos identificado brechas en la disponibilidad y configuración de señales requeridas para la 
+habilitación del AGC, cuya resolución depende de adecuaciones que deben ser realizadas por el proveedor del 
+sistema SCADA de la instalación. Dichas adecuaciones deben ser completadas previamente para poder dar inicio 
+de manera efectiva al proceso de coordinación con los departamentos del CEN (DCST, SCADA y SITR, y DMAP). 
+En este contexto, se presenta el siguiente plan de trabajo para la verificación del CSF, con un horizonte de cinco 
+a seis (5-6) meses: 
+Hito
+Fecha comprometida
+Responsable
+Adecuaciones de señales y configuraciones 
+con proveedor SCADA; subsanación de 
+brechas identificadas para habilitación del 
+AGC
+31 de julio de 2026
+Pelícano Solar / Proveedor SCADA
+Contacto con Depto. de Confiabilidad y 
+Soporte Técnico (DCST) para definición de 
+listado de señales AGC/CSF
+15 de agosto de 2026
+Pelícano Solar / DCST-CEN
+Pruebas punto a punto de señales con 
+Depto. SCADA y SITR del CEN
+30 de septiembre de 2026
+Pelícano Solar / SCADA-CEN
+Pruebas funcionales CSF y sintonización AGC 
+con Depto. de Modelación y Aplicaciones 
+EMS (DMAP)
+31 de octubre de 2026
+Pelícano Solar / DMAP-CEN
+Realización de ensayos de verificación CSF
+30 de noviembre de 2026
+Pelícano Solar / CEN
+Envío de informe final de verificación 
+CSF/AGC al CEN
+10 de diciembre de 2026
+Pelícano Solar
+Pelícano Solar dará aviso formal al Coordinador al momento de iniciar el contacto con el Departamento de 
+Confiabilidad y Soporte Técnico (DCST), conforme al flujo establecido, y notificará periódicamente el 
+cumplimiento de los hitos comprometidos. 
+
+ 
+Pelícano Solar reitera su compromiso con el cumplimiento de la normativa aplicable en materia de Servicios 
+Complementarios y se pone a disposición del Coordinador para cualquier coordinación adicional que sea 
+necesaria para dar cumplimiento a los planes de trabajo propuestos. 
+Finalmente, proponemos sostener una reunión de trabajo con el Coordinador con el objeto de presentar y 
+explicar en detalle los planes de trabajo expuestos en la presente comunicación, y coordinar los pasos a seguir. 
+Para ello, se sugieren las siguientes alternativas: 
+• 
+Viernes 12 de junio de 2026, a las 11:00 horas. 
+• 
+Lunes 15 de junio de 2026, a las 15:30 horas. 
+Quedamos atentos a la confirmación de la fecha que resulte más conveniente para el Coordinador. 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+_________________________________ 
+Benjamín Rivadeneira T. 
+Encargado Titular 
+El Pelícano Solar Company SpA 
+RUT: 76.337.599-4 
+Santiago, 10 de junio de 2026 
+ 
+c.c.: verificacion.SSCC@coordinador.cl 

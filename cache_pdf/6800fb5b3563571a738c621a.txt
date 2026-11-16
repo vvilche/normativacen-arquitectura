@@ -1,0 +1,112 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 17 de abril de 2025 
+ 
+    
+DE 02299-25 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación Potencia Máxima de la Central 
+PFV Taira del coordinado Planta Solar Tocopilla 
+SpA. 
+Responde a Ingreso DE01806-25. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Potencia Máxima de la Central PFV Taira, en conformidad con el Informe Técnico 
+recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+publicado en la página web del Coordinador mediante la comunicación de la Ref. [2]. Por 
+su parte, el Coordinador emitió observaciones de carácter técnico al informe publicado 
+mediante carta de la Ref. [3], las que derivaron en una nueva versión del informe técnico. 
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PFV 
+Taira se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima del Parque Fotovoltaico Taira 
+Central/Unidad 
+Potencia Máxima 
+Bruta 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en la 
+central (1) 
+[MW] 
+Potencia Máxima 
+Neta (2) 
+[MW] 
+PFV Taira 
+203,3635 
+0,5122 
+2,5197 
+200,3316 
+ 
+(1) Este valor incluye las pérdidas del sistema colector de media tensión (1,9080 MW) y del transformador 
+de poder (0,6117 MW). 
+(2) Inyectada en la barra de alta tensión (220 kV) de los transformadores de potencia del Parque 
+Fotovoltaico Taira.  
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del martes 22 de abril de 2025. 
+ 
+El informe técnico final que contiene la justificación de los parámetros indicados 
+anteriormente ha sido publicado en la siguiente ruta del sitio web del Coordinador Eléctrico 
+Nacional: 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > PFV Taira 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PPF/CRV/ycl 
+ 
+c.c.: 
+Sr. Luis Fredes – Encargado Titular Planta Solar Tocopilla SpA 
+ 
+DAA, DAEP, DAIT, DPRO, DTE-SSCC, DTPT, DCON, DCO, SGESO, SGTM 
+ 
+Referencias: 
+ 
+[1] Carta TOC-E-007-25, Ref.: “NUP 1042 PFV Taira | Informa Entrega de Informe de 
+Potencia Máxima V3”, de fecha 11 de marzo de 2025.  Ingreso DE01806-25. 
+ 
+[2] Carta DE00288-25, Ref.: “[NUP 1042] Informes Técnicos de Parámetros Operacionales 
+del PFV Taira, de PS Tocopilla SpA”, de fecha 15 de enero de 2025. 
+ 
+ 
+[3] Carta DE01210-25, Ref.: “Observaciones a Informes Técnicos de Parámetros 
+Operacionales del Parque Fotovoltaico Taira, de Planta Solar Tocopilla SpA”, de fecha 25 
+de febrero de 2025. 
+ 

@@ -1,0 +1,243 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 20 de abril de 2026 
+DE 02579-26 
+ 
+Señor 
+Jack Nahmías Suárez 
+Jefe Unidad Técnica de  
+Generación y Transporte de Electricidad 
+Superintendencia de Electricidad y Combustibles 
+Presente 
+ 
+Ref.: Caso Times N°2398505. Comunicación de 
+Índices de Indisponibilidad y EnS según Norma 
+Técnica de Indisponibilidad de Suministro y 
+Compensaciones para los EAF 127 al 130 del año 
+2026. 
+ 
+De mi consideración: 
+ 
+Mediante la presente, me refiero a lo establecido en el Artículo 4-10 de la Norma Técnica 
+de Indisponibilidad de Suministro y Compensaciones, que indica que el Coordinador deberá 
+enviar a la Superintendencia la información sobre el cumplimiento de los estándares de 
+indisponibilidad de suministro, Energía Interrumpida, Energía no Suministrada (EnS) y 
+asignación de EnS. 
+ 
+Al respecto, las planillas con la información correspondiente los EAF 127-2026 al EAF 130-
+2026, pueden ser descargadas desde el siguiente enlace:  
+ 
+https://cdec365-
+my.sharepoint.com/:f:/g/personal/diego_rodriguez_coordinador_cl/IgATcS5Jnlw-
+TYSFV88SXQ0RAbdogW86XN-RNXHA7vVwrNY?e=pASy0V 
+ 
+Además, se encuentran publicadas y pueden ser descargadas desde el Sitio Web del 
+Coordinador Eléctrico Nacional, en las siguientes rutas, según el mes en que ocurre el 
+evento: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC > 2026 > Marzo > Cálculo por EAF:  
+1. EAF 127-2026 
+2. EAF 128-2026 
+3. EAF 129-2026 
+4. EAF 130-2026 
+Respecto del cálculo de indicadores realizado, se deja constancia de lo siguiente: 
+ 
+a) En el cálculo de indicadores asociados al EAF que se indican en la tabla del Anexo 
+1, se superó el estándar de indisponibilidad de suministro y, por lo tanto, se calculó 
+EnS en los puntos de control correspondientes para cada evento. 
+b) Los eventos de falla asociado a los EAF 127 y 128 de 2026 no superaron los 
+estándares de indisponibilidad de suministro. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+c) Finalmente, en la tabla del Anexo 2 se indica el estado de completitud y calidad de 
+los antecedentes solicitados a las empresas distribuidoras para aquellos EAF donde 
+la información no se ajusta a los formatos establecidos por la Superintendencia 
+(SEC). Es preciso señalar que para aquellos EAF donde las empresas distribuidoras 
+no envían los antecedentes solicitados según los requerimientos y formatos 
+establecidos por la SEC, el cálculo de indicadores se realiza con la información 
+contenida en el EAF respectivo. 
+ 
+Sin otro particular, se despide atentamente,  
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+ 
+Incl.: Lo indicado 
+c.c.:  
+Interrupciones@SEC.cl 
+Sr. Víctor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+DBCD/DTE-SSCC/SGASO 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Anexo 1: Tabla con Energía no Suministrada (EnS (*)) por evento, segmento y punto de control 
+ 
+EAF 
+Punto de control 
+(Coordinado) 
+Redundancia Origen Estándar 
+superado 
+Tr 
+evento 
+[h] 
+Eint 
+evento 
+[MWh] 
+Fr 
+Acumulado 
+Tr 
+Acumulado 
+[h] 
+Eint 
+Acumulado 
+[MWh] 
+EnS 
+evento 
+[MWh] 
+EAF 127-2026 
+BA S/E CARBONATO 23KV BP1/ 
+SOCIEDAD QUÍMICA Y MINERA DE 
+CHILE S.A. 
+(Sociedad Química Y Minera De Chile 
+S.A.) 
+NO 
+TD 
+Tr 
+8,70 
+188,01 
+1 
+8,70 
+188,01 
+123,18(1) 
+EAF 130-2026 
+BA S/E QUIRIHUE 13.2KV 
+(Compañía General De Electricidad 
+S.A.) 
+NO 
+TZ 
+Tr 
+5,85 
+6,80 
+4 
+10,45 
+10,07 
+3,94(2) 
+EAF 130-2026 
+BA S/E HUALTE 66KV 
+(Compañía General De Electricidad 
+S.A.) 
+NO 
+TZ 
+Tr 
+5,77 
+0,75 
+2 
+9,15 
+1,16 
+0,28(3) 
+(*)    EnS calculada de acuerdo con lo indicado en el artículo 1-4 de la Norma Técnica de Indisponibilidad de Suministro y Compensaciones (NTISyC) 
+ 
+(1)  El Estándar Tr ha sido superado en el punto de control. El estándar se supera con el evento analizado. 
+(2)  El Estándar Tr ha sido superado en el punto de control. El estándar se supera con el evento analizado. 
+(3)  El Estándar Tr ha sido superado en el punto de control. El estándar se supera con el evento analizado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Anexo 2: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF  
+Fecha Falla 
+Distribuidora 
+Involucrada 
+S/E con consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 129-2026 
+14-03-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E San Vicente 
+de Tagua Tagua 
+Parcial 
+SI 
+Se informa que la empresa Distribuidora no remitió la 
+información en el plazo normativo exigido por la 
+Norma Técnica de Compensaciones. No obstante, en 
+una segunda instancia, la empresa envió los 
+antecedentes requeridos; respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que la información se incorporó 
+íntegramente al cálculo. 
+EAF 130-2026 
+15-03-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Quirihue 
+S/E Hualte 
+ 
+Parcial 
+SI 
+Se informa que la empresa Distribuidora no remitió la 
+información en el plazo normativo exigido por la 
+Norma Técnica de Compensaciones. No obstante, en 
+una segunda instancia, la empresa envió los 
+antecedentes requeridos; respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que la información se incorporó 
+íntegramente al cálculo. 
+(*) Los EAFs N° 127 y 128 no tuvieron afectación de Empresas Distribuidoras. 
+
+1
+Asunto:
+RV: Informa Ingreso OP Virtual N°391579
+COMPROBANTE DE RECEPCIÓN DE ENVÍO DE02579-26 
+De: info@sec.cl <info@sec.cl>  
+Enviado el: lunes, 20 de abril de 2026 8:53 
+Para: Yesenia Canales Lopez <Yesenia.Canales@coordinador.cl> 
+Asunto: Informa Ingreso OP Virtual N°391579 
+[ CORREO EXTERNO. Solo abra links o adjuntos de remitentes conocidos, no revele sus contraseñas] 
+Estimado(a) Coordinador Electrica Nacional
+La informacion enviada, a nuestra Oficina de Partes Virtual, ha sido 
+recibida exitosamente y registrada con el N° de OP 391579, si cumple 
+todos los patrones necesarios, procederemos a realizar el ingreso a 
+nuestros sistemas, para ser derivado a la oficina SEC SANTIAGO.  
+¡Gracias por comunicarse con la SEC! 
+www.sec.cl  
+
+2
+ 
+“Este correo es dirigido solo a las personas que aparecen como destinatarios y puede contener 
+información de uso interno o de titularidad de terceros. Si usted recibió este correo por error, por favor 
+notificar inmediatamente al emisor y elimine el correo original. Cualquier otro uso de este correo está 
+prohibido. Atendido que no existe certidumbre de que el presente mensaje no será modificado como 
+resultado de su transmisión por correo electrónico, la Superintendencia de Electricidad y Combustibles 
+no será responsable si el contenido del mismo ha sido modificado.”  

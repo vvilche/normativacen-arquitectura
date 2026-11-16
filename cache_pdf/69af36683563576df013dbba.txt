@@ -1,0 +1,104 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+SUPPLY ENERGY MANAGEMENT 
+ 
+Santiago, 6 de marzo de 2026 
+ENGIE N°052/2026
+ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Respuesta a carta DE01221-26, Ref.:"
+Desempeño deficiente en la prestación de los 
+Servicios Complementarios de Control Primario de 
+Frecuencia, Control Terciario de Frecuencia y Control 
+de Tensión de las unidades generadoras.", de fecha 
+11 de febrero de 2026. 
+[1] Carta DE01221-26, Ref.: “Desempeño deficiente 
+en la prestación de los Servicios Complementarios de 
+Control Primario de Frecuencia, Control Terciario de 
+Frecuencia y Control de Tensión de las unidades 
+generadoras.” 
+De nuestra consideración: 
+En atención a la carta de la Ref. [1] en la que el Coordinador Eléctrico Nacional nos comunica que nuestras 
+unidades CTM3, CTA y el PE Kallpa han participado en la prestación de los SSCC con un desempeño 
+deficiente, tengo a bien informarle lo siguiente:  
+En el Anexo 1 se envía un informe analizando los desempeños de nuestras unidades CTM3 y CTA donde 
+se proponen acciones correctivas para evitar su repetición.  
+En relación a las respuesta deficientes de nuestro PE Kallpa, le informo lo siguiente:  
+a)  Causa raíz de desempeño no satisfactorio 
+La causa raíz del bajo desempeño en la prestación del SSCC de Control Primario de Frecuencia es un 
+problema del cálculo de la potencia disponible en función de recurso y de los aerogeneradores en 
+operación realizada por el sistema de control de planta (PPC) lo que impide la correcta prestación de 
+dicho SSCC.  
+ 
+b)  Acciones correctivas 
+Ante la identificación del la deficiencia de cálculo de la potencia disponible, se han realizado reuniones 
+técnicas con el OEM del PPC para dar solución al problema anteriormente descrito. Como resultado de 
+estas reuniones junto al fabricante, estamos trabajando en una actualización del SCADA que permita 
+corregir el comportamiento descrito para posteriormente realizar una etapa de monitoreo de las variables 
+operacionales y el comportamiento de las mismas luego de la solución implementada. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c)  Plan de trabajo 
+ 
+Itém 
+Nombre de la tarea 
+Fecha Inicio 
+Fecha Fin 
+1 
+Levantamiento de situación actual 
+15-02-2026 
+28-02-2026 
+2 
+Acciones correctivas a 
+implementar 
+02-03-2026 
+31-03-2026 
+3 
+Pruebas de normalización 
+16-03-2026 
+31-03-2026 
+4 
+Finalización de la normalización 
+31-03-2026 
+31-03-2026 
+ 
+Sin otro particular, lo saluda atentamente,  
+ 
+ 
+ 
+ 
+ Juan Muñoz Tapia 
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 
+ 
+ 

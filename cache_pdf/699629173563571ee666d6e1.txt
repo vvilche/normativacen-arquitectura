@@ -1,0 +1,91 @@
+Cerro del Plomo 5420, Oficina 1305 
+Las Condes 
+Tel.: +56(2) 23333540 
+ 
+P á g i n a 1 | 2 
+ 
+ 
+ 
+ 
+ 
+Santiago, 18 de febrero de 2025 
+     Carta: 260218-PEAT-CEN-001 
+ 
+ASUNTO 
+: 
+Responde DE00532-26 - SSCC 
+PARQUE EÓLICO ATACAMA 
+ANTECEDENTE 
+: 
+[1] Coordinador Eléctrico Nacional. (27 de enero de 2026). Aprueba Protocolos para los 
+Ensayos de Verificación de Control de Frecuencia y Control de Tensión de la central PE 
+Atacama (DE 00532-26). Santiago, Chile. 
+ 
+ 
+Señor 
+Ernesto Huber 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+De mi consideración: 
+ 
+Por intermedio de la presente, me refiero a la comunicación de la referencia [1], 
+mediante la cual el Coordinador Eléctrico Nacional aprobó los Protocolos para los 
+Ensayos de Verificación de los Servicios Complementarios (SSCC) de Control Primario de 
+Frecuencia (CPF), Control Terciario de Frecuencia (CTF) y Control de Tensión (CT) para la 
+central Parque Eólico Atacama. 
+ 
+Al respecto, y en atención a los plazos e instrucciones estipulados en dicho documento, 
+cumplo con informar que nuestra representada se encuentra imposibilitada de ejecutar 
+los ensayos antes del 24 de febrero de 2026 debido a las siguientes restricciones 
+operativas: 
+ 
+1. En primera instancia, se hace presente que a la fecha no disponemos de la 
+aprobación de los Informes de Parámetros de Centrales, específicamente en lo 
+relativo al Mínimo Técnico (MT) y a los Parámetros de Partida y Detención 
+(PPyD). Estos documentos constituyen insumos técnicos basales y requisitos 
+previos indispensables para la configuración de los rangos de operación y la 
+definición de las rampas de respuesta requeridas durante la ejecución de las 
+pruebas de verificación de SSCC. 
+2. En segundo término, es imperativo considerar la naturaleza estocástica del 
+recurso eólico en el emplazamiento del proyecto. Durante las estaciones de 
+verano y otoño, la disponibilidad de energía primaria presenta una 
+estacionalidad desfavorable que impide alcanzar los niveles de potencia activa 
+necesarios para validar el desempeño de la planta en los puntos de operación 
+exigidos por el protocolo aprobado. Sin insumo primario durante este periodo 
+
+ 
+Cerro del Plomo 5420, Oficina 1305 
+Las Condes 
+Tel.: +56(2) 23333540 
+ 
+P á g i n a 2 | 2 
+ 
+ 
+ 
+imposibilitaría la obtención de un ensayo representativo para el cumplimiento 
+de la Norma Técnica de Servicios Complementarios (NTSSCC) y Procedimiento 
+Interno. 
+ 
+Dado que los puntos anteriores solicitamos formalmente la reprogramación de la 
+ventana de ensayos para los meses de julio y agosto del presente año. Este periodo 
+contiene una mayor probabilidad de excedencia del recurso eólico, con mayor 
+probabilidad de realizar las pruebas bajo condiciones de carga nominal. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+_________________________ 
+Héctor Astudillo Silva 
+Encargado Titular 
+Parque Eólico Atacama SpA 
+ 
+Cc:  
+Sr. Cristian Reyes – Jefe del Departamento de Control de la Operación, Coordinador Eléctrico Nacional 
+Sr. Manuel Pardo – Encargado Suplente, Parque Eólico Atacama SpA 
+Sr. Patricio Flores – Technical Project Manager LATAM, Nordex Energy Chile 
+ 

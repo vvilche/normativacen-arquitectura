@@ -1,0 +1,184 @@
+ 
+ 
+San Pedro de la Paz, 27 de junio de 2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Desempeño del Esquema de Desconexión Automático de Carga (EDAC) por 
+Subfrecuencia y Contingencia Extrema, asociados a los eventos de falla ocurridos en febrero 
+de 2025 (EAF 062-2025, EAF 072-2025 y EAF 089-2025). 
+ 
+De nuestra consideración: 
+ 
+En relación con la carta DE03810-25, remitida mediante correo electrónico de fecha 24 de 
+junio de 2025, y mediante la cual presenta la evaluación final realizada por el Coordinador 
+para el evento de falla asociado al EAF 089-2025 correspondiente al 25 de febrero de 2025, 
+considerando los antecedentes enviados por nuestra representada “Papelera Dos S.A.” en 
+el respectivo Informe de Falla, cumplo con informar lo siguiente: 
+ 
+En primer término, corresponde hacer presente que a la fecha en que ocurrió el EAF 089-
+2025, Papelera Dos S.A. (registrada en la plataforma Neomante como Papeles Bio Bío S.A. 
+a esa época) no contaba con acceso a la plataforma Neomante. Por esta razón, con fecha 
+27 de febrero de 2025, se solicitó asistencia a soporte.neomante@coordinador.cl para 
+generar acceso a la plataforma como nuevo usuario. 
+ 
+Lo anterior obedece a que, en ese momento, en la actualidad, la empresa Papelera Dos S.A. 
+aún no figura como coordinada en los registros del Coordinador Eléctrico Nacional. Esta 
+situación se encuentra en proceso de regularización, según se informó en cartas de 30 de 
+mayo, 17 de junio y 20 de junio, todas de 2025. 
+ 
+Producto de lo anterior, ante el impedimento de acceder a la plataforma Neomante, los 
+informes de 48 horas y de 5 días posteriores a la falla EAF 089-2025 fueron enviados por 
+este mismo medio. Adjunto a la presente misiva podrá encontrar los respaldos que dan 
+cuenta del envío de los informes mediante correo electrónico. 
+ 
+Los archivos remitidos en dicha oportunidad fueron los siguientes: 
+ 
+• IF_2025_04_24 48H.pdf, enviado el 27 de febrero de 2025 a las 17:57 hrs. 
+• 20250424_204000_17531.zip, enviado el 03 de marzo de 2025 a las 14:23 h, el cual 
+contiene los siguientes archivos (se inserta captura): 
+ 
+
+ 
+ 
+Los archivos y respaldos antes señalados se adjuntan también a la presente misiva. 
+ 
+Por lo anteriormente expuesto y en virtud de las evidencias que se acompañan, solicitamos 
+respetuosamente la revisión de dichos antecedentes y proceda a realizar las correcciones 
+que estimen procedentes en los datos del EAF 089-2025 de nuestra representada. 
+ 
+Agradeciendo su comprensión, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+_________________________ 
+Jaime Cantero 
+Encargado Titular 
+Papelera Dos S.A. 
+
+Jaime Cantero <jcantero@unipapel.cl>
+Re: Solicitud de Credenciales de Acceso
+7 mensajes
+Jaime Cantero <jcantero@unipapel.cl>
+27 de febrero de 2025, 10:33
+Para: soporte.neomante@coordinador.cl
+Estimado Soporte Neomante,
+Junto con saludar, necesito su asistencia para el acceso a la plataforma correspondiente como encargado titular de la
+empresa Coordinada Papelera Dos S.A. RUT: 77.371.287-5. Actualmente, no puedo ingresar al sistema.
+Agradecería su pronta atención a este asunto.
+Saludos cordiales,
+El mar, 25 feb 2025 a las 12:45, Jaime Cantero (<jcantero@unipapel.cl>) escribió:
+Estimado Coordinador,
+Junto con saludar, me dirijo a ustedes para solicitar el acceso a la plataforma del Sistema Neomante para nuestra
+empresa Coordinada Papelera Dos S.A.
+Le agradecería que me indicaran los pasos a seguir para obtener dicho acceso.
+Quedo atento a su respuesta.
+Saludos cordiales,
+--
+Jaime Cantero <jcantero@unipapel.cl>
+27 de febrero de 2025, 17:57
+Para: soporte.neomante@coordinador.cl
+Estimado Soporte Neomante,
+Sigo sin poder acceder a la plataforma como encargado titular de Coordinada Papelera Dos S.A. RUT: 77.371.287-5. Le
+agradecería que me proporcionara las credenciales de acceso a la brevedad.
+Adjunto a este correo el informe de falla de 5 días, para su respaldo.
+Espero su pronta respuesta.
+Saludos cordiales,
+Jaime Cantero
+[El texto citado está oculto]
+IF_2025_02_25 48H.pdf
+120K
+Jaime Cantero <jcantero@unipapel.cl>
+3 de marzo de 2025, 14:23
+Para: soporte.neomante@coordinador.cl
+Cc: Mauro Jara Riquelme <mjara@unipapel.cl>
+Estimado Soporte Neomante,
+Junto con saludar, adjunto como respaldo el archivo con el informe de 5 días correspondiente a la falla ocurrida el
+25/02/2025.
+27/6/25, 9:29
+Correo de Coipsa - Re: Solicitud de Credenciales de Acceso
+https://mail.google.com/mail/u/0/?ik=17885f610c&view=pt&search=all&permthid=thread-a:r-6488212626628360928&simpl=msg-a:r-53730599436543…
+1/3
+
+Reitero que aún no he recibido las credenciales de acceso a la plataforma y le agradecería que me las proporcionara a la
+brevedad.
+Quedo atento a su respuesta.
+Saludos cordiales,
+Jaime Cantero.
+[El texto citado está oculto]
+2 adjuntos
+IF_2025_02_25 48H.pdf
+120K
+20250225_151600_17531 (Informe Falla 5 Dias).zip
+666K
+Jaime Cantero <jcantero@unipapel.cl>
+8 de abril de 2025, 7:59
+Para: soporte.neomante@coordinador.cl
+Cc: Mauro Jara Riquelme <mjara@unipapel.cl>
+Estimado Soporte Neomante,
+Junto con saludar adjunto Informe de falla de 5 días correspondiente a la falla ocurrida el 03/04/2025.
+Envío la documentación por este medio, ya que aún no están autorizados los permisos de nuestra empresa en la
+plataforma del Coordinador.
+Atte.
+[El texto citado está oculto]
+--
+Jaime Cantero Campos
+Ingeniero Eléctrico
+Avenida Pedro Aguirre Cerda 1054 
+San Pedro de la Paz, Región del BioBío
+Chile
++56 93065 5080
+www.cpp.cl
+20250403_112200_17531.zip
+876K
+Jaime Cantero <jcantero@unipapel.cl>
+9 de abril de 2025, 7:40
+Para: soporte.neomante@coordinador.cl
+Cc: Mauro Jara Riquelme <mjara@unipapel.cl>
+Estimado Soporte Neomante,
+Junto con saludar adjunto Informe de falla de 5 días correspondiente a la falla ocurrida el 05/04/2025.
+Envío la documentación por este medio, ya que aún no están autorizados los permisos de nuestra empresa en la
+plataforma del Coordinador.
+27/6/25, 9:29
+Correo de Coipsa - Re: Solicitud de Credenciales de Acceso
+https://mail.google.com/mail/u/0/?ik=17885f610c&view=pt&search=all&permthid=thread-a:r-6488212626628360928&simpl=msg-a:r-53730599436543…
+2/3
+
+Atte.
+[El texto citado está oculto]
+20250405_141900_17531.zip
+884K
+Jaime Cantero <jcantero@unipapel.cl>
+26 de abril de 2025, 18:43
+Para: soporte.neomante@coordinador.cl
+Cc: Mauro Jara Riquelme <mjara@unipapel.cl>
+Estimado Soporte Neomante,
+Junto con saludar adjunto Informe de falla de 48 horas correspondiente a la falla ocurrida el 24/04/2025.
+Envío la documentación por este medio, ya que aún no están autorizados los permisos de nuestra empresa en la
+plataforma del Coordinador.
+Atte.
+[El texto citado está oculto]
+IF_2025_04_24 48H.pdf
+119K
+Jaime Cantero <jcantero@unipapel.cl>
+28 de abril de 2025, 14:26
+Para: soporte.neomante@coordinador.cl
+Cc: Mauro Jara Riquelme <mjara@unipapel.cl>
+Estimado Soporte Neomante,
+Junto con saludar adjunto Informe de falla de 5 días correspondiente a la falla ocurrida el 24/04/2025.
+Envío la documentación por este medio, ya que aún no están autorizados los permisos de nuestra empresa en la
+plataforma del Coordinador.
+Atte.
+[El texto citado está oculto]
+20250424_204000_17531.zip
+895K
+27/6/25, 9:29
+Correo de Coipsa - Re: Solicitud de Credenciales de Acceso
+https://mail.google.com/mail/u/0/?ik=17885f610c&view=pt&search=all&permthid=thread-a:r-6488212626628360928&simpl=msg-a:r-53730599436543…
+3/3

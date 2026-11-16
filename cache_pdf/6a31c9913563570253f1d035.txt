@@ -1,0 +1,173 @@
+ 
+      
+Santiago, 16 de junio de 2026 
+E7 N°521 
+ 
+Sr. 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional  
+Coordinador Eléctrico Nacional  
+Presente. 
+ 
+ 
+Ref.: Respuesta a Carta DE03776-26 – Desempeño 
+deficiente 
+en 
+la 
+prestación 
+del 
+Servicio 
+Complementario de Control Terciario de Frecuencia 
+(CTFg+) de Central Trincao durante abril de 2026. 
+ 
+ 
+De nuestra consideración, 
+ 
+En atención a la carta DE03776-26 de fecha 04 de junio de 2026, mediante la cual se solicita 
+informar las causas del desempeño observado en la prestación de Servicios 
+Complementarios durante el mes de abril de 2026, Energía Siete SpA viene en responder 
+respecto de la Central Trincao lo siguiente: 
+ 
+a) Informe técnico de causa raíz 
+ 
+Se adjunta a la presente el Informe Técnico E7-PE-004/F6 denominado “Análisis de 
+desempeño no satisfactorio durante activación de SC CTFg de subida”, el cual contiene el 
+análisis operacional, antecedentes técnicos, evaluación de variables de proceso, 
+determinación de causas y acciones correctivas asociadas al desempeño registrado por las 
+unidades G01 a G10 durante el mes de abril de 2026. 
+ 
+De acuerdo con el análisis efectuado, durante las activaciones del Servicio Complementario 
+de Control Terciario de Frecuencia en giro de subida (CTFg+) se registraron incrementos 
+de temperatura de refrigerante que obligaron a restringir preventivamente la carga de las 
+unidades a aproximadamente un 85% de su capacidad nominal para resguardar la 
+integridad de los equipos. 
+ 
+La investigación determinó como causa inmediata la pérdida de capacidad de enfriamiento 
+de los motores producto de la obstrucción parcial de los paneles de radiadores LTA, 
+afectando la transferencia térmica y el caudal de aire disponible para refrigeración. 
+ 
+Asimismo, se determinó como causa raíz el deterioro progresivo de los paneles de 
+radiadores LTA debido a la acumulación de contaminantes, residuos, polvo y fluidos 
+asociados a la operación normal de las unidades, complementado por las condiciones 
+ambientales propias del emplazamiento costero de la Central Trincao y el aumento temporal 
+de residuos asociado a la ejecución de trabajos de mantenimiento mayor. 
+ 
+ 
+
+ 
+b) Acciones correctivas implementadas y programadas 
+ 
+Con el objeto de restablecer la capacidad de enfriamiento de las unidades y normalizar su 
+desempeño en la prestación de Servicios Complementarios, Energía Siete SpA ha 
+implementado y programado las siguientes acciones correctivas: 
+ 
+1. Reparación de paneles LTA con fisuras detectadas en las unidades G10 y G7. 
+2. Limpieza profunda de radiadores y paneles LTA para remover contaminación por 
+polvo, aceite, refrigerante y otros residuos acumulados. 
+3. Recuperación y reacondicionamiento integral de los sistemas de radiadores 
+mediante desmontaje, inspección, reemplazo de empaquetaduras, reparación o 
+sustitución de paneles deteriorados, recuperación de bateas y componentes 
+estructurales. 
+4. Ejecución de pruebas hidráulicas de presión, pruebas operacionales y verificaciones 
+de estanqueidad antes de la puesta en servicio de cada unidad intervenida. 
+5. Programa secuencial de intervención para las diez unidades de la Central Trincao 
+con el objetivo de estandarizar las condiciones del sistema de enfriamiento y mejorar 
+su confiabilidad operacional. 
+ 
+ 
+c) Plan de trabajo 
+ 
+Se adjunta el documento “Plan Ejecutivo de Acciones Correctivas para Radiadores”, el cual 
+considera las siguientes etapas: 
+ 
+ 
+1. Levantamiento de condición de radiadores y diagnóstico técnico 
+2. Desmontaje, drenaje e inspección de componentes 
+3. Fabricación y reemplazo de empaquetaduras y componentes deteriorados 
+4. Reparación y/o sustitución de paneles de radiador Motor y LTA 
+5. Recuperación de bateas, estructuras y elementos de soporte 
+6. Ensamble y montaje de componentes 
+7. Pruebas hidráulicas de presión 
+8. Carga de refrigerante 
+9. Pruebas operacionales con carga 
+10. Puesta en servicio 
+ 
+El avance actual del plan es el siguiente: 
+ 
+Unidad 
+Estado 
+Inicio 
+Término 
+G10 
+Finalizada 
+29-04-2026 
+24-05-2026 
+G7 
+En ejecución 09-06-2026 
+20-06-2026 
+G8 
+Programada 
+29-06-2026 
+14-07-2026 
+G9 
+Programada 
+15-07-2026 
+29-07-2026 
+G1 
+Programada 
+30-07-2026 
+13-08-2026 
+
+ 
+G2 
+Programada 
+14-08-2026 
+28-08-2026 
+G3 
+Programada 
+29-08-2026 
+12-09-2026 
+G4 
+Programada 
+13-09-2026 
+27-09-2026 
+G5 
+Programada 
+28-09-2026 
+12-10-2026 
+G6 
+Programada 
+13-10-2026 
+27-10-2026 
+ 
+ 
+Finalmente, las actividades señaladas permitirán recuperar la capacidad de transferencia 
+térmica de los sistemas de enfriamiento, reducir pérdidas de refrigerante, eliminar 
+restricciones operacionales por temperatura, mejorar la disponibilidad de las unidades y 
+disminuir significativamente el riesgo de recurrencia de eventos similares. 
+ 
+Adicionalmente, la estandarización de las condiciones de los radiadores en las diez 
+unidades permitirá aumentar la confiabilidad operacional de la Central Trincao y restablecer 
+plenamente la capacidad de respuesta comprometida para la prestación del Servicio 
+Complementario de Control Terciario de Frecuencia. 
+ 
+Sin otro particular, saluda atentamente a usted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Felipe Martínez Illanes 
+Gerente de Proyectos 
+Energía Siete SpA 
+ 
+ 
+ 
+ 
+ 
+Firma electrónica avanzada
+FELIPE IGNACIO MARTINEZ
+ILLANES
+2026.06.16 16:12:44 -0400

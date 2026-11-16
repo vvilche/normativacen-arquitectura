@@ -1,0 +1,120 @@
+ 
+ 
+ 
+ 
+RED ELÉCTRICA DEL NORTE 2 S.A. 
+R.U.T.: 76.896.732-6 
+Isidora Goyenechea 3000, oficina 
+1602, Las Condes. 
+Santiago - Chile 
+Teléfono: (56-2) 3293 8900 
+Email: Digame.chile@redinter.company 
+Página web: www.redinter.cl 
+RED ELÉCTRICA DEL NORTE 2 S.A. 
+Las Condes, 28 de octubre de 2025 
+RDNOR2-031-2025 
+ 
+Sr. Rodrigo Espinosa V. 
+Gerente de Operaciones 
+Coordinador Eléctrico Nacional  
+Av. Parque Isidora 1061, Pudahuel, Santiago 
+Presente 
+ 
+Asunto:  
+Verificación de Instalaciones de Transmisión para la Prestación de 
+Servicios Complementarios 
+ 
+Referencia: 
+Carta DE 06696-25 del Coordinador Eléctrico Nacional, referida  
+Comunica atraso en proceso de Verificación de Instalaciones de 
+Transmisión para la Prestación de Servicios Complementarios. 
+ 
+ 
+De mi consideración: 
+ 
+ 
+Respondiendo a la Carta DE 06696-25 Coordinador Eléctrico Nacional, referida a la 
+solicitud Verificación de Instalaciones de Transmisión para la Prestación de Servicios 
+Complementarios. Tenemos los siguientes alcances a la solicitud: 
+ 
+1. Las razones de no haber enviado en plazo los informes de verificación de SSCC 
+de sus instalaciones de trasmisión, se debió a la contingencia del 30 de mayo de 
+2024 en REDENOR2 por falla la línea 220 kV Encuentro – Centinela por robo de 
+perfiles en las estructuras 73, 74, 75, 76, 77, 78, 79, 80, 81 y 82 (EAF-231-2024). 
+La reposición del servicio de esta línea se efectúo el 10 de septiembre de 2024 y 
+por dicha condición operativa no se podían realizar mantenimientos preventivos 
+en los circuitos C1 y C2 de 220 kV El Cobre – Centinela por no soportar la 
+contingencia N-1 comprometiendo el servicio a las subestaciones de 220 kV 
+Centinela, Tesoro, Esperanza y Las Salinas. Las acciones que se han tomado 
+para evitar que a futuro no se generen nuevos retrasos, es incluir en los planes 
+de mantenimiento la verificación de la función 25 por Sincronismo para los 
+paños 52J4 y 52J5 de S/E El Cobre instalaciones incluidas en el SSCC. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+RED ELÉCTRICA DEL NORTE 2 S.A. 
+R.U.T.: 76.896.732-6 
+Isidora Goyenechea 3000, oficina 
+1602, Las Condes. 
+Santiago - Chile 
+Teléfono: (56-2) 3293 8900 
+Email: Digame.chile@redinter.company 
+Página web: www.redinter.cl 
+RED ELÉCTRICA DEL NORTE 2 S.A. 
+2. Plan de normalización para las instalaciones indicadas en la Tabla N°1 y Tabla 
+N°2 del Anexo adjunto a la carta DE 06696-25: 
+ 
+ITEM 
+NOMBRE DE LA ACTIVIDAD 
+FECHA 
+INICIO 
+FECHA 
+TERMINO 
+1 
+Verificación de Instalaciones de Transmisión 
+para la Prestación de Servicios 
+Complementarios S/E El Cobre paños J4 y J5 
+28-10-2025 
+18-11-2025 
+2 
+Envío de protocolos de pruebas al CEN 
+27-10-2025 
+28-10-2025 
+3 
+Pruebas de la función (25) Sincronismo paños 
+J4 y J5 de S/E El Cobre 
+11-11-2025 
+14-11-2025 
+3.1 Etapa 1 de pruebas función (25) paños J4/J5 de 
+S/E El Cobre 
+11-11-2025 
+11-11-2025 
+3.2 Etapa 2 de pruebas función (25) paños J4/J5 de 
+S/E El Cobre 
+13-11-2025 
+14-11-2025 
+4 
+Envío de informe de pruebas se SSCC al CEN 
+18-11-2025 
+18-11-2025 
+ 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+__________________________ 
+José Gastón Muñoz Cabezas 
+Gerente de Gestión de Infraestructuras 
+Red Eléctrica del Norte 2 S.A. 

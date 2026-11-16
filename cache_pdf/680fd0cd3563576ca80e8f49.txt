@@ -1,0 +1,104 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Andes Mainstream SpA 
+Av. Apoquindo 4800, 
+Edificio Nueva Apoquindo Torre II, 
+Piso 17, Santiago, 
+Chile. 
+t: +56-(0)2-592 3100 
+info-chile@mainstreamrp.com 
+www.mainstreamrp.cl 
+Santiago, 25 de abril de 2025 
+CH101-2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Mat.: Envía nueva versión de Informe de Verificación SC CT y responde a observaciones de Informe de Verificación 
+SC CPF del PE Tchamma. 
+Ref:  [1] Carta DE 01429-25, Ref.: “Observaciones a Informes Técnicos de Verificación de SSCC de la Central PE 
+Tchamma”, de fecha 07 de marzo de 2025. 
+[2] Documento de revisión “Observaciones a los Informes de Verificación de Servicios Complementarios de la 
+Central PE Tchamma”, código COR-GO-DCO-SSCC-PETchamma, versión 1, de fecha 07 de marzo de 2025. 
+ 
+De mi consideración. 
+ 
+Me refiero a su carta de la Ref. [1], donde se remiten observaciones a los Informes Técnicos de Verificación de los 
+SSCC de Control Primario de Frecuencia y Control de Tensión de la Central PE Tchamma, enviados al Coordinador 
+a través de carta el 27 de noviembre de 2024 y el 02 de agosto de 2024, respectivamente. 
+ 
+Al respecto, actualizamos sobre el estado de revisión de los informes mencionados. 
+ 
+• 
+Observaciones al Informe de SC CT: Se atendieron las observaciones del documento de la Ref. [2], sección 
+3.2 Observaciones Control de Tensión (CT). Se adjuntan a la presente carta los siguientes documentos: 
+o 
+A 0779 - Mainstream - PE Tchamma - Informe de ensayos de verificación de SC de CT - Respuesta 
+a observaciones - V1: Respuesta a observaciones emitidas por el Coordinador el Informe Técnico 
+SC CT de PE Tchamma en su versión 1. 
+o 
+A 0779 - Mainstream - PE Tchamma - Informe de ensayos de verificación de SSCC CT - V2: Informe 
+Técnico de Verificación SC CT, versión 2, actualizado con las correcciones indicadas en el 
+documento de respuesta. 
+• 
+Observaciones al Informe de SC CPF: En relación con las observaciones al Informe de CPF de la Ref. [2], 
+luego de una revisión conjunta con el Experto Técnico (Estudios Energéticos Consultores), se concluyó 
+que los comportamientos indeseados asociados a variaciones de potencia activa, estatismo y tiempos 
+máximos de activación se deben a la parametrización del controlador de la central (PPC), específicamente 
+del control Potencia/Frecuencia. Se han sostenido reuniones y revisiones conjuntas con Estudios 
+Energéticos y Siemens Gamesa (SG), tecnólogo de las turbinas eólicas del PE Tchamma, y se han 
+comprometido actividades para corregir los comportamientos indeseados con nuevas parametrizaciones 
+en el PPC. El calendario de revisión y nuevos ensayos a ejecutar es el siguiente: 
+  
+Actividad 
+Fecha de finalización 
+Recepción de Observaciones de parte del CEN 
+07/03/2025 
+Revisión conjunta con EEC 
+17/03/2025 
+Envío de antecedentes a SG 
+27/03/2025 
+Reunión técnica con SG y EEC 
+14/04/2025 
+Actualización de software PPC de SG 
+09/05/2025 
+Ejecución de nuevas pruebas 
+23/05/2025 
+Preparación y envío de nuevo Informe CPF y 
+respuestas a observaciones al CEN 
+06/06/2025 
+Docusign Envelope ID: 36CF51AA-F540-4CCE-B6A3-C19B8351767B
+
+ 
+ 
+ 
+ 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Claudio Gutiérrez 
+Encargado Titular 
+Cóndor Energía SpA 
+Docusign Envelope ID: 36CF51AA-F540-4CCE-B6A3-C19B8351767B

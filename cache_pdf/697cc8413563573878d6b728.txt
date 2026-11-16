@@ -1,0 +1,102 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 30 de enero de 2026 
+DE 00679-26 
+Señor 
+Miguel Buzunariz 
+Encargado Titular 
+Enel Generación Chile S.A. 
+Empresa Eléctrica Pehuenche S.A. 
+Presente 
+Ref.: Solicitud de información para elaboración 
+del 
+Informe 
+de 
+Verificación 
+de 
+Control 
+Secundario de Frecuencia (CSF). 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que, a la fecha, su representada 
+mantiene pendiente el envío de información asociada a la elaboración del informe de 
+verificación de Control Secundario de Frecuencia (CSF) de las unidades indicadas en 
+Anexo adjunto, las cuales quedaron habilitadas para la prestación del CSF conforme a lo 
+establecido en el Decreto Supremo N°130 del Ministerio de Energía.   
+ 
+Para efectos de elaborar el correspondiente Informe Técnico de Verificación bajo el régimen 
+vigente según lo establecido en la Guía de Verificación de Control de Frecuencia, le solicito 
+envíe a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 13 de 
+febrero de 2026, la siguiente información faltante de las unidades indicada en el Anexo: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+ 
+Posterior al envío y revisión de la información solicitada, se publicarán los reportes técnicos 
+que respaldan la verificación de la capacidad de la prestación del SC de CSF de las 
+unidades mencionadas, junto con la respectiva carta del cierre del proceso de verificación 
+de CSF, bajo el régimen actual de SSCC.  
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+CRV/WJS/adr 
+C.c.: 
+Sr. Adrián Guzmán – Encargado Suplente de Enel Generación Chile S.A y Empresa Eléctrica Pehuenche S.A. 
+DCO/DMAP 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Detalle de unidades que mantienen pendiente el envío del Layout de 
+Comunicaciones: 
+ 
+COORDINADO 
+UNIDAD 
+ENEL GENERACIÓN CHILE S.A. 
+HE CIPRESES U1 
+ENEL GENERACIÓN CHILE S.A. 
+HE CIPRESES U2 
+ENEL GENERACIÓN CHILE S.A. 
+HE CIPRESES U3 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+HE PEHUENCHE U1 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+HE PEHUENCHE U2 
+ENEL GENERACIÓN CHILE S.A. 
+HE EL TORO U1 
+ENEL GENERACIÓN CHILE S.A. 
+HE EL TORO U2 
+ENEL GENERACIÓN CHILE S.A. 
+HE EL TORO U3 
+ENEL GENERACIÓN CHILE S.A. 
+HE EL TORO U4 
+ENEL GENERACIÓN CHILE S.A. 
+HE PANGUE U1 
+ENEL GENERACIÓN CHILE S.A. 
+HE PANGUE U2 
+ENEL GENERACIÓN CHILE S.A. 
+HE RALCO U1 
+ENEL GENERACIÓN CHILE S.A. 
+HE RALCO U2 
+ENEL GENERACIÓN CHILE S.A. 
+HE RAPEL U1 
+ENEL GENERACIÓN CHILE S.A. 
+HE RAPEL U2 
+ENEL GENERACIÓN CHILE S.A. 
+HE RAPEL U3 
+ENEL GENERACIÓN CHILE S.A. 
+HE RAPEL U4 
+ENEL GENERACIÓN CHILE S.A. 
+HE RAPEL U5 
+ 

@@ -1,0 +1,91 @@
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+ 
+ 
+ 
+Santiago, 09 de septiembre de 2025 
+0001-2025 
+ 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref: NUP4276 – Implementación EDAG en BESS Arenales. 
+ 
+    
+Junto con saludar muy cordialmente, me dirijo a Ud. para presentar formalmente nuestra 
+intención de desarrollar la implementación de un Esquema de Desconexión Automática   
+de Generación (EDAG) por contingencia específica, a fin de resguardar la condición de 
+diseño N-1 de la línea 2x220 kV línea Cochrane – Encuentro, de acuerdo con lo solicitado 
+en la autorización de conexión otorgada por el Coordinador al proyecto BESS Arenales 
+NUP4276 (Doc. 2310-DAA-IACPF-PR4276-V1). 
+ 
+Por tal motivo, se procede a complementar el formulario SIPC ingresado en la NUP4276, 
+incluyendo la implementación de un EDAG, el cual será considerado en una segunda etapa 
+de este proyecto. 
+  
+Cabe mencionar que el proyecto BESS Arenales NUP4276, está en proceso de los 
+requisitos para lograr la Puesta en Servicio. Además, los Estudios considerados y cargados 
+en la plataforma PGP identifican claramente el escenario donde es requerido el EDAG para 
+este proyecto.  
+ 
+La empresa Punta del Sol SpA propone la implementación de un sistema automático de 
+control, el que debe ser desarrollado dando cumplimiento a las exigencias establecidas en 
+la normativa vigente para los Recursos Generales de Control de Contingencias definidos 
+en el Artículo 1-7, 81) de la NTSyCS, y a lo dispuesto en el “Procedimiento Interno: Diseño, 
+Implementación y Operación de Automatismos para el Control de Transferencias en el 
+SEN” publicado por el Coordinador. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+ 
+ 
+ 
+Anexos a la presente comunicación, se adjuntan los siguientes documentos: 
+ 
+• 
+Estudio de Diseño Conceptual de Automatismo 
+• 
+Arquitectura 
+• 
+Cronograma 
+ 
+El primer documento consiste en la evaluación de un esquema (EDAG) destinado a evitar 
+sobrecargas en las líneas de exportación Cochrane - Encuentro 2x220kV mediante la 
+reducción de potencia de BESS ante un escenario de N-1. El segundo documento 
+corresponde a la arquitectura propuesta para la implementación del EDAG, mientras que 
+el último documento corresponde a un cronograma tentativo de implementación del 
+automatismo, el que considera un plazo de aproximadamente 6 meses hasta su operación.  
+ 
+ 
+ 
+Sin otro particular saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Paola Hartung Martínez 
+Representante Legal 
+Punta del Sol SpA 
+ 
+ 
+ 
+ 
+ 

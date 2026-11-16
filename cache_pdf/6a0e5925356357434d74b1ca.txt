@@ -1,0 +1,240 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 20 de abril de 2026 
+DE 03458-26 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de los Parámetros de Partida y 
+Detención de la Central Renovable con Capacidad 
+de Almacenamiento PFV-BESS Andes Solar III. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional los Parámetros de Partida y Detención de la Central 
+Renovable con Capacidad de Almacenamiento (CRCA) PFV-BESS Andes Solar III, 
+justificado en el Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+técnico mencionado, publicado en la página web del Coordinador mediante carta de la Ref. 
+[2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+Renovable con Capacidad de Almacenamiento PFV-BESS Andes Solar III, se presentan en 
+el Anexo a la presente carta. Al respecto, comunico a Ud., que estos parámetros entrarán 
+en vigencia a partir de las 00:00 horas del 22 de mayo de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación del sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Parámetros de Partida y Detención > Informes 
+Determinación de Parámetros para Procesos de Partida y Detención de Unidades 
+Generadoras > Central PFV-BESS Andes Solar III > 2026 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+PVV/CRV/PPF/RSM/ycl 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Referencias: 
+ 
+[1] Carta ASIII 0013-2026 del Coordinado Andes Solar III SpA, Ref.: “NUP 4857 – 
+Responde Observaciones Informe de Parámetros de Partida y Detención”, de fecha 03 
+de marzo de 2026. Ingreso DE02108-26. 
+ 
+[2] Carta DE01643-26, Ref.: “[NUP 4857] Informes Técnicos de Parámetros Operacionales 
+de la Central Renovable con Capacidad de Almacenamiento Andes Solar III”, de fecha 
+11 de marzo de 2026. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central PFV-BESS Andes 
+Solar III 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PFV-BESS Andes Solar III modo de 
+operación: Generación PFV. 
+Etapa 
+Parámetro 
+Central 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0171 
+Tiempo [minutos] 
+1,9167 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0802 
+Tiempo [minutos] 
+8,9833 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PFV-BESS Andes Solar III modo de 
+operación: Generación PFV. 
+Etapa 
+Parámetro 
+Central 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0752 
+Tiempo [minutos] 
+8,4166 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0092 
+Tiempo [minutos] 
+1,0333 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+ 
+Tabla 3. Parámetros del proceso de partida del PFV-BESS Andes Solar III modo de operación: 
+BESS modo carga desde PFV. 
+Etapa 
+Parámetro 
+Central 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0831 
+Tiempo [minutos] 
+9,3000 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Tabla 4. Parámetros del proceso de detención de PFV-BESS Andes Solar III modo de operación: 
+BESS modo carga desde PFV. 
+Etapa 
+Parámetro 
+Central 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0831 
+Tiempo [minutos] 
+9,3000 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+ 
+Tabla 5. Parámetros del proceso de partida del PFV-BESS Andes Solar III modo de operación: 
+BESS modo descarga. 
+Etapa 
+Parámetro 
+Central 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0086 
+Tiempo [minutos] 
+0,9333 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0928 
+Tiempo [minutos] 
+10,0500 
+ 
+Tabla 6. Parámetros del proceso de detención de PFV-BESS Andes Solar III modo de operación: 
+BESS modo descarga. 
+Etapa 
+Parámetro 
+Central 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0930 
+Tiempo [minutos] 
+10,0666 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0023 
+Tiempo [minutos] 
+0,2500 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+ 
+ 
+NOTA: El tiempo mínimo de operación (TMO) y tiempo mínimo de detención (TMD) 
+son 0 [min]. 
+ 

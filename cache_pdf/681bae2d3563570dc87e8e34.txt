@@ -1,0 +1,174 @@
+Santiago, 06 de mayo de 2025. 
+ACC.ECH. 048.25 
+Señor: 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANT.  
+: 
+[1] Carta DE02389-25 del 22 de abril de 
+2025. 
+[2] Carta de Acciona ACC.ECH.042.25 del 
+28 de abril de 2025 
+ 
+REF.  
+: 
+Proceso 
+de 
+Verificación 
+de 
+Instalaciones de Generación para la 
+Prestación 
+de 
+Servicios 
+Complementarios próximos a vencer 
+de acuerdo con Cronograma Vigente. 
+ 
+De mi consideración: 
+ 
+En atención al requerimiento realizado por el Coordinador Eléctrico Nacional (en adelante, 
+“Coordinador”), mediante el ANT [1], y la entrega de antecedentes preliminares junto a la 
+solicitud de mayor plazo para complementar la información presentados por Acciona Energía 
+Chile Holding S.A. (en adelante “Acciona”) mediante el ANT [2], hacemos llegar a usted la 
+siguiente información. 
+  
+De acuerdo con los antecedentes revisados, el proceso de Verificación de las Unidades PE San 
+Gabriel y PE Tolpán Sur para la prestación de Servicios Complementarios (en adelante “SSCC”) 
+ha sido iniciado por mi representada durante el año 2023. 
+  
+En efecto, en relación con la Verificación de Control Primario de Frecuencia (CPF), el estado 
+actual de tramitación está dado por las siguientes actividades: 
+ 
+1. 16 de mayo de 2023.-Carta de Acciona ACC.ECH.075.23 (Correlativo DE02890-23) 
+mediante la cual Acciona adjunta los protocolos para ejecutar los ensayos de verificación 
+del CPF de las unidades PE Tolpán Sur, PV Almeyda, PV Usya, PV Malgarida y PE San 
+Gabriel. 
+ 
+2. 16 de mayo 2023.- Email del Coordinador (Rmte: David Ibaceta Reinoso, Correlativo 
+DE02152-23) mediante el cual el Coordinador solicita cambiar la banda muerta de 200 
+mHz a 25 mHz en cada uno de los ensayos a realizar. 
+ 
+3. 19 de mayo de 2023.- Carta de Acciona ACC.ECH.081.23 (Correlativo DE02989-23) 
+mediante la cual Acciona adjunta las nuevas versiones de Protocolos de Verificación de 
+las unidades PE Tolpán Sur, PV Almeyda, PV Usya, PV Malgarida y PE San Gabriel. 
+
+ 
+4. 13 de junio de 2023.- Email del Coordinador (Rmte. David Ibaceta Reinoso) mediante 
+el cual se informa a Acciona que “los protocolos enviados en carta ACC.ECH.081.23 se 
+encuentran aprobados”. 
+ 
+En atención a los antecedentes listados anteriormente, podemos indicar que el proceso de 
+Verificación de las unidades PE San Gabriel y PE Tolpán Sur ha avanzado hasta la aprobación 
+de protocolos de Verificación por parte del Coordinador. 
+En relación con los procesos de Verificación de los SSCC de Control Terciario de Frecuencia 
+(CTF) y Control de Tensión (CT), el estado actual de tramitación está dado por las siguientes 
+actividades: 
+1. 25 de junio de 2021.-Carta de Acciona ACC.ECH.137.21 (Correlativo DE03395-21) 
+mediante la cual Acciona envía al Coordinador los Protocolos de Ensayos de 
+Verificación de CT para sus unidades PE San Gabriel, PE Tolpán Sur, PV Almeyda, PV 
+El Romero y PV Usya y Protocolos de Verificación de CTF para sus unidades PE Punta 
+Palmeras, PE San Gabriel, PE Tolpán Sur, PV Almeyda, PV El Romero, PV Malgarida 
+y PV Usya. 
+ 
+2. 27 de febrero de 2023.- Carta de Acciona ACC.ECH.017.22 (Correlativo DE 01144-23) 
+mediante la cual Acciona envía al Coordinador los informes de Verificación de CT y 
+CTF asociados a la unidad PE Tolpán Sur. 
+ 
+3. 12 de septiembre de 2023.-Carta del Coordinador DE04219-23 mediante la cual el 
+Coordinador informa a Acciona el cierre del proceso de verificación de los SSCC de CTF 
+y de CT de la Central PE Tolpán Sur quedando desde la mencionada fecha habilitada 
+para la prestación de mencionados servicios. 
+En atención a los antecedentes listados anteriormente, podemos indicar que el proceso de 
+Verificación de CT y CTF para la unidad PE San Gabriel ha avanzado hasta la aprobación de 
+protocolos de Verificación por parte del Coordinador y para la unidad PE Tolpán Sur ha 
+finalizado con el cierre del proceso de verificación para ambos servicios.  
+En función al análisis presentado, un resumen representativo del estado de Verificación de las 
+unidades de mi representada sería el mostrado en la siguiente tabla: 
+Unidad 
+Actividad 
+CPF 
+CSF 
+CTF 
+CT 
+PE San 
+Gabriel 
+Protocolos de ensayos 
+Aprobado 
+En 
+proceso* 
+Aprobado 
+Aprobado 
+Ensayos en sitio** 
+Pendiente 
+Pendiente 
+Pendiente 
+Informe de Verificación de SSCC 
+Pendiente 
+Pendiente 
+Pendiente 
+PE Tolpán 
+Sur 
+Protocolos de ensayos 
+Aprobado 
+En 
+proceso* 
+Aprobado 
+Aprobado 
+Ensayos en sitio** 
+Pendiente 
+Informe de Verificación de SSCC 
+Pendiente 
+(*) A programar pruebas junto a proyecto SCED con Coordinador. 
+
+(**) Los ensayos en sitio dependen de la actualización del Firmware (program pack) por parte del tecnólogo. 
+Con los antecedentes compartidos, a continuación, podemos dar respuesta a las preguntas 
+planteadas por el Coordinador. 
+1. Informar las fechas en que enviará los documentos o ejecutará los hitos pendientes del 
+proceso de verificación, esto es el envío de protocolos de pruebas y la fecha en que llevará 
+a cabo los ensayos, indicando las acciones que ha tomado o tomará para que no se 
+comprometa el plazo de envío del Informe de Verificación. 
+  
+Rpta: Considerando el estado de aprobación de los protocolos de verificación, se estima 
+dar cumplimientos a los siguientes hitos pendientes del proceso: 
+• Ensayos de verificación en Sitio. 
+• Informe de verificación del servicio complementario correspondiente. 
+Se adjunta cronograma con la planificación para cumplir con lo pendiente al 30 de junio 
+de 2025. 
+2. Informar si las actividades pendientes del punto 1 ponen en riesgo el cumplimiento del 
+envío del respectivo Informe de Verificación en los plazos estipulados en carta de la Ref. [1]. 
+Deberá considerar los plazos establecidos para cada una de las etapas del punto 1, dado que 
+éstas son necesarias para avanzar en la entrega del Informe de Verificación en cuestión.  
+Rpta: Como fue mencionado en ANT [2], actualmente el tecnólogo de las instalaciones 
+tiene en ejecución el desarrollo de la actualización del Firmware del Control de Planta (PPC) 
+de las unidades PE San Gabriel y PE Tolpán y, si bien se proyecta el pronto término de 
+la actividad, un retraso de la misma o fallo en los resultados esperados podría poner en 
+riesgo los plazos informados en el punto anterior. Para evitar lo anterior, mantenemos un 
+seguimiento constante sobre las actividades a realizar y así dar cumplimiento al programa 
+de trabajo del tecnólogo. 
+ 
+ 
+
+Finalmente, comunicamos a usted que buscaremos concretar una pronta reunión con el equipo 
+del Coordinador a cargo de SSCC con el objetivo de alinear los puntos mencionados en esta 
+carta y así, como ha sido habitual en los procesos de Verificación del resto de unidades de mi 
+representada, lograr la coordinación necesaria que permita el correcto desarrollo del proceso de 
+Verificación de SSCC para PE San Gabriel y PE Tolpán Sur. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+Felipe Escobar Tapia 
+Encargado (S)  
+Acciona Energía Chile Holdings, S.A. 

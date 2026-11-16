@@ -1,0 +1,779 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Santiago, 13 de julio de 2026 
+DE 04685-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Publicación Índices de Indisponibilidad 
+Norma Técnica de Indisponibilidad de Suministro 
+y Compensaciones asociados a interrupciones 
+programadas y de curso forzoso de mayo 
+2026. 
+ 
+ 
+De mi consideración: 
+ 
+Mediante la presente, y en conformidad con lo establecido en el Artículo 3-10 de la 
+Norma Técnica de Indisponibilidad de Suministro y Compensaciones (NTISyC), 
+comunico a usted que la información correspondiente a las indisponibilidades 
+programadas y de curso forzoso del mes de mayo de 2026 se encuentra publicada, 
+y puede ser descargada desde el Sitio Web del Coordinador Eléctrico Nacional en 
+la ruta que se indica a continuación. 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Indisponibilidad 
+> Indicadores NTISyC > 2026 > Junio >Cálculo por Desconexión Programada 
+y Forzada 
+ 
+Su representada podrá realizar observaciones a los cálculos de los índices 
+mencionados hasta el 17 de julio de 2026, mediante carta y con copia al correo 
+electrónico ind.suministro@coordinador.cl, indicando en el asunto “Observaciones 
+a cálculos de indicadores de indisponibilidad programadas y curso forzoso mayo 
+2026”. Cabe destacar que las observaciones deben enmarcarse en lo establecido 
+en el Artículo 4-9 de la mencionada norma. 
+ 
+Adicionalmente, en el Anexo 1 a la presente carta se encuentra una evaluación de 
+la calidad de antecedentes solicitados a las empresas distribuidoras mediante las 
+cartas de la Ref. [2-7], según los formatos requeridos por la SEC en la carta de la 
+Ref. [1], mientras que en el Anexo 2 se encuentra una evaluación de los 
+antecedentes solicitados a Clientes Libres en Transmisión mediante la carta de la 
+Ref. [8-10], en virtud de lo señalado en el Artículo 1-7 de la NTISyC. Cabe destacar 
+que en los casos donde la información requerida no se ajuste a las condiciones 
+establecidas en las comunicaciones mencionadas o ésta no haya sido enviada en 
+los plazos correspondientes, esta situación será informada a la SEC. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Finalmente, informo a usted que en caso de no recibirse la información faltante  
+especificada en los Anexos, el cálculo de indicadores se realizará con los 
+antecedentes disponibles. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+DRA/ycl 
+ 
+c.c.:  
+Sr. Víctor Gutiérrez González – Encargado Titular Compañía General de Electricidad S.A.  
+Sr. Kandinsky Dintrans Pérez – Encargado Titular Empresa Eléctrica de la Frontera S.A.  
+Sr. Iván Fuentealba Carrasco – Encargado Titular Cooperativa de Consumo de Energía Eléctrica Chillán Ltda. 
+Sr. Luis Eduardo Sepúlveda Iturra – Encargado Titular Chilquinta Distribución S.A. 
+Sr. Gonzalo Héctor Martínez Sepulveda – Encargado Titular Cooperativa Eléctrica Los Angeles Ltda. 
+Sr. Alberto Sánchez Polanco – Encargado Titular Cooperativa Eléctrica Charrúa Ltda. 
+Sr. Fernando Ávalos – Encargado Titular Enorchile S.A. 
+Sr. Jorge Rojas – Encargado Titular Guanaco Compañía Minera SpA. 
+Sr. Sergio Antonio Muñoz Guzmán – Encargado Titular Nueva Atacama S.A. 
+DBCD/DTE-SSCC/SGASO 
+Referencias: 
+[1] Oficio Electrónico N° 121688 de la Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el envío de información de acuerdo con 
+lo que indica”, de fecha 14 de junio de 2022.   
+[2] Carta DE03986-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de mayo de 
+2026.” de fecha 11 de junio de 2026. Dirigida a Compañía General de Electricidad S.A.   
+[3] Carta DE03987-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de mayo de 
+2026.” de fecha 11 de junio de 2026. Dirigida a Chilquinta Distribución S.A. 
+[4] Carta DE03989-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de mayo de 
+2026.” de fecha 11 de junio de 2026. Dirigida a Cooperativa de Consumo de Energía 
+Eléctrica Chillán Ltda. 
+[5] Carta DE03990-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de mayo de 
+2026.” de fecha 11 de junio de 2026. Dirigida a Cooperativa Eléctrica Los Angeles Ltda. 
+[6] Carta DE03991-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de mayo de 
+2026.” de fecha 11 de junio de 2026. Dirigida a Empresa Eléctrica de la Frontera S.A. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+[7] Carta DE03988-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de mayo de 
+2026.” de fecha 11 de junio de 2026. Dirigida a Cooperativa Eléctrica Charrúa Ltda. 
+[8] Carta DE03993-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de mayo de 
+2026.” de fecha 11 de junio de 2026. Dirigida a Enorchile S.A. 
+[9] Carta DE03994-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de mayo de 
+2026.” de fecha 11 de junio de 2026. Dirigida a Guanaco Compañía Minera SpA. 
+[10] Carta DE03995-26 Ref.: “Envío de información asociada al cálculo de Energía no 
+Suministrada de desconexiones programadas y de curso forzoso del mes de mayo de 
+2026.” de fecha 11 de junio de 2026. Dirigida a Nueva Atacama S.A. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Anexo 1: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras  
+ 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+SD2026033480 
+08-05-2026  
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Central 
+Tarapacá 
+Parcial 
+Si 
+El siguiente cliente libre en distribución no se 
+encuentran en las bases del Coordinador: 
+ 
+- SOCIEDAD PUNTA DE LOBOS S.A. 
+(76541630) BA S/E CENTRAL 
+TARAPACA 13.8KV-CTTAR. 
+ 
+Enviar antecedentes corregidos, indicando 
+para el cliente libre la respectiva clave de 
+balance. 
+SD2026040955 
+06-05-2026 
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Incahuasi 
+Parcial 
+Si 
+No 
+envía 
+consumos 
+afectados 
+por 
+el 
+alimentador “LA HIGUERA” asociado al paño 
+PA S/E INCAHUASI E2. 
+ 
+Enviar antecedentes solicitados.  
+ 
+El siguiente cliente libre en distribución no se 
+encuentran en las bases del Coordinador: 
+ 
+- EMPRESA NACIONAL DE MINERIA 
+(61703000) BA S/E INCAHUASI 23KV 
+BP1. 
+ 
+Enviar antecedentes corregidos, indicando 
+para el cliente libre la respectiva clave de 
+balance. 
+SD2026042652 
+17-05-2026 
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Caldera 
+Parcial 
+Si 
+Los alimentadores “RODILLO” y “DESIERTO 
+FLORIDO” tienen hora de normalización 
+equivalente previa a la hora de disponibilidad 
+de la barra. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+ 
+Se solicita detallar el mecanismo de 
+recuperación de estas cargas para los 
+alimentadores donde esto se presente, y 
+con el desglose requerido por la SEC, esto 
+es comunal y por zona de tarificación 
+ 
+Alimentadores 
+“RODILLO”, 
+“DESIERTO 
+FLORIDO” y “BAHÍA INGLESA” de S/E 
+Caldera tienen una diferencia en hora de inicio 
+de Desconexión de 58 minutos posteriores a la 
+hora efectiva informada en la Solicitud de 
+Desconexión.  
+   
+Revisar y corregir según corresponda, 
+justificando las diferencias.  
+ 
+SD2026045404 
+13-05-2026 
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Tap Off 
+Dolores 
+Parcial 
+Si 
+Los siguientes clientes libres en distribución no 
+se encuentran en las bases del Coordinador: 
+ 
+- FUERZA AEREA DE CHILE (61103003) 
+BA S/E TAP OFF DOLORES 13.8KV. 
+- SOCIEDAD CONTRACTUAL MINERA 
+COMPAÑÍA MINERA NEGREIROS 
+(96630310) 
+BA 
+S/E 
+TAP 
+OFF 
+DOLORES 13.8KV. 
+ 
+Enviar antecedentes corregidos, indicando 
+para los clientes libres la respectiva clave 
+de balance. 
+SD2026047658 
+17-05-2026 
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Taltal 
+(Elecda) 
+Parcial 
+Si 
+Envía distintas horas de normalización para el 
+alimentador "TALTAL" en la comuna de Tal tal.  
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+Se 
+solicita 
+enviar 
+una 
+única 
+hora 
+de 
+normalización 
+equivalente 
+para 
+el 
+par 
+alimentador-comuna señalado. 
+  
+Enviar antecedentes corregidos.  
+SD2026049132 
+08-05-2026 
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Cerrillos 
+Parcial 
+Si 
+Los alimentadores “EL YESO” y “COEMIN” 
+tienen hora de normalización equivalente 
+previa a la hora de disponibilidad de la barra. 
+ 
+Se solicita detallar el mecanismo de 
+recuperación de estas cargas para los 
+alimentadores donde esto se presente, y 
+con el desglose requerido por la SEC, esto 
+es comunal y por zona de tarificación 
+ 
+ 
+ 
+Los siguientes clientes libres en distribución no 
+se encuentran en las bases del Coordinador: 
+ 
+- AGRICOLA 
+DON 
+ALFONSO 
+SPA 
+(76033092) 
+BA 
+S/E 
+CERRILLOS 
+23KV. 
+- AGRICOLA 
+DAINAL 
+LIMITADA 
+(76128150) 
+BA 
+S/E 
+CERRILLOS 
+23KV. 
+- AGRICOLA U.A.C. LTDA. (79534860) 
+BA S/E CERRILLOS 23KV. 
+ 
+Enviar antecedentes corregidos, indicando 
+para los clientes libres la respectiva clave 
+de balance. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+SD2026049966 
+10-05-2026 
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Rengo 
+ 
+Si 
+Si 
+La información recibida de la empresa 
+distribuidora 
+Compañía 
+General 
+de 
+Electricidad S.A. fue recibida en plazo y en 
+forma, e incorporada al cálculo.  
+SD2026049980 
+11-05-2026 
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Plantas 
+S/E Tierra 
+Amarilla 
+Parcial 
+Si 
+No 
+envía 
+consumos 
+afectados 
+por 
+el 
+alimentador “VIÑITA” asociado al paño PA S/E 
+TIERRA AMARILLA E2. 
+ 
+Enviar antecedentes solicitados. 
+ 
+El siguiente cliente libre en distribución no se 
+encuentran en las bases del Coordinador: 
+ 
+- COMERCIAL 
+BB 
+TRADING 
+SPA 
+(76413694) BA S/E PLANTAS 13.8KV. 
+ 
+Enviar antecedentes corregidos, indicando 
+para el cliente libre la respectiva clave de 
+balance. 
+SD2026046996 
+15-05-2026 
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Central Los 
+Molles 
+Parcial 
+Si 
+Los siguientes clientes libres en distribución no 
+se encuentran en las bases del Coordinador: 
+ 
+- VERALLIA CHILE S.A. (76092970) BA 
+S/E RENGO 15KV BP1. 
+- EXPORTADORA 
+CAMARICO 
+S.A. 
+(76426710) BA S/E RENGO 15KV 
+BP1. 
+- PROCESADORA DE ALIMENTOS DEL 
+SUR 
+LTDA 
+(77476390) 
+BA 
+S/E 
+RENGO 15KV BP1. 
+- COLBUN S.A (96939290) BA S/E 
+RENGO 15KV BP1. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+Enviar antecedentes corregidos, indicando 
+para los clientes libres la respectiva clave 
+de balance. 
+SD2026046997 
+ 15-05-2026 
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Central Los 
+Molles 
+Parcial 
+Si 
+La información recibida de la empresa 
+distribuidora 
+Compañía 
+General 
+de 
+Electricidad S.A. fue recibida en plazo y en 
+forma, e incorporada al cálculo.  
+SD2026048572 
+17-05-2026 
+Compañía 
+General de 
+Electricidad S.A.  
+S/E Taltal 
+(Elecda) 
+Parcial 
+Si 
+No informa mecanismo de recuperación para el 
+alimentador 
+"TALTAL” 
+cuya 
+hora 
+de 
+normalización de consumo es previa a la hora 
+de disponibilidad de la barra. 
+Enviar antecedentes corregidos.  
+ 
+Envía distintas horas de desconexión para el 
+alimentador "TALTAL" en la comuna de Tal tal.  
+Se solicita enviar una única hora de 
+desconexión 
+equivalente 
+para 
+el 
+par 
+alimentador-comuna señalado. 
+SD2026040794 
+03-05-2026 
+Chilquinta 
+Distribución S.A. 
+S/E Placilla 
+(Chilquinta) 
+S/E Placeres 
+Parcial 
+Si 
+Los siguientes clientes libres en distribución no 
+se encuentran en las bases del Coordinador: 
+ 
+- INVERSIONES 
+TROLEBUSES 
+VALPARAISO LIMITADA (77135490) 
+BA S/E LOS PLACERES 12KV BP2 
+- SCALA CHILE DATA CENTERS SPA 
+(77332843) BA S/E LOS PLACERES 
+12KV BP2. 
+ 
+Enviar antecedentes corregidos, indicando 
+para los clientes libres la respectiva clave 
+de balance. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+SD2026048712 
+06-05-2026 
+Cooperativa de 
+Consumo de 
+Energía Eléctrica 
+Chillán Ltda. 
+S/E Chillán 
+Si 
+Parcial 
+Los siguientes clientes libres en distribución no 
+se encuentran en las bases del Coordinador: 
+ 
+- EMPRESAS COPEC S.A. (90690000) 
+BA S/E CHILLAN 13.2KV B1. 
+- COAGRA S.A. (96686870) BA S/E 
+CHILLAN 13.2KV B1. 
+ 
+Enviar antecedentes corregidos, indicando 
+para los clientes libres la respectiva clave 
+de balance. 
+SD2026054306 
+20-05-2026 
+Cooperativa de 
+Consumo de 
+Energía Eléctrica 
+Chillán Ltda. 
+S/E Recinto 
+Si 
+- 
+Empresa 
+distribuidora 
+Cooperativa 
+de 
+Consumo de Energía Eléctrica Chillán Ltda. 
+indica que no se registra pérdida de suministro 
+en Solicitud de Desconexión SD2026054306.   
+SD2026047645 
+17-05-2026 
+Cooperativa 
+Eléctrica Los 
+Ángeles Ltda. 
+S/E Los Ángeles 
+(CGE) 
+Si 
+Si 
+La información recibida de la empresa 
+distribuidora 
+Cooperativa 
+Eléctrica 
+Los 
+Ángeles Ltda. fue recibida en plazo y en forma, 
+e incorporada al cálculo. 
+SD2026037997 
+10-05-2026 
+Empresa Eléctrica 
+de la Frontera 
+S.A. 
+S/E Faenas 
+Pangue 
+Si 
+Si 
+La información recibida de la empresa 
+distribuidora Empresa Eléctrica de la Frontera 
+S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+SD2026047645 
+17-05-2026 
+Empresa Eléctrica 
+de la Frontera 
+S.A. 
+S/E Los Ángeles 
+(CGE) 
+Si 
+Si 
+La información recibida de la empresa 
+distribuidora Empresa Eléctrica de la Frontera 
+S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+SD2026050112 
+31-05-2026 
+Empresa Eléctrica 
+de la Frontera 
+S.A. 
+S/E Collipulli 
+Si 
+Si 
+La información recibida de la empresa 
+distribuidora Empresa Eléctrica de la Frontera 
+S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+SD2026037997 
+10-05-2026 
+Cooperativa 
+Eléctrica Charrúa 
+Ltda. 
+S/E Faenas 
+Pangue 
+No 
+- 
+No envía anexo con los alimentadores que 
+fueron afectados según la Solicitud de 
+Desconexión SD2026037997 para la S/E con 
+consumos afectados mencionada (Solicitado 
+en comunicación DE03988-26).   
+  
+Enviar antecedentes solicitados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 2: Estado de completitud y calidad de información solicitada a Clientes Libres en Transmisión  
+ 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Empresa 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+SD2026045404 
+13-05-2026 
+Enorchile S.A. 
+S/E Tap Off 
+Dolores 
+Si 
+Si 
+La información recibida desde el cliente 
+libre en transmisión Enorchile S.A. fue 
+recibida 
+en plazo y 
+en forma, e 
+incorporada al cálculo. 
+SD2026048831 
+07-05-2026 
+Guanaco 
+Compañía Minera 
+SpA 
+S/E Guanaco 
+No 
+- 
+No envía anexo con los alimentadores 
+que fueron afectados según la Solicitud 
+de Desconexión SD2026048831 para la 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Empresa 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+S/E con consumos afectados mencionada 
+(Solicitado en comunicación DE03994-
+26).   
+  
+Enviar antecedentes solicitados.  
+SD2026042652 
+17-05-2026 
+Nueva Atacama 
+S.A. 
+S/E Caldera 
+No 
+- 
+No envía anexo con los alimentadores 
+que fueron afectados según la Solicitud 
+de Desconexión SD2026042652 para la 
+S/E con consumos afectados mencionada 
+(Solicitado en comunicación DE03995-
+26).   
+  
+Enviar antecedentes solicitados.  
+ 

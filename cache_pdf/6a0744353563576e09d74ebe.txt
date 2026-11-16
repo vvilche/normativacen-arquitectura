@@ -1,0 +1,179 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 15 de mayo de 2026 
+DE 03321-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de parámetros de Partida y 
+Detención de la central PFV Peumo. 
+ 
+[1] Carta S/N del Coordinado Empresa Eléctrica 
+Peumo SpA, Ref.: “Envío de Informe de Parámetros 
+de Partida y Detención, NUP 3586 Proyecto Solar 
+Peumo”, de fecha 18 de marzo de 2026. Ingreso 
+DE02837-26.  
+[2] Carta DE02394-26, Ref.: [NUP 3586] Informes 
+Técnicos de Parámetros Operacionales de la 
+central PFV Peumo”, de fecha 13 de abril de 2026. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros de Partida y Detención de Unidades Generadoras” de la Norma Técnica de 
+Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte del Coordinador 
+Eléctrico Nacional de los Parámetros de Partida y Detención de la Central PFV Peumo, en 
+conformidad con el Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 11 del Anexo Técnico en 
+aplicación, no se recibieron observaciones de Coordinado alguno al informe técnico ya 
+mencionado, publicado en la página web del Coordinador mediante la comunicación de la 
+Ref. [2]. Por su parte, el Coordinador Eléctrico no tiene observaciones de carácter técnico 
+al informe mencionado. 
+ 
+Conforme con lo anterior, los valores de los Parámetros de Partida y Detención de la Central 
+PFV Peumo se presentan en las tablas contenidas en el Anexo 1 de la presente carta. 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en la Tablas 1 y 2 entrarán 
+en vigencia a partir de las 00:00 horas del 20 de mayo de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Parámetros de Partida y Detención > Informes de 
+Determinación de Parámetros de Partida y Detención > Central PFV Peumo > 2026 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PVV/CRV/PPF/AHM/PCG/adr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Anexo 1: Parámetros del proceso de partida y detención de la Central  
+PFV Peumo 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PFV Peumo (1) 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – 
+Sincronización 
+Consumo SSAA [MWh] 
+0 
+0,0001 
+Tiempo [minutos] 
+0,1300 
+0,7533 
+Sincronización – 
+Mínimo Técnico 
+Consumo SSAA [MWh] 
+0 
+0,0001 
+Tiempo [minutos] 
+0,5000 
+0,4833 
+Mínimo Técnico – 
+Potencia Nominal 
+Consumo SSAA [MWh] 
+0 
+0,0009 
+Tiempo [minutos] 
+0,7733 
+4,7017 
+(1) Los valores de potencia máxima y mínima neta de la Central PFV Peumo son de 8,4944 
+MW y 0,0111 MW respectivamente. 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PFV Peumo 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia Nominal 
+– Mínimo Técnico 
+Consumo SSAA [MWh] 
+0 
+0,0009 
+Tiempo [minutos] 
+0,0333 
+4,7683 
+Mínimo Técnico – 
+Desconexión 
+Consumo SSAA [MWh] 
+0 
+0,0001 
+Tiempo [minutos] 
+0,3183 
+0,4217 
+Desconexión - 
+Detención 
+Consumo SSAA [MWh] 
+0 
+0 
+Tiempo [minutos] 
+0,0050 
+0,0067 
+ 
+ 
+Nota: El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo en Estado Detenido 
+(TMD) son 0 [min]. 
+ 

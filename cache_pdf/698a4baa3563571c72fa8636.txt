@@ -1,0 +1,89 @@
+GO N°028/2026
+Santiago, 06 de febrero de 2026
+Señor
+Rodrigo Espinoza V.
+Gerente de Operación
+Coordinador Eléctrico Nacional
+Presente
+Ant.:  [1] Carta GO 0190/25, del 05 de agosto de 2025, Ref.: “Actualiza respecto del estado de
+avance del proyecto implementación del EDAG de la Zona Norte del PDCE ZN – PE
+Horizonte Norte y Sur”.
+[2] Carta DE 04591-25, del 25 de julio de 2025, Ref.: “Estado de avance de implementación
+del EDAG de la Zona Norte del PDCE ZN”.
+[3] Carta GO Nº072/2025, del 21 de abril de 2025, Ref.: “Incorporación de unidades
+generadoras al EDAG ZN del PDCE Zona Norte – PE Horizonte”.
+[4] Carta DE 02069-25, del 15 de abril de 2025, Ref.: “Incorporación de unidades generadoras
+al EDAG de la Zona Norte del PDCE ZN”.
+Ref.:
+Informa el estado de avance del proyecto de integración del PE Horizonte Norte y Sur
+al EDAG de la Zona Norte del PDCE ZN.
+De mi consideración:
+En relación con nuestra última comunicación indicada en Ant. [1], escribo para informar sobre el
+estado de avance del proyecto de la referencia, detallar las últimas actividades y razones que han
+generado retrasos respecto a la fecha originalmente comprometida.
+•
+A finales de diciembre de 2025 Colbún S.A. sostuvo una reunión técnica con el Departamento
+de Modelación y Aplicaciones EMS del Coordinador, en la cual presentó la propuesta de
+filosofía y se plantearon consultas relacionadas con el proyecto de integración de los parques
+PE Horizonte Norte y Sur al EDAG del PDCE ZN.
+•
+Posteriormente, en el mes de enero de 2026, Colbún S.A. sostuvo una reunión técnica con
+personal de Engie y SEIS, en la cual se resolvieron dudas en temas de telecomunicaciones y
+sobre la incorporación a la celda maestra, también se abordaron aspectos comerciales que
+impedían el avance del proyecto.
+•
+Otras actividades que afectaron el avance del proyecto tienen relación con los tiempos de
+entrega de suministros.
+
+En este contexto, hoy nos encontramos en condiciones de informar al Coordinador la reprogramación
+de las actividades finales que permitirán concretar la integración de los parques PE Horizonte Norte
+y Sur al EDAG de la Zona Norte del PDCE ZN. El programa y porcentaje de avance se presenta en
+la tabla a continuación:
+Tabla 1: Programa y estado de avance proyecto de integración de PE Horizonte Norte y Sur al EDAG ZN del PDCE ZN.
+PE HORIZONTE NORTE Y SUR
+Ítem
+Actividad
+Fecha de
+inicio
+Fecha de
+Término
+Avance
+1 
+Levantamiento y desarrollo de la ingeniería conceptual
+01-07-2025
+30-07-2025
+100%
+2 
+Contratación servicios, suministro, construcción y configuración Celda Local
+01-08-2025
+30-10-2025
+100%
+3 
+Desarrollo de ingeniería y construcción Celda Local PE Horizonte Norte y Sur
+06-11-2025
+16-01-2025
+100%
+4 
+Pruebas FAT Celda Local PE Horizonte Norte y Sur
+28-01-2026
+02-02-2026
+100%
+5 
+Contratación, configuración de equipamiento de telecomunicaciones (TI/TO)
+13-01-2026
+20-02-2026
+50%
+6 
+Configuración Celda Maestra (Empresa SEIS) PE Horizonte Norte y Sur
+06-02-2026
+24-02-2026
+40%
+7 
+Montaje y Comisionamiento Celda Local PE Horizonte Norte y Sur
+16-02-2026
+24-02-2026
+0%
+Sin otro particular, le saluda atentamente,
+Rafael Zamorano Z.
+Encargado Suplente
+COLBÚN S.A.

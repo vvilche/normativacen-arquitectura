@@ -1,0 +1,128 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+Santiago, 27 de febrero de 2026 
+DE 01380-26 
+ 
+Señora 
+María José Reveco A. 
+Encargada Titular 
+Transmisora Parinas S.A. 
+Presente 
+ 
+Ref.: Resultado de Ensayos de Verificación de 
+Servicios Complementarios – Control de Tensión (CT) 
+de reactores en S/E Jadresic. 
+[1] Carta OR-000056-2026 de Transmisora Parinas 
+S.A., Ref.: “Responde a Observaciones a Protocolos 
+de Verificación de SSCC de Control de Tensión 
+de S/E Jadresic”, de fecha 13 de febrero de 2025.  
+Responde Ingreso DE01350-26. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico de 
+verificación de Servicios Complementarios (SSCC) enviado por su representada mediante la 
+carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 4-16 
+de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el proceso de 
+Verificación de Servicios Complementarios de Control de Tensión (CT) de los  Reactores de los 
+paños KZ1 y KZ2 de la S/E Jadresic, propiedad de Transmisora Parinas S.A.  
+ 
+Como resultado de este proceso, la instalación indicada queda habilitada para la prestación de 
+dicho servicio, mediante el recurso técnico identificado en el Anexo 1 de la presente carta. 
+ 
+El informe técnico que justifica la Verificación de Servicios Complementarios de Control de 
+Tensión (CT) de la instalación ya mencionada se encuentra publicado en el sitio web del 
+Coordinador en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Transmisión > Control de 
+Tensión > Reactores > S/E Jadresic 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/PBA/ycl 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+Anexo 1: Resultados Proceso de Verificación de Servicios 
+Complementarios de Control de Tensión (CT) de los Reactores KZ1 y KZ2 de la S/E 
+Jadresic 
+1. Identificación de Instalaciones Verificadas 
+Reactores en S/E Jadresic, paños KZ1 y KZ2, con una capacidad de absorción nominal de 
+150 [MVAr] cada uno. 
+ 
+2. Servicios Complementarios que presta la instalación 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+ 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+• 
+El tiempo que transcurre desde que se recibe la orden de energizar el reactor hasta que 
+se concreta efectivamente la maniobra es de 160 [mseg] para el reactor KZ1, y de 167 
+[mseg] para el reactor KZ2. 
+ 
+• 
+El Control de Tensión se realiza en barra 500kV de SE Jadresic. 
+ 
+4. La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Transmisora Parinas S.A. 
+para su instalación asociada a la S/E Jadresic. 
+ 
+5. Cuantía del recurso que puede prestar la instalación por Servicio Complementario, 
+categorías y subcategorías. 
+Se verifican dos (2) bancos de reactores monofásicos, marca ABB, con una capacidad total 
+de 150 [MVAr] cada uno, en la S/E Jadresic perteneciente a Transmisora Parinas S.A.  
+ 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión  
+Subcategoría 
+Control de Tensión  
+Modos de Control 
+Control de Potencia Reactiva y 
+Control de Tensión 
+Instalación 
+Tensión [pu] 
+ 
+Condición 
+Potencia Reactiva Máxima [MVAr] 
+0,93  
+0,95 
+1,00 
+1,05  
+1,07  
+Reactor S/E Jadresic KZ1 
+Máxima Absorción 
+127,75 
+133,51 
+147,71 
+162,85 
+169,11 
+Reactor S/E Jadresic KZ2 
+Máxima Absorción 
+128,19 
+133,77 
+148,22 
+163,41 
+169,69 
+ 

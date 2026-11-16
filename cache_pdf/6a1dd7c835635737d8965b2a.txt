@@ -1,0 +1,119 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 29 de mayo de 2026 
+OLM 0018-2026 
+ 
+ 
+Señor  
+Rodrigo Espinoza 
+Gerente de Operación  
+Coordinador Eléctrico Nacional  
+ 
+Ref: Responde carta DE03429-26 sobre proceso de verificación de Control 
+Secundario de Frecuencia e incorporación a la herramienta de despacho económico. 
+[1] DE03429-26, “Proceso de Verificación del Servicio Complementario (SC) de Control 
+Secundario de Frecuencia (CSF-AGC) e incorporación a la herramienta de despacho 
+económico (ED)”, de fecha 20 de mayo de 2026. 
+[2] OLM 0007-2026,” Responde carta DE01004-26 sobre atraso en proceso de verificación 
+de Servicios Complementarios.”, de fecha 6 de marzo de 2026. 
+ 
+ 
+De mi consideración, 
+ 
+A continuación, se indica información solicitada por Ud. a través de la comunicación 
+indicada en la Ref. [1]: 
+  
+1. Informe con estado de implementación de enlaces y señales requeridas y su 
+correspondiente integración al SITR/AGC del Coordinador. 
+a. Enlaces no implementados.  
+b. Enlaces implementados en instalaciones de su representada.  
+c. Pruebas punto a punto ejecutadas sobre los enlaces implementados, 
+verificando su integración al SITR con el Coordinador -gestionada con 
+el Departamento SCADA- y correspondiente recepción de señales.  
+d. Pruebas funcionales de integración al Despacho Económico vía AGC, 
+programadas con el Coordinador.  
+ 
+RESP: A la fecha todas las señales requeridas se encuentran habilitadas. Las señales 
+implementadas, revisadas y disponibles son: 
+ 
+  
+Tag 
+Tipo 
+Valor 
+Unidad 
+1 
+SCED_Activation Consigna Ext Limitador 
+Carga 
+Discrete 
+UNDEFINED   
+2 SCED_Consigna Tasa Carga Ramp Down Analog 
+0 MW/Min 
+3 SCED_Consigna Tasa Carga Ramp Up 
+Analog 
+0 MW/Min 
+4 SCED_Limite Inferior 
+Analog 
+9 MW 
+5 SCED_Limite Superior 
+Analog 
+91 MW 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+  
+Tag 
+Tipo 
+Valor 
+Unidad 
+6 SCED_Potencia Activa Disponible 
+Analog 
+21.91 MW 
+7 SCED_Potencia activa instantánea 
+Analog 
+20.96 MW 
+8 SCED_Setpoint Limitador Carga CEN 
+Analog 
+57 MW 
+ 
+Las pruebas punto a punto y las pruebas funcionales de integración al Despacho 
+Económico vía AGC aún están pendientes de coordinación. Estas actividades están 
+sujetas a la finalización de la actualización del controlador del parque, actividad que mi 
+representada se encuentra ejecutando con el especialista técnico y que fue informada 
+a este coordinador en la comunicación de la Ref. [2]. 
+ 
+2. Cronograma con hitos y plazos específicos en que ejecutará cada etapa listada en 
+literal a) anterior, considerando como plazo máximo para el término de la 
+implementación el mes de noviembre de 2026.  
+ 
+RESP: Por las razones mencionadas en el punto anterior, se propone el siguiente 
+cronograma de actividades actualizado: 
+ 
+Ítem Nombre de tarea 
+Estado 
+Comienzo Fin 
+1 Pruebas punto a punto  Pendiente 
+01/10/2026 16/10/2026 
+2 Pruebas funcionales 
+Pendiente 
+19/10/2026 29/10/2026 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+Energía Eólica Los Olmos SpA. 
+ 
+ 

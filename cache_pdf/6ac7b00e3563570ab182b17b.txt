@@ -1,0 +1,54 @@
+ 
+Av. Santa María 2120, Providencia, Santiago 
++562 24102530 
+www.enorchile.cl 
+ 
+Santiago, 30 de septiembre de 2026 
+ 
+ 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+Ref.: Complementa carta DE07810-26 
+[1] DE07810-26:  Solicita aumento de plazo respecto 
+a la implementación de puntos de monitoreo del 
+Módulo de Medición Fasorial del SEN. 
+[2] DE09640-25 
+[3] DE04823-25 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en complemento a la solicitud de extensión de plazo indicada en la Ref 
+[1], detallamos los fundamentos técnicos requeridos para las adecuaciones en la Central Ujina, las 
+cuales surgieron como imprevistos respecto a la planificación original 
+ 
+ 
+Durante el desarrollo de la ingeniería se verificó que los equipos actuales operan a su máxima 
+capacidad. Por lo tanto, para integrar las señales de las PMU de forma segura, se requiere la 
+provisión e instalación de nuevo equipamiento, lo que añade tiempos de suministro y montaje 
+no previstos. 
+ 
+ 
+La distancia física entre los equipos y el tablero central exige obras civiles imprevistas y 
+canalizaciones de gran extensión, lo cual impacta directamente en los tiempos de ejecución. 
+Cabe destacar que los trabajos se desarrollan en faenas mineras de gran altitud, lo que obliga a cumplir 
+con procesos de acreditación y acceso que impactan los plazos de implementación en terreno. 
+ 
+Esta solicitud se enmarca en el Artículo 65 del Anexo Técnico: Sistema de Monitoreo, el cual indica 
+que los Coordinados tendrán un plazo de 18 meses para adecuar las instalaciones a partir de la 
+comunicación indicada en la Ref [3]. 
+ 
+Sin otro particular, quedamos a la espera de la aprobación de esta solicitud. 
+ 
+Saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+Juan Pablo Elgueta 
+Administrador de Contrato Central Ujina 
+EnorChile S.A 
+Docusign Envelope ID: 6EEDE4D1-73BB-8EBD-8309-829085182AAF

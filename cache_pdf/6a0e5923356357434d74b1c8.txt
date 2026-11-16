@@ -1,0 +1,185 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 20 de abril de 2026 
+DE 03456-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Parámetro de Potencia 
+Máxima de la Central Renovable con Capacidad de 
+Almacenamiento PFV-BESS Andes Solar III. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 y 39 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación del valor de Potencia Máxima de la Central 
+Renovable con Capacidad de Almacenamiento (CRCA) PFV-BESS Andes Solar III, en 
+conformidad con el informe técnico de Potencia Máxima recibido mediante la comunicación 
+de la Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 23 del Anexo Técnico en 
+aplicación no se recibieron observaciones de Coordinado alguno al informe técnico ya 
+mencionado, publicado en la página web del Coordinador mediante carta de la Ref. [2]. Por 
+su parte, el Coordinador no tiene observaciones de carácter técnico al informe mencionado. 
+ 
+Conforme a lo anterior, los valores de los parámetros técnicos de Potencia Máxima de la 
+Central PFV-BESS Andes Solar III, se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV-BESS Andes Solar III. 
+Central/Unidad 
+Modo de 
+operación 
+Tiempo 
+carga/descarga 
+[hrs] 
+Potencia 
+Máxima 
+Bruta 
+[MW] 
+SS.AA 
+[MW] 
+Pérdidas 
+en la 
+central (1) 
+[MW] 
+Potencia 
+Máxima 
+Neta (2) 
+[MW] 
+PFV-BESS  
+Andes Solar III 
+(CRCA) 
+PFV 
+- 
+158,9339 0,5331 
+5,1748 
+153,2260 
+BESS 
+Descarga 
+3,0000 
+177,4809 0,5499 
+6,1415 
+170,7895 
+PFV+BESS 
+Generación 
+Conjunta 
+- 
+176,2157 0,5488 
+5,8611 
+169,8058 
+BESS 
+Carga desde 
+PFV 
+3,2276 
+-158,9339 0,5440 
+3,3958 
+N/A (3)  
+(1) El detalle de pérdidas se indica en el Anexo. 
+(2) Potencia inyectada en la barra de 220 kV de S/E Futuro. 
+(3) No se considera retiros de energía desde la red, según lo informado por el titular. Adicionalmente, tampoco 
+se considera potencia neta en la barra MT porque el PFV y BESS están acoplados en DC. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en la Tabla 1 entrarán en 
+vigencia a partir de las 00:00 horas del 22 de mayo de 2026. 
+ 
+El informe técnico de Potencia Máxima de la Central Renovable con Capacidad de 
+Almacenamiento Andes Solar III, que contiene la justificación de los parámetros indicados 
+anteriormente, puede ser descargado en la siguiente ruta del sitio web del Coordinador 
+Eléctrico Nacional: 
+ 
+Inicio > Operación del sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > Central 
+PFV-BESS Andes Solar III > 2026 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PVV/CRV/PPF/RSM/ycl 
+ 
+Referencias 
+ 
+[1] Carta ASIII 0014-2026, Ref.: “NUP 4857 – Responde a Observaciones Informe de Potencia Máxima”, de 
+fecha 03 de marzo de 2026. Ingreso DE02109-26 
+ 
+[2] Carta DE01643-26, Ref.: “[NUP 4857] Informes Técnicos de Parámetros Operacionales de la Central 
+Renovable con Capacidad de Almacenamiento Andes Solar III”, de fecha 11 de marzo de 2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Anexo 
+ 
+Tabla 2: Desglose de las pérdidas asociadas a las pruebas de Potencia Máxima de la Central 
+PFV-BESS Andes Solar III 
+Central 
+Configuración 
+Pérdidas 
+totales [MW] 
+Pérdidas en el 
+transformador [MW] 
+Pérdidas en sistema 
+colector [MW] 
+BESS-PFV 
+Andes Solar III 
+PFV 
+5,1748 
+0,2980 
+4,8768 
+BESS modo 
+descarga 
+6,1415 
+0,3429 
+5,7986 
+PFV+BESS 
+modo descarga 
+5,8611 
+0,3403 
+5,5208 
+Carga BESS 
+3,3958 
+0,1123 
+3,2835 
+ 

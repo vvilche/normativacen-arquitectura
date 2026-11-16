@@ -1,0 +1,82 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 11 DE JUNIO .2025 
+COM-15/2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para mayo del 2025. 
+ 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para mayo 2025. 
+ 
+1) 
+El 01-05-2025 la central PENON_DIESEL fue activada por CTF (+) a las 08:01 hrs. siendo retirada 
+a las 08:13 hrs. Posteriormente, a las 08:22 hrs. el CDC instruyó nuevamente la activacion de la 
+reseva de CTF (+), aunque la central se encontraba en proceso de salida. La central salió de 
+servicio a las 08:24 y volvió a ingresar a las 08:25 para prestar la reserva solicitada (adjudicada 
+y solicitada a esa hora), como se menciona en la grabación “20250501083408”.  Sin embargo, 
+debido a que en el momento de la activación la central estaba disminuyendo generación se 
+registra una potencia inicial, afectando el desempeño por evaluación 1.  
+En este contexto, se presentan escenarios que impiden la correcta evaluación de desempeños 
+y penalización de ingresos de la central. Al momento de la segunda activación, PENON_DIESEL 
+se encontraba terminando su proceso de salida. Por lo que se mantuvo la acción para ingresar 
+a cumplir con la reserva solicitada. Esto afecta la evaluación 1 a pesar que la reserva fue 
+prestada cumpliendo con un 84% en los indicadores 2 y 3.  
+Por otro lado, durante la primera activación el CDC tenía disponible la central para la prestación 
+de CTF (+) hasta las 09:16 por lo que la central pudo mantenerse en servicio con instrucciones 
+intermedias (continuidad) hasta que se estabilizaran las desviaciones de frecuencía que 
+afectaban al sistema en la hora en cuestión. Sin embargo, como se menciona en la metodología 
+de calculo de desempeño publicada en 2023, punto 2.3.3, la continuación del servicio activado 
+aplica cuando existe una modificación de la instrucción inicial (consigna N) otorgando al 
+coordinado una segunda instrucción (consigna N+1). Este criterio no aplica a esta situación en 
+particular ya que la central mantenia una instrucción de salida de servicio y no se encontraba 
+con inyección estable con una consigna N.  
+
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+No menor es que el indicador de desempeño calculado afecta directamente a la energía 
+tranzada de la primera activación. Cabe mencionar que ya se han realizado observaciones 
+similares con respecto a dos activaciones en una misma hora en la publicación de indicadores 
+de enero 2025. Donde se recibe en respuesta que el factor de activación horario es 
+determinado por el promedio simple de las n instrucciones de una hora H. Sin embargo, en 
+este caso en particular no debiese aplicar la metodología de calculo de desempeño de CTF 
+con instrucciónes intermedias como ya fue mencionado anteriormente. 
+Por estas razones se solicita que se considere para la activación de las 08:22 del 01-05-2025 de 
+PEÑON_DIESEL una potencia inicial de 0 MW, considerando que la central sale de servicio 
+antes de prestar la reserva. Tambien se solicita que se realice una modificación a la 
+metodología de calculo de desempeño que defina el calculo del factor de desempeño horario 
+cuando ocurran n activaciones en una hora. Este factor de activación horario debe ser 
+representativo, realizando el promedio simple de todos los factores de cumplimiento, en vez 
+de los factores de activación. Considerando que con esta metodología solo un factor de 
+cumplimiento en cero penaliza completamente al menos 2 activaciones con 100% de 
+desempeño, al menos 3 activaciones con 95% de desempeño y al menos 4 activaciones con 
+93% de desempeño.  
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+Gustavo Venegas H. 
+Encargado Titular 
+Enlasa Generación Chile S.A. 

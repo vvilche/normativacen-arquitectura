@@ -1,0 +1,49 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+GMH N°2026-057 
+15 de abril de 2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+Ref.: Observación Indicadores de Desempeño de Servicios Complementarios durante el mes de febrero 2026, 
+Control de Tensión PFV CEME 1. 
+ 
+Por medio de la presente, y en relación con la comunicación DE 1730-26, de fecha 17 de marzo de 2026, 
+mediante la cual se informó la disponibilidad de la segunda versión de los Indicadores de Desempeño de 
+Servicios Complementarios correspondientes al mes de febrero 2026, así como también se remitieron las 
+respuestas a las observaciones recibidas a la primera versión del Informe, se hace presente lo siguiente: 
+ 
+En dicha comunicación, no fue acogida la observación a la instrucción de Control de Tensión Manual de PFV 
+CEME 1, correspondiente al día 16-02-2026 a las 9:47 horas, en la cual se señalaba que “El probatorio enviado 
+indica que la unidad fue seteada con -40MVAr, cuando la correcta interpretación de la instrucción es absorber 
+-40 MVAr adicionales a los -15MVAr ya absorbidos en la anterior instrucción”.  
+ 
+Con posterioridad a la recepción de la referida carta, se remitió mediante correo electrónico la grabación de 
+la instrucción. En respuesta, el Coordinador solicitó que dicha información fuera ingresada formalmente a 
+través de correspondencia.  
+ 
+En virtud de lo anterior GM Holdings S.A, (“GMH”) envía como adjunto a esta comunicación la grabación de 
+la instrucción en que, el despachador del Coordinador consulta cuanto puede absorber CEME1, el 
+Despachador GM responde que pueden llegar a -40 MVAr, a lo que el Despachador CDC indica que adelante 
+con los -40.  
+ 
+En virtud de lo anterior, GMH solicita corregir la evaluación, debido a que según se registra en el audio se 
+solicitó y confirmó llevar a PFV CEME1 a -40 MVAr, no absorber 40 MVAr adicionales. 
+ 
+Sin otro particular, le saluda atentamente, 
+  
+ 
+ 
+ 
+Carolina Vélez K. 
+Encargada Titular 
+GM Holdings S.A. 

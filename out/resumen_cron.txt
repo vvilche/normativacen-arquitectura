@@ -1,0 +1,20 @@
+RADAR NORMATIVO CEN — 16-11-2026
+
+  SLRP   196 sin cerrar · 142 empresas
+  SITR   680 sin cerrar · 374 empresas
+  EDAC   190 sin cerrar ·  95 empresas
+  EDAG    76 sin cerrar ·  51 empresas
+  PMU    505 sin cerrar · 280 empresas
+  PRS     59 sin cerrar ·  30 empresas
+
+ODOO
+  CLIENTE    171 frentes
+  PIPELINE   131 frentes
+  PROSPECTO  1224 frentes
+
+TOP 5 CUENTAS (solo ODOO cliente, reqs sumados)
+  1. Engie Energía Chile S.A. — 62 reqs — EDAG, PMU, PROTECCIONES, PRS, SITR, SSCC
+  2. Colbún S.A. — 49 reqs — EDAG, PMU, PROTECCIONES, PRS, SITR, SSCC
+  3. AES ANDES S.A — 32 reqs — EDAG, PMU, PROTECCIONES, PRS, SITR, SSCC
+  4. Transelec S.A. — 31 reqs — EDAG, PMU, PROTECCIONES, PRS, SITR, SLRP, SSCC
+  5. CGE Transmisión S.A. — 25 reqs — EDAG, PMU, PROTECCIONES, SITR, SLRP, SSCC

@@ -1,0 +1,254 @@
+ 
+ 
+Información Interna del Grupo SAESA.
+N° 1588029 
+Santiago, 02 de septiembre de 2026 
+Señor 
+Rodrigo Espinoza V.  
+Gerente de Operación  
+Coordinador Eléctrico Nacional 
+Presente 
+REF.: Respuesta a carta DE 05756-26 - 
+Solicita antecedentes respecto pérdida 
+de SITR 25 y 26 de agosto de 2026  
+ 
+Junto con saludar, acusamos recibo de la carta DE 05756-26, mediante la cual se solicitan 
+antecedentes respecto de los eventos registrados los días 25 y 26 de agosto de 2026 asociados a la 
+pérdida del Sistema de Información en Tiempo Real (SITR). 
+a) Instalaciones afectadas 
+El detalle de las instalaciones afectadas por la pérdida de SITR se acompaña en Anexo 1 
+b) Determinación preliminar de causa raíz 
+Actualmente se encuentra en desarrollo el proceso interno de análisis de causa raíz. Conforme a los 
+antecedentes disponibles, durante una maniobra habitual de conmutación de servidores EMS, 
+ejecutada debido a condiciones de lentitud e inestabilidad observadas en la plataforma SCADA, la 
+conmutación no produjo el resultado esperado y generó la indisponibilidad de las instalaciones 
+señaladas en el Anexo 1. Durante las acciones de recuperación se detectó la inhabilitación de un 
+parámetro asociado a la comunicación entre el sistema y las instalaciones remotas. A la fecha se 
+evalúa si dicha condición pudo estar relacionada con eventos de utilización de espacio en disco 
+observados en servidores de la plataforma o si se produjo de manera involuntaria durante el proceso 
+de recuperación. Esta hipótesis se mantiene en evaluación y será confirmada mediante el análisis de 
+causa raíz en curso. 
+c) Acciones implementadas 
+Se ejecutó un plan de remediación inmediata orientado al restablecimiento controlado de las 
+funcionalidades del sistema, priorizando la continuidad operacional de las instalaciones asociadas al 
+SITR. Entre las acciones realizadas se incluyeron: entrega de registros y trazas (logs) al soporte del 
+fabricante GE para apoyar el diagnóstico; revisión y ajuste de umbrales de alerta de espacio en disco; 
+restablecimiento controlado de la replicación entre el sitio principal y el sitio de respaldo para 
+recuperar la condición de redundancia de los sitios primario y secundario; análisis técnico del servidor 
+EMS2 asociado a la falla inicial de 
+
+ 
+ 
+Información Interna del Grupo SAESA.
+conmutación; y ejecución satisfactoria de pruebas controladas de actualización y validación de bases 
+de datos. Con estas actividades se restableció la operación normal de la plataforma. 
+d) Plan de trabajo para evitar recurrencia 
+Se está realizando el análisis de causa raíz junto al soporte del fabricante de la plataforma con el 
+objeto de identificar las brechas técnicas, operacionales y de configuración que pudieron contribuir 
+al evento. Como resultado de dicho análisis se definirán e implementarán las acciones correctivas y 
+preventivas necesarias para reducir la probabilidad de recurrencia. 
+e) Otros antecedentes relevantes 
+De acuerdo con la cronología del evento, previamente a la indisponibilidad se observaron 
+condiciones de degradación en el desempeño de la plataforma SCADA. Asimismo, durante la 
+contingencia se registraron alarmas de utilización de espacio en disco en componentes de la 
+infraestructura EMS y FEP, antecedentes que forman parte del análisis actualmente en desarrollo. En 
+relación con la causa raíz se ha establecido el plazo para al análisis de la causa raíz para el viernes 4 
+de septiembre de 2026. 
+Al efecto, quedamos disponibles en caso de que consideren pertinente para una reunión explicativa 
+de los eventos ocurridos, también acompañamos a la presente: Anexo 1: Listado de instalaciones 
+afectadas por pérdida de SITR. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted. 
+ 
+Claudio Castillo Echegaray 
+Subgerente de Operación y Mantenimiento 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A. 
+ 
+ 
+ 
+
+ 
+ 
+Información Interna del Grupo SAESA.
+Anexo 1Listado de instalaciones del SITR 
+Este listado contiene las instalaciones del SITR afectadas con indisponibilidad que 
+presentaron falla de comunicación durante el periodo del 25 de agosto a las 15:24 y 
+19:09 hrs de forma persistente 
+Subestación  
+EMPRESA 
+S/E AIHUAPI 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A 
+S/E ALTO BONITO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E ANCOA 
+SISTEMA DE TRANSMISIÓN DEL CENTRO 
+S.A 
+S/E ANCUD 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E ANTILLA 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E ARMAZÓN 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E ARREBOL 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E BESSIMPE 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E BLANCO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E CABRERO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E CAITÁN 
+SISTEMA DE TRANSMISIÓN DEL NORTE S.A 
+S/E CALBUCO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E CAÑETE 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A 
+S/E CASANA 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A 
+S/E CASTRO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E CHARRÚA 
+STA 
+S/E CHILOÉ 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E CHIRRE 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E CHOLGUÁN 
+STA 
+S/E CHONCHI 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E CIRUELO 
+STA 
+S/E COLACO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E COPIHUE 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E CORRAL 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E CUNCO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E CURICÓ 
+STA 
+S/E DALCAHUE 
+STA 
+S/E DALMA 
+STA 
+S/E DEGÁN 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E DEUCO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E EMPALME 
+STA 
+S/E ENLACE 
+STA 
+S/E FRUTILLAR 
+STA 
+S/E GMARINA 
+SATT 
+S/E GUINDAL 
+STA 
+
+ 
+ 
+Información Interna del Grupo SAESA.
+S/E IMPERIAL 
+STA 
+S/E KAPATUR 
+STN 
+S/E KIMAL 
+SATT 
+S/E LA MISIÓN 
+STA 
+S/E LABCORRA 
+STA 
+S/E LARQUI 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E LARUCA 
+STA 
+S/E LICANCO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E LLAIMA 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E LLANQUIHUE 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E LONCOCHE 
+STA 
+S/E LOS NEGROS 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E LOS SAUCES 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E LOTA 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E LUCERO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E MAITENCILLO 
+STA 
+S/E MANTILHUE 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E MARÍA ELENA 
+SATT 
+S/E MARIQUINA 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E MELIPULLI 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E MONTENEGRO SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E NAHUEL 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E NAHUELBUTA 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E NEGRETE 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E OSORNO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E PAILLACO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E PANGUE 
+STA 
+S/E PARANAL 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E PARGUA 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E PICARTE 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E PICHIL 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E PIDPID 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E PILAUCO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E PUERTO 
+MONTT 
+STA 
+S/E PUQUILLAY 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E QUELLÓN 
+STA 
+S/E QUILLOTA 
+STA 
+S/E QUINTA 
+STA 
+S/E RAHUE 
+STA 
+S/E RÍO BONITO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E RÍO NEGRO 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+
+ 
+ 
+Información Interna del Grupo SAESA.
+S/E SAN FABIÁN 
+STC 
+S/E SANGRA 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E SANTA CRUZ 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E SEÑORZA 
+STA 
+S/E TAMBORES 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+S/E VALDIVIA 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A  
+ 
+ 

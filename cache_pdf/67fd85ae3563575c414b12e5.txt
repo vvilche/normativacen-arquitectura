@@ -1,0 +1,363 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 14 de abril de 2025 
+DE 02245-25 
+ 
+ 
+Señora 
+Verónica Bustos 
+Encargado Titular 
+Generación de Energía Nueva Degan SpA 
+Presente 
+ 
+ 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Terciario de Frecuencia de la Central TER Degañ. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado 
+el proceso de verificación del Servicio Complementario (SC) de Control Terciario de 
+Frecuencia (CTF) de la Central TER Degañ. El presente informe de verificación presenta la 
+reserva CTF de la central TER Degañ en las configuraciones vigentes declaradas a la 
+operación, separando la reserva de las naves 1-2 y de la nave 5, y reemplaza a los valores 
+comunicados mediante carta Ref. [2]. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio a partir de las 00:00 del 17 de abril de 2025 considerando los 
+recursos indicados en anexo de la presente carta.  
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NT-SSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CTF de la nave 1-2 y nave 5 de central TER Degañ se ha publicado en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central TER Degañ  
+ 
+Finalmente, la Central TER Degañ podrá participar de las subastas de CTF una vez que 
+complete el proceso de solicitud de incorporación a la plataforma de subastas. Para ello, su 
+representada deberá presentar los antecedentes indicados en las Bases Administrativas de 
+Subastas para Control de Frecuencia, que se encuentran publicadas en la siguiente ruta de 
+la página web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/WJS/ycl 
+ 
+Referencias: 
+ 
+[1] Carta EFC-2025-0042, Ref.: “Complementa informes de verificación para la prestación 
+de Servicio Complementario de Control de Frecuencia central TER Degañ 1.” de fecha 14 
+de abril de 2025. Ingreso: DE03539-25. 
+ 
+[2] Carta DE00424-25, Ref.: “Resultado del Proceso de Verificación de Servicios 
+Complementarios (SSCC) de Control Terciario de Frecuencia de la Central TER Degañ.” 
+de fecha 20 de enero de 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central TER Degañ. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Degañ – configuración DEGAN-NAVE1+2_DIESEL (Potencia máxima 
+neta 24,7 [MW]) 
+b) Central TER Degañ – configuración DEGAN-NAVE5_DIESEL (Potencia máxima neta 
+5,3 [MW]) 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de 
+SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Terciario de 
+Frecuencia  
+Control Terciario de Frecuencia por Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia: 
+• 
+La Central Térmica Degañ no cuenta con un control conjunto de planta, por lo que 
+las unidades deben ser controladas por un operador a pie de equipo. 
+• 
+El tiempo de activación del CTF depende del tiempo que demora el operador en 
+trasladarse desde la sala de control a la primera unidad. Considerando la distancia 
+de recorrido de 120 metros y las maniobras a realizar, se estima un tiempo de 
+activación de 2 minutos. 
+• 
+El gradiente de carga de los motores es único y el operador carece de la posibilidad 
+de modificarlo. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Generación de 
+Energía Nueva Degan SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías.  
+ Ver Tablas en las páginas siguientes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Configuración 
+Combustible 
+Parámetro 
+Valor 
+determinado 
+DEGAN-
+NAVE1+2_DIESEL  
+Diésel 
+Tasa normal de 
+operación [MW/min] (1)   
+Subida 
+6,300 
+ 
+Bajada 
+6,400 
+ 
+Tasa máxima de 
+operación [MW/min] (1)  
+Subida 
+6,300 
+ 
+Bajada 
+6,400 
+ 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] 
+Subida 
+24,240 
+ 
+Bajada 
+-24,240 
+ 
+Límite de regulación superior [MW] 
+(2) 
+24,7 
+ 
+Límite de regulación inferior [MW] 
+(2) 
+0,46 
+ 
+(1) La tasa de subida y bajada de carga es fija. 
+ 
+(2) Los límites de regulación y el aporte máximo de CTF podrán verse modificados si se actualizan los parámetros 
+operacionales de la central TER Degañ 1 configuración NAVE1+2_DIESEL. 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Configuración 
+Combustible 
+Parámetro 
+Valor 
+determinado 
+DEGAN-NAVE1+2_DIESEL  
+Diésel 
+Tiempo hasta sincronización [min] 
+3,54 
+ 
+Tiempo hasta mínimo técnico [min] 
+3,83 
+ 
+Reserva Fría [MW]  
+24,700 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Configuración 
+Combustible 
+Parámetro 
+Valor 
+determinado 
+DEGAN-
+NAVE5_DIESEL 
+Diésel 
+Tasa normal de operación 
+[MW/min] (1)   
+Subida  
+1,400 
+ 
+Bajada  
+0,900 
+ 
+Tasa máxima de 
+operación [MW/min] (1)  
+Subida 
+1,400 
+ 
+Bajada 
+0,900 
+ 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] 
+Subida 
+5,000 
+ 
+Bajada 
+-5,000 
+ 
+Límite de regulación superior [MW] 
+(2) 
+5,300 
+ 
+Límite de regulación inferior [MW] 
+(2) 
+0,300 
+ 
+(1) La tasa de subida y bajada de carga es fija. 
+ 
+(2)  Los límites de regulación y el aporte máximo de CTF podrán verse modificados si se actualizan los parámetros 
+operacionales de la central TER Degañ 1 configuración NAVE5_DIESEL. 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Configuración 
+Combustible 
+Parámetro 
+Valor 
+determinado 
+DEGAN-NAVE5_DIESEL 
+Diésel 
+Tiempo hasta sincronización [min] 
+3,54 
+ 
+Tiempo hasta mínimo técnico [min]  
+3,83 
+ 
+Reserva Fría [MW]  
+5,300 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

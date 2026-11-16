@@ -1,0 +1,204 @@
+ 
+ 
+CC: Archivo; Javiera Ketterer Hope, Jefa de Control de la Operación 
+ 
+ SKE-GG N°643-2025 
+ 
+Señora 
+Gretchen Zbinden V.  
+Subgerente de de Análisis y Soporte Operacional  
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora Sur 1061, Pudahuel 
+Santiago. 
+ 
+EMPRESA ELECTRICA RUCATAYO S.A. 
+TRANSRUCATAYO S.A. 
+STATKRAFT EÓLICO S.A. 
+ 
+EMPRESAS STATKRAFT CHILE 
+ 
+VITACURA 2969, PISO 7. 
+LAS CONDES 
+SANTIAGO  
+     
+WWW.STATKRAFT.CL 
+           Santiago, 11.04.2025    
+       
+Ref.:   Respuesta a Observaciones de Informes de SSCC – Parques Eólicos Los Cerrillos, Manantiales y 
+Cardonal. 
+ 
+             
+De nuestra consideración: 
+ 
+En atención a las observaciones señaladas en el documento COR-GO-DCO-SSCC-PECMC (04/03/2025) y la 
+carta DE01358-25, presentamos una respuesta detallada para cada punto, junto con las acciones 
+propuestas para su subsanación. 
+ 
+_____________________________________________________________________________________ 
+1. Control Primario de Frecuencia (CPF) 
+Observación 3.2.a – Ensayos de escalones de frecuencia 
+• 
+Referencia: Sección 3.2.a del informe COR-GO-DCO-SSCC-PECMC. 
+• 
+Respuesta: 
+o 
+Realizaremos pruebas adicionales con escalones de ±0.2 Hz y ±0.7 Hz en cuatro puntos 
+de operación (P1 a P4), considerando la operación conjunta de los parques. 
+o 
+Incorporaremos tablas de respuesta en los informes actualizados. 
+ 
+Observación 3.2.b – Estatismo no uniforme 
+• 
+Referencia: Sección 3.2.b del informe COR-GO-DCO-SSCC-PECMC. 
+• 
+Respuesta: 
+o 
+Postura Técnica: El ajuste actual del controlador (estatismo basado en potencia 
+despachada) cumple con la normativa vigente (Artículo 3-17 de la NTSyCS) y fue validado 
+en protocolos previos. 
+o 
+Impacto de Modificación: 
+▪ 
+Reprogramación de ensayos. 
+▪ 
+Revisión de modelos dinámicos aprobados. 
+▪ 
+Incremento de costos operativos. 
+o 
+Solicitud: Mantener el criterio actual, dado que cumple con NTSyCS y no se prevé 
+participar de SSCC. 
+ 
+ 
+2. Control Terciario de Frecuencia (CTF) 
+Observación 3.3.a – Tasa de toma de carga 
+• 
+Referencia: Sección 3.3.a del informe COR-GO-DCO-SSCC-PECMC. 
+
+ 
+ 
+CC: Archivo; Javiera Ketterer Hope, Jefa de Control de la Operación 
+ 
+• 
+Respuesta: 
+o 
+Documentaremos la tasa de respuesta y los límites operativos del conjunto de parques 
+en los informes actualizados. 
+ 
+Observación 3.3.b – CTF en frío 
+• 
+Referencia: Sección 3.3.b del informe COR-GO-DCO-SSCC-PECMC. 
+• 
+Respuesta: 
+o 
+i. Sincronización en <5 minutos: Sí. 
+o 
+ii. Mínimo técnico en <10 minutos: Sí. 
+o 
+iii. Reserva a 15 minutos: Se cuantificará en ensayos adicionales y se documentará. 
+ 
+ 
+3. Control de Tensión (CT) 
+Observación 3.4.a – Curva P-Q conjunta 
+• 
+Referencia: Sección 3.4.a del informe COR-GO-DCO-SSCC-PECMC. 
+• 
+Respuesta: 
+o 
+Mediremos la curva P-Q en el rango de 0.9 a 1.1 pu y describiremos la metodología de 
+extrapolación para valores no alcanzables. 
+ 
+Observación 3.4.b – Gráficos de seguimiento 
+• 
+Referencia: Sección 3.4.b del informe COR-GO-DCO-SSCC-PECMC. 
+• 
+Respuesta: 
+o 
+Incorporaremos gráficos dinámicos de respuesta a escalones de factor de potencia. 
+ 
+Observación 3.4.c – Cambiador de tomas 
+• 
+Referencia: Sección 3.4.c del informe COR-GO-DCO-SSCC-PECMC. 
+• 
+Respuesta: 
+o 
+Registraremos el estado del cambiador de tomas durante los ensayos y lo compararemos 
+con la operación normal. 
+ 
+Observación 3.4.d – Valores no alcanzables 
+• 
+Referencia: Sección 3.4.d del informe COR-GO-DCO-SSCC-PECMC. 
+• 
+Respuesta: 
+o 
+Completaremos los valores "No Alcanzables" mediante extrapolación, detallando la 
+metodología y justificando desviaciones. 
+ 
+Observación 3.4.e – Puntos ensayados en curvas P-Q 
+• 
+Referencia: Sección 3.4.e del informe COR-GO-DCO-SSCC-PECMC. 
+• 
+Respuesta: 
+o 
+Superpondremos los puntos ensayados en las curvas P-Q teóricas para visualizar 
+resultados. 
+ 
+Observación 3.4.f – Inyección/absorción de reactivos 
+• 
+Referencia: Sección 3.4.f del informe COR-GO-DCO-SSCC-PECMC. 
+• 
+Respuesta: 
+o 
+No es un requisito que normativamente aplique a proyectos eólicos. De todos modos se 
+dejará indicado. 
+ 
+ 
+
+ 
+ 
+CC: Archivo; Javiera Ketterer Hope, Jefa de Control de la Operación 
+ 
+4. Pruebas en Operación Conjunta 
+• 
+Documento Adjunto: Minuta técnica EE-MI-2025-0477-RA (ensayos realizados y pendientes). 
+• 
+Propuesta: 
+o 
+Fase 1: Validar ensayos homologables (ej. curvas de capacidad). 
+o 
+Fase 2: Reprogramar pruebas no homologables (ej. rampas de potencia activa). 
+o 
+Cronograma: Coordinar con el CEN para fechas específicas. 
+ 
+ 
+5. Próximos Pasos 
+1. Reunión técnica para alinear metodologías (disponibilidad: tercera semana de abril). 
+2. Envío de informes actualizados post reunión técnica para cerrar acuerdos y supeditado a 
+disponibilidad de recurso primario y experto técnico. Se propondrá cronograma de trabajo luego 
+de la reunión técnica con el Coordinador. Naturalmente los nuevos informes incluirán: 
+o 
+Resultados de ensayos adicionales. 
+o 
+Gráficos y tablas solicitadas. 
+o 
+Justificaciones técnicas detalladas. 
+ 
+ 
+Anexos: 
+• 
+Minuta técnica EE-MI-2025-0477-RA. 
+• 
+Cronograma propuesto de ensayos. 
+ 
+Agradecemos sus comentarios y reafirmamos nuestro compromiso con la calidad técnica del proceso. 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+Carlos Mante 
+Encargado Titular 
+Statkraft Eólico S.A. 
+Firma electrónica avanzada
+CARLOS IGNACIO
+MANTE TORRES
+2025.04.11 15:03:45 -0400

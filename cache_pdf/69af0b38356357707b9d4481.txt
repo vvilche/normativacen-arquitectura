@@ -1,0 +1,143 @@
+ 
+Santiago, 06 de marzo de 2026 
+OP 038-26 
+ 
+ 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+MATERIA: 
+RESPUESTA CARTA DE01004-26: PROCESO DE VERIFICACIÓN DE 
+INSTALACIONES DE GENERACIÓN PARA LA PRESTACIÓN DE 
+SERVICIOS 
+COMPLEMENTARIOS 
+PRÓXIMOS 
+A 
+VENCER 
+DE 
+ACUERDO CON CRONOGRAMA VIGENTE 
+ 
+REF [1]:         CARTA DE01004-26 DEL COORDINADOR DE FECHA 11 DE FEBRERO 
+DE 2026  
+ 
+ 
+ 
+De nuestra consideración: 
+ 
+En relación con la carta de la REF [1], de fecha 11 de febrero de 2026, mediante la cual 
+ese Coordinador informa sobre procesos de verificación de Servicios Complementarios 
+(SSCC) próximos a vencer de acuerdo con el cronograma vigente, y conforme a lo 
+establecido en la Norma Técnica de Servicios Complementarios, su Anexo Técnico 
+“Verificación de Instalaciones para la Prestación de SSCC” y las Guías de Verificación 
+publicadas por ese Coordinador, venimos por medio de la presente a dar respuesta formal 
+a lo solicitado. 
+ 
+1. Entrega de información solicitada 
+ 
+Junto a esta comunicación, nuestra representada remite el archivo Excel indicado por ese 
+Coordinador, debidamente completado conforme a las instrucciones de llenado, incluyendo 
+la hoja “Respuestas de Coordinados”, en la cual se informa, para cada instalación y proceso 
+consultado en el anexo: 
+• 
+Las fechas comprometidas para el envío de los informes de verificación, según 
+corresponda. 
+• 
+Las fechas de envío de protocolos de pruebas y las fechas estimadas de ejecución 
+de los ensayos, de acuerdo con el estado actual de cada proceso. 
+• 
+Las acciones adoptadas y en curso para asegurar el avance de los hitos pendientes 
+del proceso de verificación. 
+Los Archivos Excel indicados pueden ser descargados desde el siguiente enlace: 
+https://drive.google.com/drive/folders/1_RjCkPKaQGTKmjoUQVIHYHzAg78P4Z0z?usp=s
+haring 
+
+ 
+2
+ 
+ 
+2. Acciones de gestión y aseguramiento de plazos 
+ 
+Nuestra representada ha implementado medidas de coordinación y priorización interna, 
+orientadas a asegurar el cumplimiento del cronograma de verificación, considerando: 
+• 
+La planificación anticipada de los hitos técnicos del proceso (protocolos, ensayos e 
+informes). 
+• 
+La asignación y priorización de recursos técnicos y humanos disponibles. 
+• 
+La coordinación con las distintas áreas técnicas del Coordinador, particularmente 
+en los procesos asociados al Control Secundario de Frecuencia (CSF). 
+Sin perjuicio de lo anterior, se deja constancia que el avance de algunos procesos se 
+encuentra condicionado a la disponibilidad efectiva de recursos técnicos y humanos, así 
+como a la disponibilidad de nuestro consultor técnico externo, quien participa en la 
+ejecución de ensayos y en la elaboración de los informes de verificación. 
+ 
+3. Evaluación de riesgos respecto del cronograma 
+ 
+De acuerdo con el análisis efectuado para cada proceso, y conforme a lo indicado en la 
+hoja “Respuestas de Coordinados”, se informa que: 
+• 
+Para la mayoría de las instalaciones, los hitos pendientes no comprometen el 
+cumplimiento de los plazos de entrega del Informe de Verificación establecidos en 
+el cronograma vigente, siempre que se mantengan las condiciones operativas y de 
+coordinación actualmente consideradas. 
+• 
+En aquellos casos donde existen condicionantes técnicas u operativas, dichas 
+situaciones han sido debidamente identificadas en la planilla adjunta, indicando las 
+medidas de mitigación adoptadas y las fechas comprometidas. 
+ 
+En este contexto, se realizarán los mayores esfuerzos para entregar los informes de 
+verificación a la brevedad posible, avanzando conforme a una planificación técnica realista 
+y razonable, de acuerdo con los recursos técnicos y humanos disponibles y la 
+disponibilidad del consultor técnico. 
+ 
+4. Compromiso de cumplimiento 
+ 
+Nuestra representada reitera su disposición permanente a colaborar con ese Coordinador 
+y su compromiso con el cumplimiento de la normativa eléctrica vigente, manteniendo una 
+comunicación oportuna respecto del avance de los procesos de verificación y de cualquier 
+situación que pudiera afectar el cronograma informado.  
+ 
+Cabe mencionar que las fechas específicas de los ensayos se informará considerando lo 
+siguiente: 
+ 
+
+ 
+3
+ 
+• 
+El envío con al menos 5 días de antelación a la ejecución de las pruebas, las curvas 
+de carga, las que serán cargadas en la correspondiente solicitud de trabajo en el 
+sistema Neomante con estado operativo “PDO”. Adicionalmente, esta información, 
+se enviará al correo electrónico verificación.sscc@coordinador.cl, indicando el N° 
+de aviso de trabajo asociado al sistema Neomante. 
+ 
+• 
+En conformidad con el capítulo 5 del “Instructivo Técnico para la Verificación de 
+Instalaciones para la prestación de SSCC”, se enviará el Informe Técnico con los 
+resultados, una vez realizado los ensayos, en un plazo máximo de 15 días. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adrián Guzmán M. 
+Encargado (S) CEN 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ 
+ 
+ 
+ 

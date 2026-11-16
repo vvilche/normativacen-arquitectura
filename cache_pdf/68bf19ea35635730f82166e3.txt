@@ -1,0 +1,354 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 08 de septiembre de 2025 
+DE 05638-25 
+Señor 
+Luis Fredes 
+Encargado Titular 
+Inversiones Fotovoltaicas SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario de Frecuencia y Control Terciario de 
+Frecuencia de la Central PFV Willka. 
+Responde a Ingreso DE06567-25. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los Servicios Complementarios 
+(SSCC) de Control Primario de Frecuencia (CPF) y Control Terciario de Frecuencia (CTF) 
+de la central PFV Willka. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio a partir de las 00:00 del 11 de septiembre de 2025, considerando 
+los recursos indicados en el anexo a la presente carta. Adicionalmente, la instalación deberá 
+fijar una banda muerta de 25 mHz cada vez que se solicite activar su Control Primario de 
+Frecuencia. 
+Al respecto, en el anexo a la presente comunicación se presenta la información indicada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF y CTF de la Central PFV Willka mencionada se encuentran publicados 
+en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia: 
+ 
+1. > Control Primario de Frecuencia > Central PFV Willka 
+2. > Control Terciario de Frecuencia > Central PFV Willka 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar los equipos necesarios para medir el desempeño de la prestación del SC de 
+CPF, que en este caso corresponden a un medidor potencia/frecuencia con 
+resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2].  Pese a no contar 
+con las señales necesarias para evaluar el desempeño en la prestación, la central 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+PFV Willka quedará habilitada para prestar el Servicio Complementario (SC) de 
+Control Primario de Frecuencia (CPF), pudiendo ser instruida por este Coordinador 
+para prestar dicho servicio. En dicho caso, la evaluación de estás instrucciones será 
+“No Verificable”. 
+• 
+Considerando lo anterior, en base a los artículos 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional, para la evaluación de desempeño se podrán utilizar medios 
+alternativos para poder realizar la evaluación de desempeño de la prestación del 
+SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, la central PFV Willka podrá participar de las subastas de Control de Frecuencia 
+una vez que complete el proceso de solicitud de incorporación a la plataforma de subastas. 
+Para ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, la central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+DIR/PGR/adr 
+c.c.: Empresas Coordinadas 
+Sr. Cristian Villalón – Encargado Suplente Inversiones Fotovoltaicas SpA 
+ 
+Referencias: 
+ 
+[1] Carta IIFF-E-025-25 de Inversiones Fotovoltaicas SpA, Ref.: “Entrega de Informes de 
+SSCC del PFV Willka”, de fecha 10 de julio de 2025. Ingreso DE06567-25. 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 2020.06.01 > Instructivos Técnicos > Protocolo de envío de registros 
+Potencia/Frecuencia para la evaluación del CPF 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PFV Willka 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV Willka 
+• 
+Potencia máxima bruta 98,97 [MW] 
+• 
+Potencia máxima neta 97,99 [MW] 
+• 
+Potencia mínima bruta 2,14 [MW] 
+• 
+Potencia mínima neta 1,7 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia 
+(CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Central con rango de ajuste de estatismo (R) del 2% al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados desde el sistema SCADA por el 
+especialista del fabricante con la central en pleno funcionamiento. 
+• 
+El estatismo (R) se encuentra ajustado en 5%. 
+b) Control Terciario de Frecuencia 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Inversiones 
+Fotovoltaicas SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Primario de Frecuencia 
+ 
+SSCC 
+  
+Control de Frecuencia 
+Categoría   
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+  
+  
+  
+Valor determinado 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2-8% 
+Estatismo 
+5% 
+Rango de ajuste Banda muerta [mHz] 
+25-200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+98,97 
+Límite de regulación inferior [MW] (3) 
+2,14 
+Aportes (4) 
+ BM = 25 [mHz]  
+R = 5% 
+10 
+segundos 
+Aporte +0,2[Hz] [MW] 
+-6,77 
+Aporte -0,2[Hz] [MW] 
+6,71 
+Aporte +0,7[Hz] [MW] 
+-26,35 
+Aporte -0,7[Hz] [MW]  
+26,46 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-6,97 
+Aporte -0,2[Hz] [MW] 
+7,03 
+Aporte +0,7[Hz] [MW] 
+-26,44 
+Aporte -0,7[Hz] [MW]  
+26,46 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia máxima bruta aprobada por el Coordinador. 
+(3) Correspondiente a la Potencia mínima bruta, declarada al Coordinador en el Informe de determinación de Mínimo 
+Técnico. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 70 [MW]. El aporte de la central es 
+uniforme en todo su rango de operación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+b) Control Terciario de Frecuencia 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+PFV Willka 
+Solar 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+19,600 
+ 
+Bajada 
+19,600 
+ 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+Sin limitación 
+ 
+Bajada 
+Sin limitación 
+ 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] (2) 
+Subida 
+96,29 
+ 
+Bajada 
+-96,29 
+ 
+Límite de regulación superior [MW] (3) 
+98,97 
+ 
+Límite de regulación inferior [MW] (3) 
+2,14 
+ 
+(1) Tasa de subida y bajada de carga máxima no tiene limitaciones respecto al valor ajustado. 
+ 
+(2) La reserva se determina como la diferencia entre las potencias máxima y mínima netas de la central correspondientes 
+a 97,99 [MW] y 1,7 [MW]. 
+ 
+(3) Los límites de regulación, correspondientes a la potencia bruta y el aporte máximo de CTF podrán verse modificados 
+si se actualizan los parámetros operacionales de la central. 
+ 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+PFV Willka 
+Solar 
+Tiempo hasta sincronización [min] 
+0,000 
+ 
+Tiempo hasta mínimo técnico [min] 
+0,033 
+ 
+Reserva Fría [MW]  
+97,99 
+ 
+ 
+ 
+ 

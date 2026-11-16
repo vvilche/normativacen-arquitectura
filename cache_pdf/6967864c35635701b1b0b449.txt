@@ -1,0 +1,100 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 14 de enero de 2026 
+ 
+    
+DE 00256-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación del Parámetro de Potencia 
+Máxima de la Central PFV Caleu. 
+[1] Carta GR-CHL0050A-770/2025 del coordinado 
+GR Piñol SpA, Ref.: “Responde a observaciones a 
+la entrega de informes de Potencia Máxima, 
+Parámetros de Partida y Detención y Mínimo 
+Técnico del Proyecto NUP 2515 PFV Caleu (PMG)”, 
+de fecha 24 noviembre 2025. Ingreso DE11979-25. 
+[2] Carta DE07877-25, Ref.: “[NUP 2515] Informes 
+Técnicos de Parámetros Operacionales de la 
+central PFV Caleu”, de fecha 11 diciembre 2025. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 y 39 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación del valor de Potencia Máxima de la Central PFV 
+Caleu, en conformidad con el informe técnico de Potencia Máxima recibido adjunto a la 
+comunicación de la Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 23 del Anexo Técnico en 
+aplicación no se recibieron observaciones de Coordinado alguno al informe técnico ya 
+mencionado publicado en la página web del Coordinador mediante carta de la Ref. [2]. Por 
+su parte, el Coordinador Eléctrico no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme a lo anterior, los valores de los parámetros técnicos de Potencia Máxima de la 
+Central PFV Caleu, se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV Caleu 
+Central/Unidad 
+Potencia 
+Máxima 
+Bruta [MW] 
+SS.AA. 
+[MW] 
+Pérdidas en la 
+central (1) 
+[MW] 
+Potencia Máxima Neta 
+(2) [MW] 
+PFV Caleu 
+9,1968 
+0,0026 
+0,2294 
+8,9648 
+(1) Este valor corresponde a pérdidas en el sistema colector y línea de evacuación de la central. Las pérdidas en el 
+transformador principal son consideradas como 0 MW, ya que la central se conecta directamente a la barra de 12 kV de 
+S/E Cristalerías. 
+(2) Potencia inyectada en celda 1A de 12 kV de S/E Cristalerías. 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en la Tabla 1 entrarán en 
+vigencia a partir de las 00:00 horas del 16 de enero de 2026. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+El informe técnico de Potencia Máxima de la Central PFV Caleu, que contiene la justificación 
+de los parámetros indicados anteriormente, puede ser descargado en la siguiente ruta del 
+sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > Central PFV Caleu> 
+2025 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+GZV/CRV/PPF/DIR/adr 
+ 
+ 
+ 

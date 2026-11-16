@@ -1,0 +1,98 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 24 de julio de 2025 
+ 
+    
+DE 04546-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación del Mínimo Técnico de la Central PFV 
+North West. 
+[1] Carta FPS-001_North West_FPSCEN-0033-L del 
+coordinado Fontus Prime Solar SpA, Ref.: “Informe de 
+Mínimo Técnico en Unidad Generadoras Proyecto 
+NUP 1431 North West”, de fecha 19 de diciembre de 
+2023.” Ingreso DE07594-23. 
+[2] Carta DE00242-24, Ref.: Informe de Mínimo 
+Técnico de la Central PFV North West, del coordinado 
+Fontus Prime Solar SpA”, de fecha 12 de enero de 
+2025. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PFV North West, en conformidad con el 
+Informe Técnico publicado en la página web del Coordinador mediante comunicación de la 
+Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+publicado en la página web del Coordinador mediante la comunicación de la Ref. [2]. Por 
+su parte, el Coordinador no tiene observaciones de carácter técnico al informe mencionado. 
+ 
+Conforme a lo anterior, los parámetros de Mínimo Técnico de la Central PFV North West se 
+presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Mínimo Técnico de la Central PFV North West 
+Central 
+Mínimo Técnico 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en 
+la central (1) 
+[MW] 
+Potencia Mínima 
+Neta (2) 
+[MW] 
+PFV North West 
+0,1635 
+0,0079 
+0,0056 
+0,1500 
+(1) Las pérdidas corresponden a la red colectora y las pérdidas en el transformador principal son 
+consideradas como 0 MW, ya que la central se conecta directamente a la barra de 23 kV de la S/E 
+Pajonales. 
+(2) Inyectada en la barra de media tensión (23 kV) de la S/E Pajonales. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del día 29 de julio de 2025. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Mínimo Técnico > Informes de Mínimos Técnicos Unidades 
+Generadoras > Central PFV North West > 2025 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+GZV/SGM/DIR/adr 
+ 
+ 

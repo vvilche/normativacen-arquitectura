@@ -1,0 +1,182 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 16 de junio de 2026 
+DE 04154-26 
+Señor 
+Rodrigo Danus 
+Encargado Titular 
+Eléctrica Moka SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+de la central TER Diego de Almagro. 
+[1] Carta Moka-2026-007 de Eléctrica Moka SpA, Ref.: 
+“Observaciones Informes Verificación SSCC TER 
+Diego de Almagro – Responde Carta DE02846-26”, de 
+fecha 01 de junio de 2026. 
+Responde a Ingreso DE05177-26 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control de 
+Tensión de la central TER Diego de Almagro. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario a partir de las 00:00 del 18 de junio de 2026, 
+considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CT de la central TER Diego de Almagro se encuentra publicado en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > Central TER Diego de Almagro 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+PGR/adr 
+c.c.: 
+Sr. Edgardo Fuchs – Encargado Suplente Eléctrica Moka SpA 
+
+ 
+1 Para la estimación del valor de la potencia mínima neta, se consideran los consumos propios de la central TER Diego de 
+Almagro, correspondientes a 0,55%. Este valor se obtiene desde la plataforma Infotécnica del Coordinador. 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central TER Diego de Almagro 
+1. 
+Identificación de las Instalaciones Verificadas: 
+A continuación, se describen los parámetros operacionales preliminares de central TER 
+Diego de Almagro considerados en el proceso de verificación, los que se encuentran en 
+proceso de aceptación por el Coordinador Eléctrico. 
+a) Central TER Diego de Almagro 
+• 
+Potencia máxima bruta: 23,800 [MW] 
+• 
+Potencia máxima neta:  23,669 [MW] 
+• 
+Potencia mínima bruta: 2,000 [MW] 
+• 
+Potencia mínima neta1: 1,989 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión (CT)  
+Control de Tensión 
+(CT) 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Eléctrica Moka SpA 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategoría. 
+Ver Tabla en página siguiente
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+a) Control de Tensión 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de Tensión 
+Instalación 
+Recurso 
+Primario 
+             Tensión [pu] 
+ 
+Potencia [MW] 
+Potencia Reactiva [MVAr]  
+0,9(1) 
+0,95 
+1 
+1,05 
+1,1(1) 
+Central TER 
+Diego de 
+Almagro 
+Diésel 
+2,0 
+No 
+Operable 
+26,2 
+27,6 
+29,0 
+No 
+Operable 
+9,9 
+24,4 
+25,9 
+27,3 
+17,7 
+19,4 
+21,3 
+23,0 
+23,8 (2) 
+6,0 
+10,5 
+13,8 
+23,8 
+-6,0 
+-10,5 
+-13,4 
+17,7 
+-11,5 
+-13,0 
+-14,6 
+9,9 
+-12,5 
+-13,9 
+-15,3 
+2,0 
+-12,8 
+-14,2 
+-15,7 
+(1) Valores de tensión de 0,9 y 1,1 p.u, en bornes de la unidad, no son operables debido a ajustes de protección de sobre 
+flujo y protección de pérdida de excitación. Sin perjuicio de lo anterior, el coordinado valida que la central puede controlar 
+tensión en el rango asociado al estado de emergencia del SEN. 
+(2) Correspondiente a la Potencia máxima bruta informada en la plataforma de Infotécnica del Coordinador. 
+ 
+ 

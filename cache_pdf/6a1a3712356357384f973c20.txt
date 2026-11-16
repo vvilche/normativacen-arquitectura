@@ -1,0 +1,54 @@
+ 
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 29 de mayo de 2026 
+DE 03638-26 
+ 
+ 
+Señor  
+Juan Muñoz Tapia 
+Encargado  
+Engie Energía Chile S.A. 
+Presente 
+ 
+Ref.: Solicita deshabilitar del EDAG ZN del 
+PDCE Zona Norte las unidades 
+generadoras térmicas Mejillones CTA 
+y CTH. 
+ 
+ 
+De mi consideración: 
+ 
+Me refiero al Informe de Servicios Complementarios 2026 (ISSCC 2026) en su versión definitiva 
+de diciembre de 2025, particularmente, al Esquema de Desconexión Automática de Generación 
+(EDAG) de la Zona Norte asociado al PDCE Zona Norte y al EDAG ZN Fase Cero, especificados 
+en la sección 7.3.2.1 literales c) y a), respectivamente, de dicho informe.  
+ 
+Al respecto, y considerando que actualmente se ha encuentra implementada la totalidad del EDAG 
+ZN Fase Cero, aumentado con ello el número de parques integrado al EDAG ZN, solicito a Ud. 
+gestionar con su representada el deshabilitar la celda de generación de las unidades TER 
+Mejillones CTA y CTH del EDAG Zona Norte del PDCE, a más tardar, el próximo 5 de junio de 
+2026. 
+ 
+Entre otros aspectos, la medida busca evitar que -ante eventos de sobrefrecuencia- se 
+desconecten en forma automática centrales térmicas en operación que aportan inercia y servicios 
+complementarios de control de tensión al sistema.  
+ 
+Finalmente, una vez ejecutada la instrucción emitida en la presente comunicación, ésta deberá ser 
+confirmada por su representada a este Coordinador al correo dmap@coordinador.cl. 
+ 
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+ 
+Patricio Valenzuela Vásquez 
+Subgerente de Análisis y Soporte Operacional 
+     Coordinador Eléctrico Nacional 
+ 
+GO/SGASO/DMAP/ycl 
+c.c.: 
+Sr. Marco Velarde, Encargado celda maestra de Engie S.A. (marco.velarde@engie.com)  
+ 

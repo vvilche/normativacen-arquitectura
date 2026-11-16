@@ -1,0 +1,90 @@
+ 
+Santiago, 12 de junio de 2026 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Ref.: Respuesta a carta DE03429-26 – 
+Estado 
+de 
+implementación 
+e 
+integración AGC/SITR de PFV Granja 
+Solar. 
+De nuestra consideración: 
+Junto con saludar, y en respuesta a la carta DE03429-26 de fecha 20 de mayo de 2026, mediante la 
+cual se solicita informar el estado de implementación de enlaces y señales requeridas para la 
+integración al SITR/AGC y el cronograma de actividades pendientes para la verificación del Servicio 
+Complementario de Control Secundario de Frecuencia (CSF-AGC) de la central PFV Granja Solar, 
+informamos lo siguiente. 
+En primer término, lamentamos no haber dado respuesta dentro de los plazos establecidos. La 
+revisión de antecedentes realizada junto a la empresa encargada de la operación y mantenimiento 
+de la central permitió determinar el estado actual de implementación que se describe a 
+continuación. 
+a. Estado de implementación de enlaces y señales requeridas e integración al SITR/AGC 
+La revisión efectuada determinó que la central PFV Granja Solar actualmente no dispone de la 
+implementación requerida para recibir consignas de potencia activa desde el Control 
+Automático de Generación (AGC) del Coordinador ni para reportar las señales asociadas a este 
+servicio hacia el SITR. 
+i.  Enlaces no implementados 
+No se encuentran implementadas las señales requeridas para AGC desde el controlador de 
+planta (PPC) hacia el Nivel 3 ni su envío hacia el SITR del Coordinador. En consecuencia, la 
+instalación no cuenta actualmente con la capacidad de recibir de forma directa la consigna 
+de potencia activa desde el Control Automático de Generación (AGC) del Coordinador. 
+ii.  Enlaces implementados en la instalación 
+En el ámbito específico del servicio AGC no existen enlaces funcionales implementados. 
+Para cumplir con este requerimiento será necesario desarrollar actividades de ingeniería y 
+configuración asociadas al Power Plant Controller (PPC) y RTU de la central, así como la 
+habilitación posterior de las señales requeridas para su integración con el Coordinador. 
+ 
+iii.  Pruebas punto a punto 
+Debido a que la infraestructura requerida no se encuentra implementada, no se han 
+ejecutado pruebas punto a punto con el Departamento SCADA del Coordinador. 
+ 
+iv.  Pruebas funcionales de integración al Despacho Económico vía AGC 
+Estas pruebas no han sido realizadas y deberán ejecutarse con el Departamento de 
+Modelación y Aplicaciones EMS una vez finalizadas  las pruebas punto a punto. 
+ 
+
+ 
+b. Plan de trabajo y cronograma 
+Con el objetivo de regularizar y avanzar en el cumplimiento de los requerimientos establecidos 
+por ese Coordinador, nuestra representada se encuentra gestionando la definición y 
+contratación de los servicios de ingeniería necesarios para implementar las funcionalidades 
+requeridas. En este contexto, se contempla el siguiente plan de trabajo: 
+ 
+Hito 1: Desarrollo de ingeniería y reconfiguración del PPC, sistemas de control y RTU para 
+habilitar la capacidad de respuesta a consignas de potencia. 
+ 
+Hito 2: Definición y habilitación de los TAGs ICCP requeridos para la integración al SITR. 
+ 
+Hito 3: Ejecución de pruebas punto a punto con el Departamento SCADA del Coordinador. 
+ 
+Hito 4: Ejecución de pruebas funcionales de integración al Despacho Económico mediante AGC 
+con el Departamento EMS. 
+ 
+Hito 5: Cierre del proceso de verificación e integración y obtención de la conformidad 
+correspondiente por parte del Coordinador. 
+ 
+Considerando el alcance de las actividades de ingeniería, configuración, implementación, 
+pruebas y coordinación requeridas, nuestra representada se encuentra trabajando para 
+completar dichas actividades dentro del horizonte indicado  para noviembre de 2026. 
+ 
+Finalmente, reiteramos nuestra disposición para coordinar las actividades necesarias con las 
+áreas técnicas correspondientes y mantener informados los avances asociados al proceso de 
+implementación. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+Paula Domínguez 
+Encargado Suplente 
+COPEC Renovables SpA 
+77.875.443-6 
+PFV GRANJA SOLAR 
+ 

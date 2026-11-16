@@ -1,0 +1,72 @@
+ 
+GTX-CEN-2023-008 
+Valparaíso, miércoles 12 de febrero de 2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: DE00866-25 de fecha 07 de febrero de 2025 
+ 
+De nuestra consideración, 
+ 
+En respuesta la carta DE00866-25 de fecha 07 de febrero del 2025, observamos respecto de la 
+evaluación del desempeño del Esquema de Desprendimiento Automático de Cargas por baja 
+frecuencia (EDAC-BF) registrado para la S/E Las Vegas – Alimentador Pachacama / C5 durante el 
+mes de diciembre 2024 (Archivo SSCC_Desempeno_enero_2025_V1.xlsx), lo siguiente. 
+ 
+Según lo revisado en el EAF 580-2024, se indica que no se dispone de antecedentes suficientes que 
+permitan determinar el modo de operación del interruptor 52C5 de SE Las Vegas, razón por la cual 
+solicitamos revisar los motivos de esta falta de información y evaluar como poder aportar los datos 
+necesarios para su correcta revisión. 
+ 
+Es de nuestro mayor interés entender el factor de desempeño registrado con un 0% para este 
+evento, y buscar los medios para poder subsanar este y otros eventos de similares características. 
+Es de caso señalar que hemos intentado dar uso de la plataforma SIREP dispuesta por el 
+Coordinador Eléctrico Nacional, sin embargo, existen algunas consultas sobre su uso, por lo que 
+quisiéramos solicitar vuestro apoyo para poder resolverlas. 
+ 
+Debido a lo anteriormente expuesto, instamos por una breve reunión aclaratoria en donde 
+podamos abordar los temas indicados. 
+ 
+Sin otro particular, le saluda cordialmente, 
+ 
+ 
+Jaime Acevedo Salinas. 
+Encargado Titular 
+Chilquinta Transmisión S.A. 
+ 
+ 
+ 
+ 
+ 
+
+Creado el                                                                                          1| 'oFWo 
+Este documento es XQa reSreVeQWaFLµQ de XQ doFXPeQWo orLJLQal eQ Ior PaWo eleFWrµQLFo 3ara YerLILFar el eVWado aFWXal del doFXPeQWo 
+YerLI¯TXelo eQ https://5.dec.cl
+39$'8;-(-$!&39&'cepta$<16£'2$32£39'9;Æ2&!8'9-2;'82!$-32!£'96!8!(-81!'£'$;8Õ2-$!T£37<'23-16£-$!7<'9'!2$316!;-#£'9$32;3&39£3993(;>!8'&'=-9<!£-A!$-Õ2T23
+!('$;!2&3'££3'2$!93!£+<23£!=!£-&'A&'£!(-81!
+'8-(-$!&3@
+-81!&3638
+A C E P T A
+GTX-CEN-2025-008
+(2 páginas)
+CHILQUINTA
+2025-02-12 17:05:50
+X1-8000-02EA-6165-ACA2
+Firmante: 
+Institución - Rol: 
+Fecha de Firma: 
+Auditoría Autentia: 
+Operador:
+0007161703-3
+ACEVEDO SALINAS JAIME FERNANDO
+CHILQUINTA - Gerente Tx
+2025-02-12 17:08:37.611095
+Firma Simple
+CHIL-F6G6-L4HE-PBQI
+Validado con Pin
+0007161703-3

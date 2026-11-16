@@ -1,0 +1,80 @@
+ 
+Av. Parque Isidora N° 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+         www.coordinador.cl 
+ Santiago, 30 de junio de 2026 
+DE 04434-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente   
+ 
+ 
+ 
+ 
+ 
+Ref.: Corrección costo marginal real 17 de junio 
+2026, versión preliminar para observaciones. 
+Sr. Encargado: 
+ 
+De acuerdo con lo indicado en el Artículo 2-27 de la Norma Técnica de Coordinación y Operación, 
+informo a Ud. que se encuentra disponible para observaciones, una corrección a la versión 
+definitiva de los costos marginales del día 17 de junio de 2026. 
+ 
+Se destaca que la corrección tiene origen en la modificación del Registro de Instrucción de 
+Operación (RIO) del respectivo día relativa al Control de Transferencia en S/E Jadresic 500/220 
+kV. 
+ 
+En efecto, en el registro original del RIO Web del día 17 de Junio se indicaba que la prorrata 
+finalizaba a las 21:50 horas en la zona de la S/E Jadresic 220 kV y que el control de transferencias 
+en S/E Jadresic había finalizado a las 04:00 horas del día 18 de Junio. Con dicha información se 
+realizó el cálculo de los respectivos costos marginales en dicha zona. 
+ 
+Sin embargo, posterior al vencimiento del período de observaciones y a la publicación de la 
+versión definitiva de los Costos Marginales de ese día, se observó que los parques a los cuales 
+se aplicó prorrata correspondían a Pampa Fidelia y BESS Arenas se encontraban en pruebas.  
+ 
+Cabe recordar que las centrales en prueba deben ser gestionadas en OTR y que una vez 
+terminada su prorrata no pueden seguir inyectando energía al sistema, y bajo este antecedente 
+el control de transferencias (Ctx) debía finalizar junto a la Prorrata a las 21:50 horas del día 17 
+de Junio, lo que implicó que el subsistema en zona de S/E Jadresic 220 kV debería quedar 
+acoplado al costo marginal del sistema y no a costo marginal cero, y por ende se realizó la 
+respectiva corrección al costo marginal desde las 21:50 horas del 17 de junio a las 4:00 AM del 
+18 de junio. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N° 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+         www.coordinador.cl 
+ 
+Sus observaciones deberán circunscribirse exclusivamente a los aspectos modificados y ser 
+ingresadas a través del Módulo de Observaciones de la Plataforma de Mercados 
+(https://plataformamercado.coordinador.cl/observaciones/), a más tardar el 3 de Julio de 2026, 
+respecto del siguiente proceso: 
+ 
+• 
+CMg y Fpen Real Diario – 17/06/2026 – Preliminar -Versión 2 
+ 
+Sin otro particular, saluda atentamente a Uds., 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente Transacciones de Mercados 
+Coordinador Eléctrico Naciona 
+GZC/ycl 
+Incl: Lo indicado. 
+CC.  
+ 
+Sr. Tomás Valenzuela Iturra, Jefe Dpto. Medición de Energía. 

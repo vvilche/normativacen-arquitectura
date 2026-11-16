@@ -1,0 +1,375 @@
+ 
+Santiago, 01 de Diciembre 2025 
+EGP 256-25 
+ 
+ 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA:
+ 
+Complemento respuesta a carta DE 07359-25 
+[1] Respuesta a carta DE 07359-25, de fecha del 21 de 
+noviembre de 2025. 
+[2] 
+Carta 
+DE07359-25 
+Ref.: 
+“Solicita 
+aclarar 
+comportamiento del BESS PFV El Manzano y BESS 
+PFV Don Humberto en la prestación del Control Primario 
+de Frecuencia”, de fecha del 14 de noviembre de 2025. 
+[3] Carta EGP 083 24 del coordinado Enel Green Power 
+S.A., Ref.: “BESS El Manzano: Envío de informe técnico 
+con los resultados de la verificación de los SSCC de CPF 
+y CTF”, de fecha 19 de agosto de 2024. 
+[4] Carta EGP 104-24 del coordinado Enel Green Power 
+S.A., Ref.: “BESS Parque Fotovoltaico Don Humberto: 
+Envío de informe técnico con los resultados de 
+verificación de los SSCC de CPF y CTF”, de fecha 26 de 
+septiembre de 2024. 
+[5] Carta DE05657-25, Ref.: “Resultado del Proceso de 
+Verificación de los SSCC de CPF y CTF del BESS PFV 
+El Manzano”, de fecha 8 de septiembre de 2025.  
+[6] Carta DE05658-25, Ref.: “Resultado del Proceso de 
+Verificación de los SSCC de CPF y CTF del BESS del 
+PFV Don Humberto”, de fecha 8 de septiembre de 2025. 
+ 
+ 
+ 
+ 
+De nuestra consideración: 
+ 
+En atención a la solicitud recibida mediante la carta DE 07359-25, conforme a lo establecido 
+en el Artículo 4-18 de la Norma Técnica de Servicios Complementarios (NT-SSCC), como 
+parte del proceso de investigación y análisis de las desviaciones detectadas en la 
+prestación del Servicio Complementario de Control Primario de Frecuencia (CPF) en los 
+sistemas BESS El Manzano y BESS Don Humberto, informamos se han completado las 
+modificaciones en los sistemas Scadas de ambos parques. 
+ 
+Las pruebas de operatividad del CPF en los BESS PFV El Manzano y BESS PFV Don 
+Humberto durante un periodo mínimo de una hora, fueron ejecutados el 28 de noviembre 
+entre las 12:00 y 14:00 horas. Se incluye la data y verificación del comportamiento de las 
+instalaciones. 
+ 
+En vista de lo aquí expuesto, solicitamos al Coordinador Eléctrico Nacional dejar sin efecto 
+su instrucción asociada a los Informes de Limitación LI2025002736 y LI2025002735, toda 
+vez que que las modificaciones en los BESS del Manzano y Don Humberto no constituyen 
+un riesgo a la seguridad del servicio del sistema eléctrico. 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación,  
+
+ 
+Saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adrián Guzmán M. 
+Encargado (S) CEN 
+ENEL GREEN POWER CHILE S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ANEXO 1. MINUTA TÉCNICA DE CORRECCIONES IMPLEMENTADAS 
+ 
+ 
+CONTROL PRIMARIO DE FRECUECIA (CPF) 
+ 
+1. INTRODUCCIÓN 
+ 
+El presente documento resume los resultados del proceso de adecuación de los 
+SSCC asociados al Control Primario de Frecuencia de los BESS del Manzano y 
+Don Humberto.  
+ 
+El objetivo de estas adecuaciones es garantizar el cumplimiento de las exigencias 
+establecidas en la Norma Técnica de Servicios Complementarios vigente, 
+asegurando que los sistemas BESS respondan adecuadamente a las variaciones 
+de frecuencia del sistema eléctrico interconectado. 
+ 
+2. ALCANCE 
+Esta minuta abarca: 
+• 
+Descripción de las correcciones implementadas en la lógica de control. 
+• 
+Condiciones y resultados de los ensayos realizados el 28 de octubre de 
+2025. 
+• 
+Validación del desempeño de ambas unidades BESS 
+ 
+3. ADECUACIONES REALIZADAS 
+ 
+Debido a que el sistema de control de los BESS, estaba calculando el estatismo 
+sobre la potencia comprometida para CPF y no sobre la potencia nominal del 
+sistema. Se corrigió la lógica de control, ajustando el estatismo de la unidad, el 
+algoritmo implementado es el siguiente: 
+ 
+ 
+𝐷𝑟𝑜𝑜𝑝 𝑎𝑗𝑢𝑠𝑡𝑎𝑑𝑜= 𝐷𝑟𝑜𝑜𝑝 𝑠𝑒𝑡𝑝𝑜𝑖𝑛𝑡 (𝑖𝑛𝑔𝑟𝑒𝑠𝑎𝑑𝑜 𝑝𝑜𝑟 𝐻𝑀𝐼) ∗ 𝑃𝑜𝑡𝑒𝑛𝑐𝑖𝑎 𝐶𝑜𝑚𝑝𝑟𝑜𝑚𝑒𝑡𝑖𝑑𝑎 
+𝑃𝑜𝑡𝑒𝑛𝑐𝑖𝑎 𝑀á𝑥𝑖𝑚𝑎
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+4. ENSAYOS 
+Una vez implementadas las modificaciones en la lógica de control, el 28 de octubre 
+se programaron y ejecutaron pruebas para chequear el comportamiento y 
+desempeño del CPF tanto del BESS del Manzano como el BESS de Don Humberto, 
+en ambos casos las condiciones del programa de pruebas fueron los siguientes: 
+ 
+a) Banda muerta 25 mHZ 
+b) Estatismo del 4% 
+c) Ajuste de estatismo 0 a 100% 
+d) Condiciones operacionales 
+ 
+Reserva 
+MW 
+Energy 
+Shifting 
+MW 
+Droop 
+corregido 
+% 
+20 
+0 
+1,333 
+40 
+0 
+2,67 
+10 
+-10 
+0,67 
+10 
+10 
+0,67 
+ 
+Los resultados en tiempo real son los siguientes: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3.1 BESS El Manzano 
+Las siguientes graficas, muestran tanto el comportamiento de la frecuencia del 
+sistema, así como la respuesta del BESS del Manzano a las variaciones 
+registradas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+49.7
+49.8
+49.9
+50.0
+50.1
+50.2
+50.3
+12:28:48
+12:43:12
+12:57:36
+13:12:00
+13:26:24
+13:40:48
+13:55:12
+14:09:36
+Frec
+-20.00
+-15.00
+-10.00
+-5.00
+0.00
+5.00
+10.00
+15.00
+20.00
+12:28:48
+12:43:12
+12:57:36
+13:12:00
+13:26:24
+13:40:48
+13:55:12
+14:09:36
+EM Pot
+ -8.0
+ -6.0
+ -4.0
+ -2.0
+ -
+ 2.0
+ 4.0
+ 6.0
+ 8.0
+ 10.0
+ 49.7
+ 49.8
+ 49.9
+ 50.0
+ 50.1
+ 50.2
+ 50.3
+
+3.2 BESS Don Humberto 
+Las siguientes graficas, muestran tanto el comportamiento de la frecuencia del 
+sistema, así como la respuesta del BESS de Don Humberto a las variaciones 
+registradas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+49.8500
+49.9000
+49.9500
+50.0000
+50.0500
+50.1000
+50.1500
+50.2000
+50.2500
+14:52:48
+15:07:12
+15:21:36
+15:36:00
+15:50:24
+16:04:48
+16:19:12
+Frec
+-15.00
+-10.00
+-5.00
+0.00
+5.00
+10.00
+15.00
+14:52:48
+15:07:12
+15:21:36
+15:36:00
+15:50:24
+16:04:48
+16:19:12
+DH Pot
+ -6.0
+ -4.0
+ -2.0
+ -
+ 2.0
+ 4.0
+ 6.0
+ 49.9
+ 49.9
+ 50.0
+ 50.0
+ 50.1
+ 50.1
+ 50.2
+ 50.2
+ 50.3
+
+5. CONCLUSIONES 
+ 
+Se comprueba que ambos sistemas BESS, los ajustes realizados para dar 
+cumplimiento al SSCC de Control Primario de Frecuencia se demuestra lo 
+siguiente: 
+ 
+• Correcto funcionamiento del algoritmo de control implementado 
+• Se comprueba que los sistema BESS responden de manera correcta en 
+su 
+rango 
+de 
+operación ante 
+variaciones de sobrefrecuencia y 
+subfrecuencia. 
+• Se verifico el correcto funcionamiento con una banda muerta de ± 25 
+mHz. 
+• El estatismo ajustado es de 4% y se comprueba el correcto ajuste 
+independientemente de la potencia reservada. 
+ 
+ANEXO 2. BASE DATOS DE LAS PRUEBAS 
+20251128 Pruebas 
+CPF BESS EM&DH.xl 
+ 
+ 

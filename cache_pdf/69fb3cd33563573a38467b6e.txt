@@ -1,0 +1,66 @@
+CORRELATIVO DE 03053-26 
+Asunto: Solicita Informe de Falla de 5 días - IF2026002108 | Apertura automática 
+del interruptor 52CT1 de S/E Ranguilí 
+ 
+De: Raicit Guevara Diaz <Raicit.Guevara@coordinador.cl>  
+Enviado el: martes, 5 de mayo de 2026 10:36 
+Para: Víctor Alfonso Gutierrez Gonzalez <vagutierrezg@cgetransmision.cl> 
+CC: DAOP <daop@coordinador.cl>; Alejandra Domínguez Rivera 
+<Alejandra.Dominguez@coordinador.cl>; Claudio Metayer Guerrero <cmetayer@cge.cl>; Marcelo 
+Quezada Soto <mquezadas@cgetransmision.cl> 
+Asunto: Solicita Informe de Falla de 5 días - IF2026002108 | Apertura automática del interruptor 
+52CT1 de S/E Ranguilí 
+ 
+Señor 
+Victor Gutiérrez G. 
+Encargado Titular 
+CGE Transmisión S.A. 
+Presente 
+ 
+Junto con saludar, y con respecto al evento del asunto, ocurrido a las 11:30 horas del día 15 de abril 
+de 2026, con la finalidad de dar cumplimiento a lo establecido en el Título 6-7 y, en particular, en el 
+Artículo 6-44 de la Norma Técnica de Seguridad y Calidad de Servicio, se agradece remitir a más 
+tardar a las 18:00 horas del martes 05 de mayo de 2026, lo siguiente: 
+ 
+1. Se solicita entrega del Informe de Falla de 5 días asociados al evento en 
+cuestión, con el correspondiente nivel de detalle según lo establece la 
+normativa vigente, para ser considerado en el EAF que debemos remitir a la 
+SEC. 
+ 
+ 
+2. Proposición acerca del origen de la falla (Externa, Interna, Fuerza Mayor o 
+Caso Fortuito). 
+3. Registros oscilográficos de las protecciones operadas, junto con el respectivo 
+análisis de su desempeño en función de sus ajustes. 
+
+4. En función de los resultados del análisis anterior, proponer acciones 
+correctivas de ser el caso, para evitar la repetición del evento, en caso de 
+aplicar. 
+ 
+Para facilitar el desarrollo de los informes de falla, este Coordinador mantiene publicada 
+documentación de apoyo en su sitio web, disponible mediante el siguiente enlace: 
+https://www.coordinador.cl/operacion/documentos/estudios-operacionales/estudios-de-analisis-
+de-falla/guia-tecnica-elaboracion-de-informes-de-falla-por-parte-de-los-coordinados/. Junto con la 
+guía técnica para la elaboración de informes de falla, se encuentran disponibles las Resoluciones 
+Exentas N°30989-2019 y N°30891-2019, que fueron divulgadas a las empresas coordinadas 
+mediante carta DE 06498-19, con el propósito de ajustar los procesos internos de elaboración de 
+dichos informes y proporcionar los antecedentes necesarios para eventos que ocurran en el Sistema 
+Eléctrico Nacional. 
+  
+Me despido, agradeciendo de antemano la carga del Informe de Falla de 5 Días en el Sistema 
+Neomante del Coordinador, con el fin de disponer de los antecedentes necesarios para la 
+elaboración del Estudio de Análisis de Falla (EAF) correspondiente.  
+ 
+Saludos, 
+ 
+ 
+Raicit Guevara Diaz 
+Ingeniero de Análisis de la Operación 
+Gerencia Operación 
+ 
+Santiago de Chile 
+Tel: +56 2 2424 6429 
+www.coordinador.cl 
+ 
+ 
+ 

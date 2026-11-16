@@ -1,0 +1,77 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 23 de febrero de 2026 
+ 
+    
+DE 01270-26 
+Señor 
+Miguel Buzunariz 
+Encargado Titular  
+Enel Green Power Chile S.A. 
+Presente 
+Ref.: Solicitud de plan de trabajo de ajustes en 
+el controlador potencia-frecuencia del PFV Las 
+Salinas.  
+[1] Carta EGP 012-25 de Enel Green Power 
+Chile S.A., Ref.: “Envío de segunda versión de 
+informe de ensayos de verificación de SSCC de 
+CPF, parque fotovoltaico Las Salinas de Enel 
+Green Power Chile S.A.”, de fecha 02 de 
+febrero de 2026.  
+Responde a ingreso: DE00942-26. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y considerando el Informe de Verificación de 
+Control Primario de Frecuencia (CPF) recibido mediante carta de la Ref. [1] informo a usted 
+lo siguiente:  
+a) El Coordinador ha identificado que la respuesta actual que presenta el controlador 
+de potencia-frecuencia del PFV Las Salinas pasa por una rampa de toma y bajada 
+de carga que impide que el parque pueda entregar la totalidad de su aporte con un 
+escalón de -0,7 Hz dentro de los primeros 10 segundos, desde el inicio de la 
+respuesta del controlador.  
+b) Considerando lo establecido en el artículo 3-17 de la Norma Técnica de Seguridad 
+y Calidad de Servicio (NTSyCS), donde se señala que el ajuste específico que 
+deben implementar las unidades generadoras, así como los parques eólicos y 
+fotovoltaicos para la prestación del Control Primario de Frecuencia, será 
+determinado por el Coordinador en atención a la seguridad y calidad del servicio, se 
+solicita a su representada presentar, en un plazo de 10 días hábiles, un plan de 
+trabajo en el cual se detallen las acciones necesarias para que la respuesta del 
+controlador potencia-frecuencia logre entregar la totalidad del aporte en los 10 
+segundos desde el inicio de la respuesta CPF. Las modificaciones deberán 
+realizarse en un plazo no superior a 3 meses.  
+ 
+Finalmente, una vez que su representada realice las adecuaciones necesarias a su 
+controlador, deberá remitir en un plazo máximo de 15 días hábiles, un nuevo informe de 
+verificación, donde mediante pruebas se evidencie la respuesta del controlador a los 10 
+segundos según lo requerido. Dicho informe será sometido al proceso de verificación en los 
+plazos normativos establecidos para ello. 
+ 
+ 
+ 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/WJS/adr 
+c.c.:  
+Sr. Adrian Guzmán – Encargado Suplente Enel Green Power Chile S.A. 
+ 
+ 
+ 

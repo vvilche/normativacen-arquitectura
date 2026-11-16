@@ -1,0 +1,188 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 31 de julio de 2026 
+DE 05110-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de los Parámetros de Partida y 
+Detención 
+Técnico 
+del 
+Sistema 
+de 
+Almacenamiento de Energía BESS Arica II. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros de Partida y Detención de Unidades Generadoras” de la Norma Técnica de 
+Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte del Coordinador 
+Eléctrico Nacional de los Parámetros de Partida y Detención del Sistema de 
+Almacenamiento de Energía BESS Arica II, en conformidad con el Informe Técnico recibido 
+mediante la comunicación de la Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 11 del Anexo Técnico en 
+aplicación, no se recibieron observaciones de coordinado alguno al informe técnico 
+mencionado, publicado en la página web del Coordinador mediante la comunicación de la 
+Ref. [2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme con lo anterior, los valores de los Parámetros de Partida y Detención del Sistema 
+de Almacenamiento de Energía BESS Arica II se presentan en las tablas contenidas en el 
+Anexo 1 de la presente carta. 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en las Tablas 1 a 4 entrarán 
+en vigencia a partir de las 00:00 horas del 5 de agosto de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Parámetros de Partida y Detención > Informes de 
+Determinación de Parámetros de Partida y Detención > SAE BESS Arica II > 2026 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+PVV/CRV/PPF/PBA/cfp 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Referencias 
+ 
+[1] Carta ENGIE N°129/2026 de Engie Energía Chile S.A., Ref.: “Envía Informes de 
+Parámetros Operacionales del Proyecto BESS Arica II NUP 4437”, de fecha 6 de mayo de 
+2026. Ingreso DE04459-26. 
+ 
+[2] Carta DE03572-26, Ref.: [NUP 4437] Informes de Mínimo Técnico y Parámetros de 
+Partida y Detención del Sistema de Almacenamiento de Energía BESS Arica II”, de fecha 
+28 de mayo de 2026. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Anexo 1: Parámetros del proceso de partida y detención del Sistema de 
+Almacenamiento de Energía BESS Arica II. 
+ 
+Tabla 1. Parámetros del proceso de partida del Sistema de Almacenamiento de 
+Energía BESS Arica II – Modo Descarga (1) 
+Etapa 
+Parámetro 
+BESS 
+Partida – Sincronización 
+Consumo SSAA [MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+Sincronización – Mínimo 
+Técnico 
+Consumo SSAA [MWh] 
+0,0002 
+Tiempo [minutos] 
+0,1333 
+Mínimo Técnico – Potencia 
+Nominal 
+Consumo SSAA [MWh] 
+0,0106 
+Tiempo [minutos] 
+6,5500 
+(1) Los valores de potencia máxima y mínima neta del BESS Arica II para el modo descarga 
+son de 24,9676 MW y 0,4898 MW respectivamente. 
+ 
+Tabla 2. Parámetros del proceso de detención del Sistema de Almacenamiento de 
+Energía BESS Arica II – Modo Descarga 
+Etapa 
+Parámetro 
+BESS 
+Potencia Nominal – Mínimo 
+Técnico 
+Consumo SSAA [MWh] 
+0,0106 
+Tiempo [minutos] 
+6,5500 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA [MWh] 
+0,0002 
+Tiempo [minutos] 
+0,1333 
+Desconexión – Detención 
+Consumo SSAA [MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+ 
+Tabla 3. Parámetros del proceso de partida del Sistema de Almacenamiento de 
+Energía BESS Arica II – Modo Carga (2) 
+Etapa 
+Parámetro 
+BESS 
+Partida – Sincronización 
+Consumo SSAA [MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+Sincronización – Mínimo 
+Técnico 
+Consumo SSAA [MWh] 
+0,0008 
+Tiempo [minutos] 
+0,5000 
+Mínimo Técnico – Potencia 
+Nominal 
+Consumo SSAA [MWh] 
+0,0106 
+Tiempo [minutos] 
+6,5500 
+(2) Los valores de potencia máxima y mínima neta del BESS Arica II para el modo carga son 
+de -24,9754 MW y -0,9107 MW respectivamente. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Tabla 4. Parámetros del proceso de detención del Sistema de Almacenamiento de 
+Energía BESS Arica II – Modo Carga 
+Etapa 
+Parámetro 
+BESS 
+Potencia Nominal – Mínimo 
+Técnico 
+Consumo SSAA [MWh] 
+0,0106 
+Tiempo [minutos] 
+6,5833 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA [MWh] 
+0,0001 
+Tiempo [minutos] 
+0,0500 
+Desconexión – Detención 
+Consumo SSAA [MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+ 
+Nota: El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo en Estado Detenido 
+(TMD) son 0 [min]. 
+ 

@@ -1,0 +1,66 @@
+ 
+ 
+ 
+OR-000128-2026 
+ 
+Santiago, 13/04/2026 
+ 
+Señor 
+Ramón Castañeda P. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA: Respuesta a Carta DE02246-26 – Plan de Acción EAF 536-2025 / SE Coronel 
+ 
+De nuestra consideración: 
+ 
+En relación con su carta DE02246-26, referida al Plan de Acción asociado al EAF 536￼2025 por la 
+operación del EDACxCE en la S/E Coronel, y en atención a lo comprometido previamente mediante 
+nuestra carta OR-000041-2026 (enviada el 04 de febrero 2026, con código DE01057-26), 
+informamos a usted lo siguiente: 
+ 
+Que las acciones correctivas comprometidas en nuestra carta OR‑000041‑2026 se encuentran en su 
+mayoría completadas, de acuerdo con lo solicitado por el Coordinador y conforme a lo establecido 
+en el Artículo 6‑44 del Título 6‑7 de la Norma Técnica de Seguridad y Calidad de Servicio. 
+ 
+En ese sentido, la tarjeta del relé de protección GE D60 (Sistema 2) fue reemplazada y el firmware 
+actualizado con fecha 11 de diciembre de 2025, encontrándose actualmente el relé debidamente 
+bloqueado, conforme a los criterios de seguridad operativa definidos para este tipo de 
+intervenciones. 
+ 
+Por su parte, el levantamiento del alambrado existente y de la lógica de disparo del paño A1 de la 
+S/E Coronel, asociado a ambos sistemas de protección, se encuentra programado para su ejecución 
+el día 16 de abril de 2026 (N° neomante Desconexión/Intervención DI2026035027), instancia en la 
+cual se verificará en terreno la segregación correcta de los contactos de disparo y su 
+correspondiente independización en bloques de prueba separados para cada sistema de protección. 
+ 
+La minuta de bloqueo se encuentra elaborada y disponible, considerando correctamente la 
+totalidad de los contactos de disparo hacia el sistema EDAC, de modo de asegurar bloqueos 
+efectivos en futuras intervenciones. 
+ 
+La actualización de los planos as‑built de corriente continua y control se realizará en una etapa 
+posterior, una vez finalizado el levantamiento definitivo de alambrado en terreno, con el objeto de 
+reflejar fielmente la configuración final del conexionado. 
+Docusign Envelope ID: 9E1EBF0D-94B7-4396-B67B-F3711F423F0E
+
+ 
+ 
+ 
+ 
+Con lo anterior, se da por cumplido lo requerido en su comunicación, quedando disponibles para 
+remitir cualquier antecedente adicional que ese Coordinador estime necesario. 
+ 
+ 
+Sin otro particular, saludan atentamente a usted 
+ 
+ 
+TRANSELEC S.A., 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 
+Docusign Envelope ID: 9E1EBF0D-94B7-4396-B67B-F3711F423F0E

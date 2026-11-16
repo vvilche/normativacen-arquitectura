@@ -1,0 +1,119 @@
+ 
+Santiago, 11 de junio de 2025. 
+  ACC.ECH.060.25 
+Señor: 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe Desempeño Servicios Complementarios – mayo 2025. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de mayo 2025, que fue publicado en su página web y cuya publicación fue comunicada a través 
+de la carta DE 03379-25 de fecha 6 de junio de 2025. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+Felipe Escobar Tapia 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC MAYO 2025 V1 
+Servicio Complementario – CT 
+Planta: PFV Almeyda 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO 
+Comentario 
+06-05-2025 
+7:42:57 
+-17 
+-17 
+06-05-2025 
+7:40:00 
+Se califica como NV, por PQV_ Mala calidad, pero como se observa en la imagen inferior, el SSCC fue 
+prestado según lo solicitado. 
+19-05-2025 
+5:47:34 
+-17 
+-30 
+19-05-2025 
+5:47:00 
+Se califica como NC, pero la planta presta el SSCC según sus límites establecidos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Planta: PFV Malgarida 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO 
+Comentario 
+06-05-2025 
+7:41:57 
+-60 
+-60 
+06-05-2025 
+7:40:00 
+Se califica como NV, por PQV_ Mala calidad, pero como se observa en la imagen inferior, el SSCC fue 
+prestado según lo solicitado. 
+27-05-2025  
+8:45:54 
+-60 
+-60 
+27-05-2025  
+8:44:00 
+Se calculó el desempeño con 0% por “Disponibilidad”, debido al IL 2025001056 abierto el 19-05-2025 
+05:45hrs. Este documento no fue cerrado a tiempo por error de CDC que ya fue resuelto, y actualmente se 
+encuentra cerrado al 19-05-2025 10:22hrs. Se solicita corregir la disponibilidad ya que el desempeño de la 
+instrucción esta validado con C1. 
+28-05-2025 
+13:18:19 
+-60 
+-60 
+28-05-2025 
+13:17:00 
+Se calculó el desempeño con 0% por “Disponibilidad”, debido al IL 2025001056 abierto el 19-05-2025 
+05:45hrs. Este documento no fue cerrado a tiempo por error de CDC que ya fue resuelto, y actualmente se 
+encuentra cerrado al 19-05-2025 10:22hrs. Se solicita corregir la disponibilidad ya que el desempeño de la 
+instrucción esta validado con C1. 
+28-05-2025 
+18:11:58 
+-60 
+-60 
+28-05-2025 
+18:09:00 
+Se calculó el desempeño con 0% por “Disponibilidad”, debido al IL 2025001056 abierto el 19-05-2025 
+05:45hrs. Este documento no fue cerrado a tiempo por error de CDC que ya fue resuelto, y actualmente se 
+encuentra cerrado al 19-05-2025 10:22hrs. Se solicita corregir la disponibilidad ya que el desempeño de la 
+instrucción esta validado con C1. 
+29-05-2025 
+19:03:56 
+-60 
+-60 
+29-05-2025 
+19:01:00 
+Se calculó el desempeño con 0% por “Disponibilidad”, debido al IL 2025001056 abierto el 19-05-2025 
+05:45hrs. Este documento no fue cerrado a tiempo por error de CDC que ya fue resuelto, y actualmente se 
+encuentra cerrado al 19-05-2025 10:22hrs. Se solicita corregir la disponibilidad ya que el desempeño de la 
+instrucción esta validado con C1. 
+ 
+ 

@@ -1,0 +1,50 @@
+ 
+ 
+ 
+OR-000216-2026 
+ 
+Santiago, 29/07/2026 
+ 
+Señor 
+Ramón Castañeda. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA: Protocolos de Verificación de SSCC de Control de Tensión de S/E Charrúa. 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, por medio de la presente y para dar cumplimiento con lo establecido en el Anexo 
+Técnico “Verificación de instalaciones para la prestación de SSCC” de la Norma Técnica de Servicios 
+Complementarios, se remite actualización de los Protocolos Específicos de Pruebas para la 
+Verificación de Servicios Complementarios – Control de Tensión, correspondientes a los siguientes 
+equipos: 
+• 
+Banco de Condensadores ACE1 de S/E Charrúa 
+(EN202709.1_PEP_SSCC_CT_SE CHA_ACE1_Rev.0); 
+• 
+Banco de Condensadores CCE3 de S/E Charrúa 
+(EN202709.1_PEP_SSCC_CT_SE CHA_CCE3_Rev.0); 
+• 
+Banco de Condensadores CCE4 de S/E Charrúa 
+(EN202709.1_PEP_SSCC_CT_SE CHA_CCE4_Rev.0); 
+• 
+Banco de Condensadores JCE1 de S/E Charrúa 
+(EN202709.1_PEP_SSCC_CT_SE CHA_JCE1_Rev.0); 
+ 
+ 
+Quedamos atentos a sus comentarios u observaciones. 
+ 
+Sin otro particular, saludan atentamente a usted 
+ 
+TRANSELEC S.A., 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 
+ 
+Docusign Envelope ID: AB188715-1447-8907-80F3-E2D1E5F749C2

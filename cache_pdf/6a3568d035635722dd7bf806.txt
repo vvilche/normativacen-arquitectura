@@ -1,0 +1,187 @@
+ 
+ 
+ 
+grenergy.eu 
+Avda. Isidora Goyenechea 2800, oficina 3702 – Las Condes – Santiago. Tel.: 56 (2) 22483253 
+Santiago, 18 de junio de 2026. 
+CARTA N° GR­CHL0194A­343/2026 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Asunto:  Complementa respuesta remitida mediante carta 
+de referencia DE05463­26. 
+ 
+Ref.: 
+[1] Correlativo DE05463­26, de fecha 10 de junio 
+de 2026. 
+[2] Correlativo DE03429­26, de fecha 20 de mayo 
+de 2026. 
+ 
+[3]  Correlativo  DE10206­25,  de  fecha  2  de 
+octubre de 2025. 
+ 
+[4] Correlativo DE04404­25, de fecha 22 de abril 
+de 2025. 
+ 
+De nuestra consideración: 
+ 
+En atención a la comunicación remitida por el Sr. Williams Jiménez San Martín, Ingeniero de 
+Control de la Operación, mediante correo electrónico de fecha 16 de junio de 2026, por medio 
+de  la  presente  complementamos  la  información  previamente  entregada  por  nuestra 
+representada mediante la carta DE05463­26. 
+ 
+Tal como fue informado oportunamente, los proyectos fotovoltaicos (PV) y de almacenamiento 
+de  energía  (BESS)  de  la  Central  Fotovoltaica  Elena  cuentan  con  un  único  Controlador  de 
+Potencia  de  Planta  (PPC).  En  consecuencia,  la  verificación  del  Servicio  Complementario  de 
+Control Secundario de Frecuencia (CSF­AGC) será realizada de manera conjunta para ambas 
+instalaciones, mediante un único proceso de pruebas y un informe común de resultados. 
+ 
+En este sentido, la integración al despacho económico mediante AGC de los proyectos asociados 
+a los NUP 399 y 5203 será validada a través de las mismas actividades de verificación del CSF, 
+considerando la operación coordinada de ambas componentes bajo el PPC común. 
+ 
+Por otra parte, respecto del cronograma informado mediante la carta DE10206­25, de octubre 
+de 2025, se adjunta en el Anexo I el cronograma actualizado de las actividades pendientes para 
+completar el proceso de verificación.  
+
+ 
+ 
+ 
+grenergy.eu 
+Avda. Isidora Goyenechea 2800, oficina 3702 – Las Condes – Santiago. Tel.: 56 (2) 22483253 
+En particular, se estima que las pruebas funcionales de integración al Despacho Económico vía 
+AGC, se desarrollen entre la primera y la tercera semana de julio del presente año, de acuerdo 
+con  la  planificación  vigente  del  proyecto.  Lo  anterior  permite  anticipar  la  ejecución  de  las 
+actividades respecto del plazo máximo comprometido previamente para noviembre de 2026. 
+ 
+Las actividades asociadas a enlaces de comunicación, integración SITR y pruebas punto a punto 
+fueron previamente completadas e informadas mediante carta DE05463­26. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+_____________________________ 
+Pablo Abell Mena 
+pp. Solar Elena SpA 
+  
+_____________________________ 
+Fabian Videla Ortega 
+p.p. Solar Elena SpA  
+ 
+ 
+
+ 
+ 
+ 
+grenergy.eu 
+Avda. Isidora Goyenechea 2800, oficina 3702 – Las Condes – Santiago. Tel.: 56 (2) 22483253 
+Anexo I:  Actualización Plan de Trabajo 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 
+Etapas 
+  
+Descripción 
+Junio 
+Julio 
+Agosto 
+  
+     
+S1  S2  S3  S4  S1  S2  S3  S4  S1  S2  S3  S4 
+CSF (AGC)  1 
+Control Secundario de Frecuencia 
+(AGC) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+c  Solicitud de Pruebas con el CEN 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+CT, CPF, 
+CTF 
+4  Ensayos en terreno 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+a  Ensayos en PV y BESS Elena 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+5  Informes finales 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+a  Informe final BESS Elena 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 

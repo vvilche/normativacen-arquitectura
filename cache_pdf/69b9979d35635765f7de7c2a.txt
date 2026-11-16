@@ -1,0 +1,47 @@
+ 
+ 
+ENEL GREEN POWER CHILE 
+Roger de Flor 2725 – Las Condes, Chile – Tel. +562 2630 9000 
+ 
+ 
+Santiago, 16 de marzo de 2026 
+EGP 029-26 
+ 
+Señor 
+Ernesto Huber 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Referencia: 
+Complementa carta DE06240-25 y remite informe de pruebas actualizado para el Servicio de 
+Control de Tensión del Parque Fotovoltaico Don Humberto (NUP 2224). 
+ 
+De nuestra consideración: 
+Junto con saludar, y en complemento de la carta DE06240-25 enviada por EGP, relativa al proceso de 
+verificación del Servicio Complementario de Control de Tensión (CT) del Parque Fotovoltaico Don Humberto, 
+por medio de la presente venimos en remitir el informe de pruebas actualizado, en el cual se incorporan y 
+corrigen las observaciones formuladas por ese Coordinador mediante carta DE03472-25, de fecha 11 de junio 
+de 2025.  
+En particular, la nueva versión del informe incorpora los antecedentes y ajustes requeridos respecto de las 
+observaciones efectuadas al protocolo e informe de verificación, incluyendo: 
+• 
+La correcta verificación de la funcionalidad Qnight en ausencia de recurso primario. 
+• 
+La incorporación de pruebas orientadas a verificar la curva PQ teórica máxima, sin considerar las 
+limitaciones iniciales de reactivos ajustadas a nivel de PPC,  
+De esta manera, estimamos que el informe adjunto atiende íntegramente los requerimientos planteados por ese 
+Coordinador en el marco de la revisión del proceso de verificación del SSCC de Control de Tensión para el PFV 
+Don Humberto. 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________ 
+Miguel Buzunariz R. 
+Encargado Titular 
+Enel Green Power Chile S.A. 

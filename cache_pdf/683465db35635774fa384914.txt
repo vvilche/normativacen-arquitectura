@@ -1,0 +1,143 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 26 de mayo de 2025 
+ 
+    
+DE 03034-25 
+Señora 
+Carolina Vélez 
+Encargada Titular  
+GM Holdings S.A. 
+Presente 
+Ref.: Solicita Inicio de Proceso de Verificación 
+de 
+Servicio 
+Complementario 
+de 
+Control 
+Secundario de Frecuencia. 
+[1] Carta DE03002-25, Ref.: “Actualización de 
+Anexos de Instalaciones que prestan Servicios 
+Complementarios, Informe SSCC 2025”, de 
+fecha 20 de mayo de 2025. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, en los Anexos del Informe de SSCC de 2025, 
+el Coordinador identifica las instalaciones que deben prestar los distintos SSCC, cuya 
+última versión ha sido comunicada mediante carta de la Ref. [1], incorporando a la central 
+TER Santa Lidia para la prestación del Servicio Complementario de Control Secundario 
+de Frecuencia. 
+ 
+Al respecto, considerando lo establecido en el artículo 4-2 de la Norma Técnica de 
+Servicios Complementarios (NTSSCC), donde se señala que las unidades generadoras 
+que el Coordinador identifique como potenciales prestadores de SSCC, deberán 
+someterse al proceso de verificación con independencia del mecanismo de 
+materialización, su representada deberá iniciar el proceso de verificación de la Central 
+TER Santa Lidia. 
+ 
+La verificación del Servicio Complementario de Control Secundario de Frecuencia (CSF), 
+es el Coordinador quien cumple el rol de Experto Técnico. Por lo tanto, y a efectos de 
+coordinar las actividades y concretar la verificación del CSF, deberá tomar contacto con el 
+Departamento de Modelación y Aplicaciones EMS al correo dmap@coordinador.cl a más 
+tardar el día 02 junio. En el Anexo 1 a la presente carta se encuentra el listado de 
+señales requeridas en este proceso, las que de ser necesario deberá regularizar, en 
+forma previa, con el Departamento SCADA y SITR del Coordinador. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+                                                         Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+WJS/PGR/adr 
+c.c.: DMAP, DCySO, Camilo Zamorano – Encargado Suplente GM Holdings S.A. 
+ 
+ 
+ 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+Anexo 1: Listado de Señales Control Secundario de Frecuencia (AGC) 
+ 
+Unidades convencionales (Centrales Térmicas e Hidráulicas) 
+Digitales 
+Descripción 
+Local / Remoto (En Despacho Económico o Local) 
+Local (Uso de consigna local cuando la unidad no 
+está en control del AGC) / Remoto (Uso de 
+consigna remota proveniente del AGC)  
+Estado de Interruptor 
+Corresponde al interruptor de sincronización de la 
+unidad 
+Analógicos 
+Analógicos 
+Retorno 
+de 
+consigna 
+enviada 
+desde 
+el 
+Coordinador (MW) 
+Confirmación de que la consigna fue recibida o leída 
+por el controlador de la unidad 
+Límite superior de la Unidad (MW) 
+Valor efectivo utilizado por la unidad 
+Límite inferior de la Unidad (MW) 
+Mínimo técnico informado 
+Rampa de subida (MW/Min) 
+Rampa de subida utilizada para el AGC 
+Rampa de bajada (MW/Min) 
+Rampa de bajada utilizada para el AGC 
+Potencia generada (MW) 
+Se refiere a la potencia bruta de la unidad 
+Set Point 
+Set Point 
+Consigna de Despacho Económico 
+Recepción de una consigna remota proveniente del 
+AGC 
+Unidades de ERV (Parques Fotovoltaicos y Eólicos) 
+Digitales 
+Descripción 
+Local / Remoto (En Despacho Económico o Local) 
+Local (Uso de consigna local cuando el parque no 
+está en control del AGC) / Remoto (Uso de 
+consigna remota proveniente del AGC)  
+Estado de Interruptor 
+Interruptor en el punto de conexión 
+Analógicos 
+Analógicos 
+Retorno 
+de 
+consigna 
+enviada 
+desde 
+el 
+Coordinador (MW) 
+Confirmación de que la consigna fue recibida o leída 
+por el controlador de la unidad 
+Límite superior de la Unidad (MW) 
+Corresponde a la Potencia Máxima disponible en 
+MW. 
+Límite inferior de la Unidad (MW) 
+Mínimo técnico informado 
+Rampa de subida (MW/Min) 
+Rampa de subida utilizada para el AGC 
+Rampa de bajada (MW/Min) 
+Rampa de bajada utilizada para el AGC 
+Potencia generada (MW) 
+Potencia generada por el parque en el punto de 
+conexión 
+Set Point 
+Set Point 
+Consigna de Despacho Económico 
+Recepción de una consigna remota proveniente del 
+AGC 
+ 

@@ -1,0 +1,1318 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 02 de febrero de 2026 
+ 
+ 
+ 
+DE00682-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Programa definitivo Pruebas Potencia 
+Máxima y Consumo Específico Neto de 
+Unidades Generadoras 2026-2027. 
+ 
+[1] Carta DE08443-25, Ref.: “Programa 
+preliminar Pruebas de Potencia Máxima y 
+Consumo Específico Neto de Unidades 
+Generadoras para los años 2026 y 2027. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y conforme a lo establecido en el Artículo 4 del 
+Anexo Técnico “Pruebas de Potencia Máxima de Unidades Generadoras” y el Artículo 5 del 
+Anexo Técnico “Determinación de Consumos Específicos de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio (NTSyCS), se adjunta a la presente 
+comunicación el programa de pruebas de Potencia Máxima y Consumo Específico Neto 
+(ver Anexo 1 adjunto), que será ejecutado durante los años 2026 y 2027. Este calendario 
+ha sido confeccionado considerando las observaciones recibidas al programa enviado 
+mediante la carta de la Ref. [1], cuyas respuestas se presentan en el Anexo 2 de la presente 
+carta. 
+ 
+En virtud de lo anterior, se solicita a los Coordinados remitir al Coordinador Eléctrico 
+Nacional con una anticipación de al menos 90 días corridos respecto de la fecha de inicio 
+de pruebas, una propuesta de Experto Técnico seleccionado para el desarrollo de las 
+respectivas Pruebas de Potencia Máxima y/o Consumo Específico Neto según 
+corresponda. La propuesta debe ser acompañada con los antecedentes indicados en los 
+Anexos Técnicos ya mencionados, especificando trabajos similares y experiencia que 
+avalen la capacidad técnica para la realización de las actividades requeridas y ejecución de 
+las pruebas de la tecnología de la unidad. 
+ 
+La propuesta de Experto Técnico debe ser enviada mediante carta y con copia al correo 
+anexos_dco@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GZV/CRV/PPF/adr 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo 1: Calendario Definitivo de Pruebas de Potencia Máxima y Consumo Específico Neto 2026-2027 
+Se adjunta el archivo Excel “Calendario Definitivo Pruebas Pmax y CEN 2026-2027.xlsx” 
+ 
+N° Prueba 
+Coordinado 
+Unidad 
+Combustible 
+Fecha 
+Ejecución 
+Prueba 
+Comentario Coordinador 
+1 
+Pmax 
+ENEL GENERACIÓN CHILE S.A. 
+TER ATACAMA CC2 
+Diésel 
+26-01-2026 
+Pendiente Calendario 2025. Fecha vencida 
+sin ejecución de pruebas. Nueva fecha en 
+análisis, se solicitará información adicional al 
+coordinado. 
+2 
+CEN 
+ENEL GENERACIÓN CHILE S.A. 
+TER ATACAMA CC2 
+Diésel 
+26-01-2026  
+Pendiente Calendario 2025. Fecha vencida 
+sin ejecución de pruebas. Nueva fecha en 
+análisis, se solicitará información adicional al 
+coordinado. 
+3 
+CEN 
+ENGIE ENERGÍA CHILE S.A. 
+TER MEJILLONES CTM3 
+Diésel/Gas natural 
+27-01-2026  
+5 años desde realización última prueba. 
+Fecha vencida sin ejecución de pruebas. Se 
+solicitó 
+justificación 
+de 
+nueva 
+fecha 
+propuesta. 
+4 
+Pmax 
+ENGIE ENERGÍA CHILE S.A. 
+TER MEJILLONES CTM3 
+Diésel/Gas natural 
+27-01-2026 
+5 años desde realización última prueba. 
+Fecha vencida sin ejecución de pruebas.  Se 
+solicitó 
+justificación 
+de 
+nueva 
+fecha 
+propuesta. 
+5 
+Pmax 
+PRIME ENERGÍA QUICKSTART SPA 
+TER PAJONALES (U1-U56) 
+Diésel 
+22-02-2026 
+Pendiente Calendario 2025 
+6 
+CEN 
+PRIME ENERGÍA QUICKSTART SPA 
+TER PAJONALES (U1-U56) 
+Diésel 
+22-02-2026 
+Pendiente Calendario 2025 
+7 
+Pmax 
+ENEL GENERACIÓN CHILE S.A. 
+TER ATACAMA CC1 
+Gas Natural/Diésel 
+09-03-2026 
+Pendiente Calendario 2025, se programa 
+posterior a mantenimiento mayor 
+8 
+CEN 
+ENEL GENERACIÓN CHILE S.A. 
+TER ATACAMA CC1 
+Gas Natural/Diésel 
+09-03-2026 
+Pendiente Calendario 2025, se programa 
+posterior a mantenimiento mayor 
+9 
+Pmax 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC SANTA FE 
+Biomasa 
+16-03-2026 
+Pendiente Calendario 2025 
+10 
+CEN 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC SANTA FE 
+Biomasa 
+16-03-2026 
+Pendiente Calendario 2025 
+11 
+Pmax 
+PRIME ENERGÍA QUICKSTART SPA 
+TER CHAGUAL (U1-U56) 
+Diésel 
+23-03-2026 
+5 años desde realización última prueba 
+12 
+CEN 
+PRIME ENERGÍA QUICKSTART SPA 
+TER CHAGUAL (U1-U56) 
+Diésel 
+23-03-2026 
+5 años desde realización última prueba 
+13 
+Pmax 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC LAJA (BUCALEMU) 
+Biomasa 
+06-04-2026 
+Pendiente Calendario 2025 
+14 
+CEN 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC LAJA (BUCALEMU) 
+Biomasa 
+06-04-2026 
+Pendiente Calendario 2025 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° Prueba 
+Coordinado 
+Unidad 
+Combustible 
+Fecha 
+Ejecución 
+Prueba 
+Comentario Coordinador 
+15 
+CEN 
+NEOMAS SPA 
+TER MASISA U1 
+Biomasa 
+13-04-2026 
+A solicitud del Coordinado 
+16 
+Pmax 
+NEOMAS SPA 
+TER MASISA U1 
+Biomasa 
+13-04-2026 
+A solicitud del Coordinado 
+17 
+Pmax 
+ARAUCO BIOENERGÍA SpA 
+TER VALDIVIA U1 
+Biomasa 
+13-04-2026 
+No ha realizado prueba 
+18 
+CEN 
+ARAUCO BIOENERGÍA SpA 
+TER VALDIVIA U1 
+Biomasa 
+13-04-2026 
+No ha realizado prueba 
+19 
+Pmax 
+PRIME ENERGÍA QUICKSTART SPA 
+TER COMBARBALA (U1-U42) 
+Diésel 
+17-04-2026 
+5 años desde realización última prueba 
+20 
+CEN 
+PRIME ENERGÍA QUICKSTART SPA 
+TER COMBARBALA (U1-U42) 
+Diésel 
+17-04-2026 
+5 años desde realización última prueba 
+21 
+CEN 
+ENEL GENERACIÓN CHILE S.A. 
+TER SAN ISIDRO CC1 
+Gas Natural 
+23-04-2026 
+5 años desde realización última prueba 
+22 
+Pmax 
+ENEL GENERACIÓN CHILE S.A. 
+TER SAN ISIDRO CC1 
+Gas Natural 
+23-04-2026 
+A solicitud del Coordinado 
+23 
+Pmax 
+LOS GUINDOS GENERACIÓN SPA 
+TER LOS GUINDOS U1 y U2 
+Diésel 
+04-05-2026 
+5 años desde realización última prueba 
+24 
+CEN 
+LOS GUINDOS GENERACIÓN SPA 
+TER LOS GUINDOS U1 y U2 
+Diésel 
+04-05-2026 
+5 años desde realización última prueba 
+25 
+CEN 
+MANTOS COPPER S.A. 
+TER MANTOS BLANCOS (U1-U10) 
+Diésel 
+04-05-2026 
+Pendiente Calendario 2025 
+26 
+Pmax 
+EMPRESA ELÉCTRICA VENTANAS S.A. 
+TER CAMPICHE U1 
+Carbón 
+11-05-2026 
+5 años desde realización última prueba 
+27 
+Pmax 
+ENAP REFINERÍAS S.A. 
+TER PETROPOWER U1 
+Petcoke 
+25-05-2026 
+No ha realizado prueba 
+28 
+CEN 
+ENAP REFINERÍAS S.A. 
+TER PETROPOWER U1 
+Petcoke 
+25-05-2026 
+No ha realizado prueba 
+29 
+Pmax 
+ARAUCO BIOENERGÍA SpA 
+TER NUEVA ALDEA U1, U2 
+Biomasa 
+01-06-2026 
+No ha realizado prueba 
+30 
+CEN 
+ARAUCO BIOENERGÍA SpA 
+TER NUEVA ALDEA U1, U2 
+Biomasa 
+01-06-2026 
+No ha realizado prueba 
+31 
+CEN 
+GENERADORA DEL PACÍFICO SPA 
+TER TERMOPACIFICO (U1-U60) 
+Diésel 
+08-06-2026 
+A solicitud del Coordinado 
+32 
+Pmax 
+GENERADORA DEL PACÍFICO SPA 
+TER TERMOPACIFICO (U1-U60) 
+Diésel 
+08-06-2026 
+Pendiente Calendario 2025 
+33 
+Pmax 
+ENERGÍA SIETE SPA 
+TER TRINCAO (U1-U10) 
+Diésel 
+15-06-2026 
+Pendiente Calendario 2025, se programa 
+posterior a mantenimiento mayor 
+34 
+CEN 
+ENERGÍA SIETE SPA 
+TER TRINCAO (U1-U10) 
+Diésel 
+15-06-2026 
+Pendiente Calendario 2025, se programa 
+posterior a mantenimiento mayor 
+35 
+Pmax 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC CORDILLERA U1 
+Gas Natural 
+15-06-2026 
+5 años desde realización última prueba 
+36 
+CEN 
+BIOENERGÍAS FORESTALES SPA 
+TER CMPC CORDILLERA U1 
+Gas Natural 
+15-06-2026 
+5 años desde realización última prueba 
+37 
+Pmax 
+ENGIE ENERGÍA CHILE S.A. 
+TER IEM 
+GN 
+02-07-2026 
+5 años desde realización última prueba 
+38 
+CEN 
+ENGIE ENERGÍA CHILE S.A. 
+TER IEM 
+GN 
+02-07-2026 
+5 años desde realización última prueba 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° Prueba 
+Coordinado 
+Unidad 
+Combustible 
+Fecha 
+Ejecución 
+Prueba 
+Comentario Coordinador 
+39 
+Pmax 
+GENERADORA ANTILHUE SPA 
+TER ANTILHUE U1, U2 
+Diésel 
+05-07-2026 
+5 años desde realización última prueba 
+40 
+CEN 
+GENERADORA ANTILHUE SPA 
+TER ANTILHUE U1, U2 
+Diésel 
+05-07-2026 
+5 años desde realización última prueba 
+41 
+Pmax 
+ENAP REFINERÍAS S.A. 
+TER ACONCAGUA U1 
+Gas Natural 
+27-07-2026 
+5 años desde realización última prueba 
+42 
+CEN 
+ENAP REFINERÍAS S.A. 
+TER ACONCAGUA U1 
+Gas Natural 
+27-07-2026 
+5 años desde realización última prueba 
+43 
+Pmax 
+ENEL GENERACIÓN CHILE S.A. 
+HP ABANICO, U1, U3, U5, U6 
+Hidro Pasada 
+31-08-2026 
+No ha realizado prueba 
+44 
+Pmax 
+COLBÚN S.A. 
+HP QUILLECO U1, U2, Central 
+Completa 
+Hidro Pasada 
+07-09-2026 
+No ha realizado prueba 
+45 
+Pmax 
+COLBÚN S.A. 
+HP RUCUE U1, U2, Central 
+Completa 
+Hidro Pasada 
+07-09-2026 
+No ha realizado prueba 
+46 
+Pmax 
+PACIFIC HYDRO CHACAYES S.A. 
+HP CHACAYES U1, U2 
+Hidro Pasada 
+05-10-2026 
+No ha realizado prueba 
+47 
+Pmax 
+ENEL GENERACIÓN CHILE S.A. 
+HE PANGUE (Central Completa) 
+Hidro Embalse 
+15-10-2026 
+Pendiente Calendario 2025 por 
+disponibilidad de recurso primario 
+48 
+Pmax 
+AES ANDES S.A. 
+HP QUELTEHUES U1, U2, U3  
+Central Completa 
+Hidro Pasada 
+02-11-2026 
+No ha realizado prueba 
+49 
+CEN 
+ENEL GENERACIÓN CHILE S.A. 
+TER SAN ISIDRO II CC1 
+Diésel/Gas Natural 
+03-11-2026 
+A solicitud del Coordinado 
+50 
+Pmax 
+ENEL GENERACIÓN CHILE S.A. 
+TER SAN ISIDRO II CC1 
+Diésel/Gas Natural 
+03-11-2026 
+A solicitud del Coordinado 
+51 
+Pmax 
+CERRO DOMINADOR CSP S.A. 
+CSP CERRO DOMINADOR 
+Concentración 
+solar 
+09-11-2026 
+5 años desde realización última prueba 
+52 
+Pmax 
+AELA GENERACIÓN S.A. 
+HP MAMPIL U1, U2, Central 
+Completa 
+Hidro Pasada 
+16-11-2026 
+No ha realizado prueba 
+53 
+Pmax 
+AELA GENERACIÓN S.A. 
+HP PEUCHEN U1, U2, Central 
+Completa 
+Hidro Pasada 
+16-11-2026 
+No ha realizado prueba 
+54 
+Pmax 
+COLBÚN S.A. 
+HE MACHICURA U1, U2, Central 
+Completa 
+Hidro Embalse 
+01-12-2026 
+No ha realizado prueba 
+55 
+Pmax 
+GUACOLDA ENERGÍA SPA 
+TER HUASCO (U3-U5) 
+Diésel 
+07-12-2026 
+No ha realizado prueba 
+56 
+CEN 
+GUACOLDA ENERGÍA SPA 
+TER HUASCO (U3-U5) 
+Diésel 
+07-12-2026 
+Solicitud del Coordinado 
+57 
+CEN 
+COLBÚN S.A. 
+TER NEHUENCO CC1 
+Diésel/Gas Natural 
+09-12-2026 
+5 años desde realización última prueba 
+58 
+Pmax 
+COLBÚN S.A. 
+TER NEHUENCO CC1 
+Diésel/Gas Natural 
+09-12-2026 
+5 años desde realización última prueba 
+59 
+Pmax 
+COLBÚN S.A. 
+HE CANUTILLAR U1, U2 
+Hidro Embalse 
+23-12-2026 
+No ha realizado prueba 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° Prueba 
+Coordinado 
+Unidad 
+Combustible 
+Fecha 
+Ejecución 
+Prueba 
+Comentario Coordinador 
+60 
+Pmax 
+ELÉCTRICA MOKA SPA 
+TER DIEGO DE ALMAGRO U1 
+Gas Natural 
+01-02-2027 
+No ha realizado prueba 
+61 
+CEN 
+EMPRESA ELÉCTRICA COCHRANE SPA 
+TER COCHRANE (U1-U2) 
+Carbón 
+08-02-2027 
+5 años desde realización última prueba 
+62 
+Pmax 
+ARAUCO BIOENERGÍA SPA 
+TER HORCONES U1 
+Diésel 
+15-02-2027 
+No ha realizado prueba 
+63 
+Pmax 
+ENGIE ENERGÍA CHILE S.A. 
+TER ANDINA U1 
+Carbón 
+15-03-2027 
+5 años desde realización última prueba 
+64 
+Pmax 
+ENEL GREEN POWER CHILE S.A. 
+HP PILMAIQUEN 
+Hidro Pasada 
+19-03-2027 
+No ha realizado prueba 
+65 
+Pmax 
+ENGIE ENERGÍA CHILE S.A. 
+TER HORNITOS U1 
+Carbón 
+22-03-2027 
+5 años desde realización última prueba 
+66 
+Pmax 
+COLBÚN S.A. 
+TER NEHUENCO II CC1 
+Diésel/Gas Natural 
+23-03-2027 
+5 años desde realización última prueba 
+67 
+CEN 
+COLBÚN S.A. 
+TER NEHUENCO II CC1 
+Diésel/Gas Natural 
+23-03-2027 
+5 años desde realización última prueba 
+68 
+CEN 
+PRIME ENERGÍA QUICKSTART SPA 
+TER LLANOS BLANCOS (U1-U83) 
+Diésel 
+05-04-2027 
+5 años desde realización última prueba 
+69 
+Pmax 
+PRIME ENERGÍA QUICKSTART SPA 
+TER LLANOS BLANCOS (U1-U83) 
+Diésel 
+05-04-2027 
+5 años desde realización última prueba 
+70 
+CEN 
+CENTRAL CARDONES S.A. 
+TER CARDONES U1 
+Diésel 
+12-04-2027 
+5 años desde realización última prueba 
+71 
+CEN 
+GENERADORA METROPOLITANA SPA 
+TER LOS VIENTOS U1 
+Diésel/Gas natural 
+26-04-2027 
+5 años desde realización última prueba 
+72 
+CEN 
+ESPINOS S.A. 
+TER LOS ESPINOS (U1-U80) 
+Diésel 
+03-05-2027 
+No ha realizado prueba 
+73 
+CEN 
+CENTRAL YUNGAY S.A. 
+TER YUNGAY (U1-U4) 
+Diésel 
+10-05-2027 
+5 años desde realización última prueba 
+74 
+CEN 
+ESPINOS S.A. 
+TER OLIVOS (U1-U72) 
+Diésel 
+17-05-2027 
+No ha realizado prueba 
+75 
+CEN 
+EMPRESA ELÉCTRICA DIEGO DE 
+ALMAGRO SPA 
+TER EMELDA U2 
+Diésel 
+21-06-2027 
+5 años desde realización última prueba 
+76 
+Pmax 
+EMPRESA ELÉCTRICA DIEGO DE 
+ALMAGRO SPA 
+TER EMELDA U2 
+Diésel 
+21-06-2027 
+5 años desde realización última prueba 
+77 
+Pmax 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+HE PEHUENCHE (U1-U2) 
+Hidro Embalse 
+23-06-2027 
+5 años desde realización última prueba 
+78 
+Pmax 
+CELULOSA ARAUCO Y CONSTITUCIÓN 
+S.A. 
+TER ARAUCO (U1-U2) 
+Biomasa 
+12-07-2027 
+No ha realizado prueba 
+79 
+CEN 
+CELULOSA ARAUCO Y CONSTITUCIÓN 
+S.A. 
+TER ARAUCO (U1-U2) 
+Biomasa 
+12-07-2027 
+No ha realizado prueba 
+80 
+CEN 
+INNOVACIÓN ENERGÍA S.A. 
+TER TENO GAS (U1-U26) 
+GLP 
+19-07-2027 
+5 años desde realización última prueba 
+81 
+Pmax 
+EÓLICA MONTE REDONDO SPA 
+HP LAJA I (U1-U2) 
+Hidro Pasada 
+26-07-2027 
+No ha realizado prueba 
+82 
+Pmax 
+ENEL GENERACIÓN CHILE S.A. 
+HE RALCO (U1-U2) 
+Hidro Embalse 
+02-08-2027 
+5 años desde realización última prueba 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° Prueba 
+Coordinado 
+Unidad 
+Combustible 
+Fecha 
+Ejecución 
+Prueba 
+Comentario Coordinador 
+83 
+Pmax 
+COLBÚN S.A. 
+HE ANGOSTURA (U1-U3) 
+Hidro Embalse 
+09-08-2027 
+No ha realizado prueba 
+84 
+CEN 
+PRIME ENERGÍA QUICKSTART SPA 
+TER SAN JAVIER I (U1-U14) 
+Diésel 
+23-08-2027 
+5 años desde realización última prueba 
+85 
+CEN 
+PRIME ENERGÍA QUICKSTART SPA 
+TER SAN JAVIER II (U1-U14) 
+Diésel 
+30-08-2027 
+5 años desde realización última prueba 
+86 
+Pmax 
+ENEL GENERACIÓN CHILE S.A. 
+HE CIPRESES (U1-U3) 
+Hidro Embalse 
+06-09-2027 
+No ha realizado prueba 
+87 
+Pmax 
+ALTO MAIPO SPA 
+HP LAS LAJAS (U1-U2) 
+Hidro Pasada 
+18-10-2027 
+5 años desde realización última prueba 
+88 
+Pmax 
+ENEL GREEN POWER CHILE S.A. 
+HP PULLINQUE (U1-U3) 
+Hidro Pasada 
+18-10-2027 
+No ha realizado prueba 
+89 
+Pmax 
+TAMAKAYA ENERGIA SPA 
+TER KELAR 
+GNL/Diésel 
+06-11-2027 
+Solicitud del Coordinado 
+90 
+CEN 
+TAMAKAYA ENERGIA SPA 
+TER KELAR 
+GNL/Diésel 
+06-11-2027 
+Solicitud del Coordinado 
+91 
+Pmax 
+PACIFIC HYDRO CHILE S.A. 
+HP PANGAL (U1-U5) 
+Hidro Pasada 
+15-11-2027 
+No ha realizado prueba 
+92 
+Pmax 
+ALTO MAIPO SPA 
+HP ALFALFAL II (U1-U2) 
+Hidro Pasada 
+22-11-2027 
+5 años desde realización última prueba 
+93 
+Pmax 
+ENEL GENERACIÓN CHILE S.A. 
+TER TALTAL U1 
+Diésel/Gas Natural 
+27-12-2027 
+5 años desde realización última prueba 
+94 
+CEN 
+ENEL GENERACIÓN CHILE S.A. 
+TER TALTAL U1 
+Diésel/Gas Natural 
+27-12-2027 
+5 años desde realización última prueba 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 2: Respuesta a las observaciones recibidas al calendario de Pruebas de Potencia Máxima y Consumo Específico  
+Neto 2026 - 2027. 
+ 
+N° 
+Coordinado 
+Fecha 
+Propuesta 
+Coordinador 
+Prueba 
+Unidad 
+Carta Observación 
+Fecha 
+Propuesta 
+Coordinado 
+Justificación Propuesta 
+Coordinado 
+Respuesta Coordinador 
+1 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+23-02-2026 
+Pmax/CEN 
+TER CMPC SANTA 
+FE 
+BF-E-CYR-2026-002 
+23-02-2026 Solicita cambio de fecha y 
+Coordinado 
+Se acoge solicitud 
+2 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+23-03-2026 
+Pmax/CEN 
+TER CMPC LAJA 
+(BUCALEMU) 
+BF-E-CYR-2026-002 
+23-03-2026 Solicita cambio de fecha 
+Se acoge solicitud 
+3 
+GENERADORA 
+ANTILHUE SPA 20-04-2026 
+Pmax/CEN 
+TER ANTILHUE 
+ U1, U2 
+EFC-2025-0233 
+20-04-2026 Solicita ajuste de fechas 
+para conjunto de pruebas 
+Se acoge solicitud 
+4 
+GENERADORA 
+DEL PACÍFICO 
+SPA 
+23-03-2026 
+Pmax/CEN 
+TER 
+TERMOPACIFICO 
+(U1-U60) 
+EFC-2025-0233 
+08-06-2026 Solicita ajuste de fechas 
+para conjunto de pruebas 
+Se acoge solicitud 
+5 
+PRIME ENERGÍA 
+QUICKSTART 
+SPA 
+05-07-2026 
+Pmax/CEN 
+TER CHAGUAL  
+(U1-U56) 
+EFC-2025-0233 
+05-07-2026 Solicita ajuste de fechas 
+para conjunto de pruebas 
+Se acoge solicitud 
+6 
+CERRO 
+DOMINADOR 
+CSP S.A. 
+13-07-2026 
+Pmax 
+CSP CERRO 
+DOMINADOR 
+CSP-GE-LT-CEN-0376 13-07-2026 Solicita cambio de fecha 
+por factibilidad 
+Se acoge solicitud 
+7 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+08-08-2026 
+Pmax 
+TER SANTA FE 
+BF-E-CYR-2026-002 
+08-08-2026 Informa prueba realizada 
+(DE01697-22) 
+Se acoge solicitud. Se elimina 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Fecha 
+Propuesta 
+Coordinador 
+Prueba 
+Unidad 
+Carta Observación 
+Fecha 
+Propuesta 
+Coordinado 
+Justificación Propuesta 
+Coordinado 
+Respuesta Coordinador 
+8 
+AES ANDES S.A. 02-09-2026 
+Pmax 
+HP QUELTEHUES 
+U1, U2, U3  
+Central Completa 
+AES 0003-2026 
+02-09-2026 
+Solicita cambio de fecha 
+por disponibilidad recurso 
+primario 
+Se acoge solicitud 
+9 
+ELÉCTRICA 
+MOKA SPA 
+01-02-2027 
+Pmax 
+TER DIEGO DE 
+ALMAGRO U1 
+- 
+01-02-2027 Informa cambio de 
+Coordinado 
+Se acoge solicitud 
+10 
+EMPRESA 
+ELÉCTRICA 
+COCHRANE SPA 
+08-02-2027 
+CEN 
+TER COCHRANE 
+(U1-U2) 
+CCR 0001-2026 
+08-02-2027 Corrige combustible 
+Se acoge solicitud 
+11 
+ARAUCO 
+BIOENERGÍA 
+SPA 
+15-02-2027 
+Pmax 
+TER HORCONES U1 
+GAB-004/2026 
+15-02-2027 Corrige combustible 
+Se acoge solicitud 
+12 
+COLBÚN S.A. 
+01-03-2027 
+CEN 
+TER CANDELARIA 
+(U1-U2) 
+GO N° 007/2026 
+01-03-2027 Informa prueba realizada 
+(DE03457-25) 
+Se acoge solicitud. Se elimina 
+13 
+CENTRAL 
+YUNGAY S.A. 
+08-03-2027 
+CEN 
+TER YUNGAY  
+(U1-U4) 
+GC-YU 0001 
+26GC-YU 0002 
+08-03-2027 
+Informa prueba realizada 
+U1-U3 con GN.  
+Solicita cambio de fecha 
+por logística 
+Se acoge solicitud. Se 
+modifica prueba a Diesel 
+14 
+PRIME ENERGÍA 
+QUICKSTART 
+SPA 
+- 
+Pmax 
+TER LLANOS 
+BLANCOS (U1-U83) 
+EFC-2025-0233 
+- 
+Solicita incluir Pmax en 
+misma fecha CEN 
+Se acoge solicitud 
+15 
+ESPINOS S.A. 
+03-05-2027 
+CEN 
+TER LOS ESPINOS 
+(U1-U80) 
+Carta S/N 
+03-05-2027 Informa prueba Pmax 
+realizada 
+Se modifica prueba a CEN 
+16 
+ESPINOS S.A. 
+17-05-2027 
+CEN 
+TER OLIVOS  
+(U1-U72) 
+Carta S/N 
+17-05-2027 Informa prueba Pmax 
+realizada 
+Se modifica prueba a CEN 
+17 
+COLBÚN S.A. 
+07-06-2027 
+Pmax 
+TER NEHUENCO 9B 
+U1 
+GO N° 007/2026 
+07-06-2027 Informa prueba realizada 
+(DE03191-25) 
+Se acoge solicitud. Se elimina 
+18 
+EMPRESA 
+ELÉCTRICA 
+DIEGO DE 
+ALMAGRO SPA 
+21-06-2027 
+CEN 
+TER EMELDA U2 
+EFC-2025-0233 
+21-06-2027 
+Informa prueba U1 
+realizada y corrige 
+combustible.  
+Se acoge solicitud 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Fecha 
+Propuesta 
+Coordinador 
+Prueba 
+Unidad 
+Carta Observación 
+Fecha 
+Propuesta 
+Coordinado 
+Justificación Propuesta 
+Coordinado 
+Respuesta Coordinador 
+19 
+EMPRESA 
+ELÉCTRICA 
+DIEGO DE 
+ALMAGRO SPA 
+21-06-2027 
+Pmax 
+TER EMELDA U2 
+EFC-2025-0233 
+21-06-2027 Solicita incluir Pmax en 
+misma fecha CEN 
+Se acoge solicitud 
+20 
+GUACOLDA 
+ENERGÍA SPA 
+28-06-2027 
+Pmax/CEN 
+TER HUASCO 
+ (U3-U5) 
+0002-2026 
+28-06-2027 
+Solicita cambio de fecha a 
+2026 e incorporar prueba 
+CEN. 
+Se acoge solicitud 
+21 AES ANDES S.A. 27-09-2027 
+Pmax 
+HP MAITENES 
+ (U1-U3) 
+AES 0003-2026 
+27-09-2027 Informa retiro del SEN 
+Se acoge solicitud. Se elimina 
+22 
+TAMAKAYA 
+ENERGIA SPA 
+06-11-2027 
+Pmax/CEN 
+TER KELAR 
+TMKYA-260108-
+0002 
+06-11-2027 Solicita incorporar pruebas 
+a Calendario 
+Se acoge solicitud 
+23 AES ANDES S.A. 
+- 
+Pmax 
+HP Volcán 
+AES 0003-2026 
+N/A 
+Solicita incorporar a 
+calendario 
+No se acoge solicitud. Se 
+solicita informar Pmax 
+conforme al Anexo Técnico. 
+Potencia nominal < 20 MW 
+24 ENGIE ENERGÍA 
+CHILE S.A. 
+27-01-2026 
+Pmax/CEN 
+TER MEJILLONES 
+CTM3 
+005/2026 
+01-06-2026 Solicita cambio de fecha. 
+No se acoge. Coordinado 
+debe enviar justificación.  
+25 ENGIE ENERGÍA 
+CHILE S.A. 
+02-07-2026 
+Pmax/CEN 
+TER IEM 
+005/2026 
+ - 
+Confirma fecha propuesta 
+por Coordinador 
+No requiere respuesta 
+26 ENGIE ENERGÍA 
+CHILE S.A. 
+15-03-2027 
+Pmax 
+TER ANDINA U1 
+005/2026 
+ - 
+Confirma fecha propuesta 
+por Coordinador 
+No requiere respuesta 
+27 ENGIE ENERGÍA 
+CHILE S.A. 
+22-03-2027 
+Pmax 
+TER HORNITOS U1 
+005/2026 
+ - 
+Confirma fecha propuesta 
+por Coordinador 
+No requiere respuesta 
+28 ENGIE ENERGÍA 
+CHILE S.A. 
+29-03-2027 
+CEN 
+TER MEJILLONES 
+CTM2 
+005/2026 
+ - 
+Solicita eliminar prueba por 
+retiro unidad 
+Se acoge solicitud 
+29 ENGIE ENERGÍA 
+CHILE S.A. 
+19-04-2027 
+CEN 
+TER MEJILLONES 
+CTM1 
+005/2026 
+ - 
+Solicita eliminar prueba por 
+retiro unidad 
+Se acoge solicitud 
+30 ENGIE ENERGÍA 
+CHILE S.A.. 
+22-11-2027 
+Pmax 
+HP LAJA I (U1-U2) 
+005/2026 
+07-01-2027 
+Solicita cambio de fecha 
+por disponibilidad recurso 
+primario 
+Se acoge solicitud 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Fecha 
+Propuesta 
+Coordinador 
+Prueba 
+Unidad 
+Carta Observación 
+Fecha 
+Propuesta 
+Coordinado 
+Justificación Propuesta 
+Coordinado 
+Respuesta Coordinador 
+31 
+ENEL 
+GENERACIÓN 
+CHILE S.A. 
+26-01-2026 
+Pmax/CEN 
+TER ATACAMA CC2 
+OP 003-26 
+- 
+Informa que no es posible 
+confirmar fecha 
+Se solicitará mayores 
+antecedentes para 
+esclarecer situación de 
+unidad y establecer fecha. 
+32 
+ENEL 
+GENERACIÓN 
+CHILE S.A. 
+23-02-2026 
+Pmax/CEN 
+TER SAN ISIDRO 
+CC1 
+OP 003-26 
+23-04-2026 Modificar fecha por ajustes 
+previos 
+Se acoge solicitud 
+33 
+ENEL 
+GENERACIÓN 
+CHILE S.A. 
+23-02-2026 
+Pmax/CEN 
+TER SAN ISIDRO II 
+CC1 
+OP 003-26 
+03-11-2026 Modificar fecha por ajustes 
+previos 
+Se acoge solicitud 
+34 
+ENEL 
+GENERACIÓN 
+CHILE S.A. 
+15-04-2026 
+Pmax 
+HE PANGUE 
+(Central Completa) 
+OP 003-26 
+15-10-2026 
+Solicita cambio de fecha 
+por disponibilidad recurso 
+primario 
+Se acoge solicitud 
+35 
+COLBÚN S.A. 
+19-10-2026 
+Pmax/CEN 
+TER NEHUENCO 
+CC1 
+008/2026 
+09-12-2026 Solicita modificar fecha por 
+Mantenimiento Mayor 
+Se acoge solicitud 
+36 
+COLBÚN S.A. 
+22-02-2027 
+Pmax/CEN 
+TER NEHUENCO II 
+CC1 
+008/2026 
+23-03-2027 Solicita modificar fecha por 
+ajustes previos 
+Se acoge solicitud 
+ 

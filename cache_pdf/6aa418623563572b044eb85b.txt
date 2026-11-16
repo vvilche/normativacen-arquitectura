@@ -1,0 +1,210 @@
+ 
+Información Interna del Grupo SAESA.
+ 
+ 
+N° 1588424 
+Santiago, 10 de septiembre de 2026 
+ 
+ 
+Señor  
+Victor Reyes Jara 
+Jefe Departamento SCADA 
+Coordinador Eléctrico Nacional 
+Santiago 
+PRESENTE  
+ 
+REF.: Carta respuesta DE 05670-26   
+ 
+ 
+MATERIA: 
+Solicita ampliación del plazo para formular observaciones a la Guía 
+Técnica de Buenas Prácticas y Requerimientos Base para Sistemas 
+SCADA y SITR, supeditándolo al cierre de la consulta pública del 
+proyecto de Norma Técnica de Ciberseguridad y Seguridad de la
+Información. 
+REF. [1]: 
+Carta DE05670-26, de 24 de agosto de 2026, del Coordinador Eléctrico 
+Nacional — «Consulta Guía Técnica de Buenas Prácticas y 
+Requerimientos Base para Sistemas SCADA y SITR». 
+REF. [2]: 
+Aviso publicado en el Diario Oficial N°44.536, de 28 de agosto de 2026, 
+CVE 2861567 — «Consulta pública de proyecto de Norma Técnica de 
+Ciberseguridad y Seguridad de la Información», Comisión Nacional de 
+Energía. 
+REF. [3]: 
+Resolución exenta CNE N°383, de 29 de septiembre de 2021, que da 
+inicio al procedimiento normativo de elaboración de la referida Norma 
+Técnica. 
+ 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en el marco del proceso de consulta individualizado en la Ref. 
+[1], venimos en solicitar respetuosamente al Coordinador Eléctrico Nacional la ampliación 
+del plazo para formular observaciones a la Guía Técnica de Buenas Prácticas y 
+Requerimientos Base para Sistemas SCADA y SITR (en adelante, «la Guía»), de modo que 
+su vencimiento quede supeditado al del proceso de consulta pública del proyecto de Norma 
+Técnica de Ciberseguridad y Seguridad de la Información, actualmente en curso. Fundamos 
+nuestra petición en las siguientes consideraciones. 
+ 
+I. 
+Antecedentes 
+ 
+1. 
+Mediante la carta de la Ref. [1], de 24 de agosto de 2026, el Coordinador puso a 
+disposición de las Empresas Coordinadas la versión preliminar de la Guía, solicitando 
+la remisión de observaciones, comentarios y propuestas de mejora a más tardar el 10 
+de septiembre de 2026, a través de ConectaCen y utilizando el formulario 
+«Observaciones Guía Técnica SCADA y SITR.xlsx». 
+2. 
+Cuatro días después, el 28 de agosto de 2026, se publicó en el Diario Oficial el aviso 
+individualizado en la Ref. [2], mediante el cual la Comisión Nacional de Energía sometió 
+
+ 
+Información Interna del Grupo SAESA.
+a consulta pública el proyecto de Norma Técnica de Ciberseguridad y Seguridad de la 
+Información (en adelante, «el proyecto de Norma Técnica»), en el marco del 
+procedimiento normativo iniciado por la resolución de la Ref. [3] y conforme a lo 
+dispuesto en el artículo 72°-19 de la Ley General de Servicios Eléctricos y en los 
+artículos 32° y 33° del Reglamento aprobado por el decreto supremo N°11, de 2017, 
+del Ministerio de Energía. El aviso fija un plazo de veinticinco (25) días corridos 
+contados desde su publicación, que vence, en consecuencia, el 22 de septiembre de 
+2026. 
+3. 
+Ambos procesos se desarrollan, por tanto, de manera simultánea y sobre materias que 
+se superponen de forma sustantiva, con la particularidad de que el plazo del 
+instrumento de menor jerarquía —la Guía— vence doce días antes que el del 
+instrumento normativo llamado a regirlo. 
+ 
+II.  Relación material entre ambos documentos 
+ 
+4. 
+El numeral 4.5.3 de la Guía desarrolla doce apartados de controles de ciberseguridad 
+para entornos de tecnologías de operación que abordan el mismo espacio técnico que 
+el Capítulo 3 del proyecto de Norma Técnica y que buena parte de la Tabla 2 de su 
+artículo 2-8. A modo ilustrativo: 
+– Segmentación y arquitectura de red (numeral 4.5.3.1) y acceso remoto seguro 
+(numeral 4.5.3.3), respecto del Perímetro de Seguridad Electrónica y de la 
+Administración de Acceso Remoto Interactivo a que se refiere el Estándar de 
+Ciberseguridad para el Sector Eléctrico, al que remite el artículo 3-2 del proyecto. 
+– Hardening de plataformas y gestión de vulnerabilidades y parchado (numerales 
+4.5.3.4 y 4.5.3.5), respecto de la gestión de la seguridad de sistemas y de la gestión 
+de cambio de configuración y evaluación de vulnerabilidades del mismo Estándar, 
+y del control 8.8 de la Tabla 2 del proyecto. 
+– Inventario y gestión de activos de tecnologías de operación (numeral 4.5.3.6), 
+respecto de la identificación y categorización de Cibersistemas y del control 5.9 de 
+la referida Tabla 2. 
+– Monitoreo y detección de amenazas (numeral 4.5.3.7) y protección contra malware 
+(numeral 4.5.3.8), respecto del monitoreo de eventos de seguridad y de la 
+prevención de código malicioso. 
+– Gestión de proveedores y terceros y cadena de suministro (numerales 4.5.3.9 y 
+4.5.3.12), respecto de la gestión de riesgos en la cadena de suministro y del control 
+5.19 de la Tabla 2. 
+– Respuesta a incidentes en entornos de tecnologías de operación (numeral 
+4.5.3.10), respecto del reporte de incidentes y planes de respuesta y de los 
+controles 5.24 a 5.26 de la Tabla 2. 
+– Interconexión entre redes de tecnologías de la información y de operación basada 
+en el modelo Purdue (numeral 4.2.3), respecto del artículo 3-6 del proyecto, que 
+admite expresamente la implementación complementaria de los estándares 
+ISA/IEC 62443 e ISO/IEC 27019 y del referido modelo. 
+ 
+5. 
+Existe, además, una interdependencia que no es meramente temática. La Guía no 
+contiene criterios de calificación de criticidad de instalaciones y remite su aplicación a 
+la evaluación que cada Empresa Coordinada efectúe «en función de la criticidad de sus 
+instalaciones, características técnicas y de los requerimientos específicos establecidos 
+en la normativa vigente». El proyecto de Norma Técnica, en cambio, fija esa calificación 
+de manera imperativa en su artículo 3-4, mediante criterios de Nivel de Impacto de 
+Cibersistemas —Alto, Medio y Bajo— cuyo alcance se encuentra precisamente en 
+discusión durante la consulta pública. Dado que de dicha calificación depende el 
+universo de instalaciones sobre el que deben desplegarse los controles descritos en la 
+
+ 
+Información Interna del Grupo SAESA.
+Guía, las observaciones que hoy pudieran formularse a esta última se 
+construirían sobre una base que puede modificarse dentro de las próximas 
+semanas. 
+ 
+6. 
+A lo anterior se agrega que el numeral 1 de la Guía establece que las disposiciones 
+redactadas en términos imperativos corresponden a exigencias obligatorias «por 
+encontrarse directamente establecidas en la normativa vigente». Siendo así, la propia 
+regla de interpretación del documento depende del contenido que finalmente adopte la 
+normativa técnica sectorial, cuyo texto se encuentra en consulta. 
+ 
+III.  Fundamento de la solicitud 
+ 
+7. 
+La carta de la Ref. [1] señala que las observaciones deberán orientarse principalmente 
+a 
+identificar 
+aspectos 
+técnicos 
+que 
+requieran 
+aclaración, 
+adecuación 
+o 
+complementación, así como aquellas disposiciones cuya implementación pudiera 
+presentar dificultades técnicas u operacionales. Ese objetivo —que compartimos 
+plenamente— sólo puede alcanzarse si las Empresas Coordinadas conocen el marco 
+normativo al que la Guía deberá subordinarse. De lo contrario, el proceso arriesga 
+producir un documento que requerirá una adecuación inmediata apenas se dicte la 
+Norma Técnica, con el consiguiente desgaste para el Coordinador y para la industria. 
+8. 
+La ampliación solicitada responde, asimismo, a los principios de eficiencia, 
+coordinación y economía procedimental que informan la actuación de los órganos que 
+ejercen funciones públicas, y guarda coherencia con la práctica del propio Coordinador, 
+que en ocasiones anteriores ha extendido plazos de observación cuando la 
+disponibilidad de antecedentes adicionales relevantes así lo ha justificado. 
+9. 
+Cabe subrayar que la petición no obedece a una dificultad de las empresas para reunir 
+sus comentarios dentro del plazo original, sino a una razón de coherencia regulatoria: 
+se trata de que ambos instrumentos conversen entre sí y de que las observaciones a 
+la Guía puedan incorporar, con la debida precisión, el resultado del proceso normativo 
+en curso. 
+ 
+IV.  Petición concreta 
+ 
+En mérito de lo expuesto, solicitamos al Coordinador Eléctrico Nacional: 
+a) 
+En lo principal: ampliar el plazo para formular observaciones a la Guía por un período 
+no inferior a quince (15) días hábiles contados desde el vencimiento de la consulta 
+pública del proyecto de Norma Técnica, esto es, a partir del 22 de septiembre de 2026, 
+fijando al efecto la nueva fecha de cierre que el Coordinador estime pertinente dentro 
+de la segunda quincena de octubre de 2026. 
+b) 
+En subsidio: ampliar el plazo, a lo menos, hasta el 22 de septiembre de 2026, de 
+modo que ambos procesos de participación concluyan de manera simultánea y las 
+empresas puedan formular observaciones consistentes entre sí. 
+c) 
+Adicionalmente: informar si el Coordinador prevé adecuar la Guía al texto que resulte 
+del procedimiento normativo y, en caso afirmativo, contemplar una ronda acotada de 
+observaciones circunscrita a las materias que se vean afectadas por dicha 
+adecuación. 
+ 
+Sin perjuicio de lo anterior, y a fin de no dilatar el trabajo del Coordinador, las empresas 
+asociadas remitirán dentro del plazo actualmente vigente aquellas observaciones de 
+carácter técnico que no dependan del resultado del proceso normativo en curso, reservando 
+para la ampliación solicitada las que sí lo hagan. 
+Finalmente, valoramos la iniciativa del Coordinador de someter la Guía a la revisión de las 
+Empresas Coordinadas y reiteramos nuestra disposición a colaborar técnicamente en su 
+
+ 
+Información Interna del Grupo SAESA.
+elaboración, así como a participar en las instancias de trabajo que se estimen convenientes 
+para asegurar la consistencia entre este instrumento y la normativa técnica sectorial. 
+ 
+Saludan atentamente a usted, 
+ 
+ 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A. 
+ 
+ 
+ 
+ 
+Claudio Castillo Echegaray 
+Subgerente de Operación y Mantenimiento de Tx. 
+Gerencia de Transmisión 
+ 
+ 

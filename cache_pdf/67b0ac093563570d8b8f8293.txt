@@ -1,0 +1,345 @@
+CORREATIVO DE01007-25 
+Asunto: RESPONDE CARTA DE03856-24 Se solicita respuesta a propuesta de adecuación 
+de EDAC indicada en carta GCDC0624-24 
+ 
+ 
+De: Eduardo Meza Labra <eduardo.meza@coordinador.cl>  
+Enviado el: martes, 11 de febrero de 2025 10:04 
+Para: Víctor Alfonso Gutierrez Gonzalez <VAGUTIERREZG@CGETRANSMISION.CL> 
+CC: Eduardo Guerra Bahamondes <eguerra@cgetransmision.cl>; Marcelo Cifuentes Rodríguez 
+<Marcelo.Cifuentes@coordinador.cl>; Francisco Javier Jaramillo Manquel <fjaramillom@cge.cl>; 
+Mauricio Salgado Matamala <msalgado@cgetransmision.cl>; Jose Manuel Rengifo Arostegui 
+<jrengifo@cge.cl>; Alejandra Domínguez Rivera <Alejandra.Dominguez@coordinador.cl>; Jorge 
+Vargas Cáceres <Jorge.Vargas@coordinador.cl>; MIORTIZS@CGETRANSMISION.CL 
+Asunto: RE: RESPONDE CARTA DE03856-24 Se solicita respuesta a propuesta de adecuación de 
+EDAC indicada en carta GCDC0624-24 
+ 
+Estimado Victor, 
+ 
+Junto con saludar y esperando que se encuentre bien, retomo el contacto para poder 
+conocer el avance sobre su propuesta de adecuación del EDAC BF. Quedamos a la 
+espera de su respuesta y atentos ante cualquier duda. 
+ 
+Saludos cordiales, 
+ 
+ 
+ 
+ 
+ 
+ 
+Eduardo Meza Labra 
+Ingeniero del Departamento Modelación y Aplicaciones 
+EMS 
+Gerencia Operación 
+  
+Santiago de Chile 
+Tel: 
+ www.coordinador.cl 
+ 
+ 
+ 
+De: Eduardo Meza Labra <eduardo.meza@coordinador.cl> 
+Enviado: martes, 27 de agosto de 2024 12:29 
+Para: Víctor Alfonso Gutierrez Gonzalez <VAGUTIERREZG@CGETRANSMISION.CL> 
+Cc: Eduardo Guerra Bahamondes <eguerra@cgetransmision.cl>; Marcelo Cifuentes Rodríguez 
+<Marcelo.Cifuentes@coordinador.cl>; Francisco Javier Jaramillo Manquel <fjaramillom@cge.cl>; 
+
+Mauricio Salgado Matamala <msalgado@cgetransmision.cl>; Jose Manuel Rengifo Arostegui 
+<jrengifo@cge.cl>; Alejandra Domínguez Rivera <Alejandra.Dominguez@coordinador.cl>; Jorge 
+Vargas Cáceres <Jorge.Vargas@coordinador.cl>; MIORTIZS@CGETRANSMISION.CL 
+<MIORTIZS@CGETRANSMISION.CL> 
+Asunto: RE: RESPONDE CARTA DE03856-24 Se solicita respuesta a propuesta de adecuación de 
+EDAC indicada en carta GCDC0624-24  
+  
+Estimados, 
+ 
+Junto con saludar, les reenvío información relevante sobre el EDAC y zonificación de 
+subestaciones (adjunto), preparado por Marcelo Cifuentes 
+(marcelo.cifuentes@coordinador.cl) del Departamento de Estudios Eléctricos del 
+CEN: 
+ 
+Se revisó la documentación proporcionada por CGE, con la que se procedió a 
+“zonificar” las subestaciones del Coordinado para que este pueda consolidar la 
+información requerida para proceder con la evaluación del porcentaje de carga 
+asociado al EDAC. La disposición geográfica de las subestaciones en las diferentes 
+zonas a evaluar, se encuentran en documento adjunto. 
+  
+Específicamente se solicita el siguiente detalle por cada zona, para un perfil horario, 
+dentro de un día representativo: 
+  
+• 
+Nombre de Zona 
+• 
+Monto Disponible en Escalón 1 del EDAC 
+• 
+Monto Disponible en Escalón 2 del EDAC 
+• 
+Monto Disponible en Escalón 3 del EDAC 
+• 
+Monto Disponible en Escalón 4 del EDAC 
+• 
+Monto Disponible en Escalón 5 del EDAC 
+• 
+Monto Disponible en Escalón 6 del EDAC 
+• 
+Monto Disponible en EDAC (suma de los montos en los 6 escalones) 
+• 
+Demanda total de CGE en la zona específica. 
+  
+Es importante mencionar que, el requerimiento principal para configuración del 
+EDAC es que el Coordinado disponga en cada zona un monto en el EDAC equivalente 
+al 25% de su demanda total (en la misma zona). 
+  
+ 
+Quedamos atentos a sus comentarios o dudas. 
+ 
+Saludos cordiales, 
+ 
+ 
+ 
+Eduardo Meza Labra 
+
+ 
+Ingeniero del Departamento Modelación y Aplicaciones EMS 
+Gerencia Operación 
+  
+Santiago de Chile 
+Tel: 
+ www.coordinador.cl 
+ 
+ 
+De: Víctor Alfonso Gutierrez Gonzalez <VAGUTIERREZG@CGETRANSMISION.CL> 
+Enviado: lunes, 12 de agosto de 2024 17:01 
+Para: Jorge Vargas Cáceres <Jorge.Vargas@coordinador.cl> 
+Cc: Eduardo Meza Labra <eduardo.meza@coordinador.cl>; Víctor Alfonso Gutierrez Gonzalez 
+<VAGUTIERREZG@CGETRANSMISION.CL>; Eduardo Guerra Bahamondes 
+<eguerra@cgetransmision.cl>; Marcelo Cifuentes Rodríguez <Marcelo.Cifuentes@coordinador.cl>; 
+Francisco Javier Jaramillo Manquel <fjaramillom@cge.cl>; Mauricio Salgado Matamala 
+<msalgado@cgetransmision.cl>; Jose Manuel Rengifo Arostegui <jrengifo@cge.cl>; Alejandra 
+Domínguez Rivera <Alejandra.Dominguez@coordinador.cl> 
+Asunto: RV: RESPONDE CARTA DE03856-24 Se solicita respuesta a propuesta de adecuación de 
+EDAC indicada en carta GCDC0624-24  
+  
+ 
+[ CORREO EXTERNO. Solo abra links o adjuntos de remitentes conocidos, no revele 
+sus contraseñas]  
+Estimado Jorge,  
+  
+Junto con saludar, mediante el presente link (
+ 2024-08-11 EDAC BF) remito a Ud., lo 
+siguiente: 
+  
+1. Registro de alimentadores CGE y su asociación con las respectivas SSEE. (Responde 
+a punto 3) 
+2. Perfiles de carga de alimentadores asociados a CGE TRANSMISIÓN para el día 1 de 
+Julio de 2024 como día tipo. (Responde punto 4 en forma parcial 83%) 
+  
+Nos faltaría remitir perfiles de carga de alimentadores en SSEE de Terceros, lo cual estamos 
+gestionando para completar la respuesta. 
+  
+Considerando la información enviada, creo que ya podremos comenzar a definir la mayoría 
+de las zonas. 
+  
+Como siempre quedo atento a vuestra consultas y observaciones 
+  
+Saludos, 
+  
+
+ 
+Víctor Gutiérrez González 
+Interconexión de Red y Protecciones 
+  
+Cel: +56 9 9643 3209 
+Tel.: +56 2 23448379 
+Anexo: 8079 
+vagutierrezg@cgetransmision.cl 
+  
+CGE Transmisión S.A. 
+Av. Presidente Riesco 5561, piso 16, Las Condes. 
+Santiago (Chile) 
+www.cgetransmision.cl 
+  
+De: Jorge Vargas Cáceres <Jorge.Vargas@coordinador.cl>  
+Enviado el: jueves, 4 de julio de 2024 16:49 
+Para: Matias Ignacio Ortiz Santos <MIORTIZS@CGETRANSMISION.CL> 
+CC: Eduardo Meza Labra <eduardo.meza@coordinador.cl>; Víctor Alfonso Gutierrez Gonzalez 
+<VAGUTIERREZG@CGETRANSMISION.CL>; Eduardo Guerra Bahamondes 
+<eguerra@cgetransmision.cl>; Marcelo Cifuentes Rodríguez <Marcelo.Cifuentes@coordinador.cl>; 
+Francisco Javier Jaramillo Manquel <fjaramillom@cge.cl>; Mauricio Salgado Matamala 
+<msalgado@cgetransmision.cl>; Jose Manuel Rengifo Arostegui <jrengifo@cge.cl>; Alejandra 
+Domínguez Rivera <Alejandra.Dominguez@coordinador.cl> 
+Asunto: RESPONDE CARTA DE03856-24 Se solicita respuesta a propuesta de adecuación de EDAC 
+indicada en carta GCDC0624-24 
+  
+CIBERSEGURIDAD CGE - Este es un CORREO EXTERNO: Verifique remitente 
+antes de abrir adjuntos o acceder a links. 
+Responde Carta DE03856-24 
+  
+Estimado Matías, 
+Junto con saludar, me refiero a lo indicado en sus cartas CGE Nº0624-24 y CGE Nº1060-24, 
+referidas a la adecuación del EDAC BF que fue instruida a Compañía General de Electricidad 
+S.A. 
+Al respecto, paso a enumerar lo indicado en la reunión remota sostenida con su 
+representada el 9 de mayo de 2024: 
+1. Para la adecuación del EDAC BF deben considerar la misma metodología de 
+selección de alimentadores establecida por CGE en el esquema actualmente en 
+servicio.   
+2. La adecuación del EDAC BF considera los mismos tipos de equipos tecnológicos que 
+los utilizados en el EDAC BF actual, es decir, no es necesario implementar un 
+
+esquema inteligente para seleccionar dinámicamente las cargas o alimentadores a 
+desconectar. 
+3. En relación con la zonificación, en la reunión indicada acordamos que nos enviaría la 
+lista de todas las subestaciones donde CGE tiene consumos, de manera que los 
+apoyemos a identificar la zona a la que pertenecen y poder cuantificar la demanda 
+total y por escalón de CGE por zona. 
+4. Respecto de lo indicado en el literal anterior, para efectos de evaluar la propuesta es 
+necesario que CGE envíe la demanda total por zona, para poder verificar el monto 
+porcentual asignado al EDAC. Para esto, deben enviar un perfil de un día tipo tanto de 
+demanda total como de las cargas dispuestas en el EDAC, para así revisar el 
+porcentaje de cumplimiento del requisito de monto de EDAC en cada hora. Además, 
+se revisó  la planilla de la propuesta (contenida en carta GDCDC0624-24 Anexo1) 
+verificándose la correcta asignación de esas SSEE en las diferentes zonas (columna 
+Zona SEN-Coordinador). Por otra parte, este requerimiento de necesitar verificar 
+cumplimientos de porcentaje por zona ya se los habíamos mencionado y solicitado 
+para efectos de poder evaluar su propuesta enviada el año 2021 (ver correo adjunto).  
+5. Finalmente, se reitera que el propietario instruido para disponer del recurso 
+(desprendimiento de carga) que presta el SSCC de EDAC BF es el Coordinador 
+Cliente, en vuestro caso, la distribuidora CGE S.A. 
+  
+Con esto espero haber aclarado sus dudas y reiteramos la necesidad que nos envíe un perfil 
+de demandas totales y por carga de alimentadores propuestos para el EDAC BF de CGE S.A. 
+para cada zona del SEN. 
+6.   
+Saludos cordiales, 
+ 
+Jorge Vargas 
+Jefe Depto. Modelación y Aplicaciones EMS 
+Gerencia Operación 
+  
+Santiago de Chile 
+Tel: +56 2 2424 6362 
+ www.coordinador.cl 
+  
+  
+  
+ 
+De: Matias Ignacio Ortiz Santos <MIORTIZS@CGETRANSMISION.CL> 
+Enviado: jueves, 27 de junio de 2024 11:11 
+Para: Jorge Vargas Cáceres <Jorge.Vargas@coordinador.cl> 
+Cc: Eduardo Meza Labra <eduardo.meza@coordinador.cl>; Víctor Alfonso Gutierrez Gonzalez 
+<VAGUTIERREZG@CGETRANSMISION.CL>; Eduardo Guerra Bahamondes 
+<eguerra@cgetransmision.cl>; Marcelo Cifuentes Rodríguez <Marcelo.Cifuentes@coordinador.cl>; 
+Francisco Javier Jaramillo Manquel <fjaramillom@cge.cl>; Mauricio Salgado Matamala 
+<msalgado@cgetransmision.cl> 
+Asunto: RE: Consultas EDAC-BF de CGE  
+  
+ 
+[ CORREO EXTERNO. Solo abra links o adjuntos de remitentes conocidos, no revele 
+sus contraseñas]  
+
+Estimado Jorge,  
+  
+Junto con saludar, mediante el presente y con respecto a la necesidad de 
+modificación de parámetros para el EDAC BF, indicamos a Ud. que nos preocupa 
+poder contar con su V.B. final a nuestra propuesta remitida en Carta GCDC0624-24 
+  
+Por lo anterior, es que hemos remitido una nueva carta para efectos de recordar que 
+existe una respuesta pendiente del cual depende la implementación de las 
+modificaciones que se requieren para el EDAC.  Cuyo número de carta es 
+GCDC1060-24 (DE03856-24) y  que adjuntamos mediante esta vía para efectos de 
+evitar confusión y permitir una respuesta expedita.  
+  
+Agradecido de antemano por vuestra atención.  
+  
+Saludos Cordiales. 
+  
+  
+ 
+Matías Ortiz 
+Santos 
+- Subgerente Interconexión de la Red - 
+Protecciones 
+- Encargado Titular CGE - Coordinador Eléctrico 
+Nacional 
+Av. Presidente Riesco 5561, Piso 14, Las Condes | Teléfono (56-2) 2 
+6807158   
+www.cge.cl 
+  
+  
+  
+  
+--------Cita original--------- 
+De: Eduardo Meza Labra <eduardo.meza@coordinador.cl>  
+Enviado el: jueves, 2 de mayo de 2024 16:31 
+Para: Eduardo Meza Labra; Matias Ignacio Ortiz Santos; Jose Manuel Rengifo Arostegui; Jorge 
+Vargas Cáceres; Marcelo Cifuentes Rodríguez; Gerardo Vieyra Reyes; Jaime Misraji Castro; Javiera 
+Ketterer Hoppe 
+CC: Eduardo Guerra Bahamondes; Francisco Javier Jaramillo Manquel; Víctor Alfonso Gutierrez 
+Gonzalez; Mauricio Salgado Matamala 
+Asunto: Consultas EDAC-BF de CGE 
+Cuándo: jueves, 9 de mayo de 2024 16:30-17:30 (UTC-04:00) Santiago. 
+Ubicación: Reunión de Microsoft Teams 
+  
+CIBERSEGURIDAD CGE - Este es un CORREO EXTERNO: Verifique remitente 
+antes de abrir adjuntos o acceder a links. 
+Gracias por comentarnos su disponibilidad, procedo con agendar la cita para la 
+segunda opción de horario, saludos. 
+ 
+
+From: Matias Ignacio Ortiz Santos <MIORTIZS@CGETRANSMISION.CL> 
+Sent: Thursday, May 2, 2024 7:30:07 PM 
+To: Eduardo Meza Labra <eduardo.meza@coordinador.cl>; Jose Manuel Rengifo Arostegui 
+<jrengifo@cge.cl> 
+Cc: Jorge Vargas Cáceres <Jorge.Vargas@coordinador.cl>; Marcelo Cifuentes Rodríguez 
+<Marcelo.Cifuentes@coordinador.cl>; Eduardo Guerra Bahamondes 
+<eguerra@cgetransmision.cl>; Francisco Javier Jaramillo Manquel <fjaramillom@cge.cl>; Víctor 
+Alfonso Gutierrez Gonzalez <VAGUTIERREZG@CGETRANSMISION.CL>; Mauricio Salgado Matamala 
+<msalgado@cgetransmision.cl> 
+Subject: RE: Consultas EDAC BF de CGE  
+  
+ 
+[ CORREO EXTERNO. Solo abra links o adjuntos de remitentes conocidos, no revele 
+sus contraseñas]  
+Estimado @Eduardo Meza Labra: 
+  
+Podríamos el jueves 9 de 12:30 a 13:30 o de 16 30 a 17:30 de forma remota. 
+  
+Saludos. 
+  
+MOS 
+  
+De: Eduardo Meza Labra <eduardo.meza@coordinador.cl>  
+Enviado el: martes, 30 de abril de 2024 11:45 
+Para: Matias Ignacio Ortiz Santos <MIORTIZS@CGETRANSMISION.CL>; Jose Manuel Rengifo 
+Arostegui <jrengifo@cge.cl> 
+CC: Jorge Vargas Cáceres <Jorge.Vargas@coordinador.cl>; Marcelo Cifuentes Rodríguez 
+<Marcelo.Cifuentes@coordinador.cl> 
+Asunto: Consultas EDAC BF de CGE 
+  
+CIBERSEGURIDAD CGE - Este es un CORREO EXTERNO: Verifique remitente antes de 
+abrir adjuntos o acceder a links. 
+Estimado, 
+  
+Junto con saludar, me comunico para agendar la reunión propuesta en la carta 
+DE02789-24 via Teams, a esta reunión asistirá Marcelo Cifuentes 
+(Marcelo.cifuentes@coordinador.cl) para poder resolver sus dudas técnicas-zonales 
+respecto al EDAC BF. Agradecería que nos envíe su disponibilidad día-horario, 
+gracias de antemano. 
+  
+Saludos cordiales, 
+  
+  
+  
+Eduardo Meza Labra 
+
+ 
+Ingeniero del Departamento Modelación y Aplicaciones EMS 
+Gerencia Operación 
+  
+Santiago de Chile 
+Tel: 
+ www.coordinador.cl 
+  
+ 
+ 

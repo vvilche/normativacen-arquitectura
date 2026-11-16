@@ -1,0 +1,618 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 02 de mayo de 2025 
+DE 02631-25 
+ 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+(Según Lista de Distribución)  
+Presente  
+ 
+ 
+Ref.: Reitera solicitud valor mínimo de la razón 
+de cortocircuito (SCR) de instalaciones del SEN 
+en su punto de conexión. 
+[1] Carta DE04720-21. 
+[2] Carta DE04025-22. 
+ 
+ 
+De mi consideración: 
+ 
+El 23 de septiembre de 2021, en la carta de la Ref. [1], se solicitó el valor mínimo de SCR 
+(Short Circuit Ratio) de parques eólicos y fotovoltaicos en su punto de interconexión (POI) 
+al SEN. Posteriormente, el 24 de agosto de 2022, mediante la carta de la Ref. [2], se 
+comunicó la publicación del Procedimiento Interno de Modelación y Homologación de 
+Instalaciones del SEN en su versión definitiva. En este procedimiento se establece 
+explícitamente que todas las plantas existentes y nuevas deben informar los valores de 
+SCR para los cuales sus instalaciones pueden funcionar de manera estable, en 
+cumplimiento con el articulo 3-8 de la Norma Técnica de Seguridad y Calidad de Servicio 
+(NTSyCS) 
+Considerando lo anterior, mediante la presente este Coordinador reitera a su representada 
+la solicitud de entregar lo siguiente: 
+1. Valor mínimo de la razón de cortocircuito (SRC o Short Circuit Ratio) y valor X/R 
+garantizados por el proveedor de las instalaciones generadoras basadas en inversores 
+de su representada, que cumple con el artículo 3-8 de la NTSyCS en el punto de 
+interconexión de dicha instalación al SEN. Para este cálculo deberá considerase lo 
+establecido sobre la materia en el IEEE Std 2800™-2022 (sección C 2.2). 
+2. Además, deberá especificarse el rango de valores mínimo y máximo de SCR para el 
+que se diseñó la instalación. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+3. También se deberá indicar si el sistema de control de la instalación cuenta con un rango 
+de ajustes de parámetros, o con la posibilidad de ajustes de control, que le permitan 
+adaptar la respuesta estática y dinámica de la misma, dependiendo del SCR y el nivel 
+de cortocircuito en el punto de interconexión (POI) al SEN. Se deberán especificar 
+claramente entre qué rangos de SCR son válidos dichos ajustes. 
+4. Las empresas Coordinadas que respondieron la carta de la Ref. [1], deberán actualizar 
+y completar dicha respuesta según lo establecidos en los puntos del 1 al 3 anteriores. 
+Toda la información solicitada deberá entregarse completando la planilla de cálculo Excel 
+adjunta a esta carta, agregando como documentos de respaldo, una comunicación del 
+fabricante de los equipos de la instalación. Finalmente, resulta oportuno señalar la 
+obligación legal de proporcionar y actualizar oportunamente a este Coordinador toda la 
+información que se requiera para el cumplimiento de sus funciones, y que la omisión del 
+deber de información podrá ser sancionada por la SEC, conforme lo señalado en el Artículo 
+72°-2 de la Ley General de Servicios Eléctricos. 
+La información solicitada debe enviarse (completando la planilla adjunta), a más tardar el 
+día 16.05.2025, al correo operaciones@coordinador.cl, indicando en el asunto “Información 
+SCR”, y mediante una carta ingresada al sistema de correspondencia del Coordinador.  
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+REV/agc 
+Incl.: 
+Lo indicado. 
+c.c.:       Empresas Coordinadas 
+Sr. Víctor Velar G. Subgerente Estudios y Simulación en Tiempo Real. 
+Sr. Simón Veloso R. Jefe Depto. Simulaciones y Laboratorio en Tiempo Real. 
+Sr. Eugenio Quintana P. Jefe Depto. Estudios Eléctricos. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Lista de Distribución 
+ 
+o 
+Empresa Generadora propietaria u operadora de parques ERV (Fotovoltaico o Eólico) 
+o 
+Empresa Generadora propietaria u operadora de centrales PMGD (Fotovoltaico o Eólica) 
+o 
+Empresas propietarias u operadoras de Sistemas de Almacenamiento (BESS) 
+o 
+Empresas Transmisoras propietaria u operadora de equipos de compensación reactiva 
+(STATCOM, SVC, CER)   
+ 
+Coordinado 
+Acciona Energía Chile Holdings S.A. 
+Aela Generación S.A. 
+AES Andes S.A. 
+Agrosolar IV SpA 
+Agrosolar V SpA 
+Ailin Fotovoltaica SpA 
+Alba SpA 
+Andes Solar II SpA 
+Andes Solar IV SpA 
+ANDINA SOLAR 1 SPA 
+Andina Solar 10 SpA 
+Andina Solar 13 SpA 
+Andina Solar 17 Este SpA 
+ANDINA SOLAR 2 SPA 
+Antu Energy SpA 
+Anumar Energía del Sol 1 SpA 
+Apolo Solar SpA 
+Arcadia Generación Solar S.A. 
+Atacama Solar SpA 
+Atria Energía SpA 
+AustrianSolar Chile Cuatro SpA 
+AustrianSolar Chile Seis SpA 
+Avilés SpA 
+Belén Solar SpA 
+Besalco Energía Renovable S.A. 
+Betel SpA 
+Blu Solar SpA 
+Blue Solar Doce SpA 
+Blue Solar Ocho SpA 
+Bolero SpA 
+Cabrero Solar SpA 
+Calama Solar 1 SpA 
+Calama Solar 2 SpA 
+Calbuco de Verano SpA 
+Caldera Solar SpA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+Callaqui de Verano SpA 
+Campo Lindo SpA 
+Candelaria Solar SpA 
+Canquén SpA 
+Capurata del Verano SpA 
+Carbon Free Chile SpA 
+Catemu Solar SpA 
+CE Centinela Solar SpA 
+CE Uribe de Antofagasta Solar SpA 
+Cefalú Solar SpA 
+Centauro Solar SpA 
+Central Cardones S.A. 
+Cerro Dominador CSP S.A. 
+CFC HOLDINGS SPA 
+Chacabuco Solar SpA 
+Chapiquina Solar SpA 
+Chequen Solar SpA 
+Chester Solar I SpA 
+Chester Solar IV SpA 
+Chester Solar V SpA 
+Chilener II SpA 
+Chronos Solar SpA 
+Chungungo S.A. 
+Chungungo Solar SpA 
+CIA Eléctrica los Morros S.A. 
+Ciprés SpA 
+Cocharcas Solar SpA 
+Colbún S.A. 
+Commonplace Energy SpA 
+Compañía Barrick Chile Generación SpA 
+Compañía Transmisora La Cebada S.A. 
+Cóndor Energía SpA 
+Conejo Solar SpA 
+COPEC Renovables SpA 
+Corcovado de Verano SpA 
+Corso Solar SpA 
+Cox Energy Comercializadora SpA 
+Cuenca Solar SpA 
+CVE Proyecto Dieciocho SpA 
+CVE Proyecto Diecisiete SpA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+CVE Proyecto Nueve SpA 
+CVE Proyecto Quince SpA 
+CVE Proyecto Seis SpA 
+CVE Proyecto Siete SpA 
+CVE Proyecto Treinta y Uno SpA 
+CVE Proyecto Veintiséis SpA 
+CVE Proyecto Veintiuno SpA 
+Diego de Almagro Solar 3 S.A. 
+Diego de Almagro Solar SpA 
+Divisadero SpA. 
+Don Mariano Energy SpA 
+DOÑA ANTONIA SOLAR SPA 
+Draco Solar SpA 
+Eclipse Solar SpA 
+EERM Energías del Futuro S.A. 
+El Castaño SpA 
+El Pelícano Solar Company SpA 
+El Peral SpA 
+El Roble Solar SpA 
+EMOAC SpA 
+Enel Generación Chile S.A. 
+Enel Green Power Chile S.A. 
+Enerblan SpA 
+Energía Atacama S.A. 
+Energía Cerro El Morado S.A. 
+Energía Eólica Los Olmos SpA 
+Energía Eólica Mesamávida SpA 
+Energía Eólica San Matías SPA 
+Energía First SpA 
+Energía Renovable Encino SpA 
+Energía Renovable Rucapaine SpA 
+Energías Renovables El Boldo SpA 
+Energías Renovables Holding S.A. 
+Energías Ucuquer Dos S.A. 
+Energías Ucuquer S.A. 
+EnfraGen Chile Solar SpA 
+Engie Energía Chile S.A. 
+Enlasa Generación Chile S.A. 
+Eólica La Esperanza S.A. 
+Eólica Monte Redondo SpA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+Eólico Las Peñas SpA 
+Espinos S.A. 
+Estremera Energía SpA 
+EVOL Trading SpA 
+Farmdo Energy Chile SpA 
+Faro Corona SpA 
+Farol Solar SpA 
+Fenix Solar SpA 
+Florida Energía SpA 
+Fotovoltaica Acacia SpA 
+Fotovoltaica Alfa SpA 
+Fotovoltaica Ariztía SpA 
+Fotovoltaica Avellano SpA 
+Fotovoltaica de Los Andes SpA 
+Fotovoltaica Del Desierto SpA 
+Fotovoltaica El Manzano SpA 
+Fotovoltaica La Ligua SpA 
+Fotovoltaica Mañio SpA 
+Fotovoltaica Norte Grande 5 SpA 
+Fotovoltaica Peumo SpA 
+Fotovoltaica Pueblo Hundido SpA 
+Fotovoltaica Santa Rosario SpA 
+Fotovoltaica Sol del Norte SpA 
+Fotovoltaica Solar Laurel SpA 
+FV Rinconada SpA 
+FV Santa Laura SpA 
+Generación Solar SpA 
+Generadora del Pacífico SpA 
+Generadora Eléctrica Kaltemp Ltda. 
+Génova Solar SpA 
+Gestel Ingeniería Limitada 
+GM Holdings S.A. 
+GPG Generación Distribuida SpA 
+GR Alerce Andino SpA 
+GR Algarrobo SpA 
+GR Araucaria SpA 
+GR Canelo SpA 
+GR Carza SpA 
+GR Chaquihue SpA 
+GR Ciprés SpA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+GR Guindo SpA 
+GR Liun SpA 
+GR Lleuque SpA 
+GR Pilo SpA 
+GR Pitao SpA 
+GR ROBLE SPA 
+GR Ruil SpA 
+GR Tamarugo SpA 
+GR Torres del Paine SpA 
+GR Villarrica SpA 
+Granada SpA 
+Guadalupe Solar SpA 
+Hanwha Q Cells Til Til Uno SpA 
+Hormiga Solar SpA 
+Huemul Energía SpA 
+Ibereólica Cabo Leones II S.A. 
+IEH Solar Chile SpA 
+Illalolen S.A. 
+Imelsa Energía SpA 
+Impulso Solar El Resplandor SpA 
+Impulso Solar Las Lloysas SpA 
+IMPULSO SOLAR SAN JOSÉ II SPA 
+Incahuasi Energy SpA 
+Interchile S.A. 
+Inversiones Chacabuco SpA 
+Inversiones Fotovoltaicas SpA 
+Javiera SpA 
+Joel Solar SpA 
+Konda Solar SpA 
+La Acacia SpA 
+La Chapeana SpA 
+La Chimba Bis SpA 
+La Huerta SPA 
+La Independencia Solar SpA 
+La Manga Energy SpA 
+Las Chacras Energy SpA 
+Las Chilcas Solar SpA 
+Las Mollacas SpA 
+LASCAR ENERGY SPA 
+Laurel SpA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+Lingue SpA 
+Linzor de Verano SpA 
+Lirio de Campo Solar SpA 
+Litre SpA 
+Loica SpA 
+Los Lagos SpA 
+Los Libertadores Solar Spa 
+Los Molinos SpA 
+Luce Solar SpA 
+Luciano Solar SpA 
+Luna Energy SpA 
+MACAO SOLAR SPA 
+Magdalena Solar SpA 
+Maitén SpA 
+Mandinga Solar SpA 
+Margarita Solar SpA 
+Meli SpA 
+Membrillo Solar SpA 
+MGM Innova Capital Chile SpA 
+Millaray Fotovoltaica SpA 
+Minera Escondida Ltda. 
+Minera Los Pelambres 
+MVC Solar 38 SpA 
+Neoelectra Energía Chile SpA 
+Newentun SpA 
+Nextpower III Chile Holdco II SpA 
+Nirivilo Transmisora de Energía S.A. 
+Nueva Atacama Solar S.A. 
+Nueva Esperanza Solar SpA 
+OPDENERGY Generación SpA 
+Pacana del Verano SpA 
+Pacific Hydro Chile S.A. 
+Pacific SpA 
+Palpana de Verano SpA 
+Panguilemo SpA 
+Parque Eólico Atacama SpA 
+Parque Eólico Cabo Leones I S.A. 
+Parque Eólico Campo Lindo SpA 
+Parque Eólico El Arrayán SpA 
+Parque Eólico El Maitén SpA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+Parque Eólico el Nogal SpA 
+Parque Eólico Lebu-Toro SpA 
+Parque Fotovoltaico Alicahue Solar SpA 
+PARQUE FOTOVOLTAICO CURACAVÍ SPA 
+Parque Fotovoltaico Don Matías SpA 
+Parque Fotovoltaico Doña Igna SpA 
+Parque Fotovoltaico El Loreto SpA 
+Parque Fotovoltaico Faramalla SpA 
+Parque Fotovoltaico Idahuillo SpA 
+Parque Fotovoltaico Nuevo Quillagua SpA 
+Parque Fotovoltaico Ocoa II SpA 
+Parque Fotovoltaico Ocoa SpA 
+Parque Fotovoltaico Santa Adriana SpA 
+Parque Fulgor SpA 
+Parque Solar Alcaldesa SpA 
+Parque Solar Alianza SpA 
+Parque Solar Aurora SpA 
+Parque Solar Bellavista SpA 
+Parque Solar Cancha SpA 
+Parque Solar Cantillana SpA 
+Parque Solar Catemu SpA 
+Parque Solar Colina SpA 
+Parque Solar Don Flavio SpA 
+Parque Solar El Conquistador SpA 
+Parque Solar el Sauce SpA 
+Parque Solar Esmeralda SpA 
+Parque Solar Fotovoltaico Luz del Norte SpA 
+Parque Solar Fotovoltaico Sol del Desierto SpA 
+Parque Solar H6 SpA 
+Parque Solar Itihue SpA 
+Parque Solar La Muralla SpA 
+Parque Solar La Rosa II SpA 
+Parque Solar Lo Chacón SpA 
+Parque Solar Los Puquios SpA 
+Parque Solar Meco Chillan SpA 
+Parque Solar Ovalle Norte SpA 
+Parque Solar Porvenir SpA 
+Parque Solar Pueblo Seco SpA 
+Parque Solar Quetena S.A. 
+Parque Solar Retiro SpA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+Parque Solar Salamanca SpA 
+Parque Solar Santa Cruz SpA 
+Parque Solar Santa Laura SpA 
+Parque Solar Tabolango SpA. 
+Parque Solar Unihue SpA 
+Parque Talinay Oriente S.A. 
+PARSOSY BELENOS SPA 
+Pataguilla Solar SPA 
+Patricia Solar SpA 
+PE Cabo Leones III SpA 
+Pecket Energy S.A. 
+Pedro Solar SpA 
+Pelequén Sur SpA 
+Per Parinacota SpA 
+Pesaro Solar SpA 
+PFV Ayla Solar SpA 
+PFV El Caiquén SpA 
+PFV El Carpintero SpA 
+PFV El Chercan SpA 
+PFV El Chucao SpA 
+PFV El Cóndor SpA 
+PFV El Cuervo SpA 
+PFV El Flamenco SpA 
+PFV El Gaviotín SpA 
+PFV El Loro Choroy SpA 
+PFV El Mirlo SpA 
+PFV El Piuquen SpA 
+PFV El Rayador SpA 
+PFV El Trile SpA 
+PFV El Zorzal SpA 
+PFV Las Cachañas SpA 
+PFV Las Catitas SpA 
+PFV Las Golondrinas SpA 
+PFV Las Lechuzas SpA 
+PFV Las Taguas SpA 
+PFV Las Tencas SpA 
+PFV Las Torcazas SpA 
+PFV Las Tortolas SpA 
+PFV Lo Chacón SpA 
+PFV Los Cisnes SpA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+PFV Los Tordos SpA 
+PFV María Pinto SpA 
+Pilpilén SpA 
+Pingüino Emperador SpA 
+Piquero SpA 
+Planeta Investments SpA 
+Planta Solar La Paz II SpA. 
+Planta Solar Lo Miguel II SpA. 
+Planta Solar Peñaflor II SpA 
+Planta Solar San Pedro III SpA 
+Planta Solar Santa Teresita II SpA 
+Planta Solar Tocopilla SpA 
+Playero SpA 
+PMGD Calle Larga SpA 
+PMGD HOLDCO SpA 
+PMGD Mauco SpA 
+PMGD Puente SpA 
+PMGD Salerno SpA 
+PMGD Solar Los Perales I SpA 
+Pomerape SpA 
+Portezuelo SpA 
+Pozo Almonte Solar 1 SpA 
+Pozo Almonte Solar 2 S.A. 
+Pozo Almonte Solar 3 S.A. 
+PS Maimalican SpA 
+PSF El Salitral S.A. 
+PSF Lomas Coloradas S.A. 
+PSF Pama S.A. 
+PSF Santa Isabel SpA 
+Punta Palmeras S.A. 
+PUNTIAGUDO ENERGY SPA 
+Quillay Solar SpA 
+Quinta Solar SpA 
+Ravenna Solar SpA 
+RCL Solar SpA 
+Reden Cabildo Solar SpA 
+Rigel SpA 
+Rimini Solar SpA 
+Río Alto SpA 
+RLA Solar SpA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+RTN SOLAR SPA 
+RTS Energía S.A. 
+RUBÉN SOLAR SPA 
+Salado Energy SpA 
+Samo Bajo SpA 
+San Alfonso Solar SpA 
+SAN ANDRÉS SPA 
+San Eugenio Solar SpA 
+San Francisco Solar SpA 
+San Marino Solar SpA 
+SANTA BARBARA ENERGY SPA 
+Santa Catalina Solar SpA 
+Santa Cecilia Solar SpA 
+Santa Ester Solar SpA 
+Santiago Solar S.A. 
+SAO PAULO SOLAR SPA 
+SETF Energías Renovables SpA 
+Siete Colores SpA 
+SLK CB Nueve SpA 
+SOCIEDAD BOCO SOLAR SPA 
+Sociedad de Energías Renovables Los Lirios SpA 
+Sociedad Generadora Austral S.A. 
+Socompa de Verano SpA 
+Sol de Septiembre SpA 
+Sol del sur 15 SpA 
+Sol del Sur 9 SpA 
+Solar Elena SpA 
+Solar la Blanquina SpA 
+Solar Los Loros SpA 
+Solar TI Cuatro SpA 
+Solar TI Dieciséis SpA 
+Solar TI Diecisiete SpA 
+Solar TI Diez SpA 
+Solar TI Doce SpA 
+Solar TI Dos SpA 
+Solar TI Once SpA 
+Solar Ti Quince SpA 
+SOLAR TI TREINTA Y OCHO SPA 
+SOLAR TI TREINTA Y SEIS SPA 
+SOLAR TI TREINTA Y SIETE SpA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+SOLARITY SPA 
+Sonnedix Ángela Solar SpA 
+Sonnedix Cox Energy Chile SpA 
+Sonnedix Don Pedro SpA 
+Sonnedix Fotovoltaica Algarrobo SpA 
+Sonnedix Joaquín Solar SpA 
+Sonnedix La Serena SpA 
+Sonnedix Las Codornices SpA 
+Sonnedix Las Perdices SpA 
+Sonnedix Metro Expansion SpA 
+Sonnedix Paine Energy SpA 
+Sonnedix Parque Solar Amparo del Sol SpA 
+Sonnedix Parque Solar Punta Colorada SpA 
+Sonnedix Parsosy Illapel 5 SpA 
+Sonnedix Victoria Solar SpA 
+SPS La Huayca S.A. 
+SPV P4 SpA 
+Statkraft Eolico S.A. 
+Sunenergreen S.A. 
+Suvan Solar SpA 
+Taltal Solar S.A. 
+Tamarico Solar Dos SpA 
+Tamarugal Solar 1 S.A. 
+Taruca Solar SpA 
+Tauro Solar SpA 
+Tedlar Diemos SpA 
+Tedlar Jupiter SpA 
+Tedlar Luna SpA 
+Teno III SpA 
+Toesca Renovables SpA 
+Tórtola SpA 
+Tortuga Solar SpA 
+Tralka SpA 
+Transelec S.A. 
+Tricahue Solar SpA 
+Tricahue SpA 
+TSGF SpA 
+Tucuquere SpA 
+Valle de la Luna II SpA 
+Verona Solar SpA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Coordinado 
+VESPA SOLAR SpA 
+Vientos de Renaico SpA 
+Vientos Patagónicos SpA 
+Villaprat SpA 
+WPD Duqueco SpA 
+WPD Malleco SpA 
+WPD Negrete SpA 
+Xue Solar SpA 
+YANQUI SOLAR SPA 
+ 
+ 

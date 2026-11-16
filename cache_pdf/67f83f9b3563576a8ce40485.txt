@@ -1,0 +1,452 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Santiago, 10 de abril de 2025 
+ 
+    
+DE 02140-25 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Respuestas 
+a 
+observaciones 
+de 
+Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de 
+diciembre de 2023 versión 2. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y a la carta de Ref. [1], informo a Ud. que 
+habiendo analizado las observaciones recibidas a los indicadores de diciembre de 2023 en 
+su segunda versión se encuentra disponible en el sitio web del Coordinador, la actualización 
+de los Indicadores de Desempeño de SSCC prestados durante el mes de diciembre del año 
+2023. 
+ 
+Los indicadores mencionados pueden ser descargados desde las siguientes rutas: 
+ 
+> Inicio > Operación > Servicios Complementarios > Índices de Desempeño y 
+Disponibilidad de Servicios Complementarios > 2023 > Diciembre 2023 > Versión 3 
+ 
+Adicionalmente, en el anexo de esta comunicación, se encuentran las respuestas a las 
+observaciones recibidas para los meses en cuestión y que a la fecha no se encontraban 
+resueltas. 
+ 
+Finalmente, informamos que estos indicadores serán considerados en las reliquidaciones 
+de IVTE que a la fecha lleva a cabo la Gerencia de Mercados.  
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+c.c.: 
+SGTM/DCO/DTE-SSCC 
+ 
+ 
+Referencias 
+ 
+[1] Carta DE01578-24, Ref. “Publicación de Indicadores de Informe de Desempeño 
+Servicios Complementarios prestados el mes de diciembre 2023, segunda versión.” de 
+fecha 26 de marzo de 2024. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 6: Respuestas a observaciones de Indicadores de Desempeño de Servicios Complementarios prestados 
+durante el mes de diciembre 2023 versión 2. 
+ 
+Consultas recibidas mediante: 
+- Acciona Energía Chile Holdings S.A.: recibidas mediante plataforma de observaciones del departamento de Transferencias de 
+Energía y SSCC con correlativo O2024-0023452. 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PE Tolpan Sur 
+Enviada 
+al 
+Departamento 
+de 
+Transferencias de 
+Energía 
+y 
+SSCC, 
+correlativo O2024-002352. 
+ 
+Se observa en el balance de SSCC CT dic-
+23 definitivo, que en Tolpán Sur se evaluó 
+con FD=0 las consignas de los días 12-dic y 
+25-dic. 
+ 
+Se solicita actualizar el cálculo del FD para 
+Tolpán Sur los días 12-dic y 25-dic, de forma 
+tal que se remunere correctamente el pago 
+CO. 
+No se acoge la observación. 
+Se revisa el desempeño de la instrucción del 12 de 
+diciembre, observándose que el movimiento en la 
+potencia reactiva fue 15% mayor a lo instruido, por 
+lo que se califica como No Cumple. 
+ 
+Respecto a la instrucción del 25 de diciembre, se 
+corrobora que la señal de potencia reactiva se 
+encontraba congelada, por lo que se asigna una 
+categoría de No Verificable. 
+ 
+Dado lo anterior, se mantienen vigentes los 
+indicadores de la última versión publicados a través 
+de la comunicación de Ref. [1]. 
+2 
+Colbún S.A. 
+CT 
+UG Los Quilos 
+1 
+UG Los Quilos 
+2 
+UG Los Quilos 
+3 
+Estado inicial: Sin valor. 
+Instrucción: Bajar 5 kV. 
+Observación: De acuerdo con el registro de 
+grabaciones de Colbún se recibió una 
+instrucción a las 10:10 horas y el monto de la 
+instrucción fue de 3kV. Por otra parte, la 
+unidad resultó evaluada como No Verificable 
+debido a que la señal de voltaje en la barra 
+Los Quilos 66kV no tenía suficiente calidad 
+para verificar la prestación del servicio. Cabe 
+mencionar que esta señal corresponde a 
+terceros, en particular a la empresa Celeo 
+Se acoge la observación. 
+ 
+La señal de la barra Los Quilos 66kV no tenía la 
+calidad 
+adecuada 
+para 
+la 
+evaluación 
+del 
+desempeño 
+de 
+las 
+instalaciones 
+en 
+dicha 
+instrucción, por lo que se usó una señal alternativa 
+a la barra señalada para su evaluación manual, 
+siendo esta señal en bornes de cada una de las 
+unidades en 6,6 kV. 
+ 
+Dicha evaluación identifica que la unidad no 
+cumplió con el requerimiento, ya que sólo varió su 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Redes, por lo que Colbún no puede 
+responder por la calidad de esta señal en el 
+SITR. 
+Solicitud: 
+Se 
+solicita 
+revisar 
+y 
+quitar 
+instrucción de la evaluación. 
+tensión 0,007kV y presentaba margen para seguir 
+inyectando reactivos.  
+ 
+Dicho lo anterior la evaluación corresponde a la 
+categoría “No Cumple” en cada una de las 
+unidades. 
+3 
+Colbún S.A. 
+CT 
+UG Blanco 
+Estado inicial: Sin valor. 
+Instrucción: Bajar 5 kV. 
+Observación: De acuerdo con el registro de 
+grabaciones de Colbún se recibió una 
+instrucción a las 10:10 horas y el monto de la 
+instrucción fue de 3kV. Por otra parte, la 
+unidad resultó evaluada como No Verificable 
+debido a que la señal de voltaje en la barra 
+Aconcagua 110kV no tenía suficiente calidad 
+para verificar la prestación del servicio. Cabe 
+mencionar que esta señal corresponde a 
+terceros, en particular a la empresa Celeo 
+Redes, por lo que Colbún no puede 
+responder por la calidad de esta señal en el 
+SITR. 
+Solicitud: 
+Se 
+solicita 
+revisar 
+y 
+quitar 
+instrucción de la evaluación. 
+Se acoge la observación. 
+ 
+La señal de la barra Aconcagua 110kV no tenía la 
+calidad 
+adecuada 
+para 
+la 
+evaluación 
+del 
+desempeño 
+de 
+las 
+instalaciones 
+en 
+dicha 
+instrucción, por lo que se usó una señal alternativa, 
+siendo esta señal en bornes de cada una de las 
+unidades en 12 kV. 
+ 
+Dicha evaluación identifica que las señales de 
+potencia activa, reactiva y tensión no cumplió con 
+los criterios de calidad definidos en el Anexo 
+Técnico “Definición de Parámetros Técnicos y 
+Operativos para el Envío de Datos al SITR”, ya que 
+la señal enviada presentó intermitencias. 
+ 
+Dicho lo anterior e independiente de la hora de 
+inicio y el monto de la instrucción esta evaluación 
+no cambia y se mantiene como “No Verificable”. 
+ 
+Si requiere regularizar las señales integradas en el 
+sistema SCADA, contactar directamente al área TI 
+SCADA al mail tec.scada@coordinador.cl.  
+4 
+Colbún S.A. 
+CT 
+UG Juncal 
+Estado inicial: Sin valor. 
+Instrucción: Bajar 5 kV. 
+Observación: De acuerdo con el registro de 
+grabaciones de Colbún se recibió una 
+instrucción a las 10:10 horas y el monto de la 
+instrucción fue de 3kV. Por otra parte, la 
+Se acoge la observación. 
+ 
+La señal de la barra Los Quilos 66kV no tenía la 
+calidad 
+adecuada 
+para 
+la 
+evaluación 
+del 
+desempeño 
+de 
+las 
+instalaciones 
+en 
+dicha 
+instrucción, por lo que se usó una señal alternativa, 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+unidad resultó evaluada como No Verificable 
+debido a que la señal de voltaje en la barra 
+Aconcagua 110kV no tenía suficiente calidad 
+para verificar la prestación del servicio. Cabe 
+mencionar que esta señal corresponde a 
+terceros, en particular a la empresa Celeo 
+Redes, por lo que Colbún no puede 
+responder por la calidad de esta señal en el 
+SITR. 
+Solicitud: 
+Se 
+solicita 
+revisar 
+y 
+quitar 
+instrucción de la evaluación. 
+siendo esta señal en bornes de cada una de las 
+unidades en 6,6 kV. 
+ 
+Dicha evaluación identifica que la unidad no 
+cumplió con el requerimiento, ya que sólo varió su 
+tensión 0,35kV y presentaba margen para seguir 
+inyectando reactivos.  
+ 
+Dicho lo anterior la evaluación corresponde a la 
+categoría “No Cumple” en cada una de las 
+unidades. 
+5 
+Enlasa 
+CTF 
+TER El Peñon 
+Los 
+factores 
+de 
+desempeño 
+de 
+PENON_DIESEL están siendo calculados 
+con un vector que tiene las mediciones 
+invertidas, es decir, con signo negativo, lo 
+que inevitablemente resulta en factores de 
+desempeño iguales a cero. 
+ 
+Debido a que el vector se encuentra con 
+signo 
+negativo, 
+el 
+tiempo 
+tc2 
+queda 
+determinado al inicio de la instrucción por ser 
+el valor más alto, ya que corresponde al 
+momento en el cual la evaluación C2 alcanza 
+su valor más cercano a  1, mientras que la 
+evaluación C3 también es 0 debido a la 
+potencia negativa.  
+Hemos 
+realizado 
+las 
+verificaciones 
+respectivas al envío de estas señales, las 
+cuales además concuerdan con la energía 
+reportada en el PRMTE, por lo que 
+solicitamos 
+respetuosamente 
+revisar 
+la 
+recepción de estas en el SCADA del 
+coordinador 
+para 
+detectar 
+un 
+posible 
+inconveniente, y corregir el vector invertido 
+Se acoge observación. 
+Se realizaron los ajustes pertinentes para corregir 
+la señal invertida que presentaba la unidad y se 
+recalcula el factor de desempeño. Dado lo anterior 
+los indicadores de desempeño de las 12 
+instrucciones de CTF de TER El Peñón del mes. De 
+éstas, 11 quedaron con una evaluación superior al 
+83% y 1 instrucción con un 0% debido a que la 
+potencia a los 15 minutos no alcanza la consigna 
+instruida por CDC. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+(en signo) para la próxima versión de 
+factores de desempeño. 
+6 
+Engie Energía 
+Chile S.A. 
+CPF 
+TER Andina 
+ 
+Observaciones relacionadas a la prestación 
+de CPF recibidas fuera de plazo de 
+observaciones a la primera versión, mediante 
+la comunicación DE00418-24 el día 16 de 
+enero de 2023.   
+No se acogen las observaciones. 
+No son observaciones. 
+No presenta probatorios de ningún tipo y no indica 
+lo que quiere corregir. 
+7 
+Engie Energía 
+Chile S.A. 
+CPF 
+TER Hornitos 
+ 
+Observaciones relacionadas a la prestación 
+de CPF recibidas fuera de plazo de 
+observaciones a la primera versión, mediante 
+la comunicación DE00418-24 el día 16 de 
+enero de 2023.   
+No se acogen las observaciones. 
+No son observaciones. 
+No presenta probatorios de ningún tipo y no indica 
+lo que quiere corregir. 
+8 
+Engie Energía 
+Chile S.A. 
+CPF 
+TER Tocopilla 
+U16 
+Observaciones relacionadas a la prestación 
+de CPF recibidas fuera de plazo de 
+observaciones a la primera versión, mediante 
+la comunicación DE00418-24 el día 16 de 
+enero de 2023.   
+No se acogen las observaciones. 
+ 
+La evidencia adjunta solo indica los períodos de 
+tiempo en que el controlador de frecuencia de la 
+unidad 
+se 
+encontró 
+activo, 
+lo 
+que 
+no 
+necesariamente garantiza que la central tenga un 
+desempeño satisfactorio en CPF. 
+ 
+Dado lo anterior, no corresponde recalcular el 
+indicador de desempeño horario para el SC de 
+CPF.  
+ 
+Para mayor claridad, en "Informe Desempeño 
+Servicios Complementarios", sección "2.1 Control 
+Primario de Frecuencia, CPF", se explica la 
+metodología de cálculo del desempeño del SC de 
+CPF. Dicho informe puede ser descargado del sitio 
+web del Coordinador de la siguiente ruta: Inicio > 
+Informes y Estudios > Operación > Servicios 
+Complementarios > Índices de Desempeño y 
+Disponibilidad de Servicios Complementarios > 
+Metodología Cálculo Desempeño SSCC 
+ 

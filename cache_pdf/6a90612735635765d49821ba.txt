@@ -1,0 +1,114 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+Santiago, 26 de agosto de 2026 
+QLP202623 
+      Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y 
+Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a carta DE05418-26 – Aclaración 
+de plazos y estado de la Verificación de Control 
+de Tensión (CT), PFV Quilapilún. 
+De nuestra consideración: 
+ 
+Junto con saludar, y en relación con la carta DE05418-26, mediante la cual se comunica el 
+incumplimiento del plazo establecido para la Verificación de Control de Tensión (CT) y se solicita 
+aclarar la inconsistencia de plazos informada respecto de la instalación PFV Quilapilún, damos 
+respuesta a lo señalado en el Anexo 1 - N°2, de dicha comunicación. 
+ 
+Al respecto, mencionar que mediante carta DE02205-26 de fecha 06/03/2026 se estableció como 
+fecha definitiva para la entrega de los informes de verificación de CT el 15 de julio de 2026, en el 
+marco del plan de trabajo asociado al reemplazo del Power Plant Controller (PPC) de la central PFV 
+Quilapilún. 
+ 
+Durante la etapa de definición e implementación de dicho reemplazo, se evaluaron alternativas de 
+ejecución con proveedores externos especializados; sin embargo, ninguno de ellos pudo 
+comprometer un plazo de implementación compatible con el cronograma de verificación 
+entonces vigente. En consideración de lo anterior, y con el objeto de resguardar la confiabilidad de 
+la solución sin comprometer aún más los plazos regulatorios, se optó por ejecutar el reemplazo del 
+PPC con recursos internos de la compañía. Esta fue la opción efectivamente implementada, y es la 
+que se encuentra alineada con lo informado a ese Coordinador mediante carta DE06476-26 de 
+fecha 28 de julio de 2026. Esta situación justifica el ajuste de plazos informados, según el cual los 
+ensayos de verificación se realizarían durante septiembre de 2026 y los informes correspondientes 
+serían remitidos durante octubre de 2026. Dicho ajuste responde al tiempo adicional requerido 
+para completar de manera confiable las etapas previas de habilitación técnica (cambio de 
+controlador e implementación de señales), y no a una falta de avance en el proceso. 
+ 
+En respaldo de lo señalado, y a modo de dar cuenta del avance efectivo alcanzado desde el cambio 
+del PPC, se listan a continuación los principales hitos registrados en las comunicaciones sostenidas 
+con las áreas de Operación y SCADA de ese Coordinador entre el 04 y el 24 de agosto de 2026, cuyo 
+respaldo documental se encuentra disponible para ser puesto a disposición de ese Coordinador si 
+así se requiere: 
+ 
+• 
+04/08/2026: Chungungo S.A. informó la finalización de la implementación de los puntos IEC104 
+requeridos para la integración de las señales de Servicios Complementarios (CSF/SCED), 
+quedando disponibles en el servidor IEC104 utilizado para el SITR. 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+• 
+10/08/2026: el Departamento SCADA del Coordinador confirmó la integración de dichas señales 
+en su plataforma. 
+• 
+20/08/2026: el Coordinador confirmó el resultado exitoso de las pruebas punto a punto de las 
+señales. 
+• 
+21/08/2026: la Gerencia de Operación del Coordinador informó su disponibilidad a partir del 31 
+de agosto de 2026 para la ejecución de las pruebas de aprobación del control AGC. 
+• 
+24/08/2026: Chungungo S.A. se encuentra gestionando la solicitud de SODI para los días 2 y 3 
+de septiembre de 2026, fecha en que se espera realizar dichas pruebas. 
+ 
+Lo anterior corresponde al avance en la integración de señales asociada al servicio de Control de 
+Frecuencia (CSF/AGC). En paralelo, nos encontramos definiendo junto a la consultora Estudios 
+Eléctricos (EE) los protocolos de ensayo correspondientes al servicio de Control de Tensión (CT) y 
+Control Dinámico de Tensión (CDT), cuya fecha de entrega será la próxima semana. Al respecto, 
+hacemos presente que la disponibilidad del experto técnico de EE se encuentra actualmente 
+acotada, dada la cantidad de proyectos que dicha consultora está revisando en forma paralela, lo 
+que ha incidido en los plazos de definición de dicha fecha. 
+ 
+Sin perjuicio de lo anterior, y en consideración del avance técnico descrito, nos encontramos en 
+condiciones de proceder al levantamiento de la limitación N° 2026001527 ingresada en la 
+plataforma Neomante, dejando a criterio de ese Coordinador la decisión de utilizar el servicio de 
+Control Dinámico de Tensión (CDT) en PFV Quilapilún, en tanto no se cuente aún con la ejecución 
+de la prueba de Control de Tensión (CT) ni con el correspondiente informe de verificación aprobado. 
+Reiteramos nuestro compromiso con la ejecución de las pruebas de CT/CDT durante septiembre 
+de 2026 y con el envío del informe de verificación durante octubre de 2026. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Moraga Á. 
+Encargado Titular 
+Chungungo S.A. 

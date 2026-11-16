@@ -1,0 +1,393 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 05 de junio de 2026 
+AEL044C-26 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Responde DE 03429-26, “Proceso de Verificación 
+del Servicio Complementario (SC) de Control Secundario 
+de Frecuencia (CSF-AGC) e incorporación a la 
+herramienta de despacho económico (ED)” 
+ 
+Estimado señor, 
+ 
+Junto con saludar, y en relación con su carta DE 03429-26, de fecha 20 de mayo de 2026, mediante la cual 
+se solicita remitir antecedentes asociados al estado de implementación de enlaces y señales requeridas 
+para la integración al SITR/AGC del Coordinador, así como el correspondiente cronograma con hitos y 
+plazos específicos, informamos lo siguientes cronogramas de implementación para las centrales PFV+BESS 
+Salvador, PE Aurora y PE Sarco: 
+PFV Salvador 
+ 
+Etapa 
+Descripción  
+Fecha 
+Propietario 
+Coordinado 
+Estado  
+1. 
+Configuración 
+PPC 
+Configuración y modelación 
+PPC  
+02-02-2026 PFV Salvador  Aela Generación Finalizado 
+2. Pruebas 
+internas PPC 
+Pruebas internas con 
+especialistas simulando 
+setpoint enviados desde el 
+CEN hacia el PPC, validando 
+el cambio de consignas y 
+correcta ejecución del PPC 
+15-05-2026 PFV Salvador  Aela Generación Finalizado 
+3. 
+Implementación 
+Señales SITR + 
+envió Planilla 
+DNP3 
+Configurado y realizadas las 
+pruebas efectivas desde PPC 
+de planta, se implementarán 
+e incorporan las señales SITR 
+en DNP3 y envío de planilla al 
+Dpto SCADA del CEN 
+25-06-2026 PFV Salvador  Aela Generación Ejecución 
+Docusign Envelope ID: 7C16643A-9A6D-8A7B-834D-359771648D85
+
+ 
+ 
+ 
+ 
+2 
+ 
+Etapa 
+Descripción  
+Fecha 
+Propietario 
+Coordinado 
+Estado  
+4. Pruebas 
+internas punto a 
+punto SITR  
+Pruebas internas de señales 
+SITR simuladas y efectivas 
+10-07-2026 PFV Salvador  Aela Generación Ejecución 
+5. Aprobación  
+Revisión y validación  
+11-07-2026 PFV Salvador  Aela Generación ejecución 
+6. Prueba punto 
+a punto SITR 
+con 
+Departamento 
+SCADA CEN 
+Coordinación y ejecución de 
+pruebas punto a punto con 
+Dpto SCADA del CEN, 
+verificando y validando 
+integración de señales SITR. 
+20-07-2026 PFV Salvador  Aela Generación Pendiente 
+7. Aprobación  
+Revisión y validación de 
+pruebas CEN 
+25-07-2026 PFV Salvador  Aela Generación Pendiente 
+8. Coordinación 
+Pruebas CSF-
+AGC con DMAP 
+CEN 
+Coordinación con el Dpto de 
+Modelación EMS (DMAP) 
+programando pruebas 
+funcionales efectivas desde 
+despacho hacia PPC (AGC-
+CSF) 
+27-07-2026 PFV Salvador  Aela Generación Pendiente 
+9. Ejecución 
+Pruebas CSF-
+AGC con DMAP 
+CEN 
+Ejecución de pruebas 
+funcionales con el Dpto de 
+Modelación EMS (DMAP) 
+programando pruebas 
+funcionales efectivas desde 
+despacho hacia PPC (AGC-
+CSF) 
+05-08-2026 PFV Salvador  Aela Generación Pendiente 
+10. Revisión y 
+Aprobación 
+CEN 
+Resultados y Aprobación por 
+parte del CEN formal de la 
+integración de AGC-CSF 
+15-08-2026 PFV Salvador  Aela Generación Pendiente 
+ 
+ 
+PE Aurora 
+ 
+Etapa 
+Descripción  
+Fecha 
+Propietario 
+Coordinado 
+Estado  
+1. 
+Configuración 
+Gateway 
+comunicación a 
+PPC 
+Configuración gateway 
+que comunicara y 
+ejecutara lo comandos 
+de setpoint al PPC de 
+planta 
+04-04-2026 Eólica Llanquihue Aela Generación Ejecución 
+Docusign Envelope ID: 7C16643A-9A6D-8A7B-834D-359771648D85
+
+ 
+ 
+ 
+ 
+3 
+ 
+Etapa 
+Descripción  
+Fecha 
+Propietario 
+Coordinado 
+Estado  
+2. Pruebas 
+internas 
+Comunicación 
+Gateway a PPC 
+Pruebas internas con 
+especialistas enviando 
+los comandos desde 
+Gateway al PPC, 
+validación de cambios 
+en controlador y 
+visualización SCADA, 
+validación de estado de 
+señales y cambios de 
+estados  
+25-08-2026 Eólica Llanquihue Aela Generación Ejecución 
+3. 
+Implementación 
+Señales SITR + 
+envío Planilla 
+ICCP 
+Configurado y realizadas 
+las pruebas efectivas 
+desde Gateway a PPC de 
+planta, se 
+implementarán e 
+incorporan las señales 
+SITR en ICCP y envío de 
+planilla al Dpto SCADA 
+del CEN 
+10-09-2026 Eólica Llanquihue Aela Generación Pendiente 
+4. Pruebas 
+internas punto a 
+punto SITR  
+Pruebas internas de 
+señales SITR simuladas 
+y efectivas 
+25-09-2026 Eólica Llanquihue Aela Generación Pendiente 
+5. Aprobación  
+Revisión y validación  
+26-09-2026 Eólica Llanquihue Aela Generación Pendiente 
+6. Prueba punto 
+a punto SITR 
+con 
+Departamento 
+SCADA CEN 
+Coordinación y 
+ejecución de pruebas 
+punto a punto con Dpto 
+SCADA del CEN, 
+verificando y validando 
+integración de señales 
+SITR. 
+02-10-2026 Eólica Llanquihue Aela Generación Pendiente 
+7. Aprobación  
+Revisión y validación de 
+pruebas CEN 
+08-10-2026 Eólica Llanquihue Aela Generación Pendiente 
+8. Coordinación 
+Pruebas CSF-
+AGC con DMAP 
+CEN 
+Coordinación con el 
+Dpto de Modelación 
+EMS (DMAP) 
+programando pruebas 
+funcionales efectivas 
+desde despacho hacia 
+PPC (AGC-CSF) 
+10-10-2026 Eólica Llanquihue Aela Generación Pendiente 
+Docusign Envelope ID: 7C16643A-9A6D-8A7B-834D-359771648D85
+
+ 
+ 
+ 
+ 
+4 
+ 
+Etapa 
+Descripción  
+Fecha 
+Propietario 
+Coordinado 
+Estado  
+9. Ejecución 
+Pruebas CSF-
+AGC con DMAP 
+CEN 
+Ejecución de pruebas 
+funcionales con el Dpto 
+de Modelación EMS 
+(DMAP) programando 
+pruebas funcionales 
+efectivas desde 
+despacho hacia PPC 
+(AGC-CSF) 
+20-10-2026 Eólica Llanquihue Aela Generación Pendiente 
+10. Revisión y 
+Aprobación 
+CEN 
+Resultados y Aprobación 
+por parte del CEN formal 
+de la integración de 
+AGC-CSF 
+25-10-2026 Eólica Llanquihue Aela Generación Pendiente 
+ 
+PE Sarco 
+ 
+Etapa 
+Descripción  
+Fecha 
+Coordinado  
+Coordinado 
+Estado  
+1. 
+Configuración 
+Gateway 
+comunicación a 
+PPC 
+Configuración gateway que 
+comunicara y ejecutara lo 
+comandos de setpoint al PPC 
+de planta 
+04-04-2026 Eólica Sarco Aela Generación Ejecución 
+2. Pruebas 
+internas 
+Comunicación 
+Gateway a PPC 
+Pruebas internas con 
+especialistas enviando los 
+comandos desde Gateway al 
+PPC, validación de cambios 
+en controlador y visualización 
+SCADA, validación de estado 
+de señales y cambios de 
+estados  
+30-07-2026 Eólica Sarco Aela Generación Ejecución 
+3. 
+Implementación 
+Señales SITR + 
+envío Planilla 
+ICCP 
+Configurado y realizadas las 
+pruebas efectivas desde 
+Gateway a PPC de planta, se 
+implementarán e incorporan 
+las señales SITR en ICCP y 
+envío de planilla al Dpto 
+SCADA del CEN 
+17-08-2026 Eólica Sarco Aela Generación Pendiente 
+4. Pruebas 
+internas punto a 
+punto SITR  
+Pruebas internas de señales 
+SITR simuladas y efectivas 
+25-08-2026 Eólica Sarco Aela Generación Pendiente 
+5. Aprobación  
+Revisión y validación  
+26-08-2026 Eólica Sarco Aela Generación Pendiente 
+Docusign Envelope ID: 7C16643A-9A6D-8A7B-834D-359771648D85
+
+ 
+ 
+ 
+ 
+5 
+ 
+Etapa 
+Descripción  
+Fecha 
+Coordinado  
+Coordinado 
+Estado  
+6. Prueba punto 
+a punto SITR 
+con 
+Departamento 
+SCADA CEN 
+Coordinación y ejecución de 
+pruebas punto a punto con 
+Dpto SCADA del CEN, 
+verificando y validando 
+integración de señales SITR. 
+05-09-2026 Eólica Sarco Aela Generación Pendiente 
+7. Aprobación  
+Revisión y validación de 
+pruebas CEN 
+10-09-2026 Eólica Sarco Aela Generación Pendiente 
+8. Coordinación 
+Pruebas CSF-
+AGC con DMAP 
+CEN 
+Coordinación con el Dpto de 
+Modelación EMS (DMAP) 
+programando pruebas 
+funcionales efectivas desde 
+despacho hacia PPC (AGC-
+CSF) 
+12-09-2026 Eólica Sarco Aela Generación Pendiente 
+9. Ejecución 
+Pruebas CSF-
+AGC con DMAP 
+CEN 
+Ejecución de pruebas 
+funcionales con el Dpto de 
+Modelación EMS (DMAP) 
+programando pruebas 
+funcionales efectivas desde 
+despacho hacia PPC (AGC-
+CSF) 
+22-09-2026 Eólica Sarco Aela Generación Pendiente 
+10. Revisión y 
+Aprobación 
+CEN 
+Resultados y Aprobación por 
+parte del CEN formal de la 
+integración de AGC-CSF 
+30-09-2026 Eólica Sarco Aela Generación Pendiente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nicolás Correa F. 
+Encargado Suplente 
+Aela Generación S.A. 
+Docusign Envelope ID: 7C16643A-9A6D-8A7B-834D-359771648D85

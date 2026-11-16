@@ -1,0 +1,159 @@
+ 
+ 
+ Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 04 de septiembre de 2025 
+DE 05578-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de los Parámetros para los 
+Procesos de Partida y Detención de la Central TER 
+Los Vientos, operando con combustible Diésel. 
+[1] 
+Carta 
+GM 
+N°2024-044, 
+Ref.: 
+“Informe 
+Parámetros de Partida y Detención Central Los 
+Vientos Combustible Diésel”, de fecha 16 de mayo 
+de 2024. Ingreso DE03128-24. 
+[2] Carta DE05809-24, Ref.: “Informes Técnicos de 
+Parámetros Operacionales de la Central TER Los 
+Vientos - Combustible Diésel, del coordinado 
+Generadora Metropolitana SpA”, de fecha 06 de 
+noviembre de 2024. 
+De nuestra consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras”, 
+comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de los valores 
+de los parámetros de partida y detención de central TER Los Vientos, operando con Diésel, 
+en conformidad con el Informe Técnico recibido mediante la carta de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+técnico ya mencionado publicado en la página web del Coordinador mediante carta de la 
+Ref. [2]. Por su parte, el Coordinador no realizó observaciones de carácter técnico al Informe 
+antes mencionado. 
+ 
+Al respecto, los valores de los parámetros de Partida y Detención de la central TER Los 
+Vientos, operando con Diésel, se indican en las tablas incorporadas en el Anexo de la 
+presente carta.  
+ 
+En cumplimiento del Artículo 13 del Anexo Técnico en mención, los parámetros para los 
+procesos de Partida y Detención mencionados entrarán en vigencia a partir de las 00:00 
+horas del 08 de septiembre de 2025. 
+ 
+El informe de parámetros de partida y detención que contiene la justificación de los 
+parámetros indicados anteriormente puede ser descargado en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación > Parámetros operacionales de unidades generadoras > 
+Parámetros de Partida y Detención > Informes Determinación de Parámetros para 
+Procesos de Partida y Detención de Unidades Generadoras > Central TER Los 
+Vientos > 2025 
+
+ 
+ 
+ Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GZV/SGM/adr 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Parámetros de Partida y Detención de la Central TER Los Vientos – Diesel 
+ 
+El consumo de combustibles, utilizados en la determinación de los Parámetros de Partida 
+y Detención de la central TER Los Vientos, se encuentran referenciados a una base de 
+poder calorífico de 11.000 [kcal/kg] y 9.300 [kcal/kg], para petróleo Diesel y Gas Natural. 
+Además, se considera una densidad para el petróleo diésel de 0,85 [T/m3]. 
+ 
+Tabla 1. Parámetros del proceso de partida TER Los vientos 
+Etapa 
+Parámetro 
+Unidad 
+Partida – Sincronización 
+Diésel [ton] 
+0,00 
+Gas Natural [m3] 
+764 
+Consumo SSAA [MWh] 
+0,348 
+Tiempo [min] 
+18,3 
+Sincronización – Mínimo Técnico 
+Diésel [ton] 
+1,98 
+Gas Natural [m3] 
+574 
+Consumo SSAA [MWh] 
+0,160 
+Tiempo [min] 
+10,2 
+Mínimo Técnico – Potencia Nominal 
+Diésel [ton] 
+3,43 
+Gas Natural [m3] 
+0,00 
+Consumo SSAA [MWh] 
+0,193 
+Tiempo [min] 
+7,6 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención TER Los vientos 
+Etapa 
+Parámetro 
+Unidad 
+Potencia Nominal – Mínimo Técnico 
+Diésel [ton] 
+2,44 
+Consumo SSAA [MWh] 
+0,123 
+Tiempo [min] 
+5,6 
+Mínimo Técnico – Desconexión 
+Diésel [ton] 
+1,63 
+Consumo SSAA [MWh] 
+95 
+Tiempo [min] 
+7,5 
+Desconexión – Detención (1) 
+Diésel [ton] 
+0,13 
+Consumo SSAA [MWh] 
+0,081 
+Tiempo [min] 
+15,8 
+ 
+(1) 
+Se considera que el estado de detención es cuando entra el virador, a los 99 RPM. 
+ 
+ 
+El tiempo mínimo de operación (TMO) es de 0 [min]. 
+El tiempo mínimo en estado Detenido (TMD) es de 0 [min]. 

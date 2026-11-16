@@ -1,0 +1,272 @@
+ 
+Alfa  
+Transmisora de Energía S.A 
+ 
+ 
+ 
+Alfa Transmisora de Energía S.A 
+RUT: 77.337.345-0 
+CE-156-2026-ALFATX   / Pág. 1 de 2
+Av. Apoquindo 4501 | Piso 19 
+Oficina 1902 | Las Condes 
+7580128 Santiago 
+T. +562 3319 7200 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Santiago, Chile 
+ 
+                                                                                                                                              Santiago, 18 de agosto de 2026. 
+ 
+ 
+n/ref: CE-156-2026-ALFATX – Respuesta carta DE02920-25: Reprogramación de fechas de implementación de 
+Servicios Complementarios (SSCC). 
+ 
+De nuestra consideración: 
+ 
+En relación con la carta DE02920-25 y según con lo tratado en la reunión sostenida el 6 de agosto de 2026, se indican 
+las nuevas fechas comprometidas para el envío de los informes de verificación de servicios complementarios de 
+equipos de vinculación y de control de tensión, estos nuevos plazos reemplazan los informados en la carta CE-56-
+2025-ALFATX. 
+ 
+A continuación, se detallan las nuevas fechas comprometidas. Los plazos indicados consideran el envío de protocolos 
+para revisión, la coordinación y realización de las pruebas, y el envío del informe final con los resultados de los 
+ensayos efectuados, incluyendo el plazo de hasta 15 días que podría tomar la revisión documental por parte del CEN, 
+según lo expuesto en la reunión antes citada. 
+ 
+Coordinado 
+Subestación 
+Instalación 
+Paño 
+SSCC 
+Fecha de 
+entrega de 
+informe 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Alto Jahuel 
+LT 220kV Alto Jahuel - 
+Maipo N°1 
+J10 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Alto Jahuel 
+LT 220kV Alto Jahuel - 
+Maipo N°2 
+J3 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Ancoa 
+LT 220kV Ancoa - Colbún 
+J9 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Angostura 
+Línea 220kV Angostura - 
+Seccionadora Los Notros - 
+Mulchén N°1 
+J1 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Angostura 
+Línea 220kV Angostura - 
+Seccionadora Los Notros - 
+Mulchén N°2 
+J2 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Colbún 
+Línea 220kV Colbún - 
+Seccionadora Puente Negro 
+N°1 
+J7 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Colbún 
+Configuración en anillo 
+J1 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Colbún 
+Configuración en anillo 
+J2 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Colbún 
+Configuración en anillo 
+J3 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Colbún 
+Configuración en anillo 
+J4 
+EV 
+nov-26 
+
+ 
+Alfa  
+Transmisora de Energía S.A 
+ 
+ 
+ 
+Alfa Transmisora de Energía S.A 
+RUT: 77.337.345-0 
+CE-156-2026-ALFATX   / Pág. 2 de 2
+Av. Apoquindo 4501 | Piso 19 
+Oficina 1902 | Las Condes 
+7580128 Santiago 
+T. +562 3319 7200 
+Coordinado 
+Subestación 
+Instalación 
+Paño 
+SSCC 
+Fecha de 
+entrega de 
+informe 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Quillota 
+LT 220kV Quillota - San Luis 
+N°1 
+J5 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Quillota 
+LT 220kV Quillota - San Luis 
+N°2 
+J6 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E San Luis 
+LT 220kV San Luis - Quillota 
+N°1 
+J11 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E San Luis 
+LT 220kV San Luis - Quillota 
+N°2 
+J9 
+EV 
+nov-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Cerro Calera 
+BC 2 12KV 2.5 MVAR 
+C14 
+CT 
+dic-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Esperanza 
+BC 1 12KV 4.878 MVAr 
+BC1 
+CT 
+dic-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Esperanza 
+BC 2 12KV 3.252 MVAr 
+BC2 
+CT 
+dic-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Maipo 
+BC JCP1 230KV 60 MVAr 
+JCP1 
+CT 
+dic-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Maipo 
+BC JCP2 230KV 60 MVAr 
+JCP2 
+CT 
+dic-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Maipo 
+BC JCP3 230KV 60 MVAr 
+JCP3 
+CT 
+dic-26 
+Alfa Transmisora de 
+Energía S.A. 
+S/E Maipo 
+BC JCP4 230KV 60 MVAr 
+JCP4 
+CT 
+dic-26 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+David Zamora Mesías  
+Gerente de Operaciones  
+Alfa Transmisora de Energía S.A. 
+ 
+David Germán 
+Zamora 
+Mesías
+Firmado digitalmente 
+por David Germán 
+Zamora Mesías 
+Fecha: 2026.08.21 
+10:42:21 -04'00'

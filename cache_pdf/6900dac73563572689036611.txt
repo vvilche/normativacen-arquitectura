@@ -1,0 +1,92 @@
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+                                                                                       Santiago, 27 de octubre de 2025 
+OP 290-25 
+ 
+Señorita 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA CARTA DE06463-25 SOBRE PROTOCOLOS DE CONTROL 
+TERCIARIO DE FRECUENCIA 
+REF [1]:  
+CARTA DE06463-25: APRUEBA PROTOCOLOS PARA LOS ENSAYOS DE 
+VERIFICACIÓN DE CONTROL DE TENSIÓN DE LA CENTRAL PE CANELA II 
+ 
+De nuestra consideración,  
+En relación con la materia de la Ref., y en el contexto de la Verificación de Servicios 
+Complementarios (SSCC), me refiero a la comunicación de la REF [1] en las que el 
+Coordinador aprueba los Protocolos para los Ensayos de Verificación del Servicio 
+Complementario de Control de Tensión (CT) a prestar por la Central PE Canela II. 
+ 
+Al respecto, de acuerdo con lo indicado en la carta de la REF [1] se adjunta a la presente 
+comunicación un cronograma con las fechas de la ejecución de los ensayos de control de 
+tensión. 
+ 
+Finalmente, las fechas específicas de los ensayos se informará considerando lo siguiente: 
+ 
+• 
+El envío con al menos 5 días de antelación a la ejecución de las pruebas, las curvas 
+de carga, las que serán cargadas en la correspondiente solicitud de trabajo en el 
+sistema Neomante con estado operativo “PDO”. Adicionalmente, esta información, 
+se enviará al correo electrónico verificación.sscc@coordinador.cl, indicando el N° 
+de aviso de trabajo asociado al sistema Neomante. 
+ 
+• 
+En conformidad con el capítulo 5 del “Instructivo Técnico para la Verificación de 
+Instalaciones para la prestación de SSCC”, se enviará el Informe Técnico con los 
+resultados, una vez realizado los ensayos, en un plazo máximo de 15 días. 
+ 
+
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+____________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN 
+ENEL GENERACIÓN CHILE S.A. 
+cc: verificacion_sscc@coordinador.cl 
+ 
+ 
+
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Anexo I 
+Cronograma para la Ejecución de Ensayos para la Verificación de SSCC 
+ 
+Coordinado 
+Central / 
+Parque 
+Unidad 
+CT 
+Fecha 
+Ensayos 
+ENEL GENERACIÓN CHILE S.A 
+PE CANELA II 
+U1 a U40 
+SI 
+Mayo 2026 
+ 

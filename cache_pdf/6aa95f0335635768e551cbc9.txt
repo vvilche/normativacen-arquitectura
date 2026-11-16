@@ -1,0 +1,66 @@
+Santiago, 10 de septiembre de 2026. 
+Sr. Rodrigo Espinoza V.  
+Gerente de Operación  
+Coordinador Eléctrico Nacional 
+Presente 
+ Ref.: Consultas sobre integración de PMGD a sistema de comunicación de CGE.  
+Estimado Rodrigo, 
+Con motivo de la recepción por parte de Parque Solar Bellavista SpA (“PMGD Parque Bellavista”) 
+de un documento titulado “Exigencias para Integración de PMGD a sistemas SCADA de CGE”, 
+remitido por CGE a PMGD Parque Bellavista, nos dirigimos a usted para realizar consultas al respecto 
+de ciertos parámetros que conforme al documento señalado deben ser establecidos entre el 
+Coordinador Eléctrico Nacional (“CEN”) y PMGD Parque Bellavista. Lo anterior se relaciona con la 
+implementación de la actualización de la Norma Técnica de Conexión y Operación (“NTCO”) 
+PMGD, publicada en febrero de 2026 por la Comisión Nacional de Energía (“CNE”).  
+En particular, se consulta sobre la implementación de lo dispuesto en los artículos transitorio 10-3 y 
+artículo 7-8 de la NTCO, además de lo instruido mediante Oficio Circular N° 336142, de 1 de junio 
+de 2026, de la Superintendencia de Electricidad y Combustibles (“SEC”), y su relación con el Anexo 
+Técnico de Definición de Parámetros Técnicos y Operativos para el Envío de Datos al SITR (“Anexo 
+SITR”), correspondiente a la Norma Técnica de Seguridad y Calidad de Servicio (“NTSyCS”) de la 
+CNE. 
+Conforme a las normas citadas y al documento que fue remitido por CGE, PMGD Parque Bellavista 
+deberá integrarse al sistema de comunicación de la señalada empresa distribuidora. Es por este motivo 
+que solicitamos su orientación con las siguientes consultas respecto de la implementación de esta 
+integración con CGE, al igual que ciertas consultas relacionadas con la futura operación del parque 
+en relación con el monitoreo de la central. 
+1. Solicito se aclare por el CEN si es que PMGD Parque Bellavista se encuentra sujeto a la 
+obligación de integración al sistema de comunicación de CGE o si puede beneficiarse de la 
+exención a la que se refiere el artículo 2° del Anexo SITR de la NTSyCS, esto es, la exención que 
+debe aplicar el CEN a los PMGD cuyas instalaciones no causen impacto alguno en la seguridad 
+y calidad del servicio del sistema de información. 
+2. El documento “Exigencias para Integración de PMGD a sistemas SCADA de CGE” señala que 
+la comunicación entre el PMGD y el sistema SCADA de CGE debe contar con un nivel de 
+disponibilidad “lo más alto posible”. Asimismo, el documento indica que “las señales que se 
+deben reportar al SITR son definidas por el Coordinador e informadas directamente al PMGD”. 
+En relación con lo anterior: 
+a. ¿Cuáles son las señales que han sido definidas por el CEN para el PMGD Parque Bellavista, 
+a efectos de ser reportadas al SITR? 
+b. ¿Cuáles son las exigencias de disponibilidad que se deben aplicar a PMGD Parque 
+Bellavista?  
+
+c. Si bien la disponibilidad mensual de la información, según el artículo 8° del Anexo SITR de 
+la NTSyCS se determina como uno mayor o igual a 99,5%, cabe recordar que el artículo 2° 
+de la misma norma permite al CEN aplicar exigencias diferenciadas a los PMGD de acuerdo 
+a criterios tales como su capacidad, tecnología, impacto sistémico, entre otros. ¿Podría 
+PMGD Parque Bellavista verse beneficiado por una exención o diferenciación de exigencias 
+de disponibilidad determinada por el CEN conforme a sus características? 
+3. Conforme con el documento remitido por CGE, “La definición de los tags para el protocolo 
+ICCP, con el cual CGE reporta las señales al SITR, deben ser acordadas por el PMGD y el CEN, 
+previamente a la integración con el sistema de CGE”. Conforme con ello, se solicita al CEN 
+informar cuáles tags deben ser utilizados en el protocolo ICCP.   
+4. Solicito respetuosamente al CEN se sirva emitir un pronunciamiento acerca de la responsabilidad 
+que compete al PMGD y a la empresa distribuidora respecto de la entrega de las señales. En 
+particular, se solicita que se aclare sobre quién recaerá la responsabilidad sobre la transmisión de 
+la información luego de la recepción de ésta por parte de la empresa distribuidora.  
+5. ¿De qué manera se contabiliza la indisponibilidad, en el caso que el PMGD entregue 
+correctamente la señal, pero que la empresa de distribución presente fallas en la comunicación o 
+el CEN presente fallas? 
+6. Al estar conectado a la empresa de distribución, ¿Existen modificaciones en la responsabilidad 
+del PMGD como Coordinado? 
+Espero que puedan entregarnos una respuesta a la brevedad, para avanzar con dicha implementación. 
+Sin otro particular,  
+Saluda atentamente a usted, 
+ 
+ 
+Jorge Andrés Lembeye 
+Representante Legal 

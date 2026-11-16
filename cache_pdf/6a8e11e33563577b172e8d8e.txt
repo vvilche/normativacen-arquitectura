@@ -1,0 +1,195 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 25 de agosto de 2026 
+DE 05683-26 
+Señor 
+Claudio Silva 
+Encargado Titular 
+Sonnedix Cox Energy Chile SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación de 
+Control Secundario de Frecuencia e integración 
+al Despacho Económico de la central PFV 
+Meseta de los Andes. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), ha finalizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+del GMS/SCADA de la central PFV Meseta de los Andes. 
+ 
+Como resultado de este proceso, la instalación mencionada queda habilitada para la 
+prestación del mencionado servicio de CSF a partir de las 00:00 del día 27 de agosto de 
+2026, considerando los recursos indicados en el anexo a la presente carta. 
+ 
+Por otra parte, para efectos de elaborar el correspondiente Informe Técnico de Verificación 
+según lo establecido en la Guía de Verificación de Control de Frecuencia, solicito a Ud. 
+enviar a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 25 de 
+septiembre de 2026, la siguiente información asociada al parque: 
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+ 
+El reporte técnico que justifica la verificación de la capacidad de la prestación del SC de 
+CSF de la central PFV Meseta de los Andes se encuentra publicado en la siguiente ruta de 
+la página web del Coordinador Eléctrico: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Secundario de Frecuencia > Central PFV Meseta de los Andes 
+ 
+Dado lo anterior, para que la central PFV Meseta de los Andes pueda participar de las 
+subastas de CSF, se deberá completar el proceso de solicitud de incorporación a la 
+plataforma de subastas. Para ello, su representada deberá presentar los antecedentes 
+indicados en las Bases Administrativas de Subastas para Control de Frecuencia, que se 
+encuentran publicadas en la siguiente ruta de la página web del Coordinador Eléctrico 
+Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026) 
+ 
+Sin perjuicio de lo anterior, la instalación en asunto podrá ser instruida de manera directa 
+por el Coordinador Eléctrico Nacional en la prestación del Control Secundario de 
+Frecuencia. 
+ 
+En el caso de que su representada tenga alguna consulta sobre el procedimiento de 
+Subastas para Control de Frecuencia, estas pueden ser dirigidas a la casilla de correo 
+electrónico programacion@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+c.c.: 
+Sr. Juan Cortés – Encargado Suplente Sonnedix Cox Energy Chile SpA 
+DCO/DMAP 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PFV Meseta de los Andes 
+ 
+1. 
+Identificación de las Instalaciones Verificadas 
+A continuación, se describen los parámetros operacionales, que a la fecha de emisión de 
+esta carta de verificación de SSCC, se encuentran aceptados por el Coordinador Eléctrico: 
+a) Central PFV Meseta de los Andes 
+• 
+Potencia máxima bruta: 152,460 [MW] 
+• 
+Potencia máxima neta: 148,895 [MW] 
+• 
+Potencia mínima bruta: 3,59 [MW]  
+• 
+Potencia mínima neta: 2,52 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+ 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Secundario de Frecuencia 
+• 
+La verificación del CSF se realizó con el CPF habilitado y deshabilitado, utilizando 
+para este efecto un estatismo de 5% y una banda muerta de 25 mHz. 
+• 
+Para la prestación del SC de Control Secundario de Frecuencia se consideran todos 
+los inversores en servicio. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado para la central PFV 
+Meseta de los Andes. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en página siguiente. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Secundario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Central 
+PFV 
+Meseta de 
+los Andes 
+ 
+Solar 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+30 
+ 
+Bajada 
+-30 
+ 
+Aporte CSF [MW] (1) 
+Subida 
+146,4 
+ 
+Bajada 
+-146,4 
+ 
+Límite de regulación superior [MW]  
+148,9 
+ 
+Límite de regulación inferior [MW] 
+2,5 
+ 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a potencia activa máxima y mínima en el 
+POI, podrán verse modificados si se actualizan los parámetros operacionales de la central PFV Meseta de los 
+Andes. 
+ 

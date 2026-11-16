@@ -1,0 +1,100 @@
+                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 1 de 2 
+  
+2026.04.17 Cronograma de verificacion SSCC SPIII 
+Santiago, 17 de abril de 2026 
+Sr 
+Ramón Castañeda P. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+Referencia: Cronograma de verificación de SSCC 
+ 
+Junto con saludar, me dirijo a usted en relación a la carta DE01003-26, enviada por el Coordinador 
+Eléctrico Nacional el día 11 de febrero de 2026. En dicha carta se informa el vencimiento del plazo para hacer 
+envío de los informes de Servicios Complementarios (SSCC) y se solicita a Planta Solar San Pedro III SpA hacer 
+envío de un plan de normalización que considere la fecha de entrega de dichos informes. 
+ 
+Presentamos de esta forma nuestro plan de verificación de SSCC: 
+ 
+ 
+Las actividades comienzan con el reemplazo de la Remote Terminal Unit (RTU), la cual ha sido 
+diagnosticada y se ha determinado que ya no cumple con los estándares de la industria. Este equipo es el 
+encargado de establecer comunicación con los inversores y habilita el control remoto del parque. Asimismo, se 
+encarga de transmitir las señales SITR del parque hacia el Coordinador Eléctrico Nacional (CEN). El plazo 
+estimado para completar esta actividad es la semana del 29 de junio. 
+ 
+El 1 de mayo de 2024, el parque presentó una falla que produjo daños irreparables en el 
+transformador de potencial de la barra de 23 kV, aguas abajo del transformador de poder JT1, así como en la 
+celda correspondiente al alimentador de los SSAA de la planta. Posteriormente, se reemplazó esta celda por una 
+correspondiente a un alimentador PFV, dejando una sección del parque desconectada y a la espera de la compra 
+e instalación de la celda de reemplazo. Actualmente, la celda se encuentra en sitio, sin embargo, su puesta en 
+servicio se encuentra condicionada a la correcta habilitación de los sistemas de control y comunicaciones del 
+parque, por lo que resulta necesario completar previamente la implementación de la RTU para asegurar 
+condiciones operacionales adecuadas y consistentes. 
+ 
+Con fecha 11 de abril de 2023, se firmaron dos órdenes de compra con Estudios Eléctricos: una 
+correspondiente al servicio de “Pruebas VMD y Anexos Técnicos en San Pedro III” y otra asociada al servicio de 
+“Verificación SSCC CPF en PFV San Pedro III”. En este contexto, Estudios Eléctricos desarrolló un protocolo de 
+pruebas y realizó visitas a terreno para la ejecución de las pruebas de verificación de modelo dinámico y control 
+primario de frecuencia (CPF). No obstante, debido a una condición indeseada de la respuesta de los inversores 
+frente al control de tensión se tuvieron que postergar las pruebas hasta normalizar este comportamiento. 
+ 
+
+                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 2 de 2 
+  
+Actualmente, se encuentra en curso la gestión para la actualización del Power Plant Controller 
+(PPC), con el objetivo de dar cumplimiento a los requerimientos normativos aplicables a este tipo de 
+controladores, particularmente en lo relativo a la respuesta del parque frente a consignas de potencia reactiva 
+y al ejercer control de frecuencia. Frente a esto, se solicita a Ingeteam (proveedor del PPC) la cotización de estos 
+servicios. El 14 de abril de 2026 hicieron envío de la oferta y se espera su completitud para la semana del 11 de 
+mayo. 
+ 
+En este contexto, la ejecución de las actividades de verificación de SSCC ha sido temporalmente 
+reprogramada, en atención a la necesidad de completar previamente las adecuaciones en los sistemas de control 
+y comunicaciones del parque. Estas condiciones son necesarias para asegurar que las pruebas se realicen bajo 
+escenarios operacionales representativos y en conformidad con los requisitos técnicos exigidos. 
+ 
+Una vez finalizadas las actividades anteriormente descritas, se procederá con el proceso de 
+validación del modelo dinámico del parque, para luego continuar con la verificación de SSCC. Para ello, se cuenta 
+con los servicios contratados en 2023 para VMD y CPF. Adicionalmente, con fecha 10 de diciembre de 2025 se 
+recibió la oferta de servicios “Verificación y Ensayos de SSCC - SPIII y ECM”, la cual contempla la verificación de 
+control de tensión y control terciario de frecuencia. 
+ 
+Se espera retomar el proceso de verificación de SSCC y efectuar el envío de los informes 
+correspondientes al CEN una vez que se cuente con las condiciones operacionales adecuadas para la correcta 
+ejecución de las pruebas, de esta forma, se define el objetivo de hacer la entrega de los informes durante la 
+semana del 30 de noviembre del 2026.  
+ 
+Se adjunta documentación de respaldo de los procesos actualmente en gestión y desarrollo, la cual 
+da cuenta del avance de las actividades comprometidas, así como de las gestiones realizadas para su pronta 
+ejecución y cierre. 
+ 
+Sin otro particular, quedamos atentos a sus comentarios y a cualquier antecedente adicional que 
+estime pertinente para dar continuidad a este proceso. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eliseo López Nitsche 
+ 
+Encargado Titular 
+ 
+Planta Solar San Pedro III SpA 
+ 

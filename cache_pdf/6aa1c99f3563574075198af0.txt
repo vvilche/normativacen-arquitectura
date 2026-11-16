@@ -1,0 +1,103 @@
+ 
+ 
+Santiago, 08 de septiembre de 2026 
+EEAG-DER-050-2026 
+ 
+Señor 
+Rodrigo Espinoza Vallejos 
+Gerente de Operaciones 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+REF: Solicita aclaración sobre alcance y 
+responsabilidades de las empresas 
+distribuidoras en la integración de 
+PMGD al SITR. 
+ 
+De nuestra consideración: 
+ 
+Es de nuestro conocimiento que el Coordinador Eléctrico Nacional, por medio de la Carta DE 03450-
+26 de fecha 22 de mayo de 2026, ha solicitado a determinados PMGD’s ubicados en zonas de 
+congestión implementar y habilitar las señales necesarias para que estos se integren a su Sistema 
+de Información en Tiempo Real (SITR).  Para estos efectos, se ha indicado a dichos PMGD’s que 
+deberán implementar un enlace hacia el sistema de comunicación de la empresa distribuidora 
+correspondiente, de manera que el envío de sus medidas al SITR del Coordinador se realice a través 
+del enlace de comunicación entre la empresa distribuidora y el Coordinador. 
+ 
+Al respecto, estimamos necesario precisar el alcance de las obligaciones que corresponden a las 
+empresas distribuidoras en el marco de este requerimiento dirigido a los PMGD’s, particularmente 
+respecto de la implementación y financiamiento de los enlaces de comunicación, la transmisión de 
+las señales y las condiciones requeridas para su integración al SITR. 
+ 
+En particular, de acuerdo con lo establecido en el Artículo 10 del Anexo Técnico “Definición de 
+Parámetros Técnicos y Operativos para el Envío de Datos al SITR”, corresponde al PMGD 
+implementar el enlace hacia el sistema de comunicación de la empresa distribuidora. En este 
+sentido, entendemos que la empresa distribuidora cumple el rol de canal para el tránsito de las 
+señales hacia el Coordinador a través del sistema de comunicaciones que disponga. 
+ 
+En consideración de lo anterior, solicitamos al Coordinador confirmar y precisar los siguientes 
+aspectos asociados a la implementación operativa de este requerimiento: 
+ 
+1. 
+Se solicita precisar el alcance esperado por las empresas distribuidoras en la transmisión de las 
+señales hacia el Coordinador a través de su infraestructura de comunicaciones disponible a la 
+fecha del requerimiento.  En este contexto, en caso de requerirse implementaciones 
+adicionales, los costos deben ser asumidos por los PMGDs respectivos, incluyendo los costos 
+de adecuación de los sistemas de comunicaciones de la distribuidora para recibir y/o transmitir 
+la información.  Lo anterior, en atención a lo dispuesto en el artículo 89 bis del Decreto 
+Supremo N°88, de 2019, del Ministerio de Energía, el cual señala que los costos en que incurran 
+las empresas distribuidoras relacionados con la operación y monitoreo de los PMGD’s son de 
+cargo de estos últimos.  
+
+ 
+ 
+2. 
+De la misma forma, la distribuidora no es responsable del financiamiento del enlace que deba 
+realizar el propietario del PMGD, entre la ubicación de este hasta la distribuidora.  La validación 
+técnica de dichos enlaces o de cualquier infraestructura de comunicaciones que el propio 
+PMGD disponga para dar cumplimiento a la normativa tampoco corresponde a la empresa 
+distribuidora conforme a lo definido en letra c) del artículo 9 (mecanismos de seguridad y 
+bloqueo). Por otro lado, según los artículos 32 (pruebas de integración) y 33 (protocolo de 
+pruebas del Coordinador) del Anexo Técnico "Definición de Parámetros Técnicos y Operativos 
+para el Envío de Datos al SITR", es el Coordinador quien evalúa la adecuación de los 
+mecanismos de seguridad de los enlaces y quien aprueba y valida, mediante el respectivo 
+protocolo de pruebas de integración, las variables y enlaces de comunicación de cada 
+Coordinado, cuyo rol de este último, es ser el de canal de tránsito que corresponde a la 
+distribuidora conforme al Artículo 10 ya citado en esta carta. 
+ 
+3. 
+Se solicita precisar las responsabilidades y criterios operacionales asociadas a la disponibilidad, 
+calidad y ciberseguridad de las comunicaciones, distinguiendo expresamente aquellas que 
+corresponden al PMGD de aquellas gestionadas por la empresa distribuidora.  
+ 
+4. 
+Se solicita informar la planificación considerada para la implementación de este requerimiento, 
+incorporando criterios de gradualidad para la integración de estos PMGD’s en zonas de 
+congestión.  Lo anterior teniendo presente que las acciones necesarias y los plazos de asociados 
+al cumplimiento de esta exigencia recaen sobre el PMGD, por lo que las empresas distribuidoras 
+no tienen mayor control sobre el momento en que el PMGD realice estas adaptaciones.  De la 
+misma forma, se solicita considerar el volumen de instalaciones involucradas y precisamente, las 
+adecuaciones técnicas que pudiesen requerirse en los sistemas de comunicaciones de las 
+empresas distribuidoras para recibir y transmitir dichas señales. 
+ 
+5. 
+Se solicita confirmar la forma de cómo se canalizarán las eventuales instrucciones o 
+coordinaciones operativas asociadas a situaciones de congestión, de manera de delimitar 
+adecuadamente el rol de las empresas distribuidoras y evitar duplicidades o responsabilidades 
+no definidas.  
+ 
+ 
+Agradecemos desde ya su atención y quedamos disponibles para abordar estos antecedentes y 
+aclarar cualquier aspecto que resulte necesario. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Juan Meriches Riveros 
+Director Ejecutivo 
+Empresas Eléctricas A.G. 

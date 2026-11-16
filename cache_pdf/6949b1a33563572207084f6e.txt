@@ -1,0 +1,158 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 22 de diciembre de 2025 
+DE 08130-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 508 al 512 del año 2025. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 508-2025 al EAF 512-
+2025 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC > 2025 > Noviembre > Cálculo por EAF: 
+ 
+1. EAF 508-2025 
+2. EAF 509-2025 
+3. EAF 510-2025 
+4. EAF 511-2025 
+5. EAF 512-2025 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el viernes 26 de diciembre 
+de 2025, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. Víctor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Jorge Antonio Valladares Muñoz – Encargado Titular Luzlinares S.A. 
+Sr. Víctor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+Sr. Patricio Gutiérrez – Encargado Titular Minera Centinela. 
+Sr. Carolina Valderrama Campos – Encargado Titular Codelco (Corporación Nacional del Cobre).  
+Sr. Kandinsky Dintrans Perez – Encargado Titular Empresa Eléctrica de la Frontera S.A. 
+DBCD/DTE-SSCC/SGASO 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 509-2025 
+22-11-2025 
+Compañía General 
+de Electricidad S.A. 
+S/E Alhué 
+S/E Chocalan 
+S/E Santa Cruz 
+S/E Alcones 
+S/E Portezuelo 
+S/E Paniahue 
+S/E Marchigüe 
+S/E Mandinga 
+S/E Lihueimo 
+S/E Las Arañas 
+S/E La Esperanza 
+S/E El Peumo 
+S/E Santa Rosa 
+(CGE) 
+Parcial 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, para la S/E Santa Cruz no 
+fue presentada conforme a lo exigido por la Norma 
+Técnica de Compensaciones, pues no se entregó 
+dentro del plazo establecido ni adjunta al Informe de 
+Falla de 5 días. No obstante, respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que se incorpora íntegramente al 
+cálculo. 
+EAF 511-2025 
+23-11-2025 
+Luzlinares S.A. 
+"S/E Constitución 
+S/E San Javier" 
+Parcial 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido ni adjunta al Informe de Falla de 5 días. No 
+obstante, respecto del contenido recibido no se 
+formulan observaciones de calidad y/o formato, por lo 
+que se incorpora íntegramente al cálculo. 
+(*) Los EAFs N° 510 y 512 no tuvieron afectación de Empresas Distribuidoras. 
+(**) En el EAF N°511 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+(**) En el EAF N°508 la información recibida de la empresa distribuidora Empresa Eléctrica de la Frontera S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+ 

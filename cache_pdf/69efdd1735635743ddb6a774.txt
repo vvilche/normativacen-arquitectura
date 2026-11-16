@@ -1,0 +1,100 @@
+ 
+ 
+ 
+OR-000108-2026 
+ 
+Santiago, 24/04/2026 
+ 
+Señor 
+Ramón Castañeda 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+ 
+PRESENTE. 
+ 
+REFERENCIA: Estandarización de criterio considerada para la tensión en equipos sincronizadores. 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en el marco de la auditoría de servicios complementarios actualmente 
+en curso, se ha observado que ciertos criterios solicitados por el auditor difieren de los criterios 
+previamente aprobados por el Coordinador Eléctrico Nacional (CEN) en los Estudios de Coordinación 
+y Ajustes de Protecciones (ECAP). Esta situación ha evidenciado la necesidad de establecer un 
+criterio estandarizado, a fin de asegurar consistencia técnica, evitar divergencias interpretativas y 
+garantizar que los estudios realizados se mantengan plenamente alineados tanto con los 
+requerimientos del CEN como con los procesos de verificación y auditoría asociados. 
+ 
+Por lo anterior, quisiéramos precisar el criterio adoptado para la definición de la tensión utilizada 
+en dichos equipos. Dado que, a la fecha no ha sido indicado explícitamente cuál debe ser la tensión 
+de referencia para estos efectos. En consecuencia, el criterio aplicado de manera estandarizada ha 
+sido utilizar la tensión nominal de la barra, entendiendo que dicho valor representa un parámetro 
+estable y uniforme para el diseño y configuración de los sincronizadores. Reconocemos, sin 
+embargo, que este enfoque puede presentar ventajas o desventajas dependiendo del caso 
+específico. 
+ 
+No obstante a lo anterior, también es técnicamente válido considerar el uso de tensiones de 
+servicio, por cuanto estas se encuentran más próximas a la operación real de la red y se alinean con 
+los rangos operativos definidos en la normativa vigente. Sin embargo, este enfoque presenta menor 
+estandarización y mayor variabilidad, dado que las tensiones de servicio pueden cambiar con mayor 
+frecuencia conforme a los resultados del Estudio de Tensiones de Servicio bianual (ETS). 
+ 
+Adicionalmente, es importante informa que las capacidades de ruptura actualmente consideradas 
+corresponden a: 
+• 
+245 kV para instalaciones de 220 kV, y 
+• 
+550 kV para instalaciones de 500 kV. 
+ 
+ 
+ 
+Docusign Envelope ID: D07667C2-14F8-820A-8349-F7C9CB7F2175
+
+ 
+ 
+Por otra parte, en particular, quisiéramos señalar que, al revisar la observación 4.1.a) del documento 
+“DCO-SC-EV-RAN-A3_v2”, se subentiende que el Coordinador eléctrico Nacional (CEN) está 
+considerando la tensión nominal de la barra (154 kV), y no la tensión de servicio correspondiente 
+(156 kV).  
+ 
+Asimismo, quisiéramos destacar que, se considerará particularmente la tensión de servicio indicada 
+en ETS vigente como tensión de referencia, cuando la diferencia entre la tensión nominal del sistema 
+y la tensión de servicio presente una diferencia relevante, con el propósito de mantener coherencia 
+técnica y operativa. 
+Por lo anterior, hemos enviado los siguientes EAP con nuevas versiones considerando este criterio: 
+ 
+• 
+EAP 006-2025_V1 SE Tarapacá 
+• 
+EAP 007-2025_V1 SE Maitencillo 
+• 
+EAP 008-2025_V1 SE Diego de Almagro 
+• 
+EAP 017-2025_V1 SE Los Vilos 
+• 
+EAP 021-2025_V1 SE Temuco 
+• 
+EAP 022-2025_V1 SE Valdivia 
+• 
+EAP 083-2025_V1 SE Jasedric 
+• 
+EAP 013-2026 SE Alto Jahuel 
+• 
+EAP 016-2026 SE Polpaico 
+• 
+EAP 018-2026 SE Ancoa 
+ 
+Agradecemos de antemano su revisión y quedamos atentos a cualquier aclaración o instrucción 
+adicional que el CEN estime pertinente. 
+ 
+Sin otro particular, saludan atentamente a usted, 
+TRANSELEC S.A., 
+ 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 
+ 
+Docusign Envelope ID: D07667C2-14F8-820A-8349-F7C9CB7F2175

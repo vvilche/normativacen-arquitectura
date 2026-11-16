@@ -1,0 +1,94 @@
+ 
+Amanecer Solar SpA, a Brookfield Company   
+Suecia 172, piso 2, oficina 10, Providencia, Santiago, Chile CP 7510099 
+www.elera.com 
+Información de uso interno 
+Santiago, 2 de marzo de 2026 
+Carta NºASSPA26-789 
+ 
+Sra.  
+Raicit Guevara Díaz 
+Ingeniero de Análisis de la Operación 
+Gerencia de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Transmitido vía correo electrónico y  
+Sistema de Correspondencia del Coordinador 
+ 
+ 
+Ref.:  Apertura intempestiva del interruptor 52J8 de S/E Cardones; Carta DE 03634-24 
+ 
+ 
+De nuestra consideración: 
+ 
+En atención a su correo electrónico de fecha 26 de febrero de 2026, dirigido al Sr. Guillermo Loli 
+H., Director de Operación y Mantenimiento y Encargado Titular de Amanecer Solar SpA, nos 
+permitimos informar lo siguiente: 
+ 
+Toda la información relativa a este evento fue reportada en tiempo y forma por nuestro Centro 
+de Control “Enlasa” y debidamente cargada en la plataforma Neomante del CEN, asociada a la 
+falla de referencia. 
+ 
+Adjunto a la presente remitimos el respaldo de la información ingresada en la plataforma, 
+conforme al siguiente detalle: 
+ 
+ IF2024002417.pdf: Informe de Falla Preliminar asociado a PFV Llano de Llampos 
+ IF2024002418.pdf: Informe de Falla Preliminar asociado a S/E SECC Llano de Llampos 
+ IF2024002418.docx: Informe de Falla Definitivo (Informe de Falla 5to día) asociado a S/E 
+SECC Llano de Llampos 
+ COMTRADE.rar: Oscilógrafos del evento asociadas a S/E SECC Llano de Llampos 
+ EAF 239/2024: Estudio de Análisis de Falla Remitido por el CEN asociado a la falla. 
+Asimismo, informamos que las protecciones de la PFV Llano de Llampos actuaron 
+correctamente, antecedente que fue oportunamente ingresado en la plataforma del CEN con 
+fecha 2 de julio de 2024, en el Informe de Falla Preliminar correspondiente a la S/E 
+Seccionadora Llano de Llampos, como también en el informe final los COMTRADE que se 
+adjuntan. 
+
+ 
+ 
+Amanecer Solar SpA, a Brookfield Company   
+Suecia 172, piso 2, oficina 10, Providencia, Santiago, Chile CP 7510099 
+www.elera.com 
+2. 
+Información de uso interno 
+ 
+En virtud de lo anterior, y estimando que con lo expuesto se da respuesta íntegra a su 
+requerimiento, damos por atendida su solicitud.  
+No obstante, quedamos atentos a cualquier antecedente adicional que estime necesario. 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+Héctor M. Roche  
+Director Chile Portfolio 
+Representante Legal 
+ 
+cc:   
+Guillermo Loli guillermo.loli@elera.com 
+Henry Hernández henry.hernandez@elera.com 
+ 
+DAOP daop@coordinador.cl 
+ 
+Luis Calabran Guerrero Luis.Calabran@coordinador.cl 
+ 
+Alejandra Dominguez Rivera Alejandra.Dominguez@coordinador.cl 
+ 
+Adjuntos: 
+ 
+IF2024002417.pdf: Informe de Falla Preliminar asociado a PFV Llano de Llampos 
+ 
+IF2024002418.pdf: Informe de Falla Preliminar asociado a S/E SECC Llano de Llampos 
+ 
+IF2024002418.docx: Informe de Falla Definitivo (Informe de Falla 5to día) asociado a S/E SECC Llano de 
+Llampos 
+ 
+COMTRADE.rar: Oscilografias del evento asociadas a S/E SECC Llano de Llampos 
+ 
+EAF 239/2024: Estudio de Análisis de Falla Remitido por el CEN asociado a la falla. 
+ 
+Firma electrónica avanzada
+HECTOR MAURICIO ROCHE
+GALDAMES
+2026.03.02 13:26:50 -0300

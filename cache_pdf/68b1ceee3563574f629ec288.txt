@@ -1,0 +1,135 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 29 de agosto de 2025 
+DE 05402-25 
+ 
+Señor 
+Nicolás Correa F. 
+Encargado Suplente 
+Aela Generación S.A. 
+Presente 
+ 
+Ref.: 
+Costo 
+de Oportunidad 
+de 
+CRCA 
+PV+BESS Salvador. 
+ 
+[1] Carta AEL069C-25, de Aela Generación 
+S.A., de fecha 23 julio de 2025, “Solicita 
+Calculo de Oportunidad para CRCA PV+BESS 
+Salvador”.  
+ 
+Responde a Ingreso DE006966-25. 
+ 
+Sr. Encargado Suplente: 
+ 
+Me refiero a su carta de la Ref. [1], mediante la cual su representada solicita, de acuerdo 
+con lo indicado en los Artículos 37°, 112° y 113° del Reglamento de la Coordinación y 
+Operación del Sistema Eléctrico Nacional (DS125/2017), el cálculo del costo de 
+oportunidad de la Central Renovable con Capacidad de Almacenamiento (CRCA) 
+PV+BESS Salvador, cuya capacidad de almacenamiento es de 50 MW y 250 MWh,  bajo 
+la premisa de asegurar el despacho eficiente de la energía almacenada en la central, lo 
+que respetaría las disposiciones de la Norma Técnica de Coordinación y Operación 
+(NTCyO). 
+Al respecto, este Coordinador comparte con su representada que la componente de 
+almacenamiento de una CRCA corresponde a una instalación con Recursos 
+Gestionables. En ese contexto, sin perjuicio de que el artículo 37 del DS125/2017 
+prescribe que el Coordinador debe calcular y utilizar el costo de oportunidad de la energía 
+gestionable de aquellas instalaciones cuya capacidad de almacenamiento impliquen un 
+impacto relevante sobre la operación del sistema, es oportuno realizar algunas 
+aclaraciones a un par de afirmaciones realizadas por su representada en la Ref. [1].  
+• 
+En primer lugar, su representada señala que el artículo 112 y 113 del DS 125/2017 
+obligan al Coordinador a determinar un costo de oportunidad de una CRCA. Al 
+respecto, los referidos artículos se refieren al costo de la energía almacenada, el 
+cual corresponde al costo incurrido en el proceso de carga de la componente de 
+almacenamiento, el que es incorporado en la Lista de Prioridad de Colocación 
+para efecto de garantizar que el despacho de dicha energía se realiza de manera 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+económica y se reconozcan los costos incurridos por concepto de energía 
+almacenada 
+• 
+Por otra parte, su representada sostiene que el cálculo del costo de oportunidad 
+de la energía almacenada debe realizarse considerando la generación térmica que 
+efectivamente desplaza mediante la inyección de la CRCA. No obstante, el cálculo 
+del costo de oportunidad de una energía gestionable no se determina como 
+resultado del desplazamiento de centrales, sino se obtiene de un análisis de 
+sensibilidad, con el objetivo de determinar la variación en el costo global de 
+operación del SEN dada una variación incremental de la energía almacenada, por 
+ejemplo 1 MWh de la energía almacenada al inicio de un determinado intervalo de 
+tiempo, sujeto a las restricciones de la componente de almacenamiento, tales 
+como: balance de energía, capacidad  instalada y energía, eficiencias y sistema de 
+transmisión.  
+ 
+Respecto del registro de congestiones que se producen en el SEN, como fuera indicado 
+en comunicación y minuta citada por su representada, éstas se incorporan al RIO cuando 
+el Centro de Despacho y Control (CDC) evidencia que se produce un desacople de costos 
+marginales, el que queda registrado para el respectivo proceso de valorización. En el caso 
+de la operación del BESS Salvador, los cambios respecto de la operación programada 
+que puedan ser instruidos por el CDC quedan consignados en la bitácora para su 
+seguimiento y publicación en informe diario, al igual que otras instrucciones de operación 
+que emite el CDC o eventos ocurridos en el sistema, toda vez que la capacidad de 
+energía almacenada del BESS produce una holgura respecto del límite de transferencia 
+220/110kV. Por último, el Coordinador instruye la carga y descarga de CRCA y SA de 
+acuerdo con la normativa vigente, con el objetivo de contribuir a la seguridad del servicio y 
+operación a mínimo costo del sistema. Para estos efectos, se realizan las siguientes 
+acciones: 
+1. Programación de la Operación – Etapa Mediano Plazo (PMP): la cual incorpora 
+las CRCA y SA en operación y aquellas que cuentan con Declaración en 
+Construcción por parte de la Comisión Nacional de Energía. 
+2. Programación de la Operación – Etapa Corto Plazo (PCP): la cual incorpora las 
+CRCA y SA en operación y una modelación detallada del SEN, con el objetivo de 
+determinar un perfil óptimo de carga y descarga considerando la evolución del 
+consumo, energía afluente de recursos renovable, disponibilidad del parque 
+generador SEN en un horizonte de optimización de 168 horas, resultado que es 
+vinculante para la operación en tiempo real. 
+3. Programación de la Operación – Etapa Intradiaria (PID): la que, sobre la misma 
+base de modelación de la PCP, incorpora adicionalmente desviaciones relevantes 
+entre la operación real y la PCP, con el objetivo de ajustar la colocación del parque 
+generador, CRCA y SA, considerando la evolución del consumo, energía afluente 
+de recursos renovables, disponibilidad del parque generador SEN en un horizonte 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+de optimización de 48 horas, resultado que es vinculante para la operación en 
+tiempo real. 
+4. Despacho en tiempo real: el que corresponde a un despacho económico de 
+acuerdo con el Listado de Prioridad de Colocación, el cual ajusta el punto de 
+operación de los recursos de generación y energías gestionables para corregir 
+desviaciones entre la operación real y la PID (o PCP), debido al cambio en la 
+disponibilidad de centrales, variación energía afluente de recursos renovables, 
+simplificaciones de la modelación en la PCP o PID, entre otros factores. En el caso 
+de desviaciones en la CRCA y SA, la modificación del perfil de carga y descarga 
+considera el costo de la energía almacenada incorporado en el Listado de 
+Prioridad de Colocación para garantizar un despacho eficiente. 
+Finalmente, quedamos a vuestra disposición para aclarar aquellas dudas que pudieren 
+persistir. 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+          Marcelo Bobadilla M. 
+  
+ 
+ 
+   Gerente de Mercados 
+  Coordinador Eléctrico Nacional 
+ 
+JPA/RBS/REV/YCL 
+c.c.: 
+Sr. Ernesto Huber J., Director Ejecutivo. 
+Sr. Rodrigo Espinoza V., Gerente de Operaciones. 
+Sr. Juan Pablo Avalos V., Subgerente de Programación y Análisis Económico 
+Sr. Patricio Valenzuela V, Subgerente Operación en Tiempo Real. 
+Sr. Juan Marcos Donoso N., Jefe Dpto. Programación de la Operación. 
+ 

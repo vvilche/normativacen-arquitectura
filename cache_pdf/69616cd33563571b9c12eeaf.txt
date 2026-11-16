@@ -1,0 +1,80 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 09 DE ENERO 2026 
+COM-40/2026 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para diciembre del 
+2025. 
+ 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para junio 2025. 
+ 
+1) 
+El 11-12-2025 a las 08:30, el CDC activa la central TENO_DIESEL por CTF (+), recibiendo la 
+instrucición de finalización a las 08:47. Sin embargo, en el Registro de Instrucción de Operación 
+(RIO) se indica que la una instrucción de salida fue a las 09:09 afectando la evaluación 3 del 
+desempeño 
+de 
+la 
+activación. 
+Se 
+adjuntan 
+las 
+grabaciones 
+20251211084605 
+y 
+20251211084703 como evidencia de la hora de finalización real.  
+Se solicita que se modifique la hora de finalización de la activación y se recalculé el desempeño.  
+2) 
+El 15-12-2025 a las 23:18, el CDC activa la central TRAPEN_DIESEL por CTF (+), recibiendo la 
+instrucción de finalización el 16-12-2025 a las 00:11. Se ha identificado que en el archivo 
+“CTF_202512” la activación se divide en dos, la primera el 15-12-2025 entre 23:18 y 23:59, y  
+la segunda el 16-12-2025 entre las 00:00 y 00:11. A pesar que la segunda activción registrada 
+tiene un periodo menor a 15 minutos en el informe de desempeños, el periodo presenta un 
+desempeño 0. Se adjuntan las grabaciones 20251215231819 y 20251216001131 como 
+evidencia de las horas de inicio y fin de la activación  
+Se solicita eliminar la activación del día 16-12-2025 a las 00:00 y se modifique la hora de 
+finalización de la activación del día 15-12-2025 a las 23:18. 
+3) 
+El 29-12-2025 a las 07:07, El CDC activa la central TRAPEN_DIESEL por CTF (+), recibiendo la 
+instrucición de finalización a las 07:17. Sin embargo, en el Registro de Instrucción de Operación 
+se menciona que la una instrucción de entrada por el CDC fue a las 07:10 y la de salida a las 
+08:09 afectando la evaluación de desempeño. Se adjuntan las grabaciones 20251229070720 
+y 20251229071740 como evidencia de la hora real de inicio y fin de la activación.   
+
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+Se solicita que se modifique la hora de inicio y  fin de la activación y se defina un desempeño 
+del 100% considerando que el periodo de activación fue menor a 15 minutos.   
+ 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Andrés Guerra C. 
+Encargado Suplente 
+Enlasa Generación Chile S.A. 

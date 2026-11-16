@@ -1,0 +1,98 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 5 de noviembre de 2025 
+ 
+    
+DE 07121-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación Potencia Máxima de la Central PFV 
+Espiga de Oro, del coordinado Enerblan SpA. 
+[1] Carta S/N del Coordinado Enerblan SpA, Ref.: 
+“Informa envío de Informes de Potencia Máxima, 
+Parámetros de Partida y Detención y Mínimo Técnico 
+PFV Espiga de Oro – NUP 3561”, de fecha 19 de 
+diciembre de 2024. Ingreso DE07391-24. 
+[2] Carta DE00150-25, Ref.: “[NUP 3561] Informes 
+Técnicos de Parámetros Operacionales de la Central 
+PFV Espiga de Oro, del coordinado Enerblan SpA.”, de 
+fecha 8 de enero de 2025. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Potencia Máxima de la Central PFV Espiga de Oro, en conformidad con el Informe 
+Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+publicado en la página web del Coordinador mediante la comunicación de la Ref. [2]. Por 
+su parte, el Coordinador no tiene observaciones de carácter técnico al informe mencionado. 
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PFV 
+Espiga de Oro se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima del Parque Fotovoltaico PFV Espiga de Oro 
+Central/Unidad 
+Potencia Máxima 
+Bruta 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en la 
+central (1) 
+[MW] 
+Potencia Máxima 
+Neta (2) 
+[MW] 
+PFV Espiga de Oro 
+2,8041 
+0,0037 
+0,0835 
+2,7169 
+(1) Las pérdidas corresponden a la suma de las pérdidas en la red interna (0,0611 MW) y las 
+pérdidas en el transformador principal (0,0224 MW). 
+(2) Inyectada en la estructura N°27 de la línea Negrete – Parque Eólico La Esperanza 23 kV. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del día martes 11 de noviembre de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Documentos > Potencia Máxima > Pruebas de Potencia Máxima > 
+Central PFV Espiga de Oro > 2025 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GZV/PPF/AHM/adr 
+ 
+ 
+ 
+ 
+ 

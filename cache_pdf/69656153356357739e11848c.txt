@@ -1,0 +1,266 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 12 de enero de 2026 
+DE 00203-26 
+Señor 
+Juan Muñoz 
+Encargado Titular 
+Engie Energía Chile S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+del BESS Tocopilla (NUP 4832) 
+[1] Carta ENGIE N°364/2025 de Engie Energía Chile 
+S.A., Ref.: “Envío de informes de pruebas de 
+verificación de SSCC del Proyecto NUP 4832 BESS 
+Tocopilla”, de fecha 12 de diciembre de 2025. 
+Responde a Ingreso: DE12343-25 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación del Servicio Complementario (SC) enviado por su representada mediante 
+carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 
+4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el 
+proceso de verificación del SC de Control de Tensión (CT) del BESS Tocopilla (NUP 4832), 
+considerando sus modos de operación de carga y descarga del BESS. 
+ 
+Como resultado de este proceso, la instalación mencionada queda habilitada para la 
+prestación del mencionado servicio complementario a partir de las 00:00 del 15 de enero 
+de 2026 considerando los recursos indicados en el anexo a la presente carta. 
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de 
+prestación del CT del BESS Tocopilla se ha publicado en la siguiente ruta de la página web 
+del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > BESS Tocopilla 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/DIR/WJS/adr 
+c.c.:  
+Sr. Felipe Fleming – Encargado Suplente Engie Energía Chile S.A.
+
+ 
+1 los signos negativos hacen referencia a la convención utilizada para identificar la carga del BESS. 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC del BESS Tocopilla 
+1. 
+Identificación de las Instalaciones Verificadas: 
+A continuación, se presentan los siguientes parámetros operacionales que, a la fecha de 
+emisión de esta carta de verificación de SSCC, se encuentran en proceso de revisión por 
+el Coordinador Eléctrico: 
+a) BESS Tocopilla (modo descarga) 
+• 
+Potencia máxima bruta: 119,521 [MW] 
+• 
+Potencia máxima neta: 116,609 [MW] 
+• 
+Potencia mínima bruta: 1,940 [MW]  
+• 
+Potencia mínima neta: 1,000 [MW] 
+b) BESS Tocopilla1 (modo carga) 
+• 
+Potencia máxima bruta: -114,398 [MW] 
+• 
+Potencia máxima neta: -116,682 [MW] 
+• 
+Potencia mínima bruta: -1,540 [MW]  
+• 
+Potencia mínima neta: -2,500 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión 
+Control de Tensión 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+El BESS Tocopilla es una instalación Stand Alone. La instalación cuenta con un sistema 
+de control PPC, el cual permite el control de las variables eléctricas en el paño HT4 de 
+la S/E Central Tocopilla 110kV.  
+a) Control de Tensión: 
+Sin condiciones específicas. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte de Engie Energía Chile S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control de Tensión - modo descarga: 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Instalación 
+Recurso  
+Primario 
+       Tensión [pu]  
+ 
+Potencia [MW]  
+Potencia Reactiva [MVAr]  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+BESS Tocopilla  
+Stand Alone 
+Baterías 
+0,0 
+98,0 
+98,0 
+90,0 
+72,0 
+48,0 
+48,5 
+89,0 
+89,0 
+89,0 
+72,0 
+48,0 
+72,7 
+75,0 
+75,0 
+75,0 
+72,0 
+48,0 
+118,3 
+36,2 
+36,2 
+36,2 
+36,2 
+36,2 
+116,4 
+-36,2 
+-36,2 
+-36,2 
+-36,2 
+-36,2 
+68,4 
+-48,0 
+-84,0 
+-110,0 
+-110,0 
+-110,0 
+44,2 
+-48,0 
+-84,0 
+-120,0 
+-121,0 
+-121,0 
+0,0 
+-48,0 
+-84,0 
+-125,0 
+-130,0 
+-130,0 
+b) Control de Tensión - modo carga: 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Instalación 
+Recurso  
+Primario 
+        Tensión [pu] 
+  
+Potencia [MW]  
+Potencia Reactiva [MVAr]  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+BESS Tocopilla  
+Stand Alone 
+Baterías 
+-5,0 
+98,0 
+98,0 
+90,0 
+72,0 
+48,0 
+-46,5 
+89,0 
+89,0 
+89,0 
+72,0 
+48,0 
+-68,9 
+75,0 
+75,0 
+75,0 
+72,0 
+48,0 
+-112,2 
+36,2 
+36,2 
+36,2 
+36,2 
+36,2 
+-118,7 
+-36,2 
+-36,2 
+-36,2 
+-36,2 
+-36,2 
+-73,2 
+-48,0 
+-84,0 
+-110,0 
+-110,0 
+-110,0 
+-49,1 
+-48,0 
+-84,0 
+-120,0 
+-121,0 
+-121,0 
+-5,3 
+-48,0 
+-84,0 
+-125,0 
+-130,0 
+-130,0 
+ 
+ 
+ 
+ 

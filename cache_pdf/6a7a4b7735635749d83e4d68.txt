@@ -1,0 +1,56 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLY & ENERGY MANAGEMENT 
+ 
+Santiago, 10 de agosto de 2026 
+ENGIE N°258/2026
+ 
+Señor 
+Ramón Castañeda Ponce 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Envío de 
+informes de 
+pruebas 
+de 
+verificación de SSCC: CPF, CTF y CT, del Proyecto 
+NUP 4877 BESS Lile. 
+ 
+De nuestra consideración, 
+ 
+Mediante la presente comunicación, enviamos a Usted, los informes de pruebas de verificación de SSCC: Control  
+Primario de Frecuencia (CPF), Control Terciario de Frecuencia (CTF) y Control de Tensión (CT); del proyecto NUP 
+4877 BESS Lile para su revisión.  
+ 
+Dichos informes se listan a continuación: 
+ 
+- 
+EE-EN-2026-1857-R0_Informe_Final_SSCC_CPF_BESS_Lile.pdf 
+- 
+EE-EN-2026-1858-R0_Informe_SSCC_CTF_BESS_Lile.pdf 
+- 
+EE-EN-2026-1859-R0_Informe_Final_SSCC_CT_BESS_Lile.pdf 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+ 
+ 
+Juan Muñoz  
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+  
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 

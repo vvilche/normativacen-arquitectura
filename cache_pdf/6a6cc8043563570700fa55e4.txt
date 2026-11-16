@@ -1,0 +1,161 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 31 de julio de 2026 
+DE 05108-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Parámetro de Potencia 
+Máxima del Sistema de Almacenamiento de 
+Energía BESS Arica II. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 y 39 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Potencia Máxima del Sistema de Almacenamiento de Energía BESS 
+Arica II, en conformidad con el Informe Técnico recibido mediante la comunicación de la 
+Ref. [1] y el “Informe de Autorización de Conexión Definitivo, proyecto “BESS Arica II” de 
+la Ref. [2]  
+ 
+Se deja constancia que en el plazo establecido por el Artículo 23 del Anexo Técnico en 
+aplicación, no se recibieron observaciones de Coordinado alguno al informe técnico 
+publicado en la página web del Coordinador mediante la comunicación de la Ref. [3]. Por 
+su parte, el Coordinador efectuó observaciones de carácter técnico mediante la 
+comunicación de la Ref. [4], las cuales fueron subsanadas por el coordinado Engie Energía 
+Chile S.A. 
+ 
+Conforme a lo anterior, los valores de los parámetros técnicos de Potencia Máxima del 
+Sistema de Almacenamiento de Energía BESS Arica II, se presentan en la Tabla 1. 
+ 
+Tabla 1: Parámetros de Potencia Máxima del Sistema de Almacenamiento de Energía BESS 
+Arica II. 
+SAE 
+Configuración 
+Energía 
+ [MWh] 
+Potencia 
+Máxima 
+Bruta 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas 
+en la 
+central (1) 
+[MW] 
+Potencia 
+Máxima 
+Neta (2) 
+[MW] 
+BESS Arica II(3) 
+Modo descarga 
+150,0 
+25,3873 
+0,0970 
+0,3227 
+24,9676 
+Modo carga 
+- 
+-24,1640 
+0,0970 
+0,7144 
+-24,9754 
+(1) El detalle de las pérdidas se indica en Anexo 1 de la presente carta. 
+(2) Inyectada en la barra de 66 kV de S/E Arica. 
+(3) La capacidad aprobada para la instalación se indica en el Anexo 2. 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en la Tabla 1 entrarán en 
+vigencia a partir de las 00:00 horas del 5 de agosto de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > SAE 
+BESS Arica II > 2026 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PVV/CRV/PPF/PBA/cfp 
+ 
+Referencias 
+ 
+[1] Carta ENGIE N°224/2026 de Engie Energía Chile S.A., Ref.: “Responde a 
+observaciones a los Informes Técnicos de Potencia Máxima y Mínimo Técnico del Sistema 
+de Almacenamiento de Energía BESS Arica II (NUP 4437)”, de fecha 10 de julio de 2026. 
+Ingreso DE06109-26. 
+ 
+[2] DE03826-24, Ref.: “Informe de Autorización de Conexión Definitivo, proyecto “BESS 
+Arica II”. NUP 4437”, de fecha 29 de julio de 2024. 
+ 
+[3] Carta DE04003-26, Ref.: “[NUP 4437] Informe de Potencia Máxima del Sistema de 
+Almacenamiento de Energía BESS Arica II”, de fecha 11 de junio de 2026. 
+ 
+[4] Carta DE04360-26, Ref.: “Observaciones a los Informes Técnicos de Potencia Máxima 
+y Mínimo Técnico del Sistema de Almacenamiento de Energía BESS Arica II (NUP 4437)”, 
+de fecha 25 de junio de 2026. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ Anexo 1 
+ 
+Tabla 2: Desglose de las pérdidas asociadas a las pruebas de Potencia Máxima del Sistema 
+de Almacenamiento de Energía BESS Arica II 
+ 
+Central 
+Configuración 
+Pérdidas 
+totales [MW] 
+Pérdidas en el 
+transformador [MW] 
+Pérdidas en sistema 
+colector [MW] 
+BESS Arica II 
+Modo descarga 
+0,3227 
+0,0825 
+0,2402 
+Modo carga 
+0,7144 
+0,0960 
+0,6184 
+ 
+Anexo 2 
+ 
+Tabla 3: Valores aprobados en el proceso de Acceso Abierto del Coordinador vigente a la 
+fecha, conforme al “Informe de Autorización de Conexión Definitivo para la conexión del 
+proyecto BESS Arica II” 
+ 
+Proyecto 
+Propietario 
+Tipo de Proyecto 
+Potencia 
+Neta 
+Capacidad de 
+Almacenamiento [MW] 
+BESS Arica 
+II 
+Engie Energía 
+Chile S.A. 
+BESS 
+30,0 
+150,0 
+ 

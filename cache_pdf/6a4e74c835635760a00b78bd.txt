@@ -1,0 +1,85 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 08 de julio de 2026 
+DE 04584-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Parámetro de Potencia 
+Máxima de la Central PFV Chercán Solar. 
+ 
+[1] Carta DES-214/2023 de Enlasa Generación 
+Chile S.A., Ref.: “Informes EO PMG Chercán Solar 
+NUP 2295”, de fecha 28 de noviembre de 2023. 
+Ingreso DE07190-23. 
+[2] Carta DE05887-23, Ref.: “Informe Técnico de 
+Potencia Máxima de la Central PFV Chercán Solar, 
+del coordinado Enlasa Generación Chile S.A.”, de 
+fecha 22 de diciembre de 2023. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en los Artículos 24 y 39 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+parámetro de Potencia Máxima de la Central PFV Chercán Solar, en conformidad con el 
+Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 23 del Anexo Técnico en 
+aplicación no se recibieron observaciones de Coordinado alguno al informe técnico ya 
+mencionado, publicado en la página web del Coordinador mediante la comunicación de la 
+Ref. [2]. Por su parte, el Coordinador Eléctrico no tiene observaciones de carácter técnico 
+al informe mencionado. 
+ 
+Conforme a lo anterior, los valores de los parámetros técnicos de Potencia Máxima de la 
+Central PFV Chercán Solar, se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV Chercán Solar 
+Central/Unidad 
+Tipo de 
+Central 
+Potencia 
+Máxima Bruta 
+[MW] 
+SS/AA  
+[MW] 
+Pérdidas en la 
+central (1) [MW] 
+Potencia 
+Máxima Neta (2)  
+[MW] 
+PFV Chercán Solar 
+Solar 
+9,1204 
+0,0243 
+0,1036 
+8,9925 
+ 
+(1) Este valor incluye las pérdidas del sistema colector de media tensión (0,1036 MW). 
+(2) Potencia inyectada en la barra de 23 kV de la S/E Las Piedras. 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en la Tabla 1 entrarán en 
+vigencia a partir de las 00:00 horas del 10 de julio de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > Central 
+PFV Chercán Solar > 2026 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PVV/CRV/SGM/PGR/adr 

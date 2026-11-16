@@ -1,0 +1,84 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+ 
+Santiago, 15 de julio de 2026 
+DE 04774- 26 
+ 
+Juan Muñoz  
+Encargado Titular  
+ENGIE Energía Chile S.A.  
+Presente 
+ 
+ 
+Ref.: Respuesta DE05928-26 “Precisa 
+alcance de responsabilidad SITR y solicita 
+correcta asignación de señales asociadas 
+a Tap Desalant y S/E Desalant.” 
+ 
+Responde a: ingreso DE05928-26. 
+ 
+De mi consideración: 
+ 
+En atención a la carta individualizada en la referencia y considerando los antecedentes 
+revisados por este Coordinador, se estima pertinente precisar el criterio utilizado para la 
+asignación de responsabilidades respecto del Sistema de Información en Tiempo Real 
+(SITR) de las instalaciones “Tap Desalant” y “S/E Desalant”, con el objeto de aclarar las 
+materias planteadas en su presentación. 
+ 
+Sobre el particular, la responsabilidad por el cumplimiento de las obligaciones establecidas 
+en la normativa vigente respecto del envío y disponibilidad de información al SITR 
+corresponde a la Empresa Coordinada que figura como responsable de la respectiva 
+instalación en la plataforma Infotécnica del Coordinador. En consecuencia, dicha empresa 
+mantiene la responsabilidad regulatoria asociada a la instalación y al cumplimiento de las 
+obligaciones derivadas de ella, incluyendo lo relativo al envío y disponibilidad de la 
+información al SITR. 
+ 
+En virtud de lo anterior, el criterio aplicado por este Coordinador para la asignación a Engie 
+Energía Chile S.A. de la responsabilidad respecto de las señales asociadas a las 
+instalaciones Tap Desalant y S/E Desalant se fundamenta en la información oficial 
+registrada en la plataforma Infotécnica y en la calidad de Empresa Coordinada responsable 
+de dichas instalaciones. 
+ 
+Sin perjuicio de lo anterior, si esa empresa estima que existen señales cuya asignación no 
+se corresponde con la información registrada en Infotécnica o presenta inconsistencias, 
+este Coordinador se encuentra disponible para efectuar una revisión técnica conjunta de 
+dichos casos específicos, a fin de verificar los antecedentes y efectuar, de corresponder, 
+las regularizaciones que procedan. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Víctor Reyes Jara 
+Jefe de Departamento SCADA 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:   
+Sr. Rodrigo Espinoza, Gerente de Operación.  
+Sr. Diego Perales, Gerente de Legal y Regulación 
+Sr. Octavio Donoso, Gerente de Tecnología y Sistemas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

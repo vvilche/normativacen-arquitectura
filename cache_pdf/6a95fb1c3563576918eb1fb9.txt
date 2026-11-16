@@ -1,0 +1,156 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 31 de agosto de 2026 
+DE 05820-26 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 362 al 366 de 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 362-2026 al EAF 366-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Indisponibilidad > 
+Indicadores NTISyC > 2026 > Julio > Cálculo por EAF: 
+ 
+1. EAF 362-2026 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Indisponibilidad > 
+Indicadores NTISyC > 2026 > Agosto > Cálculo por EAF: 
+ 
+2. EAF 363-2026 
+3. EAF 364-2026 
+4. EAF 365-2026 
+5. EAF 366-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el jueves 3 de septiembre 
+de 2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. Juan Carlos Albala – Encargado Titular Transmisora Melipeuco S.A. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Empresa Eléctrica de la Frontera S.A. 
+Sr. Juan Alfonso Veloso Molina – Encargado Titular Sistema de Transmisión del Sur S.A. 
+Sr. Kandinsky Dintrans Perez – Encargado Titular Sociedad Austral de Electricidad S.A. 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Iván Fuentealba Carrasco – Encargado Titular Cooperativa de Consumo de Energía Eléctrica Chillán Ltda. 
+DBCD/DTE-SSCC/SGASO 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras 
+ 
+EAF (*) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 363-2026 
+01-08-2026 
+Cooperativa de 
+Consumo de 
+Energía Eléctrica 
+Chillán Ltda. 
+S/E Los Tilos 
+Bulnes 
+S/E Tres 
+Esquinas 
+Si 
+Si 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. No obstante, respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que se incorpora íntegramente al 
+cálculo. 
+EAF 366-2026 
+01-08-2026 
+Sociedad Austral de 
+Electricidad S.A. 
+S/E Picarte 
+S/E Corral 
+Parcial 
+Si 
+Los siguientes cliente libres en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+ADM DEL CENTRO COM ALTO LAS CONDES LTDA 
+(76166801) BA S/E PICARTE 23KV B2 
+ 
+Enviar antecedentes corregidos, indicando para 
+cada cliente libre la respectiva clave de balance. 
+(*) En los EAF N°362 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+(*) En los EAF N°364 y 365 la información recibida de la empresa distribuidora Empresa Eléctrica de la Frontera S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+ 
+ 

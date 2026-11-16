@@ -1,0 +1,358 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 24 de abril de 2026 
+DE 02775-26 
+ 
+Señor 
+Daniel Tapia 
+Encargado Titular 
+Parque Eólico Antofagasta SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación de los 
+Servicios Complementarios de Control Primario de 
+Frecuencia y Control Terciario de Frecuencia de la 
+central PE Antofagasta (NUP 1794). 
+Responde a Ingreso DE02190-26 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los Servicios Complementarios 
+(SSCC) de Control Primario de Frecuencia (CPF) y Control Terciario de Frecuencia (CTF) 
+de la central PE Antofagasta. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario a partir de las 00:00 del 30 de abril de 2026, 
+considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF y CTF de la central PE Antofagasta se encuentran publicados en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia: 
+1. > Control Primario de Frecuencia > Central PE Antofagasta 
+2. > Control Terciario de Frecuencia > Central PE Antofagasta 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+ 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2], siendo el plazo 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+para esta acción de 30 días corridos contados desde la fecha de emisión de la 
+presente carta. Pese a no contar con las señales necesarias para evaluar el 
+desempeño en la prestación, la central PE Antofagasta quedará habilitada para 
+prestar el Servicio Complementario (SC) de Control Primario de Frecuencia (CPF), 
+pudiendo ser instruida por este Coordinador para prestar dicho servicio 
+complementario, a partir de la fecha antes señalada. En dicho caso, la evaluación 
+de estas instrucciones será “No Verificable”.  
+• 
+Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, su representada podrán proponer el utilizar medios 
+alternativos para poder realizar la evaluación de desempeño de la prestación del 
+SC, los que deberán ser evaluados y aprobados previamente por el Coordinador, de 
+cumplir condiciones requeridas. 
+ 
+Finalmente, la central mencionada podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+ 
+ 
+En el caso de que su representada tenga alguna consulta sobre el procedimiento de 
+Subastas para Control de Frecuencia, 
+deberá dirigirla al correo electrónico 
+programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PGR/ycl  
+c.c.: 
+Sr. Rodrigo Paredes – Encargado Suplente Parque Eólico Antofagasta SpA 
+ 
+Referencias 
+ 
+[1] Carta 050326-RRC_PEAN-CEN-94 de Parque Eólico Antofagasta SpA, Ref.: “Entrega 
+Informes de Control de Tensión, Control Primario de Frecuencia y Control Terciario de 
+Frecuencia, proyecto Parque Eólico Antofagasta con NUP 1794”, de fecha 05 de marzo de 
+2026. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+  
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva CF 2025.07.31 > Protocolo de envío de registros Potencia/Frecuencia para 
+la evaluación del CPF 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la 
+Central PE Antofagasta 
+1. 
+Identificación de las Instalaciones Verificadas: 
+A continuación, se describen los parámetros operacionales preliminares considerados en 
+el proceso de verificación, los que se encuentran en proceso de aceptación por el 
+Coordinador Eléctrico: 
+a) Central PE Antofagasta 
+• 
+Potencia máxima bruta: 356,950 [MW] 
+• 
+Potencia máxima neta: 350,793 [MW] 
+• 
+Potencia mínima bruta: 1,401 [MW]  
+• 
+Potencia mínima neta: 0,999 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia 
+• 
+El estatismo y banda muerta pueden ser ajustados por el operador desde el sistema 
+SCADA. 
+• 
+El estatismo (R) actual de la instalación se encuentra ajustado al 3,63%, respecto a 
+una potencia base igual a la potencia nominal de la central, correspondiente a 364 
+[MW]. 
+• 
+Cada vez que se solicite la prestación del CPF la central debe contar con su ajuste 
+de BM en 25 mHz.  
+• 
+Se establece como límite inferior de regulación el MT de 36,4 MW, valor que permite 
+mantener la totalidad de los aerogeneradores en servicio. 
+b) Control Terciario de Frecuencia 
+• 
+El valor de gradiente de carga puede ser modificado por el operador y se aclara que 
+puede ser configurada sin impedimentos dentro del rango de 0 a 20% Pnom/min. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Parque Eólico 
+Antofagasta SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías.  
+a) Control Primario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+Central PE Antofagasta 
+Recuso Primario 
+Eólico 
+ 
+ 
+ 
+ 
+  
+  
+  
+Valor determinado 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2% - 8% 
+Estatismo 
+3,63% 
+Rango de ajuste Banda muerta [mHz] 
+0 – 200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+356,950 
+Límite de regulación inferior [MW] (3) 
+36,4 
+Aportes (4) 
+BM = 25 [mHz] 
+R = 3,63% 
+10  
+segundos 
+Aporte +0,2[Hz] [MW] 
+-34,755 
+Aporte -0,2[Hz] [MW] 
+32,136 
+Aporte +0,7[Hz] [MW] 
+-103,074 
+Aporte -0,7[Hz] [MW]  
+78,088 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-33,948 
+Aporte -0,2[Hz] [MW] 
+35,444 
+Aporte +0,7[Hz] [MW] 
+-135,642 
+Aporte -0,7[Hz] [MW]  
+108,604 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia máxima bruta en proceso de aceptación por el Coordinador. 
+(3) Corresponde a la potencia activa mínima bruta con todos los aerogeneradores en funcionamiento. 
+(4) Aportes para CPF+ y CPF- en ±0,2 [Hz] determinados con una consigna de 250 [MW] y en ±0,7 [Hz] determinados 
+con una consigna de 182 [MW]. El aporte de la central es uniforme en todo su rango de operación. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+b) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+Central PE 
+Antofagasta 
+Eólico 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+18,200 
+Bajada 
+18,200 
+Tasa máxima de 
+operación [MW/min] (1) 
+Subida 
+72,800 
+Bajada 
+72,800 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+Bajada 
+<5 
+Aporte CTF [MW] (2) 
+Subida 
+182,0 
+Bajada 
+-182,0 
+Límite de regulación superior [MW] 
+(3) 
+356,950 
+Límite de regulación inferior [MW] 
+(3) 
+1,401 
+(1) Tasa de subida y bajada de carga máxima corresponde al 20% de Pnom/min. 
+(2) La reserva se determina como la tasa de operación de la central en [MW/min] multiplicada por 10 [min], correspondiente 
+a la diferencia entre el tiempo de inicio de activación y el tiempo total de activación del CTF. 
+(3) Los límites de regulación inferior y superior, correspondientes al mínimo técnico y a la potencia máxima bruta, y el 
+aporte máximo de CTF, podrán verse modificados si se actualizan los parámetros operacionales de la central. 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+Central PE 
+Antofagasta 
+Eólico 
+Tiempo partida a sincronización 
+[min] 
+2,300 
+Tiempo sincronización a mínimo 
+técnico [min] 
+0,083 
+Reserva Fría [MW] (1) 
+230,61 
+(1) CTF frío = min {(15 minutos - tiempo entre orden de partida y MT} * tasa de subida de carga + MT; Pmax neto}. 
+ 

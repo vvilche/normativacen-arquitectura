@@ -1,0 +1,77 @@
+ 
+ 
+ 
+ 
+ 
+OP 059-26 
+   FECHA:   23/04/2026 
+                  Pág.      1 de 1 
+ 
+ 
+ 
+Sr.     
+PATRICIO VALENZUELA V.  
+SUBGERENTE DE ANÁLISIS Y SOPORTE OPERACIONAL 
+COORDINADOR ELÉCTRICO NACIONAL 
+Dirección 
+Av. Parque Isidora 1061, Pudahuel - Santiago 
+Teléfono 
+(56) (2) 424 6300 
+Fax 
+(56) (2) 424 6301 
+Remite 
+ 
+ADRIAN GUZMAN M 
+ENCARGADO CEN 
+Enel Generación Chile 
+Dirección 
+ 
+Roger de Flor N°2725 – Piso 18 – Las Condes – Santiago 
+Teléfono 
+ 
+(56) (2) 2630 9000 
+Fax 
+ 
+(56) (2) 2635 4087 
+ 
+MATERIA: 
+OBSERVACIONES A INDICADORES DE DESEMPEÑO DE SERVICIOS 
+COMPLEMENTARIOS (ENERO A MARZO DE 2026). CORRECCIÓN DE 
+REGISTROS CPF DE CENTRAL ATACAMA. 
+ 
+REF: 
+CARTA DE02690-26: INDICADORES DE DESEMPEÑO DE SERVICIOS 
+COMPLEMENTARIOS PRESTADOS DURANTE EL MES DE MARZO DE 2026 
+(SEGUNDA VERSIÓN). 
+ 
+De mi consideración, 
+ 
+Me refiero a los archivos de registros CPF entregados durante los meses de enero a marzo de 2026 
+para la evaluación del desempeño del servicio de control de frecuencia de la Central Atacama. 
+ 
+Se detectó que los archivos cargados en dichos meses presentaron errores en la data de consigna 
+de carga informada, lo que ocasionó que el desempeño de dichas unidades fuera evaluado 
+incorrectamente. 
+ 
+En consecuencia, se generaron archivos con la información corregida para las unidades TG1A, 
+TG1B y TG2A (enero a marzo), y para TG2B (enero a febrero, quedando pendiente marzo). Dichos 
+archivos se entregan a través de un anexo junto con esta carta y del siguiente vínculo: 
+ 
+https://drive.google.com/file/d/1gJrC1Sp9bDjy5cuk8fNEW0h7BXUdW3C1/view?usp=sharing 
+ 
+Agradeceremos considerar estos archivos corregidos en una tercera versión del cálculo de los 
+indicadores de desempeño de estos meses, y que sean utilizados en la futura reliquidación del 
+Balance de SSCC del primer semestre de 2026. 
+ 
+Sin otro particular, y esperando una favorable acogida, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adrian Guzman M. 
+Encargado CEN 
+ENEL GENERACIÓN CHILE S.A 
+ 

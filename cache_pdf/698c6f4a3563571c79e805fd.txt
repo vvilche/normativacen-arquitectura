@@ -1,0 +1,231 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 11 de febrero de 2026 
+DE 00992-26 
+Señor 
+Miguel Buzunariz 
+Encargado Titular 
+Enel Generación Chile S.A. 
+Enel Green Power S.A. 
+Presente 
+Ref.: Cumplimiento de disponibilidad de señales 
+SITR para la prestación de SSCC de Enel Generación 
+Chile S.A. y Enel Green Power S.A. 
+ 
+De mi consideración: 
+ 
+Me refiero al cumplimiento de disponibilidad de las señales Sistema de Información de 
+Tiempo Real (SITR), de acuerdo con lo establecido en el Artículo 7 del Anexo Técnico de 
+la Norma Técnica de Seguridad y Calidad de Servicio: “Definición de Parámetros Técnicos 
+y Operativos para el Envío de Datos al SITR” que exige que “El equipamiento que deberán 
+disponer los Coordinados para establecer el enlace de datos con el Coordinador, deberá 
+garantizar una disponibilidad mensual de la información, tanto en el SITR de cada 
+Coordinado como en el del Coordinador, mayor o igual a 99,5%.”. En este contexto, 
+mediante carta de la Ref. [1], el Coordinador solicitó a su representada un plan de trabajo 
+conducente a la normalización de la disponibilidad de las señales SITR de sus 
+instalaciones. 
+ 
+Según la información disponible en los registros SCADA de su representada, es posible 
+constatar que las señales indicadas en la tabla del Anexo 1 de la presente carta, no cuentan 
+con el nivel mínimo de disponibilidad exigido por la normativa vigente. Al respecto, informo 
+lo siguiente:  
+- 
+Mediante carta de la Ref. [2], su representada comprometió un plan de 
+normalización de la disponibilidad de sus señales SITR con un plazo de resolución 
+en mayo de 2025.  
+- 
+Posteriormente, en mayo 2025, mediante carta de la Ref. [3] su representada 
+informó estado de mejora de la disponibilidad de las señales SCADA de sus 
+centrales y comprometió nueva fecha de normalización para diciembre de 2025. 
+- 
+Adicionalmente, en diciembre mediante la carta de la Ref. [4] este coordinador 
+solicita el cumplimiento de la calidad de las señales de Potencia Activa Disponible 
+(MW) en sus centrales ERV, a la cual el coordinado insiste mediante la carta de la 
+Ref. [5] que no presenta tales indisponibilidades. En la actualidad esta señal sigue 
+en condición de mala calidad según los antecedentes enviados en la Ref. [6]. 
+- 
+A la fecha, no se ha recibido el reporte del estado de normalización de la 
+disponibilidad SITR de sus instalaciones, constatando que estas se mantienen 
+indisponibles. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+De manera adicional a lo planteado, en el Anexo 1 de la presente comunicación, se lista un 
+grupo de señales asociadas a las instalaciones de su representada, que son requeridas 
+para la evaluación y cálculo del desempeño de la prestación de SSCC, y que dada su mala 
+calidad en los últimos 6 meses, se encuentran calificadas como “No Verificables”, lo que 
+implica que no es posible evaluar el desempeño de las instalaciones, asignándole un valor 
+de 0%. Lo anterior, incumple los requerimientos del Artículo 7 del Anexo Técnico “Definición 
+de Parámetros Técnicos y Operativos para el Envío de Datos al SITR” ya mencionado, 
+debiendo ser normalizadas en un plazo no mayor a 5 días corridos, según lo estable el 
+Artículo 5-8 de la Norma Técnica de Servicios Complementarios. 
+ 
+Considerando lo planteado, y con el fin de normalizar las señales SITR de sus instalaciones, 
+solicito a su representada informar, mediante carta enviada a través del sistema de 
+Correspondencia del Coordinador Eléctrico y con copia al correo electrónico 
+tec.scada@coordinador.cl y pgp.sitr@coordinador.cl, lo siguiente: 
+a) Informar el estado de avance de su plan comprometido mediante carta de la Ref. [2] y 
+[3], así como las medidas adoptadas o por adoptar, y que sean necesarias para cumplir 
+con la disponibilidad exigida por la normativa. El plan de mejoras e implementación de 
+las medidas deberá considerar al menos los siguientes hitos, teniendo una fecha de 
+termino no superior al 27 de febrero de 2026: 
+ 
+Ítem 
+Nombre de la tarea 
+Fecha Inicio 
+Fecha Fin 
+1 
+Levantamiento de situación actual 
+ 
+ 
+2 
+Desarrollo de los trabajos 
+ 
+ 
+3 
+Pruebas de normalización 
+ 
+ 
+4 
+Finalización de la normalización 
+ 
+27-02-2026 
+ 
+b) En su plan de trabajo deberá priorizar la normalización de las señales contenidas en 
+Anexo 1, requeridas para el cálculo del desempeño de la prestación de SSCC, las 
+cuáles deben ser resueltas en un plazo de 5 días corridos, contado a partir de la fecha 
+de emisión a la presente comunicación, es decir el 16 de febrero 2026. 
+ 
+Lo requerido en los literales a) y b) deberá ser enviado a más tardar el 16 de febrero de 
+2026. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Referencias 
+[1] Carta DE00926-25, Ref.: “Cumplimiento de disponibilidad del SITR según NT SyCS”, de 
+fecha 11 de febrero de 2025.  
+[2] Carta OP-54-25 del Coordinado Enel Generación Chile S.A., Ref.: “Respuesta Carta 
+DE00926-25 Cumplimiento de Disponibilidad del SITR según NT SyCS”, de fecha 07 de 
+marzo de 2025. Ingreso DE01719-25. 
+[3] Carta OP-152-25 del Coordinado Enel Generación Chile S.A., Ref.: “Respuesta Carta 
+DE00926-25 Cumplimiento de Disponibilidad del SITR según NTSyCS”, de fecha 30 de 
+mayo de 2025. Ingreso DE05426-25. 
+[4] Carta DE08408-25, Ref.: “Solicita cumplir con la calidad exigida en el envío al SITR del 
+Coordinador de la señal de Potencia Disponible para parques ERV.”, de fecha 30 de 
+diciembre 2025. 
+[5] Carta EGP 006-26 del Coordinado Enel Green Power Chile S.A., Ref.: “SOLICITA 
+CUMPLIR CON LA CALIDAD EXIGIDA EN EL ENVÍO AL SITR DEL COORDINADOR DE 
+LA SEÑAL DE POTENCIA DISPONIBLE PARA PARQUES ERV.”, de fecha 16 de enero de 
+2026. Ingreso DE00500-26. 
+[6] Carta DE00657-26, Ref.: “Respuesta a carta ENEL Green Power (EGP 006-26) Ingreso: 
+DE00500-26”., de fecha 19 de enero 2026. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo 1: Señales SCADA que afectan el cálculo del desempeño de la 
+prestación de SSCC por la mala calidad a la fecha de envío de la presente 
+carta 
+ 
+Coordinado 
+Central 
+TAG 
+IRN 
+Enel Generación Chile S.A. 
+TER ATACAMA CC1-TV 
+CATACAM   15   TG1A   Q 852637221 
+Enel Generación Chile S.A. 
+TER ATACAMA CC1-TV 
+CATACAM   15   TG1A   V 852638221 
+Enel Generación Chile S.A. 
+TER ATACAMA CC1-TV 
+CATACAM   15   TG2A   Q 852532221 
+Enel Generación Chile S.A. 
+TER ATACAMA CC1-TV 
+CATACAM   15   TV2C   Q 852409221 
+Enel Generación Chile S.A. 
+TER ATACAMA CC1-TV 
+CATACAM   15   TV2C   V 852410221 
+Enel Generación Chile S.A. 
+TER ATACAMA CC1-TV 
+CATACAM   15   TG2B   Q 852358221 
+Enel Generación Chile S.A. 
+TER ATACAMA CC1-TV 
+CATACAM   15   TG2B   V 852359221 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN1   V 
+581038211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN2   V 
+581029211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN3   V 
+581014211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN1   P 
+581036211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN2   P 
+581028211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN3   P 
+581012211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN1   Q 
+581037211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN2   Q 
+581052211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN3   Q 
+581013211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN4   Q 
+581044211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN5   Q 
+581025211 
+Enel Generación Chile S.A. 
+TER TALTAL 
+PAPOSO    15   GEN1   Q 298130211 
+Enel Generación Chile S.A. 
+TER TALTAL 
+PAPOSO    15   GEN1   V 
+298131211 
+Enel Generación Chile S.A. 
+TER TALTAL 
+PAPOSO    15   GEN2   Q 297860211 
+ 
+ 

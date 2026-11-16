@@ -1,0 +1,196 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 19 de mayo de 2026 
+DE 03396-26 
+ 
+Señor 
+Javier Moraga 
+Encargado Titular 
+Javiera SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Control Secundario de Frecuencia e integración 
+al Despacho Económico de la central PFV 
+Javiera. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), ha finalizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+de la central PFV Javiera. 
+ 
+Como resultado de este proceso, la instalación mencionada queda habilitada para la 
+prestación del mencionado servicio de CSF a partir de las 00:00 del día 20 de mayo de 
+2026, considerando los recursos indicados en el anexo a la presente carta. 
+ 
+Por otra parte, para efectos de elaborar el correspondiente Informe Técnico de Verificación 
+según lo establecido en la Guía de Verificación de Control de Frecuencia, solicito a Ud. 
+enviar a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 18 de 
+junio de 2026, la siguiente información asociada al parque: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+ 
+El reporte técnico que justifica la verificación de la capacidad de la prestación del SC de 
+CSF de la central PFV Javiera se encuentra publicado en la siguiente ruta de la página web 
+del Coordinador Eléctrico: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Secundario de Frecuencia > Central PFV Javiera 
+ 
+Dado lo anterior, para que la central PFV Javiera pueda participar de las subastas de CSF, 
+se deberá completar el proceso de solicitud de incorporación a la plataforma de subastas. 
+Para ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026) 
+ 
+Sin perjuicio de lo anterior, la instalación en asunto podrá ser instruida de manera directa 
+por el Coordinador Eléctrico Nacional en la prestación del Control Secundario de 
+Frecuencia. 
+ 
+En el caso de que su representada tenga alguna consulta sobre el procedimiento de 
+Subastas para Control de Frecuencia, estas pueden ser dirigidas a la casilla de correo 
+electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+C.c.: 
+Sr. Carlos Leiva – Encargado Suplente Javiera SpA 
+DCO/DMAP 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PFV Javiera 
+1. 
+Identificación de las Instalaciones Verificadas 
+A continuación, se describen los parámetros operacionales, que a la fecha de emisión de 
+esta carta de verificación de SSCC, se encuentran aceptados por el Coordinador Eléctrico: 
+a) Central PFV Javiera 
+• 
+Potencia máxima bruta: 69,02 [MW] 
+• 
+Potencia máxima neta: 63,30 [MW] 
+• 
+Potencia mínima bruta: 3,45 [MW]  
+• 
+Potencia mínima neta: 3,17 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Secundario de Frecuencia 
+• 
+La verificación del CSF se realizó con el CPF habilitado y deshabilitado, utilizando 
+para este efecto un estatismo de 4% y una banda muerta de 25 mHz. Sin embargo, 
+se levantó de que no es posible la prestación de ambos servicios de manera 
+conjunta debido a que durante la prueba se constató la pérdida de seguimiento de 
+la central respecto a las consignas del AGC, supeditándose completamente al CPF. 
+Por lo tanto, a la fecha la instalación solo puede prestar CPF o CSF de forma 
+independiente, pero no ambos simultáneamente.  
+• 
+Para la prestación del SC de Control Secundario de Frecuencia se consideran todos 
+los inversores en servicio. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado para la central PFV 
+Javiera. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en página siguiente. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Secundario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Central 
+PFV 
+Javiera 
+ 
+Solar 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+12 
+ 
+Bajada 
+12 
+ 
+Aporte CSF [MW] (1) 
+Subida 
+59,85 
+ 
+Bajada 
+-59,85 
+ 
+Límite de regulación superior [MW]  
+63,3 
+ 
+Límite de regulación inferior [MW] 
+3,45 
+ 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a potencia activa máxima y mínima en el 
+POI, podrán verse modificados si se actualizan los parámetros operacionales de la central PFV Javiera. 
+ 

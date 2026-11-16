@@ -1,0 +1,96 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 06 de noviembre de 2025 
+DE 07166-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de Parámetros de Potencia 
+Máxima Central PFV Puerto Seco Solar. 
+ 
+De mi consideración: 
+ 
+En Cumplimiento con lo establecido en los Artículos 24 y 39 del Anexo Técnico “Pruebas 
+de Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y 
+Calidad de Servicio, comunico a Ud. La aceptación por parte del Coordinador Eléctrico 
+Nacional del valor de Potencia Máxima de la Central PFV Puerto Seco Solar, en 
+conformidad con el Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo de los establecido por el Artículo 23 del 
+Anexo Técnico en Aplicación, no se recibieron observaciones de Coordinado alguno al 
+Informe Técnico indicado, publicado en la página web del Coordinador mediante la 
+comunicación de la Ref. [2]. Por su parte, el Coordinador no tiene observaciones de carácter 
+técnico al informe mencionado.  
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PFV 
+Puerto Seco Solar se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV Puerto Seco Solar 
+Central/Unidad 
+Potencia 
+Máxima Bruta 
+[MW] 
+SS. AA 
+[MW] 
+Pérdidas en 
+la central (1) 
+[MW] 
+Potencia Máxima 
+Neta (2) 
+[MW] 
+PFV Puerto seco Solar 
+9,0900 
+0,0100 
+0,0800 
+9,0000 
+(1) Al no existir un transformador de poder asociado, el valor total de pérdidas en la central corresponde a las 
+pérdidas en la red de media tensión de la central. 
+(2) Potencia inyectada en la barra de 23 kV de S/E Calama. 
+ 
+Al respecto, comunico a Ud., que los parámetros de mínimo técnico de la Central PFV 
+Puerto Seco Solar, entrarán en vigencia a partir de las 00:00 horas del día 11 de 
+noviembre de 2025. 
+ 
+El informe técnico de Potencia máxima de la Central PFV Puerto Seco Solar, que contiene 
+la justificación de los parámetros indicados anteriormente, puede ser descargado en la 
+siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > Potencia 
+Máxima > Pruebas de Potencia Máxima > Central PFV Puerto Seco Solar > 2025 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+CRV/SGM/RSM/adr 
+ 
+ 
+Referencias 
+ 
+[1] Carta S/N del Coordinado Calama Solar 2 SpA, Ref.: “Entrega Informe Técnico de 
+Determinación de Parámetro de Potencia Máxima de Parque Fotovoltaico Puerto Seco 
+Solar”, de fecha 10 de septiembre de 2025. Ingreso DE09248-25 
+ 
+[2] Carta DE06006-25, Ref.: “Informe Técnico de Potencia Máxima de la central PFV Puerto 
+Seco Solar”, de fecha 25 de septiembre de 2025. 

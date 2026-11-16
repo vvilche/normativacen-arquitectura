@@ -1,0 +1,87 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 01 de septiembre de 2025 
+DE 05374-25 
+Señor 
+Eduardo Verdugo 
+Encargado Titular  
+AES Andes S.A. 
+Presente 
+Ref.: Aprueba Protocolos para los Ensayos de 
+Verificación de Control de Tensión de la Central 
+HP Volcán. 
+[1] Carta 0102-AES-2025 de AES Andes S.A., 
+Ref.: “Envío de protocolo de verificación de 
+SSCC CT, Central Volcán”, de fecha 13 de 
+agosto de 2025.  
+[2] Carta DE05925-24, Ref.: “Modificación al 
+ingreso de solicitudes de pruebas de centrales 
+generadoras en plataforma Neomante”, de 
+fecha 11 de noviembre de 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Responde a Ingreso DE08339-25. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en el 
+Artículo 8 del Anexo Técnico “Verificación de Instalaciones para la prestación de SSCC” de 
+la Norma Técnica de Servicios Complementarios (NTSSCC), se han revisado los 
+antecedentes entregados por su representada mediante comunicación de la Ref. [1]. 
+ 
+Al respecto, comunicamos a Ud. que este Coordinador, aprueba los Protocolos para los 
+Ensayos de Verificación del Servicio Complementario de Control de Tensión (CT) a prestar 
+por la Central HP Volcán. 
+ 
+Considerando lo indicado, y con la finalidad de continuar con el proceso de Verificación de 
+los Servicios Complementarios, solicito a usted lo siguiente: 
+• 
+Informar a más tardar el 08 de septiembre de 2025, la fecha de realización de los 
+ensayos. 
+• 
+Informar las curvas de carga asociadas a las pruebas según carta de la Ref. [2], 
+ingresándolas en la correspondiente solicitud de trabajo del sistema Neomante, con 
+estado operativo “PDO”. Adicionalmente, esta información, debe ser enviada con al 
+menos 5 días hábiles de antelación a la ejecución de las pruebas al correo 
+electrónico mencionado más abajo, indicando el N° de aviso de trabajo asociado al 
+sistema Neomante. 
+• 
+En conformidad con el capítulo 5 del “Instructivo Técnico para la Verificación de 
+Instalaciones para la prestación de SSCC”, enviar el Informe Técnico con los 
+resultados de la verificación, en un plazo máximo de 15 días hábiles contados desde 
+que finalizan los ensayos. 
+ 
+Los antecedentes requeridos deberán ser enviados, para cada una de las centrales, al 
+correo verificacion.sscc@coordinador.cl, con el asunto “Respuesta carta DE5374-25 – 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Ensayos Verificación SSCC Control de Tensión – Central HP Volcán” cumpliendo con los 
+plazos establecidos precedentemente. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+DIR/PGR/adr 
+c.c.:  
+Sr. Juan Pablo Kindermann – Encargado Suplente AES Andes S.A. 
+ 
+ 
+ 
+ 
+ 

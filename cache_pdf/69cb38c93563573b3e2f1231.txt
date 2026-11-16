@@ -1,0 +1,248 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 30 de marzo de 2026 
+DE 02096-26 
+Señor 
+Eduardo Verdugo 
+Encargado Titular 
+Andes Solar III SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+de 
+la 
+Central 
+Renovable 
+con 
+Capacidad 
+de 
+Almacenamiento (CRCA) PFV y BESS Andes Solar III 
+(NUP 4857). 
+[1] Carta 000-16-ASIII-26 de Andes Solar III SpA, Ref.: 
+“NUP 4857 - Envío de informe de Control de Tensión – 
+Responde observaciones”, de fecha 09 de marzo de 
+2026. 
+Responde a Ingreso DE02354-26 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1] comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación del SC de Control de Tensión de la 
+Central Renovable con Capacidad de Almacenamiento (CRCA) PFV y BESS Andes Solar 
+III, considerando sus modos de operación de generación directa, descarga y carga del 
+BESS desde el parque PFV. 
+ 
+Como resultado de este proceso, la instalación mencionada queda habilitada para la 
+prestación de los mencionados servicios a partir de las 00:00 del 02 de abril considerando 
+los recursos indicados en el anexo a la presente carta. 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CT de la CRCA PFV y BESS Andes Solar III se ha publicado en la siguiente 
+ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > Central PFV Andes Solar III 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DIR/PGR/ycl 
+c.c.:  
+Sr. Juan Kindermann – Encargado Suplente Andes Solar III SpA. 
+DCO/DMAP 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central 
+Renovable con Capacidad de Almacenamiento PFV y BESS Andes Solar III. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+El PFV Andes Solar III y su BESS corresponden a una CRCA, cuyo sistema de 
+almacenamiento se encuentra acoplado a nivel DC con el parque fotovoltaico, las 
+características del PFV y BESS son indicadas en los puntos siguientes.  
+Los siguientes parámetros operacionales están en proceso de aprobación por el 
+Coordinador Eléctrico: 
+a) Central PFV Andes Solar IIII (Generación directa) 
+• 
+Potencia máxima bruta: 158,9339 [MW] 
+• 
+Potencia máxima neta: 153,2260 [MW] 
+• 
+Potencia mínima bruta: 4,0031 [MW] 
+• 
+Potencia mínima neta: 0,8921 [MW] 
+b) BESS PFV Andes Solar III (modo descarga BESS) 
+• 
+Potencia máxima bruta: 177,4809 [MW] 
+• 
+Potencia máxima neta: 170,7895 [MW] 
+• 
+Potencia mínima bruta: 3,7090 [MW] 
+• 
+Potencia mínima neta: 0,0123 [MW] 
+c) BESS PFV Andes Solar III1 (modo carga BESS) 
+Los parámetros asociados a la carga de la Central PFV Andes Solar III, configuración 
+BESS en carga, no se encuentran disponibles a la fecha. Dado lo anterior, se utilizará como 
+aproximación los parámetros asociados a la descarga del BESS, considerando sus 
+respectivos signos negativos. Estos valores serán actualizados en los Anexos del Informe 
+de Servicios Complementarios una vez que se encuentren disponibles y sean aceptados 
+por el Coordinador Eléctrico. 
+• 
+Potencia máxima bruta: -170,7895 [MW] 
+• 
+Potencia máxima neta: -177,4809 [MW] 
+• 
+Potencia mínima bruta: -0,0123 [MW] 
+• 
+Potencia mínima neta: -3,7090 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+Ver tabla en página siguiente.
+ 
+1 los signos negativos hacen referencia a la convención utilizada para identificar la carga del BESS. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión 
+Control de Tensión 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+• 
+El PFV Andes Solar III y corresponde a una Central Renovable con Capacidad de 
+Almacenamiento (CRCA), que opera mediante un esquema de control conjunto de 
+planta (PPC), compartido entre la componente fotovoltaica y el BESS. En este 
+contexto, la instalación opera bajo una única consigna de potencia activa, reactiva 
+y tensión a nivel de planta. 
+• 
+Dado que el sistema de almacenamiento se encuentra acoplado a nivel de corriente 
+continua (DC) con el parque fotovoltaico y la inyección a red se realiza a través de 
+los mismos inversores, el algoritmo de control y sus parametrizaciones son únicos, 
+independientemente de la fuente primaria de energía. 
+En consecuencia, no es posible ni aplicable la entrega de consignas 
+diferenciadas para el parque fotovoltaico y el BESS en la prestación de los 
+SSCC. 
+Dicho lo anterior, la respuesta de control de tensión resulta equivalente en los 
+distintos modos de operación (generación fotovoltaica, descarga del BESS, carga 
+del BESS u operación conjunta), lo cual es consistente con los resultados obtenidos 
+en las pruebas de verificación de SSCC. 
+a) Control de Tensión: 
+• 
+La central alcanza los valores máximos de absorción e inyección de potencia 
+reactiva en ausencia de recurso primario a través de las baterías, sin utilizar la 
+funcionalidad Q-night, estos valores corresponden a 200,7 MVAr (absorción) y 
+171,30 MVAr (inyección). 
+• 
+El informe de verificación de CT indica que la instalación no incurre en un consumo 
+de energía para realizar la prestación de control de tensión en ausencia de recurso 
+solar ya que son los propios inversores que, alimentados por las baterías, deben 
+inyectar el mínimo de potencia activa que les permita la operación segura. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Andes Solar III SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tabla en página siguiente. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control de Tensión 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Instalación 
+Recurso 
+Primario 
+             Tensión [pu] 
+ 
+Potencia [MW] 
+Potencia Reactiva [MVAr]  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+PFV y BESS 
+Andes Solar III 
+/ CRCA (1) 
+Baterías / 
+Solar 
+0 
+170,98 171,34 171,30 161,20 152,17 
+57 
+162,10 162,11 162,51 155,66 149,33 
+114 
+134,37 134,58 134,77 134,92 135,04 
+171 
+64,05 
+64,77 
+61,94 
+62,66 
+71,56 
+171 
+-73,95 -88,39 -91,73 -95,22 -93,95 
+114 
+-80,19 -153,6 -166,7 -171,2 -169,6 
+57 
+-72,31 
+-149 
+-191,2 -197,7 -196,1 
+0 
+-67,17 -143,7 -200,7 -205,9 -206,8 
+(1) Debido al acoplamiento a nivel de corriente continua (DC) entre la componente fotovoltaica y el BESS, no existen 
+diferencias significativas en el desempeño dinámico entre las distintas fuentes de energía primaria. En este sentido, la curva 
+P–Q, referida al punto de conexión en 33 kV, se define en el rango de potencia activa [0 y PMax], siendo la respuesta 
+equivalente y aplicable a los modos de operación de generación directa, descarga del BESS y carga del BESS desde el 
+parque PFV (operación conjunta). 
+ 

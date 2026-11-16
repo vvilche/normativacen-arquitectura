@@ -1,0 +1,396 @@
+ 
+Alfa  
+Transmisora de Energía S.A 
+ 
+ 
+Alfa Transmisora de Energía S.A 
+RUT: 77.337.345-0 
+CE-76-2025-ALFATX  / Pág. 1 de 2
+Av. Apoquindo 4501 | Piso 19 
+Oficina 1902 | Las Condes 
+7580128 Santiago 
+T. +562 3319 7200 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Santiago, Chile 
+ 
+                                                                                                                Santiago, 27 de junio de 2025 
+ 
+ 
+n/ref:   CE-76-2025-ALFATX – Respuesta carta DE02920-25 “Comunica atraso en proceso de Verificación de 
+Instalaciones de Transmisión para la Prestación de Servicios Complementarios”. Envío de plan de trabajo. 
+ 
+ 
+De nuestra consideración 
+ 
+                                   En relación con el compromiso estipulado en la carta CE-56-2025-ALFATX, correspondiente   
+al envío del plan de trabajo del proceso de verificación de Servicios Complementarios (SSCC) de las instalaciones 
+de Transmisión de mi representada, se adjunta dicho plan en el Anexo N°1. 
+ 
+ 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+por 
+David Zamora Mesías  
+Gerente de Operaciones  
+Alfa Transmisora de Energía S.A. 
+ 
+romulo.pe
+rez@celeo
+group.com
+Firmado 
+digitalmente por 
+romulo.perez@celeo
+group.com 
+Fecha: 2025.06.27 
+13:30:44 -04'00'
+
+ 
+Alfa  
+Transmisora de Energía S.A 
+ 
+ 
+Alfa Transmisora de Energía S.A 
+RUT: 77.337.345-0 
+CE-76-2025-ALFATX  / Pág. 2 de 2
+Av. Apoquindo 4501 | Piso 19 
+Oficina 1902 | Las Condes 
+7580128 Santiago 
+T. +562 3319 7200 
+Anexo N°1 
+ 
+Coordinado
+Subestación
+Instalación
+Paño
+SSCC
+Fecha de entrega de 
+informe de verificación 
+de SSCC
+Alfa Transmisora de Energía S.A.
+S/E Alto Jahuel
+ LT 220kV Alto Jahuel - Maipo N°1
+J10
+EV
+ene-26
+Alfa Transmisora de Energía S.A.
+S/E Alto Jahuel
+ LT 220kV Alto Jahuel - Maipo N°2
+J3
+EV
+ene-26
+Alfa Transmisora de Energía S.A.
+S/E Ancoa
+ LT 220kV Ancoa - Colbún
+J9
+EV
+feb-26
+Alfa Transmisora de Energía S.A.
+S/E Angostura
+Línea 220kV Angostura - Seccionadora Los Notros - Mulchén N°1
+J1
+EV
+may-26
+Alfa Transmisora de Energía S.A.
+S/E Angostura
+Línea 220kV Angostura - Seccionadora Los Notros - Mulchén N°2
+J2
+EV
+jun-26
+Alfa Transmisora de Energía S.A.
+S/E Candelaria
+Línea 220kV Candelaria - Seccionadora Puente Negro N°1
+J3
+EV
+nov-25
+Alfa Transmisora de Energía S.A.
+S/E Candelaria
+Línea 220kV Candelaria - Seccionadora Puente Negro N°2
+J4
+EV
+nov-25
+Alfa Transmisora de Energía S.A.
+S/E Candelaria
+ LT 220kV Candelaria - Maipo N°1
+J1
+EV
+oct-25
+Alfa Transmisora de Energía S.A.
+S/E Candelaria
+ LT 220kV Candelaria - Maipo N°2
+J2
+EV
+oct-25
+Alfa Transmisora de Energía S.A.
+S/E Colbún
+Línea 220kV Colbún - Seccionadora Puente Negro N°1
+J7
+EV
+feb-26
+Alfa Transmisora de Energía S.A.
+S/E Colbún
+ Configuración en anillo
+J1
+EV
+mar-26
+Alfa Transmisora de Energía S.A.
+S/E Colbún
+ Configuración en anillo
+J2
+EV
+mar-26
+Alfa Transmisora de Energía S.A.
+S/E Colbún
+ Configuración en anillo
+J3
+EV
+abr-26
+Alfa Transmisora de Energía S.A.
+S/E Colbún
+ Configuración en anillo
+J4
+EV
+abr-26
+Alfa Transmisora de Energía S.A.
+S/E Mulchén
+ LT 220kV Mulchén - Seccionadora Los Notros - Angostura N°1
+J5
+EV
+mar-26
+Alfa Transmisora de Energía S.A.
+S/E Mulchén
+ LT 220kV Mulchén - Seccionadora Los Notros - Angostura N°2
+J6
+EV
+abr-26
+Alfa Transmisora de Energía S.A.
+S/E Mulchén
+ LT 220kV Mulchén - Río Malleco N°1
+J3
+EV
+ene-26
+Alfa Transmisora de Energía S.A.
+S/E Mulchén
+ LT 220kV Mulchén - Río Malleco N°2
+J4
+EV
+feb-26
+Alfa Transmisora de Energía S.A.
+S/E Mulchén
+ LT 220kV Mulchén - Seccionadora Santa Clara - Charrúa N°1
+J1
+EV
+oct-25
+Alfa Transmisora de Energía S.A.
+S/E Mulchén
+ LT 220kV Mulchén - Seccionadora Santa Clara - Charrúa N°2
+J2
+EV
+nov-25
+Transmisora Eléctrica de Quillota Ltda.(Actual 
+Alfa Transmisora de Energía S.A.)
+S/E Quillota
+ LT 220kV Quillota - San Luis N°1
+J5
+EV
+abr-26
+Transmisora Eléctrica de Quillota Ltda.(Actual 
+Alfa Transmisora de Energía S.A.)
+S/E Quillota
+ LT 220kV Quillota - San Luis N°2
+J6
+EV
+abr-26
+Transmisora Eléctrica de Quillota Ltda.(Actual 
+Alfa Transmisora de Energía S.A.)
+S/E San Luis
+ LT 220kV San Luis - Quillota N°1
+J11
+EV
+ene-26
+Transmisora Eléctrica de Quillota Ltda.(Actual 
+Alfa Transmisora de Energía S.A.)
+S/E San Luis
+ LT 220kV San Luis - Quillota N°2
+J9
+EV
+ene-26
+Alfa Transmisora de Energía S.A.
+S/E Cerro Calera
+BC 2 12KV 2.5 MVAR
+C14
+CT
+ene-26
+Alfa Transmisora de Energía S.A.
+S/E Esperanza
+BC 1 12KV 4.878 MVAr
+1
+CT
+ene-26
+Alfa Transmisora de Energía S.A.
+S/E Esperanza
+BC 2 12KV 3.252 MVAr
+2
+CT
+ene-26
+Alfa Transmisora de Energía S.A.
+S/E Maipo
+BC JCP1 230KV 60 MVAr
+JCP1
+CT
+oct-25
+Alfa Transmisora de Energía S.A.
+S/E Maipo
+BC JCP2 230KV 60 MVAr
+JCP2
+CT
+nov-25
+Alfa Transmisora de Energía S.A.
+S/E Maipo
+BC JCP3 230KV 60 MVAr
+JCP3
+CT
+ene-26
+Alfa Transmisora de Energía S.A.
+S/E Maipo
+BC JCP4 230KV 60 MVAr
+JCP4
+CT
+feb-26
+Cronograma de Verificación de SSCC en instalaciones de Transmisión 

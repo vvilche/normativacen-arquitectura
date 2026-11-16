@@ -1,0 +1,89 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 17 de abril de 2025  
+DE 02160-25 
+ 
+ 
+Señor 
+María José Reveco 
+Encargado Titular 
+TRANSMISORA PARINAS S.A. 
+Presente 
+ 
+ 
+Ref.:  Solicita plan de trabajo para implementación de 
+puntos de monitoreo del Módulo de Medición Fasorial 
+del SEN. 
+[1]:  “Estudio para la Implementación del Módulo de 
+Medición Fasorial” de 2024. 
+ 
+De mi consideración: 
+ 
+Me refiero a la implementación del Módulo de Medición Fasorial establecido en el Anexo 
+Técnico Sistema de Monitoreo (ATSM) de la Norma Técnica de Seguridad y Calidad de 
+Servicio (NTSyCS) y, en particular, a la implementación de los puntos de monitoreo en 
+instalaciones de su representada que fue definido en el estudio de la Ref [1], disponible en 
+nuestro sitio web (https://www.coordinador.cl/operacion/documentos/plataformas-para-la-
+operacion/modulo-de-medicion-fasorial/), correspondiente a: 
+ 
+Zona 
+Ubicación PMU 
+Instalación para 
+monitorear 
+Comunicar 
+con PDC 
+local 
+Estudio 
+MMF 
+NORTE 
+CHICO 
+Paño K8 y K9 de 
+SE Jadresic 
+Línea Jadresic - Monte 
+Mina 
+MAITENCILLO 
+2024 
+ 
+Al respecto, dada la importancia que tiene para la observabilidad y seguridad de operación 
+del SEN contar con este punto de monitoreo, le solicito regularizar a la brevedad su 
+implementación y nos envíe a más tardar el próximo día 30 de abril de 2025, el plan de 
+trabajo y cronograma que llevará a cabo para implementar la unidad de medición fasorial 
+(PMU) pendiente, el correspondiente canal de comunicación hacia el concentrador de datos 
+(PDC) local y la integración de los datos a dicho PDC. 
+ 
+Por otra parte, le solicito que para la PMU instruida, el plan de trabajo considere su 
+implementación a más tardar el 15 de julio de 2025. 
+ 
+Cabe recordar que, para efectos de gestionar la integración de las PMU a los PDC locales 
+de Maitencillo, Alto Jahuel, Ancoa o Charrúa, propiedad de Transelec, deberá contactarse 
+con la Sra. Macarena Tamayo (mtamayo@transelec.cl).  
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Por otra parte, para efectos de gestionar la adquisición de licencias requeridas para la 
+integración de PMU al PDC Corporativo, propiedad del Coordinador, deberá comunicarse 
+con el Señor Víctor Reyes J. (victor.reyes@coordinador.cl). 
+ 
+Finalmente, para efectos de enviar la información solicitada y realizar consultas, agradeceré 
+enviarlas al correo dmap@coordinador.cl . 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GO/SGASO/DMAP 
+c.c.:  
+Sr. Alfredo Cárdenas. - Encargado Suplente Transmisora Parinas S.A. 
+Archivo DE 

@@ -1,0 +1,175 @@
+ 
+AR Caman SpA. 
+Av. Apoquindo 4820, Piso 10,  
+Las Condes. Santiago. 
+Chile. 
+ 
+ 
+ 
+CH121-2026 
+ 
+Señor 
+Ignacio Figueroa Fernández  
+Jefe del Departamento de Estándares y Normativa 
+Subgerencia de Interconexión de Proyectos 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora Sur 1061, Pudahuel  
+Santiago 
+ 
+4 de agosto de 2026 
+ 
+Ref.: Solicita la confirmación y ratificación de la no exigibilidad de adecuaciones a PE Caman en virtud de (i) 
+Anexo Técnico de Exigencias Mínimas de Diseño de Instalaciones de Transmisión y (ii) Anexo Técnico de 
+Requisitos Sísmicos para Instalaciones Eléctricas de Alta Tensión. 
+ 
+Ant.: 
+(1) 
+Informe de Autorización de Conexión Definitivo “Parque Eólico Caman” de 18 de marzo de 2021. 
+(2) 
+Correo electrónico enviado el 22 de noviembre de 2021, por el Departamento de Conexiones. 
+ 
+De nuestra consideración,  
+ 
+En representación de AR Caman SpA (NUP 1056) (“Caman”), y en el marco del proceso de desarrollo del Parque 
+Eólico Caman (“PE Caman”), solicitamos al Coordinador Eléctrico Nacional (“Coordinador” o “CEN”) la 
+confirmación y ratificación de que las instalaciones de transmisión asociadas a PE Caman no se encuentran 
+sujetas a la exigencias derivadas del Anexo Técnico de Exigencias Mínimas de Diseño de Instalaciones de 
+Transmisión (“AT EMDIT”) ni del Anexo Técnico de Requisitos Sísmicos para Instalaciones Eléctricas de Alta 
+Tensión (“ATRS”), según fue informado por el CEN a Caman mediante los Ant.(1) y (2), sobre la base de los 
+antecedentes y fundamentos que se exponen a continuación. 
+ 
+I. 
+Antecedentes  
+Con fecha 11 de marzo de 2019, Caman presentó ante Coordinador una Solicitud de Aprobación de Solución de 
+Conexión (“SASC”), para la conexión de PE Caman (163,8 MW) en la S/E Cerros de Huichahue, de propiedad de 
+Eletrans S.A. Dicha SASC fue declarada admisible por el CEN el 25 de marzo de 2019, mediante Carta DE01637-
+19. 
+ 
+Posteriormente, el 12 de septiembre de 2019, Caman solicitó al CEN un aumento de potencia de PE Caman a 
+206,4 MW. Este aumento fue concedido por el CEN el 8 de octubre de 2019, mediante Carta DE05476-19. 
+ 
+La SASC de PE Caman (206,4 MW) fue aprobada preliminarmente por el CEN el 7 de agosto de 2020, mediante 
+Carta DE04015-20, y de manera definitiva el 18 de marzo de 2021, mediante Carta DE01271-21, autorizándose 
+el desarrollo de PE Caman en dos etapas: una primera por 148,5 MW y la segunda por 57,9 MW. 
+ 
+Inicialmente, el CEN dispuso que la SASC aprobada se encontraba sujeta a la condición de que PE Caman 
+obtuviera su Declaración en Construcción (“DeC”), a más tardar, en marzo de 2022; fecha que fue 
+posteriormente modificada hasta marzo de 2023, en virtud de Carta DE01270-26 de 17 de marzo de 2022 
+ 
+La Etapa 1 (148,5 MW) de PE Caman fue declarada en construcción por la Comisión Nacional de Energía (“CNE”) 
+el 30 de junio de 2021, mediante Resolución Exenta Nº209/2021. Si bien originalmente la fecha estimada de 
+interconexión de la Etapa 1 estaba prevista para ocurrir en julio de 2022, dicho hito fue modificado en dos 
+ocasiones por la CNE, siendo la fecha vigente actualmente julio de 2028. 
+ 
+II. 
+Inexigibilidad de las disposiciones del AT EMDIT y el ATRS, atendidas las disposiciones 
+transitorias de dichas normas y las confirmaciones del CEN. 
+Docusign Envelope ID: B2D46A4F-0219-80AA-8299-656E409F5E28
+
+ 
+ 
+ 
+Los antecedentes precedentes dan cuenta de que, al 7 de agosto de 2020, PE Caman contaba con un Informe 
+de Autorización de Conexión Preliminar y con una aprobación definitiva al 18 de marzo de 2021. 
+ 
+En virtud de esta aprobación preliminar, PE Caman quedó exento de tener que adecuarse para dar cumplimiento 
+a las exigencias del AT EMDIT y el ATRS, según se explica a continuación  
+II.1. PE Caman no está sujeto al cumplimiento de las disposiciones del AT EMDIT. 
+ 
+El AT EMDIT, aprobado mediante Resolución Exenta CNE Nº347/2020, entró en vigencia a partir del 14 de 
+septiembre de 2020, tras su publicación en el Diario Oficial. Posteriormente, fue modificado mediante 
+Resolución Exenta CNE Nº4/2025, publicada en el Diario Oficial el 29 de enero de 2025.  
+ 
+En el artículo 118 del AT EMDIT —el cual se mantiene tras su modificación el año 2025— se establece una 
+disposición transitoria, en virtud de la cual aquellas instalaciones existentes a la fecha de publicación del AT 
+EMDIT no necesitan efectuar adecuaciones producto de las exigencias de dicho anexo técnico. Para estos 
+efectos, el artículo 118 clarifica que son existentes “los proyectos que cuenten con una solicitud de acceso abierto 
+aprobada por el Coordinador en el proceso correspondiente en conformidad a los artículos 79° y 80° de la Ley”. 
+ 
+Dicha disposición fue interpretada por la CNE mediante Oficio Ordinario N°841/2020 (“Oficio 841”), en el cual la 
+CNE señaló que, dado que el artículo 118 no distingue si la solicitud de conexión debe estar aprobada en forma 
+preliminar o definitiva por parte del Coordinador, habiéndose emitido el Informe de Autorización de Conexión 
+Preliminar respecto de una solicitud de conexión a instalaciones de servicio público con anterioridad al 14 de 
+septiembre de 2020, no sería necesario efectuar adecuaciones a las características de las instalaciones producto 
+de las exigencias del Anexo Técnico. 
+ 
+Este supuesto se verifica plenamente en el caso del PE Caman, toda vez que el Coordinador emitió su Informe 
+de Autorización de Conexión Preliminar con fecha 7 de agosto de 2020. 
+ 
+Adicionalmente, la no sujeción del PE Caman a las nuevas exigencias del AT EMDIT fue confirmada por el 
+propio Coordinador a Caman, en diversas instancias. 
+ 
+Según consta en el Ant.(1), el 20 de enero de 2021 el CEN envió un correo electrónico a Caman, en el cual, 
+ajustándose a lo dispuesto en el Oficio N°841, le notificó que “no será necesario adecuar la ingeniería del 
+proyecto Parque Eólico Caman a las exigencias del nuevo Anexo Técnico de Exigencias Mínimas de Diseño de 
+Instalaciones y, en consecuencia, se aplicarán las disposiciones normativas relacionadas y existentes previo a su 
+entrada en vigencia”. Este antecedente consta en la Tabla 1.1 “Resumen de correspondencia del proceso SASC 
+de PE Caman” del Ant.(1): 
+ 
+ 
+ 
+Asimismo, en la sección 6.3. del Ant.(1), se explicita que una de las condiciones de aprobación del Proyecto es 
+cumplir con las exigencias establecidas en la normativa vigente, pero que “según lo indicado por la Comisión 
+Nacional de Energía mediante oficio CNE OF. ORD. N°841/2020, de fecha 19 de noviembre de 2020, la NTSyCS 
+aplicada a este proyecto será la versión de diciembre 2019”. 
+ 
+Docusign Envelope ID: B2D46A4F-0219-80AA-8299-656E409F5E28
+
+ 
+ 
+ 
+La no aplicación del AT EMDIT al Proyecto y la aplicación de la NTSyCS versión diciembre 2019 fue nuevamente 
+confirmada por el CEN a Caman mediante el Ant.(2), en noviembre de 2021. En dicha ocasión, tras una consulta 
+formulada por Caman respecto a la clase de precisión de los transformadores de medida para el Proyecto, el 
+CEN reiteró que “tras analizar el Oficio 841 y la fecha de envío de Informe de Autorización de Conexión Preliminar, 
+la NTSyCS que aplica para el proyecto del asunto corresponde a la versión dic-19”. 
+ 
+En consecuencia, la no exigibilidad de adecuaciones a PE Caman en virtud del AT EMDIT, y la aplicación de la 
+NTSyCS dic19, se encuentra respaldada tanto por el régimen transitorio del referido Anexo Técnico, que ampara 
+a los proyectos con solicitud de acceso abierto aprobada con anterioridad a su entrada en vigencia, como por el 
+reconocimiento expreso del Coordinador comunicado a AR Caman SpA mediante los Ant.(1) y (2).  
+ 
+II.2. PE Caman tampoco está sujeto al cumplimiento de las disposiciones del ATRS. 
+ 
+El ATRS, aprobado mediante Resolución Exenta CNE Nº41/2025, fue publicado en el Diario Oficial el 29 de enero 
+de 2025. 
+ 
+Conforme a su artículo 200, el ATRS tiene reglas especiales para su entrada en vigencia1. En lo relevante para 
+efectos de su aplicabilidad al PE Caman, dicho artículo dispone que las instalaciones existentes a su fecha de 
+publicación no deben efectuar adecuaciones derivadas de las exigencias del ATRS, como tampoco deben hacerlo 
+aquellos “proyectos que cuenten con una solicitud de acceso abierto aprobada por el Coordinador en el proceso 
+correspondiente”.  
+ 
+Esta hipótesis se verifica en el caso del PE Caman, toda vez que dicho proyecto cuenta con SASC aprobada 
+desde el 18 de marzo de 2021, razón por la cual las exigencias del ATRS no le son aplicables.  
+ 
+III. 
+Solicitud concreta  
+En mérito de lo expuesto, y considerando los regímenes normativos transitorios contenidos en el AT EMDIT y en 
+el ATRS, lo establecido por la CNE mediante Oficio Ordinario N°841/2020 y el reconocimiento realizado por el 
+propio Coordinador mediante los Ant.(1) y (2), solicitamos al Coordinador que confirme y ratifique: 
+ 
+(i) Que PE Caman no se encuentra sujeto a la exigencia de adecuaciones derivadas del AT 
+EMDIT; y 
+(ii) Que PE Caman no se encuentra sujeto a la exigencia de adecuaciones derivadas del 
+ATRS. 
+ 
+Sin otro particular, saluda atentamente a usted,  
+ 
+ 
+ 
+ 
+__________________ 
+Victoriano Márquez de Prado 
+Representante Legal 
+p.p. AR Caman SpA 
+ 
+ 
+ 
+1 A partir del 29 de julio 2025, en aquellos ámbitos que corresponda para dar cumplimiento al artículo 6 del Decreto Supremo 
+N°316/2023 del Ministerio de Relaciones Exteriores, que establece que los reglamentos técnicos y/o procedimientos de 
+evaluación de la conformidad ante la Organización Mundial del Comercio deben contemplar un plazo prudencial entre su 
+adopción y su aplicación, que no puede ser inferior a 6 meses. 
+A partir del 29 de enero 2025, para los ámbitos en los que no es aplicable el referido artículo 6 y que no existan a la fecha 
+de publicación del ATRS. 
+Docusign Envelope ID: B2D46A4F-0219-80AA-8299-656E409F5E28

@@ -1,0 +1,118 @@
+ 
+Santiago, 07 de agosto de 2026 
+LAB-GS_20260807 
+Señor 
+Sr. Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.:  Circunstancias asociadas al proceso de Veriﬁcación de SSCC-CSF 
+[1]  DE05186-26, de fecha 04 de agosto de 2026 
+[2] 
+Recibido DE05392-26, de fecha 10 de junio de 2026, que responde a carta DE03702-26 
+. 
+ 
+De nuestra consideración: 
+ 
+En representación de Generación Solar S.A. (RUT 76.392.147-6) nos referimos a su 
+carta de Ref. [1], mediante la cual se informa el incumplimiento de plazos asociados a la 
+Veriﬁcación del Servicio Complementario de Control Secundario de Frecuencia (SSCC-CSF), 
+solictando informar las razones o circunstancias que explican la situación de la Planta 
+Fotovoltaica María Elena respecto de dicho requerimiento. 
+ 
+Tal como fue informado en nuestra carta de Ref. [2] se ha presentado una serie de 
+trabajos pendientes que han retrasado la Veriﬁcación de SSCC-CSF de la Planta Fotovoltaica 
+María Elena. A esta situación se suma el compromiso asociados a la obtención de la Entrada 
+en Operación del SAE Etapa 1 de Generación Solar SpA, en cuyo marco se estableció la 
+actualización de la homologación del modelo dinámico de la planta fotovoltaica. 
+ 
+Para dar cumplimiento a dicho compromiso, ha sido necesario implementar mejoras en 
+el PPC actualmente instalado, particularmente en las funciones asociadas al control de 
+potencia activa mediante rampas y al control de factor de potencia, tanto a nivel de planta 
+como de inversores.  
+ 
+Actualmente nos encontramos ejecutando la última prueba asociada a estas 
+modiﬁcaciones, cuyo objetivo es veriﬁcar el correcto funcionamiento de las mejoras 
+implementadas en el PPC y permitir avanzar con la actualización del modelo dinámico de la 
+planta. Una vez ﬁnalizada esta prueba, se dará inicio al proceso de homologación con I-SEP, 
+de acuerdo con el alcance y progama deﬁnido para dicho servicio. 
+ 
+
+ 
+Paralelamente, y considerando la necesidad de contar con un sistema de control de 
+planta que permita abordar adecuadamente las etapas posteriores de pruebas y veriﬁcación, 
+se ha deﬁnido realizar un retroﬁt del sistema de control de la Planta Fotovoltaica María Elena. 
+Este proyecto contempla el reemplazo del PPC Schneider actualmente instalado por un PPC 
+GPM redundante, su integración con el SCADA GPM existente y la ejecución de las actividades 
+de ingeniería, FAT, commissioning y pruebas necesarias para la puesta en servicio del nuevo 
+sistema. 
+ 
+De acuerdo con la programación disponible, se estima que las instalaciones estarán 
+operativas para iniciar las pruebas requeridas durante el primer semestre del 2027. 
+ 
+A continuación, presentamos el cronograma previsto para las actividades pendientes 
+hasta alcanzar la Veriﬁcación de SSCC-CSF de la Planta Fotovoltaica María Elena 
+ 
+ 
+ 
+ 
+Reconocemos el retraso que se ha producido respecto de la programación original 
+prevista para la actualización del PPC de la Planta Fotovoltaica María Elena. No obstante nos 
+encontramos realizando los esfuerzos necesarios para mantener el control del proyecto, 
+ejecutar las actividades pendientes de manera coordinada y evitar nuevos retrasos en la 
+programación. 
+ 
+En este contexto, nuestro compromiso es disponer de las instalaciones durante marzo 
+de 2027, o eventualmente antes si las condiciones de ejecución de las actividades lo permiten, 
+de manera de encontrarnos en condiciones de realizar la Veriﬁcación de SSCC-CSF de la planta. 
+ 
+MAR.-26
+ABR.-26
+MAY.-26
+JUN.-26
+JUL.-26
+AGO.-26
+SEP.-26
+OCT.-26
+NOV.-26
+DIC.-26
+Normalización inversores PFV
+Actualización PPC Planta PFV
+Actualización de homologación de modelo dinámico PFV
+Cambio de PPC SmartElectric a uno GPM
+Validación de modelo dinámico de nuevo PPC GPM
+Verificación de CPF, CT y CTF
+Verificación de CSF con el CEN
+ENE.-27
+FEB.-27
+MAR.-27
+ABR.-27
+MAY.-27
+JUN.-27
+JUL.-27
+Normalización inversores PFV
+Actualización PPC Planta PFV
+Actualización de homologación de modelo dinámico PFV
+Cambio de PPC SmartElectric a uno GPM
+Validación de modelo dinámico de nuevo PPC GPM
+Verificación de CPF, CT y CTF
+Verificación de CSF con el CEN
+
+ 
+Agradecemos la compresión respecto de la situación expuesta y reiteramos nuestro 
+compromiso con el cumplimiento de las exigencias aplicables y con la operación segura y 
+conﬁable del Sistema Eléctrico Nacional. 
+ 
+Sin otro particular, les saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Jaime Rivera R. 
+ 
+Encargado CEN 
+ 
+Genración Solar SpA. 
+SIGN

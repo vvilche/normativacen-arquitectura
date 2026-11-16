@@ -1,0 +1,308 @@
+ 
+        BIOENERGIAS FORESTALES 
+                               Agustinas 1343, Santiago, Chile 
+      www.cmpc.com 
+  
+1 
+Santiago, 05 de marzo 2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación. 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+BF-E-CAE-2026-021: 
+Respuesta 
+a 
+carta 
+DE01003-26. Ref. BF-E-CAE-2025-062 / BF-E-
+CAE-2025-054: Respuesta a carta DE05006-
+25. Comunica atraso en el proceso de 
+Verificación de Instalaciones de Generación 
+para 
+la 
+Prestación 
+de 
+Servicios 
+Complementarios de acuerdo con Cronograma 
+Vigente. [1] Carta DE01036-25. [2] Carta 
+DE02388-25. 
+De nuestra consideración,  
+ 
+Por medio de la presente, damos respuesta a lo indicado en vuestra carta DE01003-26 
+donde nos solicita completar anexo adjunto y con ello informar las razones que 
+provocaron el no haber enviado en plazo los informes de verificación de SSCC de 
+nuestras instalaciones de generación, indicando las acciones que han tomado o se 
+tomarán para que a futuro no se generen nuevos retrasos, además de detallar la fecha 
+definitiva de entrega de documentos pendientes.  
+Al respecto, se adjunta documento con el detalle respectivo, además de entregar un plan 
+de normalización que considera el envío de los mencionados informes de verificación. Es 
+importante señalar que no es posible cumplir con el plazo de 30 días corridos, debido a 
+que la adjudicación y realización de las pruebas de SSCC deben cumplir plazos definidos 
+por el propio anexo técnico, del cual se obtiene como fecha definitiva de envío el 23-06-
+2026. De lo anterior y con el objetivo de agilizar los tiempos de respuesta de las pruebas 
+a realizar, mediante la presente solicitamos autorizar como experto técnico a la empresa 
+TRACTEBEL, la cual se encuentra aprobada para realizar pruebas de Potencia Máxima y 
+CEN, en instalaciones de CMPC.  
+Por otro lado, en relación con las pruebas solicitadas es necesario señalar que para el 
+caso del CPF, la normativa exige que las instalaciones que presten este servicio deban 
+contar con un regulador de velocidad que cumpla con las características técnicas según 
+lo dispuesto en la NTSyCS. En las plantas de CMPC, cuando estas operan sincronizadas 
+con el sistema, ninguna de las unidades generadoras dispone de reguladores de 
+velocidad que sean capaces de controlar la potencia activa frente a variaciones de 
+frecuencia, lo que se justifica debido a las características particulares del proceso 
+productivo en estas plantas. Por lo tanto, no es posible exigir la prestación de este 
+
+ 
+        BIOENERGIAS FORESTALES 
+                               Agustinas 1343, Santiago, Chile 
+      www.cmpc.com 
+  
+2 
+servicio de CPF en ninguna de las instalaciones de CMPC. De lo anterior, los resultados 
+obtenidos en Informe Técnico adjunto han confirmado las pruebas de verificación de 
+SSCC, las que se detallan a continuación: 
+N° 
+Coordinado 
+Unidad 
+CPF 
+CSF 
+CTF 
+giro 
+CTF 
+Frio 
+CT 
+PA 
+AR 
+26 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+TER CMPC 
+CORDILLERA 
+U1 
+No 
+No 
+Si 
+No 
+Si 
+No 
+No 
+27 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+TER CMPC 
+LAJA 
+No 
+No 
+Si 
+No 
+No 
+No 
+No 
+28 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+TER CMPC 
+PACIFICO 
+No 
+No 
+Si 
+No 
+No  
+No 
+No 
+29 
+BIOENERGÍAS 
+FORESTALES 
+SPA 
+TER SANTA 
+FE U1 
+No 
+No 
+Si 
+No 
+No 
+No 
+No 
+Tabla 1 Pruebas de verificación de SSCC propuesto por Coordinado Bioenergías 
+Forestales SpA. 
+Finalmente, solicitamos tenga a bien considerar las fechas indicadas en nuestro plan de 
+trabajo correspondiente a la verificación de Servicios Complementarios (SSCC) de la 
+Central TER CMPC Cordillera, el cual corresponde a una versión a confirmar según la 
+disponibilidad tanto de especialistas, como del propio Coordinador Eléctrico Nacional 
+(CEN).     
+ 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marcelo Lagos Peña. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+Encargado Suplente Bioenergías Forestales SpA.  
+ 
+ 
+
+ 
+        BIOENERGIAS FORESTALES 
+                               Agustinas 1343, Santiago, Chile 
+      www.cmpc.com 
+  
+3 
+ 
+[ANEXO 1] Cronograma de Verificación de Servicios Complementarios (SSCC) de TER CMPC Cordillera. 
+Actividades Generales 
+AÑO/MES 
+2026 
+Fecha Inicio  
+[dd-mm-
+aaaa] 
+Fecha Fin  
+[dd-mm-aaaa] ENE FEB MAR ABR MAY JUN JUL AGO SEP OCT NOV DIC 
+1 Recopilación de antecedentes técnicos 
+23-02-2025 
+05-03-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 Análisis de información 
+05-03-2025 
+30-03-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3 Preparación de Protocolos de 
+Verificación y Ensayos 
+30-03-2025 
+14-04-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+4 Revisión y aprobación de Protocolo de 
+Verificación por parte del CEN 
+14-04-2025 
+14-05-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+5 Logística y Preparación 
+14-05-2025 
+08-06-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+6 Ensayos y verificación de SSCC (*) 
+08-06-2025 
+03-07-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+7 Informe Técnico resultado de Ensayos 
+03-07-2025 
+28-07-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+8 Revisión de Ensayos por parte del CEN. 
+28-07-2025 
+01-09-2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

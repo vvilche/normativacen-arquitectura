@@ -1,0 +1,644 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 23 de febrero de 2026 
+DE 01263-26 
+Señor 
+Eduardo Verdugo 
+Encargado Titular 
+Andes Solar III SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario 
+de 
+Frecuencia, 
+Control 
+Terciario 
+de 
+Frecuencia y Control Secundario de Frecuencia e 
+integración al Despacho Económico de la Central 
+Renovable 
+con 
+Capacidad 
+de 
+Almacenamiento 
+(CRCA) PFV y BESS Andes Solar III (NUP 4857). 
+Responde a Ingresos: DE00287-26 y DE00288-26. 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante cartas de las Ref. [1] y [2], comunico a Ud. que en cumplimiento con 
+lo establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los SSCC de Control Primario de 
+Frecuencia (CPF), Control Terciario de Frecuencia (CTF) y Control Secundario de 
+Frecuencia (CSF) e integración al módulo de Despacho Económico de la Central Renovable 
+con Capacidad de Almacenamiento (CRCA) PFV y BESS Andes Solar III. 
+ 
+El sistema de almacenamiento se encuentra acoplado a nivel de DC, considerándose sus 
+modos de operación de generación directa, descarga y carga del BESS. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del 26 de febrero de 2026 considerando 
+los recursos indicados en el anexo a la presente carta. 
+Con respecto al CSF, para efectos de elaborar el correspondiente Informe Técnico de 
+Verificación según lo establecido en la Guía de Verificación de Control de Frecuencia, le 
+solicito envíe a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 23 
+de marzo de 2026, la siguiente información asociada al parque: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+la prestación del CPF, CSF y CTF de la CRCA PFV y BESS Andes Solar III se han publicado 
+en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia: 
+1. > Control Primario de Frecuencia > Central PFV Andes Solar III 
+2. > Control Secundario de Frecuencia > Central PFV Andes Solar III 
+3. > Control Terciario de Frecuencia > Central PFV Andes Solar III 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [3], siendo el plazo 
+para esta acción el de 30 días corridos contados desde la fecha de emisión de la 
+presente carta. Pese a no contar con las señales necesarias para evaluar el 
+desempeño en la prestación, la CRCA PFV y BESS Andes Solar III quedará 
+habilitada para prestar el Servicio Complementario (SC) de Control Primario de 
+Frecuencia (CPF), pudiendo ser instruida por este Coordinador para prestar dicho 
+servicio. En dicho caso, la evaluación de estas instrucciones será “No Verificable”. 
+• 
+Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, para la evaluación de desempeño se podrán utilizar 
+medios alternativos para poder realizar la evaluación de desempeño de la prestación 
+del SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, la CRCA PFV y BESS Andes Solar III podrá participar de las subastas de 
+Control de Frecuencia, una vez que complete el proceso de solicitud de incorporación a la 
+plataforma de subastas. Para ello, su representada deberá presentar los antecedentes 
+indicados en las Bases Administrativas de Subastas para Control de Frecuencia, que se 
+encuentran publicadas en la siguiente ruta de la página web del Coordinador Eléctrico 
+Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+ 
+Sin perjuicio de lo anterior, la central mencionada podrá ser instruida de manera directa por 
+el Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC.  
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, puede 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/DIR/WJS/adr 
+c.c.:  
+Sr. Juan Kindermann – Encargado Suplente Andes Solar III SpA. 
+DCO/DMAP 
+ 
+Referencias: 
+ 
+[1] Carta 0004-ASIII-2026 de Andes Solar III SpA, Ref.: “NUP 4857 - Parque Fotovoltaico 
+ASIII - Informe de Control Primario de Frecuencia”, de fecha 12 de enero de 2026. Ingreso 
+DE00287-26. 
+ 
+[2] Carta 0005-ASIII-2026 de Andes Solar III SpA, Ref.: “NUP 4857 - Parque Fotovoltaico 
+ASIII - Informe de Control Terciario de Frecuencia”, de fecha 12 de enero de 2026. Ingreso 
+DE00288-26. 
+ 
+[3] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 
+> 
+Instructivos 
+Técnicos 
+> 
+Protocolo 
+de 
+envío 
+de 
+registros 
+Potencia/Frecuencia para la evaluación del CPF 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central 
+Renovable con Capacidad de Almacenamiento PFV y BESS Andes Solar III. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+El PFV Andes Solar III y su BESS corresponden a una CRCA, cuyo sistema de 
+almacenamiento se encuentra acoplado a nivel DC, las características del PFV y BESS 
+son indicadas en los puntos siguientes.  
+Los siguientes parámetros operacionales están en proceso de aprobación por el 
+Coordinador Eléctrico: 
+a) Central PFV Andes Solar IIII (Generación directa) 
+• 
+Potencia máxima bruta: 158,9339 [MW] 
+• 
+Potencia máxima neta: 153,2260 [MW] 
+• 
+Potencia mínima bruta: 4,0031 [MW] 
+• 
+Potencia mínima neta: 0,8921 [MW] 
+b) BESS PFV Andes Solar III (modo descarga BESS) 
+• 
+Potencia máxima bruta: 177,4809 [MW] 
+• 
+Potencia máxima neta: 170,7895 [MW] 
+• 
+Potencia mínima bruta: 3,7090 [MW] 
+• 
+Potencia mínima neta: 0,0123 [MW] 
+c) BESS PFV Andes Solar III1 (modo carga BESS) 
+Los parámetros asociados a la carga de la Central PFV Andes Solar III, configuración 
+BESS en carga, no se encuentran disponibles a la fecha. Dado lo anterior, se utilizará como 
+aproximación los parámetros asociados a la descarga del BESS, considerando sus 
+respectivos signos negativos. Estos valores serán actualizados en los Anexos del Informe 
+de Servicios Complementarios una vez que se encuentren disponibles y sean aceptados 
+por el Coordinador Eléctrico. 
+• 
+Potencia máxima bruta: -170,7895 [MW] 
+• 
+Potencia máxima neta: -177,4809 [MW] 
+• 
+Potencia mínima bruta: -0,0123 [MW] 
+• 
+Potencia mínima neta: -3,7090 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+Ver tabla en página siguiente. 
+ 
+ 
+ 
+1 los signos negativos hacen referencia a la convención utilizada para identificar la carga del BESS. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+ 
+ 
+ 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Secundario de 
+Frecuencia 
+Control Secundario de Frecuencia por 
+Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia por 
+Sobrefrecuencia (CSF-) 
+Control Terciario de 
+Frecuencia  
+ 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+• 
+El PFV Andes Solar III y corresponde a una Central Renovable con Capacidad de 
+Almacenamiento (CRCA), que opera mediante un esquema de control conjunto de 
+planta (PPC), compartido entre la componente fotovoltaica y el BESS. En este 
+contexto, la instalación opera bajo una única consigna de potencia activa, reactiva 
+y tensión a nivel de planta. 
+• 
+Dado que el sistema de almacenamiento se encuentra acoplado a nivel de corriente 
+continua (DC) y la inyección a red se realiza a través de los mismos inversores, el 
+algoritmo de control y sus parametrizaciones son únicos, independientemente de la 
+fuente primaria de energía. 
+En consecuencia, no es posible ni aplicable la entrega de consignas 
+diferenciadas para el parque fotovoltaico y el BESS en la prestación de los 
+SSCC. 
+Dicho lo anterior, la respuesta de control de frecuencia resulta equivalente en los 
+distintos modos de operación (generación fotovoltaica, descarga del BESS, carga 
+del BESS u operación conjunta), lo cual es consistente con los resultados obtenidos 
+en las pruebas de verificación de SSCC. 
+a) Control Primario de Frecuencia: 
+• 
+Instalación con rango de ajuste de estatismo del 2% al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados por el operador de la central, con 
+la central en servicio.  
+• 
+Estatismo (R) actual de la instalación se encuentra ajustado al 5%, respecto a una 
+potencia base igual a la potencia máxima neta en el punto de conexión, 
+correspondiente a 171 [MW]. 
+b) Control Secundario de Frecuencia: 
+• 
+Las pruebas de CSF se efectuaron en horario diurno para el PFV y el BESS, bajo la 
+lógica implementada en el Master PPC (una sola consigna de potencia en el punto 
+de conexión). 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+• 
+Las pruebas de CSF del PFV+BESS, PFV y BESS se realizaron con el CPF 
+deshabilitado y habilitado (estatismo 5% y BM 25 mHZ), solo para el modo de control 
+Breg del AGC. Para el resto de los modos de control ensayados (Auto y Econ), se 
+realizaron con el CPF deshabilitado. 
+c) Control Terciario de Frecuencia: 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Andes Solar III SpA, 
+tanto para el PFV como para el BESS. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tablas en páginas siguientes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Primario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+PFV y BESS Andes Solar III / CRCA 
+Recurso 
+Primario 
+Baterías / Solar 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+ 
+Generación 
+directa 
+Modo 
+descarga  
+Modo 
+carga 
+Características del 
+Controlador de Frecuencia 
+Rango de ajuste Estatismo 
+2-8% 
+Estatismo 
+5% 
+Rango de ajuste Banda 
+muerta [mHz] 
++/- 200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior 
+[MW] (2) 
+158,934 
+177,481 
+-0,0123 
+Límite de regulación inferior 
+[MW] (3) 
+4,003 
+3,709 
+-170,789 
+ (4) (5) (6) (7) (8) 
+Aportes  
+BM = 25 [mHz]  
+R = 5% 
+10 segundos 
+Aporte +0,2[Hz] [MW] 
+-11,800 
+-11,520 
+-11,700 
+Aporte -0,2[Hz] [MW] 
+11,290 
+11,770 
+11,820 
+Aporte +0,7[Hz] [MW] 
+-45,790 
+-46,010 
+-45,890 
+Aporte -0,7[Hz] [MW] 
+46,870 
+45,760 
+45,930 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-12,070 
+-11,640 
+-11,690 
+Aporte -0,2[Hz] [MW] 
+11,720 
+12,160 
+11,900 
+Aporte +0,7[Hz] [MW] 
+-45,890 
+-45,760 
+-46,110 
+Aporte -0,7[Hz] [MW] 
+45,920 
+45,990 
+46,010 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia Máxima bruta, en proceso de aprobación por el Coordinador, para los diferentes modos 
+de operación. 
+(3) Correspondiente a la Potencia Mínima bruta, en proceso de aprobación por el Coordinador, para los diferentes modos 
+de operación. 
+(4) Los aportes para el modo de Generación directa (Solo PFV) de CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con 
+una consigna de 134,85 MW y 105.85 MW respectivamente. 
+(5) Los aportes para el modo de Descarga BESS (Solo BESS) de CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con 
+una consigna de 159,03 MW y 124,83 MW respectivamente.  
+(6) Los aportes para el modo de Carga BESS (BESS cargando desde PFV) de CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz 
+determinados con una consigna de 110,01 MW y 98,61 MW respectivamente. 
+(7) Sin perjuicio de lo indicado en (4), (5) y (6), la respuesta de la instalación es homogénea en todo su rango de operación.  
+(8) Debido al acoplamiento a nivel de corriente continua (DC) entre la componente fotovoltaica y el BESS, no existen 
+diferencias significativas en el desempeño dinámico entre las distintas fuentes de energía primaria. En consecuencia, la 
+respuesta es equivalente, ya sea que la prestación del SC sea realizada por el parque fotovoltaico, el BESS o su operación 
+conjunta. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+b) Control Secundario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado  
+Generación  
+directa 
+Modo  
+descarga 
+Modo  
+carga 
+PFV y BESS  
+Andes Solar III / 
+CRCA  
+Baterías / 
+Solar 
+Tasa normal de 
+operación 
+[MW/min] 
+Subida 
+17,130 
+17,130 
+17,130 
+Bajada 
+17,130 
+17,130 
+17,130 
+Aporte CSF [MW] 
+(1) 
+Subida 
+85,650 
+85,650 
+85,650 
+Bajada 
+-85,650 
+-85,650 
+-85,650 
+Límite de regulación 
+superior [MW] (1)(2) 
+153,226 
+170,790 
+-3,709 
+Límite de regulación inferior 
+[MW] (1)(3) 
+0,892 
+0,012 
+-177,481 
+(1) Los límites de regulación y el aporte máximo de CSF correspondientes a potencia neta podrán verse modificados si se 
+actualizan los parámetros operacionales de la central PFV y BESS Andes Solar III. 
+(2) Corresponde al valor de Potencia Máxima neta en proceso de aprobación por el Coordinador. 
+(3) Corresponde al valor de Mínimo Técnico neto en proceso de aprobación por el Coordinador. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+c) Control Terciario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Generación 
+directa 
+Modo 
+descarga 
+Modo 
+carga 
+PFV y BESS 
+Andes Solar III / 
+CRCA 
+Baterías / 
+Solar 
+Tasa normal de 
+operación 
+[MW/min] 
+Subida 
+17,000 
+17,100 
+17,020 
+Bajada 
+17,010 
+17,040 
+17,030 
+Tasa máxima de 
+operación 
+[MW/min] 
+Subida 
+300,000 
+300,000 
+300,000 
+Bajada 
+300,000 
+300,000 
+300,000 
+Tiempo de 
+respuesta 
+[minutos] 
+Subida 
+<5,00 
+<5,00 
+<5,00 
+Bajada 
+<5,00 
+<5,00 
+<5,00 
+Aporte CTF 
+[MW] (1) 
+Subida 
+152,3339 
+170,777 
+173,772 
+Bajada 
+-152,3339 
+-170,777 
+-173,772 
+Límite de regulación 
+superior [MW] (2) 
+158,934 
+177,481 
+-0,012 
+Límite de regulación 
+inferior [MW] (2) 
+4,003 
+3,709 
+-170,789 
+(1) La reserva se determina como la diferencia entre las potencias netas de la instalación correspondientes a 153,2260 
+[MW] y 0,8921 [MW] para el modo de generación directa, 170,7895 [MW] y 0,0123 [MW] para el modo descarga, y -
+177,4809 [MW] y -3,7090 [MW] para el modo carga. 
+(2) Los límites de regulación, correspondientes a la potencia bruta, y el aporte máximo de CTF podrán verse modificados 
+si se actualizan los parámetros operacionales de la instalación. 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Generación 
+ directa 
+Modo 
+Descarga (1) 
+PFV y BESS 
+Andes Solar III 
+/  
+CRCA 
+Baterías / Solar 
+Tiempo hasta sincronización 
+[min] 
+0,000 
+0,000 
+Tiempo hasta mínimo técnico 
+[min]  
+1,833 
+1,833 
+Reserva Fría [MW]  
+153,226 
+170,790  
+(1) En virtud de lo indicado en el informe de verificación y considerando que los distintos modos de operación presentan 
+una respuesta equivalente debido al acoplamiento en DC, esta condición se extiende también al modo BESS descarga 
+ 
+ 
+ 

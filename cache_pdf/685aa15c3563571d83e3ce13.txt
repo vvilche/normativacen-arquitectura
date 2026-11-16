@@ -1,0 +1,200 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 24 de junio de 2025 
+DE 03724-25 
+Señor 
+Luis Fredes 
+Encargado Titular 
+Inversiones Fotovoltaicas SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+SC de Control Secundario de Frecuencia e 
+integración al Despacho Económico del Parque 
+Fotovoltaico Willka 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), se ha realizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+automático del GMS/SCADA para el Parque Fotovoltaico Willka. Como resultado de este 
+proceso, la central mencionada queda habilitada para la prestación del mencionado servicio 
+a partir de las 00:00 del día 26 de junio de 2025. 
+ 
+Por otra parte, para efectos de elaborar el correspondiente Informe Técnico de Verificación 
+según lo establecido en la Guía de Verificación de Control de Frecuencia, le solicito envíe 
+a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 17 de julio de 
+2025, la siguiente información asociada al parque: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cv cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+ 
+Los reportes técnicos que justifican la verificación de la capacidad de la prestación del SC 
+de CSF de la central mencionada se encuentran publicados en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Secundario de Frecuencia > Central PFV Willka 
+ 
+Dado lo anterior, para que el Parque Fotovoltaico Willka pueda participar de las subastas 
+de CSF, deberán completar el proceso de solicitud de incorporación a la plataforma de 
+subastas. Para ello, su representada deberán presentar los antecedentes indicados en las 
+Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse al correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+C.c.: 
+Sr. Julio Arellano – Encargado Suplente Inversiones Fotovoltaicas SpA 
+DCO/DMAP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC del 
+Parque Fotovoltaico Willka 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Parque Fotovoltaico Willka 
+• 
+Potencia máxima bruta 98,97 [MW] 
+• 
+Potencia máxima neta 98 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+No se detectan condiciones específicas relevantes distintas a las establecidas por la 
+normativa en aplicación para los SSCC en aprobación. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado para el Parque 
+Fotovoltaico Willka. 
+ 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+PFV 
+Willka 
+ 
+Solar 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+19,6 
+ 
+Bajada 
+19,6 
+ 
+Aporte CSF [MW] (1) 
+Subida 
+96,3 
+ 
+Bajada 
+-96,3 
+ 
+Límite de regulación superior [MW]  
+98,0 
+ 
+Límite de regulación inferior [MW]  
+1,70 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+(1) Los límites de regulación y el aporte máximo de CSF correspondientes a la potencia neta podrán verse 
+modificados si se actualizan los parámetros operacionales de la central PFV Willka. 

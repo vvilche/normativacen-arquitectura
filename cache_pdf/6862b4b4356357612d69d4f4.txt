@@ -1,0 +1,44 @@
+ 
+ENERGIA Nº 52-25 
+Santiago, 27 de junio de 2025 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Carta DE 03748-25 “Desempeño del Esquema de Desconexión Automático de Carga (EDAC) por 
+Subfrecuencia y Contingencia Extrema, asociados a los eventos de falla ocurridos en febrero de 2025 
+(EAF 062-2025, EAF 072-2025 y EAF 089-2025)”. 
+ 
+En relación con su carta DE03748-25 de fecha 19 de junio de 2025, informamos a usted que existe un 
+error en lo indicado en la planilla “EDAC_Febrero 2025 SEN final.xlsx” adjunta a dicha comunicación.  
+ 
+En efecto, en respuesta carta DE01743-25, el 25 de marzo de 2025 Empresa de Transportes de Pasajeros 
+Metro S.A. (Metro S.A.) informó a este Coordinador Eléctrico Nacional respecto de la actuación de los 
+Esquemas de Desconexión Automática de Carga (EDAC), indicando que el monto de carga desconectada 
+asociada a la operación del EDAC-BF fue de 12,5MW (carta ENERGIA Nº 24-25), lo cual no es consistente 
+con los datos incorporados en la antedicha planilla.  
+ 
+Asimismo, el 5 de mayo de 2025 Metro S.A. remitió el informe de verificación EDAC (carta ENERGIA Nº 
+35-25). Este informe concluyó que el equipo de protección de Metro S.A. opera dentro de lo establecido 
+en la normativa y que se comprobó que su sistema EDAC-BF estaba funcionando correctamente. 
+ 
+En caso de dudas o consultas, se solicita canalizarlas a través del Sr. Cristian Soto Soto, al correo 
+csoto@metro.cl o al teléfono (2)29373044. 
+Saluda atentamente a Ud., 
+ 
+ 
+ 
+Daniel Lillo Opazo 
+Gerencia Corporativa de Ingeniería  
+Metro S.A. 
+ 
+Daniel 
+Lillo O
+Firmado 
+digitalmente por 
+Daniel Lillo O 
+Fecha: 
+2025.06.27 
+16:24:37 -04'00'

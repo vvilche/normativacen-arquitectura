@@ -1,0 +1,129 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 10 de julio de 2026 
+DE 04635-26 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de parámetros de Partida y 
+Detención de la Central PFV Los Naranjos. 
+ 
+[1] Carta S/N de Empresa Eléctrica Ciprés SpA, 
+Ref.: “Envío de Informe de Parámetros de Partida y 
+Detención, NUP 2225 Proyecto Parque Solar Los 
+Naranjos (ex Ciprés)”, de fecha 13 de mayo de 
+2026. Ingreso DE04653-26. 
+[2] Carta DE03713-26, Ref.: “[NUP 2225] Informes 
+Técnicos de Parámetros Operacionales de la 
+central PFV Los Naranjos”, de fecha 03 de junio de 
+2026. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros de Partida y Detención de Unidades Generadoras” de la Norma Técnica de 
+Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte del Coordinador 
+Eléctrico Nacional de los Parámetros de Partida y Detención de la Central PFV Los 
+Naranjos, en conformidad con el Informe Técnico recibido mediante la comunicación de la 
+Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 11 del Anexo Técnico en 
+aplicación, no se recibieron observaciones de coordinado alguno al informe técnico ya 
+mencionado, publicado en la página web del Coordinador mediante la comunicación de la 
+Ref. [2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme con lo anterior, los valores de los Parámetros de Partida y Detención de la Central 
+PFV Los Naranjos se presentan en las tablas contenidas en el Anexo 1 de la presente carta. 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en las Tablas 1 y 2 del Anexo 
+1 entrarán en vigencia a partir de las 00:00 horas del día 15 de julio de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Parámetros de Partida y Detención > Informes de 
+Determinación de Parámetros de Partida y Detención > Central PFV Los Naranjos > 
+2026 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/PPF/DIR/adr 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Anexo 1: Parámetros del proceso de partida y detención de la Central  
+PFV Los Naranjos. 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PFV Los Naranjos (1) 
+Etapa 
+Parámetro 
+Valor 
+Partida – Sincronización 
+Consumo SSAA [MWh] 
+0,0000 
+Tiempo [minutos] 
+0,1567 
+Sincronización – 
+Mínimo Técnico 
+Consumo SSAA [MWh] 
+0,0002 
+Tiempo [minutos] 
+0,8633 
+Mínimo Técnico – 
+Potencia Nominal 
+Consumo SSAA [MWh] 
+0,0009 
+Tiempo [minutos] 
+4,6800 
+(1) Los valores de potencia máxima y mínima neta de la Central PFV Los Naranjos son de 
+8,4431 MW y 0,0142 MW respectivamente. 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PFV Los Naranjos (1) 
+Etapa 
+Parámetro 
+Valor 
+Potencia Nominal – 
+Mínimo Técnico  
+Consumo SSAA [MWh] 
+0,0009 
+Tiempo [minutos] 
+4,6800 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA [MWh] 
+0,0003 
+Tiempo [minutos] 
+1,6900 
+Desconexión – 
+Detención 
+Consumo SSAA [MWh] 
+0,0000 
+Tiempo [minutos] 
+0,1800 
+ 
+Notas:  
+1) El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo en Estado Detenido 
+(TMD) son 0 [min]. 
+ 

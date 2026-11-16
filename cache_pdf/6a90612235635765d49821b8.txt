@@ -1,0 +1,68 @@
+COPPER  
+Isidora Goyenechea 2800, floor 47  
+Las Condes, Santiago 
+CP: 7550647  
+Chile  
+ 
+Member of the Anglo American plc group  
+Isidora Goyenechea 2800, Floor 46, Las Condes, Santiago, Chile.  T +56 (2)2230-6000   
+ 
+  
+[OFFICIAL] 
+Santiago, 26 de agosto de 2026 
+S-AAS402-0826-2477 
+Señor  
+Lionel Roa Burgos 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional  
+Av. Parque Isidora N°1061.  
+Santiago de Chile   
+Presente  
+  
+  
+Ref: [1] Notificación de incumplimiento Sistema de Medidas para 
+Transferencias Económicas - Subestación La Ermita, de fecha 25 de agosto 
+de 2026. 
+Mat.: Indisponibilidad del enlace de comunicación de medidores de energía - 
+SE La Ermita / Anglo American Sur S.A. 
+  
+De mi consideración,  
+  
+Junto con saludar y en representación de Anglo American Sur S.A., damos respuesta a su comunicación de la 
+Ref. [1], mediante la cual se nos notifica un incumplimiento respecto de lo señalado en el Título 4-5 Sistema de 
+Medida para Transferencias Económicas de la Norma Técnica de Seguridad y Calidad de Servicio, 
+específicamente en el artículo 4-31, en relación con la indisponibilidad del enlace de comunicación de los 
+medidores de energía de la subestación La Ermita, correspondientes a los puntos de medida 
+LAERMITA_220_J1_AAS y LAERMITA_220_J2_AAS. 
+ 
+Al respecto, informamos que la falla se originó por la pérdida de conectividad de la Radio Estación El Tollo, 
+enlace de comunicaciones que sustenta el tráfico de datos hacia la subestación La Ermita, lo que impidió la 
+lectura remota de los medidores señalados y generó el error "Socket Connect Error" reportado en su plataforma. 
+Actualmente contamos con una mitigación operando mediante enlace satelital (Starlink) para los sistemas de 
+control de dicha subestación; sin embargo, esta solución no permite restablecer la disponibilidad de información 
+hacia el SITR ni la reportabilidad de los medidores con el Coordinador. El diagnóstico de la causa raíz y su 
+solución definitiva requieren de una intervención en terreno en la Radio Estación El Tollo, la cual, dado que las 
+condiciones climáticas de la zona afectan el acceso al sector, se estima realizar el día lunes 31 de agosto o 
+martes 01 de septiembre de 2026. Por lo anterior, solicitamos a usted tener a bien considerar una extensión del 
+plazo notificado, comprometiéndonos a mantener informado a ese Coordinador de los avances y del 
+restablecimiento del enlace. 
+ 
+Agradecemos de antemano su comprensión y buena disposición al respecto. 
+Sin otro particular, saluda atentamente,  
+  
+ 
+ 
+ 
+ 
+_______________________________________________ 
+Joan Fuenzalida Pimentel 
+Encargado Suplente 
+Anglo American Sur S.A.   
+Fuenzalida 
+Pimentel, 
+Joan
+Digitally signed by 
+Fuenzalida 
+Pimentel, Joan 
+Date: 2026.08.26 
+22:40:19 -04'00'

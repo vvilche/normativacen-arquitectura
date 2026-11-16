@@ -1,0 +1,161 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 24 de junio de 2026 
+DE 04291-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de los Parámetros de Partida y 
+Detención de la Central TER Newen operando con 
+combustible Diésel. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+TER Newen, operando con combustible Diésel, en conformidad con el Informe Técnico 
+recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+indicado, publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador no realizó observaciones al Informe Técnico mencionado. 
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+TER Newen, operando con combustible Diésel, se presentan en el anexo de la presente 
+comunicación. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del 26 de junio de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Inicio > Operación del sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Parámetros de Partida y Detención > Informes 
+Determinación de Parámetros para Procesos de Partida y Detención de Unidades 
+Generadoras > Central TER Newen > 2026 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PVV/CRV/SGM/RSM/adr 
+ 
+ 
+Referencias 
+[1] Carta N° GS/002-01-2021-OP del coordinado Gas Sur S.A., Ref.: ““Informe Técnico de 
+Parámetros de Partida y Detención de Central Térmica Newen”, de fecha 08 de enero 
+de 2021. Ingreso DE00167-21. 
+ 
+[2] Carta DE08066-25, Ref.: “Informe de Parámetros de Partida y Detención de la Central 
+TER Newen, del Coordinado Gas Sur S.A.”, de fecha 17 de diciembre de 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Anexo: Parámetros del proceso de partida y detención de Central TER Newen. 
+ 
+El consumo de combustible, utilizados en la determinación de los Parámetros de Partida y 
+Detención de la central TER Newen, se encuentran referenciados a una base de poder 
+calorífico de 11.000 [kcal/kg], para petróleo Diésel. Además, se considera una densidad de 
+0,85 [T/m3]. 
+ 
+Tabla 1. Parámetros del proceso de partida Central TER Newen. 
+Etapa 
+Parámetro 
+Central 
+Partida – Sincronización 
+Combustible Diésel [ton] 
+0,2500 
+Consumo SSAA [MWh] 
+0,0090 
+Tiempo [minutos] 
+10,7000 
+Sincronización – Mínimo 
+Técnico 
+Combustible Diésel [ton] 
+0,2770 
+Consumo SSAA [MWh] 
+0,0200 
+Tiempo [minutos] 
+10,0000 
+Mínimo Técnico – Potencia 
+Nominal 
+Combustible Diésel [ton] 
+0,0590 
+Consumo SSAA [MWh] 
+0,0003 
+Tiempo [minutos] 
+1,0500 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención Central TER Newen. 
+Etapa 
+Parámetro 
+Central 
+Potencia Nominal – Mínimo 
+Técnico 
+Combustible Diésel [ton] 
+0,0100 
+Consumo SSAA [MWh] 
+0,0002 
+Tiempo [minutos] 
+0,5000 
+Mínimo Técnico – 
+Desconexión 
+Combustible Diésel [ton] 
+0,0400 
+Consumo SSAA [MWh] 
+1,0000 
+Tiempo [minutos] 
+3,1000 
+Desconexión – Detención (1) 
+Combustible Diésel [ton] 
+0,0000 
+Consumo SSAA [MWh] 
+0,0002 
+Tiempo [minutos] 
+180,0000 
+ 
+(1) Se considera que el estado de detención es cuando entra el virador 
+ 
+El tiempo mínimo de operación (TMO) es de 4,2 [min] 
+El tiempo mínimo en estado detenido (TMD) es de 10 [min]. 

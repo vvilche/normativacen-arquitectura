@@ -1,0 +1,178 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 27 de mayo de 2026 
+DE 03566-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Parámetro de Potencia 
+Máxima de la Central Renovable con Capacidad de 
+Almacenamiento PFV-BESS Andes Solar IV. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en los artículos 24 y 39 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación del valor de Potencia Máxima de la Central 
+Renovable con Capacidad de Almacenamiento (CRCA) PFV-BESS Andes Solar IV, en 
+conformidad con el informe técnico de Potencia Máxima recibido mediante la comunicación 
+de la Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 23 del Anexo Técnico en 
+aplicación no se recibieron observaciones de Coordinado alguno al informe técnico 
+publicado en la página web del Coordinador mediante carta de la Ref. [2]. Por su parte, el 
+Coordinador realizó observaciones de carácter técnico por medio de la comunicación Ref. 
+[3], las cuales fueron subsanadas por el coordinado Andes Solar IV SpA en la presente 
+versión del informe técnico. 
+ 
+Conforme a lo anterior, los valores de los parámetros técnicos de Potencia Máxima de la 
+Central PFV-BESS Andes Solar IV, se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV-BESS Andes Solar IV. 
+Central/Unidad 
+Modo de 
+operación 
+Tiempo 
+carga/descarga 
+[hrs] 
+Potencia 
+Máxima 
+Bruta 
+[MW] 
+SS.AA
+. [MW] 
+Pérdidas 
+en la 
+central (1) 
+[MW] 
+Potencia 
+Máxima 
+Neta (2) 
+[MW] 
+PFV-BESS  
+Andes Solar IV 
+(CRCA) 
+PFV 
+- 
+132,3687 0,2083 
+2,4382 
+129,7222 
+BESS 
+Descarga 
+5,0000 
+132,7337 0,2083 
+2,8049 
+129,7205 
+PFV+BESS 
+Generación 
+Conjunta 
+- 
+133,9562 0,2083 
+4,0262 
+129,7217 
+BESS 
+Carga desde PFV 
+4,9105 
+-132,3687 0,2083 
+3,4374 
+N/A (3)  
+(1) El detalle de pérdidas se indica en Anexo de la presente carta 
+(2) Potencia inyectada en la barra de 220 kV de S/E Futuro. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+(3) No se considera retiros de energía desde la red, según lo informado por el titular. Tampoco se puede referir 
+la potencia de carga del BESS a la barra de 33 kV de la instalación porque el PFV y BESS se encuentran 
+acoplados a nivel DC. 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en la Tabla 1 entrarán en 
+vigencia a partir de las 00:00 horas del 22 de mayo de 2026. 
+ 
+El informe técnico de Potencia Máxima de la Central Renovable con Capacidad de 
+Almacenamiento Andes Solar IV, que contiene la justificación de los parámetros indicados 
+anteriormente, puede ser descargado en la siguiente ruta del sitio web del Coordinador 
+Eléctrico Nacional: 
+ 
+Inicio > Operación del sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > Central 
+PFV-BESS Andes Solar IV > 2026 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+     Patricio Valenzuela V. 
+                                                                 Subgerente de Análisis y Soporte Operacional 
+ 
+ 
+ Coordinador Eléctrico Nacional 
+PVV/CRV/PPF/RSM/ycl 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Referencias 
+ 
+[1] Carta ASIV 0015-2026, Ref.: “Envío de informes de Potencia Máxima y Mínimo 
+Técnico”, de fecha 22 de abril de 2026. Ingreso DE04083-26 
+ 
+[2] Carta DE05014-24, Ref.: “[NUP 3727] Informes Técnicos de Parámetros Operacionales 
+de la Central PFV Andes Solar IV y su BESS”, de fecha 30 de septiembre de 2024. 
+ 
+[3] Carta DE08113-25, Ref.: “Observaciones a los Parámetros operacionales del PFV 
+Andes Solar UV y su BESS Andes Solar IV”, de fecha 23 de diciembre de 2025. 
+ 
+ 
+ 
+ 
+Anexo 
+ 
+Tabla 2: Desglose de las pérdidas asociadas a las pruebas de Potencia Máxima de la Central 
+PFV-BESS Andes Solar IV 
+Central 
+Configuración 
+Pérdidas 
+totales [MW] 
+Pérdidas en el 
+transformador de 
+poder [MW](1) 
+Pérdidas en sistema 
+colector [MW] 
+BESS-PFV 
+Andes Solar IV 
+PFV 
+2,4382 
+0,2763 
+2,1619 
+BESS modo 
+descarga 
+2,8049 
+0,2762 
+2,5287 
+PFV+BESS 
+modo descarga 
+4,0262 
+0,2762 
+3,7500 
+Carga BESS 
+3,4374 
+0,0980 
+3,3394 
+(1) La Central Andes Solar IV comparte transformador 33/33/220 kV con la Central Andes Solar IIB 

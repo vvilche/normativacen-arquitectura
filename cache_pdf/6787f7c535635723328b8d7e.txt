@@ -1,0 +1,464 @@
+ 
+ 
+ 
+ 
+ 
+ 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 15 de enero de 2025 
+ENGIE N°008/2025
+ 
+Sra. 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Observaciones al Informe Desempeño 
+Servicios Complementarios prestados durante el mes 
+de diciembre de 2024. 
+[1] Carta DE00108-25 del 8 de enero de 2025. 
+ 
+De nuestra consideración, 
+ 
+Nos referimos a su carta DE00108-25, ref. [1], donde comunica el Informe Desempeño Servicios Complementarios 
+prestados durante el mes de diciembre de 2024. Al respecto, se informan nuestras observaciones en Anexo. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+Juan Muñoz Tapia 
+Encargado Suplente 
+ENGIE Energía Chile S.A. 
+  
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 
+ 
+TER TOCOPILLA U16 
+ 
+- 
+U16 estuvo con mantenimiento mayor desde el 08-11-2024 hasta el 07-12-2024 a las 18:43 hrs (SD 2024115586.). Se observa que para CPF, CSF, CTF y CT se 
+registra durante el periodo disponibilidad de 0%, se solicita no calificar con 0% durante dicho periodo. 
+ 
+- 
+También en el periodo del 10-12-2024 hasta el 12-12-2024 con SCF 2024127727 desconexión forzada es a raíz de ruidos extraños en SE TOCOPILLA 220 kV, se 
+solicita no calificar con 0% durante dicho periodo.. 
+ 
+ 
+Fecha 
+Ho
+ra 
+Respuesta 
+CPF+ 
+Respuesta 
+CPF- 
+Disponibilidad Desempeño 
+Factor de 
+Desempeño 
+Cuenta 
+con 
+equipo 
+comentarios 
+12-12-2024 
+0 
+No Participó No Participó 
+0.00% 
+0.00% 
+0.00% 
+SI 
+SCF 2024127727 
+12-12-2024 
+1 
+No Participó No Participó 
+0.00% 
+0.00% 
+0.00% 
+SI 
+SCF 2024127727 
+12-12-2024 
+2 
+No Participó No Participó 
+0.00% 
+0.00% 
+0.00% 
+SI 
+SCF 2024127727 
+12-12-2024 
+3 
+No Participó No Participó 
+0.00% 
+0.00% 
+0.00% 
+SI 
+SCF 2024127727 
+12-12-2024 
+4 
+No Participó No Participó 
+0.00% 
+0.00% 
+0.00% 
+SI 
+SCF 2024127727 
+12-12-2024 
+5 
+No Participó No Participó 
+0.00% 
+0.00% 
+0.00% 
+SI 
+SCF 2024127727 
+12-12-2024 
+6 
+No Participó No Participó 
+7.00% 
+7.00% 
+0.00% 
+SI 
+SCF 2024127727 
+12-12-2024 
+21 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+12-12-2024 
+22 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+13-12-2024 
+13 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+13-12-2024 
+14 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+13-12-2024 
+15 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+15-12-2024 
+17 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15-12-2024 
+19 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+17-12-2024 
+8 
+No Participó 
+No 
+Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+17-12-2024 
+15 No Participó 
+80.00% 
+100.00% 
+80.00% 
+80.00% 
+SI 
+Corrector de frecuencia activado 
+17-12-2024 
+19 No Participó 
+No 
+Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+17-12-2024 
+20 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+20-12-2024 
+5 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+21-12-2024 
+1 
+No Participó 
+80.00% 
+100.00% 
+80.00% 
+80.00% 
+SI 
+Corrector de frecuencia activado 
+21-12-2024 
+2 
+No 
+Verificable 
+No 
+Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+21-12-2024 
+3 
+83.00% 
+83.00% 
+100.00% 
+83.00% 
+83.00% 
+SI 
+Corrector de frecuencia activado 
+21-12-2024 
+5 
+No Participó 
+No 
+Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+21-12-2024 
+11 
+83.00% 
+No Participó 
+100.00% 
+83.00% 
+83.00% 
+SI 
+Corrector de frecuencia activado 
+21-12-2024 
+12 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+21-12-2024 
+13 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+24-12-2024 
+4 
+No Participó 
+No 
+Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+24-12-2024 
+6 
+No Participó 
+67.00% 
+100.00% 
+67.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+28-12-2024 
+14 
+0.00% 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+No fue solicitado 
+28-12-2024 
+15 
+40.00% 
+No Participó 
+100.00% 
+40.00% 
+0.00% 
+SI 
+28-12-2024 
+16 
+0.00% 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+29-12-2024 
+0 
+80.00% 
+80.00% 
+100.00% 
+80.00% 
+80.00% 
+SI 
+Corrector de frecuencia activado 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29-12-2024 
+1 
+No 
+Verificable 
+No 
+Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+29-12-2024 
+2 
+No Participó 
+No 
+Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+29-12-2024 
+4 
+No Participó 
+No 
+Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+29-12-2024 
+10 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+29-12-2024 
+11 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+29-12-2024 
+12 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+29-12-2024 
+20 
+No 
+Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Corrector de frecuencia activado 
+ 
+ 

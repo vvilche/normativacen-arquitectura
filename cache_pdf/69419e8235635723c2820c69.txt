@@ -1,0 +1,74 @@
+ 
+ 
+OA-000003-2025 
+Santiago, 16/12/2025 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE 
+REFERENCIA: Responde a Observaciones a Protocolos de Veriﬁcación de SSCC de Control de Tensión 
+de S/E Alto Jahuel y S/E Polpaico. [1] Carta DE07671-25 del Coordinador Eléctrico Nacional. 
+De nuestra consideración: 
+Junto con saludar, por medio de la presente y para dar cumplimiento con lo establecido en el Anexo 
+Técnico “Veriﬁcación de instalaciones para la prestación de SSCC” de la Norma Técnica de Servicios 
+Complementarios, se adjuntan revisión 1 de los Protocolos Especíﬁcos de Pruebas para la Veriﬁcación 
+de Servicios Complementarios – Control de Tensión, correspondientes a los siguientes equipos, 
+conforme a las observaciones dispuestas en carta de Referencia [1]: 
+ 
+Banco 
+de 
+Condensadores 
+BC41, 
+BC42, 
+BC43 
+y 
+BC44 
+de 
+S/E 
+Alto 
+Jahuel 
+(EN202709.1_PEP_SSCC_CT_SE Alto Jahuel_4x_Rev.C);  
+ 
+Banco 
+de 
+Condensadores 
+BC51, 
+BC52, 
+BC53 
+y 
+BC54 
+de 
+S/E 
+Alto 
+Jahuel 
+(EN202709.1_PEP_SSCC_CT_SE Alto Jahuel_5x_Rev.C); 
+ 
+Banco 
+de 
+Condensadores 
+N°1 
+en 
+S/E 
+Polpaico 
+(EN202709.1_PEP_SSCC_CT_SE 
+Polpaico_JCE1_Rev.C) y; 
+ 
+Reactor N°2 en S/E Polpaico (EN202709.1_PEP_SSCC_CT_SE Polpaico_KZ2_Rev.C). 
+Al respecto, se acompaña una Minuta de Respuestas al Documento de Observaciones 
+(MR_202709.1_SSCC_CT_AJ_POL_Rev.0). 
+Quedamos atentos a sus comentarios u observaciones. 
+Le saluda atentamente, 
+TRANSELEC S.A., 
+ 
+ 
+ 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 
+ 
+Docusign Envelope ID: 29C3A7A7-F083-4C18-B3B0-06A105915757

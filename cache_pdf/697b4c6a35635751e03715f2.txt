@@ -1,0 +1,130 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl  
+ 
+ 
+Santiago, 29 de enero de 2026 
+ 
+    
+DE 00603-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Consumo Específico Neto de la Central TER Nueva Renca 
+con desglose en fuegos adicionales (FA). 
+[1] Carta DE 04570-25, Ref.: “Establecimiento del Consumo 
+Específico Neto de la Central TER Nueva Renca”, de fecha 28 de 
+julio de 2025. 
+[2] 
+Carta 
+GM 
+2025-068, 
+del 
+coordinado 
+Generadora 
+Metropolitana SpA., Ref.: “Formaliza observación CEN Fuegos 
+Adicionales central Nueva Renca”, de fecha 22 de agosto de 
+2025.  
+Responde a ingreso DE08636-25. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, a partir del establecimiento de los parámetros CEN 
+de central TER Nueva Renca comunicados mediante carta de la Ref. [1], y considerando la 
+solicitud de desglose de este parámetro asociado a los fuegos adicionales (FA) de la central, a 
+partir de la observación recibida del coordinado Generadora Metropolitana SpA mediante carta 
+de la Ref. [2], informo a Ud. que analizados los antecedentes recibidos, se actualizan los 
+parámetros CEN asociados a los fuegos adicionales de Central TER Nueva Renca. Este cambio 
+no deriva de nuevas pruebas, sino del hecho de separar el CEN que se asocia a los FA de la 
+central, a partir de la información ya recabada durante las pruebas asociadas a la comunicación 
+de la Ref. [1]. 
+ 
+Además, se deja constancia, que el resto de los parámetros CEN de la central, operando sin 
+fuegos adicionales, se mantienen sin cambios. 
+ 
+El informe actualizado con el desglose de los fuegos adicionales puede ser descargado en la 
+siguiente ruta del Sitio Web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Consumo Específico Neto > Pruebas de Consumo Específico Neto > 
+Central TER Nueva Renca > 2025 
+ 
+Considerando lo indicado, se adjunta en el anexo de la presente carta los parámetros CEN 
+asociados a los fuegos adicionales desglosados de central Nueva Renca, los que entrarán en 
+vigencia a partir de las 00:00 horas del 03 de febrero de 2026. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+GZV/CRV/ASA/adr  
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl  
+ 
+Anexo: Parámetros de Consumo Específico Neto asociados a los fuegos adicionales 
+desglosados de Central TER Nueva Renca 
+ 
+Tabla 1: Parámetros CEN Central TER Nueva Renca TG+TV – Combustible Diésel (parámetros de 
+carta de la Ref. [1]) 
+Potencia Neta Corregida [MW] CEN [kcal/kWh] 
+321,9151 
+1.892,5 
+316,9160 
+1.875,2 
+293,8469 
+1.898,4 
+271,8953 
+1.928,6 
+246,4012 
+1.964,2 
+225,9560 
+2.005,1 
+199,1347 
+2.069,4 
+ 
+Tabla 2: Parámetros CEN fuegos adicionales Central TER Nueva Renca – Combustible Central 
+Diésel + GLP como fuego adicional 
+Potencia Neta Marginal del FA (GLP) [MW] CEN [kcal/kWh] 
+21,6789 
+2.530,6 
+ 
+Tabla 3: Parámetros CEN Central TER Nueva Renca TG+TV - Combustible GNL (parámetros de 
+carta de la Ref. [1]) 
+Potencia Neta Corregida [MW] CEN [kcal/kWh] 
+309,4796 
+1.742,2 
+296,1979 
+1.745,2 
+267,5546 
+1.767,4 
+239,6895 
+1.792,8 
+208,2267 
+1.861,1 
+177,9864 
+1.930,4 
+173,1499 
+1.935,9 
+ 
+Tabla 4: Parámetros CEN fuegos adicionales Central TER Nueva Renca – Combustible Central 
+GNL + GNL como fuego adicional 
+Potencia Neta Marginal del FA (GNL) [MW] CEN [kcal/kWh] 
+43,0279 
+2.376,6 
+ 
+Tabla 5: Parámetros CEN fuegos adicionales Central TER Nueva Renca – Combustible Central 
+GNL + GLP como fuego adicional 
+Potencia Neta Marginal del FA (GLP) [MW] CEN [kcal/kWh] 
+46,8500 
+2.354,1 
+ 

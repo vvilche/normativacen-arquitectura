@@ -1,0 +1,1404 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 25 de marzo de 2025 
+ 
+    
+DE 01751-25 
+ 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+de 
+Indicadores 
+de 
+Desempeño de Servicios Complementarios 
+prestados durante el mes de febrero 2025, 
+segunda versión. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página 
+web del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de 
+los Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de 
+febrero 2025. Estos indicadores fueron considerados en la versión definitiva del IVTE de 
+dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador 
+en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2025 > Febrero 2025 > 
+Versión 2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las 
+observaciones recibidas para la primera versión del Informe. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+JKH/ASA/ycl
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de febrero 
+2025 consideradas en la versión 2. 
+ 
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Enlasa 
+Generación 
+Chile S.A. 
+CTF 
+TER El 
+Peñón 
+TER 
+Trapén 
+TER Teno 
+Fecha: 
+04-02-2025 
+07:28 
+El 04-02-2025 a las 07:08, el CDC solicitó la activación 
+de CTF (+) para las centrales TENO_DIESEL, 
+PENON_DIESEL 
+y 
+TRAPEN_DIESEL. 
+Se 
+ha 
+identificado que la hora registrada en el RIO fue a las 
+07:28, la cual no coincide con la hora real de 
+activación. Se adjunta la grabación "20250204070659" 
+que evidencia la comunicación entre el CDC y el CC 
+de Enlasa, donde se menciona el inicio de la 
+instrucción. Se solicita modificar la hora de inicio de las 
+07:28 a las 07:08 para las tres centrales mencionadas. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y CDC, mediante 
+grabaciones, determina que la instrucción fue dada a 
+las 07:28 horas para las tres centrales. 
+ 
+Dicho lo anterior el RIO se modifica y se recalcula el 
+indicador de respuesta, quedando en 100% 75,55% y 
+81,88% para TER El Peñón, Teno y Trapén 
+respectivamente. 
+2 
+Enlasa 
+Generación 
+Chile S.A. 
+CTF 
+TER El 
+Peñón 
+TER 
+Trapén 
+TER Teno 
+Fecha: 
+19-02-2025 
+19:44 
+El 19-02-2025 entre las 19:34 y 20:07 el CDC solicitó 
+la activación de CTF (+) para las centrales 
+TENO_DIESEL, 
+PENON_DIESEL 
+y 
+TRAPEN_DIESEL. Se ha identificado que las horas de 
+inicio y fin registradas en el RIO para TENO_DIESEL 
+fue entre 19:44 y 20:16, las cuales no coinciden con la 
+hora real de activación. Se adjuntan las grabaciones 
+“20250219193239” 
+y 
+“20250219200538” 
+que 
+evidencia la comunicación entre el CDC y el CC de 
+Enlasa, donde se menciona el inicio y fin de la 
+instrucción. Se solicita modificar la hora de inicio de las 
+19:44 a las 19:34 y la hora de fin de 20:16 a 20:07 para 
+la central TENO_DIESEL. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y CDC, mediante 
+grabaciones, determina que la instrucción fue dada a 
+las 19:34 horas con hora de finalización a las 20:07 
+para las tres centrales. 
+ 
+Dicho lo anterior el RIO se modifica y se recalcula el 
+indicador de respuesta, quedando en 96,16% 78,84% 
+y 96,18% para TER El Peñón, Teno y Trapén 
+respectivamente. 
+3 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+3 
+Fecha: 
+01.02.2025 
+04:15:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se comprueba que la 
+limitación informada no indispone la unidad durante 
+todo el mes. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Dicho lo anterior, se actualiza la evaluación de 
+disponibilidad para la unidad. 
+4 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+2 
+Fecha: 
+01.02.2025 
+23:02:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+5 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+2 
+Fecha: 
+02.02.2025 
+07:18:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+6 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+2 
+Fecha: 
+03.02.2025 
+23:34:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+7 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+1 
+Fecha: 
+05.02.2025 
+07:15:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+8 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+2 
+Fecha: 
+05.02.2025 
+07:15:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+9 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+1 
+Fecha: 
+05.02.2025 
+23:18:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+10 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+2 
+Fecha: 
+05.02.2025 
+23:18:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+11 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+2 
+Fecha: 
+06.02.2025 
+22:29:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+12 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+3 
+Fecha: 
+07.02.2025 
+00:08:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+13 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+3 
+Fecha: 
+11.02.2025 
+00:54:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+14 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+1 
+Fecha: 
+11.02.2025 
+22:50:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+15 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+2 
+Fecha: 
+11.02.2025 
+22:50:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+16 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+1 
+Fecha: 
+13.02.2025 
+07:40:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+ 
+17 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+2 
+Fecha: 
+13.02.2025 
+07:40:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+18 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+2 
+Fecha: 
+14.02.2025 
+07:05:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+19 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+3 
+Fecha: 
+16.02.2025 
+05:31:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+20 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+1 
+Fecha: 
+20.02.2025 
+07:27:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+21 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+2 
+Fecha: 
+20.02.2025 
+07:27:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+22 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+2 
+Fecha: 
+21.02.2025 
+23:49:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+23 
+Colbún S.A. Disponib. 
+UG 
+Angostura 
+3 
+Fecha: 
+23.02.2025 
+06:56:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último no es 
+correcto ya que la limitación vigente N°2024001875, 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°3. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+indica que las unidades de la central Angostura no 
+pueden participar de los Controles de Frecuencia entre 
+las 09:00 y 21:00 horas, en este contexto a la hora en 
+la cual la unidad recibe la instrucción si se encontraba 
+disponible y cumple con lo solicitado. Se adjunta la 
+limitación mencionada. 
+Solicitud: Revisar limitación y corregir si corresponde. 
+24 
+Colbún S.A. Disponib. 
+PE San 
+Juan 
+Fecha: 
+05.02.2025 
+00:59:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último se basa 
+en la solicitud N°2024001978 ingresada en diciembre 
+del 2024, sin embargo, esta solicitud ya no se 
+encuentra vigente y el Parque está disponible para la 
+participación del CTF, de hecho, su desempeño así lo 
+demuestra.  
+Solicitud: Revisar y corregir 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se comprueba que la 
+limitación informada no indispone la unidad durante 
+todo el mes. Dicho lo anterior, se actualiza la 
+evaluación de disponibilidad para la unidad. 
+ 
+Sin perjuicio de lo mencionado, la solicitud 
+N°2024001978 aún se encuentra vigente en 
+Neomante, cuya responsabilidad es del coordinado 
+Colbún S.A. y se solicita su cierre. 
+25 
+Colbún S.A. Disponib. 
+PE San 
+Juan 
+Fecha: 
+12.02.2025 
+17:43:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último se basa 
+en la solicitud N°2024001978 ingresada en diciembre 
+del 2024, sin embargo, esta solicitud ya no se 
+encuentra vigente y el Parque está disponible para la 
+participación del CTF, de hecho su desempeño así lo 
+demuestra.  
+Solicitud: Revisar y corregir 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°24. 
+26 
+Colbún S.A. Disponib. 
+PE San 
+Juan 
+Fecha: 
+15.02.2025 
+21:28:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°24. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+obteniendo un desempeño del 93%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último se basa 
+en la solicitud N°2024001978 ingresada en diciembre 
+del 2024, sin embargo, esta solicitud ya no se 
+encuentra vigente y el Parque está disponible para la 
+participación del CTF, de hecho su desempeño asi lo 
+demuestra.  
+Solicitud: Revisar y corregir 
+27 
+Colbún S.A. Disponib. 
+PE San 
+Juan 
+Fecha: 
+15.02.2025 
+22:37:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 91%, sin embargo se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último se basa 
+en la solicitud N°2024001978 ingresada en diciembre 
+del 2024, sin embargo, esta solicitud ya no se 
+encuentra vigente y el Parque está disponible para la 
+participación del CTF, de hecho su desempeño así lo 
+demuestra.  
+Solicitud: Revisar y corregir 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°24. 
+28 
+Colbún S.A. Disponib. 
+PE San 
+Juan 
+Fecha: 
+17.02.2025 
+16:08:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último se basa 
+en la solicitud N°2024001978 ingresada en diciembre 
+del 2024, sin embargo, esta solicitud ya no se 
+encuentra vigente y el Parque está disponible para la 
+participación del CTF, de hecho, su desempeño así lo 
+demuestra.  
+Solicitud: Revisar y corregir 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°24. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+29 
+Colbún S.A. Disponib. 
+PE San 
+Juan 
+Fecha: 
+17.02.2025 
+17:18:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último se basa 
+en la solicitud N°2024001978 ingresada en diciembre 
+del 2024, sin embargo, esta solicitud ya no se 
+encuentra vigente y el Parque está disponible para la 
+participación del CTF, de hecho, su desempeño así lo 
+demuestra.  
+Solicitud: Revisar y corregir 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°24. 
+30 
+Colbún S.A. Disponib. 
+PE San 
+Juan 
+Fecha: 
+18.02.2025 
+18:39:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 98%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último se basa 
+en la solicitud N°2024001978 ingresada en diciembre 
+del 2024, sin embargo, esta solicitud ya no se 
+encuentra vigente y el Parque está disponible para la 
+participación del CTF, de hecho, su desempeño así lo 
+demuestra.  
+Solicitud: Revisar y corregir 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°24. 
+31 
+Colbún S.A. Disponib. 
+PE San 
+Juan 
+Fecha: 
+20.02.2025 
+18:39:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último se basa 
+en la solicitud N°2024001978 ingresada en diciembre 
+del 2024, sin embargo, esta solicitud ya no se 
+encuentra vigente y el Parque está disponible para la 
+participación del CTF, de hecho, su desempeño así lo 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°24. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+demuestra.  
+Solicitud: Revisar y corregir 
+32 
+Colbún S.A. Disponib. 
+PE San 
+Juan 
+Fecha: 
+21.02.2025 
+20:14:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último se basa 
+en la solicitud N°2024001978 ingresada en diciembre 
+del 2024, sin embargo, esta solicitud ya no se 
+encuentra vigente y el Parque está disponible para la 
+participación del CTF, de hecho su desempeño así lo 
+demuestra.  
+Solicitud: Revisar y corregir 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°24. 
+33 
+Colbún S.A. Disponib. 
+PE San 
+Juan 
+Fecha: 
+28.02.2025 
+17:57:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202502" la unidad 
+tuvo una buena respuesta ante la instrucción 
+obteniendo un desempeño del 100%, sin embargo, se 
+consideró que la unidad no estaba disponible al 
+momento de recibir la instrucción. Esto último se basa 
+en la solicitud N°2024001978 ingresada en diciembre 
+del 2024, sin embargo, esta solicitud ya no se 
+encuentra vigente y el Parque está disponible para la 
+participación del CTF, de hecho su desempeño así lo 
+demuestra.  
+Solicitud: Revisar y corregir 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°24. 
+34 
+Colbún S.A. 
+CTF 
+HE Colbún 
+U1 
+Fecha: 
+01.02.2025 
+20:39:00 
+(UTC-3) 
+De acuerdo con el registro RIO la unidad se 
+encontraba participando del Control Secundario de 
+Frecuencia a través del AGC, por lo que la instrucción 
+debió haber sido ejecutada por el operador del 
+Coordinador. 
+Se 
+adjunta 
+registro 
+RIO. 
+Solicitud: Revisar contexto operacional y corregir si 
+corresponde. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que la 
+unidad se encontraba en AGC al momento de la 
+instrucción de CTF. Dicho lo anterior el indicador de 
+respuesta se recalcula y queda en 100%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+35 
+Colbún S.A. 
+CTF 
+HE Colbún 
+U1 
+Fecha: 
+07.02.2025 
+01:44:00 
+(UTC-3) 
+De acuerdo con el registro RIO la unidad se 
+encontraba participando del Control Primario de 
+Frecuencia, asimismo antes de que finalizara la 
+instrucción por el CTF se solicita conectar la unidad al 
+AGC para que comience su participación el Control 
+Secundario de Frecuencia. Se adjunta registro RIO. 
+Solicitud: Revisar contexto operacional y corregir si 
+corresponde. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que la 
+unidad se encontraba en AGC al momento de la 
+instrucción de CTF. Dicho lo anterior el indicador de 
+respuesta se recalcula y queda en 100%. 
+36 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER 
+Andina 
+Para las instrucciones dadas entre el 18-02 y 21-02 
+con desempeño deficiente, el Coordinado indica los 
+estados de la unidad y el movimiento realizado por la 
+central. 
+No se acoge la observación. 
+ 
+No es una observación. No presenta probatorios de 
+ningún tipo y no señala observación alguna. 
+37 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+TER 
+Hornitos 
+Para las instrucciones dadas entre el 20-02 y 26-02 
+con desempeño deficiente, el Coordinado indica los 
+estados de la unidad y el movimiento realizado por la 
+central 
+No se acoge la observación. 
+ 
+No es una observación. No presenta probatorios de 
+ningún tipo y no señala observación alguna. 
+38 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PE SAN 
+GABRIEL 
+Fecha: 
+23-02-2025 
+07:11 
+Se confirma que la instrucción fue prestada de acuerdo 
+con la solicitud y los registros revisados, se mantuvo la 
+consigna hasta el término de la instrucción y a pesar 
+de esto se califica como “NC”. Solicitamos revisar el 
+cálculo. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y medidas de SCADA y 
+se observa que la unidad aumenta su potencia 
+reactiva de -45 a -18 MVAr, cuando la instrucción 
+solicitada corresponde a reducir 18 MVAr. Dicho lo 
+anterior, la evaluación se mantiene. 
+39 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV EL 
+ROMERO 
+Fecha: 
+27-02-2025 
+00:00 
+l informe de desempeño califica la instrucción con NC 
+por error de registro en RIO, ya que este corresponde 
+a la continuidad del servicio al día siguiente. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora que la 
+anotación es la continuidad de una instrucción 
+anterior. Dicho lo anterior se elimina el registro 
+indicado. 
+40 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CTF 
+PE SAN 
+GABRIEL 
+Fecha: 
+22-02-2025 
+19:27 
+Registrado en RIO, pero luego de escuchar las 
+llamadas, se confirma que la instrucción no fue 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina que no 
+se instruyó CTF. Dicho lo anterior, el indicador se 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+realizada, por lo tanto, se debería eliminar este 
+registro. 
+recalcula, lo que se traduce en un factor de 
+desempeño de 100%. 
+41 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CTF 
+PE SAN 
+GABRIEL 
+Fecha: 
+22-02-2025 
+21:18 
+DC no registra en RIO la instrucción, luego de 
+escuchar las llamadas se confirma la recepción de la 
+consigna a las 21:18 solicitando reducir 81 MW. 
+Revisar y registrar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y CDC, mediante 
+grabaciones, determina que la instrucción fue dada a 
+las 21:18 hrs. Dicho lo anterior el RIO se modifica y 
+se recalcula el indicador de respuesta, quedando en 
+66,67%. 
+42 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CTF 
+PE 
+TOLPAN 
+SUR 
+Fecha: 
+15-02-2025 
+10:15 
+Solicitamos revisar esta instrucción, luego de escuchar 
+las llamadas se determina que se recibe la instrucción 
+de aplicar CTF+ para evitar reducir la generación de la 
+central 
+y 
+desajustar la frecuencia sistémica. Por lo tanto, la 
+comprobación automática no es capaz de validar esta 
+instrucción 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina 
+mediante las grabaciones que CDC instruyó 
+aumentar la generación para evitar reducir la 
+generación de la central y evitar desbalances en 
+frecuencia.  
+Dicho lo anterior, el indicador se recalcula, por lo que 
+la respuesta cambia a 100%, lo que se traduce en un 
+factor de desempeño de 100%. 
+43 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CTF 
+PE 
+TOLPAN 
+SUR 
+Fecha: 
+20-01-2025 
+11:58 
+Solicitamos revisar esta instrucción, luego de escuchar 
+las llamadas se determina que se recibe la instrucción 
+de aplicar CTF+ para evitar reducir la generación de la 
+central 
+y 
+desajustar la frecuencia sistémica. Por lo tanto, la 
+comprobación automática no es capaz de validar esta 
+instrucción. 
+Aclaración. 
+ 
+No se registran instrucciones de CTF para el día 20-
+02 para PE Tolpán Sur. 
+44 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CTF 
+PE 
+TOLPAN 
+SUR 
+Fecha: 
+18-02-2025 
+09:00 
+Solicitamos revisar esta instrucción, luego de escuchar 
+las llamadas se determina que se recibe la instrucción 
+de aplicar CTF+ para evitar reducir la generación de la 
+central y desajustar la frecuencia sistémica. Por lo 
+tanto, la comprobación automática no es capaz de 
+validar esta instrucción 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina 
+mediante las grabaciones que CDC instruyó 
+aumentar la generación para evitar reducir la 
+generación de la central y evitar desbalances en 
+frecuencia. Dicho lo anterior, el indicador se 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+recalcula, por lo que la respuesta cambia a 100%, lo 
+que se traduce en un factor de desempeño de 100%. 
+45 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CTF 
+PE 
+TOLPAN 
+SUR 
+Fecha: 
+22-02-2025 
+19:27 
+Registrado en RIO, pero luego de escuchar las 
+llamadas, se confirma que la instrucción no fue 
+realizada, por lo tanto, se debería eliminar este 
+registro. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina que no 
+se instruyó CTF. Dicho lo anterior, el indicador se 
+recalcula, lo que se traduce en un factor de 
+desempeño de 100%. 
+46 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CTF 
+PE 
+TOLPAN 
+SUR 
+Fecha: 
+22-02-2025 
+21:18 
+CDC no registra en RIO la instrucción, luego de 
+escuchar las llamadas se confirma la recepción de la 
+consigna a las 21:18 solicitando reducir 21 MW. 
+Revisar y registrar. 
+Se acoge la observación – En revisión. 
+ 
+Se analizan los antecedentes y CDC añade 
+instrucción a RIO. La evaluación de la nueva 
+instrucción será considerada en una reliquidación 
+posterior. 
+47 
+Generadora 
+Metropolitana 
+SpA 
+CTF 
+General 
+Fecha: 
+General 
+Se solicita agregar al documento CTF_202502.csv el 
+valor de la potencia en t0+30 seg, t0+5 min, t0 +5,5 min 
+y t0+6 min. 
+En evaluación. 
+ 
+Se evaluará su implementación para meses futuros. 
+48 
+Generadora 
+Metropolitana 
+SpA 
+CPF 
+TER Nueva 
+Renca 
+Fecha: 
+01-02-2025 
+a 
+12-02-2025 
+Se solicita realizar la evaluación de desempeño para 
+los días entre el 01 y 12 de febrero con los archivos 
+que serán enviados al correo dco@coordinador.cl, ya 
+que los cargados automáticamente para ese periodo 
+tienen errores 
+Se acoge la observación. 
+ 
+Se incorporan los registros de potencia y frecuencia 
+de la central TER Nueva Renca en el cálculo de 
+indicadores de Control Primario de Frecuencia, 
+siendo evaluada con un factor de desempeño 
+mensual de 91%. 
+ 
+Sin perjuicio de lo anterior cabe destacar que el envío 
+de 
+los 
+registros 
+en 
+tiempo 
+y 
+forma 
+son 
+responsabilidad exclusiva del coordinado, ya que en 
+dos meses consecutivos su representada ha enviado 
+registros fuera de plazo. El no entregar información 
+en plazo y forma constituye un incumplimiento 
+normativo. 
+ 

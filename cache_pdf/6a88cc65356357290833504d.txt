@@ -1,0 +1,516 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 21 de agosto de 2026 
+DE 05628-26 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Según Lista de Distribución 
+Presente 
+Ref.: Proceso de Verificación de Control de 
+Tensión de instalaciones asociadas a la 
+instrucción de Control Dinámico de Tensión 
+(CDT), 
+en 
+el 
+marco 
+de 
+las 
+medidas 
+operacionales definidas por el Coordinador 
+Eléctrico Nacional. 
+ 
+[1] Carta DE01036-25, Ref.: “Actualización del 
+Cronograma de verificación de Servicios 
+Complementarios (SSCC) en instalaciones 
+existentes de Generación y Almacenamiento”, 
+de fecha 18 de febrero de 2025. 
+[2] Carta DE02432-26, Ref.: “Invitación a 
+webinar sobre control dinámico de tensión en 
+parques eólicos, fotovoltaicos y BESS”, de 
+fecha 14 de abril de 2026. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y de acuerdo con los antecedentes que dispone 
+este Coordinador, en anexos a la presente comunicación se individualizan las instalaciones 
+que a la fecha no han sido verificadas en el Control de Tensión (CT), incumpliendo el 
+Cronograma de Verificación actualizado, que fuera formalizado por este Coordinador en 
+comunicación de la Ref. [1].  
+ 
+En anexo 1 se detallan los compromisos asumidos por su representada, asociados a los 
+planes de normalización de los procesos de verificación de CT, relacionados con el Control 
+Dinámico de Tensión (CDT), así como las acciones requeridas para cada una de las 
+instalaciones. 
+ 
+Al respecto, cabe destacar que, el 16 de abril de 2026, el Coordinador realizó un Webinar, 
+denominado “Control Dinámico de Tensión en Parques Eólicos, Fotovoltaicos y BESS” -
+informado en comunicación de la Ref. [2]-, con el objetivo de reforzar la importancia de 
+cumplir con el plan de implementación del CT, focalizando la atención en el CDT el cual es 
+parte del proceso de verificación del CT, en cuya instancia entregó información para facilitar 
+el cumplimiento del Plan establecido.  
+ 
+Asimismo, algunos Coordinados han ingresado un informe de limitación (IL) al sistema 
+Neomante del Coordinador, que restringe la realización del CDT en la operación en tiempo 
+real, argumentando que mientras su instalación no sea verificada no puede realizar CDT, 
+aun cuando dichas instalaciones cuentan con un modelo validado para realizar el CDT y no 
+se ha cumplido con los plazos de verificación establecidos.  
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl
+De acuerdo con lo expuesto, solicito a su representada adoptar, con la mayor urgencia, 
+todas las medidas necesarias para regularizar los procesos de Verificación de Control de 
+Tensión y levantar las actuales limitaciones, dando cumplimiento a las acciones y 
+solicitudes específicas para cada instalación contenida en el anexo 1. Los antecedentes 
+correspondientes deberán ser remitidos a este Coordinador, mediante carta ingresada en 
+su sistema de correspondencia, a más tardar el 28 de agosto de 2026. 
+Sin otro particular, saluda atentamente a Ud., 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+SGCyDO/DCO 
+c.c.:
+Sres. Gerentes Generales Empresas Coordinadas – Según lista de Distribución.
+Sr. Diego Perales R. – Gerente Legal y Regulación del Coordinador.
+Sr. Rodrigo Espinoza V- Gerente de Operación del Coordinador.
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+Lista de Distribución:  
+ 
+1. Atacama Solar SpA  
+2. Cóndor Energía SpA  
+3. Conejo Solar SpA  
+4. COPEC Renovables SpA  
+5. Enel Green Power Chile S.A.  
+6. Engie Energía Chile S.A.  
+7. Huemul Energía SpA  
+8. Parque Eólico Atacama SpA  
+9. Planta Solar San Pedro III SpA  
+10. WPD Duqueco SpA  
+11. WPD Malleco SpA  
+12. WPD Negrete SpA 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo 1: Compromisos establecidos en los planes de normalización con plazos próximos a vencer. 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+1 
+ATACAMA 
+SOLAR SPA 
+PFV ATACAMA 
+SOLAR II 
+Mediante carta DE06770-26 de fecha 10/08/2026 el 
+Coordinado informó como fecha de entrega de los 
+informes de verificación para el 15/09/2026 
+Informar el estado de avance del proceso informando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso Neomante, ejecución de pruebas 
+confección de informe de verificación, etc).  
+2 
+CÓNDOR 
+ENERGÍA SPA 
+PE ALENA 
+Mediante carta DE03651-26 de fecha 13/04/2026 el 
+Coordinado informó como fecha definitiva para la entrega 
+de los informes de verificación septiembre de 2026. 
+Informar el estado de avance del proceso informando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso Neomante, ejecución de pruebas 
+confección de informe de verificación, etc).  
+3 
+CONEJO SOLAR 
+SPA 
+PFV 
+CONEJO 
+SOLAR 
+Mediante carta DE03021-26 de fecha 26/03/2026 el 
+Coordinado informó que la fecha de entrega del informe 
+de 
+verificación 
+pendiente 
+sería 
+el 
+08/06/2026. 
+Posteriormente, mediante carta DE06609-26 de fecha 
+03/082026 informó que las pruebas de CT se realizarán 
+el 30 de septiembre de 2026. 
+Aclarar esta inconsistencia, justificar el segundo plazo 
+informado y adicionalmente se solicita el envío del 
+informe de verificación CT.  
+4 
+COPEC 
+RENOVABLES 
+SPA 
+PFV 
+GRANJA 
+SOLAR 
+Mediante carta DE06707-26 de fecha 06/08/2026 el 
+Coordinado informó como fecha de ensayos el 
+17/08/2026 y como fecha de entrega del informe el 
+15/09/2026. 
+Informar el estado de avance del proceso informando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso Neomante, ejecución de pruebas 
+confección 
+de 
+informe 
+de 
+verificación, 
+etc) 
+Adicionalmente, levantar la limitación N° 2026001555 
+ingresada en NeoMante 
+5 
+ENEL 
+GREEN 
+POWER 
+CHILE 
+S.A. 
+PE VALLE DE 
+LOS VIENTOS 
+Mediante carta DE06676-26 de fecha 05/08/2026 el 
+Coordinado informó como fecha de ensayos el 
+20/10/2026 y como fecha de entrega del informe el 
+10/11/2026. 
+Informar el estado de avance del proceso informando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso Neomante, ejecución de pruebas 
+confección 
+de 
+informe 
+de 
+verificación, 
+etc). 
+Adicionalmente, levantar la limitación N° 2026001640 
+ingresada en NeoMante. 
+6 
+ENEL 
+GREEN 
+POWER 
+CHILE 
+S.A. 
+PE RENAICO II 
+Mediante carta DE06676-26 de fecha 05/08/2026 el 
+Coordinado informó como fecha de ensayos el 
+01/10/2026 y como fecha de entrega del informe el 
+23/10/2026. 
+Informar el estado de avance del proceso informando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso Neomante, ejecución de pruebas 
+confección 
+de 
+informe 
+de 
+verificación, 
+etc). 
+Adicionalmente, levantar la limitación N° 2026001642 
+ingresada en NeoMante. 
+7 
+ENEL 
+GREEN 
+POWER 
+CHILE 
+S.A. 
+PE LA CABAÑA 
+Mediante carta DE06676-26 de fecha 05/08/2026 el 
+Coordinado informó como fecha de ensayos el 
+06/10/2026 y como fecha de entrega del informe el 
+27/10/2026 
+Informar el estado de avance del proceso informando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso Neomante, ejecución de pruebas 
+confección 
+de 
+informe 
+de 
+verificación, 
+etc). 
+Adicionalmente, levantar la limitación N° 2026001647 
+ingresada en NeoMante 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+8 
+ENEL 
+GREEN 
+POWER 
+CHILE 
+S.A. 
+PFV CAMPOS 
+DEL SOL 
+Mediante carta DE06676-26 de fecha 05/08/2026 el 
+Coordinado informó como fecha de ensayos el 
+07/09/2026 y como fecha de entrega del informe el 
+29/09/2026. 
+Informar el estado de avance del proceso informando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso Neomante, ejecución de pruebas 
+confección 
+de 
+informe 
+de 
+verificación, 
+etc). 
+Adionalmente, levantar la limitación N° 2026001231 
+ingresada en NeoMante. 
+9 
+ENEL 
+GREEN 
+POWER 
+CHILE 
+S.A. 
+PFV SOL DEL 
+LILA 
+Mediante carta DE06676-26 de fecha 05/08/2026, el 
+Coordinado informó como fecha de ensayos el 
+11/08/2026 y como fecha de entrega del informe el 
+01/09/2026. 
+Informar el estado de avance del proceso informando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso Neomante, ejecución de pruebas 
+confección 
+de 
+informe 
+de 
+verificación, 
+etc). 
+Adicionalmente, levantar la limitación 2026001644 
+ingresada en NeoMante. 
+10 
+ENEL 
+GREEN 
+POWER 
+CHILE 
+S.A. 
+PE 
+SIERRA 
+GORDA ESTE 
+Mediante carta DE06676-26 de fecha 05/08/2026 el 
+Coordinado informó como fecha de ensayos el 
+23/10/2026 y como fecha de entrega del informe el 
+12/11/2026 
+Informar acciones realizadas para cumplir con los 
+plazos de ejecución de pruebas y emisión de informe. 
+Adicionalmente levantar la limitación 2026001324 
+ingresada en NeoMante. 
+11 
+ENEL 
+GREEN 
+POWER 
+CHILE 
+S.A. 
+PFV 
+AZABACHE 
+Mediante carta DE06676-26 de fecha 05/08/2026 el 
+Coordinado informó como fecha de ensayos el 
+08/10/2026 y como fecha de entrega del informe el 
+29/10/2026 
+Informar acciones realizadas para cumplir con los 
+plazos de ejecución de pruebas y emisión de informe. 
+Adicionalmente levantar la limitación 2026001648 
+ingresada en NeoMante.  
+12 
+ENEL 
+GREEN 
+POWER 
+CHILE 
+S.A. 
+PFV 
+FINIS 
+TERRAE 
+Mediante carta DE06676-26 de fecha 05/08/2026 el 
+Coordinado informó como fecha de ensayos el 
+26/09/2026 y como fecha de entrega del informe el 
+19/10/2026 
+Informar acciones realizadas para cumplir con los 
+plazos de ejecución de pruebas y emisión de informe. 
+Adicionalmente levantar la limitación 2026001643 
+ingresada en NeoMante. 
+13 
+ENEL 
+GREEN 
+POWER 
+CHILE 
+S.A. 
+PFV 
+VALLE 
+DEL SOL 
+Mediante carta DE06676-26 de fecha 05/08/2026 el 
+Coordinado informó como fecha de ensayos el 
+13/08/2026 y como fecha de entrega del informe el 
+03/09/2026.   
+Se solicita informar el estado de avance del proceso 
+informando la etapa en la cual se encuentra (ensayos 
+programados indicando N° de aviso Neomante, 
+ejecución de ensayos, confección de informe de 
+verificación, etc).  Adicionalmente levantar la limitación 
+2026001640 ingresada en NeoMante. 
+14 ENGIE ENERGÍA 
+CHILE S.A. 
+PFV COYA 
+El informe de verificación CT fue enviado en abril de 
+2024. Sin embargo, posteriormente se solicitó un plazo 
+adicional debido a la implementación del BESS PFV 
+Coya y su Master PPC. 
+Enviar informe de verificación actualizado, describiendo 
+los cambios introducidos producto de la implementación 
+del Master PPC, el cual implicaría cambios en la lógica 
+de control CT del PFV Coya respecto de su 
+configuración considerada en informe enviado según 
+comunicación DE02519-24. 
+15 HUEMUL 
+ENERGÍA SPA 
+PFV 
+PAMPA 
+TIGRE 
+Mediante carta DE03652-26 de fecha 13/04/2026, el 
+Coordinado informó que requiere el apoyo del proveedor 
+OEM del sistema SCADA y que se definió como fecha 
+límite para concretar dicho apoyo el mes de mayo de 
+Enviar informe de Verificación CT, o en su defecto 
+informar el estado de avance del proceso, indicando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso NeoMante, ejecución de 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+2026. Asimismo, indicó que, en caso de no concretarse 
+dicho apoyo, se optaría por un proveedor alternativo. 
+Además, señaló que las adecuaciones requeridas 
+tendrían un plazo de ejecución de tres meses. 
+ensayos, confección de informe de verificación, etc.), e 
+informar la fecha de entrega del informe de verificación 
+CT, la cual no puede superar el mes de septiembre de 
+2026. 
+16 
+PARQUE 
+EÓLICO 
+ATACAMA SPA 
+PE ATACAMA 
+Mediante carta DE05686-26, de fecha 22/06/2026 el 
+Coordinado informó como fecha definitiva para la entrega 
+de 
+los 
+informes 
+de 
+verificación 
+el 
+31/08/2026. 
+Posteriormente, vía correo electrónico, indicó que debido 
+a un evento climático en el norte será necesario definir 
+una nueva fecha. 
+Informar el estado de avance del proceso, indicando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso NeoMante, ejecución de 
+ensayos, confección de informe de verificación, etc.), e 
+informar la fecha de entrega del informe de verificación 
+CT la cual no debe superar el mes de septiembre de 
+2026. 
+17 
+PLANTA SOLAR 
+SAN PEDRO III 
+SPA 
+PFV JAMA 
+Mediante carta DE03983-26 de fecha 20/04/2026, el 
+Coordinado informó como fecha definitiva para la entrega 
+de los informes de verificación el 30/11/2026. Sin 
+embargo, a la fecha no se tiene constancia de la entrega 
+de los respectivos protocolos de ensayo para revisión del 
+Coordinador. 
+Remitir los protocolos de pruebas y realizar las 
+gestiones necesarias para adelantar la ejecución de las 
+pruebas y emitir el informe de verificación a más tardar 
+noviembre de 2026. 
+18 WPD DUQUECO 
+SPA 
+PE LOMAS DE 
+DUQUECO 
+Mediante carta DE03276-26 de fecha 01/04/2026, el 
+Coordinado informó como fecha definitiva para la entrega 
+de los informes de verificación el 30/09/2026. 
+Informar el estado de avance del proceso, indicando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso NeoMante, ejecución de pruebas, 
+confección de informe de verificación, etc.). y emitir el 
+informe de verificación CT a más tardar en el mes de 
+septiembre de 2026. 
+19 WPD MALLECO 
+SPA 
+PE 
+MALLECO 
+NORTE 
+Mediante carta DE03278-26 de fecha 01/04/2026, el 
+Coordinado informó como fecha definitiva para la entrega 
+de los documentos pendientes el 30/09/2026. 
+Informar el estado de avance del proceso, indicando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso NeoMante, ejecución de 
+ensayos, confección de informe de verificación, etc.) y 
+emitir el informe de verificación CT a más tardar en el 
+mes de septiembre de 2026. 
+20 WPD MALLECO 
+SPA 
+PE 
+MALLECO 
+SUR 
+Mediante carta DE03278-26 de fecha 01/04/2026, el 
+Coordinado informó como fecha definitiva para la entrega 
+de los documentos pendientes el 30/09/2026. 
+Informar el estado de avance del proceso, indicando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso NeoMante, ejecución de 
+ensayos, confección de informe de verificación, etc.) y 
+emitir el informe de verificación CT a más tardar en el 
+mes de septiembre de 2026. 
+21 WPD NEGRETE 
+SPA 
+PE NEGRETE 
+Mediante carta DE03277-26 de fecha 01/04/2026, el 
+Coordinado informó como fecha definitiva para la entrega 
+de los informes de verificación el 30/09/2026. 
+Informar el estado de avance del proceso, indicando la 
+etapa en la cual se encuentra (ensayos programados 
+indicando N° de aviso NeoMante, ejecución de 
+ensayos, confección de informe de verificación, etc.) y 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+emitir el informe de verificación CT a más tardar en el 
+mes de septiembre de 2026. 
+ 
+ 
+ 

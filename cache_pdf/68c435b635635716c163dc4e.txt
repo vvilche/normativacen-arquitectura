@@ -1,0 +1,209 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 12 de septiembre de 2025 
+DE 05725-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de los Parámetros de Partida y 
+Detención de la Central con capacidad de 
+almacenamiento, PFV Don Humberto y BESS 
+PFV Don Humberto, del coordinado Enel Green 
+Power Chile S.A. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+con capacidad de almacenamiento, PFV Don Humberto (NUP 2224) y BESS PFV Don 
+Humberto (NUP 4084), en conformidad con los informes técnicos recibidos mediante las 
+comunicaciones de las Ref. [1] y [2]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno a los informes 
+técnicos indicados, publicados en la página web del Coordinador mediante carta de la Ref. 
+[3]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+con capacidad de almacenamiento PFV Don Humberto y BESS PFV Don Humberto se 
+presentan en el Anexo a la presente carta. Al respecto, comunico a Ud., que estos 
+parámetros entrarán en vigencia a partir de las 00:00 horas del 16 de septiembre de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+ha sido publicado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Parámetros de Partida y Detención > Informes Determinación de 
+Parámetros para Procesos de Partida y Detención de Unidades Generadoras > 
+Central PFV Don Humberto y BESS PFV Don Humberto > 2024 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PPF/ASA/adr 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Referencias: 
+ 
+[1] Carta EGP 107-24 del Coordinado Enel Green Power Chile S.A., Ref.: “Parámetros 
+Procesos de Partida y Detención Parque Fotovoltaico Don Humberto (NUP 2224)”, de fecha 
+27 de septiembre de 2024. Ingreso DE05470-24. 
+ 
+[2] Carta EGP 110-24 del Coordinado Enel Green Power Chile S.A., Ref.: “Parámetros 
+Procesos de Partida y Detención BESS Parque Fotovoltaico Don Humberto (NUP 4084)”, 
+de fecha 30 de septiembre de 2024. Ingreso DE05506-24. 
+ 
+[3] Carta DE05555-24, Ref.: “[NUP 2224 y 4084] Informes Técnicos de Parámetros 
+Operacionales de la Central PFV Don Humberto y BESS PFV Don Humberto, del 
+coordinado Enel Green Power Chile S.A.”, de fecha 23 de octubre de 2024. 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central con capacidad de 
+almacenamiento PFV Don Humberto y BESS PFV Don Humberto. 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PFV Don Humberto. 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Completa 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0001 
+Tiempo [minutos] 
+0,0667 
+0,5167 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0833 
+0,0167 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0004 
+Tiempo [minutos] 
+0,0333 
+4,1000 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PFV Don Humberto. 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Completa 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0005 
+Tiempo [minutos] 
+0,0333 
+3,7000 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,1333 
+0,0333 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0010 
+Tiempo [minutos] 
+0,2333 
+8,2167 
+ 
+ 
+Tabla 3. Parámetros del proceso de partida del BESS PFV Don Humberto, modo descarga. 
+Etapa 
+Parámetro 
+BESS 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0022 
+Tiempo [minutos] 
+0,5000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0001 
+Tiempo [minutos] 
+0,0167 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0215 
+Tiempo [minutos] 
+5,0000 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Tabla 4. Parámetros del proceso de detención de BESS PFV Don Humberto, modo descarga. 
+Etapa 
+Parámetro 
+BESS 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0215 
+Tiempo [minutos] 
+4,9500 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0001 
+Tiempo [minutos] 
+0,0167 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0001 
+Tiempo [minutos] 
+0,0167 
+ 
+ 

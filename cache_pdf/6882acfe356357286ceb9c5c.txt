@@ -1,0 +1,171 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 24 de julio de 2025  
+DE 03965-25 
+ 
+ 
+Señor 
+Encargado Titular 
+Empresas Coordinadas 
+(según lista de distribución) 
+Presente 
+ 
+ 
+Ref.:  Solicita cumplir con la implementación del 
+Sistema de Lectura Remota de Protecciones del 
+Módulo de Registro de Protecciones del SEN. 
+ 
+De mi consideración: 
+ 
+Me refiero a la implementación del Módulo de Registro de Protecciones establecido en el 
+Anexo Técnico de Sistema de Monitoreo (ATSM) de la Norma Técnica de Seguridad y 
+Calidad de Servicio (NTSyCS) y, en particular, a la implementación del Sistema de Lectura 
+Remota de Protecciones (SLRP) que aplica a los sistemas de protecciones del sistema de 
+transmisión sobre 200 kV y a los sistemas de protecciones de generación cuyo punto de 
+conexión al sistema de transmisión esta sobre 200 kV, y cuyos requerimientos están 
+disponibles en nuestro sitio web, en el link: 
+ 
+https://www.coordinador.cl/operacion/documentos/plataformas-para-la-operacion/modulo-
+de-registro-de-protecciones-electricas/slrp/ 
+ 
+Al respecto, de acuerdo a nuestros antecedentes su empresa no ha dado cumplimiento a 
+la implementación indicada, dada la relevancia que tiene para el monitoreo del Sistema 
+Eléctrico Nacional y la seguridad de su operación en tiempo real contar con un Sistema de 
+Lectura Remota de Protecciones (SLRP) plenamente operativo, le solicito regularizar en el 
+más corto plazo su implementación, remitiendo a más tardar el próximo día 6 de agosto de 
+2025, el plan de trabajo y cronograma que llevará a cabo para efectos de completar la 
+implementación del SLRP en septiembre de 2025, incluyendo los procesos de recolección, 
+normalización y almacenamiento de la información proveniente de esos sistemas de 
+protección. 
+ 
+Adicionalmente, para efectos de realizar un dimensionamiento y una adecuada 
+coordinación del trabajo de configuración que conlleva la integración de los sistemas de 
+protecciones en el aplicativo SLRP del Coordinador, se solicita completar la información 
+requerida en la planilla del anexo de esta carta, en relación con los sistemas de protección 
+de su representada que serán integrados al SLRP. 
+ 
+En caso de consultas, de requerir especificaciones y para realizar las gestiones asociadas 
+a los canales de comunicación que se deben implementar hacia el concentrador del 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Coordinador, puede comunicarse con el equipo SCADA-EMS a la siguiente dirección 
+electrónica TEC.scada@coordinador.cl . 
+ 
+Finalmente, para efectos de enviar la información solicitada, coordinar pruebas finales de 
+integración y realizar consultas que tenga respecto de la implementación, puede 
+comunicarse a la siguiente dirección electrónica dmap@coordinador.cl . 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GO/SGASO/DMAP 
+Incluye: Lo indicado 
+c.c.: Sres. Encargados Suplentes según Lista de Distribución 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Lista de Distribución: 
+ 
+Aela Generación S.A. 
+Albemarle Limitada 
+Alfa Transmisora de Energía S.A. 
+Alto Maipo SpA 
+Ana María S.A. 
+Andes Solar II SpA 
+AustrianSolar Chile Seis SpA 
+Besalco Transmisión SpA 
+Centella Transmisión S.A. 
+Codelco (Corporación Nacional del Cobre) 
+Compañía Contractual Minera Candelaria 
+Compañía Minera Cerro Colorado Ltda 
+Compañía Minera Teck Carmen de Andacollo 
+Compañía Minera Teck Quebrada Blanca S.A. 
+Compañía Minera Zaldívar SpA 
+Compañía Transmisora del Norte Grande S.A. 
+Compañía Transmisora Sur SpA 
+Consorcio Santa Marta S.A. 
+COPEC Renovables SpA 
+CYT Operaciones SpA 
+Edelnor Transmisión S.A. 
+El Pelícano Solar Company SpA 
+Eletrans II S.A. 
+Eletrans III S.A. 
+Eletrans S.A. 
+Empresa Eléctrica Pehuenche S.A. 
+Empresa Eléctrica Rucatayo S.A. 
+Empresa Eléctrica Ventanas SpA 
+Energía Eólica Los Olmos SpA 
+Espinos S.A. 
+Generadora del Pacífico SpA 
+Generadora Metropolitana SpA 
+Geotérmica del Norte S.A. 
+GM Holdings S.A. 
+Hidroeléctrica El Paso SpA 
+Hidroeléctrica La Higuera S.A. 
+Hidroeléctrica Las Juntas S.A. 
+Ibereólica Cabo Leones II S.A. 
+Inversiones Fotovoltaicas SpA 
+Inversiones Hornitos SpA 
+La Higuera Transmisión S.A. 
+Línea de Transmisión Cabo Leones S.A. 
+Mantos Copper S.A. 
+Mataquito Transmisora de Energía S.A. 
+Minera Antucoya 
+Minera Centinela 
+Minera Spence S.A. 
+MLP TRANSMISION S.A. 
+Moly-Cop Chile S.A. 
+Nirivilo Transmisora de Energía S.A. 
+Norvind S.A. 
+Pacific Hydro Chacayes S.A. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Pacific Hydro Transmisión S.A. 
+Palmucho S.A. 
+Parque Eólico Atacama SpA 
+Parque Eólico Cabo Leones I S.A. 
+Parque Eólico El Arrayán SpA 
+Parque Fotovoltaico Nuevo Quillagua SpA 
+Parque Solar Fotovoltaico Luz del Norte SpA 
+Parque Talinay Oriente S.A. 
+PE Cabo Leones III SpA 
+Planta Solar Tocopilla SpA 
+Red Eléctrica del Norte S.A. 
+San Juan S.A. 
+Sistema de Transmisión del Centro S.A. 
+Sistema de Transmisión del Norte S.A. 
+Sistema de Transmisión del Sur S.A. 
+Sociedad Austral de Transmisión Troncal S.A. 
+Sociedad Química y Minera de Chile S.A. 
+Sociedad Transmisora Metropolitana S.A. 
+Solar Elena SpA 
+Sonnedix Cox Energy Chile SpA 
+Sonnedix Don Goyo Transmisión S.A. 
+Tamakaya Energía SpA 
+Tolchén Transmisión SpA 
+Transelec S.A. 
+Transmisora Baquedano S.A. 
+Transmisora Melipeuco S.A. 
+Transmisora Parinas S.A. 
+Transquinta S.A. 
+Transrucatayo S.A. 
+TSGF SpA 
+WPD Malleco SpA 

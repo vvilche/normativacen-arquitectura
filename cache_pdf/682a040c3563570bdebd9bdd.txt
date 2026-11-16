@@ -1,0 +1,728 @@
+ 
+ 
+ 
+Santiago, 16 de mayo de 2025 
+DE 02920-25 
+Señores  
+Encargados  
+Empresas Coordinadas    
+(Según lista de distribución)  
+Presente  
+  
+Ref.: 
+Comunica 
+atraso 
+en 
+proceso 
+de 
+Verificación de Instalaciones de Transmisión 
+para 
+la 
+Prestación 
+de 
+Servicios 
+Complementarios. 
+ 
+De mi consideración:  
+   
+En relación con la materia de la referencia y de acuerdo con lo establecido en el Cronograma 
+del proceso de verificación de Servicios Complementarios (SSCC) de instalaciones 
+existentes de Transmisión, publicado mediante carta de la Ref. [1], se comunica el atraso en 
+el envío de los informes de verificación de las instalaciones de vuestra representada y que 
+se listan en el Anexo de la presente comunicación. Adicionalmente, se insiste en los 
+procesos cuyo atraso fue comunicado en carta de la Ref. [2] y que a la fecha, aún continúan 
+pendientes.  
+ 
+Cabe destacar que el proceso de verificación de SSCC considera varias etapas y se realiza 
+según lo establecido en el Anexo Técnico “Verificación de Instalaciones para la Prestación 
+de SSCC” de la NT de SSCC y en las Guías de Verificación elaborados por este Coordinador, 
+las que se encuentran publicadas en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 2020.06.01 > Instructivos Técnicos 
+ 
+Considerando lo planteado, se solicita a su representada lo siguiente: 
+1. Informar las razones de no haber enviado en plazo los informes de verificación de SSCC 
+de sus instalaciones de trasmisión, indicando las acciones que ha tomado o tomará para 
+que a futuro no se generen nuevos retrasos. 
+2. La entrega de un plan de normalización para las instalaciones indicadas en la Tabla N°1 
+del Anexo, que considere el envío de los Informes de Verificación en un plazo máximo 
+de 30 días corridos, contados a partir del plazo solicitado de respuesta a la presente 
+carta. Dicho plan debe considerar al menos las etapas y fechas límite asociadas, 
+específicamente en lo que respecta a la fecha de envío de los protocolos de pruebas, 
+fecha en que llevará a cabo lo ensayos y la fecha de envío del respectivo informe. Cabe 
+destacar que este plan no debe alterar la entrega de los informes programados de otras 
+instalaciones para los próximos meses por parte de su representada. 
+3. Las instalaciones indicadas en la Tabla N°2 del Anexo, fueron notificadas por retraso 
+mediante la comunicación de la Ref. [2] y a la fecha no han sido enviados. Por lo tanto, 
+deberá enviar los protocolos en un plazo no mayor a 5 días hábiles, y una vez aprobado 
+el protocolo tendrán un plazo máximo de 15 días hábiles para enviar los Informes de 
+Verificación. 
+La información solicitada deberá ser enviada mediante carta y con copia al correo electrónico 
+verificacion.SSCC@coordinador.cl, a más tardar el 26 de mayo de 2025.  
+
+ 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+  
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GZV/CRV/DGQ 
+Incl. Lo indicado 
+ 
+Referencias: 
+ 
+[1] Carta DE01149-25, Ref.: Cronograma del proceso de verificación de Servicios 
+Complementarios (SSCC) en instalaciones de Transmisión, de fecha 21 de febrero de 
+2025. 
+[2] Carta DE00838-25, Ref.: Comunica atraso en proceso de Verificación de Instalaciones 
+de Transmisión para la Prestación de Servicios Complementarios, de fecha 06 de 
+febrero de 2025. 
+ 
+Lista de distribución:  
+• 
+AES ANDES S.A. 
+• 
+ALFA TRANSMISORA DE ENERGÍA S.A. 
+• 
+CEMENTO POLPAICO S.A. 
+• 
+CODELCO (CORPORACIÓN NACIONAL DEL COBRE) 
+• 
+COLBÚN S.A. 
+• 
+COMPAÑÍA BARRICK CHILE GENERACIÓN SPA 
+• 
+COMPAÑIA TRANSMISORA LA CEBADA S.A. 
+• 
+DIEGO DE ALMAGRO TRANSMISORA DE ENERGÍA S.A. 
+• 
+ELETRANS S.A. 
+• 
+EMPRESA DE TRANSMISIÓN ELÉCTRICA TRANSEMEL S.A. 
+• 
+INTERCHILE S.A. 
+• 
+TRANSELEC S.A. 
+• 
+KELTI S.A. 
+• 
+SONNEDIX DON GOYO TRANSMISIÓN S.A. 
+
+ 
+ 
+ 
+Anexo: Instalaciones con entrega de Informes de Verificación de SSCC atrasados según 2024.10.18 Cronograma Definitivo de 
+Verificación de SSCC en instalaciones de Transmisión V1 de la Ref. [1] 
+ 
+A continuación, se listan las instalaciones que tienen pendiente el envío de Informe de Verificación de SSCC según el cronograma emitido en 
+carta de la Ref. [1]. 
+ 
+Cabe destacar que de acuerdo con lo establecido en el artículo 4-5 de la NTSSCC, la verificación de instalaciones mencionadas, por ser 
+considerados existentes en el presente régimen de SSCC, podrán realizar los ensayos y respectivos informes por el titular de las instalaciones 
+mediante personal propio o mediante un tercero, lo que deberá ser notificado oportunamente al Coordinador al momento de enviar el plan de 
+trabajo para normalizar el presente requerimiento normativo. En dicho sentido, para estas instalaciones no es necesario que el Coordinador 
+valide al Experto Técnico, pero éste si revisará y aprobará los protocolos de verificación, los cuales deberán ser enviados al Coordinador al 
+menos 15 días previos a la fecha estimada de realización de los ensayos. 
+ 
+Sin perjuicio de lo anterior, en caso de que el titular de la instalación no haya aún iniciado su proceso de verificación y opte por realizar el 
+proceso mediante un Experto Técnico independiente, deberá informar la terna de Expertos a la que se refiere el Artículo 4 del Anexo Técnico 
+“Verificación de Instalaciones para la Prestación de SSCC” ya citado. Adicionalmente, deberá enviar los antecedentes solicitados en el capítulo 
+5.1 y 5.2 del Instructivo Técnico para la Verificación de Instalaciones. 
+ 
+Tabla N°1: Instalaciones con Informes de Verificación atrasados según cronograma de la Ref. [1]. 
+Coordinado 
+Subestación 
+Paño 
+SSCC 
+Fecha de 
+entrega de 
+informes 
+Observaciones Coordinador 
+Alfa Transmisora de Energía S.A. 
+S/E Esperanza 
+C1 
+CT 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Esperanza 
+C2 
+CT 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Alto Jahuel 
+J10 
+EV 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Alto Jahuel 
+J3 
+EV 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+
+ 
+ 
+ 
+Coordinado 
+Subestación 
+Paño 
+SSCC 
+Fecha de 
+entrega de 
+informes 
+Observaciones Coordinador 
+Alfa Transmisora de Energía S.A. 
+S/E Ancoa 
+J9 
+EV 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Angostura 
+J1 
+EV 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Angostura 
+J2 
+EV 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Candelaria 
+J3 
+EV 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Candelaria 
+J4 
+EV 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Candelaria 
+J1 
+EV 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Candelaria 
+J2 
+EV 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Colbún 
+J7 
+EV 
+feb-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Maipo 
+JCP4 
+CT 
+abr-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Cerro Calera 
+C14 
+CT 
+abr-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+
+ 
+ 
+ 
+Coordinado 
+Subestación 
+Paño 
+SSCC 
+Fecha de 
+entrega de 
+informes 
+Observaciones Coordinador 
+Alfa Transmisora de Energía S.A. 
+S/E Mulchén 
+J5 
+EV 
+abr-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Mulchén 
+J6 
+EV 
+abr-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Mulchén 
+J3 
+EV 
+abr-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Alfa Transmisora de Energía S.A. 
+S/E Mulchén 
+J4 
+EV 
+abr-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Eletrans S.A. 
+S/E Cardones 
+J12 
+EV 
+mar-25 
+Carta DE00909-25 coordinado informó que haría 
+envío de protocolos en febrero de 2025, sin embargo, 
+a la fecha no se han recibido estos protocolos. 
+Eletrans S.A. 
+S/E Cardones 
+J13 
+EV 
+mar-25 
+Carta DE00909-25 coordinado informó que haría 
+envío de protocolos en febrero de 2025, sin embargo, 
+a la fecha no se han recibido estos protocolos. 
+Eletrans S.A. 
+S/E Carrera Pinto 
+J5 
+EV 
+mar-25 
+Carta DE00909-25 coordinado informó que haría 
+envío de protocolos en febrero de 2025, sin embargo, 
+a la fecha no se han recibido estos protocolos. 
+Eletrans S.A. 
+S/E Ciruelos 
+J8 
+EV 
+mar-25 
+Carta DE00909-25 coordinado informó que haría 
+envío de protocolos en febrero de 2025, sin embargo, 
+a la fecha no se han recibido estos protocolos. 
+Eletrans S.A. 
+S/E Ciruelos 
+J9 
+EV 
+mar-25 
+Carta DE00909-25 coordinado informó que haría 
+envío de protocolos en febrero de 2025, sin embargo, 
+a la fecha no se han recibido estos protocolos. 
+Eletrans S.A. 
+S/E Pichirropulli 
+J2 
+EV 
+mar-25 
+Carta DE00909-25 coordinado informó que haría 
+envío de protocolos en febrero de 2025, sin embargo, 
+a la fecha no se han recibido estos protocolos. 
+
+ 
+ 
+ 
+Coordinado 
+Subestación 
+Paño 
+SSCC 
+Fecha de 
+entrega de 
+informes 
+Observaciones Coordinador 
+Eletrans S.A. 
+S/E Pichirropulli 
+J5 
+EV 
+mar-25 
+Carta DE00909-25 coordinado informó que haría 
+envío de protocolos en febrero de 2025, sin embargo, 
+a la fecha no se han recibido estos protocolos. 
+Empresa de Transmisión Eléctrica 
+Transemel S.A. 
+S/E Duqueco 
+J1 
+EV 
+abr-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Empresa de Transmisión Eléctrica 
+Transemel S.A. 
+S/E Cóndores 
+CE1 
+CT 
+abr-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Empresa de Transmisión Eléctrica 
+Transemel S.A. 
+S/E Cóndores 
+CE2 
+CT 
+abr-25 
+En 
+carta 
+DE00839-25 
+Coordinador 
+comunicó 
+procesos próximos a vencer, sin embargo, no se ha 
+recibido respuesta. 
+Compañía Barrick Chile Generación Spa. 
+S/E Punta Colorada 
+J8 
+EV 
+nov-24 
+Pendiente envío de protocolos de ensayos. 
+Compañía Barrick Chile Generación Spa. 
+S/E Punta Colorada 
+J9 
+EV 
+nov-24 
+Pendiente envío de protocolos de ensayos. 
+Compañía Barrick Chile Generación Spa. 
+S/E Punta Colorada 
+J7 
+EV 
+nov-24 
+Pendiente envío de protocolos de ensayos. 
+ 
+Tabla N°2: Instalaciones con Informes de Verificación atrasados según cronograma de la Ref. [1] cuyo atraso fue comunicado en 
+carta de la Ref. [2] y aún continúan sin cerrar su proceso. 
+Coordinado 
+Subestación 
+Paño 
+SSCC 
+Fecha de 
+entrega de 
+informes 
+Observaciones Coordinador 
+Aes Andes S.A. 
+S/E Andes 
+LRE03 
+CT 
+nov-24 
+En carta DE00919-25 coordinado informa envío de 
+protocolos en marzo de 2025, sin embargo, a la 
+fecha no se han recibo estos protocolos. 
+Aes Andes S.A. 
+S/E Cobos 
+2C7/8 
+CT 
+nov-24 
+En carta DE00919-25 coordinado informa envío de 
+protocolos en marzo de 2025, sin embargo, a la 
+fecha no se han recibo estos protocolos. 
+Aes Andes S.A. 
+S/E Laberinto 220 kV 
+J05L 
+EV 
+nov-24 
+En carta DE00919-25 coordinado informa envío de 
+protocolos en marzo de 2025, sin embargo, a la 
+fecha no se han recibo estos protocolos. 
+
+ 
+ 
+ 
+Coordinado 
+Subestación 
+Paño 
+SSCC 
+Fecha de 
+entrega de 
+informes 
+Observaciones Coordinador 
+Aes Andes S.A. 
+S/E Mantos Blancos 
+220 kV 
+J04L 
+EV 
+nov-24 
+En carta DE00919-25 coordinado informa envío de 
+protocolos en marzo de 2025, sin embargo, a la 
+fecha no se han recibo estos protocolos. 
+Aes Andes S.A. 
+S/E Ventanas 
+HT1 
+EV 
+nov-24 
+En carta DE00919-25 coordinado informa envío de 
+protocolos en marzo de 2025, sin embargo, a la 
+fecha no se han recibo estos protocolos. 
+Cemento Polpaico S.A. 
+S/E Punta Peuco  
+FC1 
+CT 
+nov-24 
+Sin respuesta a carta de la Ref. [2]. 
+Codelco (Corporación Nacional del 
+Cobre) 
+S/E Laberinto 220 kV 
+J01R 
+CT 
+nov-24 
+Sin respuesta a carta de la Ref. [2]. 
+Colbún S.A. 
+S/E Canutillar 
+J2 
+EV 
+nov-24 
+Sin respuesta a carta de la Ref. [2]. 
+Colbún S.A. 
+S/E Canutillar 
+J1 
+EV 
+nov-24 
+Sin respuesta a carta de la Ref. [2]. 
+KELTI S.A. 
+S/E Atacama 220 kV 
+J3 
+EV 
+nov-24 
+Sin respuesta a carta de la Ref. [2]. 
+KELTI S.A. 
+S/E Atacama 220 kV 
+J10 
+EV 
+nov-24 
+Sin respuesta a carta de la Ref. [2]. 
+Sonnedix Don Goyo Transmisión S.A. 
+S/E Don Goyo 
+J2 
+EV 
+nov-24 
+Sin respuesta a carta de la Ref. [2]. 
+Sonnedix Don Goyo Transmisión S.A. 
+S/E Don Goyo 
+J3 
+EV 
+nov-24 
+Sin respuesta a carta de la Ref. [2]. 
+Compañia Transmisora La Cebada S.A. 
+S/E La Cebada 
+J1 
+EV 
+dic-24 
+En carta DE00918-25 coordinado informa envío de 
+protocolos en marzo de 2025, sin embargo, a la 
+fecha no se han recibo estos protocolos. 
+Compañia Transmisora La Cebada S.A. 
+S/E La Cebada 
+J2 
+EV 
+dic-24 
+En carta DE00918-25 coordinado informa envío de 
+protocolos en marzo de 2025, sin embargo, a la 
+fecha no se han recibo estos protocolos. 
+Diego de Almagro Transmisora de 
+Energía S.A. 
+S/E Illapa 220 kV 
+J1 
+EV 
+dic-24 
+Sin respuesta a carta de la Ref. [2]. 
+Diego de Almagro Transmisora de 
+Energía S.A. 
+S/E Illapa 220 kV 
+J2 
+EV 
+dic-24 
+Sin respuesta a carta de la Ref. [2]. 
+Diego de Almagro Transmisora de 
+Energía S.A. 
+S/E Illapa 220 kV 
+J3 
+EV 
+dic-24 
+Sin respuesta a carta de la Ref. [2]. 
+Diego de Almagro Transmisora de 
+Energía S.A. 
+S/E Illapa 220 kV 
+J4 
+EV 
+dic-24 
+Sin respuesta a carta de la Ref. [2]. 
+
+ 
+ 
+ 
+Coordinado 
+Subestación 
+Paño 
+SSCC 
+Fecha de 
+entrega de 
+informes 
+Observaciones Coordinador 
+Diego de Almagro Transmisora de 
+Energía S.A. 
+S/E Illapa 220 kV 
+J5 
+EV 
+dic-24 
+Sin respuesta a carta de la Ref. [2]. 
+Diego de Almagro Transmisora de 
+Energía S.A. 
+S/E Illapa 220 kV 
+J6 
+EV 
+dic-24 
+Sin respuesta a carta de la Ref. [2]. 
+Diego de Almagro Transmisora de 
+Energía S.A. 
+S/E Illapa 220 kV 
+J8 
+EV 
+dic-24 
+Sin respuesta a carta de la Ref. [2]. 
+Diego de Almagro Transmisora de 
+Energía S.A. 
+S/E Illapa 220 kV 
+J9 
+EV 
+dic-24 
+Sin respuesta a carta de la Ref. [2]. 
+Diego de Almagro Transmisora de 
+Energía S.A. 
+S/E Illapa 220 kV 
+J11 
+EV 
+dic-24 
+Sin respuesta a carta de la Ref. [2]. 
+Diego de Almagro Transmisora de 
+Energía S.A. 
+S/E Illapa 220 kV 
+J12 
+EV 
+dic-24 
+Sin respuesta a carta de la Ref. [2]. 
+ 

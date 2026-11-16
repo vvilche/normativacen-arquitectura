@@ -1,0 +1,155 @@
+                                                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 1 de 1 
+  
+2026.02.18 Rpta Carta DE 00379-26 
+ 
+Santiago, 18 de febrero de 2026 
+Sr. 
+Ernesto Huber Jara  
+Director Ejecutivo  
+Coordinador Eléctrico Nacional  
+Presente 
+Referencia: Sobre DE00379-26 y  
+carga del BESS de Generación Solar  
+ 
+De nuestra consideración, 
+ 
+Junto con saludar, y por medio de la presente, referente a la carta DE00379-26, nos dirigimos a 
+usted para comentar sobre la limitación que presenta el parque BESS de Generación Solar para cargar energía 
+desde la red y asimismo responder a los requerimientos allí presentados. 
+ 
+En primer lugar, en la carta se solicita el envío de un diagrama que muestre la arquitectura de 
+comunicaciones y los equipos implementados para integrarse al AGC, como también documentos que 
+certifiquen que el enlace AGC tenga una disponibilidad de 99,95%. Se adjuntan los siguientes documentos: 
+ 
+• 
+Arquitectura de Comunicaciones de SE Maria Elena 
+• 
+Hispasat_Disponibilidad Dic2025-Ene2026 SAESA MARIA ELENA 
+ 
+Para cumplir con la disponibilidad de 99,95% exigida para el enlace AGC, se dispone de dos canales 
+de comunicación redundantes. El primero es provisto por Hispasat; el documento adjunto muestra la 
+disponibilidad registrada para los meses de diciembre de 2025 y enero de 2026, alcanzando valores de 99,58% 
+y 99,77%, respectivamente. 
+ 
+Se encuentra pendiente la recepción del certificado de disponibilidad correspondiente al canal 
+provisto por Entel, el cual, en conjunto con el canal Hispasat, permite alcanzar la disponibilidad global requerida 
+por la normativa. 
+ 
+En segundo lugar, se presenta el requerimiento de instalar o habilitar, antes del 20 de febrero de 
+2026, equipos necesarios para medir el desempeño de la prestación del servicio complementario de Control 
+Primario de Frecuencia (CPF). Esto, por medio de medidores de potencia/frecuencia con resolución de 1 
+segundo. Los registros de estos medidores deben ser enviados al CEN siguiendo el documento: “Protocolo de 
+envío de registros para la evaluación del CPF, noviembre 2023”.  
+ 
+Frente a esto, comentamos que actualmente Generación Solar SpA está en proceso de licitación 
+para instalar sus PMU. Agradeceremos nos indique si es posible utilizar las medidas de dichos equipos para 
+cumplir con el envío de los datos de desempeño solicitada. Por favor confirmar si la medida debe ser dedicada 
+
+                                                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 1 de 1 
+  
+exclusivamente para la medida del desempeño del CPF o si se puede extraer de sistemas dedicados a otros 
+propósitos. 
+ 
+Adicionalmente, se presenta que se debe implementar un método transitorio mientras no se 
+cuente con los medidores. Para esto, queremos consultar cuáles son los requisitos que debe cumplir este medio 
+transitorio para que sea considerado como válido. Con esto nos referimos a la tasa de muestreo, precisión y 
+protocolo o forma de envío de la data al CEN. 
+ 
+Por último, se tiene que en la carta se indica “Cabe destacar que, a la fecha de emisión de esta carta 
+de verificación (20/01/2026), el BESS PFV María Elena, el BESS PFV María Elena no tiene permitido cargarse 
+desde la red”, nos gustaría entender porque se ha definido esta restricción. 
+ 
+En el Decreto Supremo N°70 se establece que: “El Coordinador deberá incorporar en la 
+programación de la operación el programa de retiros comunicado por los Coordinados titulares de Sistemas de 
+Almacenamiento de Energía destinados al arbitraje de precios de energía, de Centrales Renovables con 
+Capacidad de Almacenamiento (CRCA) o de Centrales con Almacenamiento por Bombeo, conforme se establece 
+en el artículo precedente.”. 
+ 
+En consecuencia, el sistema BESS de Generación Solar, en su calidad de Central Renovable con 
+Capacidad de Almacenamiento, se encuentra habilitado para remitir al Coordinador Eléctrico Nacional un 
+programa de retiros (carga) informado por su titular, el cual deberá ser considerado e incorporado dentro de la 
+programación de la operación del sistema eléctrico. 
+ 
+En el Decreto Supremo N°70 se indica que para un CRCA: “Se entenderá que la energía almacenada 
+en la componente de almacenamiento puede provenir de la energía producida por la componente de generación 
+o de la energía retirada del sistema, debiéndose priorizar lo proveniente de la componente de generación. En el 
+caso de que la energía provenga del sistema, la Central Renovable con Capacidad de Almacenamiento deberá 
+ser considerada como un Sistema de Almacenamiento de Energía para todos los efectos del presente 
+reglamento.”. 
+ 
+De esta forma, el proyecto BESS de Generación Solar debería tener permitido cargar desde la red, 
+pero con la condición de que debe priorizar la energía proveniente de su sistema de generación, es decir, del 
+parque fotovoltaico María Elena. 
+ 
+En el capítulo de Programación de la Operación de la Norma Técnica de Coordinación y Operación 
+del Sistema Eléctrico Nacional se indica cuál es el procedimiento para hacer envío del programa de retiros de los 
+coordinados con CRCA. Estos, deben comunicar al CEN a más tardar a las 8:00 am el programa de retiros para el 
+día siguiente, con una resolución igual a la del primer día del horizonte de la etapa PID (Programación Intra 
+Diaria). Además, deben informar su Modo Carga, debiendo considerar solo aquella proporción de la energía 
+eléctrica que será retirada desde el sistema, priorizando la energía proveniente desde su componente de 
+generación. 
+ 
+Actualmente, el parque BESS de Generación Solar mantiene un acuerdo de Compraventa Física de 
+Energía entre empresas generadoras participantes del balance de inyecciones y retiros del SEN, suscrito entre 
+
+                                                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 1 de 1 
+  
+Generación Solar SpA (vendedor) y EMOAC SpA (comprador). El contrato tiene por objeto la transferencia de 
+energía activa inyectada al Sistema Eléctrico Nacional desde su sistema de almacenamiento BESS, conectado en 
+la barra 220 kV de la Subestación María Elena desde las 21:00 hrs. de cada día y hasta las 06:00 hrs. del día 
+inmediatamente siguiente.  
+ 
+Es responsabilidad del Vendedor buscar la mayor eficiencia en el despacho del BESS con el fin de 
+maximizar los beneficios percibidos por el Comprador. Por lo que, en algunas condiciones particulares de 
+operación del PV María Elena, la restricción de la carga del BESS desde la red puede llegar a ser un impedimento 
+para lograr cumplir con este compromiso. 
+ 
+En virtud de lo expuesto, y considerando que la normativa vigente reconoce expresamente que una 
+Central Renovable con Capacidad de Almacenamiento puede retirar energía desde el sistema eléctrico, 
+estableciendo únicamente la obligación de priorizar la energía proveniente de su componente de generación, 
+pero sin prohibir la carga desde la red, solicitamos se revise la restricción actualmente indicada para el BESS PFV 
+María Elena. 
+ 
+En particular, se solicita permitir la operación de carga desde la red del conjunto PFV María Elena + 
+BESS, de conformidad con lo dispuesto en el Decreto Supremo N°70 y en la Norma Técnica de Coordinación y 
+Operación, o bien se nos indique expresamente el fundamento técnico-normativo y el procedimiento que 
+corresponda seguir para habilitar dicha operación. 
+ 
+Lo anterior, atendido que la normativa aplicable no establece una prohibición para este tipo de 
+instalaciones, y que la posibilidad de realizar retiros desde el sistema forma parte de la operación reconocida 
+para Centrales Renovables con Capacidad de Almacenamiento. 
+ 
+Sin otro particular, quedamos atentos a sus comentarios y orientaciones respecto de los pasos a 
+seguir. 
+ 
+ 
+ 
+ 
+ 
+ 
+Eliseo López Nitsche 
+ 
+Encargado Titular 
+ 
+Generación Solar SpA 

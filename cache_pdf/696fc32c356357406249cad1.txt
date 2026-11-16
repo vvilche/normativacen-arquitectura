@@ -1,0 +1,488 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 20 de enero de 2026 
+DE 00379-26 
+Señor 
+Eliseo López 
+Encargado Titular 
+Generación Solar SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario 
+de 
+Frecuencia, 
+Control 
+Terciario 
+de 
+Frecuencia y Control Secundario de Frecuencia e 
+integración al Despacho Económico de la Central 
+Renovable 
+con 
+Capacidad 
+de 
+Almacenamiento 
+(CRCA) BESS PFV María Elena (NUP 4786). 
+Responde a Ingresos: DE07561-25 y DE06881-25. 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de las Ref. [1] y [2], comunico a Ud. que en cumplimiento con 
+lo establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los SSCC de Control Primario de 
+Frecuencia (CPF), Control Terciario de Frecuencia (CTF) y Control Secundario de 
+Frecuencia (CSF) e integración al módulo de Despacho Económico del BESS PFV María 
+Elena (NUP 4786), considerando sus modos de operación de carga y descarga del 
+BESS, pasando la central PFV María Elena a ser una CRCA. Cabe destacar que, a la fecha 
+de emisión de esta carta de verificación, el BESS PFV María Elena no tiene permitido 
+cargarse desde la red. 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del 22 de enero de 2026 considerando 
+los recursos indicados en el anexo a la presente carta. 
+Con respecto al CSF, para efectos de elaborar el correspondiente Informe Técnico de 
+Verificación según lo establecido en la Guía de Verificación de Control de Frecuencia, le 
+solicito envíe a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 20 
+de febrero de 2026, la siguiente información asociada al parque: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF, CTF y CSF de la CRCA BESS PFV María Elena se han publicado 
+en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia: 
+1. > Control Primario de Frecuencia > Central PFV María Elena 
+2. > Control Secundario de Frecuencia > Central PFV María Elena 
+3. > Control Terciario de Frecuencia > Central PFV María Elena 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [3], siendo el plazo 
+para esta acción el de 30 días corridos contados desde el envío de la presente carta. 
+Pese a no contar con las señales necesarias para evaluar el desempeño en la 
+prestación, la CRCA BESS PFV María Elena quedará habilitada para prestar el 
+Servicio Complementario (SC) de Control Primario de Frecuencia (CPF), pudiendo 
+ser instruida por este Coordinador para prestar dicho servicio. En dicho caso, la 
+evaluación de estás instrucciones será “No Verificable”. 
+• 
+Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, para la evaluación de desempeño se podrán utilizar medios 
+alternativos para poder realizar la evaluación de desempeño de la prestación del 
+SC, los que deberán ser aprobados previamente por el Coordinador. 
+Finalmente, la CRCA BESS PFV María Elena podrá participar de las subastas de Control 
+de Frecuencia, una vez que complete el proceso de solicitud de incorporación a la 
+plataforma de subastas. Para ello, su representada deberá presentar los antecedentes 
+indicados en las Bases Administrativas de Subastas para Control de Frecuencia, que se 
+encuentran publicadas en la siguiente ruta de la página web del Coordinador Eléctrico 
+Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, la instalación mencionada podrá ser instruida de manera directa 
+por el Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC.  
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DIR/WJS/adr 
+c.c.:  
+Sr. Bruno Arnold – Encargado Suplente Generación Solar SpA. 
+DCO/DMAP 
+ 
+ 
+Referencias: 
+ 
+[1] Carta S/N, Ref.: “Envío informe de CPF Proyecto BESS María Elena NUP 4786”, de 
+fecha 05 de agosto de 2025. Ingreso DE07561-25. 
+ 
+[2] Carta S/N, Ref.: “Envio informes de CT, CPF y CTF Proyecto BESS María Elena NUP 
+4786 con minuta explicativa”, de fecha 22 de julio de 2025. Ingreso DE06881-25. 
+ 
+[3] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión Definitiva > 
+Instructivos Técnicos > Protocolo de envío de registros Potencia/Frecuencia para la 
+evaluación del CPF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+1 los signos negativos hacen referencia a la convención utilizada para identificar la carga del BESS. 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central 
+Renovable con Capacidad de Almacenamiento BESS PFV María Elena 
+1. 
+Identificación de las Instalaciones Verificadas: 
+Los siguientes parámetros están en proceso de aprobación por el Coordinador: 
+a) BESS PFV María Elena (modo descarga) 
+• 
+Potencia máxima bruta: 59,374 [MW] 
+• 
+Potencia máxima neta: 58,542 [MW]  
+• 
+Potencia mínima bruta: 0,999 [MW] 
+• 
+Potencia mínima neta: 0,548 [MW] 
+b) BESS PFV María Elena1 (modo carga) 
+• 
+Potencia máxima bruta: -61,062 [MW] 
+• 
+Potencia máxima neta: -61,942 [MW] 
+• 
+Potencia mínima bruta: -0,062 [MW] 
+• 
+Potencia mínima neta: -1,119 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Secundario de 
+Frecuencia 
+Control Secundario de Frecuencia por 
+Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia por 
+Sobrefrecuencia (CSF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+La central PFV y BESS María Elena corresponde a una central con capacidad de 
+almacenamiento con PPC independiente para la componente de generación directa y 
+el BESS.  
+A la fecha de emisión de esta carta de verificación, el BESS PFV María Elena no 
+tiene permitido cargarse desde la red, esta condición podrá modificarse si se 
+otorgan los permisos correspondientes. 
+a) Control Primario de Frecuencia: 
+• 
+Instalación con rango de ajuste de estatismo del 2% al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados por el operador con la unidad en 
+servicio.
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+• 
+Estatismo (R) actual se encuentra ajustado al 7,5%, respecto a una potencia base 
+igual a su potencia máxima neta.  
+• 
+La respuesta del CPF está limitada por una rampa de toma y bajada de carga. 
+Durante los ensayos de verificación, esta rampa se desactivó, obteniendo así la 
+respuesta CPF esperada en este servicio complementario. 
+Considerando lo anterior, el Coordinador verificará el recurso presente y solicitará 
+un plan de trabajo al coordinado Generación Solar SpA, en el que se normalicen los 
+ajustes CPF de modo que la instalación pueda entregar su aporte de potencia activa 
+en un tiempo de 10 segundos. En el intertanto, la central permanecerá limitada para 
+su prestación del CPF, debiendo Generación Solar SpA ingresar un informe de 
+limitación en la plataforma Neomante del Coordinador. 
+b) Control Secundario de Frecuencia: 
+Sin condiciones específicas para el SC mencionado. 
+c) Control Terciario de Frecuencia: 
+• 
+La rampa de toma y bajada de carga es configurable desde el PPC de la planta, sin 
+restricciones, y puede ser modificada mientras la instalación se encuentra en 
+operación. 
+• 
+BESS PFV María Elena no cumple con el tiempo de sincronización de 5 minutos. 
+Dado lo anterior, no se verifica en CTF frío. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Generación Solar 
+SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tablas en páginas siguientes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Primario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+BESS PFV Maria Elena / CRCA 
+Recurso 
+Primario 
+Baterías 
+ 
+ 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+ 
+Modo descarga 
+Modo carga 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2-8% 
+Estatismo 
+7,50% 
+Rango de ajuste Banda muerta [mHz] 
+25-200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] 
+59,374 (2) 
+-0,062 (3) 
+Límite de regulación inferior [MW] 
+0,999 (3) 
+-61,062 (2) 
+Aportes (4) 
+ BM = 25 [mHz]  
+R = 7,5% 
+10 segundos 
+Aporte +0,2[Hz] [MW] 
+-2,59 
+-2,57 
+Aporte -0,2[Hz] [MW] 
+1,9 
+2,5 
+Aporte +0,7[Hz] [MW] 
+-9,75 
+-9,89 
+Aporte -0,7[Hz] [MW] 
+9,67 
+9,76 
+5 minutos 
+Aporte +0,2[Hz] [MW] 
+-2,766 
+-2,7 
+Aporte -0,2[Hz] [MW] 
+2,73 
+2,71 
+Aporte +0,7[Hz] [MW] 
+-10,56 
+-10,36 
+Aporte -0,7[Hz] [MW] 
+10,51 
+10,53 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia Máxima bruta en proceso de aprobación por el Coordinador para los modos de carga y 
+descarga del BESS. 
+(3) Correspondiente a la Potencia Mínima bruta en proceso de aprobación por el Coordinador para los modos de carga y 
+descarga del BESS. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 29,270 MW y 48 MW, 
+respectivamente. Sin perjuicio de lo anterior, la respuesta del BESS es homogénea en todo su rango de operación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+b) Control Secundario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Modo 
+descarga 
+Modo 
+carga 
+BESS PFV Maria Elena 
+/ CRCA 
+Baterías 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+6,050 
+6,050 
+Bajada 
+6,050 
+6,050 
+Aporte CSF [MW] (1) 
+Subida 
+30,250 
+30,250 
+Bajada 
+-30,250 
+-30,250 
+Límite de regulación superior 
+[MW] (1) 
+58,542 
+-1,119 
+Límite de regulación inferior 
+[MW] (1) 
+0,548 
+-61,942 
+(1) Los límites de regulación y el aporte máximo de CSF correspondientes a potencia neta podrán verse modificados si se 
+actualizan los parámetros operacionales. 
+c) Control Terciario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Modo 
+descarga 
+Modo 
+carga 
+BESS PFV María 
+Elena / CRCA 
+Baterías 
+Tasa normal de 
+operación [MW/min] 
+Subida 
+6,05 
+6,05 
+Bajada 
+6,05 
+6,05 
+Tasa máxima de 
+operación [MW/min] 
+Subida 
+12,1 
+12,1 
+Bajada 
+12,1 
+12,1 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5,00 
+<5,00 
+Bajada 
+<5,00 
+<5,00 
+Aporte CTF [MW] (1) 
+Subida 
+57,994 
+60,823 
+Bajada 
+-57,994 
+-60,823 
+Límite de regulación superior 
+[MW] (1)(2) 
+59,374 
+-0,062 
+Límite de regulación inferior 
+[MW] (1)(2) 
+0,999 
+-61,062 
+(1) La reserva se determina como la diferencia entre las potencias netas de la instalación para los modos de descarga y 
+carga. 
+(2) Los límites de regulación, correspondientes a la potencia bruta, y el aporte máximo de CTF podrán verse modificados si 
+se actualizan los parámetros operacionales. 
+ 

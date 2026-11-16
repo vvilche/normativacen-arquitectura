@@ -1,0 +1,345 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 21 de agosto de 2026 
+DE 05418-26 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Según Lista de Distribución 
+Presente 
+Ref.: Incumplimiento asociado al Proceso de 
+Verificación 
+de 
+Control 
+de 
+Tensión 
+de 
+instalaciones asociadas a la instrucción de 
+Control Dinámico de Tensión (CDT), en el 
+marco de las medidas operacionales definidas 
+por el Coordinador Eléctrico Nacional. 
+ 
+[1] Carta DE01036-25, Ref.: “Actualización del 
+Cronograma de verificación de Servicios 
+Complementarios (SSCC) en instalaciones 
+existentes de Generación y Almacenamiento”, 
+de fecha 18 de febrero de 2025. 
+ 
+[2] Carta DE02432-26, Ref.: “Invitación a 
+webinar sobre control dinámico de tensión en 
+parques eólicos, fotovoltaicos y BESS”, de 
+fecha 14 de abril de 2026. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y de acuerdo con los antecedentes que dispone 
+este Coordinador, en anexos a la presente comunicación se individualizan las instalaciones 
+que a la fecha no han sido verificadas en el Control de Tensión (CT), incumpliendo el plazo 
+establecido en el Cronograma de Verificación actualizado, que fuera formalizado por este 
+Coordinador en comunicación de la Ref. [1].  
+ 
+En dichos anexos se detallan las acciones requeridas para cada una de las instalaciones, 
+describiendo el estado actual según la siguiente categorización: 
+ 
+a) Anexo 1: Instalaciones con plazos de normalización vencidos y cuyos Informes de 
+verificación de CT no han sido enviados al Coordinador. 
+b) Anexo 2: Instalaciones con plazos de normalización vencidos cuyos Informes de 
+verificación de CT han sido observados por el Coordinador, sin respuesta por parte 
+del Coordinado. 
+ 
+Al respecto, cabe destacar que, el 16 de abril de 2026, el Coordinador realizó un Webinar, 
+denominado “Control Dinámico de Tensión en Parques Eólicos, Fotovoltaicos y BESS” -
+informado en comunicación de la Ref. [2]-, con el objetivo de reforzar la importancia de 
+cumplir con el plan de implementación del CT, focalizando la atención en el CDT el cual es 
+parte del proceso de verificación del CT, en cuya instancia entregó información para facilitar 
+el cumplimiento del Plan establecido.  
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Asimismo, algunos Coordinados han ingresado un informe de limitación (IL) al sistema 
+Neomante del Coordinador, que restringe la realización del CDT en la operación en tiempo 
+real, argumentando que mientras su instalación no sea verificada no puede realizar CDT, 
+aun cuando dichas instalaciones cuentan con un modelo validado para realizar el CDT y no 
+se ha cumplido con los plazos de verificación establecidos.  
+ 
+De acuerdo con lo expuesto, solicito a Ud. informar fundadamente las razones o 
+circunstancias que explican la falta del envío de los informes de verificación y/o de 
+respuesta a las observaciones emitidas por este Coordinador. Dicha información deberá 
+ser remitida, dentro del plazo de tres días hábiles contados desde la recepción de la 
+presente comunicación, mediante carta ingresada en el Sistema de Correspondencia del 
+Coordinador, indicando como referencia “respuesta a carta DE05418-26”. 
+ 
+Finalmente, se hace presente que la información que su representada remita dentro del 
+plazo indicado será puesta en conocimiento de la Superintendencia de Electricidad y 
+Combustibles, conjuntamente con los antecedentes que dan cuenta del incumplimiento de 
+las verificaciones exigidas por la normativa aplicable y de la falta de respuesta al 
+Coordinador, en los casos que corresponda. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GO/SGASO/DCO 
+c.c.:     
+Sres. Gerentes Generales Empresas Coordinadas – Según lista de Distribución. 
+Sr. Diego Perales R. – Gerente Legal y Regulación del Coordinador. 
+Sr. Rodrigo Espinoza V. – Gerente de Operación del Coordinador 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+Lista de Distribución:  
+ 
+1. AustrianSolar Chile Cuatro SpA  
+2. AustrianSolar Chile Seis SpA  
+3. Cerro Dominador CSP S.A.  
+4. Chungungo S.A.  
+5. Cóndor Energía SpA  
+6. Enel Green Power Chile S.A.  
+7. Engie Energía Chile S.A.  
+8. Fotovoltaica Norte Grande 5 SpA  
+9. Ibereólica Cabo Leones II S.A.  
+10. Parque Solar Fotovoltaico Sol del Desierto SpA  
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo 1: Falta de entrega de Informes de Verificación de CT con plazos de normalización vencidos. 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+1 AUSTRIANSOLAR 
+CHILE SEIS SPA 
+PFV 
+LA 
+HUELLA 
+Mediante correo electrónico, el Coordinado informó que los 
+ensayos se realizarían durante la segunda semana de julio 
+de 2026. Sin embargo, a la fecha no se tiene constancia de 
+la entrega de los respectivos protocolos de ensayo para 
+revisión del Coordinador, ni de la realización de los ensayos 
+comprometidos. 
+Envío de informe de verificación. 
+2 CHUNGUNGO S.A. 
+PFV 
+QUILAPILÚN 
+Mediante carta DE02205-26 de fecha 06/03/2026, el 
+Coordinado informó como fecha definitiva para la entrega 
+de los informes de verificación el 15/07/2026. Sin embargo, 
+posteriormente, mediante carta DE06476-26 de fecha 
+29/07/2026, informó que los ensayos serían realizados en 
+septiembre de 2026 y que dichos informes serían remitidos 
+durante octubre de 2026. 
+Aclarar esta inconsistencia, justificar el segundo 
+plazo informado, entregar el informe de 
+verificación CT y levantar la limitación N° 
+2026001527 ingresada en NeoMante. 
+3 
+FOTOVOLTAICA 
+NORTE 
+GRANDE 
+5 
+SPA 
+PFV 
+URIBE 
+SOLAR 
+Mediante carta DE03167-26 de fecha 31/03/2026 el 
+Coordinado solicitó una extensión de 13 semanas corridas 
+para la entrega de los informes de verificación de CT, 
+estimando su entrega durante junio/julio de 2026 
+Envío de informe de verificación de CT.  
+4 IBEREÓLICA 
+CABO 
+LEONES II S.A. 
+PFV 
+SAN 
+PEDRO 
+Se aprobaron los protocolos mediante carta DE02808-26 
+de fecha 27/04/2026. Posteriormente, mediante correo 
+electrónico, el Coordinado informó que los ensayos se 
+realizarían entre el 25 y el 30 de mayo de 2026 
+Envío del informe de verificación de CT. 
+5 
+PARQUE 
+SOLAR 
+FOTOVOLTAICO SOL 
+DEL DESIERTO SPA 
+PFV SOL DEL 
+DESIERTO 
+Se aprobaron los protocolos mediante carta DE00122-26 
+de fecha 13/01/2026. Posteriormente, el Coordinado 
+remitió una minuta con ensayos adicionales, los cuales 
+fueron aprobados vía correo electrónico. Mediante carta 
+DE06477-26 de fecha 29/07/2026, informó que los informes 
+de verificación serían entregados durante agosto de 2026 
+Envío del informe de verificación de CT y 
+levantar limitación N° 2026001528 ingresada en 
+NeoMante. 
+6 ENEL GREEN POWER 
+CHILE S.A. 
+PFV 
+GUANCHOI 
+Mediante carta DE06676-26 de fecha 05/08/2026, se indicó 
+como fecha de ensayos el 22/07/2026 y como fecha de 
+entrega del informe el 12/08/2026. 
+Envío 
+del 
+informe 
+de 
+verificación 
+CT. 
+Adicionalmente 
+y 
+levantar 
+limitación 
+N° 
+2026001232 ingresada en NeoMante. 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo 2: Falta de respuesta a observaciones formuladas por el Coordinador a Informes de Verificación de CT con 
+plazos de normalización vencidos. 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+7 
+AUSTRIANSOLAR 
+CHILE CUATRO SPA 
+PFV 
+HUATACONDO 
+Se emitieron observaciones a los informes de verificación 
+mediante 
+carta 
+DE01861-26 
+de 
+fecha 
+20/03/2026. 
+Posteriormente, mediante correo electrónico de fecha 
+26/06/2026, el Coordinado informó que los ensayos debían 
+repetirse. 
+Envío del informe de verificación CT. 
+8 
+CERRO 
+DOMINADOR 
+CSP 
+S.A. 
+PFV 
+CERRO 
+DOMINADOR 
+Se emitieron observaciones a los informes de verificación 
+mediante 
+carta 
+DE03625-26, 
+de 
+fecha 
+29/05/2026, 
+otorgándose plazo de respuesta hasta el 19/06/2026. A la 
+fecha, no se ha recibido la nueva versión del informe de 
+verificación CT. Adicionalmente, mediante carta DE06475-26 
+de fecha 29/07/2026, el Coordinado informó que el PFV se 
+encuentra fuera de servicio. 
+Envío del informe de verificación CT. 
+9 
+CÓNDOR ENERGÍA 
+SPA 
+PE 
+CERRO 
+TIGRE (U1-U44) 
+Se emitieron observaciones a los informes de verificación 
+mediante 
+carta 
+DE02395-26, 
+de 
+fecha 
+30/04/2026. 
+Posteriormente, 
+se 
+realizaron 
+insistencias 
+por 
+correo 
+electrónico solicitando el envío de la nueva versión del informe 
+de verificación CT; sin embargo, a la fecha este informe no ha 
+sido enviado a revisión del Coordinador. 
+Envío del informe de verificación CT. 
+10 ENGIE 
+ENERGÍA 
+CHILE S.A. 
+PFV 
+TAMAYA 
+SOLAR 
+Mediante carta DE03477-25 se remitieron observaciones al 
+informe de verificación de CT correspondiente al PFV Tamaya. 
+Posteriormente, mediante carta DE06630-25 de fecha 
+14/07/2026, Engie solicitó un plazo adicional para la entrega 
+del informe corregido y, en forma paralela, adjuntó una nueva 
+versión de informes correspondiente al BESS. Posteriormente, 
+este Coordinador envió un correo de insistencia, ante lo cual 
+Engie remitió el informe CT del PFV Tamaya. Sin perjuicio de 
+lo anterior, dicho informe no atiende las observaciones 
+formuladas previamente mediante carta DE03477-25 de fecha 
+11/06/2025. 
+Envío del informe de verificación de CT el 
+cual 
+debe 
+atender 
+íntegramente 
+las 
+observaciones emitidas.  
+ 
+Adicionalmente, 
+considerando 
+la 
+implementación del Master PPC en conjunto 
+con el BESS, informar si el informe de 
+verificación CT considera la lógica de control 
+implementada, o si corresponde efectuar una 
+actualización del proceso de verificación de 
+CT. 
+ 
+ 
+ 
+ 

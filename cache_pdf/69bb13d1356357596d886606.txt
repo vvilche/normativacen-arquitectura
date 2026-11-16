@@ -1,0 +1,94 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+SUPPLY ENERGY MANAGEMENT 
+ 
+Santiago, 18 de marzo de 2026 
+ENGIE N°057/2026
+ 
+ 
+Señor 
+Rodrigo Espinoza  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Solicitud   de   inicio   del   proceso   de
+verificación de SSCC Proyecto Reconversión a 
+Gas unidad TER IEM  NUP 5706 
+ 
+ 
+De nuestra consideración, 
+ 
+ 
+De conformidad con lo indicado en el inciso 5.1 del Instructivo Técnico para la Verificación de 
+Instalaciones para la Prestación de SSCC, informo a Usted que estamos en condiciones de ejecutar las 
+pruebas de verificación de SSCC del Proyecto Reconversión a Gas unidad TER IEM U1.  
+ 
+Con el objeto de dar cumplimiento lo anterior, enviamos a Usted la siguiente información: 
+ 
+1.- El experto técnico que realizará las pruebas de verificación será Estudios Eléctricos Consultores S.A. 
+En el Anexo 1 se adjunta la documentación que avala la experiencia de dicha empresa en la ejecución de 
+pruebas similares.  
+ 
+2.- Las pruebas que se realizarán serán las siguientes: 
+ 
+- Control Primario de Frecuencia 
+ 
+- Control Terciario de Frecuencia 
+ 
+- Control de Tensión 
+ 
+Cabe señalar que se incluye el Anexo 2, el cual incorpora un informe preparado por Tractebel en el 
+cual se concluye que la lógica del Boiler Master Control de la unidad opera bajo un único esquema 
+de control, razón por la cual, una vez finalizado el proceso de partida (Unidad en Mínimo Técnico), 
+la respuesta de la unidad es independiente del tipo de combustible utilizado. En virtud de lo anterior, 
+se propone homologar los resultados a la operación con el combustible alternativo diésel.  
+ 
+Por otro lado, el protocolo de Control de Tensión sólo considera la ejecución de aquellas pruebas 
+que no hayan sido incluidas en las realizadas en el informe enviado en la carta DE 03299-24 el 
+24/05/2024 en nuestra carta Engie N°125/2024 dado que los ajustes del AVR se mantienen 
+inalterables, por lo que las respuestas obtenidas en dicha oportunidad siguen siendo válidas, las que 
+claramente son independientes del combustible utilizado dado que los ajustes realizados en el AVR 
+solo aplican a la operación del generador de la unidad. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.- Adicionalmente, para su revisión y aprobación, en el Anexo 3 se envían los protocolos para la 
+ejecución de las pruebas individualizadas en el numeral 2 de la presente comunicación.  
+ 
+4.- La persona designada por Engie Energía Chile para efectos de comunicación con el Coordinador 
+con el objetivo de programar y ejecutar las pruebas es Marco Velarde (marco.velarde@engie.com , 
++56 9 81784418).  
+ 
+Quedamos a su disposición para coordinar los próximos pasos y responder a cualquier consulta 
+que pueda surgir al respecto. 
+ 
+ 
+Sin otro particular, lo saluda atentamente, 
+ 
+ 
+ 
+Juan Muñoz Tapia 
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 

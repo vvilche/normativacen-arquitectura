@@ -1,0 +1,24 @@
+1
+De:
+Jorge Andres Duran Mores
+Enviado el:
+lunes, 30 de marzo de 2026 15:48
+Para:
+dgzamora@celeogroup.com; rguell@celeogroup.com; Francisco Javier Poblete Luengo
+CC:
+Tecnologia Scada
+Asunto:
+Indisponibilidad de datos SITR Alfa Transmisora de Energía S.A. (27-03-2026)
+Buenas tardes 
+En relación con incidencia en reporte de datos SITR durante el pasado viernes 27 de marzo de 2026, agradezco 
+que nos informen a la brevedad los antecedentes relacionados con la incidencia que originó la pérdida de 
+supervisión de las instalaciones de Alfa Transmisora de Energía S.A. por 48 minutos, haciendo énfasis en causa 
+raíz y medidas correctivas que permitan garantizar que esta situación no se repita. 
+Quedo atento; 
+Jorge Andres Duran Mores 
+Ingeniero Senior SCADA 
+Gerencia de Tecnología y Sistemas
+Santiago de Chile 
+Tel: +56 2 3221 9580 
+www.coordinador.cl
+ CORRELATIVO DE02132-26 

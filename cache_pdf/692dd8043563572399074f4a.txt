@@ -1,0 +1,89 @@
+ 
+Santiago, 28 de noviembre de 2025 
+OP 310-25 
+ 
+ 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operacion 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+MATERIA: 
+RESPUESTA CARTA DE07234-25: RESTRICCIÓN OPERATIVA DE 
+UNIDADES HE RAPEL U3 Y U4, IL2025002355 Y IL202002356 
+ 
+ 
+De nuestra consideración:  
+ 
+  
+En relación con la materia de la referencia y considerando los Informes N°2025002355 y 
+N°2025002356, ambos ingresados a la plataforma Neomante el 10 de octubre de 2025, 
+con fecha estimada de término el 31 de diciembre de 2025, y vinculados a la definición de 
+nuevos valores de Mínimo Técnico para las Unidades N°3 y N°4 de la Central Rapel 
+respectivamente, podemos comentarle lo siguiente: 
+ 
+ 
+1. El proyecto de Repowering de estas unidades ha alcanzado los criterios de 
+vibración, fluctuación de presión y rendimientos contractuales, los que tenían por 
+objeto bajar el valor de mínimo técnico vigente desde 2017, hasta un valor de 25 
+[MW] por unidad. 
+ 
+2. Los niveles de fluctuación de presión, para una máquina Francis y para la altura 
+neta de Rapel, que se han conseguido en el proyecto de Repowering son exigentes 
+y la máquina lo ha soportado satisfactoriamente (ver protocolos de pruebas 
+adjuntos) en todo el rango de potencias, esto, con inyección natural y con inyección 
+forzada de aire a la turbina que fue probada en la puesta en servicio. 
+ 
+3. La puesta en servicio de las unidades U3 y U4 posterior al proyecto de Repowering 
+ha determinado que con inyección forzada de aire se realiza desde los 50 [MW] 
+hacia abajo, y durante las pruebas de puesta en servicio se determinó que no hay 
+limitaciones por Fluctuaciones de presión incluso hasta los 12 [MW], definiéndose 
+finalmente un valor de 25 [MW] de mínimo técnico por cuestiones de límites de 
+cavitación. 
+ 
+4. La curva de Colina de la máquina disponible, que se ha coloreado, tiene el propósito 
+de indicar las zonas donde el aire debería ser inyectado en forma forzada (rojo) y 
+las zonas donde el aire entra en forma natural (amarillo).  
+ 
+ 
+
+ 
+2
+ 
+ 
+Los documentos que fundamentan lo anteriormente expuesto pueden ser descargados 
+desde el siguiente enlace: 
+ 
+https://drive.google.com/drive/folders/1gGvBFxTjKCB-
+ORU9IEUDynKImLcH292y?usp=sharing 
+ 
+ 
+Considerando que la información presentada anteriormente corresponde a antecedentes 
+formales y respaldados por estudios técnicos del proveedor, estimamos que constituye un 
+sustento adecuado para la definición del nuevo mínimo técnico de la unidad. 
+ 
+No obstante, entendemos la importancia de validar estos parámetros operativos y, por lo 
+mismo, quedamos plenamente abiertos a realizar las pruebas adicionales que el 
+Coordinador estime pertinentes. En caso de que dichas pruebas arrojen resultados que 
+requieran ajustar o rectificar el valor propuesto, procederemos a actualizarlo conforme 
+corresponda. 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación,  
+ 
+ 
+Saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adrián Guzmán M. 
+Encargado (S) CEN 
+ENEL GENERCIÓN CHILE S.A. 
+ 

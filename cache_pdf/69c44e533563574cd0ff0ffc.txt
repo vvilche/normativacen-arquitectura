@@ -1,0 +1,62 @@
+[EXTERNAL PERMITTED]
+Santiago, 23 de marzo, 2026 
+IIFF-SSCC-001-26 
+Sr. Rodrigo Espinoza V. 
+Coordinador Eléctrico Nacional 
+Vía email 
+ Ref.: Remite plan de trabajo para la 
+limitación de potencia reactiva en la 
+central Willka 
+[1] Responde DE 07246-25 Solicita plan 
+para aumentar potencia reactiva
+De nuestra consideración, 
+Nos referimos a la carta DE07246-25, de fecha 12 de noviembre de 2025, 
+mediante la cual el Coordinador solicita el cronograma de trabajo destinado a levantar 
+la limitación actual de potencia reactiva de la central PFV Willka, así como a nuestra 
+comunicación enviada mediante carta IIFF-SSCC-005-25, del 15 de octubre de 2025, 
+en la que remitimos el cronograma solicitado. 
+Por medio de la presente, informamos que no ha sido posible cumplir con el 
+cronograma presentado en la carta previamente mencionada; sin embargo, el proceso 
+de contratación de la empresa “Grupo Mercados Energéticos”, seleccionada para 
+ejecutar las pruebas de interés, ya se encuentra cerrado. En ese sentido, nos 
+encontramos en fase de coordinar la fecha de ejecución de las pruebas para luego 
+avanzar con la implementación de los ajustes requeridos para levantar la limitación. 
+De acuerdo con lo conversado con el contratista, las pruebas podrán ejecutarse de 
+forma remota, lo que permitirá optimizar los tiempos de coordinación. En 
+consecuencia, esperamos que sea posible coordinar con la Subgerencia de Operación 
+en Tiempo Real la ejecución de dichas actividades en el menor plazo posible. 
+Cabe señalar que los ensayos podrán realizarse cuando las condiciones operacionales 
+del Sistema Eléctrico Nacional permitan alcanzar los máximos de energía reactiva 
+absorbida e inyectada, como también cuando las condiciones de irradiancia solar 
+posibiliten generar una potencia superior al 90% de la potencia máxima de la central. 
+
+[EXTERNAL PERMITTED]
+Considerando lo mencionado anteriormente, en cuanto a la existencia de las 
+condiciones requeridas en el SEN, estimamos que será posible cumplir con 
+lo solicitado en la carta DE07246‑25 hacia mediados de abril de 2026. 
+Saludos Cordiales. 
+Luis Cristian Fredes Bastías 
+Inversiones Fotovoltaicas SpA 
+
+IIFF-SSCC-001-26
+Final Audit Report
+2026-03-25
+Created:
+2026-03-25
+By:
+Franco Vergara (franco.vergara@mytilineos.com)
+Status:
+Signed
+Transaction ID:
+CBJCHBCAABAAbvAa1qt32kDzNHmpcm2ur2afxbhNbDvb
+"IIFF-SSCC-001-26" History
+Document created by Franco Vergara (franco.vergara@mytilineos.com)
+2026-03-25 - 6:04:39 PM GMT
+Document emailed to Luis Fredes (luis.fredes@mytilineos.com) for signature
+2026-03-25 - 6:04:42 PM GMT
+Email viewed by Luis Fredes (luis.fredes@mytilineos.com)
+2026-03-25 - 6:05:07 PM GMT
+Document e-signed by Luis Fredes (luis.fredes@mytilineos.com)
+Signature Date: 2026-03-25 - 6:05:40 PM GMT - Time Source: server
+Agreement completed.
+2026-03-25 - 6:05:40 PM GMT

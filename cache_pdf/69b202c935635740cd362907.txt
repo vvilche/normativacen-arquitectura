@@ -1,0 +1,107 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 11 de marzo de 2026 
+ 
+    
+DE 01656-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Mínimo Técnico de la Central PE 
+San Matías. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PE San Matías, en conformidad con el 
+Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+indicado, publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador realizó observaciones de carácter técnico mediante 
+comunicación de la Ref. [3], las cuales fueron subsanadas por el Coordinado Energía Eólica 
+San Matías SpA. 
+ 
+Conforme a lo anterior, los parámetros de Mínimo Técnico de la Central PE San Matías se 
+presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Mínimo Técnico del PE San Matías. 
+Central/Unidad 
+Mínimo 
+Técnico(1) 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en 
+la central(2) 
+[MW] 
+Potencia Mínima 
+Neta(3) 
+[MW] 
+PE San Matías 
+0,2729 
+0,0341 
+0,2360 
+0,0028 
+(1) Considera la operación con control automático de potencia activa PPC con 1 aerogenerador 
+entregando una potencia activa de 0,2729 MW y el resto en pausa. 
+(2) Este valor corresponde a las pérdidas en el sistema colector en media tensión (0,0980 MW) y del 
+transformador de poder (0,138 MW). 
+(3) Potencia inyectada en la barra de 220 kV de S/E Campo Lindo. 
+ 
+Al respecto, comunico a Ud. que los parámetros de Mínimo Técnico de la Central PE San 
+Matías entrarán en vigencia a partir de las 00:00 horas del 17 de marzo de 2026. 
+ 
+El informe técnico final de Mínimo Técnico de la Central PE San Matías, que contiene la 
+justificación de los parámetros indicados anteriormente, puede ser descargado en la 
+siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Mínimo Técnico > Informes de Mínimos Técnicos Unidades 
+Generadoras > Central PE San Matías > 2026 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/PPF/RSM/adr 
+ 
+ 
+ 
+Referencias 
+ 
+[1] Carta MAT 0007-2026, Ref.: “Envío de informes de Parámetros Operacionales”, de fecha 
+27 de febrero de 2026. Ingreso DE01941-26.  
+ 
+[2] Carta DE06353-25, Ref.: “[NUP 3182] Informes Técnicos de Parámetros Operacionales 
+de la central PE San Matías - Etapa 2”, de fecha 09 octubre 2025. 
+ 
+[3] Carta DE00229-26, Ref.: “Observaciones a los Parámetros Operacionales de la central 
+PE San Matías”, de fecha 14 de enero de 2026. 
+ 
+ 
+ 

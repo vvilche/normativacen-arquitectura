@@ -1,0 +1,133 @@
+ 
+Santiago, 10 de febrero de 2026. 
+  ACC.ECH.024.26 
+Señora: 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Remite observaciones al Informe de Desempeño de Servicios Complementarios – enero 
+2026. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de enero de 2026, que fue publicado en su página web y cuya publicación fue comunicada a 
+través de la carta DE 00819-26 de fecha 05 de febrero de 2026. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado (S)  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC ENERO 2026 V1 
+Servicio Complementario – CT 
+Planta PFV El Romero 
+Timestamp 
+Planta 
+Consigna en 
+Planta 
+[MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO Comentario 
+- 
+- 
+-60 
+01-01-2026  
+20:25 
+Se califica como NC, sin embargo, según grabación (archivo adjunto 
+“01_01_2026_2051”), CDC instruye mantener el servicio de CT. 
+- 
+- 
+-60 
+25-01-2026  
+20:24 
+Se califica como NC, sin embargo, según grabación (archivos adjuntos 
+“25_01_2026_1953” y “26_01_2026_0032”), CDC instruye mantener el servicio de 
+CT. 
+ 
+Planta PFV Malgarida 
+Timestamp 
+Planta 
+Consigna en 
+Planta 
+[MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO Comentario 
+- 
+- 
+-60 
+14-01-2026  
+20:29 
+Se califica como NC, sin embargo, según grabación (archivos adjuntos 
+“14_01_2026_2012” y “14_01_2026_2353”), CDC instruye mantener el servicio de 
+CT. 
+- 
+- 
+-60 
+24-01-2026  
+20:26 
+Se califica como NC, sin embargo, según grabación (archivos adjuntos 
+“24_01_2026_1957” y “25_01_2026_0100”), CDC instruye mantener el servicio de 
+CT. 
+- 
+- 
+-60 
+25-01-2026  
+20:30 
+Se califica como NC, sin embargo, según grabación (archivos adjuntos 
+“25_01_2026_1953” y 26_01_2026_0032”), CDC instruye mantener el servicio de 
+CT. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Servicio Complementario – CTF 
+Planta PE Tolpán Sur 
+Timestamp 
+Consigna en 
+planta [MW] 
+Registro 
+RIO [MW] 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+28-01-2026 
+0:03 
+28 
+-18 
+0:02 
+0:19 
+Se califica como NC, sin embargo, el parque realiza la correcta 
+activación de la reserva de 18 MW para CTF(-), según lo instruido 
+por el CDC. Se adjunta Figura 1 y Tabla 1 mostrando lo 
+anteriormente mencionado. 
+28-01-2026 
+0:20 
+84 
+ 
+Figura 1: Potencia activa PE Tolpán Sur. 
+ 
+ 
+ 
+ 
+
+ 
+Tabla 1:Potencia activa PE Tolpán Sur. 
+ 
+ 
+ 

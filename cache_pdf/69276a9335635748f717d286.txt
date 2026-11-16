@@ -1,0 +1,162 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 26 de noviembre de 2025 
+DE 07556-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 475 al EAF 477 del año 2025. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 475-2025 al EAF 477-
+2025 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC 2025 > Octubre > Cálculo por EAF: 
+ 
+1. EAF 475-2025 
+2. EAF 476-2025 
+3. EAF 477-2025 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el lunes 1 de diciembre 
+de 2025, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. Víctor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+Sr. Víctor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. David Zamora Mesías – Encargado Titular Alfa Transmisora de Energía S.A. 
+Sr. Jorge Antonio Valladares Muñoz – Encargado Titular Luzlinares S.A. 
+Sr. Daniel Pinto – Encargado Titular Empresa de los Ferrocarriles del Estado 
+Sr. Juan Alfonso Veloso Molina – Encargado Titular Sistema de Transmisión del Norte S.A. 
+DBCD/DTE-SSCC/SGASO 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario DCO 
+EAF 476-2025 
+28-10-2025 
+Luzlinares S.A. 
+S/E Linares 
+Norte 
+Parcial 
+SI 
+El siguiente cliente libre en distribución no se encuentra 
+en las bases de datos del Coordinador: 
+ 
+• 
+SOL DEL MAULE S.A. (BA S/E SAN JAVIER 
+23KV) 
+ 
+Solicitamos que nos remitan la clave de balance 
+correspondiente a cada uno de los clientes no 
+identificados mencionados anteriormente.                 
+EAF 476-2025 
+28-10-2025 
+Compañía General 
+de Electricidad S.A. 
+S/E Linares 
+Norte 
+S/E La Palma 
+S/E Villa Alegre 
+S/E Nirivilo 
+S/E Constitución  
+S/E San Javier 
+S/E San 
+Clemente 
+Parcial 
+SI 
+Los siguientes clientes libres en distribución no se 
+encuentran en las bases de datos del Coordinador:       
+ 
+• 
+SOC. 
+COMERCIAL 
+VALENZUELA 
+CACERES HERMANOS LTDA (BA S/E 
+CONSTITUCION 23KV BP1).    
+• 
+ENTEL PCS TELECOMUNICACIONES S.A. 
+(BA S/E CONSTITUCION 23KV BP1) 
+ 
+Solicitamos que nos remitan la clave de balance 
+correspondiente a cada uno de los clientes no 
+identificados mencionados anteriormente.                 
+(*) El EAF N° 477 no tuvo afectación de Empresas Distribuidoras. 
+(**) En los EAF N°475 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A. fue recibida en plazo y en forma, e incorporada 
+al cálculo. 
+ 

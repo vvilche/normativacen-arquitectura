@@ -1,0 +1,72 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+             Santiago, 22 de septiembre de 2025 
+                                                                                                                            DE05927-25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Programa de Operación 
+del Sistema Eléctrico Nacional 
+correspondiente al día 23 de 
+septiembre de 2025. 
+[1] DE05820-25. 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, envío para su conocimiento el programa de operación 
+de la Ref., cuyos antecedentes y base de datos, que permiten reproducir los 
+resultados obtenidos, se encuentran disponibles en el sitio web del Coordinador 
+Eléctrico Nacional, información a la cual puede acceder a través de la siguiente 
+ruta: 
+ 
+www.coordinador.cl ➔ Operación ➔ Documentos ➔ Programas de operación. 
+ 
+Dado la última contingencia que se ha registrado en la operación del SEN y que 
+ha derivado en la actuación del EDAC por baja frecuencia, desde la Programación 
+de la Operación del 17 de septiembre de 2025, se consideran las siguientes 
+medidas: 
+1) Mientras los titulares de las centrales PFV Atacama Solar, PFV Marielena, 
+PFV Tamaya Solar, PFV Taira y PFV La Huayca no demuestren que se han 
+adoptado las medidas para evitar la reducción súbita de generación frente a 
+contingencias en el sistema generación-transporte, según lo indicado en la 
+carta Ref. [1], dichas centrales se mantendrán indisponibles para la 
+prestación de SSCC de Control de Frecuencia. 
+2) Para efectos de cumplir con los requerimientos de CPF@10segundos 
+determinados en el Estudio de Control de Frecuencia y Determinación de 
+Reservas - Parte 2 Informe Final, versión diciembre 2024, se debe asegurar 
+que la suma entre la generación de la unidad con mayor despacho y la 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+generación conjunta de las centrales señaladas en el punto 1), no deben 
+superar los 400 MW a nivel horario. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+        Juan Marcos Donoso N. 
+Jefe Depto. de Programación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DPRO/jmd 

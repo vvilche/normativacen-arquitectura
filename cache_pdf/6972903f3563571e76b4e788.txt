@@ -1,0 +1,72 @@
+Santiago, 15 de enero de 2026 
+ 
+ 
+Sr.  
+Ernesto Huber 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional (CEN) 
+Presente 
+ 
+Ref.: Solicitud de apertura de información de servicios complementarios BESS 
+ 
+Estimado Sr. Huber, 
+ 
+Junto con saludar, desde el balance de octubre, en el cuadro de pago de servicios 
+complementarios se incorporó un nuevo cargo correspondiente a BESS. Sin embargo, en el 
+archivo asociado este cargo no se encuentra aperturado por clave de medidor. 
+ 
+En virtud de lo anterior, se solicita si es posible aperturar este servicio complementario por 
+clave de medidor. 
+ 
+Esta solicitud se fundamenta en que, actualmente, este es el único servicio 
+complementario cuya información no se encuentra desagregada bajo dicho criterio, lo que 
+dificulta su adecuada revisión, análisis y validación en los balances correspondientes. 
+ 
+Lo saluda atentamente,  
+ 
+ 
+ 
+ 
+ 
+ 
+​
+ 
+ 
+Cristián Del Sante 
+Encargado Suplente 
+Faro Corona SpA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Audit trail
+Details
+FILE NAME
+Solicitud apertura de cargo SSCC BESS por clave - 1/15/26, 12:57 PM.pdf
+STATUS
+Signed
+STATUS TIMESTAMP
+2026/01/21
+15:46:20 UTC
+Activity
+SENT
+rreyes@igx.cl sent a signature request to:
+Cristián Del Sante (cdelsante@igx.cl)
+2026/01/15
+15:58:35 UTC
+SIGNED
+Signed by Cristián Del Sante (cdelsante@igx.cl)
+2026/01/21
+15:46:20 UTC
+COMPLETED
+This document has been signed by all signers and is complete
+2026/01/21
+15:46:20 UTC
+The email address indicated above for each signer may be associated with a Google account, and may either be the primary email
+address or secondary email address associated with that account.

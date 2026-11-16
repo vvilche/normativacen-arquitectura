@@ -1,0 +1,102 @@
+ 
+ 
+ 
+OR-000174-2026 
+ 
+Santiago, 11/06/2026 
+ 
+Señor 
+Ramón Castañeda P. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA: Respuesta a Carta DE03835-26– Plan de Acción EAF 536-2025 / SE Coronel 
+ 
+De nuestra consideración: 
+ 
+En relación con su carta DE03835-26, referida al Plan de Acción asociado al EAF 536-2025 por la 
+operación del EDACxCE en la S/E Coronel, y en atención a lo comprometido previamente mediante 
+nuestra carta OR-000128-2026 (enviada con fecha 13 de abril 2026, con código DE03728-26), 
+informamos a usted lo siguiente: 
+ 
+Confirmamos que las actividades señaladas fueron ejecutadas de acuerdo a lo establecido. Para 
+respaldar lo anterior, se especifica el estado de los trabajos en la siguiente tabla: 
+ 
+Actividad 
+Estado 
+Fecha cumplimiento 
+Comentarios 
+Levantamiento de 
+información en protecciones 
+Ejecutado 
+14 de abril de 2026 
+Avisos CEN DI2026035026 
+DI2026035027 
+Corrección de condición 
+estándar de la ingeniería de 
+control.  
+Ejecutado 
+14 de abril de 2026 
+Avisos CEN DI2026035026 
+DI2026035027 
+Independizar disparos hacia 
+el EDAC  
+Ejecutado 
+14 de abril de 2026 
+Avisos CEN DI2026035026 
+DI2026035027 
+Actualización de planos 
+Ejecutado 
+14 de abril de 2026 
+Avisos CEN DI2026035026 
+DI2026035027 
+Elaboración de minuta de 
+bloqueo 
+Ejecutado 
+10 de marzo de 2026 
+N/A 
+Finalización de 
+protocolización 
+Ejecutado 
+15 de abril de 2026 
+Avisos CEN DI2026035026 
+DI2026035027 
+ 
+Adicionalmente se informa que con fecha 16 de abril de 2026 a las 00:53 horas quedó habilitada la 
+protección 21/21N Sistema 2 del paño A1 de S/E Coronel, lo cual permitió cancelar la Limitación 
+técnica LT 2025001032. 
+Docusign Envelope ID: 53677176-1A9B-8382-811A-7718C9E71D27
+
+ 
+ 
+ 
+Para aquellas actividades que se encontraban asociadas al levantamiento en terreno del alambrado 
+existente y de la lógica de disparo de las protecciones del paño A1 de S/E Coronel (programado con 
+fecha 16 de abril de 2026) se comparten los documentos correspondientes que evidencian el 
+correcto desarrollo y resultado satisfactorio de los trabajos. 
+ 
+En relación con las tareas necesarias para la actualización de los planos as-built de corriente 
+continua y de control de la lógica de disparo asociada a las protecciones del paño A1 de S/E Coronel, 
+se adjunta el plano original y el plano actualizado el cual confirma las ejecuciones exitosas y su 
+validación respectiva. 
+ 
+Para cada uno de los temas mencionados, se acompañan los documentos pertinentes que dan 
+cuenta de su implementación y ejecución conforme a lo requerido. 
+ 
+En síntesis, todas las actividades han sido abordadas y se encuentran debidamente respaldadas con 
+documentación que acredita ejecuciones exitosas, la cual se adjunta a la presente para su 
+verificación. 
+ 
+Sin otro particular, saludan atentamente a usted 
+ 
+ 
+TRANSELEC S.A., 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 
+Docusign Envelope ID: 53677176-1A9B-8382-811A-7718C9E71D27

@@ -1,0 +1,79 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 02 de julio de 2026 
+DE 04481-26 
+ 
+Señor 
+Eduardo Verdugo 
+Encargado Titular 
+AES Andes S.A. 
+Presente 
+Ref.: Aprueba Protocolos para los Ensayos de 
+Verificación de Instalaciones para la prestación del 
+Servicio Complementario de Control Primario de 
+Frecuencia de la central TER Cochrane. 
+Responde a Ingreso DE05663-26. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en el 
+Artículo 8 del Anexo Técnico “Verificación de Instalaciones para la prestación de SSCC” de 
+la Norma Técnica de Servicios Complementarios (NTSSCC), se han revisado los 
+antecedentes entregados por su representada mediante la carta de la Ref. [1]. 
+ 
+Al respecto, comunicamos a Ud. que este Coordinador, aprueba el Protocolo para los 
+Ensayos de Verificación del Servicio Complementario de Control Primario de Frecuencia 
+(CPF) a prestar por la central TER Cochrane. 
+ 
+Considerando lo indicado, y con la finalidad de continuar con el proceso de Verificación de 
+los Servicios Complementarios, solicito a usted lo siguiente: 
+a) Informar las curvas de carga asociadas a las pruebas según cartas de las Ref. [2] y 
+[3], ingresándolas en la correspondiente solicitud de trabajo del sistema Neomante, 
+con estado operativo “PDO”. Asimismo, en dicha solicitud se deberá describir los 
+movimientos de carga previstos para la ejecución de las pruebas, indicando las 
+máximas variaciones instantáneas de potencia activa. 
+b) Una vez ingresada la solicitud de trabajo, conforme a lo requerido en el literal a) 
+anterior, informar el N° de la solicitud de trabajo creada en el sistema Neomante. 
+c) Habiendo realizado los ensayos, y en conformidad con el capítulo 5 del “Instructivo 
+Técnico para la Verificación de Instalaciones para la prestación de SSCC”, enviar el 
+Informe Técnico con los resultados de la verificación, mediante carta y en un plazo 
+máximo de 15 días hábiles contados desde que finalizan los ensayos. 
+ 
+Los antecedentes requeridos en los literales a) y b) deberán ser enviados, al correo 
+verificacion.sscc@coordinador.cl, con el asunto “Respuesta carta DE04481-26 Ensayos 
+Verificación SC CPF TER Cochrane” cumpliendo con los plazos establecidos 
+precedentemente. 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+                    Patricio Valenzuela V. 
+                                                              Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+DIR/PGR/adr 
+c.c.: Sr. Juan Pablo Kindermann – Encargado Suplente AES Andes S.A. 
+ 
+Referencias 
+[1] Carta AES 0072-2026 de AES Andes S.A., Ref.: “Envío de protocolos de verificación de 
+Control Primario de Frecuencia - TER Cochrane”, de fecha 18 de junio de 2026. Ingreso 
+DE05663-26. 
+[2] Carta DE05925-24, Ref.: “Modificación al ingreso de solicitudes de pruebas de centrales 
+generadoras en plataforma Neomante”, de fecha 11 de noviembre de 2024. 
+[3] Carta DE05995-25, Ref.: “Adecuaciones funcionales a la Plataforma de Solicitudes de 
+Trabajo del Coordinador Eléctrico Nacional”, de fecha 24 de septiembre de 2025. 
+ 

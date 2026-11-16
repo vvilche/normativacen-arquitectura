@@ -1,0 +1,48 @@
+Temuco, 10 de abril de 2026
+GD Nº 0220/26
+Señor
+Rodrigo Espinoza V.
+Gerente de Operación
+Coordinador Eléctrico Nacional
+Santiago
+REF: DE 07276-25  Solicitud de implementación de 
+sistema EDAC en Alimentador Pitrufquén.
+De mi mayor consideración:
+Junto con saludarle cordialmente,el motivo de la presente es la de informar sobre el estado de nuestras 
+instalaciones, entregar el anexo con la informacion solicitada mediente carta de la referencia  y solicitar 
+una actualización en los esquemas de protección sistémica bajo nuestra responsabilidad.
+Hago de su conocimiento que, a la fecha, se encuentran plenamente operativos y en cumplimiento de la 
+normativa vigente los sistemas de Esquema de Desconexión Automática de Carga (EDAC) en los 
+alimentadores de Temuco y Pillanlelbún. Dichos sistemas operan correctamente como parte de las 
+medidas de seguridad para la estabilidad del Sistema Eléctrico Nacional (SEN).
+No obstante, debido al sostenido crecimiento industrial en la zona sur, nuestra demanda en el 
+Alimentador Pitrufquén ha experimentado un incremento significativo. Ante este nuevo escenario 
+operacional y con el fin de mitigar riesgos que puedan afectar la continuidad del servicio ante eventos 
+de contingencia o variaciones de frecuencia, solicitamos formalmente la adición de un sistema 
+EDAC en el Alimentador Pitrufquén.
+Esta medida tiene como propósito fundamental garantizar una desconexión de carga selectiva y 
+eficiente en situaciones de emergencia, asegurando que nuestras instalaciones operen en total sintonía 
+con los criterios de seguridad y calidad de servicio exigidos por el Coordinador.
+Quedamos a su entera disposición para remitir los informes técnicos adicionales, estudios de carga o 
+coordinar las pruebas de campo que su unidad técnica estime convenientes para la validación de esta 
+solicitud.
+Sin otro particular, le saluda atentamente,
+COMPAÑÍA DISTRIBUIDORA DE ENERGÍA ELÉCTRICA 
+CODINER S.A.
+PABLO LEAL VESTER
+GERENTE DE DISTRIBUCION
+Oficina Comercial Codiner S.A. Aldunate Nº 0380 - Fonos: (45) 2 212223 - (45) 2 211293 - Temuco.
+Centro de Pago Codiner S.A. Sucursal Victoria: Arturo Prat Nº 1260 - Fono: (45) 2 841511 - Victoria.
+Departamento Técnico y Emergencias Codiner S.A. - Fonos: (45) 2 226466 - (45) 2 326080 - Temuco.
+codiner@codiner.cl
+www.codiner.cl
+
+PLVHHB/Soc.
+c.c. Institución.
+c.c. Codiner S.A.
+c.c. Inverluz S.A. 
+Oficina Comercial Codiner S.A. Aldunate Nº 0380 - Fonos: (45) 2 212223 - (45) 2 211293 - Temuco.
+Centro de Pago Codiner S.A. Sucursal Victoria: Arturo Prat Nº 1260 - Fono: (45) 2 841511 - Victoria.
+Departamento Técnico y Emergencias Codiner S.A. - Fonos: (45) 2 226466 - (45) 2 326080 - Temuco.
+codiner@codiner.cl
+www.codiner.cl

@@ -1,0 +1,131 @@
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+ 
+Carta ENLI-068-26 
+Santiago, 28 de septiembre de 2026 
+Señor 
+Ramón Castañeda 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+Ref: Solicitud de Inicio del Proceso de Conexión (SIPC) – Modificación 
+Relevante de la Central Fotovoltaica La Huayca II por incorporación del 
+sistema de almacenamiento BESS La Huayca (NUP 6218) 
+ 
+ 
+ 
+De nuestra consideración: 
+Por intermedio de la presente, y de conformidad con lo dispuesto en el artículo 7 del Anexo Técnico “Requisitos 
+Técnicos Mínimos de Instalaciones que se Interconectan al SI” de la Norma Técnica de Seguridad y Calidad de 
+Servicio (en adelante, “Anexo Técnico”) y en el Procedimiento Interno de Interconexión de Proyectos del 
+Coordinador, vengo en solicitar, en representación de Enlight Investments SpA (“Enlight”), el inicio del proceso 
+de conexión para la modificación relevante consistente en la incorporación del sistema de almacenamiento de 
+energía mediante baterías “BESS La Huayca” (NUP 6218) a la Central Fotovoltaica La Huayca II, emplazada en 
+la comuna de Pozo Almonte, Región de Tarapacá. 
+El proyecto cuenta con los siguientes antecedentes habilitantes: (i) la Resolución Exenta CNE N° 725, de 21 de 
+noviembre de 2025, que eximió a la referida modificación relevante del plazo de antelación establecido en el 
+artículo 72°-18 de la Ley General de Servicios Eléctricos, previo informe de seguridad favorable del Coordinador 
+comunicado mediante Carta DE06811-25, de 27 de octubre de 2025; (ii) la Carta DE01788-26, de 18 de marzo 
+de 2026, que aprobó la Solicitud de Uso de Capacidad Técnica Disponible del proyecto (NUP 6218), junto con 
+el Informe de Uso de Capacidad Técnica Disponible Definitivo de 17 de marzo de 2026; y (iii) la Resolución 
+Exenta CNE N° 526/2026, de 25 de septiembre de 2026, que declaró en construcción el proyecto BESS La 
+Huayca. 
+Junto con la presente se acompaña el Formulario “Solicitud Inicio Proceso Conexión (SIPC) o Modificación 
+Relevante (MR)” y los antecedentes exigidos en el artículo 7 del Anexo Técnico, que se resumen a continuación. 
+a) Identificación de la Empresa Solicitante 
+• 
+Razón social: Enlight Investments SpA. 
+• 
+RUT: 77.916.002-5. 
+• 
+Domicilio legal: Puerta del Sol 80, oficina 108, Las Condes, Santiago. 
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+• 
+Representante legal: Mauricio Andrés Ortuondo Doyharcabal, cuya personería consta en el certificado 
+de vigencia de poderes que se adjunta. 
+b) Ubicación geográfica 
+Las instalaciones se emplazan íntegramente al interior del predio de la Central Fotovoltaica La Huayca II, 
+comuna de Pozo Almonte, Región de Tarapacá. Las coordenadas UTM (WGS84, huso 19) del proyecto se 
+informan en el Formulario SIPC. 
+c) Agentes de coordinación de la Empresa Solicitante 
+• 
+Coordinador Titular: Aura Rearte, aura.rearte@enlight.cl, +56977099627. 
+• 
+Coordinador Suplente: Cristobal Valenzuela, cvalenzuela@i-sep.cl, +56 9 9492 4467. 
+d) Propuesta inicial de Empresas Involucradas 
+• 
+Engie Energía Chile S.A., propietaria de la S/E Tamarugal 66 kV, de las líneas 1x66 kV Pozo Almonte – 
+Tamarugal, y de instalaciones en S/E Pozo Almonte. 
+La línea 1x66 kV Tap Off Tamarugal – La Huayca II y la S/E La Huayca II son de propiedad de Enlight. 
+e) Identificación y descripción general de las instalaciones y punto de conexión 
+El proyecto BESS La Huayca consiste en la incorporación de la componente de almacenamiento a la central PFV 
+La Huayca II, conformando una Central Renovable con Capacidad de Almacenamiento. Considera una potencia 
+neta de 29 MW y una capacidad de almacenamiento de 125,4 MWh, con inversores en modo formador de red 
+(grid-forming), mediante la instalación de 25 contenedores de baterías de 5.015 kWh cada uno, conectados a 
+cuatro centros de transformación que integran los sistemas de conversión de potencia y transformación. 
+El punto de conexión corresponde a las celdas E4 y E5 de la barra de 23 kV de la S/E La Huayca II, desde donde 
+la energía se evacúa a través del transformador TR1 66/23 kV y de la línea 1x66 kV Tap Off Tamarugal – La 
+Huayca II hacia el Sistema Eléctrico Nacional. Las obras de conexión consideran la incorporación de nuevas 
+celdas de media tensión en los paños E4 y E5 de la S/E La Huayca II, incluidas las adecuaciones de fundaciones, 
+estructuras, sistemas de medida, control y protecciones que correspondan. 
+Se adjuntan el Diagrama Unilineal Funcional (Anexo 1), el plano de Disposición de Equipos Eléctricos (Anexo 2) 
+y el plano de Ubicación General en Terreno (Anexo 3), en formatos DWG y PDF, destacando las instalaciones 
+proyectadas. 
+f) Cronograma de construcción 
+Se adjunta como Anexo 4 la Carta Gantt del proyecto (NUP 6218) en el formato del Coordinador, incorporando 
+los plazos del proceso de conexión. Sus hitos principales, conforme a la Resolución Exenta CNE N° 526/2026, 
+son: inicio de construcción en terreno; Puesta en Servicio el 26 de julio de 2027; y Entrada en Operación el 29 
+de octubre de 2027. 
+No se contemplan etapas que impliquen cambios provisorios en instalaciones del SI. En mayo de 2027 se 
+realizará la conexión del BESS a las instalaciones de la Central Fotovoltaica La Huayca II, en las celdas E4 y E5 
+de la barra de 23 kV de la S/E La Huayca II. 
+g) Declaración en construcción 
+Se acompaña como Anexo 5 copia de la Resolución Exenta CNE N° 526/2026, de 25 de septiembre de 2026, 
+que declara en construcción el proyecto BESS La Huayca. 
+h) Autorización de conexión 
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+Sin perjuicio de que el literal h) del artículo 7 del Anexo Técnico se refiere a instalaciones de transmisión, se 
+acompaña como Anexo 6 copia de la Carta DE01788-26 y del Informe de Uso de Capacidad Técnica Disponible 
+Definitivo del proyecto (NUP 6218), así como de la Resolución Exenta CNE N° 725 de 2025 y la Carta DE06811-
+25. 
+Por lo anterior, solicitamos al Coordinador tener por presentada la solicitud de inicio del proceso de conexión 
+del proyecto BESS La Huayca (NUP 6218) y, cumplidos los requisitos, emitir la Carta de Escenarios Mínimos 
+correspondiente, conforme al artículo 8 del Anexo Técnico. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+Mauricio Ortuondo Doyharcabal 
+Representante Legal 
+Enlight Investments 
+ 
+Se adjunta: Formulario Único SIPC y los siguientes anexos 
+• 
+Anexo 1: Diagrama Unilineal Funcional (DUF). 
+• 
+Anexo 2: Plano de Disposición de Equipos Eléctricos (DEE), planta y secciones. 
+• 
+Anexo 3: Plano de Ubicación General en Terreno (UGT). 
+• 
+Anexo 4: Carta Gantt del proyecto (formato Coordinador). 
+• 
+Anexo 5: Resolución Exenta CNE N° 526/2026, que declara en construcción el proyecto BESS La Huayca. 
+• 
+Anexo 6: Carta DE01788-26 e Informe de Uso de Capacidad Técnica Disponible Definitivo (NUP 6218); 
+Resolución Exenta CNE N° 725/2025 y Carta DE06811-25. 
+• 
+Poderes: Copias de inscripción y certificados de vigencia de la sociedad y del representante legal. 
+ 

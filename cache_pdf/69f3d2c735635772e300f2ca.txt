@@ -1,0 +1,63 @@
+ 
+ 
+   
+ 
+ 
+Acciona Energía. Isidora Goyenechea 2800, Of. 3201. Edificio Titanium La Portada, Las Condes. Santiago, Chile. 
+ 
+Santiago, 30 de abril de 2026. 
+ACC.ECH.066.26 
+ 
+Señor: 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+De nuestra consideración: 
+ 
+En relación con la carta DE01769-26, mediante la cual el Coordinador Eléctrico Nacional (en adelante, 
+“Coordinador”) solicita el envío de antecedentes asociados a la revisión del desempeño observado en la 
+prestación del Servicio Complementario de Control Primario de Frecuencia (en adelante, “CPF”) para la central 
+eólica Tolpán Sur, informamos lo siguiente. 
+ 
+En adjunto a la presente se comparte el resumen ejecutivo del análisis técnico desarrollado, el cual identifica y 
+fundamente las causas que dieron origen a los registros evaluados negativamente, considerando los criterios 
+metodológicos utilizados por el Coordinador, los registros operacionales de la central utilizados para la 
+evaluación del desempeño y las coordinaciones efectuadas durante el período analizado. Este documento incluye 
+también las acciones correctivas implementadas o que se implementarán con el fin de mejorar el desempeño y 
+el plazo para ello. 
+ 
+Durante este proceso, se ha identificado una metodología de evaluación del Coordinador que solicitamos puedan 
+precisar y que tiene relación con la evaluación del comportamiento de la central en una ventana de 20 minutos 
+cuando los casos son definidos y contabilizados en bloques de 10 minutos. En esta evaluación se considera los 
+10 minutos del bloque evaluado y los 10 minutos inmediatamente anteriores, aún cuando estos podrían 
+corresponder a condiciones operativas distintas. Desde un punto de vista técnico, esta práctica podría 
+distorsionar la respuesta efectiva del servicio de control de frecuencia de las centrales renovables. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado Suplente 
+Acciona Energía Chile Holdings, S.A. 
+ 
+REF.  
+: 
+Respuesta a carta DE01769-26. 
+ 
+Firmado 
+digitalmente 
+por Luis Lorca 
+Arenas 
+Fecha: 
+2026.04.30 
+15:54:16 -04'00'

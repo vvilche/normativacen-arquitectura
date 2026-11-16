@@ -1,0 +1,51 @@
+ 
+Av. Parque Isidora N° 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+         www.coordinador.cl 
+ Santiago, 17 de abril de 2026 
+DE 02578-26 
+ 
+Señores 
+Encargados Empresas Coordinadas 
+Coordinador Eléctrico Nacional 
+Presente   
+ 
+ 
+ 
+ 
+ 
+Ref.: Cadena de Pagos. Publica Manual 
+API cierre Disconformidades. 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, informamos que, con el objetivo de continuar con la 
+optimización del uso de la Plataforma de Disconformidades y Portal de Pagos, se hace 
+entrega del manual de las nuevas Apis disponibles para gestionar el cierre masivo en el 
+Portal de Disconformidades. Con esta entrega se refuerza el compromiso del 
+Coordinador con la automatización y eficiencia de los procesos asociados. 
+ 
+Dicha información quedará publicada en la página del Coordinador Eléctrico, disponible 
+para quien lo requiera. Por lo anterior, se agradecerá revisar la información solicitada en 
+el siguiente link: 
+ 
+https://www.coordinador.cl/portal-pagos/documentos/instructivosymanuales/ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Lionel Roa Burgos 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+LOA/ycl 
+ 
+CC.  
+Marcelo Bobadilla M, Gerente de Mercados. 
+Adjunto: Manual API cierre Disconformidades 
+ 
+ 

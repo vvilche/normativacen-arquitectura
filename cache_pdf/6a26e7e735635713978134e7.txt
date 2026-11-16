@@ -1,0 +1,143 @@
+ 
+CONFIDENTIAL 
+ 
+ 
+  Arcadia Generación Solar Spa 
+Magdalena 140, Oficina 601 
+Las Condes, Santiago 
+sonnedix.com 
+ 
+ 
+Santiago, 5 de junio de 2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Responde a carta DE 01769-26 sobre Desempeño deficiente en la prestación del 
+Servicio Complementario de Control Terciario de Frecuencia de la central PFV Pampa Solar 
+Norte, febrero 2026. 
+ 
+De nuestra consideración, 
+ 
+Por medio de la presente, venimos a dar respuesta a su carta DE 01769-26 del 18 de marzo de 
+2026, mediante la cual se nos notifica el desempeño deficiente de la central PFV Pampa Solar Norte 
+en la prestación del Servicio Complementario de Control Terciario de Frecuencia (CTF) durante el 
+mes de febrero de 2026. A continuación, se detallan los antecedentes solicitados en los literales a), 
+b) y c) de dicha carta. 
+ 
+a) Diagnóstico y causa raíz del bajo desempeño 
+ 
+Con el objeto de dar una respuesta técnica fundada, Arcadia Generación Solar SpA encargó a 
+Reliable Nueva Energía S.A. (RNE) la elaboración de un informe de análisis del desempeño SSCC 
+CTF de la central, el cual se adjunta a la presente como Anexo 1. 
+ 
+El análisis fue realizado sobre la base de datos SCADA a resolución minutal, los Registros de 
+Instrucciones de Operación (RIO) del CEN y la bitácora operacional del CC-RNE, abarcando la 
+totalidad de los 22 eventos de CTF+ instruidos durante febrero de 2026. Los principales hallazgos 
+son: 
+ 
+• 
+El Factor de Disponibilidad fue 100% durante todo el período, descartando la indisponibilidad 
+técnica como factor explicativo. 
+• 
+El subfactor C1 (Tiempo de Inicio de Activación) fue cumplido en la totalidad de las 
+instrucciones, lo que confirma que la central respondió operacionalmente en forma correcta 
+y oportuna ante cada instrucción recibida. 
+• 
+8 de las 10 respuestas no satisfactorias obedecen a un error técnico no intencional en el 
+cálculo de la señal de potencia disponible enviada desde el SCADA de la central al sistema 
+SITR del CEN. Dicha señal, generada por la fórmula de cálculo del PPC, sobrestima 
+sistemáticamente la capacidad real de generación de la planta, registrando valores 
+recurrentes por encima de la potencia neta efectiva declarada en Infotécnica (65,87 MW) y, 
+en casos puntuales, superiores a 90 MW. Dado que el CEN utiliza esta señal como input 
+directo en la fórmula de evaluación del desempeño CTF para determinar el compromiso de 
+
+ 
+CONFIDENTIAL 
+reserva exigido, el resultado es que se le asigna a la central un compromiso que excede su 
+capacidad física real de generación. En consecuencia, el incumplimiento no refleja una falla 
+operacional de la central, sino un error no intencional en la señal de entrada que alimenta la 
+fórmula de evaluación. 
+• 
+1 caso obedece a una causa operacional: la consigna ingresada fue marginalmente superior 
+al compromiso de reserva, resultando en un factor FC3 de 1,058 que supera el límite superior 
+de 1,05, llevando el desempeño a 0 pese a haberse cumplido la reserva comprometida. 
+• 
+1 caso fue clasificado por el CEN como "No Verificable" (desempeño 0). Sin embargo, la 
+reconstrucción independiente de RNE arroja un desempeño de 100% para dicha instrucción. 
+Arcadia Generación Solar SpA solicita respetuosamente al Coordinador la revisión de la 
+clasificación asignada al evento del 17-02-2026 hora 17, o en su defecto, la entrega de los 
+antecedentes de auditoría que sustenten dicha categorización. 
+ 
+En síntesis, la causa raíz del bajo desempeño es un error no intencional en la fórmula de cálculo de 
+la señal de potencia disponible del SCADA, cuyo valor sobrestimado es utilizado por el CEN como 
+input en la evaluación del CTF, generando compromisos de reserva que la central no puede 
+materializar físicamente. La respuesta operacional de la central fue correcta en todos los casos 
+evaluados. 
+ 
+b) Acciones correctivas implementadas y a implementar 
+ 
+• 
+Recalibración del SCADA/PPC (en ejecución): Se ha solicitado formalmente al proveedor 
+del sistema de control de planta la corrección del error en la fórmula de cálculo de potencia 
+disponible, incluyendo: (i) incorporación de la potencia neta efectiva declarada (65,87 MW) 
+como tope operacional máximo de la señal enviada al SITR; (ii) revisión del modelo de 
+estimación a partir de irradiancia, temperatura de módulo y disponibilidad de inversores; y 
+(iii) implementación de verificación cruzada entre potencia disponible estimada y potencia 
+real alcanzable. 
+• 
+Validación de consignas: Se incorporará en el procedimiento operacional del CC-RNE una 
+verificación de la consigna ingresada ante cada instrucción de CTF, para evitar casos de 
+sobre-inyección que excedan el límite superior del estándar (FC3 > 1,05). 
+ 
+c) Plan de trabajo 
+ 
+Ítem 
+Nombre de la tarea 
+Fecha Inicio 
+Fecha Fin 
+1 
+Levantamiento de situación actual 
+04-06-2026 
+15-06-2026 
+2 
+Acciones correctivas a implementar 
+(Recalibración SCADA/PPC) 
+15-06-2026 
+29-06-2026 
+3 
+Pruebas de normalización 
+(Validación señal SITR post-intervención) 
+30-06-2026 
+09-07-2026 
+4 
+Finalización de la normalización 
+10-07-2026 
+10-07-2026 
+ 
+Las acciones de normalización serán ejecutadas en consistencia con las exigencias del proceso de 
+verificación de SSCC de la central, conforme a lo indicado en el Anexo Técnico de Verificación de 
+Instalaciones de la NT-SSCC. 
+ 
+Se adjunta el Informe de Análisis del Desempeño SSCC CTF PFV Pampa Solar Norte – Mayo 2026, 
+elaborado por Reliable Nueva Energía S.A. (Anexo 1). 
+ 
+Sin otro particular, quedamos a disposición para cualquier aclaración adicional. 
+ 
+
+ 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___________________________ 
+Claudio Silva Bustamante 
+Encargado Titular 
+Arcadia Generación Solar SpA 

@@ -1,0 +1,154 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 20 de febrero de 2026 
+DE 01224-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 030 al 040 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 030-2026 al EAF 040-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC > 2026 > Enero > Cálculo por EAF: 
+ 
+1. EAF 030-2026 
+2. EAF 031-2026 
+3. EAF 032-2026 
+4. EAF 033-2026 
+5. EAF 034-2026 
+6. EAF 035-2026 
+7. EAF 036-2026 
+8. EAF 037-2026 
+9. EAF 038-2026 
+10. EAF 039-2026 
+11. EAF 040-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el miércoles 25 de febrero 
+de 2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Cabe mencionar que la interrupcion asociada al EAF 033 no presento afectación a Puntos 
+de Control.  
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+c.c.: 
+Sr. Juan Eduardo Muñoz Tapia – Encargado Engie Energía Chile S.A. 
+Sra. Carolina Valderrama Campos – Encargado Titular Codelco (Corporación Nacional del Cobre) 
+Sra. María José Reveco – Encargado Titular Transelec S.A. 
+Sr. Alejandro Amorin Torres – Encargado Titular GNL Quintero S.A. 
+Sr. Camilo Sanhueza Bravo – Encargado Titular Empresa de Transmisión Eléctrica Transemel S.A. 
+Sr. Víctor Gutiérrez González – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Víctor Gutiérrez González – Encargado Titular CGE Transmisión S.A. 
+Sr. Marco Leiva – Encargado Titular Sociedad Contractual Minera El Abra 
+Sr. Pablo Marcos – Encargado Titular Huemul Energía SpA 
+Sr. Camilo Sanhueza Bravo – Encargado Titular Transmisora de Energía Nacimiento S.A. 
+Sr. Sergio Zamora Ramírez – Encargado Titular Bioenergías Forestales SpA 
+Sr. Jaime Valdes Leiva – Encargado Titular Cbb Cales S.A. 
+Sr. Luis Eduardo Sepúlveda Iturra – Encargado Titular Chilquinta Distribución S.A. 
+Sr. Jaime Acevedo Salinas – Encargado Titular Chilquinta Transmisión S.A. 
+Sr. Francisco Messen Rebolledo – Encargado Titular Enel Distribución Chile S.A. 
+ 
+DBCD/DTE-SSCC/SGASO 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 033-2026 
+23/01/2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Graneros 
+Parcial 
+SI 
+El alimentador Industrial (S/E Tap off La Negra) tiene 
+hora de normalización equivalente previa a la hora de 
+disponibilidad de la barra. 
+ 
+Se solicita detallar el mecanismo de recuperación 
+de estas cargas para este alimentador donde esto 
+se presente, y con el desglose requerido por la 
+SEC, esto es comunal y por zona de tarificación. 
+(*) Los EAFs N° 030, 031, 034, 035 y 036 no tuvieron afectación de Empresas Distribuidoras. 
+(**) En los EAF N° 032, 033 y 037 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+(**) En los EAF N° 038 la información recibida de la empresa distribuidora Chilquinta Distribución S.A. fue recibida en plazo y en forma, e incorporada al cálculo. 
+(**) En los EAF N° 039 y 040 la información recibida de la empresa distribuidora Enel Distribución Chile S.A. fue recibida en plazo y en forma, e incorporada al 
+cálculo. 
+ 
+ 

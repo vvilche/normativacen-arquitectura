@@ -1,0 +1,159 @@
+                                                                                                              
+ 
+ 
+E.E. Capullo S.A. 
+1 
+ 
+Santiago, 10 de abril de 2026 
+ 
+ 
+ 
+  
+                             CAR-CAP-007-2026 
+CAR-STLL-002-2026 
+Señores  
+Rodrigo Espinoza V. 
+Gerente de Operaciones 
+Patricio Leyton R. 
+Director Unidad de Ciberseguridad e Infraestructura Crítica 
+COORDINADOR ELÉCTRICO NACIONAL  
+Presente  
+ 
+Ref.: Solicitud de pronunciamiento técnico en el marco del proceso de calificación como 
+Operadores de Importancia Vital (OIV) conforme a la Ley N°21.663. 
+ 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, nos dirigimos a usted en representación de Empresa Eléctrica Capullo S.A. (en 
+adelante EEC) y Sistema de Transmisión de Los Lagos S.A. (en adelante STLL), en el contexto del 
+proceso de calificación de Operadores de Importancia Vital (OIV) llevado adelante por la Agencia 
+Nacional de Ciberseguridad (en adelante la Agencia), conforme a lo dispuesto en la Ley N°21.663. 
+ 
+Como es de su conocimiento, ambas compañías fueron incluidas en la nómina definitiva de OIV 
+mediante Resolución Exenta N°87 de diciembre de 2025, decisión que fue posteriormente 
+confirmada por la Agencia al resolver los respectivos recursos de reposición interpuestos por 
+nuestras representadas. 
+ 
+De acuerdo con lo señalado en dichas resoluciones, uno de los elementos centrales considerados 
+por la autoridad para efectos de dicha calificación corresponde a los antecedentes técnicos 
+proporcionados por el Coordinador Eléctrico Nacional, los cuales mencionan ser considerados 
+expresamente por la Agencia como fundamento para la calificación, en particular en lo relativo a: 
+ 
+ 
+La participación de las instalaciones en el Plan de Recuperación de Servicio (PRS), y 
+ 
+La evaluación de su relevancia dentro de la operación del Sistema Eléctrico Nacional (SEN), 
+incluyendo aspectos de redundancia y criticidad operativa. 
+ 
+En este contexto, y en línea con las reuniones sostenidas el martes 17 de marzo de 2026 y el jueves 
+2 de abril de 2026, según Agenda Pública N°16851-26 y N° 17011-26 respectivamente, estimamos 
+pertinente solicitar formalmente a ese Coordinador un pronunciamiento técnico actualizado 
+respecto a la participación efectiva que cumplen las instalaciones de ambas compañías dentro del 
+SEN relacionadas con aspectos de Ciberseguridad, particularmente considerando los siguiente: 
+ 
+ 
+ 
+ 
+
+                                                                                                              
+ 
+ 
+E.E. Capullo S.A. 
+2 
+ 
+1. Empresa Eléctrica Capullo S.A. 
+ 
+Respecto a su participación en el Plan de Recuperación de Servicio 2025 (PRS 2025), podemos 
+precisar 
+que, 
+conforme 
+se 
+indica 
+en 
+documento 
+“EPRS_Anexo 
+F 
+PRS 
+Zona 
+Sur_Final_2025_versión 2.pdf” lo siguiente: 
+ 
+a. En la tabla 3.1 del mencionado anexo, los siguientes Coordinados han sido 
+designados como COR, para efectos de coordinar el PRS según Zonas y Áreas 
+definidas, no siendo designado el CC de Capullo para dichos efectos. 
+ 
+ 
+b. En el punto 3.3.2 del mencionado anexo, se indica que el área Araucanía cuenta con 
+tres alternativas de recuperación de servicio, debiendo el COR Transelec 
+coordinarse con el CDC para determinar la factibilidad de implementación de 
+algunas de ellas, considerando la disponibilidad de las instalaciones. Una vez 
+revisado, el CDC define la alternativa que deberá ejecutar el COR Transelec. En cada 
+una de esas alternativas una vez recuperado el servicio el COR de Transelec 
+coordina con CC de STS y el CC Capullo para suministrar SSAA y permitir así la 
+sincronización de las centrales Capullo y Pulelfu respectivamente. 
+ 
+  
+  
+Dado lo anterior, se puede apreciar que la participación efectiva de EEC se circunscribe a la 
+puesta en servicio de sus instalaciones, una vez energizados desde el sistema sus servicios 
+auxiliares (SSAA) dado que la propia central no cuenta con capacidades autónomas (Partida 
+en Negro) para energizar el sistema ni iniciar procesos de recuperación por sí sola. Cabe 
+destacar que la energización de la línea de transmisión mediante la cual se suministra 
+energía a los SSAA de la central es realizada por el CC de STS. 
+ 
+En este contexto, se solicita a ese Coordinador confirmar expresamente si la indisponibilidad 
+de la central Capullo impediría o no la ejecución del PRS en condiciones operativas 
+equivalentes, o si existen alternativas técnicas que permitan la recuperación del sistema sin 
+su participación. 
+
+                                                                                                              
+ 
+ 
+E.E. Capullo S.A. 
+3 
+ 
+2. Sistema de Transmisón de Los Lagos S.A. 
+ 
+STLL es propietaria de un tramo de línea de 16,6 km de extensión, el cual pertenece al sistema 
+de transmisión 1x220 kV denominado Antillanca – Rahue en la cual STLL no explota ni opera una 
+red de transmisión extensa ni de carácter troncal o zonal, sino que es propietaria 
+exclusivamente de un “tramo” de la línea de transmisión dedicada, que no conecta sus extremos 
+ninguna Subestación, sino que los conecta a otro tramo de línea del denominado sistema 
+Antillanca. La infraestructura de la compañía corresponde exclusivamente a activos de 
+transmisión pasivos (estructuras y conductores), sin sistemas de control, operación remota ni 
+tecnologías digitales que permitan su operación directa desde plataformas informáticas. 
+Asimismo, la operación efectiva del sistema del cual forma parte es realizada por terceros, no 
+teniendo la compañía un rol operativo directo en la gestión del SEN. En este contexto, la 
+exposición a riesgos de ciberseguridad resulta significativamente acotada, al no existir sistemas 
+susceptibles de ser afectados mediante incidentes de esta naturaleza. 
+ 
+En este sentido, se solicita a ese Coordinador confirmar si que las instalaciones de STLL no 
+cuentan con sistemas digitales y/o equipos de maniobras operacionales que, ante un incidente 
+de ciberseguridad, pudiesen afectar directamente la operación del SEN. 
+ 
+En consistencia con lo anterior tanto EEC como STTLL han sido clasificadas como de impacto bajo 
+conforme al Estándar de Ciberseguridad del Sector Eléctrico (NERC-CIP), lo cual, desde el punto de 
+vista técnico, implica que su afectación no compromete la operación en tiempo real ni la estabilidad 
+del SEN. 
+ 
+En virtud de lo anterior, solicitamos respetuosamente a ese Coordinador emitir un pronunciamiento 
+técnico que permita complementar y/o precisar los antecedentes previamente considerados, en 
+particular respecto del rol de las instalaciones dentro del SEN, su participación en el PRS y su nivel 
+de criticidad operativa. 
+ 
+Lo anterior, con el objeto de contar con antecedentes técnicos actualizados que permitan una 
+adecuada evaluación por parte de la autoridad competente en el marco de los procesos 
+administrativos y judiciales actualmente en curso, en los cuales dichos antecedentes técnicos 
+resultan de especial relevancia. 
+ 
+Agradeciendo desde ya su disposición y colaboración, y quedando atentos a cualquier antecedente 
+adicional que estimen necesario, 
+ 
+Saluda atentamente a Ud., 
+ 
+ 
+ 
+VÍCTOR SALINAS BARRERA 
+Encargado Titular CEN 
+Empresa Eléctrica Capullo S.A. 
+Sistema de Transmisión de Los Lagos S.A. 

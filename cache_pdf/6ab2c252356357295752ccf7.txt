@@ -1,0 +1,48 @@
+ 
+Carta N°: E-076-2026                                                                                                 Fecha: 16 de septiembre del 2026 
+ 
+A:  
+Sr. Rodrigo Espinoza.   
+ 
+ 
+ 
+ 
+Coordinador Eléctrico Nacional 
+DE:  
+Srta. Marcela Peña                                                                                                         Minera Escondida Ltda. 
+ 
+REF.: Respuesta a carta DE 05854-26, Solicita antecedentes técnicos de los relés con función de 
+gradiente de frecuencia (ROCOF) asociados a esquemas EDAC y EDAG. 
+ 
+De nuestra consideración: 
+En relación con la carta citada en la referencia, informamos que tras ser revisados los equipos 
+considerados en la propuesta EDAC BF, se verificó que los relés actualmente asociados a dichos 
+escalones (GE SR750, GE SR745, GE UR F60, Hitachi REF620 y Siemens 7SJ) se encuentran clasificados 
+en la evaluación interna como “No Cumple” para la función de gradiente de frecuencia requerida, 
+detallado en Anexo 1 adjunto. Las observaciones registradas indican ausencia de función df/dt e 
+incumplimientos asociados a los requisitos de oscilografias y desempeños exigidos para este tipo de 
+aplicación. En consecuencia, actualmente no existe una función de gradiente de frecuencia (ROCOF) 
+implementada y en servicio asociada al esquema EDAC BF de MEL, por lo que no se dispone de los 
+antecedentes técnicos específicos solicitados por el Coordinador para dicha función. 
+Sin perjuicio de lo anterior, Minera Escondida se encuentra evaluando la adquisición y reemplazo de los 
+relés identificados en la planilla como “No Cumple”, con el fin de adecuarlos a los requerimientos 
+establecidos por el Coordinador. 
+Quedamos a su disposición para coordinar una reunión entre los equipos técnicos de Minera 
+Escondida Ltda. y el Coordinador Eléctrico Nacional, en caso de requerir información adicional. 
+Sin otro particular, saluda atentamente a usted,  
+   
+ 
+ 
+ 
+ 
+Marcela Peña 
+Encargado Titular 
+MINERA ESCONDIDA LTDA. 
+ 
+Digitally signed by Marcela Peña
+DN: cn=Marcela Peña, o=BHP
+Group Operations Pty Ltd,
+ou=MULTI-ALLOWED
+Date: 2026.09.21 15:04:49 -03'00'
+Marcela
+Peña

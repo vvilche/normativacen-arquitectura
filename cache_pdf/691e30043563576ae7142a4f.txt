@@ -1,0 +1,392 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 19 de noviembre de 2025 
+DE 07431-25 
+Señor 
+Juan Muñoz 
+Encargado Titular 
+Engie Energía Chile S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario de Frecuencia y Control Terciario de 
+Frecuencia de la central TER Mejillones CTM3. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los Servicios Complementarios 
+(SSCC) de Control Primario de Frecuencia (CPF) y Control Terciario de Frecuencia (CTF) 
+de la central TER Mejillones CTM3. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del 20 de noviembre de 2025, 
+considerando los recursos indicados en el anexo a la presente carta.  
+ 
+Al respecto, en el anexo a la presente comunicación se presenta la información indicada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF y CTF de la central TER Mejillones se encuentran publicados en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia: 
+ 
+1. > Control Primario de Frecuencia > Central TER Mejillones CTM3 
+2. > Control Terciario de Frecuencia > Central TER Mejillones CTM3 
+ 
+Finalmente, la central TER Mejillones CTM3 podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/DIR/WJS/adr 
+c.c.: Empresas Coordinadas 
+Sr. Felipe Fleming C.– Encargado Suplente Engie Energía Chile S.A. 
+ 
+Referencias: 
+ 
+[1] Carta ENGIE N°034/2023 de Engie Energía Chile S.A, Ref.: “Envío de informes de 
+pruebas de verificación de SSCC de la CTM3”, de fecha 06 de marzo de 2023. Ingreso 
+DE01329-23. 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 2020.06.01 > Instructivos Técnicos > Protocolo de envío de registros 
+Potencia/Frecuencia para la evaluación del CPF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central      
+TER Mejillones CTM3 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Mejillones CTM3 – TG + TV con combustible GNL 
+• 
+Potencia máxima bruta: 245,844 [MW] 
+• 
+Potencia máxima neta: 234,673 [MW] 
+• 
+Potencia bruta mínima con Control Primario de Frecuencia: 91 [MW] 
+• 
+Potencia mínima bruta: 80 [MW] 
+b) Central TER Mejillones CTM3 – TG + TV con combustible Diésel 
+• 
+Potencia máxima bruta: 242,034 [MW] 
+• 
+Potencia máxima neta: 228,865 [MW] 
+• 
+Potencia bruta mínima con Control Primario de Frecuencia: 91 [MW] 
+• 
+Potencia mínima bruta: 80 [MW] 
+c) Central TER Mejillones CTM3 – TG con combustible GNL 
+• 
+Potencia máxima bruta: 158,371 [MW] 
+• 
+Potencia máxima neta: 148,481 [MW] 
+• 
+Potencia bruta mínima con Control Primario de Frecuencia: 51 [MW] 
+• 
+Potencia mínima bruta: 40 [MW] 
+d) Central TER Mejillones CTM3 – TG con combustible Diésel 
+• 
+Potencia máxima bruta: 156,154 [MW] 
+• 
+Potencia máxima neta: 145,033 [MW] 
+• 
+Potencia bruta mínima con Control Primario de Frecuencia: 51 [MW] 
+• 
+Potencia mínima bruta: 40 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+El estatismo y banda muerta no pueden ser modificados por el operador de la 
+central. 
+• 
+El estatismo (R) se encuentra ajustado en 8%. 
+• 
+Los ensayos de CPF fueron realizados con gas natural. Sin embargo, el coordinado 
+Engie Energía Chile S.A. informa que la respuesta es independiente del tipo de 
+combustible empleado. Dado lo anterior, los resultados son v extendidos para la 
+configuración diésel. 
+• 
+Se considera un aporte máximo de 11 [MW] para el CPF. Este ajuste fue 
+implementado por el fabricante con el fin de evitar variaciones súbitas de 
+temperatura en la turbina de gas (TG).  
+• 
+La TV de CTM3 no hace CPF. El aporte de la TV es una consecuencia de los 
+movimientos de la TG. 
+b) Control Terciario de Frecuencia 
+• 
+El operador puede consignar los valores de referencia en la interfaz del regulador 
+con la central en funcionamiento.  
+• 
+Los ensayos de CTF fueron realizados con gas natural. Sin embargo, el coordinado 
+Engie Energía Chile S.A. informa que la respuesta es independiente del tipo de 
+combustible empleado. Dado lo anterior, los resultados son extendidos a la 
+configuración con diésel. 
+• 
+El gradiente de toma y bajada de carga se encuentra actualmente ajustado en 5 
+MW/min, con un rango de ajuste disponible entre 0 y 11 MW/min. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Engie Energía Chile 
+S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en las páginas siguientes 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+a) Control Primario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+ 
+Ciclo combinado 
+TG+TV 
+TG 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+8% 
+8% 
+Estatismo 
+8% 
+8% 
+Rango de ajuste Banda muerta [mHz] 
+25 
+25 
+Banda muerta [mHz] (1) 
+25 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+<1 
+Límite de regulación superior [MW] (2) 
+245,844 
+158,371 
+Límite de regulación inferior [MW] (3) 
+91 
+51 
+Aportes (4)(5) 
+BM = 25 [mHz] 
+R = 8% 
+10 
+segundos 
+Aporte +0,2[Hz] [MW] 
+-7 
+-7,2 
+Aporte -0,2[Hz] [MW] 
+7 
+7,3 
+Aporte +0,7[Hz] [MW] 
+-11 
+-11 
+Aporte -0,7[Hz] [MW]  
+11 
+11 
+5 minutos 
+Aporte +0,2[Hz] [MW] 
+-4 
+-7 
+Aporte -0,2[Hz] [MW] 
+6 
+7 
+Aporte +0,7[Hz] [MW] 
+-7 
+-11 
+Aporte -0,7[Hz] [MW]  
+11 
+11 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia máxima bruta considerando el combustible de gas natural aprobada por el 
+Coordinador. 
+(3) Correspondiente a la Potencia mínima bruta considerando el combustible de gas natural aprobada por el 
+Coordinador. 
+(4) Aportes para CPF+ y CPF- en ±0,2 [Hz] y ±0,7 [Hz] determinados con una consigna de 145 [MW]. El aporte 
+de la central es uniforme en todo su rango de operación. 
+(5) Los aportes son independientes del combustible utilizado. 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+b) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Ciclo 
+combinado 
+TG+TV 
+TG 
+TER 
+Mejillones 
+CTM3 
+Gas natural / 
+Diésel 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+5 
+5 
+Bajada 
+5 
+5 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+11 
+11 
+Bajada 
+11 
+11 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+<5 
+Bajada 
+<5 
+<5 
+Aporte CTF [MW] 
+Subida 
+50 
+50 
+Bajada 
+-50 
+-50 
+Límite de regulación superior [MW] (2) 
+245,844 
+158,371 
+Límite de regulación inferior [MW] (2) 
+80 
+40 
+(1)  Tasa de subida y bajada de carga tiene un rango de ajuste de 0 a 11 MW/min 
+(2) Los límites de regulación, correspondientes a la potencia bruta y el aporte máximo de CTF podrán verse 
+modificados si se actualizan los parámetros operacionales de la central. 
+ 
+ 
+ 

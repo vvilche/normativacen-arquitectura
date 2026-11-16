@@ -1,0 +1,167 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 22 de julio de 2026 
+DE 04873-26 
+ 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de los Parámetros de Partida y 
+Detención de la unidad HP Queltehues U3. 
+ 
+[1] Carta AES 0002-2024 de AES Andes S.A., Ref.: 
+“Respuesta a observaciones Informe Técnico de 
+Parámetros de Partida y Detención de la Central HP 
+Queltehues U3”, de fecha 09 de enero del 2024. 
+Ingreso DE00294-24. 
+[2] Carta DE00538-24, Ref.: “[NUP 3557] Informe de 
+Parámetros de Partida y Detención de la Unidad HP 
+Queltehues U3, del coordinado AES Andes S.A.”, 
+de fecha 26 de enero del 2024. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros de Partida y Detención de Unidades Generadoras” de la Norma Técnica de 
+Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte del Coordinador 
+Eléctrico Nacional de los Parámetros de Partida y Detención de la unidad HP Queltehues 
+U3, en conformidad con el Informe Técnico recibido mediante la comunicación de la Ref. 
+[1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 11 del Anexo Técnico en 
+aplicación, no se recibieron observaciones de coordinado alguno al informe técnico 
+mencionado, publicado en la página web del Coordinador mediante la comunicación de la 
+Ref. [2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme con lo anterior, los valores de los Parámetros de Partida y Detención de la Central 
+Hidroeléctrica Queltehues U3 se presentan en las tablas contenidas en el Anexo 1 de la 
+presente carta. 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en las Tablas 1 y 2 entrarán 
+en vigencia a partir de las 00:00 horas del día 24 de julio de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Parámetros de Partida y Detención > Informes de 
+Determinación de Parámetros de Partida y Detención > HP Queltehues U3 > 2026 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PVV/CRV/SGM/PCG/adr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Anexo 1: Parámetros del proceso de partida y detención de la unidad HP 
+Queltehues U3 
+ 
+Tabla 1: Parámetros de partida 
+Etapa 
+Parámetro 
+Central 
+Partida – 
+Sincronización 
+Consumo SSAA [kWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+Sincronización – 
+Mínimo Técnico 
+Consumo SSAA [kWh] 
+0,2416 
+Tiempo [minutos] 
+0,1670 
+Mínimo Técnico – 
+Potencia Nominal 
+Consumo SSAA [kWh] 
+7,4191 
+Tiempo [minutos] 
+5,0700 
+(1) Los valores de potencia máxima y mínima neta de la Central Hidroeléctrica Queltehues U3 
+son de 17,01 MW y 0,7 MW respectivamente. 
+ 
+Tabla 2: Parámetros de detención 
+ 
+Etapa 
+Parámetro 
+Central 
+Potencia Nominal 
+– Mínimo Técnico  
+Consumo SSAA [kWh] 
+5,9691 
+Tiempo [minutos] 
+4,1700 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA [kWh] 
+0,2416 
+Tiempo [minutos] 
+0,1670 
+Desconexión – 
+Detención 
+Consumo SSAA [kWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+ 
+ 
+Nota: El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo en Estado Detenido 
+(TMD) son 0 [min]. 
+ 

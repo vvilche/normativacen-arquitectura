@@ -1,0 +1,205 @@
+ 
+Santiago, 12 de diciembre de 2025. 
+  ACC.ECH.121.25 
+Señora: 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Remite observaciones al Informe de Desempeño de Servicios Complementarios – 
+noviembre 2025. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de noviembre de 2025, que fue publicado en su página web y cuya publicación fue comunicada 
+a través de la carta DE 07767-25 de fecha 05 de diciembre de 2025. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado (S) 
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC NOVIEMBRE 2025 V1 
+Servicio Complementario – CT 
+Planta PFV El Romero 
+Timestamp 
+Planta 
+Consigna en 
+Planta 
+[MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO Comentario 
+14-11-2025 
+1:07 
+-60 
+-60 
+04-11-2025  
+1:08 
+Se califica como NC, sin embargo, el parque comienza a descender de 0 a -60 MVAr 
+a las 1:07:30, inmediatamente después que el CEN lo instruyera. Se adjunta Figura 
+1 y Tabla 1 mostrando lo anteriormente mencionado. 
+ 
+ 
+Figura 1: Potencia reactiva PFV El Romero. 
+ 
+ 
+ 
+ 
+ 
+
+Time 
+Reactive 
+Power [KVAr] 
+14-nov-25 01:06:00 
+0,006 
+14-nov-25 01:06:10 
+0,005 
+14-nov-25 01:06:20 
+-0,038 
+14-nov-25 01:06:30 
+0,019 
+14-nov-25 01:06:40 
+-0,019 
+14-nov-25 01:06:50 
+0,016 
+14-nov-25 01:07:00 
+0,019 
+14-nov-25 01:07:10 
+0,006 
+14-nov-25 01:07:20 
+-0,024 
+14-nov-25 01:07:30 
+-8,501 
+14-nov-25 01:07:40 
+-32,688 
+14-nov-25 01:07:50 
+-44,122 
+14-nov-25 01:08:00 
+-51,281 
+14-nov-25 01:08:10 
+-55,053 
+14-nov-25 01:08:20 
+-57,374 
+14-nov-25 01:08:30 
+-58,584 
+14-nov-25 01:08:40 
+-59,211 
+14-nov-25 01:08:50 
+-59,510 
+14-nov-25 01:09:00 
+-59,714 
+14-nov-25 01:09:10 
+-59,884 
+14-nov-25 01:09:20 
+-59,878 
+14-nov-25 01:09:30 
+-59,907 
+14-nov-25 01:09:40 
+-59,988 
+14-nov-25 01:09:50 
+-59,988 
+Tabla 1:Potencia reactiva PFV El Romero. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Servicio Complementario – CPF 
+Planta PE Tolpán Sur 
+Respuesta 
+CPF 
+(Fact_CPF) 
+Disponibilidad 
+(Fdis_CPF) 
+Desempeño 
+(DCPF) 
+Factor de 
+Desempeño 
+(Fd_CPF) 
+Comentario 
+No 
+Verificable 
+100,00% 
+0,00% 
+0,00% 
+A partir de la notificación de la culminación del proceso de verificación del CPF de 
+la central, esta ha participado activamente en dicho servicio. Asimismo, se ha 
+solicitado en tres oportunidades a la casilla "verificacion.sscc@coordinador.cl" la 
+asignación de un identificador para la central con el fin de disponer los registros 
+requeridos por el CEN en el servidor correspondiente, sin embargo, no hemos 
+recibido respuesta a ello, lo que ha impedido validar el desempeño de la central. 
+Cabe señalar que los registros están disponibles y fueron enviados por correo a la 
+misma casilla el día 04/12/2025 a las 15:24 horas, sin obtener confirmación. 
+Por lo anterior, solicitamos se pueda recalcular el desempeño de CPF y se entregue 
+el identificador correspondiente, a fin de realizar la carga de los registros para el 
+cálculo de los índices de desempeño. 
+ 
+Planta PFV Almeyda 
+Respuesta 
+CPF 
+(Fact_CPF) 
+Disponibilidad 
+(Fdis_CPF) 
+Desempeño 
+(DCPF) 
+Factor de 
+Desempeño 
+(Fd_CPF) 
+Comentario 
+No 
+Verificable 
+100,00% 
+0,00% 
+0,00% 
+Se solicita revisar el cálculo del Factor de Desempeño en función de los registros 
+enviados, tal como en el caso anterior. 
+ 
+Planta PFV Malgarida 
+Respuesta 
+CPF 
+(Fact_CPF) 
+Disponibilidad 
+(Fdis_CPF) 
+Desempeño 
+(DCPF) 
+Factor de 
+Desempeño 
+(Fd_CPF) 
+Comentario 
+No 
+Verificable 
+100,00% 
+0,00% 
+0,00% 
+Se solicita revisar el cálculo del Factor de Desempeño en función de los registros 
+enviados, tal como en el caso anterior. 
+ 
+Planta PFV Usya 
+Respuesta 
+CPF 
+(Fact_CPF) 
+Disponibilidad 
+(Fdis_CPF) 
+Desempeño 
+(DCPF) 
+Factor de 
+Desempeño 
+(Fd_CPF) 
+Comentario 
+No 
+Verificable 
+100,00% 
+0,00% 
+0,00% 
+Se solicita revisar el cálculo del Factor de Desempeño en función de los registros 
+enviados, tal como en el caso anterior. 
+ 

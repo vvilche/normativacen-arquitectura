@@ -1,0 +1,261 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 06 de mayo de 2025 
+DE 02651-25 
+ 
+Señora 
+Verónica Bustos 
+Encargado Titular 
+Prime Energía Quickstart SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Terciario de Frecuencia de la Central TER San Javier 
+I. 
+[1] Carta PE-2023-001, Ref.: “Solicitud revisión de 
+Informes 
+de 
+Verificación 
+de 
+Servicios 
+Complementarios”, de fecha 28 de febrero de 2023. 
+Ingreso DE01179-23. 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado 
+el proceso de verificación del Servicio Complementario (SC) de Control Terciario de 
+Frecuencia (CTF) de la Central TER San Javier I. 
+ 
+Como resultado de este proceso, la central mencionada quedará habilitada para la 
+prestación del mencionado servicio a partir de las 00:00 del 08 de mayo de 2025, 
+considerando los recursos indicados en anexo de la presente carta.  
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NT-SSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CTF de la central TER San Javier I se ha publicado en la siguiente ruta de la 
+página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central TER San Javier I 
+ 
+Finalmente, la Central TER San Javier I podrá participar de las subastas de CTF una vez 
+que complete el proceso de solicitud de incorporación a la plataforma de subastas. Para 
+ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DIR/PGR/adr 
+c.c.:  
+Sr. Cristian Sanhueza – Encargado Suplente Prime Energía Quickstart SpA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central  
+TER San Javier I 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER San Javier I  
+• Potencia máxima bruta 25,99 [MW] 
+• Potencia máxima neta 25,51 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Terciario de 
+Frecuencia  
+Control Terciario de Frecuencia por Subfrecuencia 
+(CTF+) 
+Control Terciario de Frecuencia por Sobrefrecuencia 
+(CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia: 
+• 
+El gradiente de carga de los motores es único y el operador carece de la posibilidad 
+de modificarlo. 
+• 
+El tiempo de activación de CTF depende del tiempo que se demora el operador en 
+consignar el nuevo valor de referencia de potencia, debiendo activarse en menos 
+de 5 min de acuerdo con las definiciones del SC. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Prime Energía 
+Quickstart SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en la página siguiente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Combustible 
+Parámetro 
+Valor determinado 
+TER San 
+Javier I 
+Diésel 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+29,500 
+ 
+Bajada 
+44,300 
+ 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+29,500 
+ 
+Bajada 
+44,300 
+ 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] 
+Subida 
+25,042 
+ 
+Bajada 
+25,042 
+ 
+Límite de regulación superior [MW] (2) 
+25,511 
+ 
+Límite de regulación inferior [MW] (2) 
+0,468 
+ 
+(1) La tasa de subida y bajada de carga es fija. 
+ 
+(2) Los límites de regulación y aporte máximo de CTF correspondientes a la potencia neta podrán verse modificados si 
+se actualizan los parámetros operacionales de la central TER San Javier I. 
+ 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Central 
+Combustible 
+Parámetro 
+Valor 
+determinado 
+TER San Javier I 
+Diésel 
+Tiempo hasta sincronización [min] 
+0,3 
+ 
+Tiempo hasta mínimo técnico [min] 
+0,7 
+ 
+Reserva Fría [MW]  
+25,511 
+ 
+ 
+ 
+ 

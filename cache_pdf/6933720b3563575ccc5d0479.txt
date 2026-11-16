@@ -1,0 +1,68 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 05 de diciembre de 2025 
+ 
+DE 07785-25 
+Señor 
+Juan Muñoz Tapia 
+Encargado Titular 
+Solar Los Loros SpA 
+Presente 
+ 
+Ref.: EAF 
+478/2025: 
+ 
+Apertura 
+intempestiva del interruptor 52H3 de S/E 
+Cardones. 
+ 
+De mi consideración: 
+ 
+Me refiero a la apertura intempestiva del interruptor 52H3 de S/E Cardones, ocurrida 
+a las 11:53 horas del día 02 de noviembre de 2025, la cual provocó, entre otros 
+efectos, la desconexión forzada del PFV Los Loros.  
+ 
+Al respecto, con el objetivo de aclarar debidamente las causas y consecuencias del 
+evento en cuestión, en conformidad con lo que establece el Título 6-7, y en 
+particular, el Artículo 6-44 de la Norma Técnica de Seguridad y Calidad de Servicio 
+(NTSyCS), y en virtud de las modificaciones aplicadas al proceso de los Estudios 
+para Análisis de Falla, instruidas por la Superintendencia de Electricidad y 
+Combustibles mediante las Resoluciones Exentas N°30989-2019 y N°30891-2019, 
+solicito a usted remitir a este Coordinador antes de las 18:00 horas del día 15 de 
+diciembre de 2025 lo siguiente: 
+• Antecedentes adicionales respecto de la protección que provocó la apertura 
+automática del interruptor 52H1 de S/E Centra Parque Solar Los Loros. 
+Lo anterior, debido a que en los registros COMTRADE de los relés SEL-311C y 
+SEL-311L del mencionado paño, proporcionados por su representada junto al 
+Informe de Falla de 5 días, no se logra identificar la protección operada ni alguna 
+señal de trip sobre el interruptor 52H1. Tampoco los registros alcanzan a 
+capturar la interrupción total de las corrientes, de manera de poder corroborar 
+la apertura del interruptor 52H1. 
+• Registros de los sistemas de protección en formato COMTRADE que 
+provocaron las aperturas de los interruptores AT/MT de los transformadores N°1 
+y N°2 110/33 kV de S/E Parque Solar Los Loros y de los interruptores MT del 
+PFV Los Loros, junto con su correspondiente análisis en función de sus ajustes. 
+Lo anterior, debido a que de acuerdo con registros SCADA del Coordinador, 
+junto con la apertura del interruptor 52H1, se produjeron las aperturas de todos 
+los interruptores 110 kV y 23 kV de S/E Central Parque Solar Los Loros. 
+Es importante recordar a usted que la información citada en las viñetas 
+anteriores es parte de los entregables del Informe de Falla de los Coordinados. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+• Otros antecedentes que Solar Los Loros SpA considere relevantes en relación 
+con lo solicitado. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+        
+c.c.:  
+Sr. Felipe Fleming Campos - Encargado Suplente Solar Los Loros SpA 
+PPV/adr 

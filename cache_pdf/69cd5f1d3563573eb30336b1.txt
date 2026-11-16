@@ -1,0 +1,94 @@
+ 
+ 
+ 
+ 
+ 
+Santiago, 31 de marzo 2026  
+OP 051-26 
+Señor 
+Rodrigo Espinoza V.  
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+MATERIA: 
+SOLICITUD DE ACCESO DIARIO A REPORTES DIARIOS DE MONITOREO DE 
+CONTROL DE FRECUENCIA E INFORMES DE RESPUESTA CPF, CSF, CTF Y 
+CT. 
+ 
+ 
+REF [1]: 
+“DESEMPEÑO DEFICIENTE EN LA PRESTACIÓN DE LOS SERVICIOS 
+COMPLEMENTARIOS DE CONTROL PRIMARIO DE FRECUENCIA, CONTROL 
+TERCIARIO DE FRECUENCIA Y CONTROL DE TENSIÓN DE LAS UNIDADES 
+GENERADORAS FEBRERO 2026”. (DE01769-26) 
+REF [2]:  
+“DESEMPEÑO DEFICIENTE EN LA PRESTACIÓN DE LOS (SERVICIOS 
+COMPLEMENTARIOS DE CONTROL PRIMARIO DE FRECUENCIA, CONTROL 
+TERCIARIO DE FRECUENCIA Y CONTROL DE TENSIÓN DE LAS UNIDADES 
+GENERADORAS.” (DE 01221-26) 
+ 
+ 
+ 
+De mi consideración, 
+ 
+Enel Generación Chile S.A., en su calidad de empresa generadora y prestadora de 
+servicios complementarios, se dirige a ustedes con el objeto de solicitar formalmente que 
+el Coordinador Eléctrico Nacional disponga la publicación o envío diario de los reportes 
+denominados “Monitoreo de control de frecuencia”, generados automáticamente por el 
+sistema Saturn2e. 
+ 
+El acceso oportuno y sistemático a dichos reportes resulta fundamental para evaluar 
+diariamente el desempeño de la prestación del Servicio Complementario de Control 
+Primario de Frecuencia (CPF), permitiendo a nuestra compañía verificar la calidad de la 
+respuesta de nuestras unidades y asegurar el cumplimiento de los estándares técnicos 
+establecidos en la normativa vigente. 
+ 
+Asimismo, solicitamos que se publiquen o envíen diariamente los archivos que indican el 
+desempeño de los distintos Servicios Complementarios, a saber: 
+ 
+• 
+AAAA.MM_Respuesta_CPF.xlsx 
+• 
+AAAA.MM_Respuesta_CSF.xlsx 
+• 
+AAAA.MM_Respuesta_CTF.xlsx 
+• 
+AAAA.MM_Respuesta_CT.xlsx 
+ 
+Donde AAAA corresponde al año en curso y MM al mes en curso. 
+ 
+ 
+Consideramos que la disponibilidad de esta información fortalecerá la transparencia del 
+proceso de monitoreo, facilitará la implementación de planes de mejora continua y 
+contribuirá a la confiabilidad del Sistema Eléctrico Nacional. 
+
+ 
+2
+ 
+Agradecemos de antemano la atención a esta solicitud y quedamos atentos a la 
+confirmación de los mecanismos de entrega de los reportes mencionados. 
+ 
+ 
+Sin otro particular, saludamos cordialmente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Miguel Buzunariz R. 
+Encargado CEN 
+ENEL GENERACIÓN CHILE S.A. Y FILIALES 
+ 
+ 
+Anexo. 
+1.- Muestra de un informe de Monitoreo de control de frecuencia. 
+2.- 2025.01_Respuesta_CPF.xlsx 
+3.- 2025.01_Respuesta_CTF.xlsx 
+4.- 2025.01_Respuesta_CSF.xlsx 
+5- 2025.01_Respuesta_CT.xlsx 
+ 

@@ -1,0 +1,69 @@
+grenergy.eu
+Avda. Apoquindo 2730, torre 4 El Bosque - oficina 1201 – Las Condes – Santiago. Tel.: 56 (2) 22483253
+Santiago, 28 de agosto de 2026.
+CARTA N° GR-CHL0111A-456/2026
+Señor
+Patricio Valenzuela V.
+Subgerente de Control y Desarrollo Operacional
+Coordinador Eléctrico Nacional
+Presente
+Asunto: Respuesta a solicitud que indica.
+Ref.:
+Carta DE 05315-26, de fecha 21 de agosto de
+2026, del Coordinador Eléctrico Nacional.
+De nuestra consideración:
+Junto con saludar cordialmente, nos dirigimos a usted en relación con la carta
+individualizada en la referencia, mediante la cual se solicita informar y justificar los atrasos
+asociados a la implementación de los puntos de monitoreo dinámico mediante Unidades de
+Medición Fasorial (PMU) para nuestra representada, GR Liun SpA, correspondiente al
+proyecto Tamango.
+Al respecto informamos que el desarrollo del proyecto ha experimentado
+ciertos atrasos en su programación original debido a ajustes requeridos durante el
+proceso de coordinación e ingeniería con el proveedor especializado.
+Sin perjuicio de lo anterior, nuestra representada ha continuado avanzando en las
+distintas
+etapas
+necesarias
+y
+nos
+complace
+informar
+que
+se
+han
+concluido
+satisfactoriamente las Pruebas de Aceptación en Fábrica (Pruebas FAT) de los equipos
+requeridos, garantizando el cumplimiento de los estándares técnicos exigidos.
+A la fecha, el proyecto se encuentra en etapa de revisión y validación de los enlaces
+de comunicación locales. Esta etapa considera la revisión detallada de las arquitecturas de
+comunicación locales y remotas para asegurar una transmisión continua, segura y con los
+niveles de disponibilidad y confiabilidad requeridos para el monitoreo dinámico por parte de
+ese Coordinador.
+De acuerdo con el estado actual del proyecto y la planificación vigente, nuestra
+representada estima que los puntos de monitoreo dinámico solicitados se encontrarán
+operativos durante el mes de diciembre de 2026.
+
+grenergy.eu
+Avda. Apoquindo 2730, torre 4 El Bosque - oficina 1201 – Las Condes – Santiago. Tel.: 56 (2) 22483253
+Nuestra representada mantiene su firme compromiso con el cumplimiento de las
+exigencias técnicas y operacionales establecidas por ese Coordinador y se encuentra
+realizando
+todas
+las
+gestiones
+necesarias,
+en
+conjunto
+con
+sus
+proveedores
+especializados, para concluir la implementación y puesta en servicio de los puntos de
+monitoreo a la mayor brevedad posible, procurando asegurar una solución técnicamente
+robusta y confiable.
+Sin otro particular, saluda atentamente a usted,
+_____________________________
+Pablo Abell Mena
+p.p. GR Liun SpA
+_____________________________
+Fabian Videla Ortega
+p.p. GR Liun SpA

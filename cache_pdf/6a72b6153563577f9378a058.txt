@@ -1,0 +1,272 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 04 de agosto de 2026 
+DE 05199-26 
+Señor 
+José Pérez-Cotapos 
+Encargado Titular 
+CI GMF II Arena ProjectCo SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Primario de 
+Frecuencia del Sistema de Almacenamiento de 
+Energía BESS Arena (NUP 4749).  
+Responde a Ingreso DE04811-26. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control Primario 
+de Frecuencia (CPF) del BESS Arena (NUP 4749).  
+ 
+Como resultado de este proceso, la instalación mencionada queda habilitada para la 
+prestación del mencionado servicio complementario a partir de las 00:00 del 06 de agosto 
+de 2026, considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CPF del BESS Arena se encuentra publicado en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Primario de Frecuencia > SAE BESS Arena 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+ 
+a) Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2], siendo el plazo 
+para esta acción de 30 días corridos contados desde la fecha de emisión de la 
+presente carta. Pese a no contar con las señales necesarias para evaluar el 
+desempeño en la prestación, BESS Arena quedará habilitado para prestar el 
+Servicio Complementario (SC) de Control Primario de Frecuencia (CPF), pudiendo 
+ser instruido por este Coordinador para prestar dicho servicio complementario, a 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+partir de la fecha antes señalada. En dicho caso, la evaluación de estas 
+instrucciones será “No Verificable”. 
+ 
+b) Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, su representada podrá proponer el utilizar medios 
+alternativos para poder realizar la evaluación de desempeño de la prestación del 
+SC, los que deberán ser evaluados y aprobados previamente por el Coordinador.  
+ 
+Finalmente, la instalación mencionada podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+ 
+En el caso de que su representada tenga alguna consulta sobre el procedimiento de 
+Subastas para Control de Frecuencia, 
+deberá dirigirla al correo electrónico 
+programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/WJS/cfp 
+c.c.: 
+Sr. Benjamín Maluenda P. – Encargado Suplente CI GMF II Arena ProjectCo SpA 
+ 
+Referencias 
+ 
+[1] Carta S/N de CI GMF II Arena ProjectCo SpA, Ref.: “Respuesta a carta DCO-SSCC-
+BESS Arena-V1 - Arena BESS NUP4749”, de fecha 19 de mayo de 2026. Ingreso 
+DE04811-26 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+  
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva CF 2025.07.31 > Protocolo de envío de registros Potencia/Frecuencia para 
+la evaluación del CPF 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC del BESS Arena 
+1. 
+Identificación de las Instalaciones Verificadas: 
+A continuación, se describen los parámetros operacionales considerados en el proceso de 
+verificación, los que se encuentran en proceso de aceptación por el Coordinador Eléctrico: 
+a) BESS Arena (modo descarga) 
+• 
+Potencia máxima bruta: 223,30 [MW] 
+• 
+Potencia máxima neta: 220,00 [MW] 
+• 
+Potencia mínima bruta: 1,30 [MW]  
+• 
+Potencia mínima neta: 0,06 [MW] 
+b) BESS Arena (modo carga) 
+• 
+Potencia máxima bruta: -216,30 [MW] 
+• 
+Potencia máxima neta: -220,00 [MW] 
+• 
+Potencia mínima bruta: 1,30 [MW]  
+• 
+Potencia mínima neta: 0,06 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+El BESS Arena es una instalación Stand Alone. La instalación cuenta con un sistema 
+de control PPC, el cual permite el control de las variables eléctricas en la S/E Arena 
+220kV.  
+a) Control Primario de Frecuencia 
+• 
+Central con rango de ajuste de estatismo del 2% al 8%. 
+• 
+El estatismo (R) actual se encuentra ajustado al 4%, respecto a una potencia base 
+igual a la potencia nominal de 220 MW.  
+• 
+El estatismo y banda muerta pueden ser modificados por personal especializado de 
+GPM en forma remota, no así el operador de planta. Los ajustes se pueden realizar 
+con la instalación en servicio. En consecuencia, se instruye mantener la banda 
+muerta en 25 mHz y el estatismo en 4 %. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Sin presentación de medios alternativos por parte del coordinado CI GMF II Arena 
+ProyectCo SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías.  
+a) Control Primario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+BESS Arena / Stand Alone 
+Recurso Primario 
+Baterías 
+ 
+ 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+ 
+Modo descarga 
+Modo carga 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2-8% 
+Estatismo 
+4,00% 
+Rango de ajuste Banda muerta 
+[mHz] 
+25-200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] 
+223,30 (2)(4) 
+1,30 (3)(4) 
+Límite de regulación inferior [MW] 
+1,30 (3)(4) 
+-216,30 (2)(4) 
+Aportes (5) 
+ BM = 25 [mHz]  
+R = 4% 
+10 
+segundos 
+Aporte +0,2[Hz] [MW] 
+-19,28 
+-19,04 
+Aporte -0,2[Hz] [MW] 
+19,35 
+19,22 
+Aporte +0,7[Hz] [MW] 
+-74,47 
+-74,59 
+Aporte -0,7[Hz] [MW] 
+74,64 
+74,32 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-19,28 
+-19,07 
+Aporte -0,2[Hz] [MW] 
+19,34 
+19,31 
+Aporte +0,7[Hz] [MW] 
+-74,46 
+-74,53 
+Aporte -0,7[Hz] [MW] 
+74,66 
+74,30 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia Máxima bruta en proceso de aprobación por el Coordinador. 
+(3) Correspondiente a la Potencia Mínima bruta en proceso de aprobación por el Coordinador. 
+(4) El BESS posee la capacidad de pasar de descarga a carga de forma continua. 
+(5) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 80[MW] para descarga y -80[MW] 
+para carga. Sin perjuicio de lo anterior, se verifica que la respuesta de la instalación es homogénea en todo su rango 
+de operación. 
+ 

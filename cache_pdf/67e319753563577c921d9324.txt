@@ -1,0 +1,153 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 25 de marzo de 2025 
+ 
+    
+DE 01666-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Mínimo Técnico de la 
+Central PE La Cabaña y BESS PE La 
+Cabaña, del coordinado Enel Green Power 
+Chile S.A. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PE La Cabaña y BESS PE La Cabaña, en 
+conformidad con el Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+indicado publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador emitió observaciones de carácter técnico al coordinado 
+Enel Green Power S.A., que fueron atendidas en el informe final publicado en la ruta 
+indicada más adelante. 
+ 
+Conforme a lo anterior, los parámetros de Mínimo Técnico de la Central PE La Cabaña y 
+BESS PE La Cabaña se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Mínimo Técnico de la Central PE La Cabaña y BESS PE La Cabaña 
+Central/Unidad 
+Configuración 
+Mínimo 
+Técnico 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas 
+en la 
+central(1) 
+[MW] 
+Potencia 
+Mínima 
+Neta(2) 
+[MW] 
+PE La Cabaña 
+PE 
+1,0348 
+0,3831 
+0,1923 
+0,4594 
+BESS (modo descarga) 
+0,4852 
+0,3712 
+0,1299 
+0 
+PE+BESS (modo carga) 
+1,2504 
+0,7885 
+0,2945 
+0,1674 
+(1) El detalle de las pérdidas se indica en el Anexo. 
+(2) Inyectada en la barra de 220 kV de S/E La Cabaña. 
+ 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del día 27 de marzo de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Mínimo Técnico > Informes de Mínimos Técnicos Unidades 
+Generadoras > Central PE La Cabaña 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PPF/DIR/adr 
+Referencias: 
+ 
+[1] Carta EGP 115-24 del Coordinado Enel Green Power Chile S.A., Ref.: “BESS Parque 
+Eólico La Cabaña: Respuesta a observaciones de los informes de Parámetros 
+Operacionales.”, de fecha 16 de octubre de 2024. Ingreso DE06010-24. 
+ 
+[2] Carta DE05647-24, Ref.: “[NUP 4697] Informes Técnicos de Parámetros Operacional es 
+de la Central BESS PE La Cabaña y ampliación, del coordinado Enel Green Power Chile 
+S.A.”, de fecha 28 de octubre de 2024. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo 
+ 
+Tabla 2: Desglose de las pérdidas asociadas a las pruebas de Mínimo Técnico de la Central 
+PE La Cabaña y BESS PE La Cabaña 
+Central 
+Configuración 
+Pérdidas de 
+la central 
+[MW] 
+Pérdidas en el 
+transformador 
+[MW] 
+Pérdidas en 
+sistema colector 
+[MW] 
+PE La Cabaña 
+PE(1) 
+0,1923 
+0,0500 
+0,1423 
+BESS modo 
+descarga 
+0,1299 
+0,0500 
+0,0799 
+PE+BESS 
+modo carga 
+0,2945 
+0,0500 
+0,2445 
+(1) Valores obtenidos del Informe Técnico de Mínimo Técnico aprobado mediante 
+carta DE01642-24. 
+ 
+ 
+ 

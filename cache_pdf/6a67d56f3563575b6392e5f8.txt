@@ -1,0 +1,65 @@
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Santiago, 27 de julio de 2026 
+EGP 093-26 
+ 
+Señor  
+Rodrigo Espinoza 
+Gerente de Operaciones 
+Coordinador Eléctrico Nacional 
+ 
+Presente 
+ 
+Referencia: 
+Solicitud de inicio del Proceso de Verificación de Instalaciones para la Prestación de Servicios 
+Complementarios — BESS Valle del Sol, NUP 4714 
+ 
+ 
+Por medio de la presente, Enel Green Power Chile S.A. solicita al Coordinador Eléctrico Nacional declarar la 
+admisibilidad e iniciar el Proceso de Verificación de Instalaciones para la Prestación de Servicios 
+Complementarios del proyecto BESS Valle del Sol, NUP 4714, así como aprobar al Experto Técnico 
+propuesto. 
+La instalación corresponde a un sistema de almacenamiento de energía mediante baterías de 150 MW / 600 
+MWh, asociado al parque PFV Valle del Sol en la Subestación Valle del Sol. La solicitud comprende la 
+verificación de los siguientes servicios: 
+• 
+Control Primario de Frecuencia (CPF).  
+• 
+Control Secundario de Frecuencia (CSF).  
+• 
+Control Terciario de Frecuencia (CTF).  
+• 
+Control de Tensión (CT).  
+Para estos efectos, se acompañan los siguientes antecedentes: 
+• 
+Anexo 1: Antecedentes Técnicos Generales para la Verificación de Servicios Complementarios.  
+• 
+Anexo 2: Diagrama Unilineal Funcional del BESS Valle del Sol, aprobado por el Coordinador. 
+• 
+Anexo 3: Antecedentes curriculares de los Expertos Técnicos propuestos, incluyendo su formación y 
+experiencia relevante.  
+En mérito de los antecedentes presentados, solicitamos al Coordinador pronunciarse sobre la admisibilidad de 
+la solicitud, la aprobación del Experto Técnico propuesto y el alcance de los servicios que serán objeto de 
+verificación, informando cualquier antecedente adicional requerido. 
+Una vez emitidos dichos pronunciamientos, se presentarán los protocolos y el programa de ensayos 
+correspondientes. 
+ 
+ 
+ 
+Javier Avello Larenas. 
+Encargado titular proyecto BESS Valle del Sol (NUP 4714) 
+ENEL GREEN POWER CHILE S.A. 
+ 
+cc:  
+Sr. Cristian Reyes, Jefe del Departamento de Control de la Operación – Coordinador Eléctrico Nacional 
+ 
+Sra. Carla Hernandez, Subgerenta de Interconexión de Proyectos - Coordinador Eléctrico Nacional 
+ 
+Signed by Javier
+Avello Larenas
+Data: 27/07/2026
+23:19:31 CEST

@@ -1,0 +1,139 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 17 de noviembre de 2025 
+DE 07357-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de los Parámetros de Partida y 
+Detención de la Central PFV Leyda. 
+[1] Carta S/N del Coordinado Parque Solar Leyda 
+SpA, Ref.: “NUP 1717 PFV Leyda Entrega 
+Informes de Parámetros Partida y Detención y del 
+Mínimo Técnico”, de fecha 08 de agosto de 2025. 
+Ingreso DE07710-25  
+[2] Carta DE04972-25, Ref.: “[NUP 1717] Informes 
+Técnicos de Parámetros Operacionales del PFV 
+Leyda”, de fecha 12 de agosto de 2025. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+PFV Leyda, en conformidad con el Informe Técnico recibido mediante la comunicación de 
+la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+indicado, publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+PFV Leyda se presentan en las tablas contenidas en el Anexo de la presente comunicación. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del 19 de noviembre de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Parámetros de Partida y Detención > Informes Determinación de 
+Parámetros para Procesos de Partida y Detención de Unidades Generadoras > 
+Central PFV Leyda > 2025 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GZV/CRV/PPF/PBA/adr 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo 1: Parámetros de Partida y Detención de la Central PFV Leyda 
+ 
+Tabla 1. Parámetros del proceso de partida PFV Leyda 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – Sincronización 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA [MWh] 
+0,0000 
+0,0001 
+Tiempo [minutos] 
+0,0000 
+0,0333 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA [MWh] 
+0,0000 
+0,0110 
+Tiempo [minutos] 
+0,2660 
+5,0083 
+(1) Los valores de potencia máxima y mínima netos del PFV Leyda son de 80,7317 MW y 0,5989 
+MW respectivamente.  
+ 
+ 
+Tabla 2. Parámetros del proceso de detención PFV Leyda 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia Nominal – Mínimo Técnico Consumo SSAA [MWh] 
+0,0000 
+0,0110 
+Tiempo [minutos] 
+0,0000 
+5,0083 
+Mínimo Técnico – Desconexión 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0053 
+0,0167 
+Desconexión – Detención 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+NOTA: El tiempo mínimo de operación (TMO) y tiempo mínimo de Detención (TMD) 
+son 0 [min]. 
+ 

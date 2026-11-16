@@ -1,0 +1,94 @@
+ 
+Grenergy Renovables Pacific Ltda 
+RUT: 76.257.813-1 
+Avda. Isidora Goyenechea 2800, oficina 3702 – Las Condes – Santiago 
+Tel.: 56 (2) 22483253 
+ 
+1 
+ Santiago, 22 de mayo de 2025 
+Carta N° GR-CHL0006A-370/2025 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+Mat.: Responde a solicitud de información y se hace entrega de 
+Informes Técnicos con resultados de los Ensayos, por la 
+Verificación de Instalaciones para la Prestación de SSCC. 
+NUP 4364 – Quillagua BESS 95 MW y Reemplazo de TR1 en 
+Subestación PEQ 
+ 
+Ref.: Carta DE 02616-25, del Coordinador Eléctrico Nacional, 
+donde “Aprueba Protocolos para los Ensayos de Verificación de 
+Instalaciones 
+para 
+la 
+prestación 
+de 
+los 
+Servicios 
+Complementarios de Control de Frecuencia y Control de Tensión 
+del BESS PFV Nuevo Quillagua – NUP 4364”. 
+ 
+ 
+De nuestra consideración: 
+En relación con la carta de la Ref., por medio de la presente venimos en hacer entrega de 
+la información solicitada en el marco del proceso establecido en el Artículo 8 del Anexo Técnico 
+“Verificación de Instalaciones para la Prestación de SSCC” de la Norma Técnica de Servicios 
+Complementarios (“NTSSCC”). 
+Considerando lo anterior, se expone lo siguiente: 
+• 
+Las fechas en que se realizaron los ensayos, que fueron realizados previo a su 
+comunicación, y sus correspondientes números de solicitud de trabajo en sistema 
+Neomante, conforme se describe en la Tabla N°1 a continuación: 
+ 
+ 
+                                                             Tabla N°1 
+ 
+• 
+La información respectiva a las curvas de carga asociadas a las pruebas, conforme se 
+solicitó. Este detalle se adjunta en el Anexo N°1.  
+
+ 
+Grenergy Renovables Pacific Ltda 
+RUT: 76.257.813-1 
+Avda. Isidora Goyenechea 2800, oficina 3702 – Las Condes – Santiago 
+Tel.: 56 (2) 22483253 
+ 
+2 
+• 
+En conformidad con lo señalado en el capítulo 5 del Instructivo Técnico para la 
+Verificación de Instalaciones para la prestación de SSCC, se entregan los siguientes 
+informes técnicos de verificación de instalaciones para la prestación de SSCC 
+contenidos en el Anexo N°2:  
+a) EEMT-2025-562-694-RB - Informe de Verificación de SSCC CT PFV BESS 
+Quillagua I. 
+b) EEMT-2025-562-695-RB - Informe de Verificación de SSCC CPF PFV BESS 
+Quillagua I. 
+c) EEMT-2025-562-696-RB - Informe de Verificación de SSCC CTF PFV BESS 
+Quillagua I. 
+d) Anexo 2.1 – Registros de Ensayos y Planos. 
+ 
+• 
+Por último, respecto a la Verificación de SSCC de Control Secundario de Frecuencia (CSF), 
+señalamos que nos encontramos coordinando las actividades con el Departamento de 
+Modelación y Aplicaciones EMS del Coordinador, donde tenemos fecha tentativa para 
+realizar las pruebas durante la primera semana de junio de 2025. 
+ 
+Finalmente, señalamos que los antecedentes requeridos por la carta de referencia y enviados 
+por la presente comunicación fueron copiados al correo verificacion.sscc@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Felipe Pezo Peña 
+p.p. Parque Fotovoltaico Nuevo Quillagua SpA  
+ 
+cc: 
+Gretchen Zbiden – Subgerenta de Análisis y Soporte Operacional – Coordinador Eléctrico Nacional 
+Luis Calabrán – Jefe Departamento Análisis de la Operación – Coordinador Eléctrico Nacional 
+María Gabriela Malavé – Jefa Departamento Conexiones – Coordinador Eléctrico Nacional 
+Nicole Anfossi Montenegro – Ingeniera Departamento Conexiones – Coordinador Eléctrico Nacional 
+Cristian Reyes Vigh – Ingeniero de Control de la Operación – Coordinador Eléctrico Nacional 
+ 
+ 

@@ -1,0 +1,121 @@
+ 
+ 
+Santiago, 26 de febrero de 2025 
+DE 01111-25 
+  
+Señores  
+Encargados  
+Empresas Coordinadas    
+(Según lista de distribución)  
+Presente  
+Ref.: Solicitud fecha para Ensayos y Entrega 
+del Informe del Experto Técnico para el 
+Proceso de Verificación de SSCC. 
+Responde 
+a 
+ingresos 
+DE00576-25, 
+DE00577-25 y DE00588-25. 
+ 
+De mi consideración:  
+   
+En relación con la materia de la referencia y en respuesta a las cartas de la Ref. [1] a 
+[3], informamos lo siguiente: 
+1. De acuerdo con lo establecido en el artículo 4-5 de la NTSSCC, la verificación 
+de las instalaciones indicadas en sus cartas, por ser consideradas existentes en 
+el presente régimen de SSCC, en particular los ensayos y elaboración del 
+informe, pueden ser realizados por el titular de las instalaciones mediante 
+personal propio o mediante un tercero, lo que deberá ser notificado 
+oportunamente al Coordinador. En dicho sentido, para las instalaciones 
+existentes, no es necesario que el Coordinador valide al Experto Técnico, pero 
+éste si revisará y aprobará los protocolos de verificación, los cuales deberán ser 
+enviados al Coordinador.  
+2. Considerando lo planteado en el numeral previo, es responsabilidad de su 
+representada determinar si los ensayos de los PE Cabo Leones I, II y III se 
+realizan con el experto presencial en terreno o de manera telemática. 
+3. Las pruebas deben llevarse a cabo considerando lo determinado en los 
+protocolos, los cuales deben estar aprobados por el Coordinador. Según sea el 
+caso, el Informe podrá ser complementado con antecedentes de data histórica 
+de la operación de las centrales. Al respecto, se encuentra pendiente el envío de 
+la versión actualizada de protocolos de Control Primario de Frecuencia (CPF) y 
+Control de Tensión (CT), los cuales fueran observados mediante la carta de las 
+Ref. [4] y Ref. [5]. 
+4. En lo que respecta al informe de verificación de Control Terciario de Frecuencia 
+(CTF), puede usar datos recabados en la confección del informe de parámetros 
+de partida y detención (PPyD), lo que puede ahorrar la ejecución de los ensayos 
+de CTF. En caso de tener los informes de PPyD aprobados por el Coordinador, 
+no es necesario realizar la verificación de CTF, al menos que haya realizado 
+ajustes a los sistemas de control.  
+5. Respecto a la fecha de realización de los ensayos, los cronogramas de 
+verificación de SSCC de instalaciones de generación, comunicados mediante 
+cartas de las Ref. [6] y [7], establecen la fecha en que se debe enviar el Informe 
+de Verificación, estando éstas con el plazo expirado por cuando debieron ser 
+enviados en enero. En este contexto y dada la solicitud de llevar a cabo los 
+ensayos de verificación de SSCC en junio de 2025, se solicita enviar el perfil del 
+recurso eólico histórico y de largo plazo, que sustente las fechas solicitadas. Sin 
+perjuicio de lo anterior, una vez aceptados los protocolos de verificación por parte 
+
+ 
+ 
+del Coordinador, se deberá evaluar si es posible adelantar la ejecución de los 
+ensayos. 
+6. Finalmente, deberá considerar que los informes de verificación deberán ser 
+enviados a más tardar 15 días hábiles posterior a la ejecución de los ensayos. 
+ 
+La información solicitada en los puntos 3 y 5, esto es, los protocolos en su versión final 
+y los perfiles de recurso eólico, se solicita sean enviados mediante carta y con copia al 
+correo electrónico verificacion.SSCC@coordinador.cl, a más tardar el 12 de marzo de 
+2025. En caso de cualquier duda, puede escribir a la dirección de correo anteriormente 
+mencionada. 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+  
+ 
+  
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional  
+Coordinador Eléctrico Nacional  
+JKH/CRV/adr 
+ 
+ 
+Lista de distribución:  
+ 
+Parque Eólico Cabo Leones I S.A. 
+Ibereólica Cabo Leones II S.A. 
+PE Cabo Leones III SpA 
+ 
+ 
+Referencias: 
+ 
+[1] Carta 250131-CLIII-CEN-001 de PE Cabo Leones III SpA, Ref.: “Solicitud fecha para 
+Ensayos y Entrega del Informe del Experto Técnico para el Proceso de Verificación de 
+SSCC”, de fecha 31 de enero de 2025. Ingreso DE00576-25. 
+ 
+[2] Carta 250131-CLII-CEN-001 de Ibereólica Cabo Leones II S.A., Ref.: “Solicitud fecha 
+para Ensayos y Entrega del Informe del Experto Técnico para el Proceso de Verificación 
+de SSCC”, de fecha 31 de enero de 2025. Ingreso DE00577-25. 
+ 
+[3] Carta 250131-CLI-CEN-001 de Parque Eólico Cabo Leones I S.A., Ref.: “Solicitud 
+fecha para Ensayos y Entrega del Informe del Experto Técnico para el Proceso de 
+Verificación de SSCC”, de fecha 31 de enero de 2025. Ingreso DE00588-25. 
+ 
+[4] Carta DE01614-24, Ref.: “Observaciones al Protocolo de Ensayos de Verificación de 
+SSCC de la Central PE Cabo Leones II”, de fecha 28 de marzo de 2024. 
+ 
+[5] Carta DE01615-24, Ref.: “Observaciones al Protocolo de Ensayos de Verificación de 
+SSCC de la Central PE Cabo Leones I y III”, de fecha 28 de marzo de 2024. 
+ 
+[6] Carta DE06362-24, Ref.: “Cronograma Definitivo del proceso de verificación de 
+Servicios Complementarios (SSCC) en instalaciones existentes de Generación y 
+Almacenamiento”, de fecha 11 de diciembre de 2024.  
+ 
+[7] Carta DE01036-25, Ref.: “Actualización del Cronograma de verificación de Servicios 
+Complementarios 
+(SSCC) 
+en 
+instalaciones 
+existentes 
+de 
+Generación 
+y 
+Almacenamiento”, de fecha 18 de febrero de 2025. 

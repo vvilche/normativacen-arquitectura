@@ -1,0 +1,120 @@
+ 
+S.C.M. Atacama Kozan, Parcela Los Olivos s/n Sector punta del Cobre Tierra Amarilla , Fono .52 2 203800 
+S.C.M.ATACAMA KOZAN 
+Gerencia De Operaciones 
+Dpto. Mant. Electrica 
+1 
+ 
+Copiapó, 19 de Junio  de 2026 
+AK_CT_19062026 
+Srta. 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+  
+Presente 
+ 
+ 
+Referencia: Respuesta carta DE 07789-25 ; EAF 748/2025 : Apertura intempestiva del interrumptor 52H3 de 
+S/E Cardones. 
+ 
+De nuestra consideración. 
+ 
+Detalle pormenorizado de los consumos afectados por cada alimentador de su representada que tuvo pérdida 
+de suministro a raíz del evento (S/E Atacama Kozan), junto con las maniobras realizadas tanto para la 
+recuperación de los consumos como para la normalización de las instalaciones.  
+ 
+Detalle resumido del día del evento: 
+- 
+A las 11:55  del 2 de noviembre 2025 , se detienen todos los equipos  por corte energía 
+externa, afectando a los dos transformadores de la S/E Atacama kozan 
+correspondiente a planta y mina. 
+- 
+Posterior a lo ocurrido se consulta de forma telefónica al centro de despacho del CEN. 
+Lo cual indican “ que tuvieron una apertura en subestación cardones  que genero 
+corte de energía” afectando a Atacama Kozan línea 110kv, 23kv y 13,2kv. 
+- 
+Se habilitan los generadores de respaldo para los equipos más críticos del proceso. 
+- 
+Se atienden los requerimientos internos por consecuencias del corte energía. 
+- 
+Una vez llegada la energía se procede a normalizar la operación de los equipos. 
+- 
+A las 12:55 hrs del  2 de noviembre 2025  se inicia el proceso de normalización de la 
+operación. 
+- 
+Extracto de información  del reporte en planilla de Operaciones. 
+o 11:55 hrs cae molino por corte general de energía // 12:28 e/s giro lento // 
+12:55 hrs e/s molino // 
+o 11.55 hrs f/s área general de chancado por corte de energía // 12:30 hrs e/s 
+área 100 % // 
+ 
+• Registros y análisis de los sistemas de protección operados en instalaciones de su representada.  
+ 
+   Se adjunta información  
+ 
+  REGISTRO DE RELE DE PROTECCIONES_REV01.PDF 
+ 
+• Ajustes de los dispositivos de protección y control asociados a las instalaciones de su representada, 
+involucradas en estas fallas.  
+
+ 
+S.C.M. Atacama Kozan, Parcela Los Olivos s/n Sector punta del Cobre Tierra Amarilla , Fono .52 2 203800 
+S.C.M.ATACAMA KOZAN 
+Gerencia De Operaciones 
+Dpto. Mant. Electrica 
+2 
+Adjunto encontrarán el ECAP vigente con los ajustes de las protecciones en S/E Atacama Kozan y 
+también les adjuntamos los print out de las protecciones actualmente en uso. 
+ 
+• Eventuales medidas correctivas adoptadas.  
+Las medidas correctivas adoptadas por el momento son: 
+- 
+Mejorar la frecuencia de interrogación de las protecciones existentes. 
+- 
+Incluir en protocolo de atención de la S/E Atacama Kozan en condición de falla, la obtención de datos 
+de las protecciones y evidencias para el Informe de Falla. 
+• Motivos que propiciaron la no entrega de la información citada en las viñetas anteriores en tiempo y forma, 
+junto con las acciones que su representada realizará para evitar una nueva ocurrencia de omisión de dichos 
+antecedentes.  
+Entre los motivos, se tienen: 
+- 
+Desconocimiento interno debido a cambios organizacionales y de personal en Departamento de 
+mantenimiento Eléctrico. 
+- 
+Actualización y difusión del protocolo atención de falla ante corte energía. 
+- 
+Mejoramiento de la configuración en la recepción de correspondencia emitida por el CEN. 
+ 
+• Otros antecedentes que la Sociedad Contractual Minera Atacama Kozan considere relevantes en relación 
+con lo solicitado.  
+No se tiene comentarios al respecto. 
+ 
+Esperando que esta carta tenga una buena acogida y sin otro particular,  
+ 
+Saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            ______________________________ 
+ 
+ 
+ 
+ 
+Alejandro Gálvez G. 
+Jefe Departamento Eléctrico 
+S.C.M ATACAMA KOZAN 
+Firmado digitalmente
+ por ALEJANDRO
+ GONZALO GALVEZ
+ GOMEZ
+ Fecha: 2026.06.19
+'18:28:04 -04'00

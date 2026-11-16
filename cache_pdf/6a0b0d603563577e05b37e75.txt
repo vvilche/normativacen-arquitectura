@@ -1,0 +1,179 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 18 de mayo de 2026 
+DE 03327-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Establecimiento 
+del 
+Consumo 
+Específico Neto de las centrales TER El 
+Peñón, TER San Lorenzo de Diego de 
+Almagro, TER Teno y TER Trapén. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 25 del Anexo Técnico “Determinación de 
+Consumos Específicos de Unidades Generadoras” de la Norma Técnica de Seguridad y 
+Calidad de Servicio, comunico a Ud. el establecimiento de los valores de Consumo 
+Específico Neto (CEN) de las centrales TER El Peñón, TER San Lorenzo de Diego de 
+Almagro, TER Teno y TER Trapén, en conformidad con los informes técnicos finales de 
+prueba emitidos por el experto técnico. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación no recibieron observaciones de Coordinado alguno a los informes 
+técnicos publicados en la página web del Coordinador mediante las cartas de las Ref. [1] y 
+[2]. Por su parte, el Coordinador efectuó observaciones de carácter técnico a los informes 
+antes mencionado, las cuales fueron subsanadas por el Experto Técnico Estudios 
+Eléctricos S.A. 
+ 
+Conforme a lo anterior, los valores de los parámetros de Consumo Específico Neto de las 
+centrales TER El Peñón, TER San Lorenzo de Diego de Almagro, TER Teno y TER Trapén 
+se presentan en las tablas contenidas en el anexo de la presente carta. 
+ 
+En cumplimiento del Artículo 25 del Anexo Técnico en mención, los valores de consumo 
+específico neto ya mencionados entrarán en vigencia a partir de las 00:00 horas del 20 de 
+mayo de 2026. 
+ 
+Las actas de pruebas, la minuta de observaciones a los informes técnicos y los Informes 
+Técnicos finales de Prueba, que contienen la justificación de los parámetros indicados 
+anteriormente han sido publicados en la siguiente ruta del Sitio Web del Coordinador 
+Eléctrico Nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Consumo Específico Neto > Pruebas de Consumo 
+Específico Neto > 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+1. Central TER El Peñón > 2026 
+2. Central TER San Lorenzo D. de Almagro > 2026 
+3. Central TER Teno > 2026 
+4. Central TER Trapén > 2026 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PVV/CRV/PPF/SGM/adr 
+ 
+ 
+Referencias 
+ 
+[1] Carta DE08023-25, Ref.: “Informes Técnicos de Potencia Máxima y Consumo Específico 
+Neto de la Central TER Teno.”, de fecha 17 de diciembre de 2025. 
+ 
+[2] Carta DE01163-26, Ref.: “Informes Técnicos de Potencia Máxima y Consumo Específico 
+Neto de las Centrales TER San Lorenzo de Diego de Almagro, TER El Peñón y TER 
+Trapén”, de fecha 18 de febrero de 2026. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Anexo: Consumo Específico Neto de las centrales TER El Peñón, TER San Lorenzo de Diego 
+de Almagro, TER Teno y TER Trapén. 
+ 
+ 
+Tabla 1: Parámetros CEN Central TER El Peñón – Combustible Diesel 
+ 
+Potencia Neta [MW] CEN [kcal/kWh] 
+71,2000 
+2.482,42 
+81,6472 
+2.436,16 
+ 
+ 
+  
+Tabla 2: Parámetros CEN Central TER San Lorenzo de Diego de Almagro U1 – Combustible 
+Diésel 
+ 
+Potencia Neta [MW] CEN [kcal/kWh] 
+15,0013 
+4.668,31 
+19,5531 
+4.107,20 
+24,2723 
+3.774,77 
+28,4258 
+3.578,98 
+ 
+ 
+Tabla 3: Parámetros CEN Central TER San Lorenzo de Diego de Almagro U2 – Combustible 
+Diésel 
+ 
+Potencia Neta [MW] CEN [kcal/kWh] 
+14,7679 
+4.954,24 
+18,4623 
+4.419,91 
+22,1518 
+4.081,62 
+27,6165 
+3.778,33 
+ 
+ 
+Tabla 4: Parámetros CEN Central TER San Lorenzo de Diego de Almagro U3, U4, U5 y U6 – 
+Combustible Diésel 
+ 
+Potencia Neta [MW] CEN [kcal/kWh] 
+2,7500 
+3.347,46 
+7,2889 
+2.697,28 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Tabla 5: Parámetros CEN Central TER Teno U1-U36 – Combustible Diésel 
+ 
+Potencia Neta [MW] CEN [kcal/kWh] 
+50,9760 
+2.395,94 
+59,5834 
+2.345,67 
+ 
+ 
+ 
+Tabla 6: Parámetros CEN Central TER Trapén – Combustible Diesel 
+ 
+Potencia Neta [MW] CEN [kcal/kWh] 
+72,7200 
+2.475,21 
+82,1889 
+2.407,90 
+ 
+ 
+ 

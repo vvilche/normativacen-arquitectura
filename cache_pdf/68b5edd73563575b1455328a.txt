@@ -1,0 +1,83 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 30 de agosto de 2025 
+ENGIE N°258/2025
+ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Respuesta a su comunicación DE05006-25
+– Atraso en el proceso de verificación de SSCC. 
+ 
+De mi consideración: 
+ 
+En relación con su comunicación DE05006-25, referida al atraso en la entrega de informes de verificación de 
+nuestras instalaciones para la prestación de Servicios Complementarios (SSCC), informamos que los atrasos se 
+deben principalmente a que nos encontramos trabajando con los fabricantes en el desarrollo e implementación de 
+las lógicas de control necesarias para la habilitación de los SSCC.  
+ 
+En particular, ciertas instalaciones requieren integración mediante sistemas de control avanzados (PPC únicos o 
+PPC Maestro), lo que ha extendido los plazos originalmente previstos. 
+ 
+Con el fin de dar cumplimiento a lo solicitado, hemos elaborado un plan de normalización que considera la ejecución 
+secuencial de las verificaciones entre octubre y diciembre de 2025, de acuerdo con lo siguiente: 
+ 
+Instalación 
+Nueva fecha propuesta de 
+entrega de informe 
+Comentarios 
+PFV Coya + BESS PFV 
+Coya (DC Coupling) 
+Octubre 2025 
+Protocolos, ensayos e informe (un único PPC). 
+PFV Los Loros 
+Noviembre 2025 
+Protocolos, ensayos e informe. 
+PFV Tamaya Solar 
+Diciembre 2025 
+Protocolos, ensayos e informe, considerando 
+implementación de PPC Maestro. 
+HP Chapiquiña U1 y U2 
+Diciembre 2025 
+Etapa de cierre y revisión final de informes en 
+curso. 
+ 
+ 
+Sin otro particular, lo saluda atentamente, 
+ 
+ 
+ 
+ Pablo Jorquera Riquelme  
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+SOLAR LOS LOROS SpA 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

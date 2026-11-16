@@ -1,0 +1,37 @@
+RE: Verificación de SS.CC. PE Cabo Leones I, II y III
+Desde Héctor Astudillo Silva <has@grupoibereolica.com>
+Fecha Vie 28/02/2025 17:04
+Para
+Cristian Reyes Vigh <cristian.reyes@coordinador.cl>; jaosoriod@globalpower-generation.com
+<jaosoriod@globalpower-generation.com>
+CC
+David Ibaceta Reinoso <david.ibaceta@coordinador.cl>; Eduardo Alejandro González Vargas
+<Eduardo.Gonzalez@coordinador.cl>; Gretchen Helene Zbinden Véliz <gretchen.zbinden@coordinador.cl>;
+Javiera Ketterer Hoppe <javiera.ketterer@coordinador.cl>; verificacion.SSCC
+<verificacion.SSCC@coordinador.cl>; yessenia.reyes@edf-re.cl <yessenia.reyes@edf-re.cl>; Manuel Pardo Diaz
+de Rada <mpd_cen@grupoibereolica.com>; Francis Martinez <Francis.Martinez@edf-re.cl>
+3 archivos adjuntos (22 MB)
+Perfiles de Viento PE Cabo Leones I, II y III.zip; CPF Verificación de SS.CC. PE Cabo Leones I, II y III.zip; CT Verificación de SS.CC. PE
+Cabo Leones I, II y III.zip;
+Buenas tardes, Cristian.
+Según lo indicado en tu correo, adjuntamos los nuevos protocolos de Control de Tensión y Control
+Primario de Frecuencia, preparados por el Experto Técnico "Estudios Eléctricos" con la incorporación de
+la totalidad de las observaciones presentadas por vosotros.
+Además, se nos solicitó el perfil de viento de larga data, con lo cual hemos extraído la data bruta de los
+registros históricos de nuestros sistemas meteorológicos, con las mediciones de nuestros equipos
+instalados en cada parque. Esto se entrega con una frecuencia 10 minutal diaria-anual, con ello podrán
+ver los dos fenómenos de caracterización de la previsión, el estacional con frecuencia anual y el
+periódico con frecuencia diaria, así como que la generación diaria de mayor potencia se da en horarios
+de atardecer y durante la noche, así como en meses invernales. La data considera valores con su
+tendencia central de velocidad de viento y presión, por altura de medición y desviación estándar, para
+que puedan considerar la incertidumbre. 
+Que tengas un buen fin de semana, quedamos en contacto.
+Saludos,
+ 
+Héctor Astudillo Silva
+Director de Conexiones
+has@grupoibereolica.com
+Cerro El Plomo 5420 Oficina 1305
+Las Condes, Santiago - Chile
+Tlf.: +56 2 2333 3540
+www.grupoibereolica.com

@@ -1,0 +1,77 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 09 de mayo de 2025  
+DE 02737-25 
+ 
+Señor 
+Felipe Antonio Valdés Aránguiz 
+Encargado Titular 
+Guacolda Energía S.A.  
+Presente 
+ 
+ 
+Ref.:  Cumplimiento de estándar de la Norma Técnica 
+de Seguridad y Calidad de Servicio, Anexo Técnico 
+"Definición de Parámetros Técnicos y Operativos para 
+el envío de Datos al SITR” de la Norma Técnica de 
+Seguridad y Calidad de Servicio (NT SyCS) 
+ 
+De mi consideración: 
+ 
+Me refiero al Artículo 4-4 de la NT SyCS, que establece que los Coordinados deberán 
+suministrar al Coordinador toda la información en Tiempo Real que este considere 
+necesaria para efectos de una adecuada coordinación de la operación en Tiempo Real del 
+SI, y al Anexo Técnico (AT) “Definición de Parámetros Técnicos y Operativos para el Envío 
+de Datos al SITR” que en su Artículo 6 establece las obligaciones de los Coordinados, para 
+efectos de poner a disposición del Coordinador toda la información que este solicite, de 
+acuerdo con las especificaciones, calidad y disponibilidad requerida. 
+ 
+Al respecto, comunico a Ud. que, en el contexto de revisión del cumplimiento del envío de 
+información al SITR -por parte de los Coordinados-, se ha evidenciado que las señales 
+individualizadas en el anexo adjunto a la presente carta, se encuentran fuera del estándar 
+exigido por la normativa. 
+ 
+Conforme a lo anterior, solicito a usted realizar las gestiones necesarias para revisar y 
+regularizar, mediante un plan de trabajo, el correcto envío de información al SITR de las 
+señales indicadas en el anexo. El plan requerido deberá ser enviado al Coordinador a más 
+tardar el de 15 mayo de 2025. 
+ 
+En caso de requerir mayor detalle relacionado con la presente solicitud, dicho requerimiento 
+deberá ser realizado a la dirección de correo pgp.sitr@coordinador.cl. Asimismo, y acorde 
+al plan de trabajo que informe su representada, la coordinación de configuración de señales 
+SITR y respectivas pruebas punto a punto, deberán ser gestionada directamente a la 
+dirección de correo electrónico tec.scada@coordinador.cl. 
+ 
+Finalmente, y como es de su conocimiento, conforme a lo establecido en el Artículo 2-3 
+literal p) de la NT SyCS, el incumplimiento de las instrucciones de coordinación, 
+particularmente lo requerido en la presente comunicación, deberá ser informado por el 
+Coordinador a la Superintendencia de Electricidad y Combustibles. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GO/SGOTR/DCST 
+ 
+c.c.:  
+Sr. Felipe Antinao, Jefe Depto. Confiablidad y Soporte Técnico  
+Sr. Víctor Reyes, Jefe Depto. SCADA – EMS 
+Se adjunta lo indicado 
+ 

@@ -1,0 +1,40 @@
+ 
+Carta CSP-GE-LT-CEN-0388 
+Santiago, 1 de abril de 2026 
+ 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta Carta DE01003-26 
+ 
+De nuestra consideración, 
+En relación con la carta DE01003-26, mediante la cual se solicita informar las razones del atraso en la entrega 
+de los informes de verificación de Servicios Complementarios (SSCC), junto con un plan de normalización y 
+fechas comprometidas, informamos lo siguiente: 
+El atraso en la entrega del Informe de Verificación del SSCC de Control Secundario de Frecuencia (CSF) de 
+la Central PFV Cerro Dominador se explica por condiciones técnicas del sistema de comunicaciones 
+actualmente en operación. 
+En particular, el equipo encargado de la adquisición y transmisión de señales hacia el Coordinador presenta 
+limitaciones derivadas de su antigüedad tecnológica. Con el objetivo de abordar esta situación, se han 
+definido y se encuentran en desarrollo acciones orientadas a la normalización del sistema, incluyendo el 
+recambio de los equipos actualmente en operación y la actualización del esquema de comunicaciones, 
+contemplando la migración desde protocolo ICCP a IEC 60870-5-104. 
+Adicionalmente, el proceso de revisión y ajuste del sistema ha requerido un mayor tiempo de análisis y 
+coordinación técnica que lo inicialmente previsto. 
+En este contexto, se estima que la entrega del informe pendiente de verificación de SSCC podrá realizarse 
+hacia fines del mes de agosto de 2026. 
+La extensión del plazo responde a la necesidad de asegurar que el proceso de verificación se lleve a cabo en 
+condiciones técnicas adecuadas y conforme a los requerimientos establecidos en la normativa vigente. 
+Finalmente, quedamos disponibles para coordinar una reunión técnica en caso de que se requiera 
+complementar los antecedentes expuestos. 
+Sin otro particular, se despide atentamente, 
+ 
+_______________________ 
+Sebastián Parra 
+Encargado Titular 
+Cerro Dominador CSP S.A. 
+Signed by:Sebastian Parra
+Signed at:2026-04-01 19:29:08 -03:00
+Reason:Firmado por Sebastian Parra

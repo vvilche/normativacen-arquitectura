@@ -1,0 +1,556 @@
+ 
+ 
+RESUELVE SOLICITUD DE DECLARACIÓN DE FUERZA 
+MAYOR O CASO FORTUITO RESPECTO DE LOS HITOS 
+RELEVANTES N°4 Y 5 DE LA OBRA NUEVA “NUEVA 
+LÍNEA 2X66 KV NUEVA NIRIVILO – CONSTITUCIÓN, 
+TENDIDO DEL PRIMER CIRCUITO”. 
+ 
+RESOLUCIÓN MINISTERIAL EXENTA N° 
+ 
+SANTIAGO, 
+ 
+ 
+V I S T O S: Lo dispuesto en el decreto con fuerza de ley N°1/19.653, de 2000, del Ministerio Secretaría General de 
+la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N°18.575, orgánica constitucional 
+de bases generales de la Administración del Estado; en la ley N°19.880, que establece bases de los procedimientos 
+administrativos que rigen los actos de los órganos de la Administración del Estado, en adelante “Ley N°19.880” o 
+“LBPA”; en lo establecido en el decreto con fuerza de ley N°1, de 2000, del Ministerio de Justicia, que fija texto 
+refundido, coordinado y sistematizado del Código Civil, de la Ley N°4.808, sobre Registro Civil, de la Ley N°17.344, 
+que autoriza cambio de nombres y apellidos, de la Ley N°16.618, Ley de Menores, de la Ley N°14.908, sobre 
+abandono de familia y pago de pensiones alimenticias, y de la Ley N°16.271, de impuesto a las herencias, 
+asignaciones y donaciones, en adelante “Código Civil”; en el decreto ley N°2.224, de 1978, del Ministerio de 
+Minería, que crea el Ministerio de Energía y la Comisión Nacional de Energía; en el decreto con fuerza de ley 
+N°4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, 
+coordinado y sistematizado del decreto con fuerza de ley N°1, de Minería, de 1982, Ley General de Servicios 
+Eléctricos, en materia de energía eléctrica, en adelante “Ley General de Servicios Eléctricos” o “LGSE”; en el 
+decreto exento N°198, de 2019, que fija obras de ampliación de los sistemas de transmisión nacional y zonal que 
+deben iniciar su proceso de licitación en los doce meses siguientes, correspondientes al plan de expansión del año 
+2018, en adelante “DE N°198/2019”; en el decreto exento N°231, de 2019, que fija obras nuevas de los sistemas 
+de transmisión nacional y zonal que deben iniciar su proceso de licitación o estudio de franja, según corresponda, 
+en los doce meses siguientes, del plan de expansión del año 2018, en adelante “DE N°231/2019”; en las bases de 
+licitación para la adjudicación de los derechos de obras de expansión de la transmisión contempladas en los 
+decretos exentos N°198-2019 y N°231-2019, ambos del Ministerio de Energía, elaboradas por el Coordinador 
+Independiente del Sistema Eléctrico Nacional, en adelante, respectivamente, las “Bases de Licitación” y el 
+“Coordinador” o “CEN”; en el decreto supremo N°5T, de 2019, del Ministerio de Energía, que fija derechos y 
+condiciones de ejecución y explotación de las obras nuevas que se indican del Sistema de Transmisión Zonal del 
+artículo decimotercero transitorio de la Ley N°20.936, en adelante “DS N°5T/2019”; el decreto supremo N°4T, de 
+2021, del Ministerio de Energía, que fija derechos y condiciones de ejecución y explotación y fija empresas 
+adjudicatarias de la construcción y ejecución, de las obras condicionadas contempladas en el decreto N°198 
+exento, de 2019, y en el decreto N°231 exento, de 2019, ambos del Ministerio de Energía, en adelante “DS 
+N°4T/2021”; en el decreto supremo N°38, de 2026, del Ministerio del Interior, que nombra Ministros de Estado 
+en las carteras que indica; en el decreto supremo N°03 A, de 2026, del Ministerio de Energía, que nombra 
+Subsecretario de Energía a don Hugo Antonio Briones Fernández; en la resolución exenta N°51, de 2026, del 
+Ministerio de Energía; en la resolución N°36, de 2024, de la Contraloría General de la República; y 
+ 
+ 
+C O N S I D E R A N D O: 
+ 
+ 
+1. 
+Que, de conformidad con lo dispuesto en los artículos 87 y siguientes de la Ley General de Servicios Eléctricos, 
+el desarrollo de las obras de transmisión eléctrica se materializa a través de un procedimiento administrativo 
+reglado de planificación, el cual contempla etapas sucesivas a cargo de la Comisión Nacional de Energía, el 
+Coordinador Independiente del Sistema Eléctrico Nacional y, finalmente, el Ministerio de Energía. Dicho 
+procedimiento culmina con la dictación del decreto que fija las obras de expansión que deberán ejecutarse, 
+ya sea mediante licitación o mediante el sometimiento a Estudio de Franjas. 
+ 
+2. 
+Que, mediante el DE N°231/2019, este Ministerio fijó, las obras nuevas de los sistemas de transmisión 
+nacional y zonal que debían iniciar su proceso de licitación o estudio de franjas, correspondientes al plan de 
+expansión del año 2018, contemplando dentro de ellas la obra nueva denominada “Nueva Línea 2x66 kV 
+Nueva Nirivilo – Constitución, tendido del primer circuito”, en adelante la “Obra” o el “Proyecto”, que consistía 
+en la construcción de una nueva línea de transmisión 2x66 kV, tendido del primer circuito, entre la futura S/E 
+Nueva Nirivilo y la existente S/E Constitución, con capacidad de al menos 60 MVA por circuito a 35°C con sol. 
+El proyecto considera los paños de línea en las subestaciones señaladas. 
+ 
+223
+31 de julio 2026
+
+ 
+ 
+2 
+ 
+Por su parte, mediante el DE N°198/2019, esta secretaría de estado fijó las obras de ampliación de los sistemas 
+de transmisión nacional y zonal que debían iniciar su proceso de licitación en los doce meses siguientes, 
+correspondientes al Plan de Expansión del año 2018, contemplando entre ellas a las obras de ampliación 
+denominadas “Ampliación en S/E Nueva Nirivilo” y “Ampliación en S/E Constitución”. 
+ 
+Para efectos de su licitación, el Coordinador agrupó a la Obra junto con las dos obras de señaladas bajo la 
+figura de “obras condicionadas”, conformando el Grupo de Obras N°1, integrado por:  
+(i) 
+la obra nueva “Nueva Línea 2x66 kV Nueva Nirivilo – Constitución, tendido del primer circuito”;  
+(ii) 
+ la obra de ampliación “Ampliación en S/E Nueva Nirivilo”; y  
+(iii) 
+ la obra de ampliación “Ampliación en S/E Constitución”.  
+ 
+Se debe observar que, no obstante, las obras fueron licitadas y adjudicadas conjuntamente como parte del 
+Grupo de Obras N°1, cada una de ellas constituye un proyecto independiente, con características técnicas 
+propias, plazos de cumplimiento y régimen de remuneración diferenciados. 
+ 
+3. 
+Que, por DS N°4T/2021, publicado en el Diario Oficial el 10 de junio de 2021, este Ministerio fijó los derechos 
+y condiciones de ejecución y explotación, las empresas adjudicatarias, plazos máximos para la entrada en 
+operación y valor de la transmisión por tramo de las obras nuevas contempladas en el DE N°231/2019, entre 
+ellas el Proyecto. Asimismo, el referido acto administrativo fijó los propietarios, empresas adjudicatarias 
+encargadas de la construcción y ejecución, valor de inversión adjudicado y plazo máximo para la entrada en 
+operación de las obras de ampliación de los Sistemas de Transmisión Zonal contempladas en el DE 
+N°198/2019, entre ellas, las obras de ampliación del Grupo de Obras N°1. Tanto el Proyecto, como las demás 
+obras de ampliación del Grupo de obras N°1 fueron adjudicadas a la empresa Celeo Redes Chile Limitada. 
+  
+ 
+Del mismo modo, y teniendo como fundamento el proceso licitatorio y la oferta presentada, se plasmaron las 
+condiciones asociadas a la ejecución y explotación de la Obra, dentro de las cuales se encuentran los plazos 
+de cumplimiento asociados a cada uno de los hitos relevantes del Proyecto, a saber: 
+ 
+Hito 
+Plazo 
+Fecha autorizada en el Decreto 
+N°4T/2021 
+N°1  
+memorias de cálculo y documentos técnicos de diseño que 
+determinan las especificaciones principales del Proyecto 
+178 días corridos 
+5 de diciembre de 2021 
+N°2  
+inicio de la construcción de las obras 
+695 días corridos 
+6 de mayo de 2023 
+N°3  
+verificación de equipos en fábrica y calificación sísmica 
+1.029 días corridos 
+4 de abril de 2024 
+N°4  
+construcción de las fundaciones 
+1.077 días corridos 
+22 de mayo de 2024 
+N°5  
+entrada en operación 
+36 meses 
+10 de junio de 2024 
+ 
+Finalmente, por decreto exento N°173/2021, se materializó el cambio de titularidad de la empresa 
+adjudicataria de los derechos de ejecución y explotación de la Obra Nueva, de Celeo Redes Chile Limitada a 
+Nirivilo Transmisora de Energía S.A., en adelante “NITE”, la “Adjudicataria”, la “Solicitante” o la “Empresa”.  
+ 
+4. 
+Que, por presentación de fecha 17 de mayo de 2024, NITE solicitó que este Ministerio declare que en la 
+ejecución de la Obra se verificaron hechos constitutivos de caso fortuito o fuerza mayor, y como consecuencia 
+de ello, se modifique el artículo 9° del DS N°4T/2021 respecto de la fecha de cumplimiento de los Hitos 
+Relevantes N°4 y N°5, aumentándolos en 326 días contados desde la entrada en operación de la obra 
+“Subestación Nueva Nirivilo”, o bien en el número de días que esta secretaría de Estado considere.  
+ 
+Los hechos que NITE invoca en su presentación como constitutivos de caso fortuito o fuerza mayor consisten, 
+en síntesis, en la indisponibilidad de la “Subestación Nueva Nirivilo 220/66 kV”, instalación a la cual debe 
+conectarse el Proyecto para su puesta en servicio. Explica que la referida subestación es una obra fijada en el 
+decreto exento N°418, de 2017, y cuyos derechos y condiciones de ejecución y explotación fueron fijados en 
+favor de Mataquito Transmisora de Energía S.A. a través del DS N°5T/2019. En este último decreto se 
+estableció que la subestación aludida debía entrar en operación en un plazo de 60 meses contados desde su 
+publicación en el Diario Oficial, lo cual se verificó el 31 de agosto de 2019, de modo que la fecha resultante 
+corresponde al 31 de agosto de 2024. 
+ 
+Indica que existiría una incompatibilidad de origen entre los cronogramas del DS N°4T/2021 y del DS 
+N°5T/2019, toda vez que el DS N°4T/2021 establece un plazo de 24 meses contados desde su publicación para 
+la entrada en operación de las obras de ampliación, entre ellas “Ampliación en S/E Nueva Nirivilo” y 
+“Ampliación en S/E Constitución”, y de 36 meses para el Proyecto. De esta forma, la fecha para la entrada en 
+
+ 
+ 
+3 
+ 
+operación de las obras de ampliación era el 10 de junio de 2023, mientras que para el Proyecto era el 10 de 
+junio de 2024. 
+ 
+Adicionalmente a la incompatibilidad planteada, la Empresa señala que se encuentra pendiente una solicitud 
+por parte de Mataquito Transmisora de Energía S.A. de aumento de plazo para la verificación de los Hitos 
+Relevantes N°2, 3, 4 y 5 de la obra “Subestación Nueva Nirivilo 220/66 kV”, invocando como causal el caso 
+fortuito o fuerza mayor, motivo por el cual la entrada en operación de dicha obra no ocurrirá en el plazo 
+originalmente establecido. 
+ 
+Así, NITE señala que el aumento de plazo de cumplimiento para el cumplimiento de los Hitos Relevantes N°4 
+y 5 solicitado en su presentación, se justificaría en que no existe una subestación operativa a la cual 
+conectarse, lo cual sería un requisito indispensable para el cumplimiento de ellos. Por ello, la Empresa solicita 
+que se aumente el plazo de cumplimiento de los señalados Hitos Relevantes, a contar de la fecha de entrada 
+en operación de la “Subestación Nueva Nirivilo 220/66 kV”. 
+ 
+Finalmente, y en lo particular, en su parte petitoria NITE solicita 326 días adicionales para el cumplimiento de 
+los Hito Relevante N°4 y 5, contados desde la entrada en operación de la “Subestación Nueva Nirivilo 220/66 
+kV”. La explicación de dicho plazo se explicaría, en parte por 114 días para poder terminar la ejecución del 
+Proyecto y 212 días adicionales para la ejecución de la obra “Ampliación en Subestación Nueva Nirivilo”. Es 
+decir, tras la entrada en operación de la “Subestación Nueva Nirivilo 220/66 kV”, Celeo Obras de Ampliación 
+SpA requerirá de 212 días para ejecutar la obra “Ampliación en Subestación Nueva Nirivilo”, y con la puesta 
+en servicio de esta última será posible para NITE continuar con la ejecución del Proyecto, requiriendo para 
+ello de 114 días adicionales. 
+ 
+5. 
+Que, habiéndose expuesto los argumentos y peticiones de la Empresa en orden a prorrogar los plazos 
+establecidos en el DS N°4T/2021 para dar cumplimiento a los Hitos Relevantes N°4 y 5 del Proyecto, 
+corresponde a esta Secretaría de Estado analizar el mérito de los mismos, así como los antecedentes 
+aportados y evaluar si, en la especie, se configuran los supuestos de caso fortuito o fuerza mayor invocados. 
+ 
+En ese marco se debe tener presente que, el plazo de cumplimiento de los Hitos Relevantes N°4 y 5 debía 
+verificarse el 22 de mayo y 10 de junio de 2024, conforme a la siguiente tabla:  
+ 
+Hito 
+Fecha autorizada en el 
+Decreto N°4T/2021 
+Fecha prorrogada por CEN 
+Plazo de cumplimiento efectivo 
+N°1  
+memorias de cálculo y documentos técnicos 
+de diseño que determinan las especificaciones 
+principales del Proyecto 
+5 de diciembre de 2021 
+3 de marzo de 2022 
+12 de noviembre de 2022 
+N°2  
+inicio de la construcción de las obras 
+6 de mayo de 2023 
+15 de octubre de 2023 
+21 de agosto de 2023 
+N°3  
+verificación de equipos en fábrica y calificación 
+sísmica 
+4 de abril de 2024 
+No aplica 
+25 de octubre de 2023 
+N°4  
+construcción de las fundaciones 
+22 de mayo de 2024 
+No aplica 
+Incumplido 
+N°5  
+entrada en operación 
+10 de junio de 2024 
+No aplica 
+Incumplido 
+ 
+6. 
+Que, se debe tener presente que los principios de estricta sujeción a las bases y de igualdad de los oferentes 
+que rigen a los procedimientos licitatorios, no admiten excepción alguna, salvo tratándose de la ocurrencia 
+de un caso fortuito o de fuerza mayor que afectare por igual a todos los oferentes, ponderación que, sobre la 
+base de antecedentes precisos y concretos.  
+ 
+De esta manera corresponde analizar los elementos constitutivos de esta eximente de responsabilidad. Así 
+el caso fortuito o fuerza mayor se encuentra definido legalmente por el artículo 45 de Código Civil como el 
+imprevisto que es imposible de resistir, “(…) como un naufragio, un terremoto, el apresamiento de enemigos, 
+los actos de autoridad ejercidos por un funcionario público, etc (…)”. De esta definición se desprenden sus 
+elementos constitutivos, que, tal como ha señalado la jurisprudencia, con carácter general, son tres: (i) que 
+sea una causa extraña al deudor; (ii) que se trate de un hecho imprevisto; (iii) que se trate de un evento 
+imposible de resistir. En efecto, la Corte Suprema (rol N°18.167-2017, de fecha 3 de octubre de 2017) señaló 
+al respecto que: “(…) Caso fortuito o fuerza mayor es una eximente de responsabilidad que requiere probar 
+sus requisitos. La doctrina tanto nacional como comparada reconocen tres elementos indicadores del caso 
+fortuito y los hacen parte de su definición: 1. Es un hecho externo; 2. Es un hecho imprevisible; 3. Es un hecho 
+irresistible. El primer requisito implica la exigencia de un hecho que no depende del actuar de ninguna de las 
+partes que se encuentran vinculadas al hecho dañino, no debe ser imputable ni a quien lo causa ni a quien lo 
+sufre. La segunda exigencia, importa que sea un hecho que no resulte posible contemplarlo con anterioridad 
+
+ 
+ 
+4 
+ 
+a su ocurrencia. Para establecer qué es lo previsible en cada caso concreto, se requiere analizar las 
+circunstancias particulares que rodean a la actividad en desarrollo de la cual surgió el daño y, por 
+consiguiente, se deben verificar las previsiones normales que habrían de exigirse a quien alega la fuerza 
+mayor. La imprevisibilidad implica que en condiciones normales haya sido imposible para el agente precaverse 
+contra él. Finalmente, la exigencia de ser un hecho irresistible se refiere a la imposibilidad objetiva para el 
+sujeto de evitar las consecuencias derivadas del hecho imprevisto. Consiste en que haya sido absolutamente 
+imposible evitar el hecho o suceso aludido, no obstante, los medios de defensa empleados para superarlo. 
+También implica la imposibilidad de sobreponerse al hecho para eludir sus efectos”. 
+ 
+Primeramente, en cuanto a la exterioridad, “(…) la exigencia de un hecho externo le da el verdadero carácter 
+de causa extraña a la fuerza mayor. Así, el hecho constitutivo de fuerza mayor debe ser ajeno a la actividad 
+dentro de la cual se ha causado el daño. Dicho de otra manera, la fuerza mayor está definida como aquel 
+hecho que no depende del actuar de ninguna de las partes que se encuentran vinculadas al hecho dañino, no 
+debe ser imputable ni a quien lo causa ni a quien lo sufre (…)” (Corte Suprema, rol N°4.658-2017, de fecha 16 
+de noviembre de 2017). 
+ 
+En consecuencia, existirá fuerza mayor o caso fortuito cuando el suceso dañoso no sea posible atribuirlo a 
+culpa del deudor. Por ello, quien alega esta eximente de responsabilidad debe acreditar haber actuado con 
+la debida diligencia y cuidado. Al respecto, la Corte Suprema ha señalado que “(…) No puede considerarse 
+como derivado de la fuerza mayor al hecho cuya imposibilidad sobreviniente tenga su origen directo en la 
+negligencia, imprudencia, impericia o inobservancia de reglamentos del propio agente, pues esta culpa que 
+precede al hecho invocado como caso fortuito le quita a éste el poder liberatorio que es propio de tal calidad 
+jurídica (…)” (Corte Suprema, rol N°2.448-2010, de fecha 12 de junio de 2013). 
+ 
+En lo que respecta a la imprevisibilidad, se ha entendido que es una calificación de carácter relativa, 
+subordinada a la circunstancia que los eventos que produjeron el daño racionalmente no hayan podido 
+preverse. De esta forma, lo exigido por la jurisprudencia y la doctrina corresponde a actuar con la debida y 
+esperada diligencia y cuidado. Así, es posible otorgar la calidad de imprevisto a un determinado suceso o 
+evento, únicamente, si se adoptaron todas las medidas que la precaución aconseja y si, aun habiéndolas 
+adoptado, por causas extraordinarias que superan las medidas tomadas, el hecho igualmente se produce. 
+Por lo anterior, y para que se trate de un hecho imprevisible importa que no resulte posible contemplarlo 
+con anterioridad a su ocurrencia, y “(…) para establecer qué es lo previsible en cada caso concreto, se requiere 
+analizar las circunstancias que rodean la actividad en desarrollo de la cual surgió el daño y, por consiguiente, 
+se deben verificar las previsiones normales que habrían de exigirse a quien alega la fuerza mayor” (Corte 
+Suprema, rol N°34.650-2017, de fecha 4 de julio de 2018). Que el hecho sea imprevisible implica, entonces, 
+“(…) que en condiciones normales haya sido imposible para el agente precaverse contra él o representar 
+mentalmente como posible sus consecuencias o efectos” (Corte Suprema rol N°18.225-2017, de fecha 17 de 
+abril de 2018). 
+ 
+Por su parte, la irresistibilidad se refiere a la conducta del sujeto frente a un suceso en vías de ocurrir, 
+inminente o ya ocurrido, y consiste en las defensas que se oponen al hecho imprevisto tendientes a evitar 
+sus consecuencias dañosas, “(…) Es la previsibilidad de un suceso lo que obliga a una persona a adoptar las 
+medidas de diligencia y cuidado tendientes a evitarlo. Si este hecho dañoso igual ocurre, no obstante, las 
+medidas adoptadas, este suceso permite ser calificado de «improviso»” (Corte Suprema, rol N°76.461-2016, 
+de fecha 5 de septiembre de 2017). Sin embargo, para atribuir a tal acontecimiento que originó daños a un 
+tercero el carácter de irresistible es necesario que las medidas de defensa que se implementaron para que 
+no ocurriera, o para minimizar sus consecuencias, sean de tal entidad y pertinentes que sean eficientes, 
+eficaces y efectivas para evitar el evento dañoso o sus consecuencias. Para que el hecho sea irresistible y 
+permita ser calificado como caso fortuito, es necesario que el obstáculo sea insuperable para el sujeto que lo 
+sufre y para toda otra persona que se hubiera encontrado en la misma circunstancia, es decir “(…) que la 
+prevención no pueda ser ejecutada por nadie ante la situación planteada” (Corte Suprema, rol N°2.448-2010, 
+de fecha 12 de junio de 2013). 
+ 
+De esta manera, y a modo de resumen, para la existencia de una situación de fuerza mayor requiere la 
+concurrencia de todos sus elementos constitutivos, a saber: 
+a) 
+inimputabilidad, vale decir, que el hecho provenga de una causa totalmente ajena a la voluntad del 
+afectado, el que, por lo demás, no debe haber contribuido a su ocurrencia; 
+b) 
+imprevisibilidad, conforme a la cual se requiere que el acontecimiento no se haya podido prever dentro 
+de cálculos ordinarios o corrientes; y  
+c) 
+irresistibilidad, esto es, que la contingencia no se haya podido evitar ni aun en el evento de oponer las 
+defensas idóneas. 
+Aplica dictámenes N°14.445 y N°51.672, ambos de 2009; N°11.669, de 2010; y, N°70.937, de 2011, todos de 
+la Contraloría General de la República. 
+
+ 
+ 
+5 
+ 
+ 
+7. 
+Que, por lo tanto la única excusa procedente de que dispone la empresa para eximirse de responsabilidad de 
+una obligación de resultado, como en el caso sublite, es la existencia de un evento que haya estado 
+completamente fuera de su ámbito de control y previsibilidad, y que le haya impedido el cumplimiento 
+oportuno de conformidad con los plazos establecidos en el Decreto N°4T/2021 y sus modificaciones 
+ 
+8. 
+Que, sobre la base del marco normativo, jurisprudencial y doctrinal precedentemente expuesto, y de los 
+antecedentes que se tuvieron a la vista, esta Secretaría de Estado procederá a analizar la concurrencia de los 
+elementos constitutivos del caso fortuito o fuerza mayor respecto de la indisponibilidad de la Subestación 
+Nueva Nirivilo y su incidencia en el cumplimiento de los Hitos Relevantes N°4 y N°5 del Proyecto. 
+ 
+9. 
+Que, en este contexto cabe referirse respecto del Proyecto y su relación con las obras “Ampliación en 
+Subestación Nueva Nirivilo” y “Subestación Nueva Nirivilo”. Al respecto, el DE N°231/2019, señala que en su 
+artículo 2.3 que la Obra consistía en “La construcción de una nueva línea de transmisión 2x66 kV, tendido del 
+primer circuito, entre la futura S/E Nueva Nirivilo y la existente S/E Constitución, con capacidad de al menos 
+60 MVA por circuito a 35°C con sol. El proyecto considera los paños de línea en las subestaciones señaladas” 
+(destacado añadido). El plazo contemplado en dicho acto administrativo para la ejecución de esta obra es de 
+36 meses contados desde la fecha de publicación en el Diario oficial del respectivo decreto a que hace 
+referencia el artículo 96° de la Ley. 
+ 
+Por su parte, el DE N°418/2019 contempló en su artículo 2.5.16 como parte de las obras de ampliación del 
+Sistema de Transmisión Zonal del Sistema E a la obra “Ampliación en S/E Nueva Nirivilo”, cuya descripción 
+general señalaba que “El proyecto consiste en la extensión de las barras del patio de 66 kV de la subestación 
+Nueva Nirivilo en configuración doble barra principal más transferencia, para 3 nuevas posiciones, que 
+permita la conexión del proyecto "Nueva línea 2x66 kV Nueva Nirivilo - Constitución, tendido del primer 
+circuito". Adicionalmente, el proyecto considera espacio para otras dos posiciones con terreno nivelado.” 
+(destacado añadido). El plazo contemplado en dicho acto administrativo para la ejecución de esta obra es de 
+24 meses contados desde la fecha de publicación en el Diario oficial del respectivo decreto a que hace 
+referencia el artículo 96° de la Ley. 
+ 
+Por otro lado, el DE N°418/2017 señala que la “Subestación Nueva Nirivilo 220/66 kV” “[…] consiste en la 
+construcción de una nueva S/E y la instalación de un transformador de 220/66 kV, de capacidad 90 MVA. 
+Además, incluye la construcción de un patio de 220 kV en configuración interruptor y medio, con media 
+diagonal construida para la conexión del equipo de transformación, dejando espacio para al menos cuatro 
+diagonales completas, dos de las cuales serán utilizadas por la futura línea 2x220 kV entre las S/E Hualqui y 
+la S/E Itahue. El patio de 66 kV será en configuración doble barra más transferencia, con la construcción de 
+un paño para el transformador y la extensión de las barras para la conexión de los empalmes a la S/E Nirivilo 
+y espacio para, a lo menos, dos futuros paños.” (destacado añadido). El plazo contemplado en dicho acto 
+administrativo para la ejecución de esta obra es de 60 meses contados desde la fecha de publicación en el 
+Diario oficial del respectivo decreto a que hace referencia el artículo 96° de la Ley. 
+ 
+Como es posible apreciar de los párrafos anteriores, un requisito esencial para concretar la Obra es la entrada 
+en operación de la “Ampliación en S/E Nueva Nirivilo”, la que a su vez, exige que previamente haya entrado 
+en operación la “Subestación Nueva Nirivilo 220/66 kV”.  
+ 
+10. Que, por lo expuesto en el considerando precedente, resulta pertinente analizar los impactos de la 
+indisponibilidad de la “Subestación Nueva Nirivilo 220/66 kV” en el cumplimiento de los Hitos Relevantes N°4 
+y 5 del Proyecto. 
+ 
+Primeramente, y tal como lo argumenta NITE, es posible apreciar claramente que existe una incompatibilidad 
+entre los distintos cronogramas de las obras antes señaladas, toda vez que de acuerdo con ellos, la 
+“Ampliación en S/E Nueva Nirivilo” y el Proyecto deben entrar en operación antes de que se encuentre 
+disponible la obra a la que se deben conectar: 
+ 
+Obra 
+Hito N°5 
+Decreto de 
+adjudicación 
+Publicación en Diario 
+Oficial 
+Hito N°5 
+S/E Nueva Nirivilo 
+220/66 kV 
+60 meses  
+(31 de agosto 
+de 2024) 
+5T/2019 
+31 de agosto de 2019 
+60 meses  
+(31 de agosto de 
+2024) 
+Ampliación 
+en 
+Subestación 
+Nueva 
+Nirivilo 
+24 meses 
+(10 de junio de 
+2023) 
+4T/2021 
+10 de junio de 2021 
+24 meses 
+(10 de junio de 
+2023) 
+Nueva Línea 2x66 kV 
+Nueva 
+Nirivilo 
+– 
+36 meses 
+(10 de junio de 
+2024) 
+36 meses 
+(10 de junio de 
+2024) 
+
+ 
+ 
+6 
+ 
+Constitución, tendido 
+del primer circuito 
+ 
+Lo previamente se ve refrendado por el oficio ordinario de la Comisión Nacional de Energía N°906, de 22 de 
+diciembre de 2021, el cual señala que “De acuerdo a los análisis realizados, esta Comisión concluye que existe 
+una inconsistencia en los plazos definidos para las obras individualizadas anteriormente, toda vez que una 
+obra de ampliación no puede efectuarse antes que se desarrolle la obra que debe ser ampliada. Lo mismo con 
+la obra nueva, esta obra no podrá entrar en operación antes de que se encuentre en operación la subestación 
+a la cual debe conectarse.”. 
+ 
+En términos similares, el Coordinador por cartas DE 03512-24 y DE 03097-24, de 10 y 15 de julio 
+respectivamente, informó el incumplimiento de los Hitos Relevantes N°4 y 5 señalando en los anexos de 
+ambas cartas que la causa principal que originó el incumplimiento fue el “Retraso en el inicio de la 
+construcción del proyecto debido a la indisponibilidad de la subestación Nueva Nirivilo. Adjudicatario ingresó 
+solicitud de fuerza mayor y aumento de plazo para la verificación de los Hitos Relevantes N°4 y N°5.”. 
+ 
+En segundo lugar, consta en las cartas CE-070-2022-MATE, CE-027-2023-MATE, CE-122-2023-MATE, CE-139-
+2023-MATE, CE-009-2024-MATE, CE-30-2024-MATE, CE-35-2026-MATE y CE-67-2026 que la empresa 
+Mataquito Transmisora de Energía S.A. solicitó la declaración fuerza mayor y aumento de plazo en la ejecución 
+de la “S/E Nueva Nirivilo 220/66 kV”, encontrándose pendientes de resolver al momento de la tramitación 
+del presente acto administrativo. 
+ 
+11. Que, la indisponibilidad de la “S/E Nueva Nirivilo 220/66 kV” es un hecho inimputable a NITE, toda vez que 
+constituye un acontecimiento enteramente ajeno a su esfera de control. En efecto, la Solicitante no es titular 
+de los derechos y obligaciones de ejecución y explotación de dicha subestación -cuya construcción 
+corresponde a un adjudicatario diverso en el marco del DE N°418/2017 y del DS N°5T/2019-, ni tuvo 
+participación alguna en la incompatibilidad de origen existente entre los cronogramas del Decreto N°4T/2021 
+y del Decreto N°5T/2019, la que proviene de la propia planificación de la transmisión materializada en actos 
+de autoridad. Cabe recordar que el artículo 45 del Código Civil menciona precisamente “los actos de autoridad 
+ejercidos por un funcionario público” entre los ejemplos de caso fortuito. A mayor abundamiento, la Empresa 
+advirtió esta incompatibilidad a la Comisión Nacional de Energía mediante su Carta CE-007-2021-NITE, siendo 
+ésta reconocida por dicho organismo mediante el Oficio Ordinario N°906/2021. 
+ 
+12. Que, asimismo, esta Secretaría de Estado estima que el hecho invocado no pudo preverse dentro de los 
+cálculos ordinarios o corrientes exigibles a la Solicitante al momento de participar en la licitación y de asumir 
+la titularidad de la Obra. De la lectura de las preguntas y respuestas del proceso de licitación, es posible 
+apreciar que Subestación Nueva Nirivilo se encontraba “en construcción” y “en etapa de permisos y desarrollo 
+de ingeniería”, no siendo esperable que su adjudicatario experimentaría retrasos más allá de su propio plazo 
+decretado, que según éste se deberían a eventos constitutivos de caso fortuito. A ello se suma que la fecha 
+de entrada en operación de la referida subestación fue fijada con posterioridad a la exigida para la Obra, 
+configurando una incompatibilidad de origen imputable a la planificación de la transmisión y no a la 
+Adjudicataria, quien, por lo demás, la advirtió oportunamente a la autoridad.  
+ 
+13. Que, por último, resulta manifiesto que NITE no disponía de medios alternativos que le hubiere permitido 
+suplir la puesta en servicio de la Subestación Nueva Nirivilo para, por esa vía, alcanzar los Hitos Relevantes 
+N°4 y N°5 de la Obra. No siendo la Solicitante titular de los derechos de ejecución de dicha subestación, por 
+lo que la indisponibilidad constituye para ella un obstáculo objetivamente insuperable, que se habría 
+presentado del mismo modo respecto de cualquier otro adjudicatario colocado en idéntica situación. 
+Refuerza esta conclusión la conducta desplegada por NITE, que cumplió oportunamente todos los hitos 
+relevantes que dependían de su propia gestión (Hitos Relevantes N°1, N°2 y N°3) y que puso diligentemente 
+en conocimiento de la autoridad la contingencia advertida. 
+ 
+14. Que, de esta forma, esta cartera de Estado da por acreditado la ocurrencia de un evento constitutivo de caso 
+fortuito o fuerza mayor que afectó la ejecución de los Hitos Relevantes N°4 y 5 de la obra nueva “Nueva Línea 
+2x66 kV Nueva Nirivilo – Constitución, tendido del primer circuito”. Sin perjuicio de lo anterior, no es posible 
+acceder al aumento en 326 días para la ejecución de los mencionados Hitos Relevantes contados desde la 
+entrada en operación de la Subestación Nueva Nirivilo, como lo requiere la empresa en su presentación. 
+ 
+Dicha imposibilidad radica, por una parte, en que la empresa no acreditó en este procedimiento el impacto 
+de la indisponibilidad de la Subestación Nueva Nirivilo en el cronograma de la Obra. Asimismo, respecto de la 
+forma de computar dicho plazo, debe recordarse que el artículo 149 del decreto N°37, de 2019, que aprueba 
+reglamento de los sistemas de transmisión y de la planificación de la transmisión, establece expresamente 
+cómo debe hacerse dicho cómputo: “Los plazos establecidos en los decretos que fijan los derechos y 
+
+ 
+ 
+7 
+ 
+condiciones de ejecución y explotación de Obras Nuevas y en los decretos de adjudicación de las Obras de 
+Ampliación se contarán desde la publicación en el Diario Oficial de los mencionados decretos.”. 
+ 
+De esta forma, el aumento en el plazo de los Hitos Relevantes N°4 y 5 deberá determinarse una vez que la 
+obra “S/E Nueva Nirivilo 220/66 kV” entre en operación mediante el correspondiente acto administrativo. 
+ 
+15. Que, por lo expuesto en el presente acto administrativo, cabe acceder a la suspensión del cobro de las boletas 
+de garantía tomadas para caucionar el cumplimiento de los Hitos Relevantes N°4 y N°5, solicitado por la 
+Empresa en el primer otrosí de su presentación. 
+ 
+ 
+R E S U E L V O: 
+ 
+ 
+PRIMERO: ACÓGESE la solicitud presentada por Nirivilo Transmisora de Energía S.A. y, en consecuencia, 
+DECLÁRASE que la indisponibilidad de la “Subestación Nueva Nirivilo 220/66 kV” constituye, respecto de la obra 
+nueva “Nueva Línea 2x66 kV Nueva Nirivilo – Constitución, tendido del primer circuito”, un evento de caso fortuito 
+o fuerza mayor que impide su cumplimiento, en tiempo y forma, de los Hitos Relevantes N°4 y N°5 establecidos 
+en el Decreto N°4T/2021, por las razones expuestas en la parte considerativa del presente acto administrativo. 
+ 
+SEGUNDO: DETERMÍNASE a través del correspondiente acto administrativo la fecha de cumplimiento de los Hitos 
+Relevantes N°4 y N°5 de la obra nueva “Nueva Línea 2x66 kV Nueva Nirivilo – Constitución, tendido del primer 
+circuito”, fijada en el Decreto N°4T/2021, una vez que la “Subestación Nueva Nirivilo 220/66 kV” entre en 
+operación. 
+ 
+TERCERO: INSTRÚYASE al Coordinador Independiente del Sistema Eléctrico Nacional abstenerse de requerir el 
+cobro de las boletas de garantía tomadas para caucionar el cumplimiento de los Hitos Relevantes N°4 y N°5 de la 
+referida obra nueva, manteniendo su vigencia, atendido que el retardo en su cumplimiento no resulta imputable 
+a la Adjudicataria por obedecer a un evento de caso fortuito o fuerza mayor, en los términos expuestos en la parte 
+considerativa. 
+ 
+CUARTO: DÉJASE CONSTANCIA que en contra de la presente resolución procede el recurso de reposición 
+contemplado en el artículo 59 de la Ley N°19.880, sin perjuicio de las demás acciones previstas en el Capítulo IV, 
+Párrafo 1°, del citado cuerpo legal. 
+ 
+ANÓTESE, NOTIFÍQUESE Y ARCHÍVESE 
+ 
+ 
+ 
+ 
+HUGO ANTONIO BRIONES FERNÁNDEZ 
+SUBSECRETARIO DE ENERGÍA  
+ 
+ 
+ 
+Distribución: 
+− 
+Nirivilo Transmisora de Energía S.A. – Avenida Apoquindo N°4501, oficina N°1.503, Las Condes; correos electrónicos: dsierra@celeogroup.com, 
+lurtubiag@celeogroup.com, cadelacruz@celeogroup.cl, dgzamora@celeogroup.cl. 
+− 
+Coordinador Eléctrico Nacional. 
+− 
+Gabinete Subsecretario de Energía. 
+− 
+División Jurídica. 
+− 
+Oficina de Partes y Archivo. 
+ 
+Este Documento ha sido firmado electrónicamente de acuerdo a la ley Nº 19.799
+Código: 1785428682224 validar en
+https://validadoc.minenergia.cl/Documento?codigoid=1785428682224
+ASA/RGI/MSC/FRC/FTM/frc
+Código: 1785518068160R3612 validar en  https://www3.esigner.cl:8543/EsignerValidar/verificar.jsp

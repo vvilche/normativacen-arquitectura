@@ -1,0 +1,211 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 31 de marzo de 2026 
+DE 02143-26 
+Señor 
+Pablo Marcos 
+Encargado Titular 
+Huemul Energía SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Control Secundario de Frecuencia e integración 
+al Despacho Económico de la Central PE 
+Ckhúri (NUP 380). 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), ha finalizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+automático del GMS/SCADA de la Central PE Ckhúri.  
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario una vez que complete el proceso de Entrada en 
+Operación, considerando los recursos indicados en el anexo de la presente carta. 
+ 
+Por otra parte, para efectos de elaborar el correspondiente Informe Técnico de Verificación 
+según lo establecido en la Guía de Verificación de Control de Frecuencia, le solicito envíe 
+a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 29 de abril de 
+2026, la siguiente información asociada al parque: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99,95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+ 
+El reporte técnico que justifica la verificación de la capacidad de la prestación del SC de 
+CSF de la central PE Ckhúri se encuentra publicado en la siguiente ruta de la página web 
+del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Secundario de Frecuencia > Central PE Ckhúri 
+ 
+Dado lo anterior, para que la central PE Ckhúri pueda participar de las subastas de CSF, 
+deberá completar el proceso de solicitud de incorporación a la plataforma de subastas. Para 
+ello, su representada deberán presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026) 
+ 
+Sin perjuicio de lo anterior, la central mencionada podrá ser instruida de manera directa por 
+el Coordinador Eléctrico Nacional en la prestación del Control Secundario de Frecuencia. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia puede 
+comunicarse al correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+C.c.: 
+Sr. Felipe Fernández – Encargado Suplente Huemul Energía SpA 
+DCO/DMAP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central  
+PE Ckhúri 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE Ckhúri 
+Los siguientes parámetros operacionales están en proceso de aceptación por el 
+Coordinador Eléctrico: 
+• 
+Potencia máxima bruta: 95,257 [MW] 
+• 
+Potencia máxima neta: 94,334 [MW] 
+A continuación, se presenta el mínimo técnico de la central, sin considerar la pausa 
+de aerogeneradores. Este valor se encuentra en proceso de aceptación por parte del 
+Coordinador Eléctrico:  
+• 
+Potencia mínima bruta: 11,806 [MW] 
+• 
+Potencia mínima neta: 10,920 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+Para la prestación del SC de Control Secundario de Frecuencia se consideran todos 
+los aerogeneradores disponibles en servicio. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado para la central PE 
+Ckhúri. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Central PE 
+Ckhúri 
+ 
+Eólico 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+20,7 
+ 
+Bajada 
+20,7 
+ 
+Aporte CSF [MW] (1) 
+Subida 
+83,41 
+ 
+Bajada 
+-83,41 
+ 
+Límite de regulación superior [MW]  
+94,33 
+ 
+Límite de regulación inferior [MW] 
+10,92 
+ 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a potencia activa neta en el POI, podrán 
+verse modificados si se actualizan los parámetros operacionales de la central PE Ckhúri. 

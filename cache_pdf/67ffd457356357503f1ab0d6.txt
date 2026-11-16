@@ -1,0 +1,137 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 15 de abril de 2025 
+DE 02275-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+ 
+Ref.: 
+Establecimiento 
+del 
+Consumo 
+Específico Neto de las unidades 1 y 2 de la 
+Central TER Guacolda. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 25 del Anexo Técnico “Determinación de 
+Consumos Específicos de Unidades Generadoras” de la Norma Técnica de Seguridad y 
+Calidad de Servicio, comunico a Ud. el establecimiento de los valores de Consumo 
+Específico Neto (CEN) de las unidades 1 y 2 de la Central TER Guacolda, en conformidad 
+con el informe técnico de prueba publicado en la página web del Coordinador mediante la 
+carta de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación, se recibieron observaciones de carácter técnico del coordinado 
+Guacolda Energía SpA, mediante carta de la Ref. [2], las cuales fueron remitidas al Experto 
+Técnico y derivaron en una nueva versión de los Informes de prueba. Por su parte, el 
+Coordinador no emitió observaciones de carácter técnico al informe. 
+ 
+Conforme a lo anterior, los valores de los parámetros de Consumo Específico Neto de las 
+unidades 1 y 2 de la central TER Guacolda se presentan en las tablas contenidas en el 
+anexo de la presente carta. 
+ 
+En cumplimiento del Artículo 25 del Anexo Técnico en mención, los valores de consumo 
+específico neto ya mencionados entrarán en vigencia a partir de las 00:00 horas del jueves 
+17 de abril de 2025. 
+ 
+Las actas de pruebas, la minuta de observaciones a los informes técnicos y los Informes 
+Técnicos finales de Prueba, que contienen la justificación de los parámetros indicados 
+anteriormente han sido publicados en la siguiente ruta del Sitio Web del Coordinador 
+Eléctrico Nacional: 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > 
+Consumo Específico Neto > Pruebas de Consumo Específico Neto > Central TER 
+Guacolda > 2024 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+GZV/EGV/SGM/ycl  
+ 
+ 
+Referencias: 
+ 
+[1] Carta DE05055-24, Ref.: “Informes Técnicos de Potencia Máxima y Consumo Específico 
+Neto de las unidades 1, 2 y 5 de la Central TER Guacolda, del coordinado Guacolda Energía 
+SpA”, de fecha 13 de noviembre de 2024. 
+ 
+[2] Carta 0090-2024 de Guacolda Energía SpA, Ref.: “Observaciones a los Informes 
+Técnicos de Potencia Máxima y Consumo Específico Neto de las unidades 1, 2 y 5 de la 
+Central Guacolda”, de fecha 27 de noviembre de 2024. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Anexo 
+  
+Consumo Específico Neto unidad 1 Central TER Guacolda 
+ 
+Tabla 1: Parámetros CEN U1 Central TER Guacolda – Combustible Carbón 
+Potencia Neta [MW] CEN [kcal/kWh] 
+32,143 
+2.881 
+49,708 
+2.734 
+68,140 
+2.721 
+82,612 
+2.609 
+106,183 
+2.520 
+119,920 
+2.534 
+130,853 
+2.517 
+ 
+ 
+ Consumo Específico Neto unidad 2 Central TER Guacolda 
+ 
+Tabla 2: Parámetros CEN U2 Central TER Guacolda – Combustible Carbón 
+Potencia Neta [MW] CEN [kcal/kWh] 
+31.551 
+2.895 
+47.033 
+2.887 
+62.215 
+2.790 
+78.491 
+2.719 
+100.762 
+2.626 
+113.453 
+2.670 
+122.554 
+2.654 
+ 
+ 

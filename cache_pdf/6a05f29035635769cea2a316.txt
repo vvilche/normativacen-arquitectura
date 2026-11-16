@@ -1,0 +1,89 @@
+ 
+ 
+ 
+ 
+ 
+OP 064-26 
+   FECHA:   23/04/2026 
+                  Pág.      1 de 1 
+ 
+ 
+ 
+Sr.     
+PATRICIO VALENZUELA V.  
+SUBGERENTE DE ANÁLISIS Y SOPORTE OPERACIONAL 
+COORDINADOR ELÉCTRICO NACIONAL 
+Dirección 
+Av. Parque Isidora 1061, Pudahuel - Santiago 
+Teléfono 
+(56) (2) 424 6300 
+Fax 
+(56) (2) 424 6301 
+Remite 
+ 
+ADRIAN GUZMAN M 
+ENCARGADO CEN 
+Enel Generación Chile 
+Dirección 
+ 
+Roger de Flor N°2725 – Piso 18 – Las Condes – Santiago 
+Teléfono 
+ 
+(56) (2) 2630 9000 
+Fax 
+ 
+(56) (2) 2635 4087 
+ 
+MATERIA: 
+OBSERVACIONES A INDICADORES DE DESEMPEÑO DE SERVICIOS 
+COMPLEMENTARIOS ABRIL 2026. 
+ 
+ 
+De mi consideración, 
+ 
+En la siguiente tabla se adjuntan las observaciones al factor de desempeño del periodo abril 2026 
+ 
+ 
+
+ 
+ 
+ 
+N° 
+Coordinado 
+Unidad 
+Observaciones 
+1 
+ENEL GENERACION 
+TER ATACAMA CC1-TG1 
+TER ATACAMA CC1-TG2 
+TER ATACAMA CC1-TV 
+La limitación LI2026000940 indica que solo afecta a la prestación de servicios 
+complementarios cuando la central Atacama 1 se encuentra en la configuración 
+de ciclo completo (TG1A + TG1B + TV1). Por lo anterior se le asignaron en el 
+periodo de la limitación (desde el 19 de abril hora 19 hasta final del mes), control 
+primario de frecuencia y control terciario de frecuencia, ya sea por programa o 
+asignación directa para reemplazar otras unidades, en configuraciones de medio 
+ciclo (TG1A+TV o TG1B+TV) y ciclo abierto (TG1A). Se solicita no considerar 
+esa limitación para el factor de desempeño ya que anula la remuneración por la 
+prestación de los mencionados SSCC. Se adjunta en el anexo 1 documento de 
+la limitación y extracto del RIO con instrucciones de SSCC. 
+2 
+ENEL GENERACION 
+RAPEL U1, RAPEL U4, 
+CIPRESES U1, 
+PEHUENCHE U2 
+Se solicita reprocesar los archivos de control primario de frecuencia de las 
+unidades mencionadas para la nueva versión del factor de desempeño. 
+ 
+Sin otro particular, y esperando una favorable acogida, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adrian Guzman M. 
+Encargado (s) CEN 
+ENEL GENERACIÓN CHILE S.A 
+ 

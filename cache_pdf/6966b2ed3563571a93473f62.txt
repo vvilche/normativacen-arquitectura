@@ -1,0 +1,67 @@
+ 
+ 
+Santiago, 13 de enero de 2026. 
+ACC.ECH.006.26 
+ 
+ 
+Señora.  
+Gretchen Zbinden V.  
+Subgerenta de Análisis y Soporte Operacional.  
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+REF: 
+RESPUESTA A CARTA DE08422-25 DEL COORDINADOR ELÉCTRICO 
+NACIONAL  
+ 
+ 
+ 
+ 
+De mi consideración: 
+ 
+En atención a lo comunicado por el Coordinador Eléctrico Nacional (Coordinador) mediante la carta 
+DE08422-25, en la que solicita antecedentes adicionales respecto de la prestación del Servicio 
+Complementario de Control Primario de Frecuencia (CPF) por parte de la central fotovoltaica Usya 
+durante los meses de agosto, septiembre y octubre de 2025, se acompaña en anexo a la presente 
+comunicación el informe técnico elaborado por Acciona Energía Chile Holdings S.A. (Acciona), el cual 
+da respuesta a los requerimientos formulados y permite concluir lo siguiente: 
+ 
+i. 
+La prestación del Servicio Complementario de CPF por parte de la central fotovoltaica Usya fue 
+ejecutado conforme a las exigencias normativas vigentes y a los criterios definidos por el 
+Coordinador, durante los periodos analizados.  
+ii. 
+La clasificación de mal desempeño de la central durante los meses de agosto, septiembre y 
+octubre de 2025 se origina exclusivamente por una inconsistencia en la referencia horaria de los 
+registros utilizados para la evaluación del desempeño, y no obedece a una deficiente ejecución 
+del servicio complementario de CPF, lo cual queda debidamente descartado a partir del análisis 
+efectuado. 
+iii. 
+Una vez identificada la causa raíz y corregida la referencia horaria de los registros conforme a los 
+criterios exigidos (UTC 0), los resultados de la evaluación correspondiente al mes de noviembre 
+de 2025 reflejan fielmente la adecuada prestación del servicio, obteniéndose un Factor de 
+Desempeño de 100% según lo consignado en el Informe de Verificación de Desempeño del 
+Coordinador, versión 2. 
+ 
+ 
+
+ 
+ 
+iv. 
+Adicionalmente, y con el objetivo de prevenir la recurrencia de situaciones similares, las medidas 
+de corrección de la referencia horaria han sido extendidas e implementadas en todas las centrales 
+de Acciona Energía que participan activamente en la prestación del servicio complementario de 
+CPF. 
+ 
+Quedamos a disposición para resolver cualquier duda o comentario que surja a partir del proceso de 
+revisión de los antecedentes entregados. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado (S)  
+Acciona Energía Chile Holdings, S.A. 

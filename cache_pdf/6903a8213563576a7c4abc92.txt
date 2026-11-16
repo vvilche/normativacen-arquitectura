@@ -1,0 +1,176 @@
+ 
+GTX-CEN-2025-067 
+Valparaíso, jueves 30 de octubre de 2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Plan de acción - EAF 495/2024: Apertura intempestiva del interruptor 52C4 de S/E San Antonio 
+- Responde a DE07413-24. 
+ 
+ 
+De nuestra consideración, 
+ 
+En respuesta a vuestro correo de fecha 24 de octubre de 2025, mediante el cual se solicita 
+información relacionada a la apertura intempestiva del interruptor 52C4 de S/E San Antonio, 
+ocurrida a las 12:12 horas del día 30 de septiembre de 2024, y en base a lo manifestado en carta 
+GTX-CEN-2024-023 del 24 de diciembre del 2024, informamos a usted lo siguiente: 
+ 
+1. Confirmación del estado de avance o ejecución exitosa de la implementación de los nuevos 
+esquemas de control y del reemplazo de los relés de protección asociados a los bancos de 
+condensadores BC1A, BC2A, BC1B y BC2B de la S/E San Antonio. 
+ 
+Conforme al cronograma de trabajo informado en carta GTX-CEN-2024-023, podemos indicar que 
+se han ejecutado a la fecha los siguientes ítems para el banco de condensadores BC2A: 
+ 
+1.1 Levantamiento de Ingeniería 
+1.2 Ingeniería Proyectada 
+1.5 Pruebas equipos (1.5.3 y 1.5.4) 
+ 
+Los ítems restantes han presentado un avance más lento de lo previsto, principalmente debido al 
+retraso de los proveedores en el proceso de entrega de los nuevos equipos asociados al esquema 
+de protección y control de los bancos de condensadores. De esta manera, en el Anexo N°1, que 
+acompaña esta carta, se detalla el cronograma actualizado de actividades con sus fechas definidas. 
+ 
+ 
+2. Resultados que permitan esclarecer el origen y fenómeno físico asociado a la falla que 
+provocó la apertura intempestiva del interruptor 52C4 de la S/E San Antonio. 
+ 
+Posterior al evento, se efectuó una inspección técnica y el protocolo de pruebas de diagnóstico 
+sobre los bancos de condensadores de la S/E San Antonio, conforme al ítem 1.5 del cronograma. 
+Los resultados de dichas pruebas permitieron identificar un desbalance en el banco BC2A, originado 
+por condensadores con valores de capacitancia fuera de su rango nominal de placa. Esta condición 
+
+ 
+generó un desequilibrio en el conjunto de fases, lo que provocó la actuación intempestiva del 
+interruptor 52C4. 
+ 
+En consecuencia, se determinó la necesidad de reemplazar los condensadores defectuosos del 
+banco BC2A, acción que no se encontraba contemplada en el alcance original del proyecto de 
+reemplazo de relés de protección. Por ello, esta intervención representa una ampliación del alcance 
+del proyecto, necesaria para restablecer las condiciones operativas normales y evitar la reiteración 
+del evento. 
+ 
+Finalmente, y dando cumplimiento a lo requerido, se remite esta información dentro del plazo 
+establecido por el Coordinador. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+Jaime Acevedo Salinas 
+Gerente de Transmisión 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ANEXO N°1 
+ 
+ 
+Semana
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1. Subestación San Antonio
+   1.1   Obras Civiles. 
+         1.1.1   Construcción de nueva canalización.
+X
+X
+X
+X
+X
+X
+   1.2   Comisionamiento de Ingeniería
+         1.2.1   Montaje de gabinete.
+X
+X
+X
+         1.2.2   Tendido y retiro de conductores.
+X
+X
+X
+         1.2.3   Configuración de equipos.
+X
+X
+X
+X
+X
+X
+         1.2.4   Montaje de equipos en gabinete
+X
+X
+X
+         1.2.5   Alambrado de equipos en gabinete
+X
+X
+X
+   1.3   Pruebas equipos.
+         1.3.1   Protocolización relés de protección.
+X
+X
+X
+         1.3.2   Protocolización controladores.
+X
+X
+X
+   1.4   Puesta en servicio.
+         1.4.1   Correcta entrada en operación.
+X
+X
+Mayo
+Marzo
+Abril
+Ítem
+Enero
+Febrero
+2026
+

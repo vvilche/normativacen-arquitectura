@@ -1,0 +1,121 @@
+ 
+ 
+Santiago, 20 de Agosto de 2026 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional (CEN) 
+Presente. 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref.: Finalización de plan de acción - Desempeño SSCC 
+de Control de Tensión en PFV Santiago Solar (Cartas DE 
+01221-26, DE 03364-26 y respuesta anterior).
+ 
+De nuestra consideración: 
+ 
+En relación con el seguimiento del plan de acción para el desempeño del servicio complementario 
+de Control de Tensión (CT) de la central Santiago Solar, y como continuación a nuestra 
+comunicación de fecha 24 de julio de 2026, nos dirigimos a usted para informar la ejecución exitosa 
+y el cierre definitivo de las acciones correctivas comprometidas: 
+ 
+1. Normalización de la Interfaz SCADA y Corrección de Consigna 
+ 
+En coordinación con el proveedor del SCADA (GreenPowerMonitor), se implementó la solución 
+técnica definitiva respecto a la lógica de ingreso de consignas de potencia reactiva. Se aplicó un 
+factor de corrección en la lógica de escritura del comando del campo manual "Reactive Power 
+Setpoint KVAR", ajustando la convención de signos en la interfaz gráfica para que coincida de forma 
+directa con la respuesta física real de la planta (signo positivo para inyección y signo negativo para 
+absorción de reactivos). 
+ 
+2. Pruebas de Validación y Desempeño con el CEN 
+ 
+El día de hoy, 20 de agosto de 2026, se llevaron a cabo exitosamente las pruebas de validación en 
+terreno. En coordinación directa con nuestro despacho GMH, bajo la solicitud en el sistema 
+Neomante (DI2026092948) programada entre las 10:00 y las 12:00 horas, se ejecutó sin problemas 
+el perfil de carga enviado en la precautoria. Se ingresaron consignas de +10 MVAr y -10 MVAr, 
+verificando en tiempo real que las instrucciones de despacho llegaron correctamente al CEN y 
+fueron asimiladas por el control de la central. 
+ 
+Como respaldo de lo anterior, se adjunta a este informe el archivo "Datos Potencia Activa - 
+Reactiva". Este documento contiene la data oficial descargada directamente desde nuestro SCADA 
+GPM, donde se puede evidenciar con una granularidad segundo a segundo el comportamiento de 
+la planta durante las pruebas. El registro incluye el detalle preciso de las mediciones físicas en el 
+transformador principal ("Meter Trafo - ACTIVE POWER" y "REACTIVE POWER") en conjunto con 
+los comandos recibidos por el controlador de la planta ("PPC_Commands - Active Power Setpoint" 
+y "Reactive Power Setpoint"). Esta información queda a disposición del Coordinador para constatar 
+de forma granular cómo la instalación siguió las consignas de potencia reactiva ingresadas. 
+ 
+
+ 
+ 
+3. Cronograma de Cierre 
+ 
+A continuación, se detalla la finalización de los hitos comprometidos en nuestro plan de trabajo 
+original: 
+ 
+Item 
+Nombre de la tarea / Hito 
+Fecha Inicio 
+Fecha Fin 
+Estado 
+1 
+Estabilización de infraestructura 
+DNP3/ICCP 
+y 
+señal 
+Potencia 
+Disponible 
+01/05/2026 
+15/07/2026 
+Finalizado 
+2 
+Solicitud formal y desarrollo de 
+parche de corrección de signo con 
+fabricante (GPM) 
+24/07/2026 
+07/08/2026 
+Finalizado 
+3 
+Pruebas 
+de 
+validación 
+en 
+plataforma y pruebas funcionales 
+de consignas con OCC 
+10/08/2026 
+20/08/2026 
+Finalizado 
+4 
+Finalización de la normalización 
+en SCADA/PPC y envío de informe 
+de cierre al CEN 
+20/08/2026 
+20/08/2026 
+Finalizado 
+ 
+Con la conclusión de estas pruebas y la correcta normalización del sistema, informamos nuestro 
+compromiso y quedamos atentos al cierre de esta no conformidad por parte del Coordinador 
+Eléctrico Nacional.  
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Acosta 
+Encargado Suplente 
+Santiago Solar S.A 
+ 
+ 
+Firmado digitalmente
+por Rodrigo Acosta
+Fecha: 20.08.2026

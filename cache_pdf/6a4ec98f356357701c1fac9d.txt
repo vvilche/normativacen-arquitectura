@@ -1,0 +1,44 @@
+ 
+ 
+ 
+OR-000163-2026 
+ 
+Santiago, 07/06/2026 
+ 
+Señor 
+Ramón Castañeda. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA: Resultados del proceso de Verificación de SSCC de Control de Tensión de S/E Puerto 
+Montt. 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, por medio de la presente y para dar cumplimiento con lo establecido en el Anexo 
+Técnico “Verificación de instalaciones para la prestación de SSCC” de la Norma Técnica de Servicios 
+Complementarios, se adjuntan revisión Final de los resultados de Pruebas para la Verificación de 
+Servicios Complementarios – Control de Tensión, correspondientes al siguiente equipo: 
+ 
+• 
+CER Puerto Montt JT4 220 kV 
+(EE-EN-2025-1120-RB-Informe_Final_SSCC_CT_CER_Puerto_Montt 
+ 
+Al respecto, se acompaña de los registros de ensayos en formato “.CSV” (EE-EN-2026-1120-RB-
+Informe_Final_SSCC_CT_CER_Puerto_Montt_Adjuntos.zip)  
+ 
+Quedamos atentos a sus comentarios u observaciones. 
+ 
+Sin otro particular, saludan atentamente a usted 
+ 
+TRANSELEC S.A., 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 
+ 
+Docusign Envelope ID: 8F57691D-539B-8DFB-8165-8A5F33FE0090

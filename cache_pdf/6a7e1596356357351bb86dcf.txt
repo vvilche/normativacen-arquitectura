@@ -1,0 +1,96 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 12 de agosto de 2026 
+ASIII 0027-2026 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+Ref: Observaciones a Indicadores Desempeño Servicios Complementarios – julio 
+2026.  
+[1] DE05255-26, “Publicación de Indicadores de Desempeño de Servicios Complementarios 
+prestados durante el mes de julio de 2026 e Indicadores de Desempeño de SSCC EDAC 
+del mes de junio de 2026”, de fecha 07 de agosto de 2026. 
+ 
+ 
+De mi consideración, 
+ 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. con el propósito de presentar 
+observaciones a los índices de desempeño de Servicios Complementarios publicados 
+mediante la comunicación de la Ref. [1]. 
+ 
+Al respecto, en Anexo a la presente se encuentran las observaciones en comento.  
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+  
+  
+   Eduardo Verdugo Cuadra  
+Encargado Coordinador Eléctrico Nacional  
+Andes Solar III SpA 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Anexo 
+ 
+Unidad 
+Inicio 
+Termino 
+Instrucción Comentario 
+BESS PFV 
+Andes Solar 
+III 
+Todo el 
+período 
+Todo el 
+período 
+CPF 
+ 
+Se observa que, si bien la instalación cuenta con 
+un equipo registrador operativo, se presentó una 
+incidencia interna asociada al envío automático de 
+los 
+registros 
+hacia 
+el 
+servidor 
+SFTP  
+infocpf.coordinador.cl 
+ 
+En atención a lo anterior, se ha tomado contacto 
+con el proveedor del sistema a fin de regularizar 
+dicha condición y restablecer el proceso de 
+transmisión automática de datos. El proveedor ha 
+indicado 
+que 
+el 
+equipo 
+se 
+encuentra 
+en 
+condiciones de envío de registros y que, una vez 
+sea habilitado al parque en la licencia de análisis 
+por parte del Coordinador, el equipo retomará el 
+envío automático desde el ‘request’ hasta la fecha, 
+incluyendo el mes de Julio.  
+ 
+En virtud de lo expuesto, se solicita recalcular la 
+evaluación de desempeño del PFV-SAE Andes III 
+de julio considerando los registros incorporados. 
+Tabla1: Observaciones a Índices de Desempeño de SSCC 
+ 

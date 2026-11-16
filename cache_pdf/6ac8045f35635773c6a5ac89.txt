@@ -1,0 +1,48 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+LGG N°2026-011 
+08 de octubre de 2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+Ref.: Plazo para entrega del Informe Técnico correspondiente a las pruebas de verificación SCADA con 
+motivo del Estudio PRS 2025. 
+ 
+De nuestra consideración, 
+  
+En relación con la carta DE 04464-26, de fecha 01 de julio 2026, mediante la cual el Coordinador Eléctrico 
+Nacional (“Coordinador”) solicita remitir el Informe Técnico correspondiente a las pruebas de 
+verificación SCADA asociadas al Estudio de PRS 2025, con plazo máximo al 2 de noviembre del 2026, 
+informamos que parte de las pruebas requeridas serán ejecutadas durante el próximo Mantenimiento 
+Mayor de la central, programado a contar del 22 de noviembre de 2026.  
+ 
+En particular, dichas pruebas se encuentran asociadas principalmente a la verificación de la redundancia 
+de alimentación y a la validación de la recuperación del servicio ante una pérdida de suministro eléctrico 
+(blackout controlado). La ejecución de estas actividades durante el periodo de mantenimiento permitirá 
+aprovechar una condición operativa real de la central, obteniendo así evidencia más representativa y 
+confiable respecto de las condiciones efectivas de recuperación del servicio. 
+ 
+En consideración de lo anterior, el Informe Técnico correspondiente será remitido a más tardar el 31 de 
+diciembre de 2026, en conformidad con los plazos y disposiciones establecidos en el referido Estudio 
+PRS. 
+  
+Sin prejuicio de lo anterior, realizaremos nuestros mayores esfuerzos para avanzar en la consolidación 
+de la información requerida y en las coordinaciones necesarias con los proveedores involucrado, con el 
+fin de remitir el referido Informe con anterioridad al plazo establecido en dicho estudio. 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+Carolina Vélez K. 
+Encargada Titular 
+Los Guindos Generación SpA 

@@ -1,0 +1,315 @@
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 10 de junio de 2026 
+DE 03712-26 
+ 
+Señores 
+Encargados Empresas Distribuidoras 
+Según Lista de Distribución  
+Presente 
+ 
+ 
+ 
+ 
+ 
+Ref.: Estudio de Verificación de Posibles 
+Congestiones 
+en 
+Instalaciones 
+de 
+Transmisión Zonal por Inyección de PMGD.  
+ 
+[1] Carta DE01737-26, de fecha 16 de marzo 
+de 2026. Solicita antecedentes a empresas 
+Distribuidoras. 
+ 
+[2] Carta DE03604-26, de fecha 29 de mayo. 
+Informa publicación del Informe Final. 
+De mi consideración: 
+ 
+Como es de su conocimiento, este Coordinador elabora un estudio semestral para ratificar 
+si efectivamente los PMGD originarán congestiones en el sistema eléctrico, de acuerdo con 
+el grado de avance efectivo de las obras del sistema de transmisión zonal, los niveles de 
+demanda proyectados y el grado de avance de la conexión de los PMGD involucrados.  
+ 
+A continuación, en el contexto de la revisión periódica de los antecedentes y publicación 
+del estudio de la Ref., informo a ustedes que, de acuerdo a los resultados del estudio 
+realizado, corresponde establecer el límite de la restricción de inyección de los PMGD 
+según lo señalado en anexo adjunto, por lo tanto, desde esta fecha los PMGD indicados 
+cuentan con la autorización para operar a la capacidad de inyección mencionada en el 
+periodo Junio – Noviembre 2026. 
+ 
+Lo anterior, en virtud de lo dispuesto en el Artículo 88 del DS88/2019 y el Artículo 3-50 de 
+la Norma Técnica de Conexión y Operación de PMGD, que establecen que es posible 
+levantar esta limitación del PMGD cuando se constata que su operación no provoca el nivel 
+de congestión previsto originalmente.  
+ 
+Cabe indicar que la actualización realizada: 
+ 
+• 
+Es aplicable sólo a la limitación asociada al sistema de transmisión zonal 
+correspondiente y no se pronuncia respecto de las eventuales limitaciones en el 
+sistema de distribución, materia que es supervisada por la respectiva empresa 
+concesionaria. 
+
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300  
+www.coordinador.cl 
+• 
+Queda sujeta a nuevas actualizaciones que se realicen en los estudios técnicos 
+asociados al Artículo 3-47 de la NTCO. 
+• 
+Es temporal, en la medida que sea necesario recalcular las limitaciones por la 
+incorporación de otros medios de generación con solicitudes de conexión previas, y 
+lo establecido por la respectiva empresa concesionaria de distribución.  
+• 
+No está garantizada, en la medida que las inyecciones del PMGD están siempre 
+supeditadas a las condiciones operacionales y restricciones reales del sistema, por 
+lo que podrían ser limitadas por seguridad en la programación o en la operación en 
+tiempo real del SEN. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Deninson Fuentes del C. 
+Gerente de Planificación y Desarrollo de la Red (I) 
+Coordinador Eléctrico Nacional 
+ 
+ 
+REV/RBS/RMZ/jav  
+Incluye: Lo indicado 
+ 
+c.c.:  
+Sr. Mauricio Funes H. – Secretario Ejecutivo (S) Comisión Nacional de Energía.  
+Sra. Marta Cabeza V. - Superintendenta de Electricidad y Combustibles.  
+Sr. Rodrigo Barbagelata S. – Director de la Unidad de Regulación.  
+Sr. Paulo Oyanedel S. – Director de la Unidad de Monitoreo de la Competencia.  
+Sr. Rodrigo Espinoza V. – Gerente de Operación.  
+Grupo Correspondencia asociado a PMGD  
+Grupo Correspondencia asociado a Distribuidoras 
+
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300  
+www.coordinador.cl 
+Lista de Distribución:  
+ 
+1. 
+Comisión Nacional de Energía  
+2. 
+Superintendencia de Electricidad y Combustibles  
+3. 
+Compañía General de Electricidad S.A.  
+4. 
+Empresa Eléctrica de la Frontera S.A.  
+5. 
+Enel Distribución Chile S.A. 
+6. 
+PMGD LATORRE SUNLIGHT (SETF Energías Renovables SpA) 
+7. 
+PMGD JUAN GONZALO SOLAR 
+8. 
+PARQUE FOTOVOLTAICO LA ROSA DE SHARON (PMGD La Rosa de Sharon SpA) 
+9. 
+PMGD PFV EL MONTE AMPLIACIÓN (Callaqui de Verano SpA) 
+10. PMGD PFV LIEBRE DE VERANO (Guallatiri SPA) 
+11. PMGD PFV SUNRAY (SETF Energías Renovables SpA) 
+12. PMGD PFV COLLANCO (Blue Solar Uno SpA) 
+13. PMGD PFV SIRIMAVO (Pacific SpA) 
+14. PMGD PFV LA HUERTA (La Huerta SPA) 
+15. PMGD PFV PUIG SUNLIGHT (SETF Energías Renovables SpA) 
+16. PMGD PVF DOÑA RUBENA (Enel Green Power Chile S.A.) 
+17. PMGD PFV EL CARDENAL (Nextpower III Chile Holdco II SpA) 
+18. PMGD PFV LA GONZALINA DE TUNICHE SUNLIGHT(SETF Energías Renovables SpA)  
+
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300  
+www.coordinador.cl 
+Anexo 1: 
+Tabla 1. Lista de PMGD liberados parcialmente periodo Junio - Noviembre 2026. 
+Nombre PMGD 
+Potencia 
+Nominal  
+PMGD [MW] 
+Potencia 
+Restringida  
+en el ICC 
+Elemento Congestionado 
+Nueva 
+Potencia 
+Liberada  
+Junio [MW] 
+Nueva 
+Potencia 
+Liberada  
+Julio [MW] 
+Nueva 
+Potencia 
+Liberada  
+Agosto [MW] 
+Nueva 
+Potencia 
+Liberada  
+Septiembre 
+[MW] 
+Nueva 
+Potencia 
+Liberada 
+Octubre [MW] 
+Nueva 
+Potencia 
+Liberada 
+Noviembre 
+[MW] 
+PMGD LATORRE SUNLIGHT 
+9 
+4.903 
+Desconectador ID 18246 
+Transf. Corriente ID 18710 
+4.903 
+4.903 
+4.903 
+4.903 
+4.903 
+4.903 
+JUAN GONZALO SOLAR 
+9 
+6.362 
+T2D S/E CHUMAQUITO BT1/2 
+- 
+- 
+- 
+- 
+8.882 
+8.882 
+PARQUE FOTOVOLTAICO LA 
+ROSA DE SHARON 
+6 
+0.75 
+T2D S/E CURACAVI CT2 
+6 
+6 
+6 
+6 
+0.75 
+0.75 
+PMGD PFV EL MONTE 
+AMPLIACIÓN 
+6 
+0 
+T2D S/E EL MONTE BT1 
+Transf. Corriente ID 10121 
+0.61 
+0.61 
+0.61 
+0.61 
+0.61 
+0.61 
+PMGD PFV LIEBRE DE VERANO 
+9 
+7.54 
+Desconectador ID 30285 
+9 
+9 
+9 
+9 
+9 
+7.54 
+PMGD PFV SUNRAY 
+9 
+6.14 
+T2D S/E MALLOA BT1 - T2D 
+S/E MALLOA BT2 
+Transf. Corriente ID 14505 
+6.14 
+6.14 
+6.14 
+6.14 
+6.14 
+6.14 
+PMGD PFV COLLANCO 
+9 
+7.1 
+T2D S/E CONSTITUCION BT3 
+7.1 
+7.1 
+7.1 
+7.1 
+7.1 
+7.1 
+PMGD PFV SIRIMAVO 
+3 
+1.05 
+Condicionado por la entrada 
+del PMGD MANO SOLAR 
+3 
+3 
+3 
+3 
+3 
+3 
+PMGD PFV LA HUERTA 
+2.97 
+2.2 
+T2D S/E PARRONAL BT 
+2.54 
+2.54 
+2.54 
+2.54 
+2.54 
+2.54 
+PMGD PFV PUIG SUNLIGHT 
+2.15 
+2.06 
+T2D S/E PELEQUEN BT1 
+Transf. Corriente ID 10785 
+2.06 
+2.06 
+2.06 
+2.06 
+2.06 
+2.06 
+PMGD PVF DOÑA RUBENA 
+2.994 
+1.4 
+T2D S/E RUNGUE FT1 
+1.4 
+1.4 
+1.4 
+1.4 
+1.4 
+1.4 
+PMGD PFV EL CARDENAL 
+3 
+0 
+T2D S/E SAN VICENTE DE 
+TAGUA TAGUA BT2 
+Transf. Corriente ID 28419 
+Transf. Corriente ID 11126 
+Transf. Corriente ID 11116 
+0 
+0 
+0 
+0 
+0 
+0 
+PMGD PFV LA GONZALINA DE 
+TUNICHE SUNLIGHT 
+9 
+0.097 
+T2D S/E TUNICHE BT 
+5.817 
+5.817 
+5.817 
+5.817 
+5.817 
+5.817 
+ 

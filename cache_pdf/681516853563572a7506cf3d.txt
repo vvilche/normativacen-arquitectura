@@ -1,0 +1,141 @@
+ 
+ 
+Cerro El Plomo 6000, piso 14 
+Las Condes 
+Santiago, Región Metropolitana 7560623 
+Chile 
+T +56 2 2579 5990 
+F +56 2 2202 6328 
+bhp.com 
+ 
+ 
+ 
+ 
+30 de abril de 2025 
+TAMAK-250430-0021 
+ 
+ 
+Sr. Rodrigo Espinoza 
+Gerente de Operación  
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+ 
+ 
+ 
+Ref: Carta DE002344-25 del 17 de abril de 2025  
+ 
+ 
+De nuestra consideración,  
+ 
+Junto con saludar, y por medio de este documento daremos respuesta a lo solicitado en la carta DE002344-
+25. 
+ 
+Sin perjuicio de lo anterior, antes de dar paso a la respuesta es preciso señalar que existe un error en el EAF-
+089-2025 emitido por el Coordinador el día 18 de marzo de 2025. En particular en el punto 9, en lo que se 
+refiere al desempeño de las turbinas a gas de la Central Kelar en su cualidad de “Partida Autónoma”, se 
+señalan dos aspectos relevantes: 
+ 
+• 
+Página 353: “En relación con el proceso de verificación de las Partidas Autónomas, podemos señalar 
+que avanzaron en algún grado (incluyendo la realización de pruebas)” y se indica en una tabla un 
+grupo de 26 unidades generadoras, sin mencionar las unidades de la Central Kelar. 
+• 
+Página 354: “Considerando lo anterior, se presenta a continuación el desempeño de estas unidades 
+durante el proceso de recuperación de servicio:” se presenta una calificación individual para un 
+conjunto de 38 unidades generadoras, utilizando calificación de Correcta, Incorrecta o Deficiente, que 
+en particular para las unidades de la Central Kelar (TG1 y TG2) se establece como “Deficiente” para 
+ambas turbinas. 
+ 
+Al respecto, entendemos que el Coordinador tomó los tiempos de partida autónoma desde el Informe 
+denominado “Determinación de Parámetros de Partida y Detención” y desde ahí que los tiempos considerados 
+en la hoja denominada “Partida Autónoma” del Anexo F “Plan de Recuperación de Servicio” del Informe de 
+SSCC sean de 35 y 29 minutos si usa Gas Natural o Diésel respectivamente.  
+ 
+Sin embargo, los tiempos señalados anteriormente no corresponden a los tiempos de recuperación de la 
+Central Kelar tras un apagón, debido a que luego de ocurrida esta situación extraordinaria de pérdida de 
+energía en la Central Kelar es necesario realizar una serie de maniobras y normalización de equipamiento 
+que toma un periodo considerable, de manera que no es factible comparar una partida tras un apagón 
+(circunstancias extraordinarias) con una partida de una turbina en la operación normal. 
+ 
+
+ 
+ 
+Así, el día 23 de abril de 2024, mi representada envío la carta TMKYA-20240423-027 (registrada en el sistema 
+de correspondencia del Coordinador como DE02660-24), en la que se hacía entrega del documento 
+denominado “A 1028 - Verificación de SSCC - CC Kelar - Informe de ensayos de verificación de SSCC 
+PA_v1.pdf” (Anexo 2). En ella un consultor experto independiente (GME-Grupo Mercados Energéticos) 
+verificó el Servicio Complementario de “Partida Autónoma” de las turbinas de la Central Kelar, conforme a la 
+guía técnica que el Coordinador diseñó. En el referido informe se establece que el proceso de partida 
+autónoma de la TG1 o TG2 de Central Kelar toma en total un tiempo de 3:07:52 (tres horas, siete minutos 
+y cincuenta y dos segundos, equivalentes a 180,13 minutos) para completar la Partida Autónoma desde 
+verificada la pérdida total de energía hasta que opera de manera estable restableciendo la energía a la S/E 
+Kelar (Ver Tabla 11 del informe de GME). 
+ 
+Por lo expuesto anteriormente, se debe realizar una corrección al EAF-089-2025, el Estudio para PRS y el 
+Informe de SSCC en su Anexo F y considerar que el tiempo de partida autónoma es de 180,13 minutos. 
+ 
+Dando respuesta a la carta de la Ref. en su literal a), se adjunta en el Anexo 1 el documento denominado 
+“Info_respuesta_Carta_DE_02344-25_V1.pdf”, en el cual se describe las principales acciones llevadas a cabo 
+por el personal de la Central Kelar el día 25 y 26 de febrero de 2025, con motivo de las acciones relativas a 
+la partida autónoma de nuestra central para las componentes TG1 y TG2 de la Central Kelar. 
+ 
+Considerando los arranques efectuados en la aplicación del PRS, se tiene en resumen lo siguiente: 
+ 
+Orden de Partida 
+[hh:mm] 
+Energización Barra 
+[hh:mm] 
+Unidad 
+[-] 
+Tiempo Efectivo 
+[min] 
+Tiempo tomando 
+ [relativo a 180,13 min] 
+15:37 
+19:22 
+TG1 
+225 
+38 min de atraso 
+21:45 
+00:40 
+TG2 
+175 
+12 min antes 
+   
+De esta manera, de lo expuesto en detalle en el Anexo 1, se puede establecer que el proceso de partida, 
+tanto para la TG1 como para la TG2, se desarrollaron sin inconvenientes o fallos internos, y la diferencia de 
+tiempos obedece a la variabilidad propia de ejecutar maniobras e iniciar procesos de equipos que no 
+tienen tiempos exactos para su completitud y por lo tanto es esperable, normal y razonable que puedan 
+tomar más tiempo como fue para la TG1 o menos tiempo como fue para la TG2, si se comparan con el tiempo 
+medido por el experto técnico de GME en 2024.   
+ 
+En cuanto a lo solicitado en el literal b) de la carta de Ref., se considera que los tiempos en los cuales se 
+desarrollaron las diversas acciones y maniobras internas dentro de la Central Kelar no requieren aplicar 
+acciones correctivas a sus procesos. No obstante, lo anterior, la Central Kelar realizará un repaso a la 
+aplicación de los procedimientos, como una medida de mantener actualizado el entrenamiento del personal.   
+ 
+Informaremos oportunamente las fechas en las cuales se realizarán los ensayos por el experto técnico 
+independiente dentro del plazo solicitado en la carta de la Ref., una vez que se hayan determinado 
+específicamente las gestiones y se hayan planificado las actividades. 
+ 
+ 
+Sin otro particular se despide atentamente,  
+  
+ 
+ 
+ 
+ 
+Felipe Toledo M. 
+Encargado Suplente 
+Tamakaya Energía SpA 
+ 
+ 
+Digitally signed by Toledo, Felipe
+DN: cn=Toledo, Felipe, o=BHP 
+Billiton Group Operations Pty Ltd, 
+ou=MULTI-ALLOWED
+Date: 2025.04.30 20:05:10 -04'00'
+Toledo, 
+Felipe

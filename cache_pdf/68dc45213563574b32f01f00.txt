@@ -1,0 +1,462 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 30 de septiembre de 2025 
+DE 06126-25 
+Señor 
+Tomás Ávila 
+Encargado Titular 
+BESS del Desierto SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario 
+de 
+Frecuencia, 
+Control 
+Terciario 
+de 
+Frecuencia y Control Secundario de Frecuencia e 
+integración al Despacho Económico del BESS del 
+Desierto. 
+Responde a Ingreso DE05988-25. 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los SSCC de Control Primario de 
+Frecuencia (CPF), Control Terciario de Frecuencia (CTF) y Control Secundario de 
+Frecuencia (CSF) e integración al módulo de Despacho Económico del BESS del Desierto, 
+considerando sus modos de operación de carga y descarga del BESS. 
+ 
+Como resultado de este proceso, la instalación mencionada queda habilitada para la 
+prestación de los mencionados servicios a partir de las 00:00 del 02 de octubre de 2025 
+considerando los recursos indicados en el anexo a la presente carta. 
+Con respecto al CSF, para efectos de elaborar el correspondiente Informe Técnico de 
+Verificación según lo establecido en la Guía de Verificación de Control de Frecuencia, le 
+solicito envíe a la dirección electrónica dmap@coordinador.cl, a más tardar el próximo 30 
+de octubre de 2025, la siguiente información asociada al parque: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF, CSF y CTF del BESS del Desierto se han publicado en la siguiente 
+ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia: 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+1. > Control Primario de Frecuencia > BESS del Desierto 
+2. > Control Secundario de Frecuencia > BESS del Desierto 
+3. > Control Terciario de Frecuencia > BESS del Desierto 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2].  Pese a no contar 
+con las señales necesarias para evaluar el desempeño en la prestación, BESS Del 
+Desierto quedará habilitada para prestar el Servicio Complementario (SC) de 
+Control Primario de Frecuencia (CPF), pudiendo ser instruida por este Coordinador 
+para prestar dicho servicio. En dicho caso, la evaluación de estás instrucciones será 
+“No Verificable”. 
+• 
+Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, para la evaluación de desempeño se podrán utilizar 
+medios alternativos para poder realizar la evaluación de desempeño de la prestación 
+del SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, BESS Del Desierto podrá participar de las subastas de Control de Frecuencia, 
+una vez que complete el proceso de solicitud de incorporación a la plataforma de subastas. 
+Para ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, BESS Del Desierto podrá ser instruido de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC.  
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+DIR/WJS/adr 
+c.c.: Sr. Javier Moraga – Encargado Suplente BESS del Desierto SpA. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Referencias: 
+ 
+[1] Carta ATL-BDD-IC-014, Ref.: “Entrega informes y anexos VDM, CPF y CTF BESS del 
+Desierto NUP 4476”, de fecha 19 de junio de 2025. Ingreso DE05988-25. 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión Definitiva > 
+Instructivos Técnicos > Protocolo de envío de registros Potencia/Frecuencia para la 
+evaluación del CPF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC BESS del Desierto 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) BESS del Desierto (modo descarga) 
+• 
+Potencia máxima bruta: 198,84 MW 
+• 
+Potencia máxima neta: 192,33 MW  
+• 
+Potencia mínima bruta: 2,71 MW  
+• 
+Potencia mínima neta: 1,267 MW 
+b) BESS del Desierto (modo carga) 
+• 
+Potencia máxima bruta: -194,27 MW 
+• 
+Potencia máxima neta: -199,68 MW 
+• 
+Potencia mínima bruta: -2,32 MW 
+• 
+Potencia mínima neta: -3,84 MW  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Secundario de 
+Frecuencia 
+Control Secundario de Frecuencia por 
+Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia por 
+Sobrefrecuencia (CSF-) 
+Control Terciario de 
+Frecuencia  
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+BESS del Desierto corresponde a una instalación Stand Alone y posee autorización 
+para cargarse desde la red. 
+a) Control Primario de Frecuencia: 
+• 
+Instalación con rango de ajuste de estatismo del 2% al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados con la unidad por el operador 
+con la unidad en servicio. 
+• 
+Estatismo (R) actual se encuentra ajustado al 5%, respecto a una potencia base 
+igual a su potencia máxima neta.  
+b) Control Secundario de Frecuencia: 
+Sin condiciones específicas para el SC mencionado. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+c) Control Terciario de Frecuencia: 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado BESS del Desierto 
+SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Control Primario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+ 
+Modo descarga 
+Modo carga 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2-8% 
+Estatismo 
+5,00% 
+Rango de ajuste Banda muerta [mHz] 
+25-200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] 
+198,840(2) 
+-2,320(3) 
+Límite de regulación inferior [MW] 
+2,710(3) 
+-194,270(2) 
+Aportes (4) 
+ BM = 25 [mHz]  
+R = 5% 
+10 
+segundos 
+Aporte +0,2[Hz] [MW] 
+-13,380 
+-13,930 
+Aporte -0,2[Hz] [MW] 
+13,370 
+14,270 
+Aporte +0,7[Hz] [MW] 
+-52,190 
+-53,660 
+Aporte -0,7[Hz] [MW] 
+51,900 
+53,430 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-13,660 
+-14,020 
+Aporte -0,2[Hz] [MW] 
+13,490 
+14,010 
+Aporte +0,7[Hz] [MW] 
+-52,700 
+-54,090 
+Aporte -0,7[Hz] [MW] 
+52,400 
+53,720 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia Máxima bruta en proceso de aprobación por el Coordinador para los modos de carga y 
+descarga del BESS. 
+(3) Correspondiente a la Potencia Mínima bruta en proceso de aprobación por el Coordinador para los modos de carga y 
+descarga del BESS. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 54,8 MW. Sin perjuicio de lo anterior, 
+la respuesta del BESS es homogénea en todo su rango de operación. 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+b) Control Secundario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Tecnología 
+Parámetro 
+Valor determinado 
+Modo 
+descarga 
+Modo 
+carga 
+BESS Del 
+Desierto 
+Baterías 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+20 
+20 
+Bajada 
+20 
+20 
+Aporte CSF [MW] (1) 
+Subida 
+100 
+100 
+Bajada 
+-100 
+-100 
+Límite de regulación superior [MW] (1) 
+192,33 
+-5 
+Límite de regulación inferior [MW] (1) 
+5 
+-199,68 
+(1) Los límites de regulación y el aporte máximo de CSF correspondientes a la potencia neta podrán verse modificados si 
+se actualizan los parámetros operacionales del BESS Del Desierto. 
+(2) Para efectos de operar en el CSF con una rampa lineal, se definieron los rangos para el modo de operación de 
+descarga, desde 5 MW hasta la Pmax de descarga, y para el modo de operación de carga, desde -5 MW hasta la Pmax 
+de carga. 
+c) Control Terciario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- 
+Instalación 
+Tecnología 
+Parámetro 
+Valor determinado 
+Modo 
+descarga 
+Modo 
+carga 
+BESS Del 
+Desierto 
+Baterías 
+Tasa normal de 
+operación [MW/min] 
+Subida 
+40 
+40 
+Bajada 
+-40 
+-40 
+Tasa máxima de 
+operación [MW/min] (1) 
+Subida 
+Sin 
+limitación 
+Sin 
+limitación 
+Bajada 
+Sin 
+limitación 
+Sin 
+limitación 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5,00 
+<5,00 
+Bajada 
+<5,00 
+<5,00 
+Aporte CTF [MW] (2) 
+Subida 
+191,064 
+195,84 
+Bajada 
+-191,064 
+-195,84 
+Límite de regulación superior [MW] 
+(2)(3) 
+198,84 
+-2,32 
+Límite de regulación inferior [MW] (2)(3) 
+2,71 
+-194,28 
+(1) Tasa de subida y bajada de carga máxima no tiene limitaciones respecto al valor ajustado. 
+(2) La reserva se determina como la diferencia entre las potencias netas máxima y mínima de la instalación para los modos 
+de descarga y carga. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+(3) Los límites de regulación, correspondientes a la potencia bruta, y el aporte máximo de CTF podrán verse modificados 
+si se actualizan los parámetros operacionales del BESS del Desierto. 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Instalación 
+Tecnología 
+Parámetro 
+Modo descarga 
+BESS Del Desierto 
+Baterías 
+Tiempo hasta sincronización [min] 
+0,000 
+Tiempo hasta mínimo técnico [min]  
+0,167 
+Reserva Fría [MW]  
+192,330 
+ 
+ 
+ 
+ 

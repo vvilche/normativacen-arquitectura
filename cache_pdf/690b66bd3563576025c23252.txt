@@ -1,0 +1,128 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+Santiago, 05 de noviembre de 2025 
+DE 07122-25 
+Señora 
+María José Reveco A. 
+Encargada Titular 
+Transelec S.A. 
+Presente 
+Ref.: Resultado de Ensayos de Verificación de 
+Servicios Complementarios – Control de Tensión (CT) 
+de STATCOM S/E Entre Ríos. 
+[1] Carta OR-000224-2025 de Transelec S.A., Ref.: 
+“Observaciones a Informe Técnico de verificación de 
+Servicios complementarios – Control de tensión por 
+proyecto NUP 3885 Nuevo equipo de compensación 
+reactiva 
+en 
+S/E 
+Entre 
+Ríos 
+(STATCOM 
+AT) 
+(OA_D185)”, de fecha 20 de octubre de 2025. 
+Responde Ingreso DE10730-25 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión el informe técnico de 
+verificación de Servicios Complementarios (SSCC) enviado por su representada mediante la 
+carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 4-16 
+de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el proceso de 
+Verificación de Servicios Complementarios de Control de Tensión (CT) del STATCOM S/E 
+Entre Ríos, propiedad de Transelec S.A.  
+ 
+Como resultado de este proceso, la instalación indicada queda habilitada para la prestación de 
+dicho servicio, mediante el recurso técnico identificado en el Anexo 1 de la presente carta. 
+El informe técnico que justifica la Verificación de Servicios Complementarios de Control de 
+Tensión (CT) de la instalación ya mencionada se encuentra publicado en el sitio web del 
+Coordinador en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Transmisión > Control de 
+Tensión > Compensadores CER y STATCOM > S/E Entre Ríos 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GZV/CRV/PBA/adr 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+Anexo 1: Resultados Proceso de Verificación de Servicios 
+Complementarios de Control de Tensión (CT) del STATCOM S/E Entre Ríos 
+1. Identificación de Instalaciones Verificadas 
+Sistema de compensación de reactivos STATCOM S/E Entre Ríos paño F1, con una 
+capacidad de inyección/absorción nominal de ±200 [MVAr]. 
+ 
+2. Servicios Complementarios que presta la instalación 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+ 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+• 
+Sin condiciones específicas para el SC mencionado. 
+• 
+El Control de Tensión se realiza en barra 500kV de SE Entre Ríos. 
+• 
+Controlador de Potencia Reactiva de característica integral.  
+ 
+4. La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Transelec S.A. para su 
+instalación asociada a la S/E Entre Ríos. 
+ 
+5. Cuantía del recurso que puede prestar la instalación por Servicio Complementario, 
+categorías y subcategorías. 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión  
+Subcategoría 
+Control de Tensión  
+Modos de Control 
+Control de Potencia Reactiva y 
+Control de Tensión con Estatismo 
+Instalación 
+ Tensión [pu]  
+ 
+Condición 
+Potencia Reactiva Máxima [MVAr] 
+0,95 
+0,97 
+1,00 
+1,03 
+1,05 
+STATCOM Entre Ríos 
+Máxima Absorción 
+-193,80 
+-197,88 
+-204,30 
+-210,12 
+-214,20 
+Máxima Inyección 
+193,80 
+197,88 
+204,00 
+209,10 
+29,40 
+ 

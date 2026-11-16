@@ -1,0 +1,132 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+ 
+Santiago, 30 de octubre de 2025 
+DE 06947-25 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Presente 
+Ref.:  Estudio de Plan de Recuperación de 
+Servicio (PRS), Informe Final 2025. 
+[1] DE03972-25 de fecha 30 de junio de 
+2025, “Estudio de Plan de Recuperación 
+de Servicio, Informe Preliminar 2025” 
+ 
+De mi consideración,  
+ 
+En relación con la materia de la Ref., y como es de su conocimiento, la Norma Técnica de 
+Servicios Complementarios, en su artículo 3-49 del Título 3-9, establece que el Coordinador 
+deberá realizar, al menos con periodicidad anual y con ocasión del Informe de Servicios 
+Complementarios, un Estudio de Plan de Recuperación de Servicio. 
+ 
+Al respecto, comunico a usted que, habiéndose atendido las observaciones remitidas por 
+parte de las Empresas Coordinadas, al informe preliminar comunicado según Ref. [1], el 
+Informe Final del Plan de Recuperación de Servicio (PRS 2025), que rige a contar de la 
+presente comunicación, se encuentra publicada en la página web Coordinador Eléctrico 
+Nacional:  
+ 
+Inicio > Operación > Informes y Estudios > Estudios para la Seguridad y Calidad de 
+Servicio > Plan de Recuperación de Servicio 2025. 
+ 
+Cabe destacar que dicho estudio establece el PRS a ser aplicado en el Sistema Eléctrico 
+Nacional (SEN) por parte del Centro de Despacho y Control (CDC) del Coordinador y los 
+Centros de Control (CC) de los Coordinados, ante la ocurrencia de un evento de Apagón 
+Total o Parcial en el SEN, estableciendo, entre otros aspectos, las funciones, criterios de 
+operación, alternativas de recuperación y responsabilidades. Conforme a lo anterior, el 
+Estudio PRS constituye una instrucción de operación para los Coordinados, quienes deben 
+asegurar su correcta ejecución, de acuerdo con las directrices y requerimientos que se 
+establecen en el mismo estudio.   
+ 
+Como fuera informado en comunicación de la Ref. [1], y luego de atender las observaciones 
+y recomendaciones, recibidas desde los respectivos Coordinados, a la versión homologada 
+y referencial de los Esquemas de Recuperación de Servicio (ERS) emitida por este 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Coordinador, el Informe Final del Estudio PRS 2025 incorpora un Anexo con los ERS 
+validados por los Coordinados mediante sus observaciones, que deberán ser aplicados por 
+estos ante la ocurrencia de un evento de Apagón Parcial o Total en el SEN, conforme a las 
+distintas alternativas de recuperación de servicio definidas en el PRS -dada una instrucción 
+del respectivo Centro de Operación para la Recuperación de Servicio (COR) o CDC, según 
+corresponda, conforme a lo establecido en el Estudio Final del PRS 2025.  
+ 
+Como es de su conocimiento, estos ERS establecen las condiciones necesarias para iniciar 
+la recuperación de servicio, generando una vía expedita en el sistema de transmisión para 
+ingresar con unidades de Partida Autónoma (PA), con el objetivo de energizar instalaciones 
+claves, como entregar energía a los servicios auxiliares de unidades generadoras que no 
+cuentan con PA, junto con habilitar las condiciones requeridas para energizar bloques de 
+cargas críticas definidas en cada área del PRS. 
+ 
+Al respecto, la coordinación de la toma de carga de consumos esenciales depende de 
+maniobras específicas, en algunos casos a nivel del sistema de Transmisión Zonal y en 
+particular aguas abajo de dicho sistema a nivel de Distribución, lo que debe ser gestionado 
+por los respectivos Centros de Control (CC), previa instrucción del COR o CDC, según 
+corresponda. Dichas maniobras deben asegurar que, ante una instrucción de toma de 
+carga, por parte del COR o CDC, el CC del Coordinado cumpla con este requerimiento, sin 
+desviarse del monto específico de consumo establecido (MW). 
+ 
+Para efectos de cumplir con lo anterior, y tal como lo establece el Estudio PRS, es 
+responsabilidad de los Coordinados desarrollar los Planes Particulares de Recuperación de 
+Servicio (PPRS) necesarios para establecer condiciones específicas que puedan necesitar 
+para realizar una efectiva gestión de la toma de carga de consumos esenciales, cumpliendo 
+con los montos instruidos (MW), conforme a las alternativas de recuperación de servicio 
+establecidas en el Informe PRS, los que deben ser enviados al Coordinador, para aprobar 
+los puntos de conexión consistentes con los respectivos ERS vigentes. 
+ 
+En caso de que su representada, no requiera el desarrollo de un PPRS, para cumplir con 
+las instrucciones de recuperación de servicio, conforme a las distintas alternativas definidas 
+en el PRS 2025, ante un escenario en que se requiera su aplicación, todo el equipamiento 
+de instalaciones que se encuentren aguas abajo de las especificadas en los respectivos 
+ERS vigentes, deben quedar en estado abierto.  
+ 
+Conforme a lo anterior, y habiendo publicado los ERS vigentes en el Informe Final PRS 
+2025, instruyo a Ud. a enviar los respectivos PPRS actualizados, que sean necesarios para 
+una efectiva toma de carga de los consumos esenciales, conforme a las alternativas de 
+recuperación establecidas en dicho estudio, de manera que el Coordinador pueda tomar 
+conocimiento de ellos y autorizar los respectivos puntos de conexión con las instalaciones 
+consideradas en los ERS vigentes. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+La información requerida, deberá ser remitida a este Coordinador a más tardar el viernes 
+28 de noviembre de 2025. 
+ 
+Finalmente, cabe reforzar que es responsabilidad de cada Coordinado mantener 
+actualizados los respectivos ERS y PPRS, cada vez que una instalación de su 
+responsabilidad, o de un tercero, sea modificada o una nueva instalación entre en servicio 
+en el SEN y que afecte la configuración topológica considerada en las alternativas de 
+recuperación.  
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+GO/SGOTR/DCST/adr 
+c.c.: 
+Sr. Mauricio Funes H. Secretario Ejecutivo (S) – CNE 
+Sra. Marta Cabeza V. Superintendenta de Electricidad y Combustibles 
+Señores Encargados Suplentes – Empresas Coordinadas 
+Sr. Patricio Valenzuela V. – Subgerente de Operación en Tiempo Real del Coordinador 
+Archivo DE 
+ 

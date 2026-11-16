@@ -1,0 +1,337 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 22 de diciembre de 2025 
+DE 08163-25 
+Señor 
+Javier Toro C. 
+Encargado Titular 
+Acciona Energía Chile Holdings S.A. 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario de Frecuencia y Control Terciario de 
+Frecuencia de la central PE San Gabriel 
+Responde a Ingresos: DE11185-25 y DE11186-25. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante cartas de las Ref. [1] y [2], comunico a Ud. que, en cumplimiento 
+con lo establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los Servicios Complementarios 
+(SSCC) de Control Primario de Frecuencia (CPF) y Control Terciario de Frecuencia (CTF) 
+de la central PE San Gabriel. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del 24 de diciembre de 2025, 
+considerando los recursos indicados en el anexo a la presente carta.  
+ 
+Al respecto, en el anexo a la presente comunicación se presenta la información indicada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF y CTF de la central PE San Gabriel se encuentran publicados en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia: 
+ 
+1. > Control Primario de Frecuencia > Central PE San Gabriel 
+2. > Control Terciario de Frecuencia > Central PE San Gabriel 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar los equipos necesarios para medir el desempeño de la prestación del SC de 
+CPF, que en este caso corresponden a un medidor potencia/frecuencia con 
+resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [3], siendo el plazo 
+para esta acción el de 30 días corridos contados a partir de la fecha de emisión de 
+la presente carta. Pese a no contar con las señales necesarias para evaluar el 
+desempeño en la prestación, la central PE San Gabriel quedará habilitada para 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+prestar el Servicio Complementario (SC) de Control Primario de Frecuencia (CPF), 
+pudiendo ser instruida por este Coordinador para prestar dicho servicio. En dicho 
+caso, la evaluación de estás instrucciones será “No Verificable”. 
+• 
+Considerando lo anterior, en base a los artículos 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional, para la evaluación de desempeño se podrán utilizar medios 
+alternativos para poder realizar la evaluación de desempeño de la prestación del 
+SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, la central mencionada podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/WJS/adr 
+cc: Sr. Luis Lorca – Encargado Suplente Acciona Energía Chile Holdings S.A. 
+Referencias: 
+[1] Carta ACC.ECH.200.25 de Acciona Energía Chile Holdings S.A., Ref.: “Reportes de 
+verificación del CPF de San Gabriel y Tolpán Sur.” de fecha 06 de noviembre de 2025. 
+Ingreso DE11185-25. 
+[2] Carta ACC.ECH.201.25 de Acciona Energía Chile Holdings S.A., Ref.: “Reporte de 
+verificación del CTF de San Gabriel.”, de fecha 06 de noviembre de 2025. Ingreso 
+DE11186-25. 
+[3] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión Definitiva 
+2020.06.01 > Instructivos Técnicos > Protocolo de envío de registros Potencia/Frecuencia 
+para la evaluación del CPF 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PE San Gabriel. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE San Gabriel 
+• 
+Potencia máxima bruta: 183,000 [MW] 
+• 
+Potencia máxima neta: 180,000 [MW] 
+A continuación, se presentan las potencias mínimas considerando un solo aerogenerador 
+en funcionamiento y los restantes en pausa. 
+• 
+Potencia mínima bruta: 0,600 [MW]  
+• 
+Potencia mínima neta: 0,080 [MW]  
+A continuación, se presentan las potencias mínimas considerando la central con todos los 
+aerogeneradores en funcionamiento. 
+• 
+Potencia mínima bruta: 21,000 [MW]  
+• 
+Potencia mínima neta: 20,480 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+El estatismo y banda muerta pueden ser ajustados por el operador desde el sistema 
+SCADA. 
+• 
+El estatismo (R) se encuentra ajustado en 4%. 
+• 
+Dado que el tiempo en alcanzar el aporte esperado considerando el MT con un solo 
+aerogenerador es mayor 10 segundos, se establece como límite inferior de 
+regulación el MT con todos los aerogeneradores en funcionamiento. 
+b) Control Terciario de Frecuencia 
+• 
+El gradiente de carga puede ser modificado por el operador con la central en 
+servicio. Se declara que este ajuste no tiene limitaciones respecto al valor ajustado. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Acciona Energía 
+Chile Holdings S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Control Primario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+Central PE San Gabriel 
+Recuso Primario 
+Eólico 
+ 
+ 
+ 
+ 
+  
+  
+  
+Valor determinado 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2% - 7,69% 
+Estatismo 
+4% 
+Rango de ajuste Banda muerta [mHz] 
+25-200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+183,000 
+Límite de regulación inferior [MW] (3) 
+21,000 
+Aportes (4) 
+BM = 25 [mHz] 
+R = 4% 
+10 segundos 
+Aporte +0,2[Hz] [MW] 
+-15,740 
+Aporte -0,2[Hz] [MW] 
+15,090 
+Aporte +0,7[Hz] [MW] 
+-60,090 
+Aporte -0,7[Hz] [MW]  
+57,420 
+5 minutos 
+Aporte +0,2[Hz] [MW] 
+-16,340 
+Aporte -0,2[Hz] [MW] 
+15,960 
+Aporte +0,7[Hz] [MW] 
+-61,720 
+Aporte -0,7[Hz] [MW]  
+61,760 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia máxima bruta aprobada por el Coordinador. 
+(3) Corresponde a la potencia mínima bruta con todos los aerogeneradores en funcionamiento.  
+(4) Aportes para CPF+ y CPF- en ±0,2 [Hz] ±0,7 [Hz] determinados con una consigna de 93 [MW]. El aporte de la central  
+es uniforme en todo su rango de operación. 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+b) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+Central PE 
+San Gabriel 
+Eólico 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+18,300 
+Bajada 
+18,300 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+Sin limitación 
+Bajada 
+Sin limitación 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+Bajada 
+<5 
+Aporte CTF [MW] (2) 
+Subida 
+179,920 
+Bajada 
+-179,920 
+Límite de regulación superior [MW] (3) 
+183,000 
+Límite de regulación inferior [MW] (4) 
+0,600 
+(1) Tasa de subida y bajada de carga máxima no tiene limitaciones respecto al valor ajustado. 
+(2) La reserva se determina como la diferencia entre la potencia máxima neta y la potencia mínima neta de 180 [MW] y 
+0,08 [MW], respectivamente. 
+(3) El límite de regulación superior, correspondiente a la potencia máxima bruta y al aporte máximo de la CTF, podrá verse 
+modificado si se actualizan los parámetros operacionales de la central. 
+(4) El límite de regulación inferior, correspondiente a la potencia bruta mínima con un solo aerogenerador en 
+funcionamiento y el aporte máximo de la CTF, podrá verse modificado si se actualizan los parámetros operacionales 
+de la central. 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+Central  
+PE San Gabriel 
+Eólico 
+Tiempo partida a sincronización [min] 
+4 
+Tiempo sincronización a mínimo técnico [min] 
+2 
+Reserva Fría [MW]  
+164,780 
+ 
+ 

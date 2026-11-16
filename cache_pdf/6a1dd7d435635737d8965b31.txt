@@ -1,0 +1,182 @@
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Santiago, 29 de mayo de 2026 
+EGP 069-26 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+PROCESO DE VERIFICACIÓN DEL SERVICIO COMPLEMENTARIO (SC) DE 
+CONTROL SECUNDARIO DE FRECUENCIA (CSF-AGC) E INCORPORACIÓN A 
+LA HERRAMIENTA DE DESPACHO ECONÓMICO (ED). 
+REF [1]:  
+CARTA DE03429-26 DE FECHA 20 DE MAYO DE 2026 SOBRE EL PROCESO DE 
+VERIFICACIÓN DEL SERVICIO COMPLEMENTARIO (SC) DE CONTROL 
+SECUNDARIO DE FRECUENCIA (CSF-AGC) E INCORPORACIÓN A LA 
+HERRAMIENTA DE DESPACHO ECONÓMICO (ED). SOLICITA CUMPLIR CON 
+LA CALIDAD EXIGIDA EN EL ENVÍO AL SITR DEL COORDINADOR DE LA 
+SEÑAL DE POTENCIA DISPONIBLE PARA PARQUES ERV.  
+ 
+De nuestra consideración, 
+En atención a la comunicación de la REF [1], mediante la cual ese Coordinador solicita 
+informar el estado de avance de la implementación de enlaces, señales y procesos de 
+integración al sistema SITR/AGC, así como el cronograma de ejecución de las actividades 
+asociadas, informamos a usted lo siguiente: 
+ 
+1. Estado general del proceso de implementación. 
+El proceso de integración de las instalaciones de ENEL GREEN POWER CHILE S.A. ha 
+sido abordado mediante una estrategia centralizada, basada en la implementación de una 
+nueva plataforma SCED, cuyo objetivo es permitir la integración consistente y 
+estandarizada de las distintas tecnologías de generación, en particular aquellas 
+correspondientes a ERV. 
+En este contexto, el avance de ejecución presenta un desarrollo progresivo, en línea con la 
+planificación general definida, considerando las complejidades técnicas asociadas a la 
+implementación simultánea de sistemas de control, comunicaciones y validación operativa. 
+ 
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+2. Estado de enlaces y comunicaciones 
+ 
+En relación con el estado de implementación de los enlaces y señales requeridas para la 
+correspondiente integración del sistema SITR/AGC con el Coordinador Eléctrico Nacional, 
+se informa que el avance de ejecución presenta un desarrollo favorable y conforme a la 
+planificación general definida para este proceso. A continuación, se detalla el estado actual 
+de las principales actividades involucradas, así como las condiciones técnicas y operativas 
+que sustentan el progreso alcanzado a la fecha. 
+i. 
+A la fecha, no existen enlaces pendientes de implementación dentro del alcance 
+considerado para esta etapa del proyecto. Lo anterior permite confirmar que la 
+infraestructura base de comunicaciones requerida para avanzar con la integración 
+ya se encuentra disponible, constituyendo un hito relevante para asegurar la 
+continuidad de las actividades técnicas posteriores. 
+ 
+ii. 
+ENEL GREEN POWER CHILE S.A. dispone actualmente de los canales de 
+comunicación correspondientes, debidamente instalados y habilitados, para todos 
+los parques incluidos en el Anexo 1 de su comunicación. En este contexto, se ha 
+considerado la integración de la totalidad de dichas instalaciones mediante la nueva 
+plataforma SCED de ENEL, la cual ya fue presentada formalmente al CEN y se 
+encuentra en una etapa activa de pruebas del canal ICCP. Estas pruebas tienen por 
+objeto verificar la correcta interoperabilidad de las comunicaciones y asegurar que 
+la transmisión de información hacia el Coordinador se realice de manera confiable, 
+estable y conforme a los requisitos técnicos aplicables. 
+ 
+iii. 
+Actualmente nos encontramos en desarrollo de las pruebas del canal ICCP entre la 
+nueva plataforma SCED de ENEL y los sistemas del CEN. Una vez concluidas 
+satisfactoriamente estas validaciones técnicas, se procederá con la integración 
+gradual y coordinada de todos los parques descritos en el Anexo 1 de su 
+comunicación, en conjunto con el Departamento SCADA del CEN. Esta etapa 
+resulta fundamental, ya que permitirá validar en forma integral la calidad de las 
+señales, la consistencia de los datos intercambiados y la robustez general de la 
+solución implementada. 
+ 
+iv. 
+En consecuencia, quedamos a la espera de concluir satisfactoriamente la actividad 
+identificada como iii., de manera de dar continuidad a la siguiente fase del proceso, 
+correspondiente a las pruebas funcionales. Dichas pruebas serán ejecutadas en 
+coordinación con el Departamento SCADA del CEN y permitirán confirmar el 
+comportamiento operativo de la integración, así como la correcta respuesta de las 
+señales y funcionalidades asociadas al esquema AGC/ED. 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+3. Consideraciones técnicas relevantes 
+El desarrollo del proceso ha considerado la coexistencia de distintos factores técnicos que 
+inciden en su ejecución, entre ellos: 
+• 
+La integración de tecnologías ERV que, en algunos casos, requieren adecuaciones 
+en sus sistemas de control (PPC) para habilitar la recepción y seguimiento de 
+consignas de potencia activa desde AGC. 
+• 
+La implementación progresiva de la plataforma SCED como elemento central de 
+coordinación, lo que implica una integración estructural de las señales y 
+funcionalidades de control, en reemplazo de soluciones punto a punto. 
+• 
+La necesidad de asegurar la consistencia entre los sistemas de control de planta, 
+las plataformas de supervisión y las herramientas de despacho económico del 
+Coordinador. 
+En este contexto, la estrategia adoptada ha sido priorizar una solución integral y escalable 
+que permita asegurar cumplimiento técnico a nivel de portafolio, resguardando la 
+confiabilidad y calidad de la integración. 
+ 
+4. Cronograma de ejecución 
+Respecto de los plazos definidos, se informa que las actividades asociadas al punto i 
+(enlaces no implementados) ya han sido completadas. En consecuencia, el cronograma 
+adjunto considera el desarrollo de las actividades correspondientes al punto ii (enlaces no 
+implementados) y las etapas posteriores. Cabe señalar que, durante la ejecución, se 
+presentaron observaciones asociadas a la configuración del canal de comunicaciones hacia 
+el sitio ENEA, específicamente por una asignación incorrecta de direcciones IP. Esta 
+situación ya fue corregida y subsanada, permitiendo retomar la secuencia planificada de 
+trabajo y proyectar la continuidad de la actividad iii (pruebas punto a punto) conforme a las 
+fechas indicadas a continuación: 
+ 
+ITEM 
+NOMBRE DE LA TAREA 
+FECHA DE 
+INICIO 
+FECHA DE 
+TÉRMINO 
+ii. 
+Enlaces implementados 
+01-02-26 
+20-06-26 
+iii. 
+Pruebas punto a punto con el 
+CEN 
+01-06-26 
+30-06-26 
+iv. 
+Pruebas funcionales AGC/ED 
+08-06-26 
+30-11-26 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+En este momento, continuamos ejecutando las pruebas correspondientes y trabajando de 
+manera coordinada con el Departamento SCADA del CEN, con el propósito de cumplir 
+cabalmente con el cronograma antes señalado. El objetivo de esta labor conjunta es 
+asegurar que cada etapa de validación técnica se complete en forma satisfactoria, 
+resguardando tanto la confiabilidad de las comunicaciones como la adecuada integración 
+de las señales requeridas. De esta manera, se busca avanzar de forma ordenada y 
+consistente hacia la puesta en operación de la solución, manteniendo alineamiento con los 
+requerimientos del Coordinador y con los estándares técnicos definidos para el proyecto. 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación, le saluda 
+atentamente, 
+ 
+ 
+ 
+ 
+ 
+____________________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN 
+ENEL GREEN POWER CHILE S.A. 

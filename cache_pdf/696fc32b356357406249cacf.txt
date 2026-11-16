@@ -1,0 +1,255 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl
+Santiago, 20 de enero de 2026 
+DE 00377-26 
+Señor 
+Sebastián Ruiz-Tagle 
+Encargado Titular 
+Colbún S.A 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control 
+Primario de Frecuencia de las unidades 1 y 2 
+de central HE Colbún. 
+Responde 
+a 
+Ingresos: 
+DE12281-25 
+y 
+DE00195-26. 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de las Ref. [1] y [2], comunico a Ud. que en cumplimiento con 
+lo establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación del SC de Control Primario de 
+Frecuencia (CPF) de las unidades 1 y 2 de central HE Colbún. 
+Como resultado de este proceso, las unidades mencionadas quedan formalizadas para la 
+prestación de los mencionados servicios complementarios a partir de las 00:00 del 22 de 
+enero de 2026 considerando los recursos indicados en el anexo de la presente carta. 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+prestación del CPF de las unidades de central HE Colbún se han publicado en la siguiente 
+ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación: 
+> Control de Frecuencia > Control Primario de Frecuencia > Central HE Colbún
+Finalmente, las unidades mencionadas de central HE Colbún podrán participar de las 
+subastas de Control de Frecuencia, una vez que se complete el proceso de solicitud de 
+incorporación a la plataforma de subastas. Para ello, su representada deberá presentar los 
+antecedentes indicados en las Bases Administrativas de Subastas para Control de 
+Frecuencia, que se encuentran publicadas en la siguiente ruta de la página web del 
+Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Sin perjuicio de lo anterior, las unidades 1 y 2 de central HE Colbún podrán ser instruidas 
+de manera directa por el Coordinador Eléctrico Nacional en la prestación del mencionado 
+SC.  
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/WJS/adr 
+c.c.:  
+Sr. Rafael Zamorano – Encargado Suplente Colbún S.A. 
+ 
+Referencias: 
+ 
+[1] Carta GO N°289/2025, Ref.: “Respuesta Observaciones a Informes Técnicos de 
+Verificación de Control a Primario de Frecuencia de las unidades 1 y 2 de central HE 
+Colbún”, de fecha 10 de diciembre de 2025. Ingreso: DE12281-25. 
+ 
+[2] Carta GO N°006/2026, Ref.: “Carta GO N°006 2026 - Envía informe técnico de 
+verificación de Control de Primario de la Unidad N°1 de la central hidroeléctrica Colbún.”, 
+de fecha 08 de enero de 2026. Ingreso: DE00195-26. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC HE Colbún 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) HE Colbún U1 
+• 
+Potencia máxima bruta: 231,2 MW 
+• 
+Potencia mínima bruta: 100 MW  
+b) HE Colbún U2 
+• 
+Potencia máxima bruta: 232 MW 
+• 
+Potencia mínima bruta: 100 MW  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Instalación con rango de ajuste de estatismo del 0% al 10%. 
+• 
+El estatismo puede ser ajustado por el operador de la central. 
+• 
+La banda muerta no puede ser ajustada y está configurada permanentemente en 25 
+mHz. 
+• 
+Estatismo (R) actual se encuentra ajustado al 4%, respecto a una potencia base 
+igual a su potencia bruta de turbina de 250 [MW].  
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Colbún S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tabla en página siguiente. 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+a) Control Primario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+Central HE Colbún 
+Recurso Primario 
+Hidráulica 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+ 
+U1 
+U2 
+Características del 
+Controlador de Frecuencia 
+Rango de ajuste Estatismo 
+0 a 10% 
+0 a 10% 
+Estatismo 
+4,00% 
+4,00% 
+Rango de ajuste Banda muerta [mHz] 
+25 
+25 
+Banda muerta [mHz] 
+25 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+<1 
+Límite de regulación superior [MW] (1) 
+231,2 
+232 
+Límite de regulación inferior [MW] (2) 
+100 
+100 
+Aportes (5) 
+ BM = 25 [mHz]  
+R = 4% 
+10 segundos 
+Aporte +0,2[Hz] [MW] (3) 
+-7,35 
+-6,76 
+Aporte -0,2[Hz] [MW] (3) 
+8,34 
+6,8 
+Aporte +0,7[Hz] [MW] (4) 
+-24,24 
+-21,33 
+Aporte -0,7[Hz] [MW] (4) 
+26,1 
+28,1 
+5 minutos 
+Aporte +0,2[Hz] [MW] (3) 
+-21,6 
+-21,23 
+Aporte -0,2[Hz] [MW] (3) 
+22,1 
+21,77 
+Aporte +0,7[Hz] [MW] (4) 
+-82,5 
+-84,06 
+Aporte -0,7[Hz] [MW] (4) 
+83,5 
+84,09 
+(1) Correspondiente a la Potencia Máxima bruta aprobada por el Coordinador. 
+(2) Correspondiente al Mínimo Técnico bruto aprobado por el Coordinador. 
+(3) Los aportes correspondientes a CPF+ y CPF− en ±0,2 Hz fueron determinados considerando consignas de 179,13 
+[MW]. 
+(4) Los aportes correspondientes a CPF+ y CPF− en +0,7 Hz y -0,7 Hz fueron determinados considerando consignas de 
+187,5 [MW] Y 143,7 [MW] respectivamente. 
+(5) Sin perjuicio de los aportes para las consignas de carga ensayadas, la respuesta de la central es homogénea en todo 
+su rango de operación 
+ 
+ 

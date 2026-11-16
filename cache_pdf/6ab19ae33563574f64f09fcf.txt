@@ -1,0 +1,30 @@
+ 
+Requínoa, 21 de septiembre de 2026 
+ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+Ref.: Solicita antecedentes técnicos 
+de los relés con función de gradiente 
+de frecuencia (ROCOF) asociados a 
+esquemas EDAC y EDAG, carta DE 
+05854-26. 
+ 
+ 
+En relación con la carta DE 05854-26, de fecha 02 de septiembre de 2026, mediante la cual se 
+solicitan antecedentes técnicos de cada relé que participe en un EDAC mediante una función 
+de gradiente de frecuencia, se adjunta el documento técnico que respalda las respuestas 
+entregadas en “Anexo 2 Planilla Relés ROCOF” de la plataforma “Conecta Coordinador”, 
+correspondientes al número de requerimiento 1000095. 
+Quedamos a su disposición para cualquier información o aclaración adicional que requiera. 
+ 
+Saluda atentamente a usted, 
+ 
+ 
+Marcos Orellana Núñez 
+Encargado Suplente 
+Minera Valle Central 

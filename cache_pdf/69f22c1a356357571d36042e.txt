@@ -1,0 +1,487 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 29 de abril de 2026 
+DE 02874-26 
+Señor 
+Carlos De la Fuente 
+Encargado Titular 
+Aela Generación S.A. 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación de los 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Terciario de Frecuencia y Control de Tensión de las 
+unidades HP Licán U1 y U2. 
+ 
+[1] Carta AEL026C-26 de Aela Generación S.A., Ref.: 
+“Responde a DE01639: Nuevos Informes de SSCC HP 
+Licán”, de fecha 30 de marzo de 2026. 
+Responde a Ingreso DE03111-26 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los Servicios Complementarios 
+(SSCC) de Control Terciario de Frecuencia (CTF) y Control de Tensión de las unidades U1 
+y U2 de central HP Licán. 
+ 
+Como resultado de este proceso, las unidades mencionadas quedan habilitadas para la 
+prestación de los mencionados servicios complementarios a partir de las 00:00 del 30 de 
+abril de 2026, considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF y CTF de las unidades 1 y 2 de central HP Licán se encuentran 
+publicados en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación: 
+1. > Control de Tensión > Central HP Licán 
+2. > Control Terciario de Frecuencia > Central HP Licán 
+ 
+Finalmente, la central mencionada podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+ 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC, a partir de la 
+fecha antes señalada. 
+ 
+En el caso de que su representada tenga alguna consulta sobre el procedimiento de 
+Subastas para Control de Frecuencia, deberá dirigirlas al correo electrónico 
+programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+DIR/PGR/ycl 
+c.c.: 
+Sr. Nicolás Correa – Encargado Suplente Aela Generación S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central HP Licán 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central HP Licán 
+A continuación, se presentan los parámetros operacionales de central HP Licán. A la fecha 
+de emisión de la presente carta de verificación de SSCC, los valores de potencia mínima 
+se encuentran aceptados por el Coordinador Eléctrico, mientras que los valores de 
+potencia máxima se encuentran en proceso de aceptación por parte de éste. 
+• 
+Unidad 1: 
+- 
+Potencia máxima bruta: 9,0 [MW] 
+- 
+Potencia máxima neta: 8,97 [MW] 
+- 
+Potencia mínima bruta: 2,88 [MW] 
+- 
+Potencia mínima neta: 2,02 [MW] 
+• 
+Unidad 2: 
+- 
+Potencia máxima bruta: 9,0 [MW] 
+- 
+Potencia máxima neta: 8,97 [MW] 
+- 
+Potencia mínima bruta: 2,88 [MW] 
+- 
+Potencia mínima neta: 2,02 [MW] 
+• 
+Central Completa 
+- 
+Potencia máxima bruta: 18 [MW] 
+- 
+Potencia máxima neta: 17,955 [MW] 
+- 
+Potencia mínima bruta: 2,88 [MW] 
+- 
+Potencia mínima neta: 2,02 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión (CT) 
+Control de Tensión 
+(CT) 
+Control de Tensión (CT) 
+Control de Frecuencia (CF)  
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+• El gradiente de carga no puede ser modificado por el operador de la central, solo por 
+el especialista externo del regulador de velocidad. Con un rango de ajuste de 2,49 a 
+8,466 MW/min para ambas unidades. 
+• El tiempo de activación de CTF depende del tiempo que se demora el operador en 
+consignar el nuevo valor de referencia de potencia, debiendo activarse en menos de 
+5 min de acuerdo con las definiciones del SC.  
+b) Control de Tensión 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Aela Generación S.A. 
+5. Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la 
+instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+Central 
+Completa 
+(4) 
+Central HP 
+Licán 
+Hidráulica 
+de Pasada 
+Tasa normal de 
+operación [MW/min] 
+Subida 
+4,98 
+4,98 
+9,96 
+Bajada 
+4,98 
+4,98 
+9,96 
+Tasa máxima de 
+operación [MW/min] 
+(1) 
+Subida 
+8,46 
+8,46 
+16,92 
+Bajada 
+8,46 
+8,46 
+16,92 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+<5 
+<5 
+Bajada 
+<5 
+<5 
+<5 
+Aporte CTF [MW] (2) 
+Subida 
+6,957 
+6,957 
+13,915 
+Bajada 
+-6,957 
+-6,957 
+-13,915 
+Límite de regulación superior 
+[MW] (3) 
+9,0 
+9,0 
+18 
+Límite de regulación inferior [MW] 
+(3) 
+2,88 
+2,88 
+5,76 
+(1) Tasa de subida y bajada de carga máxima correspondiente al límite de toma de carga de las unidades.  
+(2) La reserva se determina como la diferencia entre la potencia máxima neta y la potencia mínima neta de 8,9775 [MW] y 
+2,020 [MW], respectivamente. 
+(3) Los límites de regulación, correspondientes a la potencia bruta, y el aporte máximo de CTF podrán verse modificados si 
+se actualizan los parámetros operacionales de la central. 
+(4) Considerando el aporte conjunto de la central, los valores de CTF en giro se obtienen mediante extrapolación de los 
+valores informados a nivel de cada unidad. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+ 
+Central HP 
+Licán 
+Hidráulica de 
+Pasada 
+Tiempo partida a 
+sincronización [min] 
+3,17 
+ 
+Tiempo sincronización 
+hasta mínimo técnico [min] 
+3,72 
+ 
+Reserva Fría [MW] 
+17,955 
+ 
+ 
+b) Control de Tensión – U1 
+ 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de Tensión 
+Instalación 
+Recurso 
+Primario 
+             Tensión [pu] 
+ 
+Potencia [MW] 
+Potencia Reactiva [MVAr]  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+Central HP 
+Licán Unidad 
+1 
+Hidráulica 
+de Pasada 
+3,2 
+2,3 
+2,3 
+2,3 
+2,3 
+2,3 
+4,5 
+3,3 
+3,3 
+3,3 
+3,3 
+3,3 
+6,0 
+4,4 
+4,4 
+4,4 
+4,4 
+4,4 
+8,6 
+2,8 
+4,2 
+4,8 
+5,0 
+5,3 
+8,6 
+-2,6 
+-3,0 
+-3,4 
+-3,8 
+-4,2 
+6,0 
+-2,8 
+-3,2 
+-3,6 
+-4,0 
+-4,4 
+4,5 
+-3,0 
+-3,3 
+-3,7 
+-4,1 
+-4,5 
+3,2 
+-3,1 
+-3,4 
+-3,8 
+-4,2 
+-4,6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+c) Control de Tensión – U2 
+ 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de Tensión 
+Instalación 
+Recurso 
+Primario 
+             Tensión [pu] 
+ 
+Potencia [MW] 
+Potencia Reactiva [MVAr]  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+Central HP 
+Licán Unidad 
+2 
+Hidráulica 
+de Pasada 
+3,2 
+2,3 
+2,3 
+2,3 
+2,3 
+2,3 
+4,5 
+3,3 
+3,3 
+3,3 
+3,3 
+3,3 
+6,0 
+4,4 
+4,4 
+4,4 
+4,4 
+4,4 
+8,6 
+2,8 
+4,2 
+4,8 
+5,0 
+5,3 
+8,6 
+-2,6 
+-3,0 
+-3,4 
+-3,8 
+-4,2 
+6,0 
+-2,8 
+-3,2 
+-3,6 
+-4,0 
+-4,4 
+4,5 
+-3,0 
+-3,3 
+-3,7 
+-4,1 
+-4,5 
+3,2 
+-3,1 
+-3,4 
+-3,8 
+-4,2 
+-4,6 
+ 
+ 
+ 

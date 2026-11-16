@@ -1,0 +1,255 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 22 de diciembre de 2025 
+DE 08186-25 
+Señora 
+Carolina Hernández D. 
+Encargada Titular 
+Tamakaya Energía SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del SC 
+de Partida Autónoma (PA) de las unidades CC1-
+TG1 y CC1-TG2 de Central TER Kelar. 
+[1] Carta TAMAK-251010-0052 del coordinado 
+Tamakaya 
+Energía 
+SpA, 
+Ref.: 
+“Responde 
+observaciones a informe de Verificación de Partida 
+Autónoma de central Kelar”, de fecha 10 de octubre 
+de 2025. 
+Responde a ingreso DE10403-25 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT SSCC), ha finalizado 
+el proceso de verificación del Servicio Complementario (SC) de Partida Autónoma (PA) de 
+las unidades TER Kelar CC1-TG1 y TER Kelar CC1-TG2. Como resultado de este proceso, 
+las unidades mencionadas quedan habilitadas para la prestación del mencionado servicio 
+considerando los recursos indicados en el anexo a la presente carta. 
+ 
+El informe técnico que justifica la verificación de la capacidad de la prestación del SC de 
+PA de las unidades mencionadas, ha sido publicado en la siguiente ruta de la página web 
+del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Plan de 
+Recuperación de Servicio > Partida Autónoma > Central TER Kelar 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+c.c.: 
+ 
+Encargados empresas coordinadas  
+Felipe Toledo M. – Encargado Suplente Tamakaya Energía SpA. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación del SC de Partida Autónoma 
+de las unidades CC1-TG1 y CC1-TG2 de Central TER Kelar 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Kelar 
+• 
+Unidades CC1-TG1 y CC1-TG2 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Plan de Recuperación de Servicio 
+(PRS) 
+Partida Autónoma (PA) 
+Partida Autónoma (PA) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario: 
+a) No existen condiciones particulares de control en las unidades o en el sistema de 
+transmisión circundante requeridas para iniciar la PA. 
+b) Las unidades CC1-TG1 y CC1-TG2 de Central TER Kelar no parten en forma 
+simultánea, dado que los generadores de partida tienen la capacidad de arranque 
+solo para una unidad. La segunda unidad podrá partir de ser requerida, una vez 
+finalizada la partida de la primera unidad, conforme a los tiempos aceptados de 
+sus parámetros de partida y detención.  
+c) No existe diferencia de ajustes para la realización de control de tensión (CT) 
+cuando las unidades se encuentran aisladas o conectadas al sistema. El regulador 
+de tensión controla la tensión en bornes de la unidad correspondiente, en función 
+del set point asignado, siendo el ajuste del AVR el mismo en ambas condiciones 
+operativas. 
+En el caso del control de frecuencia (CF), en el modo isócrono la unidad pasa al 
+modo de “Speed Control”, en el cual se encarga de controlar la frecuencia en 50 
+Hz y de actuar como unidad piloto en la isla armada de su área de control. El modo 
+se inicia en forma manual. La reconexión a la red desde el modo en isla se realiza 
+a través de una selección en el sistema DCS (sistema de control distribuido). 
+d) Conforme a las recomendaciones del fabricante (OEM1), si la unidad se encuentra 
+operando previo al apagón o si durante el arranque en negro (PA) o posterior a su 
+ejecución, se desconecta intempestivamente, debe cumplirse un periodo de 
+espera obligatorio de 6 horas antes de realizar un nuevo intento de arranque con 
+la misma unidad. Esta limitación está relacionada con los requisitos de 
+enfriamiento del rotor y los cojinetes, con el fin de garantizar que no se comprometa 
+la integridad mecánica del equipo. En caso de falla de partida de la primera unidad, 
+se podrá realizar la PA con la segunda unidad, y viceversa. 
+e) Cargas inferiores al mínimo técnico se consideran solo de transición durante el 
+proceso de partida, en conformidad a los parámetros aceptados de partida y 
+detención de las unidades. 
+ 
+1 Original Equipment manufacturer (Alstom – GE) 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+f) 
+La unidad puede ejecutar la partida autónoma con GNL o Diésel dependiendo de 
+la disponibilidad del combustible. 
+g) En el caso de operar las unidades con combustible diésel, se cuenta con un 
+estanque de combustible cuya capacidad nominal es de 5.467 m³, el cual es 
+compartido por las dos unidades.  La autonomía de cada unidad se estima en 
+118,98 horas para la CC1-TG1 y 119,15 horas para la CC1-TG2, operando una 
+sola unidad a plena carga. 
+4. 
+Indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Tamakaya Energía 
+SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tabla en página siguiente.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+a) Partida Autónoma: 
+ 
+SSCC 
+Plan de Recuperación de Servicio 
+Categoría 
+Partida autónoma 
+Subcategoría 
+Partida autónoma 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+CC1-TG1 
+CC1-TG2 
+TER Kelar 
+GNL/Diésel 
+Potencia Máxima [MW] 
+180,1 
+177,09 
+Tiempo de Sincronización 
+[min] (1) 
+156,95 
+156,95 
+Tasa de Toma de Carga 
+[MW/min] 
+10 
+10 
+Tiempo de Autonomía [hr] (2) 
+118,98 
+119,15 
+Modo de Control 
+ Isócrono 
+ Isócrono 
+(Control de 
+velocidad) 
+(Control de 
+velocidad) 
+Requiere Equipamiento 
+Adicional (3) 
+Si 
+Si 
+Primer Escalón de carga 
+[MW] (4) 
+10 
+10 
+Escalones sucesivos de 
+carga [MW]  
+35 
+35 
+Tiempo nuevo arranque en 
+caso de desconexión 
+intempestiva [min] (5) 
+428/433 
+(GNL/Diésel) 
+428/433 
+(GNL/Diésel) 
+Tiempo permanencia en 
+vacío (6) 
+Sin restricción 
+Sin restricción 
+(1) Tiempo asociado a la partida de unidades generadoras que prestan el SC de PA, correspondiente al 
+intervalo que transcurre desde que se solicita la partida autónoma hasta el cierre contra barra muerta de 
+la central.  
+(2) Tiempo de autonomía asociado a su estanque Diésel de 5.467 m3; equivale a la operación a carga 
+máxima de una sola unidad. Para GNL este tiempo está sujeto a la disponibilidad informada del 
+combustible. 
+(3) Cuenta con generador diésel de emergencia y grupo de generadores de arranque. 
+(4) Primer escalón de carga que puede tomar la unidad sin poner en riesgo la estabilidad de la unidad en 
+este proceso. 
+(5) Corresponde a las 6 horas (360 minutos) de virado informadas por el coordinado Tamakaya Energía SpA 
+más el tiempo entre el periodo de “desenganche a apagado” (68 minutos con GNL y 73 minutos con 
+Diésel). Se considera el estado apagado de la unidad el instante de entrada a la etapa de virado según 
+carta DE05366-18. 
+(6) El tiempo de permanencia en giro en vacío (sin carga) no tiene restricción. 
+ 

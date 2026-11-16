@@ -1,0 +1,37 @@
+GRENERGY RENOVABLES PACIFIC LTDA 
+RUT: 76.257.813-1 
+Avda. Isidora Goyenechea 2800, oficina 3702 – Las Condes – Santiago 
+Tel.: 56 (2) 22483253 
+1 
+Santiago, 23 de junio de 2025 
+Carta N° GR-CHL0111A-421/2025 
+Sr. Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+Asunto:  
+Respuesta a lo solicitado en el 
+ Resultado del Proceso de Verificación del SC de 
+Control Secundario de Frecuencia e integración 
+al Despacho Económico del Parque Fotovoltaico 
+Tamango. 
+Ref.:  
+Carta DE02647-25, de fecha 06 de mayo 
+de 2025 
+De nuestra consideración, 
+En atención a su carta DE02647-25, relacionado con el resultado del proceso de verificación del 
+Servicio Complementario de Control Secundario de Frecuencia e integración al Despacho 
+Económico del Parque Fotovoltaico Tamango, informamos que GR Liun SpA ha remitido la 
+siguiente documentación, dentro del plazo establecido: 
+•
+Layout o diagrama de la arquitectura de comunicaciones y equipos implementados para
+integrarse al AGC.
+•
+Certificado de disponibilidad del sistema de comunicaciones con un 99,95% de
+cumplimiento.
+Dicha información ha sido enviada a la dirección electrónica dmap@coordinador.cl, conforme 
+a lo indicado. 
+Sin otro particular, 
+____________________________
+Felipe Pezo 
+Pp. GR Liun SpA 

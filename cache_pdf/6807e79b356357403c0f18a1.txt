@@ -1,0 +1,137 @@
+ 
+1 
+ 
+ 
+GO N°073/2025 
+Santiago, 21 de abril de 2025 
+ 
+Señor  
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: 
+Aplicación del Plan de Recuperación de Servicio vigente. 
+ 
+De mi consideración: 
+ 
+En respuesta a su carta DE 02308-25, de fecha 16 de abril de 2025, en la cual solicita información 
+sobre las centrales generadoras con Partida Autónoma (PA) vigentes en el Plan de Recuperación de 
+Servicio (PRS), informo lo siguiente: 
+1) Identificar cuáles instalaciones son telecomandadas y cuáles requieren maniobras manuales 
+en terreno, detallando esta información en cada uno de los equipos y centrales que 
+participan en el proceso de PA.  
+ 
+Resp.: Las centrales generadoras de propiedad de Colbún S.A. que cuentan con PA y participan 
+en el PRS son Colbún y Canutillar. Ambas instalaciones son operadas de forma local, con 
+personal en sitio, y no son telecomandadas desde el Centro de Control de Colbún S.A. en 
+Santiago. 
+ 
+En la central Colbún, el grupo de emergencia se activa automáticamente ante la pérdida de tensión 
+en las barras de SSAA. En este caso, el operador toma control local de las unidades desde la sala 
+de control de la central. A continuación, se detallan los principales equipos sobre los cuales se 
+tiene control operativo durante la recuperación del servicio: 
+ 
+Unidad 1 Colbún 
+ 
+Unidad 2 Colbún 
+ 
+SS/AA de 13,8 kV  
+ 
+Circuitos de control para cierre y apertura de interruptores 52J1, 52J2, 52J3, 52J5 de 
+S/E Colbún (propiedad de Alfa Transmisora de Energía S.A.), utilizados en la 
+sincronización de las unidades, previa autorización de parte de Celeo Redes Chile Ltda. 
+(en calidad de centro de control de los activos de Alfa Transmisora Energía S.A.) para 
+asegurar las condiciones del sistema de transmisión necesarias para el PRS. 
+ 
+Desconectadores de S/E Colbún asociados a las Unidades 1 y 2: 89J1 y 89J2 (propiedad 
+de Alfa Transmisora de Energía S.A.). Acciones sobre los desconectadores indicados no 
+requieren de autorización previa de parte de Celeo Redes Chile Ltda., por ser maniobras 
+asociadas al PRS, de acuerdo con las Guías de Maniobras adjuntas en el Anexo I. 
+
+ 
+2 
+ 
+ 
+Control de priorización de partida entre unidades 1 y 2 de Colbún con grupo de 
+emergencia. 
+ 
+En caso de operación de los relés maestros de las unidades generadoras de la central Colbún, se 
+requerirá el apoyo del asistente de turno desde la casa de máquinas. 
+ 
+En el caso de central Canutillar, el grupo de emergencia parte de forma automática ante la pérdida 
+de tensión en las barras de servicios auxiliares (SSAA). Posteriormente, el operador de turno toma 
+el control de las unidades y realiza las maniobras desde el piso principal de la casa de máquinas. 
+A continuación, se detallan los principales equipos sobre los cuales se tiene control operativo: 
+ 
+Unidad 1 Canutillar 
+ 
+Unidad 2 Canutillar 
+ 
+SS/AA de 13,8 kV  
+ 
+Circuitos de control para cierre y apertura de interruptores 52G1, 52G2, 52JT1, 52JT2, 
+52JS, 52J1, 52J2 de S/E Canutillar. 
+ 
+Control de priorización de partida entre unidades 1 y 2 de Canutillar con grupo de 
+emergencia. 
+ 
+Las maniobras específicas y los equipos sobre los que tiene acción están descritas en las Guías 
+de Maniobras adjuntas en los Anexos I y II. 
+ 
+2) Número de operadores que su representada mantiene permanentemente en terreno 
+destinadas para asistir la Partida Autónoma durante el PRS, describiendo la especialización 
+del personal encargado de ejecutar la PA.  
+ 
+Resp.: En la central Colbún, se mantiene un sistema de turno 24x7, según el siguiente esquema: 
+ 
+1 operador en la sala de control de forma permanente. 
+ 
+1 asistentes de operaciones en terreno, con disponibilidad de reacción entre 10 y 20 
+minutos para realizar maniobras de normalización de relés maestros en caso de ser 
+necesario. 
+ 
+En la central Canutillar, también se mantiene un sistema de turno 24x7, según el siguiente 
+esquema: 
+ 
+1 operador en turno día, bloque de 08:00 a 20:00 horas 
+ 
+1 operador en turno tarde, bloque de 14:00 a 02:00 horas 
+ 
+1 operador en turno noche, bloque de 20:00 a 08:00 horas 
+En caso de tener algún operador con licencia o vacaciones, el turno tarde no opera.  
+Tanto los operadores de central Canutillar como los de Colbún cuentan con formación técnica de 
+nivel superior y/o universitaria en electricidad. 
+3) Sistema de comunicaciones principal y de respaldo que utiliza para realizar la coordinación 
+de maniobras entre el Centro de Control de su representada y el personal en terreno. 
+ 
+
+ 
+3 
+ 
+Resp.: Colbún S.A. cuenta con dos centros de control en Santiago que operan de forma 
+simultánea: uno ubicado en el edificio corporativo de Apoquindo y otro en las instalaciones de 
+Telepuerto (propiedad de Movistar). Ambos centros disponen de sistemas de comunicación por 
+voz con las centrales Colbún y Canutillar mediante líneas Hot Line, provistas por las empresas 
+de telecomunicaciones Entel y GTD, y cuentan con respaldo a través de teléfonos satelitales de 
+Movistar e Iridium. Dichas comunicaciones cuentan con grabación de voz en tiempo real.  
+ 
+4) Enviar los procedimientos, guías de maniobra y/o PPRS establecidos por su representada 
+para prestar el servicio de PA, donde se describa las maniobras que son realizadas vía 
+telecomando las maniobras que deben ser realizadas en terreno para habilitar cada una de 
+las instalaciones y sus unidades de generación con PA, así como la coordinación con el 
+respectivo COR. 
+ 
+Resp.: Se adjuntan las Guías de Maniobras correspondientes a las diferentes configuraciones del 
+sistema en que se aplica PA para las centrales Colbún (Anexo I) y Canutillar (Anexo II).  
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+Sebastián Ruiz-Tagle Mena 
+Encargado Titular 
+COLBÚN S.A. 
+ 
+Incl. Lo indicado 

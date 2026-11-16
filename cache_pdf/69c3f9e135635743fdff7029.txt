@@ -1,0 +1,87 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ContourGlobal 
+Chile 
+ 
+Isidora Goyenechea 3000 
+Piso 19 — Las Condes 
+ 
+contourglobal.com 
+ContourGlobal Limited 
+Registered Office: Tintagel House, 92 Albert Embankment, London, United Kingdom, SE1 7TY 
+Registered in England & Wales - Company Number 10982736 
+Asunto: Informa estado de avance de instalación de equipos de medición para evaluación del 
+desempeño de CPF de la CRCA PFV y BESS Víctor Jara (NUP 2139 y 4635). 
+De nuestra consideración, 
+En respuesta a la carta DE 01640-26, de fecha 11 de marzo de 2026, mediante la cual se comunica 
+el resultado del proceso de verificación de los Servicios Complementarios de Control Primario de Frecuencia 
+(CPF) y Control Terciario de Frecuencia (CTF) de la Central Renovable con Capacidad de Almacenamiento 
+(CRCA) PFV y BESS Víctor Jara (NUP 2139 y 4635), y en particular respecto de la obligación de instalar o 
+habilitar los equipos necesarios para medir el desempeño de la prestación del SC de CPF conforme al artículo 
+1-9 de la NTSSCC, por medio de la presente informamos lo siguiente. 
+ 
+Los equipos PMUs, requeridos para la evaluación del desempeño de la prestación del SC de CPF, se 
+encuentran en fase final de instalación en la CRCA PFV y BESS Víctor Jara. A la fecha, se encuentra 
+pendiente la implementación de los canales de comunicaciones necesarios para el envío de registros al 
+Coordinador conforme al protocolo establecido en el documento de la Ref. [2] de la carta DE 01640-26. Se 
+estima que la totalidad de los equipos de medición estarán plenamente operativos y en condiciones de enviar 
+los registros correspondientes para el mes de mayo. 
+ 
+En virtud de lo anterior, solicitamos se tome conocimiento del estado de avance informado y 
+confirmamos nuestro compromiso con la habilitación de los equipos de medición y el envío de registros 
+conforme al protocolo correspondiente, dentro de los plazos establecidos. 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+_____________________________ 
+James Stancampiano 
+Pp. GR Chañar SpA  
+ 
+Santiago, 24 de marzo de 2026 
+To: 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CARTA N°     GR-CHL0005A-160/2026 
+Signature:
+Email:
+James Lee Stancampiano (Mar 25, 2026 09:07:31 ADT)
+James Lee Stancampiano
+james.stancampiano@contourglobal.com
+
+20260325 Respuesta_DE01640-26_CRCA_Vict
+or_Jara
+Final Audit Report
+2026-03-25
+Created:
+2026-03-25
+By:
+Richard Cortes Ortiz (richard.cortes@contourglobal.com)
+Status:
+Signed
+Transaction ID:
+CBJCHBCAABAAdkGNCckY5grcIo9uCPOPt6spcUwQEvAm
+"20260325 Respuesta_DE01640-26_CRCA_Victor_Jara" History
+Document created by Richard Cortes Ortiz (richard.cortes@contourglobal.com)
+2026-03-25 - 11:48:24 AM GMT
+Document emailed to James Stancampiano (james.stancampiano@contourglobal.com) for signature
+2026-03-25 - 11:48:51 AM GMT
+Email viewed by James Stancampiano (james.stancampiano@contourglobal.com)
+2026-03-25 - 12:06:30 PM GMT
+Signer James Stancampiano (james.stancampiano@contourglobal.com) entered name at signing as James Lee
+Stancampiano
+2026-03-25 - 12:07:29 PM GMT
+Document e-signed by James Lee Stancampiano (james.stancampiano@contourglobal.com)
+Signature Date: 2026-03-25 - 12:07:31 PM GMT - Time Source: server
+Agreement completed.
+2026-03-25 - 12:07:31 PM GMT

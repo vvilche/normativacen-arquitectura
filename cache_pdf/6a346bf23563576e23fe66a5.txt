@@ -1,0 +1,75 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+ 
+GM N°2026-038 
+17 de junio de 2026 
+ 
+Señor 
+Patricio Valenzuela V 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref: Respuesta Carta DE03776-26 Desempeño Servicios Complementarios abril 2026. 
+ 
+En relación con la solicitud de la Carta DE03776-26 enviada con fecha 4 de junio de 2026 por el 
+Coordinador  referente a la evaluación del desempeño de los Servicios Complementarios, durante 
+el mes de abril 2026, especificamente el Control de Tensión (CT) Manual de la Central Nueva Renca. 
+Y considerando las respuestas antes enviadas, en especifico, el plan de trabajo previamente 
+compartido por mi representada en relación con el plan de acción para la mejora del desempeño de 
+los Servicios Complementarios, les podemos informar las siguientes actualizaciones: 
+1. Las razones que han provocado su retraso.  
+Durante el desarrollo de la actividad "Evaluación de requerir ensayos", se identificó la 
+necesidad de profundizar el análisis de las condiciones operacionales que limitan la 
+prestación del Servicio Complementario de Control de Tensión en Central Nueva Renca. En 
+particular, fue necesario complementar el estudio originalmente considerado mediante 
+simulaciones adicionales y revisión de la interacción entre la regulación de potencia reactiva 
+de las unidades generadoras, el comportamiento de los transformadores de servicios 
+auxiliares y sus cambiadores de toma automáticos (OLTC). 
+Este análisis permitió definir de manera más precisa el alcance y objetivos de los ensayos 
+requeridos, por lo que la actividad se extendió respecto de la planificación inicial. 
+2. Las medidas correctivas para evitar un nuevo retraso y dar cierre al proceso de 
+normalización del desempeño en la prestación de SSCC de la instalación. 
+ 
+Actualmente se ha avanzado en el estudios y análisis para determinar los parámetros 
+adicionales de monitorero y restricciones para la inyección y absorción de reactivos de 
+forma segura y estable para la Central. 
+ 
+3. La nueva fecha de cierre del plan de trabajo.  
+Se realizarán verificaciones de inyección y absorción de reactivos por la Central Nueva Renca 
+la semana del 29 de junio. Dichas verificaciones tienen el objetivo de confirmar de forma 
+práctica la teoría obtenida del estudio de curva PQ, indicado en el cronograma previamente 
+
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+compartido como “Verificación curva PQ mediante simulaciones”, cuyos resultados no 
+fueron concluyentes. Estas verificaciones permitiran considerar los parámetros adicionales 
+para asegurar la estabilidad de la planta tales como el nivel de tap del transformador auxiliar 
+que permite mantener la tensión segura de los equipos del BOP de la central, las corrientes 
+de excitación y cualquier otro indicador que deba ser monitoreado para mantener la 
+estabilidad de la central al prestar Control de Tensión. 
+En la siguiente figura se presenta las verificaciones a realizar según lo indicado en el informe 
+en cuestión. 
+ 
+Finalmente, se espera entregar los resultados de las verificaciones a más tardar el 13 de 
+julio del presente año. 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+Carolina Vélez K. 
+Encargada Titular 
+Generadora Metropolitana SpA 
+ 
+ 

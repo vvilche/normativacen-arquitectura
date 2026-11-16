@@ -1,0 +1,173 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ Santiago, 10 de junio de 2026 
+DE 0 3915-26 
+ 
+Señores  
+Encargados 
+Según Lista de Distribución 
+Presente 
+ 
+ 
+Ref. Solicita migrar el envío de datos 
+de PMU desde el PDC local de S/E 
+Crucero. 
+ 
+De mi consideración: 
+Me refiero al Módulo de Medición Fasorial (MMF) del SEN, requerido en el Anexo Técnico 
+de Sistemas de Monitoreo, cuya actual arquitectura distribuida considera un PDC local en 
+S/E Crucero de propiedad del Coordinador y mediante el cual actualmente se comunican las 
+unidades PMU indicadas en el Anexo a esta comunicación.  
+Al respecto, informo a Ud. que ese PDC local será retirado de servicio a fines del mes de 
+septiembre de 2026. Por lo tanto, le solicito llevar a cabo la migración del correspondiente 
+enlace de comunicación desde las PMU previamente individualizadas, directamente hacia 
+el PDC Corporativo, instalado en el Data Center ENEA del Coordinador, o a través del nuevo 
+PDC local de la Zona Norte de Transelec (ubicado en S/E Encuentro). 
+Finalmente, la migración de los enlaces de comunicaciones se deberá materializar a más 
+tardar el 15 de septiembre de 2026. En caso de requerir consultas adicionales respecto de lo 
+instruido, agradezco derivarlas directamente a través del correo DMAP@coordinador.cl . 
+ 
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+Incluye: Lo indicado 
+c.c.: 
+Sres. Encargados Suplentes, según lista de Distribución 
+Sr. Octavio Donoso A. Gerente de Tecnología y Sistemas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ANEXO 
+ 
+PMU del MMF conectados actualmente hacia el PDC local de S/E Crucero 
+ 
+Coordinado 
+Identificación de 
+PMU 
+IP configurada en PDC 
+Crucero 
+AES ANDES S.A. 
+PMU: Andes L345 
+192.168.2.86:4712 
+AES ANDES S.A. 
+PMU: Salta L345 
+10.249.217.187:4712 
+AES ANDES S.A. 
+PMU: Andes B345 
+192.168.2.87:4712 
+COMPAÑÍA DOÑA INÉS DE COLLAHUASI SCM 
+PMU: Collahuasi 
+172.24.6.63:4712 
+EMPRESA ELÉCTRICA ANGAMOS SPA 
+PMU: Angamos 
+192.168.2.84:4712 
+TRANSELEC S.A. 
+PMU: Lagunas 
+192.168.2.83:4712 
+TRANSELEC S.A. 
+PMU: Crucero J15 
+192.168.2.111:4712 
+TRANSELEC S.A. 
+PMU: Kapatur 
+192.168.2.112:4712 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+Lista de Distribución 
+ 
+ 
+AES ANDES S.A. 
+COMPAÑÍA DOÑA INÉS DE COLLAHUASI SCM 
+EMPRESA ELÉCTRICA ANGAMOS SPA 
+TRANSELEC S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

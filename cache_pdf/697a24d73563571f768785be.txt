@@ -1,0 +1,2999 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Santiago, 28 de enero de 2026 
+ 
+    
+DE 00553-26 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Respuestas a observaciones de 
+Indicadores de Desempeño de Servicios 
+Complementarios prestados durante los 
+meses de agosto a diciembre de 2024 
+versión 3. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y a las cartas de Ref. [1] a [5], informo a Ud. 
+que, habiendo analizado las observaciones recibidas a los indicadores de agosto de 
+2024 en su segunda versión, se ha determinado que éstas no originan modificaciones a 
+los indicadores publicados mediante la carta de la Ref. [1], por lo que éstos se mantienen 
+vigentes. En cuanto a los indicadores de los meses de septiembre y octubre de 2024, no 
+se recibieron observaciones a la segunda versión, por lo que se mantienen los 
+indicadores publicados en cartas de la Ref. [2] y [3]. 
+ 
+Por su parte, habiendo analizado las observaciones recibidas, se encuentra disponible 
+en el sitio web del Coordinador la actualización de los Indicadores de Desempeño de 
+SSCC prestados durante los meses de noviembre y diciembre del año 2024. 
+ 
+Los indicadores mencionados pueden ser descargados desde las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices 
+de Desempeño y Disponibilidad de Servicios Complementarios > 2024 
+• 
+Noviembre 2024 > Versión 3 
+• 
+Diciembre 2024 > Versión 3 
+ 
+Adicionalmente, en el anexo de esta comunicación, se encuentran las respuestas a las 
+observaciones recibidas para los meses en cuestión y que a la fecha no se encontraban 
+resueltas. 
+ 
+Finalmente, informamos que estos indicadores serán considerados en las 
+reliquidaciones de IVTE que a la fecha lleva a cabo la Gerencia de Mercados.  
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Referencias 
+ 
+[1] Carta DE05021-24, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de agosto 2024, segunda versión.” de fecha 
+02 de octubre de 2024. 
+[2] Carta DE05675-24, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de septiembre 2024, segunda versión.” de 
+fecha 30 de octubre de 2024. 
+[3] Carta DE06510-24, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de octubre 2024, segunda versión.” de fecha 
+10 de diciembre de 2024. 
+[4] Carta DE00481-25, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de noviembre 2024, segunda versión.” de 
+fecha 23 de enero de 2025. 
+[5] Carta DE00634-25, Ref. “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de diciembre 2024, segunda versión.” de 
+fecha 30 de enero de 2025. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 1: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+agosto 2024 versión 2. 
+ 
+Consultas recibidas mediante: 
+- 
+Acciona Energía Chile Holdings S.A.: recibidas mediante plataforma de observaciones del departamento de Transferencias de 
+Energía y SSCC con correlativos O2024-0028512 y O2024-0028511.  
+- 
+Enlasa Generación Chile S.A.: recibidas mediante plataforma de observaciones del departamento de Transferencias de 
+Energía y SSCC con correlativo O2024-0028354.  
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV El Romero 
+Para la central PFV EL ROMERO con el fin de 
+representar correctamente la continuidad del 
+servicio prestado entre los días 2 y 5 de 
+agosto, 
+se 
+solicita 
+modificar 
+algunas 
+instrucciones.  
+ 
+La segunda instrucción del día 3 se solicita 
+separar en 2 instrucciones, es decir, una 
+instrucción que parta a las 18:01 y termine a 
+las 19:01, mientras que la segunda instrucción 
+comience a las 20:01 y termine a las 23:59.  
+ 
+Para el día 4, se solicita modificar la hora de 
+inicio de la segunda instrucción de las 18:05 a 
+19:01 para que exista una continuación en 
+todo el periodo de los días 2 al 5. 
+No se acoge la observación – Aclaración. 
+ 
+Se analizan los antecedentes y se comprueba que las 
+instrucciones entre los días 2 y 5 de agosto están 
+correctamente consignadas por CDC en los Registros de 
+Instrucciones de Operación según las grabaciones 
+disponibles. Dicho lo anterior, los indicadores calculados 
+entre los días 2 y 5 de agosto no cambian, ya que no 
+aplican las modificaciones solicitadas. 
+ 
+Adicionalmente, se reitera que las Reglas de Operación 
+vigentes establecen lo siguiente: 
+ 
+“Las instrucciones de SC de CT emitidas por el CDC se 
+mantendrán vigentes mientras la planta posea recurso 
+primario que le permita generar potencia activa. Una vez 
+que el valor de la potencia activa sea nulo, por ausencia 
+del recurso primario, se considerará el servicio de CT 
+terminado por lo que los respectivos CCs deberán 
+ajustar la consigna de potencia reactiva a cero MVAr. En 
+el caso que el respectivo CC no cumpla con llevar la 
+consigna de potencia reactiva a cero MVAr, dicha 
+condición de operación de absorción o inyección de 
+reactivos, según corresponda, no será considerada 
+como entrega de SC de CT. En estos casos, el CDC dará 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+por cierto que la planta tiene una consigna de potencia 
+reactiva nula, y en consecuencia bajo esa condición 
+evaluará si requiere o no realizar una instrucción de SC 
+de CT a las plantas que corresponda.” 
+ 
+Las Reglas de Operación vigentes pueden ser 
+descargadas del sitio web del Coordinador de la 
+siguiente ruta: Inicio > Informes y Estudios > 
+Operación > Servicios Complementarios > Reglas de 
+Operación de Servicios Complementarios 
+2 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV El Romero 
+Para la central PFV EL ROMERO se solicita 
+crear una nueva instrucción RIO para el 
+término del recurso primario y así poder 
+remunerar correctamente al pasar de una 
+remuneración por CO a REA, para los días 3/8, 
+17/08. 
+No se acoge la observación – Aclaración. 
+ 
+Las Reglas de Operación vigentes establecen lo 
+siguiente: 
+ 
+“Las instrucciones de SC de CT emitidas por el CDC se 
+mantendrán vigentes mientras la planta posea recurso 
+primario que le permita generar potencia activa. Una vez 
+que el valor de la potencia activa sea nulo, por ausencia 
+del recurso primario, se considerará el servicio de CT 
+terminado por lo que los respectivos CCs deberán 
+ajustar la consigna de potencia reactiva a cero MVAr. En 
+el caso que el respectivo CC no cumpla con llevar la 
+consigna de potencia reactiva a cero MVAr, dicha 
+condición de operación de absorción o inyección de 
+reactivos, según corresponda, no será considerada 
+como entrega de SC de CT. En estos casos, el CDC dará 
+por cierto que la planta tiene una consigna de potencia 
+reactiva nula, y en consecuencia bajo esa condición 
+evaluará si requiere o no realizar una instrucción de SC 
+de CT a las plantas que corresponda.” 
+ 
+Dicho lo anterior se revisan los antecedentes y se 
+consigna que no corresponde una anotación adicional 
+para referenciar el término del recurso primario, ya que 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+tal como indican las reglas, en caso de que la unidad no 
+tenga recurso primario debe reducir su aporte a 0 MVAr 
+y esperar a que CDC solicite la continuación del servicio. 
+Esta solicitud no se produjo, por lo que no corresponde 
+la nueva anotación y se rechaza la observación. 
+ 
+Las Reglas de Operación vigentes pueden ser 
+descargadas del sitio web del Coordinador de la 
+siguiente ruta: Inicio > Informes y Estudios > 
+Operación > Servicios Complementarios > Reglas de 
+Operación de Servicios Complementarios 
+3 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV El Romero 
+Para la central PFV EL ROMERO para el día 
+11 se solicita modificar la hora de término de la 
+instrucción de "-" a 18:09. Adicionalmente, 
+para la segunda instrucción del día 18, se 
+solicita modificar la hora de inicio de la 
+instrucción de 18:10 a 19:01, con el fin de 
+representar de correcta forma la continuación 
+de la prestación de servicio. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°2. 
+4 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV El Romero 
+Se solicita revisar el FD=0 para los días 2, 4 y 
+21, ya que en la carta DE05261-24 – 
+ACC.ECH.061.24 
+enviada 
+por 
+mi 
+representada, se observan los factores de 
+desempeño para aquellos días. 
+No se acoge la observación – Aclaración. 
+ 
+Se reitera la respuesta dada a estas observaciones en 
+la segunda versión de los indicadores de desempeño del 
+mes de agosto 2024: 
+ 
+Las Reglas de Operación vigentes establecen lo 
+siguiente: 
+“Las instrucciones de SC de CT emitidas por el CDC se 
+mantendrán vigentes mientras la planta posea recurso 
+primario que le permita generar potencia activa. Una vez 
+que el valor de la potencia activa sea nulo, por ausencia 
+del recurso primario, se considerará el servicio de CT 
+terminado por lo que los respectivos CCs deberán 
+ajustar la consigna de potencia reactiva a cero MVAr. En 
+el caso que el respectivo CC no cumpla con llevar la 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+consigna de potencia reactiva a cero MVAr, dicha 
+condición de operación de absorción o inyección de 
+reactivos, según corresponda, no será considerada 
+como entrega de SC de CT. En estos casos, el CDC dará 
+por cierto que la planta tiene una consigna de potencia 
+reactiva nula, y en consecuencia bajo esa condición 
+evaluará si requiere o no realizar una instrucción de SC 
+de CT a las plantas que corresponda.” 
+ 
+Dicho lo anterior se revisan los antecedentes y CDC 
+consigna que las instrucciones observadas del día 02, 
+04 y 21 de agosto son inicios de instrucción y no 
+corresponden a la categoría de “Continuación” por lo que 
+se rechaza la observación. 
+ 
+Las Reglas de Operación vigentes pueden ser 
+descargadas del sitio web del Coordinador de la 
+siguiente ruta: Inicio > Informes y Estudios > 
+Operación > Servicios Complementarios > Reglas de 
+Operación de Servicios Complementarios 
+5 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PE San Gabriel 
+Para la central San Gabriel para la instrucción 
+RIO del día 1, se observa que este presenta un 
+FD =0 por lo que no se considera un pago por 
+CO para esta instrucción. Pero en la carta 
+DE05261-24 – ACC.ECH.061.24 enviada por 
+mi representada se realizaron observaciones y 
+se enviaron la información que respalda lo 
+comentado. Por lo que se solicita que se pueda 
+revertir el FD=0 y así sí considerar el pago por 
+CO para esta instrucción ($379.400) 
+No se acoge la observación. 
+ 
+Se reitera la respuesta dada a estas observaciones en 
+la segunda versión de los indicadores d desempeño del 
+mes de agosto 2024: 
+ 
+La evaluación de CT manual para la unidad corresponde 
+a No Verificable (NV) debido a que la señal de potencia 
+reactiva medida directamente desde SCADA no cumplió 
+con los criterios de calidad definidos en el Anexo Técnico 
+“Definición de Parámetros Técnicos y Operativos para el 
+Envío de Datos al SITR”.  
+ 
+Adicionalmente, los datos informados en el anexo 
+enviado por su representada en el período de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+observación no cuentan con la información del origen de 
+estos, 
+característica 
+mínima 
+para 
+poder 
+ser 
+considerado. 
+ 
+Si requiere regularizar las señales integradas en el 
+sistema SCADA, contactar directamente al área TI 
+SCADA al mail tec.scada@coordinador.cl. 
+6 
+Enlasa 
+CTF 
+TER El Peñon 
+El día 31 de Agosto la central PENON_DIESEL 
+fue solicitada por el CDC debido a la activación 
+de sus reservas de CTF (+). Se identificó un 
+error en la hora de inicio de la activación donde 
+se considera las 22:23 cuando el registro de 
+llamada indica la activación a las 22:18. Esto 
+produce un error en la evaluación de 
+desempeño ya que a la hora considerada la 
+central ya estaba en servicio. Se adjunta el 
+registro de la llamada con el CDC como 
+evidencia, cabe destacar que la hora de 
+activación viene asociada al nombre del 
+archivo. "2024-08-31-22:17:54". 
+Aclaración. 
+ 
+Se analizan los antecedentes y grabaciones para la 
+instrucción y se confirma que el inicio de instrucción fue 
+a las 22:18. Sin perjuicio de lo anterior, el factor de 
+respuesta de la hora 22 del día 31 de agosto ya se 
+encuentra en 100% por lo que el indicador no cambia. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 4: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+noviembre 2024 versión 2. 
+ 
+Consultas recibidas mediante: 
+- 
+Acciona Energía Chile Holdings S.A.: recibidas mediante carta ACC.ECH.052.24. Ingreso DE04841-24.  
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Cóndor 
+Energía SpA 
+CSF 
+General 
+Fecha: Todo el mes 
+Se observa que, en reiteradas ocasiones, una 
+falta de actualización del punto base de manera 
+manual desde el CDC provoca una falsa 
+identificación de no seguimiento o "non tracking" 
+por parte de las unidades en el AGC, toda vez 
+que el recurso primario variable baja y provoca 
+una 
+indisponibilidad 
+de 
+generación 
+para 
+alcanzar el punto base asignado. Esto se corrige 
+una vez que el CDC actualiza el punto base, sin 
+embargo, estos eventos afectan el Factor de 
+Desempeño de las centrales, y obliga a enviar 
+observaciones 
+y 
+revisiones 
+manuales 
+indeseadas. Se pide revisar la metodología de 
+asignación de punto base con el CDC para evitar 
+estas situaciones en el futuro. 
+Se acoge parcialmente.  
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC.  
+ 
+Respecto al tiempo categoría “Not Tracking”, la NTSSCC 
+en su artículo 5-54 señala que este periodo debe ser 
+contabilizado en la medición del desempeño de la 
+prestación del SC de CSF. Por otro lado, el tiempo en 
+categoría “Not Tracking” es una medición que proviene 
+directamente de los registros del AGC.  
+ 
+Se debe considerar que la diferencia respecto al punto 
+base se debe en varias ocasiones a predicciones, por lo 
+que su representada debe mejorar dichas predicciones, 
+con el fin de que el punto base asignado sea más ajustado 
+a la realidad 
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+2 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 07-11-2024 hora 20 
+Se indica 1.1 minutos de non-tracking y 3.8 
+minutos en modo manual. Al respecto, se 
+observa que durante todo el período la central 
+presentó recurso eólico por debajo de lo 
+requerido por el AGC (59 MW). Se solicita 
+reevaluar manualmente y actualizar cálculo de 
+Fd. Se adjunta de igual forma pantallazo del 
+comportamiento de la central con respecto a su 
+recurso disponible en la hoja respectiva. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 98%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl.  
+3 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 14-11-2024 hora 8 
+Se indica 1.7 minutos de non-tracking y 6.1 
+minutos en modo manual. Al respecto, se 
+observa que durante la primera media hora del 
+período la central presentó recurso eólico por 
+debajo de lo requerido por el AGC (entre 130 y 
+150 MW). Se solicita reevaluar manualmente y 
+actualizar cálculo de Fd. Se adjunta de igual 
+forma pantallazo del comportamiento de la 
+central con respecto a su recurso disponible en 
+la hoja respectiva. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 97%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+4 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 16-11-2024 hora 9 
+Se indica 3.3 minutos de non-tracking y 0.3 
+minutos en modo manual. Al respecto, se 
+observa que durante la segunda mitad del 
+período la central presentó recurso eólico por 
+debajo de lo requerido por el AGC (alrededor de 
+94 MW). Se solicita reevaluar manualmente y 
+actualizar cálculo de Fd. Se adjunta de igual 
+forma pantallazo del comportamiento de la 
+central con respecto a su recurso disponible en 
+la hoja respectiva. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+5 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 29-11-2024 hora 16 
+Se indica 0.1 minutos de non-tracking y 2.7 
+minutos en modo manual. Al respecto, se 
+observa 
+un 
+período 
+intermedio 
+de 
+aproximadamente 12 minutos donde la central 
+presentó recurso eólico por debajo de lo 
+requerido por el AGC (alrededor de 67 MW). Se 
+solicita reevaluar manualmente y actualizar 
+cálculo de Fd. Se adjunta de igual forma 
+pantallazo del comportamiento de la central con 
+respecto a su recurso disponible en la hoja 
+respectiva. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 99%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+6 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 04-11-2024 hora 19 
+Se indica 3.3 minutos de non-tracking y 0.7 
+minutos en modo manual. Al respecto, se 
+observa que el punto base no fue actualizado 
+manualmente a partir de las 19:18:28, ya que allí 
+el recurso eólico bajó por debajo de 159 MW y 
+no se logró un seguimiento de la consigna de 
+acuerdo con el punto base de 182 MW - el monto 
+activado de 23 MW. Se solicita reevaluar 
+manualmente y actualizar cálculo de Fd ya que 
+la 
+actualización 
+del 
+punto 
+base 
+es 
+responsabilidad del despacho en base al 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+recurso informado. Se adjunta de igual forma 
+pantallazo del comportamiento de la central con 
+respecto a su recurso disponible en la hoja 
+respectiva. 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+7 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 05-11-2024 hora 21 
+Se indica 3.9 minutos de non-tracking y 1.2 
+minutos en modo manual. Al respecto, se 
+observa que el recurso eólico tuvo descensos 
+por debajo de la rampa del parque, y esto fue 
+erróneamente reconocido como no seguimiento 
+de 
+la 
+consigna. 
+Se 
+solicita 
+reevaluar 
+manualmente y actualizar cálculo de Fd. Se 
+adjunta 
+de 
+igual 
+forma 
+pantallazo 
+del 
+comportamiento de la central con respecto a su 
+recurso disponible en la hoja respectiva. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+8 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 07-11-2024 hora 18 
+Se indica 3.8 minutos de non-tracking y 0.3 
+minutos en modo manual. Al respecto, se 
+observa que durante todo el período la central 
+tuvo recurso disponible, y además siguió la 
+consigna con la rampa indicada. Se solicita 
+reevaluar manualmente y actualizar cálculo de 
+Fd. Se adjunta de igual forma pantallazo del 
+comportamiento de la central con respecto a su 
+recurso disponible en la hoja respectiva. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 93%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+9 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 12-11-2024 hora 18 
+Se indica 5.9 minutos de non-tracking y 1.7 
+minutos en modo manual. Al respecto, se 
+observa que durante todo el período la central 
+tuvo recurso disponible, y además siguió la 
+consigna con la rampa indicada. Se solicita 
+reevaluar manualmente y actualizar cálculo de 
+Fd. Se adjunta de igual forma pantallazo del 
+comportamiento de la central con respecto a su 
+recurso disponible en la hoja respectiva. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 90%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+10 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 14-11-2024 hora 18 
+Se indica 3.3 minutos de non-tracking y 5.1 
+minutos en modo manual. Al respecto, se 
+observa que durante todo el período la central 
+tuvo recurso disponible, y además siguió la 
+consigna con la rampa indicada. Se solicita 
+reevaluar manualmente y actualizar cálculo de 
+Fd. Se adjunta de igual forma pantallazo del 
+comportamiento de la central con respecto a su 
+recurso disponible en la hoja respectiva. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+11 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 25-11-2024 hora 14 
+La central prestó el servicio en la hora indicada, 
+con el respectivo registro RIO, por un monto 
+programado de 46.7 MW de CSF (+). Sin 
+embargo, no se evaluó el desempeño de la 
+central en el período. Se solicita agregar al 
+listado. Se adjunta grabación 2511_1358 donde 
+se registra la solicitud del CEN para conectar la 
+unidad al AGC. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se comprueba que la 
+unidad prestó CSF entre las 14:00 y 15:00 horas, 
+consignado en AGC como modo programado (SCHD). 
+Dicho lo anterior el indicador de respuesta se recalcula y 
+corresponde a 100%. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 5: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+diciembre 2024 versión 2. 
+ 
+Consultas recibidas mediante: 
+- 
+Acciona Energía Chile Holdings S.A.: recibidas mediante carta ACC.ECH.052.24. Ingreso DE04841-24.  
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+01-12-2024 
+Hora: 
+8 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 94%.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+2 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+01-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina que el mal 
+desempeño es debido a la existencia de períodos 
+categorizados como "Not-Tracking”.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC y es contabilizada de manera automática. 
+ 
+Se debe considerar que la causa principal corresponde a 
+la diferencia del despacho real de la máquina con respecto 
+a la consigna enviada y punto base por el AGC, dada por 
+el pronóstico y programación. Su representada debe 
+mejorar dichas predicciones, con el fin de que el punto 
+base asignado sea más ajustado a la realidad. Dicho lo 
+anterior el indicador no cambia. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+3 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+05-12-2024 
+Hora: 
+8 
+252 segundos de "non tracking" al inicio de la 
+hora, no corresponden (venía bajando la 
+consigna al inicio de la hora). El resto del tiempo 
+sigue la consigna de manera correcta. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 99%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+4 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+07-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+5 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+08-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 90%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+6 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+08-12-2024 
+Hora: 
+10 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 36%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+7 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+10-12-2024 
+Hora: 
+8 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 99%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+8 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+11-12-2024 
+Hora: 
+9 
+176 segundos de "non tracking" al inicio de la 
+hora, no corresponden (venía bajando la 
+consigna al inicio de la hora). El resto del tiempo 
+sigue la consigna de manera correcta, salvo 
+período con bajo recurso. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 99%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+9 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+13-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 98%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+10 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 
+15-12-2024 
+Hora: 
+14 
+Entre las 14:00 y las 14:26 la central estuvo con 
+una consigna de 5 MW y con una potencia de 5 
+MW. Se registraron períodos de "non tracking" 
+No se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+la primera media hora, lo cual no corresponde a 
+la respuesta real del parque. 
+Se analizan los antecedentes y se determina que el mal 
+desempeño es debido a la existencia de períodos 
+categorizados como "Not-Tracking”.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC y es contabilizada de manera automática. 
+ 
+Se debe considerar que la causa principal corresponde a 
+la diferencia del despacho real de la máquina con respecto 
+a la consigna enviada y punto base por el AGC, dada por 
+el pronóstico y programación. Su representada debe 
+mejorar dichas predicciones, con el fin de que el punto 
+base asignado sea más ajustado a la realidad. Dicho lo 
+anterior el indicador no cambia. 
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+11 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+18-12-2024 
+Hora: 
+13 
+Agregar (aparece en RIO). 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se comprueba que la 
+unidad prestó CSF entre las 13:00 y 14:00 horas, 
+consignado en AGC en todo su rango de operación 
+(BREG-AUTO). Dicho lo anterior el indicador de respuesta 
+se recalcula y corresponde a 94%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+12 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 
+18-12-2024 
+Hora: 
+15 
+La central presentó un seguimiento correcto de 
+la 
+consigna, 
+no 
+corresponde 
+penalizar 
+desempeño. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina que el mal 
+desempeño es debido a la existencia de períodos 
+categorizados como "Not-Tracking”.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC y es contabilizada de manera automática. 
+ 
+Se debe considerar que la causa principal corresponde a 
+la diferencia del despacho real de la máquina con respecto 
+a la consigna enviada y punto base por el AGC, dada por 
+el pronóstico y programación. Su representada debe 
+mejorar dichas predicciones, con el fin de que el punto 
+base asignado sea más ajustado a la realidad. Dicho lo 
+anterior el indicador no cambia. 
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+13 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+19-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 88%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+14 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+20-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 82%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+15 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+21-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+16 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 
+21-12-2024 
+Hora: 
+18 
+La central presentó un seguimiento correcto de 
+la 
+consigna, 
+no 
+corresponde 
+penalizar 
+desempeño. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina que el mal 
+desempeño es debido a la existencia de períodos 
+categorizados como "Not-Tracking”.  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC y es contabilizada de manera automática. 
+ 
+Se debe considerar que la causa principal corresponde a 
+la diferencia del despacho real de la máquina con respecto 
+a la consigna enviada y punto base por el AGC, dada por 
+el pronóstico y programación. Su representada debe 
+mejorar dichas predicciones, con el fin de que el punto 
+base asignado sea más ajustado a la realidad. Dicho lo 
+anterior el indicador no cambia. 
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+17 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+22-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina que el mal 
+desempeño es debido a la existencia de períodos 
+categorizados como "Not-Tracking”.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC y es contabilizada de manera automática. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+ 
+Se debe considerar que la causa principal corresponde a 
+la diferencia del despacho real de la máquina con respecto 
+a la consigna enviada y punto base por el AGC, dada por 
+el pronóstico y programación. Su representada debe 
+mejorar dichas predicciones, con el fin de que el punto 
+base asignado sea más ajustado a la realidad. Dicho lo 
+anterior el indicador no cambia. 
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+18 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+22-12-2024 
+Hora: 
+10 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 54%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+19 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 
+22-12-2024 
+Hora: 
+18 
+La central presentó un seguimiento correcto de 
+la 
+consigna, 
+no 
+corresponde 
+penalizar 
+desempeño. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina que el mal 
+desempeño es debido a la existencia de períodos 
+categorizados como "Not-Tracking”.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC y es contabilizada de manera automática. 
+ 
+Se debe considerar que la causa principal corresponde a 
+la diferencia del despacho real de la máquina con respecto 
+a la consigna enviada y punto base por el AGC, dada por 
+el pronóstico y programación. Su representada debe 
+mejorar dichas predicciones, con el fin de que el punto 
+base asignado sea más ajustado a la realidad. Dicho lo 
+anterior el indicador no cambia. 
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+20 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+24-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 86%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+21 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+24-12-2024 
+Hora: 
+10 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 6,4%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+22 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 
+24-12-2024 
+Hora: 
+18 
+La central presentó un seguimiento correcto de 
+la 
+consigna, 
+no 
+corresponde 
+penalizar 
+desempeño. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina que el mal 
+desempeño es debido a la existencia de períodos 
+categorizados como "Not-Tracking”.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC y es contabilizada de manera automática. 
+ 
+Se debe considerar que la causa principal corresponde a 
+la diferencia del despacho real de la máquina con respecto 
+a la consigna enviada y punto base por el AGC, dada por 
+el pronóstico y programación. Su representada debe 
+mejorar dichas predicciones, con el fin de que el punto 
+base asignado sea más ajustado a la realidad. Dicho lo 
+anterior el indicador no cambia. 
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+23 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+25-12-2024 
+Hora: 
+8 
+Penalización al inicio de la hora por el descenso 
+inicial y posterior aumento de la consigna. 
+Central sigue correctamente la consigna hasta 
+las 8:20. Luego, recurso por debajo de la 
+consigna. 
+No 
+corresponde 
+penalizar 
+desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+24 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+25-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 88%.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+25 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+26-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna gran parte 
+de 
+la 
+hora. 
+No 
+corresponde 
+penalizar 
+desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 85%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl 
+26 
+Cóndor 
+Energía SpA 
+CSF 
+PE CERRO 
+TIGRE (U1-
+U44) 
+Fecha: 
+26-12-2024 
+Hora: 
+18 
+La central presentó un seguimiento correcto de 
+la 
+consigna, 
+no 
+corresponde 
+penalizar 
+desempeño. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se determina que el mal 
+desempeño es debido a la existencia de períodos 
+categorizados como "Not-Tracking”.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC y es contabilizada de manera automática. 
+ 
+Se debe considerar que la causa principal corresponde a 
+la diferencia del despacho real de la máquina con respecto 
+a la consigna enviada y punto base por el AGC, dada por 
+el pronóstico y programación. Su representada debe 
+mejorar dichas predicciones, con el fin de que el punto 
+base asignado sea más ajustado a la realidad. Dicho lo 
+anterior el indicador no cambia. 
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+27 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+27-12-2024 
+Hora: 
+12 
+Agregar (aparece en RIO). 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Se analizan los antecedentes y se comprueba que la 
+unidad prestó CSF entre las 12:02 y 13:00 horas, 
+consignado en AGC en todo su rango de operación 
+(BREG-AUTO) y que presenta 3,3 minutos en categoría 
+“Not-Tracking”. Dicho lo anterior el indicador de respuesta 
+se recalcula y corresponde a 94%. 
+28 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+28-12-2024 
+Hora: 
+8 
+Penalización al inicio de la hora por el descenso 
+inicial y posterior aumento de la consigna. 
+Central 
+sigue 
+correctamente 
+la 
+consigna 
+durante 
+los 
+períodos 
+que 
+tiene 
+recurso 
+disponible. Los demás períodos el recurso está 
+por debajo de la consigna. No corresponde 
+penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 99%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+29 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+28-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna gran parte 
+de 
+la 
+hora. 
+No 
+corresponde 
+penalizar 
+desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 87%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+30 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+30-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 85%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+31 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+30-12-2024 
+Hora: 
+20 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 46%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+32 
+Cóndor 
+Energía SpA 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Fecha: 
+31-12-2024 
+Hora: 
+9 
+Recurso por debajo de la consigna. No 
+corresponde penalizar desempeño. 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se determina que los 
+minutos categorizados como “modo Manual” se originaron 
+debido al tiempo de ajuste del modo de control desde 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+CDC. Dicho lo anterior, el indicador de desempeño cambia 
+a 94%.  
+ 
+Respecto al “Not Tracking”, la NTSSCC en su artículo 5-
+54 señala que este periodo debe ser contabilizado en la 
+medición del desempeño de la prestación del SC de CSF. 
+Por otro lado, el tiempo en categoría “Not Tracking” es una 
+medición que proviene directamente de los registros del 
+AGC.  
+ 
+Adicionalmente, las mediciones y parámetros han sido 
+ajustados 
+en 
+consistencia 
+con 
+las 
+pruebas 
+de 
+sintonización hechas por el Coordinador a través del 
+Departamento de Aplicaciones EMS aplicadas a la unidad 
+generadora. En caso de querer ajustar o actualizar esta 
+sintonización 
+se 
+solicita 
+coordinar 
+las 
+pruebas 
+directamente con el Departamento de Modelación y 
+aplicaciones EMS al mail DMAP@coordinador.cl. 
+33 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PFV Almeyda 
+Fecha: 
+Todo 
+el 
+mes 
+El 
+documento 
+"SSCC_Desempeno_Diciembre_2024_V1" no 
+considera en las hojas "CPF Horario" y "CPF 
+Mensual" a la central solar fotovoltaica PFV 
+Almeyda dentro del listado de ambas hojas, esto 
+siendo que la central prestó recurrentemente el 
+servicio de Control Primario de Frecuencia y 
+cuyos antecedentes que permitirían verificar el 
+desempeño fueron enviados al Coordinador en 
+el formato requerido. 
+Se acoge la observación. 
+ 
+Se incorpora la central PFV Almeyda en el cálculo de 
+indicadores de Control Primario de Frecuencia. Dicho lo 
+anterior el indicador de respuesta mensual se recalcula y 
+pasa de “No Verificable” a 45%. 
+34 Engie Energía 
+Chile S.A. 
+EDAG 
+PE Calama 
+El 20/12/24 se realizó un mantenimiento 
+programado según la solicitud 2024129889 
+subida 
+a 
+la 
+plataforma 
+Neomante. 
+La 
+disponibilidad calculada por el Coordinador para 
+las horas 12 a la 16 dio lugar a un factor de 
+desempeño mensual de 99,44% (no sujeto a 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y se corrobora que la 
+solicitud 
+2024129889 
+fue 
+aprobada 
+e 
+ingresada 
+adecuadamente en plataforma Neomante. Los trabajos 
+fueron desarrollados de manera efectiva entre las 09:21 y 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+remuneración) cuando debió haber sido del 
+100% al ser un mantenimiento programado 
+debidamente formalizado, por lo que solicitamos 
+revisar y rectificar. 
+11:44 de la mañana según lo establecido de manera oficial 
+en la plataforma.  
+ 
+Dicho lo anterior, se recalcula el desempeño de las horas 
+9, 10 y 11 con 100% y el resto se mantiene 
+35 
+Observación 
+interna 
+CPF 
+Todas 
+Se observa que debido a una renderización 
+incorrecta el indicador mensual de CPF de las 
+unidades evaluadas con un monto entre 0% y 
+100% 
+estaban 
+contabilizados 
+como 
+“No 
+Participó”. 
+ 
+Se acoge la observación. 
+ 
+Se revisan los antecedentes y se toman medidas 
+correctivas. Dicho lo anterior se actualiza la hoja CPF 
+Mensual 
+de 
+la 
+planilla 
+“SSCC_Desempeño_Diciembre_2024_V3” 
+en 
+consistencia con las evaluaciones. 
+ 

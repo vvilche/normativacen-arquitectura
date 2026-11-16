@@ -1,0 +1,46 @@
+022_26_CLAM 
+1 
+ 
+Santiago, 18 de junio del año 2026 
+Señores 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Mat: Responde DE03648-26 – Aplicación Art 7-5 
+AT IBR Punta de Talca SpA 
+Ref: EDP - Informe Técnico de Justificación – 
+Artículo 3-8 NTSyCS.pdf 
+De nuestra consideración, 
+Por medio de la presente, en representación de Parque Eólico Punta de Talca SpA (“PdT”), RUT 
+76.414.434-1, y en respuesta a la carta DE03648-26, relativa a la aplicación del Artículo 7-5 del Anexo 
+Técnico de Exigencias Mínimas de Instalaciones Basadas en Convertidores (AT IBR), informamos lo 
+siguiente respecto del Parque Eólico Punta de Talca: 
+ 
+Se adjunta Informe Técnico de Imposibilidad de Cumplimiento elaborado por el fabricante “EDP - 
+Informe Técnico de Justificación – Artículo 3-8 NTSyCS.pdf”, en el cual se fundamenta que los 
+aerogeneradores Nordex Delta4000, basados en tecnología de convertidores tipo Grid-Following 
+(GFL), presentan una limitación técnica inherente que impide garantizar la recuperación de potencia 
+activa en un tiempo menor o igual a 1 segundo posterior al despeje de una falla, conforme a lo exigido 
+en el Título 4 del “Anexo Técnico: Exigencias Mínimas de Instalaciones basadas en convertidores que 
+se conectan al SEN”. 
+ 
+En particular, dicha limitación se explica por la dependencia de estos equipos de la presencia de tensión 
+de red para su sincronización, lo que impide su operación autónoma bajo condiciones de pérdida 
+prolongada de tensión, siendo esta característica propia de su diseño y no subsanable mediante ajustes 
+de control. 
+ 
+Por otra parte, en relación con el proyecto BESS Punta de Talca, del cual somos titulares, se informa 
+que éste se encuentra dentro del ámbito de aplicación del Artículo 7-2 del AT IBR, al corresponder a 
+un sistema de almacenamiento declarado en construcción previo a la publicación del referido Anexo 
+Técnico. En este contexto, el proyecto se encuentra en evaluación del cumplimiento de las exigencias 
+aplicables, conforme al transitorio establecido en dicho artículo, incluyendo la eventual solicitud de 
+exención o adecuación en función de sus condiciones de diseño. 
+ 
+Sin otro particular, y quedando atentos a sus comentarios, saluda atentamente a usted, 
+ 
+ 
+ 
+Ricardo Rabie Durán 
+Encargado Titular 
+Parque Eólico Punta de Talca SpA 
+Docusign Envelope ID: 478E9DC2-745D-8AE2-811F-AB7A8C26AD85

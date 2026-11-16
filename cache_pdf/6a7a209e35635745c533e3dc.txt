@@ -1,0 +1,41 @@
+ 
+Carta CSP-GE-LT-CEN-0408 
+Santiago, 7 de agosto de 2026 
+ 
+Patricio Valenzuela 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a carta DE 05186-26 
+[1] CSP-GE-LT-CEN-0388 Respuesta 
+Carta DE01003-26 de fecha 1 de abril 
+de 2026.  
+De nuestra consideración: 
+En relación con la carta DE05186-26, mediante la cual se solicita informar las razones del atraso en la 
+verificación del Servicio Complementario de Control Secundario de Frecuencia (CSF) y el estado de avance 
+de la implementación de enlaces, señales e integración requerida para las centrales CSP Cerro Dominador y 
+PFV Cerro Dominador, informamos lo siguiente. 
+El atraso en la ejecución de las verificaciones requeridas se debe a que ambas centrales se encuentran 
+desarrollando actividades de adecuación y normalización de sus sistemas de comunicaciones, las cuales 
+resultan necesarias para asegurar el correcto envío de señales operacionales y de control requeridas para la 
+prestación del Servicio Complementario de Control Secundario de Frecuencia. 
+En particular, durante el proceso se identificó la necesidad de efectuar modificaciones en la arquitectura de 
+comunicaciones actualmente en servicio, incluyendo el reemplazo y modernización de equipos, así como la 
+adecuación del esquema de comunicaciones, contemplando la migración desde el protocolo ICCP a IEC 
+60870-5-104, de acuerdo con lo informado en carta de la Ref. [1]. 
+Adicionalmente, la ejecución de estas actividades ha requerido procesos de ingeniería, configuración, 
+pruebas de interoperabilidad y validaciones conjuntas con distintos proveedores y especialistas, lo que ha 
+extendido los plazos originalmente considerados. 
+Actualmente los trabajos se encuentran en desarrollo y se estima concluir las actividades pendientes de 
+implementación, validación y verificación durante el mes de octubre de 2026, fecha en la cual se espera 
+disponer de las condiciones necesarias para completar el proceso de verificación del Servicio 
+Complementario de Control Secundario de Frecuencia para ambas centrales. 
+Sin otro particular, saluda atentamente, 
+ 
+_______________________ 
+Sebastián Parra 
+Cerro Dominador CSP S.A. 
+Signed by:Sebastian Parra
+Signed at:2026-08-07 14:06:02 -04:00
+Reason:Firmado por Sebastian Parra

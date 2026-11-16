@@ -1,0 +1,294 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 12 de mayo de 2026 
+DE 03185-26 
+ 
+ 
+Señor 
+Daniel Tapia 
+Encargado Titular 
+Parque Eólico Antofagasta SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación de 
+los Servicios Complementarios de Control de 
+Tensión y Control Secundario de Frecuencia e 
+integración al Despacho Económico de la 
+central PE Antofagasta (NUP 1794). 
+ 
+[1] Carta 300326-RRC-PEAN-CEN-102 de 
+Parque 
+Eólico 
+Antofagasta 
+SpA, 
+Ref.: 
+“Responde observaciones y entrega Informe de 
+Control de Tensión, proyecto Parque Eólico 
+Antofagasta con NUP 1794”, de fecha 30 de 
+marzo de 2026. 
+Responde a Ingreso DE03103-26. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), ha finalizado el proceso de verificación de los SSCC de Control de Tensión (CT) y 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+de la central PE Antofagasta.  
+ 
+Como resultado de este proceso, la instalación mencionada queda habilitada para la 
+prestación de los mencionados servicios de CT y CSF a partir de las 00:00 del día 14 de 
+mayo de 2026, considerando los recursos indicados en el anexo a la presente carta. 
+ 
+Con respecto al CSF, para efectos de elaborar el correspondiente Informe Técnico de 
+Verificación según lo establecido en la Guía de Verificación de Control de Frecuencia, 
+solicito a Ud. enviar a la dirección electrónica dmap@coordinador.cl, a más tardar el 
+próximo 11 de junio de 2026, la siguiente información asociada al parque: 
+• 
+Layout o diagrama simple que muestre la arquitectura de comunicaciones y equipos 
+implementados para integrarse al AGC.  
+• 
+Certificado de la compañía de telecomunicaciones u otro documento que certifique el 
+cumplimiento del 99.95% de disponibilidad del sistema de comunicaciones 
+implementado para integrarse al AGC. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CT y CSF de la central PE Antofagasta, se encuentran publicados en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación:  
+ 
+1. > Control de Tensión > PE Antofagasta 
+2. > Control de Frecuencia > Control Secundario de Frecuencia > Central PE 
+Antofagasta 
+ 
+Dado lo anterior, para que la central PE Antogafasta pueda participar de las subastas de 
+CSF, se deberá completar el proceso de solicitud de incorporación a la plataforma de 
+subastas. Para ello, su representada deberá presentar los antecedentes indicados en las 
+Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026) 
+ 
+Sin perjuicio de lo anterior, la instalación en asunto podrá ser instruida de manera directa 
+por el Coordinador Eléctrico Nacional en la prestación del Control Secundario de 
+Frecuencia. 
+ 
+En el caso de que su representada tenga alguna consulta sobre el procedimiento de 
+Subastas para Control de Frecuencia, estas pueden ser dirigidas a la casilla de correo 
+electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+C.c.: 
+Sr. Rodrigo Paredes – Encargado Suplente Parque Eólico Antofagasta SpA 
+DCO/DMAP 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PE Antofagasta 
+1. 
+Identificación de las Instalaciones Verificadas 
+A continuación, se describen los parámetros operacionales preliminares considerados en 
+el proceso de verificación, los que se encuentran en proceso de aceptación por el 
+Coordinador Eléctrico: 
+a) Central PE Antofagasta 
+• 
+Potencia máxima bruta: 356,950 [MW] 
+• 
+Potencia máxima neta: 350,793 [MW] 
+• 
+Potencia mínima bruta: 1,401 [MW]  
+• 
+Potencia mínima neta: 0,999 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Secundario de Frecuencia 
+• 
+La verificación del CSF se realizó con el CPF habilitado y deshabilitado, utilizando 
+para este efecto un estatismo de 3,63% y una banda muerta de 25 mHz. 
+• 
+Para la prestación del SC de Control Secundario de Frecuencia se consideran todos 
+los aerogeneradores en servicio. 
+• 
+Se establece como límite inferior de regulación de CSF el valor de 36,4 MW, valor 
+que permite mantener la totalidad de los aerogeneradores en servicio. 
+b) Control de Tensión 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado para la central PE 
+Antofagasta. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en página siguiente. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Secundario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+Central PE 
+Antofagasta 
+ 
+Eólico 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+18,2 
+ 
+Bajada 
+18,2 
+ 
+Aporte CSF [MW] (1) 
+Subida 
+91 
+ 
+Bajada 
+-91 
+ 
+Límite de regulación superior [MW]  
+350,79 
+ 
+Límite de regulación inferior [MW] 
+36,4 
+ 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a potencia activa neta en el POI, podrán 
+verse modificados si se actualizan los parámetros operacionales de la central PE Antofagasta. 
+ 
+b) Control de Tensión 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Instalación 
+Recurso 
+Primario 
+             Tensión [pu] 
+(1) 
+ 
+Potencia [MW] 
+Potencia Reactiva [MVAr]  
+0,93 
+0,95 
+1 
+1,03 
+1,05 
+Central PE 
+Antofagasta 
+Eólico 
+71,6 
+184,4 
+184,3 
+184,8 
+185,4 
+186,8 
+178,9 
+167,4 
+167,3 
+169,1 
+168,9 
+170,8 
+339,0 
+111,7 
+111,5 
+111,7 
+111,7 
+111,7 
+357,8 
+0,0 
+0,0 
+0,0 
+0,0 
+0,0 
+357,8 
+0,0 
+0,0 
+0,0 
+0,0 
+0,0 
+339,0 
+-111,7 
+-111,7 
+-111,7 
+-111,7 
+-111,7 
+178,9 
+-211,9 
+-208,0 
+-207,9 
+-207,0 
+-205,8 
+71,6 
+-189,9 
+-187,3 
+-187,4 
+-186,8 
+-187,4 
+(1) Corresponde al rango de tensión asociado al estado de emergencia para la operación de instalaciones de 
+transmisión con tensión nominal de 500 kV. 

@@ -1,0 +1,137 @@
+ 
+Santiago, 24 de septiembre de 2026 
+Señor 
+Ramón Castañeda Ponce 
+Director Ejecutivo  
+Coordinador Eléctrico Nacional 
+ 
+Presente: 
+ 
+REF.: Responde Oficio Circular Electrónico N°350943 de 11 de septiembre de 2026. Caso Times N°2401418. 
+ 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, y en cumplimiento de lo requerido en el Oficio Circular Electrónico N°350943, de 11 de septiembre 
+de 2026 (el “Oficio”), Energy Asset SpA (“ENERGYASSET”) viene en informar al Coordinador Eléctrico Nacional, con 
+copia a la Superintendencia de Electricidad y Combustibles, las acciones y plazos adoptados para regularizar las 
+observaciones comunicadas mediante Carta DE05705-2026, así como las medidas destinadas a evitar su reiteración. 
+Esta presentación se formula dentro del plazo indicado en el numeral 5 del Oficio y menciona expresamente el Caso 
+Times N°2401418. 
+ 
+1. Revisión y alcance de las observaciones. ENERGYASSET revisó los antecedentes relativos a las facturas asociadas 
+al Cargo por Servicio Público, tanto en su componente Base como en el Fondo de Estabilización, y a las declaraciones 
+correspondientes a los últimos doce meses señaladas por el Coordinador en su Carta DE05705-2026. Asimismo, 
+inició una conciliación individual de las facturas, declaraciones, pagos y eventuales diferencias pendientes. 
+ 
+2. Acciones y plazo de regularización. Con fecha 28 de agosto de 2026, ENERGYASSET coordinó con representantes 
+del Coordinador un cronograma de regularización, cuyo plazo máximo es el 25 de septiembre de 2026.  
+ 
+3. Seguimiento. ENERGYASSET mantendrá informado al Coordinador respecto del cierre de la regularización y 
+remitirá los antecedentes de respaldo correspondientes.  
+ 
+4. Documentos de respaldo. Los comprobantes de pago, conciliaciones, rectificaciones y comunicaciones que 
+acrediten las actuaciones señaladas precedentemente se acompañan a esta presentación. 
+ 
+ 
+ 
+Sin otro particular, y quedando a su entera disposición para aclarar cualquier punto adicional que se estime 
+pertinente, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+MIGUEL IGLESIAS HURTUBIA 
+Gerente General 
+Energy Asset SpA 
+ 
+ 
+ 
+ 
+c.c.: Superintendencia de Electricidad y Combustibles; Oficina de Partes; Caso Times N°2401418 
+ 
+ 
+ 
+Docusign Envelope ID: 006CAB9E-8F24-868F-83D1-EAACBD1DD1C2
+
+Certificate Of Completion
+Envelope Id: 006CAB9E-8F24-868F-83D1-EAACBD1DD1C2
+Status: Completed
+Subject: Complete with Docusign: Respuesta_Oficio_350943_Energy_Asset_SpA_REVISADA_control_cambios.pdf
+Source Envelope: 
+Document Pages: 1
+Signatures: 1
+Envelope Originator: 
+Certificate Pages: 1
+Initials: 0
+Miguel Iglesias Hurtubia
+AutoNav: Enabled
+EnvelopeId Stamping: Enabled
+Time Zone: (UTC-04:00) Asuncion
+miguel.iglesias@energyasset.cl
+IP Address: 186.67.7.176   
+Record Tracking
+Status: Original
+             9/24/2026 6:43:59 PM
+Holder: Miguel Iglesias Hurtubia
+             miguel.iglesias@energyasset.cl
+Location: DocuSign
+Signer Events
+Signature
+Timestamp
+Miguel Iglesias Hurtubia
+miguel.iglesias@energyasset.cl
+CEP
+ENERGY ASSET SpA
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 186.67.7.176
+Sent: 9/24/2026 6:44:36 PM
+Viewed: 9/24/2026 6:44:42 PM 
+Signed: 9/24/2026 6:44:53 PM
+Freeform Signing
+Electronic Record and Signature Disclosure: 
+      Not Offered via Docusign
+In Person Signer Events
+Signature
+Timestamp
+Editor Delivery Events
+Status
+Timestamp
+Agent Delivery Events
+Status
+Timestamp
+Intermediary Delivery Events
+Status
+Timestamp
+Certified Delivery Events
+Status
+Timestamp
+Carbon Copy Events
+Status
+Timestamp
+Witness Events
+Signature
+Timestamp
+Notary Events
+Signature
+Timestamp
+Envelope Summary Events
+Status
+Timestamps
+Envelope Sent
+Hashed/Encrypted
+9/24/2026 6:44:36 PM
+Certified Delivered
+Security Checked
+9/24/2026 6:44:42 PM
+Signing Complete
+Security Checked
+9/24/2026 6:44:53 PM
+Completed
+Security Checked
+9/24/2026 6:44:53 PM
+Payment Events
+Status
+Timestamps

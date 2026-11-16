@@ -1,0 +1,489 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 11 de marzo de 2025 
+DE 01471-25 
+Señor 
+Pablo Jorquera R. 
+Encargado Titular 
+Engie Energía Chile S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario 
+de 
+Frecuencia, 
+Control 
+Terciario 
+de 
+Frecuencia y Control de Tensión del PE Lomas de 
+Taltal. 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los SSCC de Control Primario de 
+Frecuencia (CPF), Control Terciario de Frecuencia (CTF) y Control de Tensión (CT) del PE 
+Lomas de Taltal.  
+ 
+Como resultado de este proceso, la central mencionada quedará habilitada para la 
+prestación del mencionado servicio a partir de las 00:00 del jueves 13 de marzo de 2025, 
+considerando los recursos indicados en Anexo de la presente carta.  
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF, CTF y CT del PE Lomas de Taltal se han publicado en la siguiente 
+ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación: 
+ 
+1. Control de Frecuencia > Control Primario de Frecuencia > PE Lomas de Taltal 
+(Kallpa) 
+2. Control de Frecuencia > Control Terciario de Frecuencia > PE Lomas de Taltal 
+(Kallpa) 
+3. Control de Tensión > PE Lomas de Taltal (Kallpa) 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2].  Pese a no contar 
+con las señales necesarias para evaluar el desempeño en la prestación, la Central 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+PE Lomas de Taltal quedará habilitada para prestar el Servicio Complementario 
+(SC) de Control Primario de Frecuencia (CPF), pudiendo ser instruida por este 
+Coordinador para prestar dicho servicio. En dicho caso, la evaluación de estás 
+instrucciones será “No Verificable”. 
+• 
+Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, para la evaluación de desempeño se podrán utilizar 
+medios alternativos para poder realizar la evaluación de desempeño de la prestación 
+del SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, el PE Lomas de Taltal (Kallpa) podrá participar de las subastas de Control de 
+Frecuencia, una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/adr 
+c.c.:  
+Sr. Juan Muñoz T. – Encargado Suplente Engie Energía Chile S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Referencias: 
+ 
+[1] Carta ENGIE N°053/2025, Ref.: “Responde DE00986-25 Observaciones a Informes 
+Técnicos de Verificación de SS.CC. del Parque Eólico Lomas de Taltal (Kallpa)”, de fecha 
+26 de febrero de 2025. Ingreso DE01207-25. 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 
+> 
+Instructivos 
+Técnicos 
+> 
+Protocolo 
+de 
+envío 
+de 
+registros 
+Potencia/Frecuencia para la evaluación del CPF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC del PE Lomas de 
+Taltal 
+ 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE Lomas de Taltal (Potencia máxima neta 339,101 MW) 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Terciario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia  
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+Control de 
+Tensión 
+Control de Tensión 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Central con rango de ajuste de estatismo del 0% al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados con la unidad en servicio por el 
+especialista del PPC del parque eólico. 
+• 
+Estatismo (R) actual se encuentra ajustado al 7,5%, respecto a una potencia base 
+igual a su potencia máxima neta (339,1 MW).  
+b) Control Terciario de Frecuencia: 
+Sin condiciones específicas para el SC mencionado. 
+c) Control de Tensión: 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Engie Energía Chile 
+S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en las páginas siguientes. 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Primario de Frecuencia: 
+SSCC 
+  
+Control de Frecuencia 
+Categoría 
+  
+Control Primario de Frecuencia 
+Subcategoría 
+  
+CPF+ y CPF- 
+  
+  
+  
+Valor determinado 
+Características del 
+Controlador de Frecuencia 
+Rango de ajuste Estatismo 
+0 - 8% 
+Estatismo 
+7,5% 
+Rango de ajuste Banda muerta [mHz] 
+25 – 200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+339,1 
+Límite de regulación inferior [MW] (3) 
+26,0 
+Aportes (4) 
+BM = 25 [mHz] 
+R= 7,5% 
+10 segundos 
+Aporte +0,2[Hz] [MW] 
+-14,3 
+Aporte -0,2[Hz] [MW] 
+14,0 
+Aporte +0,7[Hz] [MW] 
+-61,0 
+Aporte -0,7[Hz] [MW] 
+61,0 
+5 minutos 
+Aporte +0,2[Hz] [MW] 
+-16,0 
+Aporte -0,2[Hz] [MW] 
+15,2 
+Aporte +0,7[Hz] [MW] 
+-60,6 
+Aporte -0,7[Hz] [MW] 
+53,7 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia Máxima neta declarada al Coordinador. 
+(3) Correspondiente al Mínimo Técnico neto de la central declarado al Coordinador. Este considera todos los 
+aerogeneradores en funcionamiento. Este valor a la fecha se encuentra en proceso de revisión, por lo que este límite 
+podría verse afectado al momento de aceptar el parámetro, en caso de poder alcanzar un valor de operación menor sin 
+emplear acciones manuales de detención de aerogeneradores.  
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 200 [MW]. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+b) Control Terciario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+PE Lomas de 
+Taltal 
+Eólico 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+57,600 
+Bajada 
+57,600 
+Tasa máxima de operación 
+[MW/min] 
+Subida 
+342,000 
+Bajada 
+342,000 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+Bajada 
+<5 
+Aporte CTF [MW] 
+Subida 
+339,101 
+Bajada 
+-339,101 
+Límite de regulación superior [MW] (1) 
+339,101 
+Límite de regulación inferior [MW] (1) 
+0,000 
+(1) Los límites de regulación y el aporte máximo de CTF podrán verse modificados si se actualizan los parámetros 
+operacionales del PE Lomas de Taltal. 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+PE Lomas de 
+Taltal 
+Eólico 
+Tiempo hasta sincronización [min] 
+0,000 
+Tiempo hasta mínimo técnico [min]  
+2,970 
+Reserva Fría [MW]  
+339,101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+c) Control de Tensión: 
+ 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modos de Control 
+Control de Reactivos (Modo PQ) 
+Control de Tensión (Modo PV) 
+Control de Factor de Potencia (Modo cos(φ)) 
+Central 
+ Tensión [pu]  
+ 
+Potencia [MW] 
+Valor Determinado [MVAr] 
+0,90 
+0,95 
+1,00 
+1,05 
+1,10 
+PE Lomas de 
+Taltal 
+26 
+-115,0 
+-115,0 
+-115,0 
+-115,0 
+-115,0 
+165 
+-132,0 
+-132,0 
+-132,0 
+-132,0 
+-132,0 
+295 
+-175,0 
+-175,0 
+-175,0 
+-175,0 
+-175,0 
+339 
+-80,0 
+-80,0 
+-100,0 
+-100,0 
+-100,0 
+339 
+40,0 
+40,0 
+40,0 
+40,0 
+0,0 
+320 
+110,0 
+110,0 
+110,0 
+110,0 
+110,0 
+170 
+160,0 
+160,0 
+160,0 
+160,0 
+160,0 
+26 
+175,0 
+175,0 
+175,0 
+175,0 
+175,0 
+ 

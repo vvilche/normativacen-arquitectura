@@ -1,0 +1,102 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 17 de noviembre de 2025 
+DE 07358-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Mínimo Técnico de la Central 
+PFV Leyda. 
+[1] Carta S/N del Coordinado Parque Solar Leyda 
+SpA, Ref.: “NUP 1717 PFV Leyda | Entrega 
+actualización de Informe de Mínimo Técnico”, de 
+fecha 05 de noviembre de 2025. Ingreso 
+DE11121-25 
+[2] Carta DE04972-25, Ref.: “[NUP 1717] Informes 
+Técnicos de Parámetros Operacionales del PFV 
+Leyda”, de fecha 12 de agosto de 2025. 
+[3] Carta DE06388-25, Ref.: “Observaciones al 
+informe 
+de 
+Mínimo 
+Técnico 
+del 
+Parque 
+Fotovoltaico Leyda”, de fecha 09 de octubre de 
+2025 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PFV Leyda, en conformidad con el Informe 
+Técnico Final recibido mediante carta de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+publicado en la página web del Coordinador mediante la comunicación de la Ref. [2]. Por 
+su parte, el Coordinador emitió observaciones de carácter técnico al informe mencionado, 
+mediante la comunicación de la Ref. [3], la que derivó en la versión final recibida mediante 
+Ref. [1]. 
+ 
+Conforme a lo anterior, los parámetros de Mínimo Técnico de la Central PFV Leyda se 
+presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Mínimo Técnico del Parque Fotovoltaico Leyda 
+Central/Unidad 
+Mínimo Técnico 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en 
+la central(1) 
+[MW] 
+Potencia Mínima 
+Neta(2) 
+[MW] 
+PFV Leyda 
+0,7874 
+0,1315 
+0,0570 
+0,5989  
+(1) Este valor corresponde a las pérdidas en el transformador de poder de la central (0,0345 MW) y las 
+del sistema colector en media tensión (0,0225 MW). 
+(2) Inyectada en la barra de 110kV de S/E Santo Domingo. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+En cumplimiento del Artículo 12 del Anexo Técnico antes mencionado, el valor de Mínimo 
+Técnico de la Central PFV Leyda, entrará en vigencia a partir de las 00:00 horas del 19 de 
+noviembre de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Mínimo Técnico > Informes de Mínimos Técnicos Unidades 
+Generadoras > Central PFV Leyda > 2025 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GZV/CRV/PPF/PBA/adr 
+ 
+ 

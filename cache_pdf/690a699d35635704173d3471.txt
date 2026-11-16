@@ -1,0 +1,155 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 04 de noviembre 2025 
+DE 07100-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de Parámetros de Partida y 
+Detención de la Central PFV Valle del Sol. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros de Partida y Detención de Unidades Generadoras” de la Norma Técnica de 
+Seguridad y Calidad de Servicio, comunico a Ud. La aceptación por parte del Coordinador 
+Eléctrico Nacional de los Parámetros de Partida y Detención de la Central PFV Valle del 
+Sol, en conformidad con el Informe Técnico final recibido mediante la comunicación de la 
+Ref. [1]. 
+ 
+Adicionalmente, se deja en constancia que en el plazo establecido por el Artículo 11 del 
+Anexo Técnico en aplicación no se recibieron observaciones de coordinado alguno al 
+informe publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, este Coordinador efectuó observaciones de carácter técnico mediante la 
+comunicación de la Ref. [3]. al informe antes mencionado, las cuales fueron subsanadas 
+por el coordinado Enel Green Power Chile S.A. 
+ 
+Conforme con lo anterior, los valores de Parámetros de Partida y Detención de la Central 
+PFV Valle del Sol se presentan en las tablas contenidas en el Anexo de la presente carta. 
+ 
+En cumplimiento del Artículo 13 del Anexo Técnico en mención, los parámetros para los 
+procesos de Partida y Detención mencionados entrarán en vigencia a partir de las 00:00 
+horas del 06 de noviembre de 2025. 
+ 
+La versión final del informe de Parámetros de Partida y Detención que contiene la 
+justificación de los parámetros indicados anteriormente ha sido publicada en la siguiente 
+ruta de la página del Coordinador Eléctrico nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Parámetros de Partida y Detención > Informes de Determinación de 
+Parámetros de Partida y Detención > Central PFV Valle del Sol 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/SGM/RSM/adr 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Referencias 
+ 
+[1] Carta EGP 051-24 del Coordinado Enel Green Power Chile S.A., Ref.: “Observaciones 
+informe de Parámetros de Partida y Detención para el Parque Fotovoltaico Valle del Sol 
+(NUP 1210)”, de fecha 29 de marzo de 2023. Ingreso DE03373-24 
+ 
+[2] Carta DE01589-23, Ref.: “Informe de Parámetros de Partida y Detención de la Central 
+PFV Valle del Sol, del Coordinado Enel Green Power Chile S.A.”, de fecha 17 de abril de 
+2023. 
+ 
+[3] Carta DE05390-23, Ref.: “Observaciones al Informe de Parámetros de Partida y 
+Detención de Central PFV Valle del Sol, del Coordinado Enel Green Power Chile S.A.”, de 
+fecha 23 de noviembre de 2023. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central PFV Valle del 
+Sol 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PFV Valle del Sol (1) 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – 
+Sincronización 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+4,5330 
+5,4160 
+Sincronización – 
+Mínimo Técnico 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+1,1000 
+5,5830 
+Mínimo Técnico – 
+Potencia Nominal 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+5,1118  
+5,1118 
+(1) Los valores de potencia máxima y mínima neta de la Central PFV Valle del Sol son de 
+149,5500 MW y 5,5800 MW respectivamente.  
+ 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PFV Valle del Sol 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia Nominal – 
+Mínimo Técnico  
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0500 
+4,0837 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,1660 
+0,1660 
+Desconexión – 
+Detención 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+Nota: El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo de Detención 
+(TMD) son 0 [min]. 
+ 

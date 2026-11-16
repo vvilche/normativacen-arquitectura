@@ -1,0 +1,158 @@
+ 
+Santiago, 10 de abril de 2025. 
+  ACC.ECH.045.25 
+Señor: 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe Desempeño Servicios Complementarios – marzo 2025. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de marzo 2025, que fue publicado en su página web y cuya publicación fue comunicada a través 
+de la carta DE 02006-25 de fecha 07 de abril de 2025. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+Felipe Escobar Tapia 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC MARZO 2025 V1 
+Servicio Complementario – CPF 
+Planta: PFV Malgarida 
+Comentario 
+El documento "SSCC_Desempeno_Marzo_2025_V1" determina que el desempeño de la central solar fotovoltaica PFV Malgarida no es verificable, esto siendo que la central prestó 
+recurrentemente el servicio de Control Primario de Frecuencia y cuyos antecedentes que permitirían verificar el desempeño fueron enviados al Coordinador en el formato requerido. 
+Servicio Complementario – CT 
+Planta: PFV El Romero 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO registro 
+RIO 
+Comentario 
+- 
+-60 
+-60 
+2025-03-08 00:00:00 
+Instrucción calificada como “NC”, pero registro en RIO no corresponde a una nueva instrucción, si no a la 
+continuidad del servicio hasta el siguiente día. 
+- 
+-60 
+-60 
+2025-03-09 00:00:00 
+Instrucción calificada como “NC”, pero registro en RIO no corresponde a una nueva instrucción, si no a la 
+continuidad del servicio hasta el siguiente día. 
+- 
+-60 
+-60 
+2025-03-15 20:02:00 
+La instrucción fue calificada como “NC”; sin embargo, el registro en RIO no corresponde a una nueva 
+instrucción, sino a la continuidad del servicio tras el término de la generación. Desde el 06-03-2025, el 
+CDC nos instruyó explícitamente que no se deben consignar los reactivos en 0 MVAr al finalizar la 
+generación sin una confirmación previa de su parte. En este caso particular, el CDC solicitó continuar con 
+la prestación de los SSCC de CT. 
+ 
+-60 
+-60 
+2025-03-26 19:30:00 
+La instrucción fue calificada como “NC”; sin embargo, el registro en RIO no corresponde a una nueva 
+instrucción, sino a la continuidad del servicio tras el término de la generación. Desde el 06-03-2025, el 
+CDC nos instruyó explícitamente que no se deben consignar los reactivos en 0 MVAr al finalizar la 
+generación sin una confirmación previa de su parte. En este caso particular, el CDC solicitó continuar con 
+la prestación de los SSCC de CT. 
+- 
+-60 
+-60 
+2025-03-27 00:00:00 
+Instrucción calificada como “NC”, pero registro en RIO no corresponde a una nueva instrucción, si no a la 
+continuidad del servicio hasta el siguiente día. 
+ 
+ 
+
+Planta: PFV Almeyda 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO registro 
+RIO 
+Comentario 
+2025-03-02 
+8:24:55 
+-17 
+- 
+- 
+Sin registro en RIO, por lo tanto, no se evalúa su desempeño. Se corrobora en llamada que CDC realiza la 
+solicitud a las 8:23:00 hrs. 
+Planta: PFV Malgarida 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO registro 
+RIO 
+Comentario 
+2025-03-02 
+8:23:53 
+-60 
+- 
+- 
+Sin registro en RIO, por lo tanto, no se evalúa su desempeño. Se corrobora en llamada que CDC realiza la 
+solicitud a las 8:23:00 hrs. 
+Servicio Complementario – CTF 
+Planta: PE Tolpán Sur 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MW] 
+Registro ∆P 
+RIO 
+Hora INICIO 
+registro RIO 
+Hora FIN registro 
+RIO 
+Comentario 
+2025-03-06 
+18:55 
+27 
+-32 
+2025-03-06 
+18:54:00 
+2025-03-06 
+19:11:00 
+El C3 de la instrucción se encuentra con mal desempeño, pero el tc2 es a las 18:58:35 con 
+ptc2 de 27MW. Consigna que es sostenida hasta el final de la instrucción. 
+2025-16-03 
+20:00 
+2.5 
+-32 
+2025-03-16 
+19:56:00 
+2025-03-16 
+20:22:00 
+El C3 de la instrucción se encuentra con mal desempeño, pero el tc2 es a las 20:04:30 con 
+ptc2 de 2.5 MW. Consigna que es sostenida hasta el final de la instrucción. 
+2025-21-03 
+20:03 
+14 
+-39.5 
+2025-03-21 
+20:03:00 
+2025-03-21 
+20:58:00 
+El C3 de la instrucción se encuentra con mal desempeño, pero el tc2 es a las 20:09:30 con 
+ptc2 de 14 MW. Consigna que es sostenida hasta el final de la instrucción. 
+ 
+ 

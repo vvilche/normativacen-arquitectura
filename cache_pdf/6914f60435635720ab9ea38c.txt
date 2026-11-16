@@ -1,0 +1,84 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 10 de noviembre de 2025 
+AEL094-25 
+ 
+Señor 
+Jorge Luis Gallegos Mellado  
+Ingeniero de Análisis de la Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+Ref.: Responde DE06874-25  EAF 239-2025 - Apertura 
+intempestiva del interruptor 52CTSA5 de S/E Central 
+Mampil 
+ 
+De nuestra consideración: 
+ 
+Nos referimos a la carta DE06874-25 enviada por el Coordinador Eléctrico Nacional, a través de la cual se 
+solicitan los resultados de la investigación orientada a determinar el origen y la causa de la falla indicada 
+en la referencia, junto con el análisis detallado de los registros de las protecciones, con el objetivo de 
+evaluar posibles mejoras en sus ajustes actuales.  
+ 
+ 
+En relación con lo anterior, a continuación se indican nuestros comentarios: 
+ 
+Inspección en celda de 23 kV 
+ 
+ 
+La labor realizada se ejecutó finalmente durante una desconexión programada del día 24 de 
+septiembre del 2025, por lo que la empresa Energysur pudo realizar la inspección de manera 
+detallada y segura, pudiendo acceder a cada parte primordial de la celda que alimenta las 
+instalaciones de Coopelan en 23kv.  
+ 
+ 
+En el documento "Informe Celda 23 Kv Alimentador Coopelan Central Mampil" se detalla el 
+alcance de la inspección y chequeo de componentes de nuestras instalaciones desde donde nace 
+el alimentador de Coopelan, en donde no se levantan hallazgos u observaciones y se indican que 
+no existen condiciones o evidencias que supongan alguna interrupción a la calidad de suministro 
+de dicha cooperativa.  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+Análisis de registros y operación de protecciones 
+ 
+ 
+Del documento "Análisis_Falla_TSA5_Mampil" se concluye en resumen que, a pesar de que se 
+demuestra en el análisis que la falla estuvo ubicada en instalaciones ajenas a las nuestras, la 
+operación de la protección 51N de 13,8 kV fue en respuesta a una corriente In de origen 
+secundario producto de errores propios y esperables de los transformadores de corriente debido 
+a la alta corriente de falla circulante.  
+ 
+ 
+A pesar de que la operación anterior descrita fue de acuerdo con lo configurado y esperado para 
+las condiciones de falla, esta impidió que las funciones de sobrecorriente operaran de forma 
+coordinada ya que la función de sobrecorriente residual del lado de 13.8 kV del transformador 
+TSA5 cuenta con un ajuste muy sensible, siendo esta más rápida que las protecciones de 23 kV de 
+Coopelan. Se adjunta archivo ECAP correspondiente. 
+ 
+ 
+Sin otro particular, atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos De La Fuente 
+Encargado Titular 
+Aela Generación S.A. 
+ 
+ 

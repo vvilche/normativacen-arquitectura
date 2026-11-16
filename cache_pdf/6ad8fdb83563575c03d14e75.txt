@@ -1,0 +1,323 @@
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                  Agustinas 1343 Piso 4, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+1 
+Santiago, 20 de Octubre 2026 
+ 
+Señor 
+Victor Reyes Jara. 
+Jefe de departamento SCADA. 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+BF-E-CAE-2026-100: Respuesta a la solicitud 
+de 
+planes 
+de 
+acción 
+cumplimiento 
+de 
+disponibilidad SITR comunicado DE06736-26. 
+[1] DE06736-26  Seguimiento de planes de 
+acción cumplimiento de disponibilidad SITR. 
+De nuestra consideración: 
+ 
+Por medio de la presente y en relación con lo solicitado en la carta DE06736-26 [1], 
+mediante la cual se requiere la entrega de planes de acción para el cumplimiento de la 
+disponibilidad de señales SITR, informamos que, con fecha 20 de octubre de 2026, 
+Bioenergías Forestales SpA realizó la carga en la plataforma CONECTA del Coordinador 
+Eléctrico Nacional de los planes de acción asociados a las desviaciones identificadas en 
+las señales SITR, dando respuesta al requerimiento indicado en la referencia. 
+ 
+Asimismo, los antecedentes y planes de acción ingresados en dicha plataforma se 
+adjuntan a la presente comunicación como Anexo N°1. 
+ 
+Sin perjuicio de lo anterior, y de acuerdo con lo reportado previamente, actualmente se 
+mantiene una brecha respecto del cumplimiento del indicador de disponibilidad SITR. De 
+la revisión efectuada por Bioenergías Forestales SpA, se han identificado señales cuya 
+condición requiere revisión por parte del Coordinador Eléctrico Nacional, ya sea porque 
+no corresponderían al ámbito de gestión de nuestra representada o porque existen 
+diferencias entre la calidad de señal observada internamente y aquella reflejada en la 
+plataforma del Coordinador. 
+ 
+A continuación, se detallan los casos identificados: 
+ 
+1. Señales asociadas a “Bioenergías Forestales SpA PROV” 
+
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                  Agustinas 1343 Piso 4, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+2 
+En el reporte de Disponibilidad Online de SITR de la plataforma del Coordinador Eléctrico 
+Nacional se observan actualmente dos registros asociados al centro de control de 
+Bioenergías Forestales SpA: 
+1. Bioenergías Forestales SpA;  
+2. Bioenergías Forestales SpA PROV. 
+Al respecto, se solicita al Coordinador aclarar si la existencia de ambos Coordinados 
+corresponde a la configuración vigente de la plataforma o si “Bioenergías Forestales SpA 
+PROV” corresponde a un registro que requiere regularización. 
+ 
+Dentro de este último registro se identifican dos señales actualmente inválidas que sí 
+forman parte del listado de señales SITR de Bioenergías Forestales SpA y que 
+corresponden a la instalación CMPC Puente Alto. La regularización de estas señales se 
+encuentra incorporada dentro de las acciones comprometidas en el plan de acción 
+adjunto en el Anexo N°1. 
+ 
+CMPC Puente Alto: 
+• 
+CORD_11_5_TG1_DE_MSP_AN 
+• 
+CORD_11_5_TG1_DE_LOC_REM_ST 
+Adicionalmente, en el mismo reporte se identifican 17 señales que no forman parte de 
+las señales SITR correspondientes a Bioenergías Forestales SpA y que actualmente 
+inciden en el indicador de disponibilidad asociado al registro “Bioenergías Forestales SpA 
+PROV”. 
+ 
+Por lo anterior, se solicita al Coordinador revisar su asignación y, en caso de 
+corresponder, regularizar o excluir dichas señales del cálculo de disponibilidad SITR 
+asociado a Bioenergías Forestales SpA. 
+ 
+Las señales identificadas son las siguientes: 
+ 
+CONFLU: 
+• 
+CONFLU 15 DE G1 LIMITE MAX 
+• 
+CONFLU 15 DE G1 P 
+• 
+CONFLU 15 DE G1 LIMITE MIN 
+• 
+CONFLU 15 DE G1 LOCAL-REMOTO 
+• 
+CONFLU 15 DE G1 MSP 
+
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                  Agustinas 1343 Piso 4, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+3 
+• 
+CONFLU 15 DE G1 RAMPA BAJADA 
+• 
+CONFLU 15 DE G2 RAMPA SUBIDA 
+• 
+CONFLU 15 DE G2 P 
+• 
+CONFLU 15 DE G2 LIMITE MAX 
+• 
+CONFLU 15 DE G2 MSP 
+• 
+CONFLU 15 DE G2 LIMITE MIN 
+• 
+CONFLU 15 DE G2 LOCAL-REMOTO 
+• 
+CONFLU 15 DE G2 RAMPA BAJADA 
+LAHIGUE: 
+• 
+LAHIGUE 13. DE G1 RAMPA BAJADA 
+• 
+LAHIGUE 13. DE G2 RAMPA SUBIDA 
+CHARRUA: 
+• 
+CHARRUA 220 J10 RECOAUTO HABL-DESH 
+• 
+CHARRUA 220 J10 TELEPR PRI HABL-DESH 
+2. Observaciones a señales asociadas a Bioenergías Forestales SpA 
+Respecto del reporte de Disponibilidad Online de SITR correspondiente al registro 
+“Bioenergías Forestales SpA”, se identificaron las siguientes situaciones que requieren 
+revisión o aclaración por parte del Coordinador. 
+ 
+2.1 SE Puente Alto 110 kV y Central CMPC Cordillera: 
+ 
+Dentro de las señales correspondientes a SE Puente Alto 110 kV y Central CMPC 
+Cordillera, el reporte considera señales asociadas a los equipos primarios HT3 y TR3, las 
+cuales no han sido consideradas dentro del envío SITR a la fecha. 
+ 
+En consideración de lo anterior, se solicita al Coordinador confirmar si estas señales 
+deben ser incorporadas al envío SITR de Bioenergías Forestales SpA, a fin de efectuar 
+las acciones de regularización que correspondan. 
+ 
+Las señales observadas son: 
+• 
+PTEALTO 110 HT3 LOCAL-REMOTO 
+• 
+PTEALTO 110 HT3 FALLA INTERRUPTOR 
+• 
+PTEALTO TR3 DESENGANCHE 
+
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                  Agustinas 1343 Piso 4, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+4 
+• 
+PTEALTO 12 CS2 INT 
+• 
+PTEALTO 12 CT3 DESC1 
+• 
+PTEALTO 12 CT3 INT 
+• 
+PTEALTO 110 HT3 INT 
+• 
+PTEALTO 110 HT3 DESC1 
+2.2 Laja 
+ 
+Respecto de la señal ICCP LAJA_13$2_52k3_ST, asociada al interruptor de la TG3 de 
+Central CMPC Celulosa Laja, se observa que actualmente figura con calidad inválida en 
+el reporte de Disponibilidad Online de SITR del Coordinador Eléctrico Nacional. 
+ 
+Sin embargo, de acuerdo con la revisión interna realizada por Bioenergías Forestales 
+SpA, la señal se encuentra siendo enviada con la calidad esperada. 
+ 
+Por lo anterior, se solicita al Coordinador revisar la recepción, procesamiento y estado 
+de dicha señal en la plataforma, con el objeto de determinar la causa de la diferencia 
+observada. 
+ 
+Como respaldo de lo anterior, se incorpora la evidencia correspondiente en la Figura 1. 
+Figura 1. Evidencia de calidad válida de la señal LAJA_13$2_52K3_ST. 
+ 
+Figura 1Evidencia de calidad Valida LAJA13$2_52K3_ST 
+ 
+2.3 Santa Fe Energía: 
+ 
+Respecto de la señal ICCP: SFE_13$2_HZ_BARRA, asociada a la medición de frecuencia 
+[Hz], actualmente está presenta calidad inválida producto del Overhaul de Central Santa 
+Fe Energía, asociado al documento Neomante N°2026109081. 
+ 
+
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                  Agustinas 1343 Piso 4, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+5 
+La normalización de esta señal se encuentra considerada dentro de las acciones 
+comprometidas en el plan de acción cargado en la plataforma CONECTA y adjunto como 
+Anexo N°1 de la presente carta. 
+ 
+Finalmente solicitamos al Coordinador Eléctrico Nacional tener por informados los planes 
+de acción comprometidos por Bioenergías Forestales SpA y, adicionalmente, revisar y 
+regularizar, según corresponda, las señales y registros indicados en los numerales 
+precedentes, de manera que el indicador de disponibilidad SITR refleje las señales 
+efectivamente asociadas y bajo gestión de nuestra representada. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marcelo Lagos Peña. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+Encargado Suplente Bioenergías Forestales SpA.  
+ 
+ 
+
+ 
+        BIOENERGIAS FORESTALES
+ 
+ 
+ 
+ 
+ 
+                  Agustinas 1343 Piso 4, Santiago, Chile 
+ 
+ 
+ 
+ 
+    www.cmpc.com 
+  
+6 
+[ANEXO 1] 
+ 
+ 
+Documento de respuesta requerimiento SITR 
+ 
+Rut (XX.XXX.XXX-X): 79.188.197-3 
+Empresa Coordinada (Nombre real): Bioenergías Forestales Spa. 
+Entregó plan de acción antes (Si/No): Si 
+Plan de Trabajo (Fecha Fin DD/MM/YYYY): Fecha Fin 31/12/2026 
+Porcentaje de avance Plan de Trabajo (%): 80% 
+Diagnostico o levantamiento (Fecha Fin DD/MM/YYYY): Finalizado 
+Porcentaje de avance Diagnostico o levantamiento (%): 100% 
+Desarrollo de los trabajos (Fecha Fin DD/MM/YYYY): Finalizado 
+Porcentaje de avance Desarrollo de los trabajos (%): 100% 
+Pruebas de normalización (Fecha Fin DD/MM/YYYY): 10/12/2026 
+Porcentaje de avance Pruebas de normalización (%): 80% 
+Cierre (Fecha Fin DD/MM/YYYY): 31/12/2026 
+Porcentaje de avance Cierre (%):80% 
+Observaciones adicionales: Se adjunta Carta BF-E-CAE-2026-100- con observaciones a 
+listado de señales SITR asociados al coordinado Bioenergías Forestales SpA. En carta se 
+detalla Señales ICCP de las cuales no forman parte del coordinado Bioenergías Forestales y 
+que actualmente afectan la disponibilidad SITR. 
+ 
+ 
+*Nota 
+Se agradece a usted y a su representada mantener el formato indicado, absteniéndose de incorporar imágenes, tablas u 
+otros elementos adicionales, y limitando la respuesta exclusivamente a lo solicitado, con el fin de agilizar el análisis de la 
+información a ser reportada a la Superintendencia de Electricidad y Combustibles (SEC). 
+Para efectos del presente requerimiento, se entenderá por cumplimiento que el indicador mensual de disponibilidad sea 
+igual o superior a 99,5%. 
+ 
+ 

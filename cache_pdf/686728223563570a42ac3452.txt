@@ -1,0 +1,268 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+      
+ 
+Santiago, 03 de julio de 2025 
+ 
+DE 04053-25 
+ 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Presente 
+ 
+ 
+Ref.: Instalaciones Eléctricas Esenciales, según 
+Anexo Técnico: “Programa de Solicitudes 
+de Trabajo de Curso Normal” de la Norma 
+Técnica de Coordinación de la Operación. 
+ 
+ 
+De mi consideración: 
+ 
+Me refiero a lo indicado en el Anexo Técnico: “Programa de Solicitudes de Trabajo de Curso 
+Normal”, en su versión de Marzo 2025, el que establece en su Artículo 25 que este 
+Coordinador deberá calificar las Instalaciones Eléctricas Esenciales del Sistema Eléctrico 
+Nacional, en función del riesgo para la operación segura del sistema que supondría la 
+ocurrencia de una contingencia sobre la misma, conforme con lo establecido en el Artículo 
+6 de dicho Anexo Técnico. 
+Al respecto, por medio de la presente, comunico a usted el listado de las Instalaciones 
+Eléctricas Esenciales elaborado por este Coordinador1, que da cumplimiento con lo exigido 
+en el referido Anexo Técnico. En caso de comentarios u observaciones a dicho listado, 
+agradeceré a usted su envío a la dirección electrónica daop@coordinador.cl, a más tardar 
+el día 18 de julio del presente, para efectos de poner a disposición su versión inicial y 
+proceder con la difusión del informe que establece los criterios y metodologías de la 
+categorización de dichas instalaciones eléctricas. 
+Junto con lo anterior, comunicamos a usted que, con el propósito de poder realizar 
+oportunamente las adecuaciones requeridas en vuestros procesos internos, la fecha de 
+puesta en vigencia del listado de instalaciones eléctricas esenciales, junto con el resto de 
+las adecuaciones implementadas para esta primera etapa en la plataforma Neomante2, se 
+llevará a cabo durante la segunda quincena del mes de septiembre del presente año, 
+fecha que considera el plazo establecido en el último párrafo del Artículo 7 del citado Anexo 
+Técnico. 
+En Anexo a la presente carta se indica lo relativo a la puesta en vigencia de las 
+adecuaciones de esta primera etapa del proceso de gestión de Solicitudes de Trabajo de 
+Curso Normal. 
+ 
+1 Listado elaborado en base al formato de reportes extraídos del aplicativo Infotecnica de este Coordinador. 
+2 Sistema computacional destinado a la gestión de Solicitudes de Trabajo (https://neomante.coordinador.cl/). 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Así mismo, con el propósito de facilitar el entendimiento de lo anunciado en la presente 
+carta, se tiene contemplado realizar un Webinar denominado: Adecuaciones al Programa 
+de Solicitudes de Trabajo de Curso Normal, ha realizarse el día miércoles 20 de agosto 
+del presente año, a partir de las 10:00 horas, en formato online. La inscripción a este evento 
+se puede realizar llenado el formulario correspondiente mediante el siguiente enlace: 
+https://events.teams.microsoft.com/event/9faae28e-54e1-4b93-b114-
+aff9d01b4545@f69d7aa7-e3be-4745-acf1-e2106ead9647.  
+Finalmente, informo a usted que la precisión de la fecha (día y horario) de la puesta en 
+vigencia de las adecuaciones señaladas en la presente carta, así como la especificación 
+del canal transitorio de comunicación (correo electrónico) dedicado al alcance del referido 
+Anexo Técnico, será comunicado oportunamente durante el mes de septiembre. 
+Sin otro particular, saluda atentamente a usted 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CGL-LLQ-DOL-JPC-LCG/adr 
+Incl.: Lo indicado. 
+c.c.: 
+Sres. Encargados Suplentes – Empresas Coordinadas. 
+ 
+Srta. Gretchen Zbinden – Subgerenta Análisis y Soporte Operacional. 
+ 
+Sr. Patricio Valenzuela – Subgerente Operación en Tiempo Real. 
+ 
+Sr. Juan Marcos Donoso – Jefe Departamento Programación de la Operación. 
+ 
+Sr. Felipe Antinao – Jefe Departamento Confiabilidad y Soporte Técnico. 
+ 
+Sr. Carlos Pérez – Jefe Departamento Supervisión y Control Generación. 
+ 
+Srta. María Gabriela Malavé – Jefa Departamento Conexiones. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Anexo 
+ 
+Puesta en vigencia del primer conjunto de adecuaciones en la Plataforma de 
+Solicitudes de Trabajo del Coordinador Eléctrico Nacional 
+Requerimiento del Anexo Técnico: “Programa de Solicitudes de Trabajo de 
+Curso Normal” de la Norma Técnica de Coordinación de la Operación. 
+ 
+A continuación, se señalan los Artículos del Anexo Técnico: Programa de Solicitudes de 
+Trabajo de Curso Normal considerados dentro del primer conjunto de adecuaciones en la 
+Plataforma de Solicitudes de Trabajo del Coordinador Eléctrico Nacional: 
+ 
+Artículo N° 
+Título del Artículo 
+Implementación 
+6 
+Instalación Eléctrica Esencial 
+Actualización del listado 
+8 
+Ingreso de Solicitud de Trabajo 
+de Curso Normal 
+Párrafo 1: Modificación del plazo de la 
+Fecha de Ingreso de solicitudes de trabajo 
+de parte de los Coordinados. 
+8 
+Ingreso de Solicitud de Trabajo 
+de Curso Normal 
+Literales a, b, c, d y e*: Modificación del 
+plazo de la Fecha de Ingreso de solicitudes 
+de trabajo de parte de los Coordinados. 
+(*) Sin perjuicio que en etapas posteriores quede 
+implementado el tipo de trabajo “Conexión” como 
+una nueva categoría, distinta a “Desconexión” e 
+“Intervención”. 
+9 
+Contenido de la Solicitud de 
+Trabajo de Curso Normal 
+En esta primera etapa no se modifican los 
+campos 
+de 
+los 
+actuales 
+formularios 
+generados en la Plataforma Neomante. No 
+obstante, los nuevos requerimientos de 
+información de parte de los Coordinados 
+deberán ser detallados en los campos 
+disponibles en modo texto dentro de cada 
+solicitud de trabajo, de modo de generar un 
+permiso de carácter autocontenido (campos 
+“Trabajos a Realizar” y/o “Comentarios 
+Adicionales”). 
+13 
+Evaluación 
+de 
+Solicitud 
+de 
+Trabajo de Curso Normal 
+No requiere modificaciones en la Plataforma 
+de Solicitudes de Trabajo. 
+14 
+Análisis de las Solicitudes de 
+Trabajo de Curso Normal 
+No requiere modificaciones en la Plataforma 
+de Solicitudes de Trabajo. 
+15 
+Evaluación de riesgo sistémico de 
+las Solicitudes de Trabajo de 
+Curso Normal 
+No requiere modificaciones en la Plataforma 
+de Solicitudes de Trabajo. 
+16 
+Compatibilidad de las Solicitudes 
+de Trabajo de Curso Normal 
+No requiere modificaciones en la Plataforma 
+de Solicitudes de Trabajo. 
+17 
+Observaciones y solicitud de 
+información adicional 
+Transitoriamente, se continuará utilizando 
+como canal de comunicación el correo 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+electrónico entre las áreas técnicas del 
+Coordinador y los Coordinados*. En el caso 
+de no precisarse un plazo de respuesta 
+específico, se considerará un máximo de 4 
+horas. Para estos efectos, y otros asociados 
+a las comunicaciones, se habilitará un 
+correo electrónico dedicado al alcance del 
+referido Anexo Técnico, cuya casilla será 
+comunicada de manera oportuna antes de la 
+puesta en vigencia anunciada en la presente 
+comunicación. 
+(*) A la fecha, y antes de la citada entrada en 
+vigencia, las casillas de correo del Coordinador 
+para estos fines son las siguientes (en conjunto): 
+daop@coordinador.cl 
+dcst@coordinador.cl 
+programacion@coordinador.cl  
+18 
+Modificación a la Solicitud de 
+Trabajo 
+por 
+iniciativa 
+del 
+Coordinador 
+Transitoriamente, se continuará utilizando 
+como canal de comunicación el correo 
+electrónico entre las áreas técnicas del 
+Coordinador y los Coordinados, mediante la 
+creación de un nuevo correo electrónico 
+dedicado según lo mencionado para el 
+Artículo 17. 
+19 
+Resultado de la evaluación de la 
+Solicitud de Trabajo de Curso 
+Normal 
+Modificación de Fecha de Evaluación y 
+Sanción de solicitudes de trabajo de parte 
+del Coordinador. 
+Si bien no requiere por el momento 
+modificaciones 
+en 
+la 
+Plataforma 
+de 
+Solicitudes 
+de 
+Trabajo, 
+considera 
+actualización en procesos de revisión de 
+solicitudes de Trabajo. 
+20 
+Resultado 
+anticipado 
+de 
+la 
+evaluación de la Solicitud de 
+Trabajo de Curso Normal 
+Transitoriamente, se continuará utilizando 
+como canal de comunicación el correo 
+electrónico entre las áreas técnicas del 
+Coordinador y los Coordinados, mediante la 
+creación de un nuevo correo electrónico 
+dedicado según lo mencionado para el 
+Artículo 17. 
+21 
+Programa 
+de 
+Solicitudes 
+de 
+Trabajo de Curso Normal 
+No requiere modificaciones en la Plataforma 
+de Solicitudes de Trabajo. 
+22 
+Término de Trabajo de Curso 
+Normal 
+No requiere modificaciones en la Plataforma 
+de Solicitudes de Trabajo. 
+ 

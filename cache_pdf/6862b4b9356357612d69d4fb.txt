@@ -1,0 +1,62 @@
+ 
+Ref.: 
+Respuesta 
+a 
+carta 
+DE03748-25, 
+Observaciones a Indicadores Desempeño 
+Servicios Complementarios EDAC – febrero 
+2025 
+Sierra Gorda, 27 de junio de 2025 
+Sra. 
+Gretchen Zbinden V.  
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, y en atención a las observaciones emitidas por ese organismo respecto a la 
+instalación Minera Spence S.A. en el marco del análisis EDAC EAF 089-2025, informamos lo siguiente: 
+Observaciones a Indicadores Desempeño Servicios Complementarios EDAC – febrero 2025 
+ 
+1. Envío de antecedentes técnicos: 
+Minera Spence S.A. confirma que toda la información solicitada fue enviada oportunamente, incluyendo 
+los archivos COMTRADE correspondientes a los eventos evaluados. Por lo tanto, las observaciones 
+que califican el monto de desconexión como “Antecedentes insuficientes (Incorrecta)” no reflejan la 
+documentación efectivamente entregada. 
+Los registros oscilográficos fueron preparados y enviados conforme a los requerimientos establecidos, 
+y contienen la información necesaria para su análisis técnico. 
+ 
+2. Observaciones levantadas a Minera Spence S.A.: 
+En la planilla se evaluaron cuatro escalones correspondientes a distintas instalaciones de la operación, 
+con comentarios que indican que “la frecuencia de operación no es adecuada” y que “no se puede 
+probar el monto desconectado por falta de señal de potencia”. Sin embargo, reiteramos que los 
+archivos COMTRADE fueron entregados y contienen la información técnica necesaria para su análisis. 
+Las oscilografías enviadas muestran los instantes de trigger y trip de las protecciones al momento de 
+operar los EDAC en las cabeceras. Sin embargo, esto ocurre instantes después del evento principal, 
+caracterizado por una sobretensión transitoria. Esta sobretensión provocó múltiples desprendimientos 
+a nivel de las cargas, por lo que, al momento de operar los EDAC, los niveles de potencia en los 
+alimentadores ya eran bajos. Adjuntamos los registros de potencia de los alimentadores 
+correspondientes a los dos primeros escalones del EDAC. 
+ 
+Solicitamos que se revise nuevamente la documentación enviada, ya que las observaciones indicadas 
+no se condicen con los antecedentes proporcionados.  
+
+Se despide atentamente, 
+ 
+ 
+ 
+Pía Reyes 
+Representante Suplente 
+Minera Spence S.A. 
+Firmado digitalmente por 
+Reyes, Pia
+DN: cn=Reyes, Pia, o=BHP 
+Billiton Group Operations Pty 
+Ltd, ou=MULTI-ALLOWED
+Fecha: 2025.06.27 21:07:15 -
+04'00'
+Reyes, 
+Pia

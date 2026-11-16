@@ -1,0 +1,220 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 26 de agosto de 2026 
+DE 05729-26 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 344 al 349 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 344-2026 al EAF 349-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Indisponibilidad > 
+Indicadores NTISyC > 2026 > Julio > Cálculo por EAF: 
+ 
+1. EAF 344-2026 
+2. EAF 345-2026 
+3. EAF 346-2026 
+4. EAF 347-2026 
+5. EAF 348-2026 
+6. EAF 349-2026 
+ 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el lunes 31 de agosto de 
+2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Cabe destacar que en el evento de falla asociado al EAF 345-2026, no hubo afectación de 
+punto de control. 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. Victor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Rodrigo Barrueto Díaz – Encargado Titular Compañía Minera del Pacífico S.A. 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+Sr. Lucas Benjamín Armesto Prelaz – Encargado Titular Admiralty Minerals Chile PTY Ltd. 
+Sr. María José Reveco – Encargado Titular Transelec S.A. 
+Sr. Carolina Valderrama Campos – Encargado Titular Codelco (Corporación Nacional del Cobre). 
+DBCD/DTE-SSCC/SGASO 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 344-2026 
+19-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Marquesa 
+Parcial 
+Si 
+El alimentador Indura Talcuna (S/E Marquesa) tiene 
+hora de normalización equivalente previa a la hora de 
+disponibilidad de la barra. 
+  
+Se solicita detallar el mecanismo de recuperación 
+de estas cargas para este alimentador con el 
+desglose requerido por la SEC, esto es comunal y 
+por zona de tarificación. 
+  
+EAF 346-2026 
+19-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Las 
+Compañías 
+Parcial 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. 
+ 
+Se identifica una inconsistencia en el mecanismo de 
+recuperación y las horas de normalización informadas 
+para los clientes libres en distribución. Para la totalidad 
+de los registros se indica como mecanismo de 
+recuperación “Por barra MT”; sin embargo, las horas de 
+normalización informadas son anteriores a la hora de 
+disponibilidad de la barra consignada en el EAF (20-07-
+2026 20:54). 
+ 
+En particular, se solicita revisar las fechas asociadas a 
+las horas de normalización informadas, toda vez que 
+podría existir una inconsistencia en su registro. A modo 
+de ejemplo, las normalizaciones informadas para el 20-
+07-2026 a las 00:31 y 02:24 horas resultarían 
+consistentes con una recuperación por barra si 
+correspondieran al 21-07-2026, mientras que el 
+registro informado para el 19-07-2026 a las 22:37 horas 
+también requiere ser revisado. 
+ 
+Se solicita revisar y, de corresponder, corregir las 
+fechas y horas de normalización y/o el mecanismo 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+de recuperación informado para cada registro, de 
+manera que éstos resulten consistentes con la 
+secuencia de recuperación indicada en el EAF. 
+EAF 347-2026 
+19-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Andacollo 
+SI 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. No obstante, respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que se incorpora íntegramente al 
+cálculo. 
+EAF 349-2026 
+20-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Marquesa 
+SI 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. No obstante, respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que se incorpora íntegramente al 
+cálculo. 
+(*) Los EAFs N° 345 y 348 no tuvieron afectación de Empresas Distribuidoras. 
+ 

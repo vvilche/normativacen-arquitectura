@@ -1,0 +1,407 @@
+ 
+Av. Parque Isidora N° 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 21 de abril de 2026 
+DE 02642-26 
+ 
+Señor(a) 
+Eduardo Antonio Astaburuaga E. 
+Encargado(a) 
+Solar TI Dieciséis SpA 
+Presente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref.: Situación de incumplimiento de pago 
+no acordado en mercado de corto plazo. 
+[1] Procedimiento Interno: Cumplimiento 
+de la Cadena de pagos en el Mercado de 
+Corto Plazo. 
+Sr(a). Encargado(a): 
+ 
+En virtud de los antecedentes disponibles en la Plataforma de Pagos del 
+Coordinador, su representada mantiene disconformidades no resueltas en calidad 
+de deudor de instrucciones de pago en el Mercado de Corto Plazo, detalladas en 
+Anexo adjunto, las que han superado el período máximo de 6 días establecido en 
+el Procedimiento Interno de la Ref. [1]. 
+Dado lo anterior, se informa a Ud. que, tal como lo establece el literal iii) del artículo 
+4.3 del procedimiento de la Ref. [1], si en el plazo de 10 días hábiles contados a 
+partir de la fecha de la presente carta, las disconformidades abiertas no han sido 
+resueltas, se procederá a ejecutar las medidas contempladas en el citado artículo, 
+que para estos efectos son: 
+• Suspensión del Mercado de Corto Plazo; 
+• Desconexión de sus clientes libres, y reasignación de retiros regulados si los 
+hubiese (si procediere). 
+Finalmente, recuerdo a usted que la gestión de disconformidades se deberá 
+realizar mediante la Plataforma de Cadena de Pagos del Coordinador 
+(https://www.coordinador.cl/portal-pagos/), habilitada exclusivamente para estos 
+fines. 
+ 
+ 
+
+ 
+Av. Parque Isidora N° 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lionel Roa Burgos 
+ 
+ 
+ 
+ 
+ 
+Subgerente de Transacciones de Mercado 
+ 
+ 
+ 
+ 
+ 
+Coordinador Eléctrico Nacional 
+ 
+MBM/HTM/MCS/EAR/YCL 
+Inc.: lo indicado 
+ 
+CC 
+Sr. Mauricio Funes H. – Secretario Ejecutivo (S) Comisión Nacional de Energía 
+Sra Marta Cabeza V. – Superintendenta de Electricidad y Combustibles 
+ 
+ 
+
+ 
+Av. Parque Isidora N° 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: 
+Número de 
+Disconformidad 
+Fecha Creación 
+del caso hasta 
+Rut Acreedor 
+Razón Social Acreedor 
+Monto bruto 
+instrucción de pago 
+DISC_354007 
+18-nov-25 
+76.264.025-2 
+Hidroeléctrica Embalse Ancoa SpA 
+$ 2.521 
+DISC_354008 
+18-nov-25 
+76.264.025-2 
+Hidroeléctrica Embalse Ancoa SpA 
+$ 142 
+DISC_354043 
+18-nov-25 
+76.727.466-1 
+Carbon Free Chile SpA 
+$ 38 
+DISC_354077 
+18-nov-25 
+76.775.253-9 
+IEH Solar Chile SpA 
+$ 91 
+DISC_354078 
+18-nov-25 
+76.775.253-9 
+IEH Solar Chile SpA 
+$ 5.751 
+DISC_354332 
+18-nov-25 
+76.189.274-6 
+Hidroeléctrica Río Colorado S.A. 
+$ 2.049 
+DISC_354334 
+18-nov-25 
+76.189.274-6 
+Hidroeléctrica Río Colorado S.A. 
+$ 138 
+DISC_354411 
+18-nov-25 
+77.032.394-0 
+Central El Atajo SpA 
+$ 36 
+DISC_354412 
+18-nov-25 
+77.032.394-0 
+Central El Atajo SpA 
+$ 1.404 
+DISC_354424 
+18-nov-25 
+76.409.936-2 
+Central Hidroeléctrica Santa Elena S.A. 
+$ 6.694 
+DISC_355235 
+20-nov-25 
+76.237.256-8 
+Cerro Dominador CSP S.A. 
+$ 166.604 
+DISC_355407 
+20-nov-25 
+76.149.809-6 
+Empresa Eléctrica Carén S.A. 
+$ 1.585 
+DISC_355408 
+20-nov-25 
+76.149.809-6 
+Empresa Eléctrica Carén S.A. 
+$ 85.274 
+DISC_356035 
+21-nov-25 
+76.055.368-9 
+Tamarugal Solar 1 S.A. 
+$ 833 
+DISC_357263 
+26-nov-25 
+76.536.654-2 
+Diego de Almagro Transmisora de Energía S.A. 
+$ 801.092 
+DISC_357264 
+26-nov-25 
+76.536.654-2 
+Diego de Almagro Transmisora de Energía S.A. 
+$ 123.495 
+DISC_358361 
+29-nov-25 
+76.004.976-K 
+Empresa Eléctrica Angamos SpA 
+$ 19.724 
+DISC_359246 
+02-dic-25 
+91.081.000-6 
+Enel Generación Chile S.A. 
+$ 5.498.224 
+DISC_359666 
+02-dic-25 
+76.337.599-4 
+El Pelícano Solar Company SpA 
+$ 14.784 
+DISC_359771 
+03-dic-25 
+76.170.761-2 
+Alto Maipo SpA 
+$ 5.546 
+DISC_359849 
+03-dic-25 
+76.213.013-0 
+Fotovoltaica Norte Grande 1 SpA 
+$ 2.459 
+DISC_360109 
+03-dic-25 
+76.178.599-0 
+Parque Eólico Los Cururos SpA 
+$ 2.541 
+DISC_360146 
+03-dic-25 
+76.437.712-5 
+Acciona Energía Chile Holdings S.A. 
+$ 11.319 
+DISC_360380 
+04-dic-25 
+76.045.612-8 
+Eléctrica Nueva Energía S.A. 
+$ 36.137 
+DISC_360391 
+04-dic-25 
+76.045.612-8 
+Eléctrica Nueva Energía S.A. 
+$ 4.263 
+DISC_364858 
+15-dic-25 
+87.756.500-9 
+ENAP Refinerías S.A. 
+$ 13.087 
+DISC_364862 
+15-dic-25 
+87.756.500-9 
+ENAP Refinerías S.A. 
+$ 517 
+DISC_370537 
+30-dic-25 
+94.272.000-9 
+AES Andes S.A. 
+$ 139.490 
+DISC_372926 
+05-ene-26 
+76.580.921-5 
+Cóndor Energía SpA 
+$ 12.304 
+DISC_372930 
+05-ene-26 
+76.580.921-5 
+Cóndor Energía SpA 
+$ 140.624 
+DISC_372999 
+05-ene-26 
+76.580.849-9 
+Huemul Energía SpA 
+$ 204.244 
+DISC_373000 
+05-ene-26 
+76.580.849-9 
+Huemul Energía SpA 
+$ 14.256 
+DISC_373832 
+05-ene-26 
+76.378.017-1 
+Santiago Solar S.A. 
+$ 1.428 
+
+ 
+Av. Parque Isidora N° 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Número de 
+Disconformidad 
+Fecha Creación 
+del caso hasta 
+Rut Acreedor 
+Razón Social Acreedor 
+Monto bruto 
+instrucción de pago 
+DISC_373833 
+05-ene-26 
+76.378.017-1 
+Santiago Solar S.A. 
+$ 16.444 
+DISC_374276 
+06-ene-26 
+76.369.130-6 
+Tecnocap S.A. 
+$ 363.065 
+DISC_376765 
+08-ene-26 
+76.059.578-0 
+KDM Energía S.A. 
+$ 15 
+DISC_378892 
+13-ene-26 
+61.704.000-K 
+Codelco (Corporación Nacional del Cobre) 
+$ 85.846 
+DISC_378893 
+13-ene-26 
+61.704.000-K 
+Codelco (Corporación Nacional del Cobre) 
+$ 21.249 
+DISC_380785 
+15-ene-26 
+76.951.335-3 
+Casablanca Transmisora de Energía S.A. 
+$ 13.322 
+DISC_380786 
+15-ene-26 
+76.951.335-3 
+Casablanca Transmisora de Energía S.A. 
+$ 1.432 
+DISC_386963 
+28-ene-26 
+76.178.599-0 
+Parque Eólico Los Cururos SpA 
+$ 180 
+DISC_387008 
+28-ene-26 
+76.175.608-7 
+Bolero SpA 
+$ 54 
+DISC_388129 
+30-ene-26 
+76.055.354-9 
+Pozo Almonte Solar 3 S.A. 
+$ 236 
+DISC_388130 
+30-ene-26 
+76.055.354-9 
+Pozo Almonte Solar 3 S.A. 
+$ 3.847 
+DISC_388183 
+30-ene-26 
+76.055.356-5 
+Pozo Almonte Solar 2 S.A. 
+$ 154 
+DISC_388184 
+30-ene-26 
+76.055.356-5 
+Pozo Almonte Solar 2 S.A. 
+$ 1.483 
+DISC_394370 
+09-feb-26 
+76.188.197-3 
+Bioenergías Forestales SpA 
+$ 796 
+DISC_398398 
+13-feb-26 
+76.264.541-6 
+Diego de Almagro Solar 3 S.A. 
+$ 6.733 
+DISC_402788 
+27-feb-26 
+76.085.254-6 
+Empresa Eléctrica Cochrane SpA 
+$ 1.627.040 
+DISC_406238 
+06-mar-26 
+77.042.032-6 
+EnfraGen Chile Solar SpA 
+$ 405.582 
+DISC_407894 
+09-mar-26 
+77.130.986-0 
+GR Alerce Andino SpA 
+$ 298.525 
+DISC_409374 
+13-mar-26 
+76.071.891-2 
+Hidroelectrica Allipén S.A. 
+$ 86.699 
+DISC_409695 
+13-mar-26 
+76.166.466-2 
+Parque Eólico Cabo Leones I S.A. 
+$ 793.746 
+DISC_412217 
+20-mar-26 
+77.346.233-K 
+PSF Santa Isabel SpA 
+$ 67.375 
+DISC_414098 
+25-mar-26 
+96.990.040-8 
+Pacific Hydro Chile S.A. 
+$ 59 
+DISC_417177 
+01-abr-26 
+76.030.971-0 
+Hidroeléctrica Ensenada S.A. 
+$ 177.080 
+DISC_417264 
+01-abr-26 
+76.580.849-9 
+Huemul Energía SpA 
+$ 65.496 
+DISC_418357 
+02-abr-26 
+77.302.440-5 
+TecnoRed S.A. 
+$ 10.599 
+DISC_418423 
+06-abr-26 
+76.466.222-9 
+Xue Solar SpA 
+$ 263.930 
+DISC_419452 
+10-abr-26 
+76.852.769-5 
+Parque Eólico Atacama SpA 
+$ 1.042.435 
+ 

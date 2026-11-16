@@ -1,0 +1,57 @@
+ 
+ 
+Cc: archivo  
+ 
+ 
+SKE-GG N°694-2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora Sur 1061, Pudahuel 
+Santiago. 
+STATKRAFT EÓLICO S.A. 
+ 
+VITACURA 2969, PISO 7. 
+LAS CONDES 
+SANTIAGO  
+     
+WWW.STATKRAFT.CL 
+           Santiago, 23.03.2026          
+ 
+Ref.: Estado de avance – Incorporación EDAG Centro-Sur del PDCE ZN. Impacto de consultas no resueltas 
+y solicitud de ajuste de plazos. 
+De nuestra consideración: 
+En relación con su comunicación DE 07914-25, de fecha 15 de diciembre de 2025, informamos a usted el 
+estado de avance del proyecto de integración al Esquema de Desprendimiento Automático de Generación 
+(EDAG) para nuestras unidades coordinadas PE Cardonal, PE Manantiales y PE Los Cerrillos. 
+Hacemos presente que, a la fecha, no hemos recibido respuesta a las consultas técnicas planteadas en 
+nuestra comunicación SKE-GG 672-2025, del 19 de diciembre de 2025. Esta ausencia de definiciones ha 
+imposibilitado cumplir con el hito de adjudicación originalmente previsto para febrero de 2026. 
+En consecuencia, y bajo el compromiso de asegurar la alta disponibilidad y redundancia del sistema, 
+Statkraft Eólico S.A. ha definido el siguiente plan de trabajo: 
+1. Situación Actual: El proyecto se encuentra en etapa de consultas y respuestas con los oferentes. 
+2. Adjudicación (Semana 16): Se estima la adjudicación del servicio para la tercera semana de abril 
+de 2026. 
+3. Primera Etapa - Implementación Local (Semana 18): Se realizará la intervención de los IED 1 para 
+configurar la protección de sobrefrecuencia (81O) con los ajustes fijados por la autoridad (51.4 
+[Hz] para PE Cardonal y 51.8 [Hz] para PE Manantiales y PE Los Cerrillos). 
+4. Segunda Etapa - Integración y Redundancia (Semana 22): Montaje y habilitación de los IED 2, 
+asegurando el respaldo y la redundancia técnica requerida. En esta fase se integrará el sistema de 
+comunicaciones para el envío de datos en tiempo real hacia la Celda Maestra en S/E Charrúa. 
+Debido a que el cumplimiento total del proyecto se proyecta para junio de 2026, solicitamos a la autoridad 
+validar este cronograma, el cual permite regularizar la implementación dentro de los plazos de integración 
+final requeridos para el sistema. 
+Sin otro particular, le saluda atentamente a usted, 
+ 
+ 
+______________________ 
+ 
+Carlos Mante Torres. 
+Strategic Operations Director 
+Statkraft Eólico S.A. 
+Firma electrónica avanzada
+CARLOS IGNACIO MANTE
+TORRES
+2026.03.23 15:29:17 -0300

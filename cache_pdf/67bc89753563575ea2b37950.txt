@@ -1,0 +1,89 @@
+CORRELATIVO DE 01213-25 
+Asunto: Responde DE00701-25.  NUP 2755 - Lomas de Taltal Et.2 - Compromiso 
+Implementación CSF 
+ 
+ 
+De: Gretchen Helene Zbinden Véliz <gretchen.zbinden@coordinador.cl>  
+Enviado el: lunes, 10 de febrero de 2025 21:46 
+Para: nicolas.salinasv@engie.com; María Gabriela Malavé Ortíz <maria.malave@coordinador.cl> 
+CC: Jorge Vargas Cáceres <Jorge.Vargas@coordinador.cl>; Mauricio Covarrubias Romo 
+<Mauricio.Covarrubias@coordinador.cl>; Angel Sandoval Vergara 
+<angel.sandoval@coordinador.cl>; camila.seitz@engie.com; alvaro.cayul@engie.com; 
+fabian.gumera@engie.com; felipe.fleming@engie.com 
+Asunto: RE: NUP 2755 - Lomas de Taltal Et.2 - Compromiso Implementación CSF 
+ 
+Estimado Nicolás 
+ 
+La verificación de SSCC es requisito para la EO y no podemos eximirlos o aceptar planes de 
+regularización posteriores. 
+El hito para la EO en lo que respecta a CSF, es haber realizado las pruebas de CSF de manera 
+exitosa. En este caso, el experto técnico es el mismo Coordinador.  
+ 
+Hemos revisado los antecedentes enviados y contrastado con los que tenemos y las pruebas de 
+señales se realizaron el pasado 23 de julio de 2024, con resultado positivo. Estas pruebas 
+permitieron verificar el envío de datos entre el PPC del parque y nuestro Scada. En el plan que 
+envían señalan esta actividad para abril de 2025, lo que resulta inconsistente. 
+ 
+Por otro lado, no queda claro los motivos que impiden integrar el PE al CSF, siendo esto una 
+exigencia normativa de larga data.  
+ 
+A efectos de clarificar los motivos de fondo, y encontrar una solución, te pidió podamos agendar 
+una reunión con sus especialistas. 
+Dame un par de opciones para poder citar.  
+ 
+Saludos 
+ 
+ 
+ 
+ 
+Gretchen Zbinden 
+Subgerente de Analisis y Soporte Operacional 
+Gerencia Operación 
+ 
+Santiago de Chile 
+Tel: +56 2 23672454 
+www.coordinador.cl 
+ 
+ 
+
+ 
+De: nicolas.salinasv@engie.com <nicolas.salinasv@engie.com>  
+Enviado el: viernes, 7 de febrero de 2025 14:57 
+Para: María Gabriela Malavé Ortíz <maria.malave@coordinador.cl> 
+CC: Gretchen Helene Zbinden Véliz <gretchen.zbinden@coordinador.cl>; Jorge Vargas 
+Cáceres <Jorge.Vargas@coordinador.cl>; Mauricio Covarrubias Romo 
+<Mauricio.Covarrubias@coordinador.cl>; Angel Sandoval Vergara 
+<angel.sandoval@coordinador.cl>; camila.seitz@engie.com; alvaro.cayul@engie.com; 
+fabian.gumera@engie.com; felipe.fleming@engie.com 
+Asunto: NUP 2755 - Lomas de Taltal Et.2 - Compromiso Implementación CSF 
+ 
+ 
+[ CORREO EXTERNO. Solo abra links o adjuntos de remitentes conocidos, no revele sus 
+contraseñas]  
+ 
+Estimada Maria Gabriela, 
+ 
+Esperando te encuentres muy bien, queriamos pedir tu apoyo referente a la 
+implementación del Control Secundario de Frecuencia (CSF) de nuestro proyecto 
+Lomas de Taltal Et.2, hasta la fecha hemos enviado todos los informes que nos 
+permitirían alcanzar la EO, con excepción de este servicio, por otro lado, el día de 
+ayer ingresamos la carta DE00701-25 (en adjunto) señalando el problema, junto a un 
+anexo (en adjunto) que detalla el compromiso y cronograma de trabajo que 
+ofrecemos para cumplir con este hito y poder lograr la EO del proyecto NUP 2755. 
+ 
+Quedamos muy atentos a cualquier duda o respuesta. 
+ 
+Saludos y que tengas excelente tarde. 
+ 
+Nicolas Alejandro Salinas Verdejo 
+Ingeniero Senior de Estudios y Conexiones 
+Global Energy Management & Sales 
+  
+nicolas.salinasv@engie.com 
++56954056059 
+ 
+Our solutions on gems.engie.com 
+Follow us on LinkedIn 
+ 
+Av. Isidora Goyenechea 2800, piso 16 
+Las Condes, Santiago, Chile 

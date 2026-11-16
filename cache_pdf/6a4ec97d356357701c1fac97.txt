@@ -1,0 +1,101 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLY & ENERGY MANAGEMENT 
+ 
+Santiago, 8 de julio de 2026 
+ENGIE N°221/2026
+ 
+Señor 
+Jorge Luis Gallegos Mellado 
+Ingeniero de Análisis de la Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Responde a carta DE04431-26: “Plan de 
+Acción por EAF 419-2024 - Apertura automática del 
+interruptor 52ETT de S/E Tap Off Vítor N°2 Móvil” 
+Ref.: 
+[1] Carta ENGIE N°002/2026, ingreso DE00110-26,
+del 06 de enero de 2026. 
+[2] Carta del Coordinador Eléctrico Nacional 
+DE04431-26, del 25 de junio de 2026. 
+ 
+De nuestra consideración, 
+ 
+En atención a lo solicitado mediante su carta en Ref. [2], en la cual se nos requiere confirmación respecto a la 
+ejecución exitosa de las tareas necesarias para la sincronización en forma automática de la estampa de tiempo de 
+las protecciones involucradas (S/E Central Pampa Camarones), con el fin de cumplir con la Hora Oficial (UTC-0) 
+establecida en la NTSyCS, ENGIE Energía Chile S.A. informa lo siguiente. 
+ 
+En relación con el compromiso adquirido en nuestra carta Ref. [1], informamos que las tareas comprometidas para 
+la primera semana de junio de 2026 no pudieron ser ejecutadas dentro del plazo establecido. 
+ 
+Este retraso responde a dificultades imprevistas en la compra del relé, cuya disponibilidad comercial fue limitada por 
+el fabricante, extendiendo los tiempos de gestión más allá de lo estimado. 
+ 
+No obstante lo anterior, ENGIE Energía Chile S.A. informa que la orden de compra del equipo de reemplazo ya ha 
+sido emitida formalmente, con un plazo de entrega de 14 semanas para su recepción en sitio, lo que condiciona el 
+inicio de las actividades de instalación y configuración posteriores. 
+ 
+En virtud de lo expuesto, se presenta a continuación el cronograma actualizado de ejecución: 
+ 
+Actividad 
+Periodo 
+Estimado 
+Descripción Técnica 
+Compra de equipo 7SJ80 
+Junio 
+- 
+Julio 
+2026 
+Adquisición del equipo de protección modelo 7SJ80. Orden de 
+compra emitida formalmente, con plazo de entrega de 14 
+semanas para recepción en sitio. 
+Instalación del equipo 
+Sep - Oct 2026 
+Recepción en sitio e instalación del equipo de protección 7SJ80 
+en S/E Central Pampa Camarones. 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carga de estación IEC 
+61850 
+Oct - Nov 2026 
+Configuración y carga de parámetros en el sistema de control y 
+SCADA de la planta. 
+Configuración y pruebas 
+de estampa de tiempo 
+Nov 2026 
+Ejecución de la sincronización GPS para cumplir con la Hora 
+Oficial (UTC-0) según la NTSyCS. 
+ 
+Estableciendo el 30 de noviembre de 2026 como fecha para finalizar la sincronización y validación de la estampa 
+de tiempo. 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+ 
+Felipe Fleming Campos 
+Encargado Suplente 
+ENGIE Energía Chile S.A. 
+ 
+  
+  

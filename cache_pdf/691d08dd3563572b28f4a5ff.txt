@@ -1,0 +1,82 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 18 de noviembre de 2025 
+0031-2025 
+ 
+ 
+Señorita 
+Gretchen Zbinden V.  
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+Ref: Responde carta DE06708-25 
+[1] DE06708-25, “Solicitud de plan de trabajo de ajustes en el controlador potencia-
+frecuencia del Parque Eólico San Matías”, de fecha 22 de octubre de 2025. 
+ 
+De mi consideración, 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. para hacer envío del plan de trabajo 
+solicitado por este Coordinador mediante comunicación indicada en Ref. [1]. 
+ 
+En anexo se adjunta el plan de trabajo mencionado. 
+ 
+Sin otro particular, saluda atte. 
+ 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+Energía Eólica San Matías SpA. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Anexo 
+ 
+Tarea 
+Participantes 
+Fecha de 
+inicio 
+Fecha de 
+termino 
+Estado 
+Reunión técnica de planteamiento 
+AES - Vestas 
+05/11/2025 
+05/11/2025 Finalizado 
+Reunión consulta CEN 
+AES-CEN 
+12/11/2025 
+12/11/2025 Finalizado 
+Propuesta de solución 
+AES - Vestas 
+12/11/2025 
+12/11/2025 Finalizado 
+Implementación de solución 
+AES - Vestas 
+13/11/2025 
+13/11/2025 Finalizado 
+Pruebas oficiales de validación 
+AES-EE-Vestas 
+23/11/2025 
+26/11/2025 Programado 
+Elaboración de informe 
+EE-AES 
+27/11/2025 
+11/12/2025 Pendiente 
+Envío de informe 
+AES 
+12/12/2025 
+12/12/2025 Pendiente 
+Tabla 1: Plan de trabajo. 

@@ -1,0 +1,154 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 17 de enero de 2025 
+ 
+DE 00309-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Verificación de Servicios Complementarios en 
+instalaciones de Transmisión para Control de Tensión 
+del Coordinado de CGE Transmisión. 
+[1] Carta CGET01961-2024 de CGE Transmisión, de 
+fecha 29 noviembre 2024.  
+[2] Carta CGET02066-2024 de CGE Transmisión, de 
+fecha 30 diciembre 2024.  
+Responde ingresos DE06908-24 y DE07506-24. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y lo planteado en su carta de la Ref. [1], donde 
+informa que 64 bancos de condensadores (BBCC) de su propiedad que han sido 
+considerados en el informe de Servicios Complementarios, tienen como fin controlar el 
+factor de potencia de la carga, informo a usted estos no serán considerados en la 
+prestación del servicio complementario de Control de tensión.  
+ 
+Respecto a los 27 BBCC indicados en el anexo de la presente carta, y que según señala 
+en su carta de la Ref. [2] no están operativos, se solicita lo siguiente: 
+1. Ingresar a la Plataforma Neomante los informes de limitación (IL) o fallas (IF) para 
+cada uno de los equipos de compensación que no están operativos, informando los 
+respectivos números.  
+2. Informar los motivos de la indisponibilidad junto con los planes de acción tendientes 
+a normalizar la instalación. 
+3. Si alguna de las instalaciones mencionadas será retirada del sistema, se solicita 
+proceder con las solicitudes de retiro, desconexión o cese de operaciones según 
+corresponda. 
+ 
+La información solicitada deberá ser enviada a más tardar el 23 de enero de 2025 mediante 
+carta y con copia al correo electrónico verificacion.SSCC@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+DGQ/adr 
+ 
+Incl.: Lo indicado 
+c.c.:   
+GO/SGASO/DCO/GM/SGTM/DTE-SSCC/DTPT 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Bancos de Condensadores que han sido declarados indisponibles en carta 
+de la Ref. [2] 
+ 
+N° 
+Subestación 
+Instalación 
+1 
+S/E Angol 
+BC CE 13.2KV 2.5 MVAr 
+2 
+S/E Concepción 
+BC CCE1 13.2KV 5 MVAr 
+3 
+S/E Concepción 
+BC CCE2 13.2KV 5 MVAr 
+4 
+S/E Concepción 
+BC CCE3 13.2KV 5 MVAr 
+5 
+S/E Concepción 
+BC CCE4 13.2KV 5 MVAr 
+6 
+S/E Coronel 
+BC CCE1 13.2KV 5 MVAr 
+7 
+S/E Coronel 
+BC CCE2 13.2KV 5 MVAr 
+8 
+S/E Coronel 
+BC CCE3 13.2KV 5 MVAr 
+9 
+S/E Coronel 
+BC CCE4 13.2KV 5 MVAr 
+10 
+S/E Ejercito 
+BC CE2 15KV 2.5 MVAr 
+11 
+S/E El Peñón 
+BC BCE1 23KV 5 MVAr 
+12 
+S/E Escuadron (CGE) 
+BC 52CBC1 8.95 KV 1.25 MVAR 
+13 
+S/E Escuadron (CGE) 
+BC 52CBC2 8.95 KV 1.25 MVAR 
+14 
+S/E Las Arañas 
+BC BC1 15KV 3.75 MVAr 
+15 
+S/E Las Arañas 
+BC BC2 15KV 5 MVAr 
+16 
+S/E Latorre 
+BC CE2 15KV 2.5 MVAr 
+17 
+S/E Maule 
+BC CE2 15KV 6 MVAr 
+18 
+S/E Maule 
+BC CE3 13.2KV 7.5 MVAr (FS) 
+19 
+S/E Plantas 
+BC 52C2 2.5 MVAr 
+20 
+S/E Plantas 
+BC 52C9 2.5 MVAr 
+21 
+S/E Portezuelo 
+BC 52CBC1 15KV 5 MVAr 
+22 
+S/E Portezuelo 
+BC 52CBC2 15KV 5 MVAr 
+23 
+S/E Rancagua 
+BC CE2 13.8KV 5 MVAr 
+24 
+S/E Rancagua 
+BC CE1 13.8KV 4.4 MVAr 
+25 
+S/E Rancagua 
+BC CE3 13.8KV 6.9 MVAr 
+26 
+S/E San Francisco De Mostazal 
+BC CBC1 15KV 1.25 MVAr 
+27 
+S/E San Vicente De Tagua Tagua 
+BC CE2 15KV 2.5 MVAr 
+ 

@@ -1,0 +1,108 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLY & ENERGY MANAGEMENT 
+ 
+Santiago, 7 de agosto de 2026 
+ENGIE N°254/2026
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Solicitud de aprobación de utilización de 
+transformadores de potencial existentes para función 
+de verificación de sincronismo – S/E Central Térmica 
+Tocopilla 220 kV. 
+[1] Carta ENGIE 200/2026 del 19 de junio de 2026. 
+ 
+De nuestra consideración, 
+ 
+Junto con saludar, mediante la presente ENGIE Energía Chile S.A. solicita al Coordinador Eléctrico Nacional la 
+aprobación de la utilización de los transformadores de potencial (TP) existentes en S/E Central Térmica Tocopilla 
+220 kV para proporcionar las señales de tensión requeridas por la función de verificación de sincronismo, en el 
+marco del proyecto de modernización del sistema de sincronización de dicha subestación, previsto para el año 2027. 
+ 
+Esta solicitud se relaciona con los siguientes instalaciones a verificar sus equipos de vinculación: 
+ 
+• 
+Línea 220 kV Kimal – Tocopilla N°1. 
+• 
+Línea 220 kV Kimal – Tocopilla N°2. 
+• 
+Autotransformador N°1 220/110/13 kV. 
+• 
+Autotransformador N°2 220/110/13 kV. 
+• 
+Paño JS de S/E Central Térmica Tocopilla. 
+ 
+En el contexto de la definición de ingeniería del proyecto, ENGIE consultó previamente al Coordinador respecto de 
+la factibilidad de utilizar las señales provenientes de los TP existentes, considerando que estos disponen de un único 
+devanado secundario con características de medición. Al respecto, el Coordinador indicó que, desde el punto de 
+vista estrictamente técnico, no se identifican inconvenientes en su utilización, siempre que se respeten las 
+condiciones de carga, clase de precisión y demás parámetros aplicables, señalando, no obstante, que esta 
+configuración no resulta aceptable bajo el criterio de segregación funcional entre señales destinadas a medición, 
+protección y control. 
+ 
+Posteriormente, ENGIE analizó las alternativas disponibles para implementar una señal de tensión independiente 
+para la función de sincronismo. Sin embargo, la S/E Central Térmica Tocopilla 220 kV corresponde a una instalación 
+GIS cuyo fabricante original es Siemens y cuya tecnología actualmente se encuentra descontinuada. En 
+consecuencia, no resulta factible disponer de nuevos transformadores de potencial compatibles con la GIS existente 
+que incorporen devanados secundarios adicionales con características de protección o control. 
+ 
+Esta condición constituye una restricción técnica para implementar la segregación funcional mediante un devanado 
+dedicado. Una solución alternativa requeriría intervenciones de mayor alcance sobre la GIS existente, implicando 
+además inversiones adicionales de magnitud que no se encuentran contempladas en el actual Plan de Inversiones. 
+ 
+Sin perjuicio de lo anterior, desde el punto de vista funcional, ENGIE considera técnicamente adecuada la utilización 
+del devanado de medición disponible. Las señales provenientes de estos TP serán utilizadas por el nuevo sistema 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+exclusivamente para obtener las variables de magnitud de tensión, frecuencia y ángulo de fase a ambos lados 
+del equipo de vinculación, necesarias para verificar las condiciones de sincronismo previo a su cierre. 
+ 
+De esta forma, la solución propuesta permitirá disponer de las señales necesarias para efectuar la verificación del 
+Servicio Complementario de Verificación de Sincronismo, de acuerdo con lo solicitado por el Coordinador en el 
+proceso de verificación de SSCC, sin que la utilización del devanado de medición represente una desventaja técnica 
+para esta función, siempre que se respeten su clase de precisión, carga secundaria admisible y demás 
+características nominales. 
+ 
+Como parte de la ingeniería de detalle, ENGIE verificará que la incorporación del nuevo sistema de sincronización 
+no afecte el desempeño del devanado secundario ni de los restantes equipos conectados al circuito de tensión, 
+verificándose asimismo las condiciones de precisión y carga requeridas para la correcta operación de la función. 
+ 
+En consideración a la imposibilidad técnica de incorporar nuevos TP con devanados de protección dedicados 
+compatibles con la tecnología GIS existente, y considerando que la solución propuesta resulta técnicamente 
+adecuada para obtener las variables requeridas para la función de sincronismo, solicitamos al Coordinador 
+Eléctrico Nacional aprobar, para el caso particular de S/E Central Térmica Tocopilla 220 kV, la utilización de 
+los devanados de medición de los transformadores de potencial existentes como fuente de señal para la 
+función de verificación de sincronismo. 
+ 
+Finalmente, quedamos disponibles para proporcionar los antecedentes técnicos complementarios que el 
+Coordinador estime necesarios para la evaluación de la presente solicitud. 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+Juan Muñoz  
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 

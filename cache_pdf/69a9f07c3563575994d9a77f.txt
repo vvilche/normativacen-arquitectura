@@ -1,0 +1,62 @@
+ 
+Santiago, 05 de marzo de 2026 
+EGP 023-26 
+ 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operacion 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+MATERIA: 
+RESPUESTA CARTA DE01270-26: SOLICITUD DE PLAN DE TRABAJO 
+DE AJUSTES EN EL CONTROLADOR POTENCIA-FRECUENCIA DEL 
+PFV LAS SALINAS 
+ 
+REF [1]: 
+CARTA DE01270-26 DEL COORDINADOR DE FECHA 23 DE FEBRERO 
+DE 2026  
+ 
+De nuestra consideración: 
+ 
+En relación con su comunicación referida al Informe de Verificación de Control Primario de 
+Frecuencia (CPF) del PFV Las Salinas, informamos que se ha gestionado de manera 
+inmediata la revisión técnica del controlador potencia-frecuencia en coordinación con el 
+fabricante del sistema de control. 
+ 
+Como resultado de dicho análisis, el fabricante ha validado y entregado los ajustes de 
+parámetros requeridos conforme a los lineamientos establecidos por ese Coordinador. Con 
+los nuevos ajustes implementados se debe verificar respuesta del controlador para 
+alcanzar la totalidad del aporte comprometido dentro de los 10 segundos desde el inicio 
+de la respuesta CPF ante un escalón de -0,7 Hz. 
+ 
+En función de lo anterior, se ha definido el siguiente plan de trabajo: 
+ 
+• 
+Implementación de los ajustes validados en la totalidad de los Centros de 
+Transformación del parque, proceso que se ejecutará de manera masiva en una 
+ventana de intervención acotada. 
+• 
+Ejecución de prueba operativa integral del parque durante el mes de marzo, con el 
+objeto de verificar el desempeño del controlador en condiciones de ensayo formal. 
+• 
+Elaboración y remisión de un nuevo Informe de Verificación CPF, el cual será 
+enviado a más tardar el 25 de abril del presente año. 
+Con este plan se asegura el cumplimiento de los plazos establecidos, resguardando al 
+mismo tiempo los criterios de seguridad operativa y calidad del servicio que rigen la 
+prestación del Control Primario de Frecuencia. 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación,  
+ 
+Saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Adrián Guzmán M. 
+Encargado (S) CEN 
+ENEL GREEN POWER CHILE S.A. 
+ 
+ 

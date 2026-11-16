@@ -1,0 +1,100 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 6 de noviembre de 2025 
+ 
+    
+DE 07157-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Parámetro de Potencia 
+Máxima de la Central PFV Alto del Sol. 
+[1] Carta S/N de Larqui Solar SpA, Ref.: 
+“Parámetros Operacionales PMG PFV Alto del Sol”, 
+de fecha 19 de marzo de 2025. Ingreso DE02370-
+25. 
+[2] Carta DE02089-25, Ref.: “[NUP 1933] Informes 
+Técnicos de Parámetros Operacionales del PFV 
+Alto del Sol del coordinado Larqui Solar SpA”, de 
+fecha 10 de abril de 2025. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 y 39 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación del valor de Potencia Máxima de la Central PFV 
+Alto del Sol, en conformidad con el informe técnico de Potencia Máxima recibido adjunto a 
+la comunicación de la Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 23 del Anexo Técnico en 
+aplicación no se recibieron observaciones de Coordinado alguno al informe técnico ya 
+mencionado publicado en la página web del Coordinador mediante carta de la Ref. [2]. Por 
+su parte, el Coordinador Eléctrico tampoco tiene observaciones de carácter técnico al 
+informe mencionado. 
+ 
+Conforme a lo anterior, los valores de los parámetros técnicos de Potencia Máxima de la 
+Central PFV Alto del Sol, se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV Alto del Sol 
+Central/Unidad 
+Potencia 
+Máxima 
+Bruta [MW] 
+SS.AA. 
+[MW] 
+Pérdidas en 
+la central (1) 
+[MW] 
+Potencia Máxima 
+Neta (2) [MW] 
+PFV Alto del Sol 
+9,2570  
+0,0256 
+0,2138 
+9,018 
+(1) Este valor corresponde a las pérdidas en el transformador de poder de la central (0,0826 MW), 
+más las pérdidas en el sistema colector (0,1312 MW). 
+(2) Potencia inyectada en barra 23 kV de S/E Larqui. 
+ 
+Cabe destacar que esta unidad generadora, por ser PMG, tiene configurado su sistema 
+PPC de manera tal que limita la Potencia Máxima Neta a 9,0 MW. 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en la Tabla 1 entrarán en 
+vigencia a partir de las 00:00 horas del 11 de noviembre de 2025. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+El informe técnico de Potencia Máxima de la Central PFV Alto del Sol, que contiene la 
+justificación de los parámetros indicados anteriormente, puede ser descargado en la 
+siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > Central PFV Alto 
+del Sol > 2025 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+GZV/CRV/DIR/adr 
+ 
+ 
+ 

@@ -1,0 +1,118 @@
+ 
+[EXTERNAL PERMITTED]
+ 
+Señor 
+Gretchen Zbinden V. 
+Coordinador Eléctrico Nacional  
+Subgerenta de Análisis y Soporte Operacional 
+Av. Parque Isidora 1061 
+Pudahuel 
+ 
+ 
+P R E S E N T E 
+Santiago, 2 de octubre de 2025 
+DAS-SSCC-002-25 
+ 
+Ant: [1] DAS-E-010-25 (DE05395-25) Entrega 
+de Informe de SSCC de PFV Doña Antonia, del 
+coordinado Doña Antonia Solar SpA con fecha 
+2 de junio de 2025. 
+ 
+[2] DE04826-25 Observaciones a Informes 
+Técnicos 
+de 
+Verificación 
+de 
+Control 
+de 
+Frecuencia y Control de Tensión de la Central 
+PFV Doña Antonia, del Coordinador Eléctrico 
+Nacional con fecha de 6 de agosto de 2025. 
+ 
+[3] DAS-E-019-25 (DE08638-25) Responde 
+Observaciones SSCC, del coordinado Doña 
+Antonia Solar SpA con fecha 22 de agosto de 
+2025. 
+ 
+[4] DE05674-25 Observaciones al Informe 
+Técnico de Verificación de SSCC de Control de 
+Tensión de la Central PFV Doña Antonia. DAS-
+E-019-25, del Coordinador Eléctrico Nacional 
+con fecha de 9 de septiembre de 2025. 
+ 
+Ref.: DAS-SSCC-002-25 Solicita extensión 
+plazo carta DE05382-25. 
+ 
+ 
+De nuestra consideración. 
+ 
+Nos referimos a la carta del Ant [4] DE05674-25, mediante la cual el Coordinador 
+Eléctrico Nacional informa observaciones adicionales al Informe Técnico de Verificación 
+del SC de Control de Tensión de la Central PFV Doña Antonia presentado por Doña 
+Antonia Solar SpA. 
+ 
+En forma similar a la respuesta a la carta DE 05382-25 con las observaciones al Informe 
+Técnico de Verificación de los SSCC de la Central PFV Willka, el análisis de la factibilidad 
+de ampliar el rango de la curva P-Q del parque PFV Doña Antonia conlleva un análisis 
+que involucra diferentes partes, entre ellos: 
+
+ 
+[EXTERNAL PERMITTED]
+ 
+• 
+El fabricante de los inversores, empresa “PowerElectronics“, para solicitar las 
+aclaraciones relacionadas con los límites de nivel de tensión operacional, y 
+también para analizar la posibilidad de ampliar el rango operacional y dar mayor 
+flexibilidad del Parque Fotovoltaico en prestación de SC de Control de Tensión. 
+ 
+• 
+El fabricante del PPC, empresa “PowerFactors“, para que nos confirme la 
+posibilidad de modificar los limites actualmente habilitados en caso de tener una 
+respuesta afirmativa por parte del fabricante de los inversores.  
+ 
+• 
+El ejecutor de pruebas de verificación de SSCC, empresa “Mercados Energéticos”, 
+para verificar factibilidad y validar las condiciones de operación esperadas. 
+ 
+Considerando la coordinación requerida entre las distintas partes, la cual ha tomado más 
+tiempo del esperado para obtener la respectiva respuesta, igualmente como en el caso 
+de PFV Willka solicitamos a Ud. extender el plazo para responder a las observaciones 
+levantadas en su carta a más tardar el día 15 de octubre de 2025. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+__________________________________ 
+Fernanda Nitsche  
+Representante Legal 
+Doña Antonia Solar SpA 
+76.464.074-8 
+ 
+
+DAS-SSCC-002-25 Solicita extensión plazo
+carta DE05674-25
+Final Audit Report
+2025-10-02
+Created:
+2025-10-02
+By:
+Franco Vergara (franco.vergara@mytilineos.com)
+Status:
+Signed
+Transaction ID:
+CBJCHBCAABAAqpQUZpdwR1bKFbLr7K4QIlvAwaGPbG16
+"DAS-SSCC-002-25 Solicita extensión plazo carta DE05674-25"
+ History
+Document created by Franco Vergara (franco.vergara@mytilineos.com)
+2025-10-02 - 4:25:50 PM GMT
+Document emailed to Fernanda Nitsche (fernanda.nitsche@metlengroup.com) for signature
+2025-10-02 - 4:25:54 PM GMT
+Email viewed by Fernanda Nitsche (fernanda.nitsche@metlengroup.com)
+2025-10-02 - 4:50:41 PM GMT
+Document e-signed by Fernanda Nitsche (fernanda.nitsche@metlengroup.com)
+Signature Date: 2025-10-02 - 5:17:40 PM GMT - Time Source: server
+Agreement completed.
+2025-10-02 - 5:17:40 PM GMT

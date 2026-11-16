@@ -1,0 +1,6966 @@
+Descripción del Contenido del documento
+Significado
+DE05006-24
+TSGF SpA
+PFV Santa Isabel
+Solar
+170,19
+N/A
+N/A
+Indica el/los Servicios Complementarios a verificar para la instalación.
+La instalación que indica "SI" en esta columna y se encuentra en color blanco debe verificarse para este servicio. 
+La instalación que indica "SI" en esta columna y se encuentra en color verde, se encuentra verificada para este servicio.
+La instalación que indica "SI" en esta columna y se encuentra en color amarillo, sus informes se encuentran en estado de revisión.
+La instalación que indica "NO" en esta columna no se priorizará su verificación para este servicio.
+Control Primario de Frecuencia
+Control Secundario de Frecuencia
+Control Terciario de Frecuencia en giro
+Control Terciario de Frecuencia en frío
+Control de Tensión
+Partida Autónoma
+Aislamiento Rápido
+Fecha para la entrega de los Informes Técnicos de los Servicios Complementarios a Verificar
+La instalación que indica "-" en esta columna se encuentra verificada o en revisión de informes para todos los SSCC  y debe verificarse para CSF o CTF frío según corresponda. En 
+estos casos se procede de la siguiente forma:
+- CSF: el Coordinador es el encargado de Coordinar los ensayos y emitir los Informes de Verificación para lo cual contactará a su representada. 
+- CTF: en caso de tener informe de PPyD aprobado no deberá enviar informe de verificación a menos que las condiciones operativas hayan cambiado o el Coordinador así lo 
+requiera. En el caso que las condiciones operativas hayan cambiado, deberá informarlo al Coordinador.
+Se definió un código de colores para los estados de verificación, y que quedó especificado en la hoja de descripción:
+- Verde para Instalaciones verificadas en el SC
+- Amarillo para instalaciones con Informes en estado de revisión
+- Blanco para instalaciones que deben verificar el SC.
+Combustible/Tipo Tecnología
+Potencia Máxima [MW]
+Potencia BESS [MW]
+Energía BESS [MWh]
+Columna
+N°
+Coordinado
+Unidad
+Código de Colores
+Fecha Entrega de Informes al CEN
+Servicio Complementario a Verificar
+Control Primario de Frecuencia
+CSF
+CTF frío
+CTF giro
+CT
+PA
+AR
+
+Cronograma de Verificación de SSCC 2024-2028
+(*) En caso de tener informe de PPyD aprobado no deberá enviar informe de verificación a menos que las condiciones operativas hayan cambiado. En dicho caso deberá informarlo al coordinador
+N°
+Coordinado
+Unidad
+Combustible/Tipo Tecnología
+Potencia 
+Máxima 
+[MW]
+Potencia BESS 
+[MW]
+Energía BESS 
+[MWh]
+CPF
+CSF
+CTF Giro
+CTF frio(*)
+CT
+PA
+AR
+Fecha Entrega Informes al CEN
+1
+ACCIONA ENERGÍA CHILE HOLDINGS S.A.
+PE SAN GABRIEL (U1-U61)
+Eólica
+183,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-24
+2
+ACCIONA ENERGÍA CHILE HOLDINGS S.A.
+PE TOLPAN SUR (U1-U28)
+Eólica
+83,53
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+oct-24
+3
+ACCIONA ENERGÍA CHILE HOLDINGS S.A.
+PFV ALMEYDA
+Solar
+56,80
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+-
+4
+ACCIONA ENERGÍA CHILE HOLDINGS S.A.
+PFV EL ROMERO
+Solar
+196,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+feb-25
+5
+ACCIONA ENERGÍA CHILE HOLDINGS S.A.
+PFV MALGARIDA
+Solar
+204,32
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+-
+6
+ACCIONA ENERGÍA CHILE HOLDINGS S.A.
+PFV USYA
+Solar
+55,93
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+-
+7
+AELA GENERACIÓN S.A.
+HP LICAN U1
+Hidráulica Pasada
+9,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ago-25
+8
+AELA GENERACIÓN S.A.
+HP LICAN U2
+Hidráulica Pasada
+9,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ago-25
+9
+AELA GENERACIÓN S.A.
+HP MAMPIL U1
+Hidráulica Pasada
+27,50
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+feb-25
+10
+AELA GENERACIÓN S.A.
+HP MAMPIL U2
+Hidráulica Pasada
+27,50
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+feb-25
+11
+AELA GENERACIÓN S.A.
+HP PEUCHEN U1
+Hidráulica Pasada
+42,50
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+oct-24
+12
+AELA GENERACIÓN S.A.
+HP PEUCHEN U2
+Hidráulica Pasada
+42,50
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+oct-24
+13
+AELA GENERACIÓN S.A.
+PE AURORA (U1-U43)
+Eólica
+129,07
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-24
+14
+AELA GENERACIÓN S.A.
+PE CUEL (U1-U22)
+Eólica
+33,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-24
+15
+AELA GENERACIÓN S.A.
+PE SARCO (U1-U50)
+Eólica
+170,20
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-24
+16
+AELA GENERACIÓN S.A.
+PFV SALVADOR
+Solar
+68,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-24
+17
+AELA GENERACIÓN S.A.
+PFV SAN ANDRES
+Solar
+50,60
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-24
+18
+AES ANDES S.A.
+BESS HP ALFALFAL
+HP+BESS
+-
+49,90
+197,00
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jun-25
+19
+AES ANDES S.A.
+HP ALFALFAL U1
+Hidráulica Pasada
+89,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+dic-26
+20
+AES ANDES S.A.
+HP ALFALFAL U2
+Hidráulica Pasada
+89,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+dic-26
+21
+AES ANDES S.A.
+HP MAITENES U1
+Hidráulica Pasada
+9,00
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-24
+22
+AES ANDES S.A.
+HP MAITENES U2
+Hidráulica Pasada
+9,00
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-24
+23
+AES ANDES S.A.
+HP MAITENES U3
+Hidráulica Pasada
+9,00
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-24
+24
+AES ANDES S.A.
+HP QUELTEHUES U1
+Hidráulica Pasada
+16,33
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+ago-26
+25
+AES ANDES S.A.
+HP QUELTEHUES U2
+Hidráulica Pasada
+16,33
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+ago-26
+26
+AES ANDES S.A.
+HP QUELTEHUES U3
+Hidráulica Pasada
+16,33
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+ago-26
+27
+AES ANDES S.A.
+HP VOLCAN U1
+Hidráulica Pasada
+13,00
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+dic-24
+28
+AES ANDES S.A.
+PFV ANDES SOLAR
+Solar
+21,80
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-24
+29
+AES ANDES S.A.
+TER CAMPICHE U1
+Carbón
+269,66
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+oct-24
+30
+AES ANDES S.A.
+TER NUEVA VENTANAS U1
+Carbón
+267,08
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+oct-24
+31
+ALBA SPA
+PE SAN PEDRO (U1-U18)
+Eólica
+36,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-24
+32
+ALTO MAIPO SPA
+HP ALFALFAL II U1
+Hidráulica Pasada
+129,62
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+dic-24
+33
+ALTO MAIPO SPA
+HP ALFALFAL II U2
+Hidráulica Pasada
+129,96
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+dic-24
+34
+ALTO MAIPO SPA
+HP LAS LAJAS U1
+Hidráulica Pasada
+138,86
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+sep-26
+35
+ALTO MAIPO SPA
+HP LAS LAJAS U2
+Hidráulica Pasada
+138,81
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+sep-26
+36
+ANDES GENERACIÓN SPA
+TER ANDES GENERACION U1
+Fuel Oil N°6 / Diésel
+7,25
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-26
+37
+ANDES GENERACIÓN SPA
+TER ANDES GENERACION U2
+Fuel Oil N°6 / Diésel
+7,25
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-26
+38
+ANDES GENERACIÓN SPA
+TER ANDES GENERACION U3
+Fuel Oil N°6 / Diésel
+7,34
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-26
+39
+ANDES GENERACIÓN SPA
+TER ANDES GENERACION U4
+Fuel Oil N°6 / Diésel
+13,29
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-26
+40
+ANDES SOLAR II SPA
+PFV ANDES SOLAR II
+Solar
+86,75
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-25
+41
+ANDES SOLAR II SPA
+PFV ANDES SOLAR II-B
+Solar
+119,60
+-
+-
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+nov-24
+42
+ANDES SOLAR II SPA
+BESS PFV ANDES SOLAR II-B
+Solar+BESS
+-
+112,00
+560,00
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-25
+43
+ARAUCO BIOENERGÍA S.A.
+TER ARAUCO U1
+Biomasa
+64,50
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+oct-24
+44
+ARAUCO BIOENERGÍA S.A.
+TER ARAUCO U2
+Biomasa
+31,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+oct-24
+45
+ARAUCO BIOENERGÍA S.A.
+TER CHOLGUAN U1
+Biomasa Forestal - Petróleo Diésel
+13,00
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+ene-25
+46
+ARAUCO BIOENERGÍA S.A.
+TER HORCONES U1
+Diésel
+24,30
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+ene-25
+47
+ARAUCO BIOENERGÍA S.A.
+TER NUEVA ALDEA II U1
+Diésel
+10,31
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+ene-25
+48
+ARAUCO BIOENERGÍA S.A.
+TER NUEVA ALDEA U1
+Biomasa
+14,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+ene-25
+49
+ARAUCO BIOENERGÍA S.A.
+TER NUEVA ALDEA U2
+Cogeneración
+37,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+oct-24
+50
+ARAUCO BIOENERGÍA S.A.
+TER VALDIVIA U1
+Biomasa Pino - Petróleo Diésel
+61,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+sep-28
+51
+ARAUCO BIOENERGÍA S.A.
+TER VALDIVIA U1
+Biomasa Eucalipto - Petróleo Diésel
+61,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+sep-28
+52
+ARAUCO BIOENERGÍA S.A.
+TER VIÑALES U1
+Biomasa
+22,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+ene-25
+53
+ASOC. DE CANAL. SOCIEDAD DEL CANAL DE MAIPO
+HP FLORIDA II U1
+Hidráulica Pasada
+9,97
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+mar-25
+54
+ASOC. DE CANAL. SOCIEDAD DEL CANAL DE MAIPO
+HP FLORIDA II U2
+Hidráulica Pasada
+9,92
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+mar-25
+55
+ATACAMA SOLAR S.A.
+PFV ATACAMA SOLAR II
+Solar
+170,65
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+mar-25
+56
+AUSTRIANSOLAR CHILE CUATRO SPA
+PFV HUATACONDO
+Solar
+89,47
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jun-25
+57
+AUSTRIANSOLAR CHILE SEIS SPA
+PFV LA HUELLA
+Solar
+85,21
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+feb-25
+58
+BESALCO ENERGÍA RENOVABLE S.A.
+HP DIGUA U1
+Hidráulica Pasada
+11,25
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+jun-26
+59
+BESALCO ENERGÍA RENOVABLE S.A.
+HP DIGUA U2
+Hidráulica Pasada
+11,25
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+jun-26
+60
+BIOENERGÍAS FORESTALES SPA
+TER CMPC CORDILLERA U1
+Gas Natural
+52,93
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+mar-25
+61
+BIOENERGÍAS FORESTALES SPA
+TER CMPC LAJA
+Biomasa
+40,20
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+mar-25
+62
+BIOENERGÍAS FORESTALES SPA
+TER CMPC PACIFICO
+Biomasa
+36,14
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+mar-25
+63
+BIOENERGÍAS FORESTALES SPA
+TER SANTA FE U1
+Biomasa
+68,79
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+abr-25
+64
+CENTRAL CARDONES S.A.
+TER CARDONES U1
+Diésel
+150,24
+-
+-
+SI
+NO
+SI
+NO
+SI
+SI
+NO
+dic-25
+65
+CENTRAL COLMITO S.A.
+TER COLMITO U1
+Diésel
+57,59
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+dic-24
+66
+CENTRAL COLMITO S.A.
+TER COLMITO U1
+Gas Natural
+57,59
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+dic-24
+67
+CENTRAL TERMOELÉCTRICA ANDINA SPA
+TER ANDINA U1
+Carbón
+176,60
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+-
+68
+CENTRAL YUNGAY S.A.
+TER YUNGAY U1
+Diésel
+52,45
+-
+-
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+dic-24
+69
+CENTRAL YUNGAY S.A.
+TER YUNGAY U2
+Diésel
+54,86
+-
+-
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+dic-24
+70
+CENTRAL YUNGAY S.A.
+TER YUNGAY U3
+Diésel
+54,47
+-
+-
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+dic-24
+71
+CENTRAL YUNGAY S.A.
+TER YUNGAY U4
+Diésel
+38,23
+-
+-
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+jul-25
+72
+CERRO DOMINADOR CSP S.A.
+CSP CERRO DOMINADOR
+Termosolar
+114,40
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+dic-24
+73
+CERRO DOMINADOR CSP S.A.
+PFV CERRO DOMINADOR
+Solar
+100,22
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+-
+Servicio Complementario a Verificar
+
+74
+CHUNGUNGO S.A.
+PFV QUILAPILUN
+Solar
+113,91
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-24
+75
+COLBÚN S.A.
+HE ANGOSTURA U1
+Hidráulica Embalse
+138,76
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-24
+76
+COLBÚN S.A.
+HE ANGOSTURA U2
+Hidráulica Embalse
+138,76
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-24
+77
+COLBÚN S.A.
+HE ANGOSTURA U3
+Hidráulica Embalse
+46,28
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-25
+78
+COLBÚN S.A.
+HE CANUTILLAR U1
+Hidráulica Embalse
+86,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+jun-25
+79
+COLBÚN S.A.
+HE CANUTILLAR U2
+Hidráulica Embalse
+86,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+jun-25
+80
+COLBÚN S.A.
+HE COLBUN U1
+Hidráulica Embalse
+231,20
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+feb-25
+81
+COLBÚN S.A.
+HE COLBUN U2
+Hidráulica Embalse
+232,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+feb-25
+82
+COLBÚN S.A.
+HE MACHICURA U1
+Hidráulica Embalse
+47,50
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+oct-25
+83
+COLBÚN S.A.
+HE MACHICURA U2
+Hidráulica Embalse
+47,50
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+oct-25
+84
+COLBÚN S.A.
+HP BLANCO U1
+Hidráulica Pasada
+53,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+oct-24
+85
+COLBÚN S.A.
+HP CARENA U1
+Hidráulica Pasada
+2,50
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-25
+86
+COLBÚN S.A.
+HP CARENA U2
+Hidráulica Pasada
+2,50
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+jun-25
+87
+COLBÚN S.A.
+HP CARENA U3
+Hidráulica Pasada
+2,50
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+jun-25
+88
+COLBÚN S.A.
+HP CARENA U4
+Hidráulica Pasada
+2,50
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+jun-25
+89
+COLBÚN S.A.
+HP CHACABUQUITO U1
+Hidráulica Pasada
+6,43
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-25
+90
+COLBÚN S.A.
+HP CHACABUQUITO U2
+Hidráulica Pasada
+6,43
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-25
+91
+COLBÚN S.A.
+HP CHACABUQUITO U3
+Hidráulica Pasada
+6,43
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-25
+92
+COLBÚN S.A.
+HP CHACABUQUITO U4
+Hidráulica Pasada
+6,43
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-25
+93
+COLBÚN S.A.
+HP CHIBURGO U1
+Mini Hidráulica de Pasada
+9,70
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+sep-26
+94
+COLBÚN S.A.
+HP CHIBURGO U2
+Mini Hidráulica de Pasada
+9,70
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+sep-26
+95
+COLBÚN S.A.
+HP HORNITOS U1
+Hidráulica Pasada
+61,00
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jul-25
+96
+COLBÚN S.A.
+HP JUNCAL U1
+Hidráulica Pasada
+29,20
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jul-25
+97
+COLBÚN S.A.
+HP LA MINA U1
+Hidráulica Pasada
+18,98
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-25
+98
+COLBÚN S.A.
+HP LA MINA U2
+Hidráulica Pasada
+18,77
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-25
+99
+COLBÚN S.A.
+HP LOS QUILOS U1
+Hidráulica Pasada
+13,18
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-25
+100
+COLBÚN S.A.
+HP LOS QUILOS U2
+Hidráulica Pasada
+13,24
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-25
+101
+COLBÚN S.A.
+HP LOS QUILOS U3
+Hidráulica Pasada
+11,65
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-25
+102
+COLBÚN S.A.
+HP QUILLECO U1
+Hidráulica Pasada
+35,40
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+jun-25
+103
+COLBÚN S.A.
+HP QUILLECO U2
+Hidráulica Pasada
+35,40
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+jun-25
+104
+COLBÚN S.A.
+HP RUCUE U1
+Hidráulica Pasada
+89,20
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+ene-25
+105
+COLBÚN S.A.
+HP RUCUE U2
+Hidráulica Pasada
+89,20
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+ene-25
+106
+COLBÚN S.A.
+HP SAN IGNACIO U1
+Hidráulica Pasada
+37,00
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+jul-25
+107
+COLBÚN S.A.
+PFV DIEGO DE ALMAGRO SUR
+Solar
+211,60
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+-
+108
+COLBÚN S.A.
+PFV MACHICURA
+Solar
+9,23
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+feb-25
+109
+COLBÚN S.A.
+TER CANDELARIA U1
+Diésel
+119,60
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+110
+COLBÚN S.A.
+TER CANDELARIA U2
+Diésel
+119,80
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+111
+COLBÚN S.A.
+TER LOS PINOS U1
+Diésel
+107,70
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+abr-25
+112
+COLBÚN S.A.
+TER NEHUENCO 9B U1
+Diésel
+92,00
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+jun-26
+113
+COLBÚN S.A.
+TER NEHUENCO 9B U1
+Gas Natural
+92,00
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+jun-26
+114
+COLBÚN S.A.
+TER NEHUENCO CC1-TG
+Diésel
+206,29
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+ene-25
+115
+COLBÚN S.A.
+TER NEHUENCO CC1-TG
+Gas Natural
+206,29
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+ene-25
+116
+COLBÚN S.A.
+TER NEHUENCO CC1-TG
+TER NEHUENCO CC1-TV
+Diésel
+315,40
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+ene-25
+117
+COLBÚN S.A.
+TER NEHUENCO CC1-TG
+TER NEHUENCO CC1-TV
+Gas Natural
+315,40
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+ene-25
+118
+COLBÚN S.A.
+TER NEHUENCO II CC1-TG
+Gas Natural
+250,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+dic-24
+119
+COLBÚN S.A.
+TER NEHUENCO II CC1-TG
+TER NEHUENCO II CC1-TV
+Diésel
+398,25
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+dic-24
+120
+COLBÚN S.A.
+TER NEHUENCO II CC1-TG
+TER NEHUENCO II CC1-TV
+Gas Natural
+398,25
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+dic-24
+121
+COLBÚN S.A.
+TER SANTA MARIA U1
+Carbón
+373,99
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+122
+COMASA SPA
+TER LAUTARO U1
+Biomasa
+26,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+jun-28
+123
+COMASA SPA
+TER LAUTARO U2
+Biomasa
+22,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+jun-28
+124
+COMPAÑÍA BARRICK CHILE GENERACIÓN SPA
+PE PUNTA COLORADA (U1-U10)
+Eólica
+20,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+may-25
+125
+COMPAÑÍA BARRICK CHILE GENERACIÓN SPA
+TER PUNTA COLORADA U1
+Diésel
+15,95
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+jun-26
+126
+COMPAÑÍA BARRICK CHILE GENERACIÓN SPA
+TER PUNTA COLORADA U1
+IFO-180
+15,95
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+jun-26
+127
+COMPAÑÍA TRANSMISORA LA CEBADA S.A.
+PE LOS CURUROS (U1-U57)
+Eólica
+109,40
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+may-25
+128
+CÓNDOR ENERGÍA SPA
+PE ALENA (U1-U18)
+Eólica
+86,20
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+may-25
+129
+CÓNDOR ENERGÍA SPA
+PE CERRO TIGRE (U1-U44)
+Eólica
+184,80
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+sep-25
+130
+CÓNDOR ENERGÍA SPA
+PE TCHAMMA (U1-U35)
+Eólica
+157,50
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jun-25
+131
+CÓNDOR ENERGÍA SPA
+PFV RIO ESCONDIDO
+Solar
+160,65
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jun-25
+132
+CONEJO SOLAR SPA
+PFV CONEJO SOLAR
+Solar
+104,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+mar-25
+133
+CONSORCIO SANTA MARTA S.A.
+TER SANTA MARTA
+Biogás
+15,01
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+sep-25
+134
+COPEC RENOVABLE SPA
+PFV GRANJA SOLAR
+Solar
+111,40
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jul-25
+135
+EL PELÍCANO SOLAR COMPANY SPA
+PFV EL PELICANO
+Solar
+108,10
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jul-25
+136
+ELÉCTRICA NUEVA ENERGÍA S.A.
+TER ESCUADRON U1
+Biomasa
+12,10
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+jul-25
+137
+ELÉCTRICA PUNTILLA S.A.
+HP ITATA U1
+Hidráulica Pasada
+10,00
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+oct-25
+138
+ELÉCTRICA PUNTILLA S.A.
+HP ITATA U2
+Hidráulica Pasada
+10,00
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+oct-25
+139
+ELÉCTRICA PUNTILLA S.A.
+HP PUNTILLA U1
+Hidráulica Pasada
+4,43
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+dic-25
+140
+ELÉCTRICA PUNTILLA S.A.
+HP PUNTILLA U2
+Hidráulica Pasada
+9,35
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+dic-25
+141
+ELÉCTRICA PUNTILLA S.A.
+HP PUNTILLA U3
+Hidráulica Pasada
+7,98
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-25
+142
+ELEKTRA GENERACIÓN S.A.
+TER CHILOE
+Diésel
+9,23
+-
+-
+NO
+NO
+SI
+SI
+NO
+NO
+NO
+-
+143
+ELEKTRA GENERACIÓN S.A.
+TER CONSTITUCION
+Diésel
+9,59
+-
+-
+NO
+NO
+SI
+NO
+NO
+NO
+NO
+-
+144
+ELEKTRA GENERACIÓN S.A.
+TER MAULE
+Diésel
+6,10
+-
+-
+NO
+NO
+SI
+NO
+NO
+NO
+NO
+-
+145
+EMELVA S.A.
+TER MAITENCILLO (U1-U38)
+Diésel
+69,16
+-
+-
+NO
+NO
+SI
+SI
+NO
+NO
+NO
+-
+146
+EMPRESA ELÉCTRICA ANGAMOS S.A.
+TER ANGAMOS U1
+Carbón
+276,90
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+147
+EMPRESA ELÉCTRICA ANGAMOS S.A.
+TER ANGAMOS U2
+Carbón
+281,30
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+148
+EMPRESA ELÉCTRICA CAPULLO S.A.
+HP CAPULLO U1
+Mini Hidráulica de Pasada
+12,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+nov-25
+149
+EMPRESA ELÉCTRICA CARÉN S.A.
+HP CARILAFQUEN U1
+Hidráulica Pasada
+9,90
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+dic-25
+150
+EMPRESA ELÉCTRICA CARÉN S.A.
+HP CARILAFQUEN U2
+Hidráulica Pasada
+9,90
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+dic-25
+151
+EMPRESA ELÉCTRICA CARÉN S.A.
+HP MALALCAHUELLO U1
+Hidráulica Pasada
+4,60
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+dic-25
+
+152
+EMPRESA ELÉCTRICA CARÉN S.A.
+HP MALALCAHUELLO U2
+Hidráulica Pasada
+4,60
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+dic-25
+153
+EMPRESA ELÉCTRICA COCHRANE SPA
+TER COCHRANE U1
+Carbón
+274,92
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+154
+EMPRESA ELÉCTRICA COCHRANE SPA
+TER COCHRANE U2
+Carbón
+274,80
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+155
+EMPRESA ELÉCTRICA DIEGO DE ALMAGRO SPA
+TER EMELDA U1
+Diésel
+36,53
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+ene-26
+156
+EMPRESA ELÉCTRICA DIEGO DE ALMAGRO SPA
+TER EMELDA U2
+Diésel
+35,43
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+ene-26
+157
+EMPRESA ELÉCTRICA EL PINAR SPA
+HP EL PINAR U1
+Hidráulica Pasada
+8,55
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+ene-26
+158
+EMPRESA ELÉCTRICA EL PINAR SPA
+HP EL PINAR U2
+Hidráulica Pasada
+3,06
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+ene-26
+159
+EMPRESA ELÉCTRICA LA LEONERA S.A.
+HP PULELFU U1
+Hidráulica Pasada
+4,50
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+ene-26
+160
+EMPRESA ELÉCTRICA LA LEONERA S.A.
+HP PULELFU U2
+Hidráulica Pasada
+4,50
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+ene-26
+161
+EMPRESA ELÉCTRICA PEHUENCHE S.A.
+HE PEHUENCHE U1
+Hidráulica Embalse
+286,99
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+oct-25
+162
+EMPRESA ELÉCTRICA PEHUENCHE S.A.
+HE PEHUENCHE U2
+Hidráulica Embalse
+286,47
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+oct-25
+163
+EMPRESA ELÉCTRICA PEHUENCHE S.A.
+HP CURILLINQUE U1
+Hidráulica Pasada
+92,00
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+ene-25
+164
+EMPRESA ELÉCTRICA PEHUENCHE S.A.
+HP LOMA ALTA U1
+Hidráulica Pasada
+40,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-25
+165
+EMPRESA ELÉCTRICA RUCATAYO S.A.
+HP RUCATAYO U1
+Hidráulica Pasada
+52,50
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+sep-26
+166
+EMPRESA ELÉCTRICAS AGUAS DEL MELADO SPA
+HP LOS HIERROS U1
+Hidráulica Pasada
+12,53
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+ago-26
+167
+EMPRESA ELÉCTRICAS AGUAS DEL MELADO SPA
+HP LOS HIERROS U2
+Hidráulica Pasada
+12,53
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+ago-26
+168
+ENAP REFINERÍAS S.A.
+TER ACONCAGUA U1
+Gas Natural
+27,31
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+nov-27
+169
+ENAP REFINERÍAS S.A.
+TER PETROPOWER U1
+Petcoke
+20,50
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+feb-27
+170
+ENEL GENERACIÓN CHILE S.A.
+HE ANTUCO U1
+Hidráulica Embalse
+164,63
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+nov-24
+171
+ENEL GENERACIÓN CHILE S.A.
+HE ANTUCO U2
+Hidráulica Embalse
+164,49
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+nov-24
+172
+ENEL GENERACIÓN CHILE S.A.
+HE CIPRESES U1
+Hidráulica Embalse
+33,64
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+sep-25
+173
+ENEL GENERACIÓN CHILE S.A.
+HE CIPRESES U2
+Hidráulica Embalse
+33,47
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+sep-25
+174
+ENEL GENERACIÓN CHILE S.A.
+HE CIPRESES U3
+Hidráulica Embalse
+30,87
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+sep-25
+175
+ENEL GENERACIÓN CHILE S.A.
+HE EL TORO U1
+Hidráulica Embalse
+113,44
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+may-25
+176
+ENEL GENERACIÓN CHILE S.A.
+HE EL TORO U2
+Hidráulica Embalse
+112,50
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+may-25
+177
+ENEL GENERACIÓN CHILE S.A.
+HE EL TORO U3
+Hidráulica Embalse
+113,46
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+may-25
+178
+ENEL GENERACIÓN CHILE S.A.
+HE EL TORO U4
+Hidráulica Embalse
+113,20
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+may-25
+179
+ENEL GENERACIÓN CHILE S.A.
+HE PANGUE U1
+Hidráulica Embalse
+233,50
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+abr-25
+180
+ENEL GENERACIÓN CHILE S.A.
+HE PANGUE U2
+Hidráulica Embalse
+233,50
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+abr-25
+181
+ENEL GENERACIÓN CHILE S.A.
+HE RALCO U1
+Hidráulica Embalse
+389,54
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+jul-26
+182
+ENEL GENERACIÓN CHILE S.A.
+HE RALCO U2
+Hidráulica Embalse
+390,95
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+jul-26
+183
+ENEL GENERACIÓN CHILE S.A.
+HE RAPEL U1
+Hidráulica Embalse
+76,05
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+oct-25
+184
+ENEL GENERACIÓN CHILE S.A.
+HE RAPEL U2
+Hidráulica Embalse
+76,22
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+oct-25
+185
+ENEL GENERACIÓN CHILE S.A.
+HE RAPEL U3
+Hidráulica Embalse
+75,43
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+oct-25
+186
+ENEL GENERACIÓN CHILE S.A.
+HE RAPEL U4
+Hidráulica Embalse
+74,98
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+oct-25
+187
+ENEL GENERACIÓN CHILE S.A.
+HE RAPEL U5
+Hidráulica Embalse
+79,52
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+oct-25
+188
+ENEL GENERACIÓN CHILE S.A.
+HP ABANICO U1
+Hidráulica Pasada
+21,50
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-26
+189
+ENEL GENERACIÓN CHILE S.A.
+HP ABANICO U3
+Hidráulica Pasada
+21,50
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+may-26
+190
+ENEL GENERACIÓN CHILE S.A.
+HP ABANICO U5
+Hidráulica Pasada
+25,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-26
+191
+ENEL GENERACIÓN CHILE S.A.
+HP ABANICO U6
+Hidráulica Pasada
+25,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-26
+192
+ENEL GENERACIÓN CHILE S.A.
+HP ISLA U1
+Hidráulica Pasada
+35,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-26
+193
+ENEL GENERACIÓN CHILE S.A.
+HP ISLA U2
+Hidráulica Pasada
+35,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-26
+194
+ENEL GENERACIÓN CHILE S.A.
+HP LOS MOLLES U1
+Mini Hidráulica de Pasada
+9,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+nov-25
+195
+ENEL GENERACIÓN CHILE S.A.
+HP LOS MOLLES U2
+Mini Hidráulica de Pasada
+9,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+nov-25
+196
+ENEL GENERACIÓN CHILE S.A.
+HP OJOS DE AGUA U1
+Mini Hidráulica de Pasada
+9,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-26
+197
+ENEL GENERACIÓN CHILE S.A.
+HP PALMUCHO U1
+Hidráulica Pasada
+32,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+sep-26
+198
+ENEL GENERACIÓN CHILE S.A.
+HP SAUZAL U1
+Hidráulica Pasada
+27,97
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-26
+199
+ENEL GENERACIÓN CHILE S.A.
+HP SAUZAL U2
+Hidráulica Pasada
+28,05
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-26
+200
+ENEL GENERACIÓN CHILE S.A.
+HP SAUZAL U3
+Hidráulica Pasada
+27,08
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-26
+201
+ENEL GENERACIÓN CHILE S.A.
+HP SAUZALITO U1
+Hidráulica Pasada
+11,31
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jul-26
+202
+ENEL GENERACIÓN CHILE S.A.
+PE CANELA (U1-U11)
+Eólica
+18,15
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+feb-26
+203
+ENEL GENERACIÓN CHILE S.A.
+PE CANELA II (U1-U40)
+Eólica
+60,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+mar-25
+204
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC1-TG1
+Gas Natural
+111,35
+-
+-
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+feb-26
+205
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC1-TG1
+Diésel
+111,35
+-
+-
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+feb-26
+206
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC1-TG1
+TER ATACAMA CC1-TG2
+TER ATACAMA CC1-TV
+Diésel
+378,26
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+feb-26
+207
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC1-TG1
+TER ATACAMA CC1-TG2
+TER ATACAMA CC1-TV
+Gas Natural
+378,26
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+feb-26
+208
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC1-TG1
+TER ATACAMA CC1-TV
+Diésel
+179,36
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+feb-26
+209
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC1-TG1
+TER ATACAMA CC1-TV
+Gas Natural
+179,36
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+feb-26
+210
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC1-TG2
+Diésel
+121,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+feb-26
+211
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC1-TG2
+Gas Natural
+121,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+feb-26
+212
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC1-TG2
+TER ATACAMA CC1-TV
+Gas Natural
+177,70
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+mar-26
+213
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC1-TG2
+TER ATACAMA CC1-TV
+Diésel
+177,70
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+mar-26
+214
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC2-TG1
+Diésel
+109,75
+-
+-
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+mar-26
+215
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC2-TG1
+Gas Natural
+109,75
+-
+-
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+mar-26
+216
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC2-TG1
+TER ATACAMA CC2-TG2
+TER ATACAMA CC2-TV
+Diésel
+353,85
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+mar-26
+217
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC2-TG1
+TER ATACAMA CC2-TG2
+TER ATACAMA CC2-TV
+Gas Natural
+353,85
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+mar-26
+218
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC2-TG1
+TER ATACAMA CC2-TV
+Diésel
+167,59
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+mar-26
+219
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC2-TG1
+TER ATACAMA CC2-TV
+Gas Natural
+167,59
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+mar-26
+220
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC2-TG2
+Diésel
+121,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+mar-26
+221
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC2-TG2
+Gas Natural
+121,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+mar-26
+
+222
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC2-TG2
+TER ATACAMA CC2-TV
+Diésel
+162,49
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+mar-26
+223
+ENEL GENERACIÓN CHILE S.A.
+TER ATACAMA CC2-TG2
+TER ATACAMA CC2-TV
+Gas Natural
+162,49
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+mar-26
+224
+ENEL GENERACIÓN CHILE S.A.
+TER SAN ISIDRO CC1-TG
+Gas Natural
+214,70
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+225
+ENEL GENERACIÓN CHILE S.A.
+TER SAN ISIDRO CC1-TG
+TER SAN ISIDRO CC1-TV
+Gas Natural
+310,28
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+226
+ENEL GENERACIÓN CHILE S.A.
+TER SAN ISIDRO II CC1-TG
+Gas Natural
+212,01
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+227
+ENEL GENERACIÓN CHILE S.A.
+TER SAN ISIDRO II CC1-TG
+TER SAN ISIDRO II CC1-TV
+Gas Natural
+300,05
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+228
+ENEL GENERACIÓN CHILE S.A.
+TER TALTAL U1
+Gas Natural
+119,35
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+abr-26
+229
+ENEL GENERACIÓN CHILE S.A.
+TER TALTAL U1
+Diésel
+119,35
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+abr-26
+230
+ENEL GENERACIÓN CHILE S.A.
+TER TALTAL U2
+Gas Natural
+119,50
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+abr-26
+231
+ENEL GENERACIÓN CHILE S.A.
+TER TALTAL U2
+Diésel
+119,50
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+abr-26
+232
+ENEL GENERACIÓN CHILE S.A.
+TER TARAPACA TGTAR
+Diésel
+20,04
+-
+-
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+may-26
+233
+ENEL GREEN POWER CHILE S.A.
+HE PILMAIQUEN U1
+Hidráulica Embalse
+5,60
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+may-26
+234
+ENEL GREEN POWER CHILE S.A.
+HE PILMAIQUEN U2
+Hidráulica Embalse
+5,60
+-
+-
+SI
+NO
+SI
+SI
+NO
+NO
+NO
+may-26
+235
+ENEL GREEN POWER CHILE S.A.
+HE PILMAIQUEN U3
+Hidráulica Embalse
+5,60
+-
+-
+SI
+NO
+SI
+SI
+NO
+NO
+NO
+may-26
+236
+ENEL GREEN POWER CHILE S.A.
+HE PILMAIQUEN U4
+Hidráulica Embalse
+12,00
+-
+-
+SI
+NO
+SI
+SI
+NO
+NO
+NO
+ago-26
+237
+ENEL GREEN POWER CHILE S.A.
+HE PILMAIQUEN U5
+Hidráulica Embalse
+12,00
+-
+-
+SI
+NO
+SI
+SI
+NO
+NO
+NO
+ago-26
+238
+ENEL GREEN POWER CHILE S.A.
+HP PULLINQUE U1
+Hidráulica Pasada
+17,13
+-
+-
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+jul-26
+239
+ENEL GREEN POWER CHILE S.A.
+HP PULLINQUE U2
+Hidráulica Pasada
+17,13
+-
+-
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+jul-26
+240
+ENEL GREEN POWER CHILE S.A.
+HP PULLINQUE U3
+Hidráulica Pasada
+17,13
+-
+-
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+jul-26
+241
+ENEL GREEN POWER CHILE S.A.
+PE LA CABAÑA
+Eólica
+105,22
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+ago-25
+242
+ENEL GREEN POWER CHILE S.A.
+PE LOS BUENOS AIRES (U1-U12)
+Eólica
+24,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+may-25
+243
+ENEL GREEN POWER CHILE S.A.
+PE RENAICO I (U1-U44)
+Eólica
+141,41
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jun-25
+244
+ENEL GREEN POWER CHILE S.A.
+PE RENAICO II (U45-U76)
+Eólica
+141,41
+-
+-
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+jun-25
+245
+ENEL GREEN POWER CHILE S.A.
+PE SIERRA GORDA ESTE (U1-U56)
+Eólica
+112,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jul-25
+246
+ENEL GREEN POWER CHILE S.A.
+PE TALINAY PONIENTE (U15-U32)
+Eólica
+32,40
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jun-26
+247
+ENEL GREEN POWER CHILE S.A.
+PE TALINAY PONIENTE (U1-U14)
+Eólica
+28,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jun-26
+248
+ENEL GREEN POWER CHILE S.A.
+PE TALTAL (U1-U33)
+Eólica
+99,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+may-25
+249
+ENEL GREEN POWER CHILE S.A.
+PE VALLE DE LOS VIENTOS (U1-U45)
+Eólica
+90,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jul-25
+250
+ENEL GREEN POWER CHILE S.A.
+PFV AZABACHE
+Solar
+58,99
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jun-25
+251
+ENEL GREEN POWER CHILE S.A.
+PFV CAMPOS DEL SOL
+Solar
+381,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ago-25
+252
+ENEL GREEN POWER CHILE S.A.
+PFV CARRERA PINTO
+Solar
+93,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+may-25
+253
+ENEL GREEN POWER CHILE S.A.
+PFV CHAÑARES
+Solar
+36,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+may-25
+254
+ENEL GREEN POWER CHILE S.A.
+PFV DIEGO DE ALMAGRO
+Solar
+32,01
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+feb-25
+255
+ENEL GREEN POWER CHILE S.A.
+PFV DOMEYKO
+Solar
+201,61
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ago-25
+256
+ENEL GREEN POWER CHILE S.A.
+PFV FINIS TERRAE
+Solar
+264,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+oct-25
+257
+ENEL GREEN POWER CHILE S.A.
+PFV GUANCHOI
+Solar
+366,47
+-
+-
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+jul-25
+258
+ENEL GREEN POWER CHILE S.A.
+PFV LALACKAMA
+Solar
+55,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+oct-25
+259
+ENEL GREEN POWER CHILE S.A.
+PFV LALACKAMA II
+Solar
+16,50
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+oct-26
+260
+ENEL GREEN POWER CHILE S.A.
+PFV LAS SALINAS
+Solar
+364,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ago-25
+261
+ENEL GREEN POWER CHILE S.A.
+PFV MANZANO
+Solar
+87,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ago-25
+262
+ENEL GREEN POWER CHILE S.A.
+PFV PAMPA SOLAR NORTE
+Solar
+69,39
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+oct-25
+263
+ENEL GREEN POWER CHILE S.A.
+PFV SOL DE LILA
+Solar
+152,28
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+may-25
+264
+ENEL GREEN POWER CHILE S.A.
+PFV VALLE DEL SOL
+Solar
+153,24
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+may-25
+265
+ENERGÍA CERRO EL MORADO S.A.
+PFV DOÑA CARMEN SOLAR
+Solar
+34,62
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+feb-25
+266
+ENERGÍA COYANCO S.A.
+HP GUAYACAN U1
+Mini Hidráulica de Pasada
+7,00
+-
+-
+NO
+SI
+SI
+SI
+SI
+NO
+NO
+oct-26
+267
+ENERGÍA COYANCO S.A.
+HP GUAYACAN U2
+Mini Hidráulica de Pasada
+7,00
+-
+-
+NO
+SI
+SI
+SI
+SI
+NO
+NO
+oct-26
+268
+ENERGÍA EÓLICA LOS OLMOS SPA
+PE LOS OLMOS (U1-U23)
+Eólica
+110,40
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+abr-25
+269
+ENERGIA EÓLICA MESAMAVIDA SPA
+PE MESAMAVIDA (U1-U12)
+Eólica
+56,98
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+abr-25
+270
+ENERGÍA PACÍFICO S.A.
+TER ENERGIA PACIFICO U1
+Biomasa
+15,60
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+may-26
+271
+ENERGÍA SIETE SPA
+TER TRINCAO
+Diésel
+18,03
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-26
+272
+ENERGÍAS UCUQUER DOS S.A.
+PE UCUQUER II (U1-U5)
+Eólica
+10,75
+-
+-
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+sep-25
+273
+ENGIE ENERGÍA CHILE S.A.
+HP CHAPIQUIÑA U1
+Mini Hidráulica de Pasada
+5,45
+-
+-
+NO
+NO
+SI
+SI
+SI
+SI
+NO
+-
+274
+ENGIE ENERGÍA CHILE S.A.
+HP CHAPIQUIÑA U2
+Mini Hidráulica de Pasada
+5,45
+-
+-
+NO
+NO
+SI
+SI
+SI
+SI
+NO
+-
+275
+ENGIE ENERGÍA CHILE S.A.
+PE CALAMA (U1-U36)
+Eólica
+163,12
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-25
+276
+ENGIE ENERGÍA CHILE S.A.
+PFV CAPRICORNIO U1
+Solar
+90,37
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+sep-25
+277
+ENGIE ENERGÍA CHILE S.A.
+PFV COYA
+Solar
+181,21
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+sep-25
+278
+ENGIE ENERGÍA CHILE S.A.
+PFV TAMAYA SOLAR
+Solar
+115,03
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-25
+279
+ENGIE ENERGÍA CHILE S.A.
+TER ARICA
+Diésel
+10,33
+-
+-
+NO
+NO
+SI
+SI
+NO
+SI
+NO
+dic-26
+280
+ENGIE ENERGÍA CHILE S.A.
+TER IEM U1
+Carbón
+376,96
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+ene-27
+281
+ENGIE ENERGÍA CHILE S.A.
+TER MEJILLONES CTM1
+Carbón
+161,77
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+-
+282
+ENGIE ENERGÍA CHILE S.A.
+TER MEJILLONES CTM2
+Carbón
+171,99
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+-
+283
+ENGIE ENERGÍA CHILE S.A.
+TER MEJILLONES CTM3-TG
+Diésel
+156,15
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+oct-26
+284
+ENGIE ENERGÍA CHILE S.A.
+TER MEJILLONES CTM3-TG
+Gas Natural
+156,15
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+oct-26
+285
+ENGIE ENERGÍA CHILE S.A.
+TER MEJILLONES CTM3-TG
+TER MEJILLONES CTM3-TV
+Diésel
+242,03
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+oct-26
+286
+ENGIE ENERGÍA CHILE S.A.
+TER MEJILLONES CTM3-TG
+TER MEJILLONES CTM3-TV
+Gas Natural
+242,03
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+oct-26
+287
+ENGIE ENERGÍA CHILE S.A.
+TER TOCOPILLA TG1
+Diésel
+19,71
+-
+-
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+-
+288
+ENGIE ENERGÍA CHILE S.A.
+TER TOCOPILLA TG2
+Diésel
+20,00
+-
+-
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+-
+289
+ENGIE ENERGÍA CHILE S.A.
+TER TOCOPILLA TG3
+Gas Natural
+36,30
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+-
+290
+ENGIE ENERGÍA CHILE S.A.
+TER TOCOPILLA TG3
+Diésel
+36,30
+-
+-
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+-
+291
+ENGIE ENERGÍA CHILE S.A.
+TER TOCOPILLA U16-TG-TV
+Gas Natural
+225,43
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+292
+ENGIE ENERGÍA CHILE S.A.
+BESS PFV COYA
+Solar+BESS
+-
+139,00
+638,00
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+abr-25
+293
+ENLASA GENERACIÓN CHILE S.A.
+TER EL PEÑON (U1-U50)
+Diésel
+81,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+SI
+NO
+mar-27
+294
+ENLASA GENERACIÓN CHILE S.A.
+TER SAN LORENZO DE D. DE ALMAGRO U1
+Diésel
+29,27
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+mar-27
+295
+ENLASA GENERACIÓN CHILE S.A.
+TER SAN LORENZO DE D. DE ALMAGRO U2
+Diésel
+26,10
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+mar-27
+296
+ENLASA GENERACIÓN CHILE S.A.
+TER TENO (U1-U36)
+Diésel
+59,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+SI
+NO
+mar-27
+297
+ENLASA GENERACIÓN CHILE S.A.
+TER TRAPEN (U1-U50)
+Diésel
+81,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+mar-27
+
+298
+ENORCHILE S.A.
+TER ESPERANZA U1
+Diésel
+16,14
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+nov-26
+299
+ENORCHILE S.A.
+TER UJINA U1
+Diésel
+6,56
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+mar-27
+300
+ENORCHILE S.A.
+TER UJINA U1
+Fuel Oil N°6
+6,56
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+mar-27
+301
+ENORCHILE S.A.
+TER UJINA U2
+Diésel
+6,63
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+abr-27
+302
+ENORCHILE S.A.
+TER UJINA U2
+Fuel Oil N°6
+6,63
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+abr-27
+303
+ENORCHILE S.A.
+TER UJINA U3
+Diésel
+6,60
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+abr-27
+304
+ENORCHILE S.A.
+TER UJINA U3
+Fuel Oil N°6
+6,60
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+abr-27
+305
+ENORCHILE S.A.
+TER UJINA U4
+Diésel
+6,60
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+abr-27
+306
+ENORCHILE S.A.
+TER UJINA U4
+Fuel Oil N°6
+6,60
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+abr-27
+307
+ENORCHILE S.A.
+TER UJINA U6
+Diésel
+8,90
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+abr-27
+308
+ENORCHILE S.A.
+TER UJINA U6
+Fuel Oil N°6
+8,90
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+abr-27
+309
+EÓLICA LA ESPERANZA S.A.
+PE LA ESPERANZA (U1-U5)
+Eólica
+10,50
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-26
+310
+EÓLICA MONTE REDONDO SPA
+HP LAJA I U1
+Hidráulica Pasada
+17,20
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+sep-26
+311
+EÓLICA MONTE REDONDO SPA
+HP LAJA I U2
+Hidráulica Pasada
+17,20
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+sep-26
+312
+EÓLICA MONTE REDONDO SPA
+PE MONTE REDONDO (U1-U24)
+Eólica
+48,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-26
+313
+ESPINOS S.A.
+HP ALTO RENAICO U1
+Hidráulica Pasada
+1,40
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+abr-26
+314
+ESPINOS S.A.
+HP RENAICO U1
+Hidráulica Pasada
+6,30
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-26
+315
+ESPINOS S.A.
+TER LOS ESPINOS (U1-U27)
+Diésel
+48,00
+-
+-
+NO
+NO
+SI
+NO
+NO
+NO
+NO
+may-27
+316
+ESPINOS S.A.
+TER LOS ESPINOS (U28-U80)
+Diésel
+88,35
+-
+-
+NO
+NO
+SI
+NO
+NO
+NO
+NO
+may-27
+317
+ESPINOS S.A.
+TER OLIVOS (U1-U60)
+Diésel
+96,00
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+may-27
+318
+ESPINOS S.A.
+TER OLIVOS (U61-U72)
+Diésel
+19,20
+-
+-
+NO
+NO
+SI
+NO
+NO
+NO
+NO
+may-27
+319
+FOTOVOLTAICA DE LOS ANDES SPA
+PFV DE LOS ANDES
+Solar
+9,66
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-27
+320
+FOTOVOLTAICA NORTE GRANDE 5 SPA
+PFV LA CRUZ SOLAR
+Solar
+52,81
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-25
+321
+FOTOVOLTAICA NORTE GRANDE 5 SPA
+PFV URIBE SOLAR
+Solar
+52,80
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+mar-25
+322
+GAS SUR S.A.
+TER NEWEN U1
+Diésel
+13,35
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-27
+323
+GAS SUR S.A.
+TER NEWEN U1
+Propano
+13,35
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-27
+324
+GAS SUR S.A.
+TER NEWEN U1
+Gas Natural
+13,35
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-27
+325
+GENERACIÓN DE ENERGÍA NUEVA DEGAN SPA
+TER DEGAÑ (U1-U22)
+Diésel
+36,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+sep-27
+326
+GENERACIÓN DE ENERGÍA NUEVA DEGAN SPA
+TER DEGAÑ 2 (U1-U10)
+Diésel
+19,20
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+sep-27
+327
+GENERACIÓN SOLAR SPA
+PFV MARIA ELENA
+Solar
+68,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-25
+328
+GENERADORA ANTILHUE SPA
+TER ANTILHUE U1
+Diésel
+47,20
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+feb-27
+329
+GENERADORA ANTILHUE SPA
+TER ANTILHUE U2
+Diésel
+48,73
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+feb-27
+330
+GENERADORA DEL PACÍFICO SPA
+PFV ANTAY
+Solar
+9,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+feb-27
+331
+GENERADORA DEL PACÍFICO SPA
+TER TERMOPACIFICO (U1-U60)
+Diésel
+95,61
+-
+-
+NO
+NO
+SI
+NO
+NO
+SI
+NO
+jun-27
+332
+GENERADORA METROPOLITANA SPA
+TER NUEVA RENCA CC1-TG
+TER NUEVA RENCA CC1-TV
+Gas Natural
+330,48
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+333
+GENERADORA SOL SOLIV SPA
+PFV CARACAS II
+Solar
+9,38
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+feb-27
+334
+GEOTÉRMICA DEL NORTE S.A.
+GEO CERRO PABELLON U1
+Geotérmica
+29,87
+-
+-
+SI
+NO
+SI
+NO
+NO
+NO
+NO
+jun-27
+335
+GEOTÉRMICA DEL NORTE S.A.
+GEO CERRO PABELLON U2
+Geotérmica
+28,29
+-
+-
+SI
+NO
+SI
+NO
+NO
+NO
+NO
+jun-27
+336
+GEOTÉRMICA DEL NORTE S.A.
+GEO CERRO PABELLON U3
+Geotérmica
+36,72
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+jun-27
+337
+GM HOLDINGS S.A.
+TER LOS VIENTOS U1
+Diésel
+133,60
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+mar-27
+338
+GM HOLDINGS S.A.
+TER SANTA LIDIA U1
+Diésel
+142,36
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+-
+339
+GUACOLDA ENERGÍA SPA
+TER GUACOLDA U1
+Carbón
+154,18
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+340
+GUACOLDA ENERGÍA SPA
+TER GUACOLDA U2
+Carbón
+145,41
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+341
+GUACOLDA ENERGÍA SPA
+TER GUACOLDA U3
+Carbón
+153,93
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+mar-27
+342
+GUACOLDA ENERGÍA SPA
+TER GUACOLDA U4
+Carbón
+153,88
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+-
+343
+GUACOLDA ENERGÍA SPA
+TER GUACOLDA U5
+Carbón
+156,22
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+mar-27
+344
+GUACOLDA ENERGÍA SPA
+TER HUASCO U3
+Diésel
+19,33
+-
+-
+NO
+NO
+SI
+SI
+SI
+SI
+NO
+jun-27
+345
+GUACOLDA ENERGÍA SPA
+TER HUASCO U3
+IFO-180
+19,33
+-
+-
+NO
+NO
+SI
+SI
+SI
+SI
+NO
+jun-27
+346
+GUACOLDA ENERGÍA SPA
+TER HUASCO U4
+Diésel
+19,33
+-
+-
+NO
+NO
+SI
+SI
+SI
+SI
+NO
+jun-27
+347
+GUACOLDA ENERGÍA SPA
+TER HUASCO U4
+IFO-180
+19,33
+-
+-
+NO
+NO
+SI
+SI
+SI
+SI
+NO
+jun-27
+348
+GUACOLDA ENERGÍA SPA
+TER HUASCO U5
+Diésel
+19,33
+-
+-
+NO
+NO
+SI
+SI
+SI
+SI
+NO
+jun-27
+349
+GUACOLDA ENERGÍA SPA
+TER HUASCO U5
+IFO-180
+19,33
+-
+-
+NO
+NO
+SI
+SI
+SI
+SI
+NO
+jul-27
+350
+HELIO ATACAMA TRES SPA
+PFV BOLERO
+Solar
+135,70
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jul-25
+351
+HIDROANGOL S.A.
+HP RIO PICOIQUEN U1
+Hidráulica Pasada
+9,80
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jul-26
+352
+HIDROANGOL S.A.
+HP RIO PICOIQUEN U2
+Hidráulica Pasada
+9,80
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jul-26
+353
+HIDROELÉCTRICA EL PASO SPA
+HP EL PASO U1
+Hidráulica Pasada
+20,00
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+abr-26
+354
+HIDROELÉCTRICA EL PASO SPA
+HP EL PASO U2
+Hidráulica Pasada
+20,00
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+abr-26
+355
+HIDROELÉCTRICA EL PASO SPA
+HP EL PASO U3
+Hidráulica Pasada
+20,00
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+abr-26
+356
+HIDROELÉCTRICA EMBALSE ANCOA SPA
+HP ANCOA U1
+Hidráulica Embalse
+13,51
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jul-26
+357
+HIDROELÉCTRICA EMBALSE ANCOA SPA
+HP ANCOA U2
+Hidráulica Embalse
+13,35
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jul-26
+358
+HIDROELÉCTRICA LA CONFLUENCIA S.A.
+HP LA CONFLUENCIA 
+Hidráulica Pasada
+163,20
+-
+-
+NO
+NO
+SI
+SI
+NO
+NO
+NO
+jul-26
+359
+HIDROELÉCTRICA LA HIGUERA S.A.
+HP LA HIGUERA
+Hidráulica Pasada
+155,00
+-
+-
+NO
+SI
+SI
+SI
+NO
+NO
+NO
+ago-26
+360
+HIDROELÉCTRICA RÍO COLORADO S.A.
+HP RIO COLORADO U1
+Hidráulica Pasada
+8,25
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+ago-26
+361
+HIDROELÉCTRICA RÍO COLORADO S.A.
+HP RIO COLORADO U2
+Hidráulica Pasada
+8,25
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+ago-26
+362
+HIDROELÉCTRICA RÍO HUASCO S.A.
+HP RIO HUASCO U1
+Hidráulica Pasada
+2,56
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+ago-26
+363
+HIDROELÉCTRICA RÍO HUASCO S.A.
+HP RIO HUASCO U2
+Hidráulica Pasada
+2,56
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+ago-26
+364
+HIDROELÉCTRICA RÍO LIRCAY S.A.
+HP LIRCAY U1
+Hidráulica Pasada
+9,50
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+ago-26
+365
+HIDROELÉCTRICA RÍO LIRCAY S.A.
+HP LIRCAY U2
+Hidráulica Pasada
+9,50
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+ago-26
+366
+HIDROELÉCTRICA RÍO LIRCAY S.A.
+HP PROVIDENCIA U1
+Hidráulica Pasada
+7,10
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+ago-26
+367
+HIDROELÉCTRICA RÍO LIRCAY S.A.
+HP PROVIDENCIA U2
+Hidráulica Pasada
+7,10
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+ago-26
+368
+HIDROELÉCTRICA SAN ANDRÉS SPA
+HP SAN ANDRES U1
+Hidráulica Pasada
+20,15
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+may-26
+369
+HIDROELÉCTRICA SAN ANDRÉS SPA
+HP SAN ANDRES U2
+Hidráulica Pasada
+20,15
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+jun-26
+370
+HIDROENERSUR S.A.
+HP CUMBRES U1
+Hidráulica Pasada
+9,01
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+sep-26
+371
+HIDROENERSUR S.A.
+HP CUMBRES U1
+Hidráulica Pasada
+9,01
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+sep-26
+372
+HIDROENERSUR S.A.
+HP CUMBRES U2
+Hidráulica Pasada
+8,95
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+sep-26
+373
+HIDROENERSUR S.A.
+HP MC1 U1
+Hidráulica Pasada
+9,00
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-25
+374
+HIDROMOCHO S.A.
+HP MOCHO U1
+Hidráulica Pasada
+14,90
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+mar-26
+375
+HUEMUL ENERGÍA SPA
+PE LLANOS DEL VIENTO (U1-U32)
+Eólica
+157,01
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-25
+376
+HUEMUL ENERGÍA SPA
+PE PUELCHE SUR (U1-U32)
+Eólica
+160,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-25
+377
+HUEMUL ENERGÍA SPA
+PFV PAMPA TIGRE
+Solar
+103,65
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jul-25
+
+378
+HUEMUL ENERGÍA SPA
+PFV VALLE ESCONDIDO
+Solar
+107,66
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-25
+379
+IBEREÓLICA CABO LEONES II S.A.
+PE CABO LEONES II
+Eólica
+207,23
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-25
+380
+IBEREÓLICA CABO LEONES II S.A.
+PFV SAN PEDRO
+Solar
+104,49
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ago-25
+381
+INACAL S.A.
+TER CEMENTOS BIO BIO CENTRO U1
+Fuel Oil N°6
+12,35
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+oct-27
+382
+INNOVACIÓN ENERGÍA S.A.
+TER TENO GAS (U1-U26)
+Gas Natural
+44,46
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+oct-27
+383
+INVERSIONES FOTOVOLTAICAS SPA
+PFV WILLKA
+Solar
+98,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+mar-25
+384
+INVERSIONES HORNITOS SPA
+TER HORNITOS U1
+Carbón
+174,26
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+-
+385
+JAVIERA SPA
+PFV JAVIERA
+Solar
+69,02
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-25
+386
+KDM ENERGÍA S.A.
+TER LOMA LOS COLORADOS II
+Biogás
+18,20
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+nov-27
+387
+LOS GUINDOS GENERACIÓN SPA
+TER LOS GUINDOS U1
+Diésel
+135,04
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+abr-26
+388
+LOS GUINDOS GENERACIÓN SPA
+TER LOS GUINDOS U2
+Diésel
+138,07
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+abr-26
+389
+MANTOS COPPER S.A.
+TER MANTOS BLANCOS
+Diésel
+25,53
+-
+-
+NO
+NO
+SI
+SI
+NO
+SI
+NO
+dic-27
+390
+NEOMAS SPA
+TER MASISA U1
+Biomasa
+11,00
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+oct-27
+391
+NORACID S.A.
+TER PLANTA DE ACIDO SULFURICO MEJILLONES U1
+Cogeneración
+26,41
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+dic-27
+392
+NORVIND S.A.
+PE TOTORAL (U1-U23)
+Eólica
+46,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-27
+393
+OPDENERGY GENERACIÓN SPA
+PE LA ESTRELLA (U1-U11)
+Eólica
+49,92
+-
+-
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+nov-27
+394
+OPDENERGY GENERACIÓN SPA
+PFV SOL DE LOS ANDES (U1-U20)
+Solar
+82,36
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+oct-25
+395
+PACIFIC HYDRO CHACAYES S.A.
+HP CHACAYES U1
+Hidráulica Pasada
+56,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+mar-26
+396
+PACIFIC HYDRO CHACAYES S.A.
+HP CHACAYES U2
+Hidráulica Pasada
+56,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+mar-26
+397
+PACIFIC HYDRO CHILE S.A.
+HP COYA U5
+Hidráulica Pasada
+12,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+mar-26
+398
+PACIFIC HYDRO CHILE S.A.
+HP PANGAL U1
+Hidráulica Pasada
+6,40
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+mar-26
+399
+PACIFIC HYDRO CHILE S.A.
+HP PANGAL U2
+Hidráulica Pasada
+6,40
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+mar-26
+400
+PACIFIC HYDRO CHILE S.A.
+HP PANGAL U3
+Hidráulica Pasada
+6,40
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+mar-26
+401
+PACIFIC HYDRO CHILE S.A.
+HP PANGAL U4
+Hidráulica Pasada
+6,40
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+mar-26
+402
+PACIFIC HYDRO CHILE S.A.
+HP PANGAL U5
+Hidráulica Pasada
+5,22
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+mar-26
+403
+PACIFIC HYDRO CHILE S.A.
+PE PUNTA SIERRA (U1-U32)
+Eólica
+82,62
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+oct-25
+404
+Parque Eólico Atacama SpA
+PE ATACAMA (U1-U27)
+Eólica
+165,81
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+may-25
+405
+PARQUE EÓLICO CABO LEONES I S.A.
+PE CABO LEONES I TIPO 1 (2 [MW])
+PE CABO LEONES I TIPO 2 (5 [MW])
+Eólica
+190,23
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+ene-25
+406
+Parque Eólico Campo Lindo SpA
+PE CAMPO LINDO (U1-U15)
+Eólica
+65,71
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+abr-25
+407
+PARQUE EÓLICO EL ARRAYÁN SPA
+PE EL ARRAYAN (U1-U50)
+Eólica
+115,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-25
+408
+PARQUE EÓLICO EL MAITÉN SPA
+PE EL MAITEN (U1-U3)
+Eólica
+11,46
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-27
+409
+PARQUE EÓLICO LEBU-TORO SPA
+PE LEBU (U1-U9)
+Eólica
+10,05
+-
+-
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+dic-27
+410
+PARQUE FOTOVOLTAICO NUEVO QUILLAGUA SPA
+PFV NUEVO QUILLAGUA
+Solar
+96,52
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+oct-25
+411
+PARQUE SOLAR FOTOVOLTAICO LUZ DEL NORTE SPA
+PFV LUZ DEL NORTE
+Solar
+141,04
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+-
+412
+PARQUE SOLAR FOTOVOLTAICO SOL DEL DESIERTO SPA
+PFV SOL DEL DESIERTO
+Solar
+230,48
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+oct-24
+413
+PARQUE TALINAY ORIENTE S.A.
+PE TALINAY ORIENTE (U1-U30)
+Eólica
+60,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-25
+414
+PARQUE TALINAY ORIENTE S.A.
+PE TALINAY ORIENTE (U31-U45)
+Eólica
+30,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-28
+415
+PE CABO LEONES III SPA
+PE CABO LEONES III TIPO 1 (3.55[MW])
+PE CABO LEONES III TIPO 2 (5[MW])
+Eólica
+190,23
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+ene-25
+416
+PLANTA SOLAR SAN PEDRO III SPA
+PFV JAMA U1
+Solar
+30,24
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+abr-25
+417
+PLANTA SOLAR SAN PEDRO III SPA
+PFV JAMA U2
+Solar
+22,41
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+abr-25
+418
+POZO ALMONTE SOLAR 3 S.A.
+PFV POZO ALMONTE SOLAR III
+Solar
+16,04
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-28
+419
+PRIME ENERGÍA QUICKSTART SPA
+TER CHAGUAL (U1-U56)
+Diésel
+103,25
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-28
+420
+PRIME ENERGÍA QUICKSTART SPA
+TER COMBARBALA (U1-U42)
+Diésel
+77,72
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-28
+421
+PRIME ENERGÍA QUICKSTART SPA
+TER LLANOS BLANCOS (U1-U83)
+Diésel
+153,66
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+-
+422
+PRIME ENERGÍA QUICKSTART SPA
+TER PAJONALES (U1-U56)
+Diésel
+104,16
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-28
+423
+PRIME ENERGÍA QUICKSTART SPA
+TER SAN JAVIER I (U1-U14)
+Diésel
+25,99
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-28
+424
+PRIME ENERGÍA QUICKSTART SPA
+TER SAN JAVIER II (U1-U14)
+Diésel
+26,00
+-
+-
+NO
+NO
+SI
+SI
+SI
+NO
+NO
+may-28
+425
+PUNTA PALMERAS S.A.
+PE PUNTA PALMERAS (U1-U15)
+Eólica
+44,70
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+ene-28
+426
+RÍO ALTO SPA
+PE SAN PEDRO II (U1-U13)
+Eólica
+65,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+nov-25
+427
+S.W.OPERATIONS S.A.
+TER DIEGO DE ALMAGRO U1
+Diésel
+23,80
+-
+-
+NO
+NO
+SI
+SI
+SI
+SI
+NO
+jun-25
+428
+S.W.OPERATIONS S.A.
+TER EL SALVADOR U1
+Diésel
+17,75
+-
+-
+NO
+NO
+SI
+NO
+SI
+SI
+NO
+jun-28
+429
+SAN ANDRÉS SPA
+PFV LLANO DE LLAMPOS
+Solar
+101,02
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-25
+430
+SAN JUAN S.A.
+PE SAN JUAN (U1-U56)
+Eólica
+193,20
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-25
+431
+SANTIAGO SOLAR S.A.
+PFV SANTIAGO SOLAR
+Solar
+92,73
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+feb-25
+432
+SOCIEDAD CONCESIONARIA EMBALSE CONVENTO VIEJO S.A.
+HE CONVENTO VIEJO U1
+Hidráulica Embalse
+8,52
+-
+-
+SI
+NO
+SI
+NO
+NO
+NO
+NO
+feb-26
+433
+SOCIEDAD CONCESIONARIA EMBALSE CONVENTO VIEJO S.A.
+HE CONVENTO VIEJO U2
+Hidráulica Embalse
+8,52
+-
+-
+SI
+NO
+SI
+NO
+NO
+NO
+NO
+feb-26
+434
+SOCIEDAD GENERADORA AUSTRAL S.A.
+TER CALLE CALLE
+Diésel
+11,68
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-28
+435
+SOCIEDAD GENERADORA AUSTRAL S.A.
+TER CHUYACA
+Diésel
+14,25
+-
+-
+NO
+NO
+SI
+NO
+SI
+NO
+NO
+jun-28
+436
+SOCIEDAD GENERADORA AUSTRAL S.A.
+TER CORONEL U1
+Diésel
+41,70
+-
+-
+SI
+NO
+SI
+NO
+SI
+SI
+NO
+jul-28
+437
+SOCIEDAD GENERADORA AUSTRAL S.A.
+TER CORONEL U1
+Gas Natural
+41,70
+-
+-
+SI
+NO
+SI
+NO
+SI
+SI
+NO
+jul-28
+438
+SOLAR ELENA SPA
+PFV ELENA (U1-U3)
+Solar
+67,50
+-
+-
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+abr-25
+439
+SOLAR LOS LOROS SPA
+PFV LOS LOROS
+Solar
+46,00
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-24
+440
+SPS LA HUAYCA S.A.
+PFV LA HUAYCA II
+Solar
+26,73
+-
+-
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+dic-25
+441
+SPS LA HUAYCA S.A.
+PFV LA HUAYCA II
+Solar
+26,73
+-
+-
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+dic-25
+442
+TAMAKAYA ENERGÍA SPA
+TER KELAR CC1-TG1
+Diésel
+162,35
+-
+-
+SI
+NO
+SI
+NO
+SI
+SI
+NO
+abr-28
+443
+TAMAKAYA ENERGÍA SPA
+TER KELAR CC1-TG1
+Gas Natural
+162,35
+-
+-
+SI
+NO
+SI
+NO
+SI
+SI
+NO
+abr-28
+444
+TAMAKAYA ENERGÍA SPA
+TER KELAR CC1-TG1
+TER KELAR CC1-TG2
+TER KELAR CC1 TV
+Gas Natural
+528,01
+-
+-
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+abr-28
+445
+TAMAKAYA ENERGÍA SPA
+TER KELAR CC1-TG1
+TER KELAR CC1-TV
+Diésel
+235,60
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+abr-28
+446
+TAMAKAYA ENERGÍA SPA
+TER KELAR CC1-TG1
+TER KELAR CC1-TV
+Gas Natural
+235,60
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+abr-28
+447
+TAMAKAYA ENERGÍA SPA
+TER KELAR CC1-TG2
+Diésel
+163,30
+-
+-
+SI
+NO
+SI
+NO
+SI
+SI
+NO
+abr-28
+448
+TAMAKAYA ENERGÍA SPA
+TER KELAR CC1-TG2
+Gas Natural
+163,30
+-
+-
+SI
+NO
+SI
+NO
+SI
+SI
+NO
+abr-28
+449
+TAMAKAYA ENERGÍA SPA
+TER KELAR CC1-TG2
+TER KELAR CC1-TV
+Diésel
+232,71
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+abr-28
+
+450
+TAMAKAYA ENERGÍA SPA
+TER KELAR CC1-TG2
+TER KELAR CC1-TV
+Gas Natural
+232,71
+-
+-
+SI
+NO
+SI
+NO
+SI
+NO
+NO
+abr-28
+451
+TERCERA REGIÓN SOLAR SPA
+PFV MESETA DE LOS ANDES
+Solar
+152,46
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+jul-25
+452
+TSGF SPA
+PFV SANTA ISABEL
+Solar
+170,19
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-24
+453
+VIENTOS DE RENAICO SPA
+PE LA FLOR (U1-U9)
+Eólica
+32,40
+-
+-
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+dic-24
+454
+WPD DUQUECO SPA
+PE LOMAS DE DUQUECO (U1-U14)
+Eólica
+58,80
+-
+-
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+ago-25
+455
+WPD MALLECO SPA
+PE MALLECO NORTE 
+Eólica
+137,85
+-
+-
+SI
+NO
+SI
+SI
+NO
+NO
+NO
+dic-25
+456
+WPD MALLECO SPA
+PE MALLECO SUR - TIPO 1 (3.6 [MW])
+Eólica
+135,15
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+dic-25
+457
+WPD NEGRETE SPA
+PE NEGRETE (U1-U10)
+Eólica
+36,00
+-
+-
+SI
+NO
+SI
+SI
+SI
+NO
+NO
+ago-25

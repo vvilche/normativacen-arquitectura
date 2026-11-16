@@ -1,0 +1,178 @@
+Página 1 de 4 
+ 
+ 
+Santiago, 12 de febrero de 2025 
+ 
+ 
+ 
+ 
+ 
+Sr.  
+RODRIGO ESPINOZA 
+Gerente de Operaciones. 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+ 
+Asunto:     IC-CX-00-C481 – Ref.: Respuesta a Comunica atraso 
+en proceso de Verificación de Instalaciones de 
+Transmisión 
+para 
+la 
+Prestación 
+de 
+Servicios
+Complementarios.  
+   [1] DE 00838-25 - Ref.: Comunica atraso en 
+proceso 
+de 
+Verificación 
+de 
+Instalaciones 
+de 
+Transmisión 
+para 
+la 
+Prestación 
+de 
+Servicios
+Complementarios. 
+   [2] Carta DE05479-24, Ref.: Cronograma Definitivo 
+del 
+proceso 
+de 
+verificación 
+de 
+Servicios 
+Complementarios 
+(SSCC) 
+en 
+instalaciones 
+de 
+Transmisión, de fecha 18 de octubre de 2024.  
+ 
+ 
+De mi consideración: 
+ 
+Por medio de la presente comunicación, damos respuesta a vuestro Coordinador Eléctrico 
+Nacional (CEN), en relación con la ejecución del proceso de verificación de las instalaciones 
+conectadas al SEN y que participan en la prestación de los Servicios Complementarios 
+mediante recursos técnicos, las cuales se encuentran programadas en el año en curso.  
+Docusign Envelope ID: FDFEC8E2-6B48-4E53-966B-0AE02DE2EE64
+
+Página 2 de 4 
+ 
+ 
+De acuerdo, con la referencia [2] con fecha del 18 de octubre de 2024.  En el proceso de 
+verificación de instalaciones programadas para el año 2025, por parte de vuestro 
+Coordinador Eléctrico Nacional, se le mandata a Interchile que, durante el año 2025, se 
+auditen los equipos señalados en la tabla N1, en el cual se visualizan un total de 4 equipos 
+para prestar servicios de Control de Tensión (CT) en equipos de compensación reactiva 
+en los términos establecidos en el “Anexo Técnico: Verificación de Instalaciones para la 
+prestación de SSCC”.   
+ 
+N° 
+Subestación 
+Instalación 
+CT 
+Fecha de entrega de 
+informe de verificación de 
+SSCC 
+331 
+S/E Nueva Cardones 
+RE K7Z-R 25MVAr 
+CT 
+ene-25 
+332 
+S/E Nueva Maitencillo 
+RE K7Z-R 25MVAr 
+CT 
+ene-25 
+333 
+S/E Nueva Pan de Azúcar 
+RE K7Z-R 58.3MVAr 
+CT 
+ene-25 
+334 
+S/E Nueva Pan de Azúcar 
+RE EZ SVC1 
+CT 
+ene-25 
+Tabla N°1 Cronograma de verificación de SSCC en instalaciones de Transmisión Versión 2024.07.04 
+ 
+Sin embargo, los equipos propuestos por vuestro Coordinador Eléctrico Nacional (N°331, 
+332 y 333) son reactores monofásicos de reserva. Por lo cual, en reunión sostenida el día 
+28.10.2024, con vuestro equipo técnico del Departamento de Control de la Operación se 
+identificó que no se requieren realizar el proceso de verificación en las unidades de reserva 
+de los bancos de reactores de línea de las subestaciones: Nueva Cardones, Nueva Maitencillo 
+y Nueva Pan de Azúcar, ya que las unidades principales fueron auditadas en el proceso de 
+verificaciones de SSCC del año 2022 y 2023, con resultados satisfactorios y con los informes 
+técnicos enviados al Coordinador acorde a los tiempos de ejecución de cada auditoria 
+ 
+Por otro lado, Respecto al equipo N°334, asociado a una sola rama del SVC Plus 400 MVAr 
+Docusign Envelope ID: FDFEC8E2-6B48-4E53-966B-0AE02DE2EE64
+
+Página 3 de 4 
+ 
+ 
+ind./100 MVAr cap de SE Nueva Pan de Azúcar. Interchile, consultó sobre los alcances de la 
+prueba requerida, ya que el desempeño del SVC PLUS depende de sus seis (06) ramas 
+instaladas, que operan de acuerdo con los requerimientos sistémicos. A esta consulta, el 
+Coordinador Eléctrico Nacional, indicó que no es necesario efectuar las pruebas sobre el 
+activo N°334, sin embargo, Interchile deberá entregar documento donde se indique los 
+modos de operación degradado que puede trabajar el SVC Plus. El cual, informamos que 
+estamos elaborando y entregaremos a finales del mes de marzo del 2025.  
+ 
+Finalmente, solicitamos a vuestro Coordinador dar respuestas a los siguientes puntos 
+levantados e informados oportunamente por InterChile y que a la fecha de la presente 
+comunicación no han sido respondida quedando en estado pendiente. 
+ 
+Ítems 
+Fecha 
+Solicitud 
+1 
+04-08-2022 
+Se solicita vía correo electrónico al Coordinador aprobar la solicitud de la no ejecución de 
+pruebas de CT para el equipo SVC ubicado en la S/E Nueva Pan de Azúcar. 
+Nota: Todos los respaldos que sustentan la no ejecución ya fueron compartidas a vuestro 
+Coordinador conforme a nuestra reunión técnica del 26 de julio de 2022. 
+2 
+03-10-2022 
+Se envían los informes técnicos correspondientes a los ensayos de los 5 equipos auditados 
+de las SE Laguna, SE Polpaico y SE Nueva Cardones, sin recibir comentarios por parte de 
+vuestros especialistas. 
+Nota: La documentación se entregó por correo y compartida por plataforma OneDrive, solo 
+se emitió aprobación del Reactor de SE Laguna con fecha del 02.12.2024.  
+3 
+27-06-2023 
+Se envían los informes técnicos correspondientes a los ensayos de los 2 equipos auditados 
+de la SE Nueva Maitencillo, sin recibir comentarios por parte de vuestros especialistas 
+Nota: La documentación se entregó por correo y compartida por plataforma OneDrive. 
+4 
+ 
+23-11-2023 
+Se envían los informes técnicos correspondientes a los ensayos de los 5 equipos auditados 
+de la SE Nueva Pan de Azúcar, sin recibir comentarios por parte de vuestros especialistas 
+Nota: La documentación se entregó por correo y compartida por plataforma OneDrive. 
+Docusign Envelope ID: FDFEC8E2-6B48-4E53-966B-0AE02DE2EE64
+
+Página 4 de 4 
+ 
+ 
+Tablas N°2 Pruebas enviadas por Interchile relacionado al proceso de verificación del CT. 
+ 
+ 
+Sin otro particular, le saluda cordialmente. 
+ 
+ 
+Leonardo Prado. 
+Director de Operación. 
+INTERCHILE S.A.  
+ 
+ 
+OPERACIONES / eba  
+cc.: Archivo Prueba de SSCC – NT_SSCC 
+Sra. GRETCHEN ZBINDEN V. – Subgerente de Análisis y Soporte Operacional del Coordinador Eléctrico 
+Nacional 
+Docusign Envelope ID: FDFEC8E2-6B48-4E53-966B-0AE02DE2EE64

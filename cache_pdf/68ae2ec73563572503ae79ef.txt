@@ -1,0 +1,119 @@
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+                                                                            
+Santiago, 26 de agosto de 2025 
+                                                                                                                    DE 05283-25 
+ 
+ 
+Señores 
+Encargado Titular 
+Según lista de Distribución 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Implementación del PDCE Zona 
+Norte. 
+[1] Carta IC-CX-00-C495 (N° Ingreso 
+DE06828-25) de Interchile S.A., Transelec 
+S.A. y Transmisora Eléctrica del Norte 
+S.A. Con fecha 15 de julio de 2025 
+[2] Carta IC-CX-00-C499 (N° Ingreso 
+DE07799-25) de Interchile S.A., Transelec 
+S.A. y Transmisora Eléctrica del Norte 
+S.A. Fecha 7 de agosto de 2025 
+ 
+ 
+De mi consideración: 
+Me refiero a las cartas de la Ref. [1] y [2], mediante las cuales informan 
+actualizaciones al calendario de actividades correspondientes a la licitación 
+del proyecto de implementación del Plan de Defensa contra Contingencias 
+Extremas de la Zona Norte (Proyecto PDCE) mandatado por el Coordinador 
+Eléctrico Nacional (“Coordinador”) a las empresas Interchile S.A., Transelec 
+S.A. y Transmisora Eléctrica del Norte S.A. (“Empresas Mandatadas”), y 
+solicitan describir los antecedentes y estudios mínimos que necesitaría el 
+Coordinador para validar la propuesta de diseño del adjudicatario, para 
+cotizar e integrar en la oferta económica los entregables que se exigirán en 
+la etapa de diseño (Hito  Relevante N°1), así como compartir la grabación de 
+la reunión técnica del 16 de junio de 2025 y, finalmente, informar el 
+represente técnico que monitorearía y apoyaría en las comunicaciones entre 
+las partes durante el desarrollo del Proyecto PDCE. 
+Al respecto, además de tomar conocimiento del nuevo cronograma 
+informado, les señalo lo siguiente: 
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Considerando que las responsables del proyecto son las Empresas 
+Mandatadas instruidas a implementar el PDCE, se hace presente que no 
+corresponde al Coordinador ejercer el rol de validador técnico o revisor de la 
+documentación y entregables del proyecto. Por el contrario, son las 
+Empresas Mandatadas quienes deben procurar el avance del proyecto 
+acorde a las especificaciones técnicas y en los plazos establecidos para ello, 
+siendo las responsables de revisar y validar que los documentos y 
+entregables cumplan con la normativa vigente y las especificaciones y plazos 
+adjudicados.  
+Por otra parte, deberán enviar al Coordinador la siguiente información 
+requerida para todo automatismo del SEN durante su etapa de 
+implementación, de manera de obtener su entrada en operación: 
+• Informe de Confiabilidad del automatismo 
+• Solicitud y propuesta de Señales SITR SCADA 
+• Protocolos de Pruebas FAT y SAT y sus resultados 
+• Resultados de Pruebas SITR SCADA 
+• Resultado de Pruebas de Disponibilidad y Marcha blanca del 
+automatismo 
+• Documentos operacionales y capacitación requeridos por el CDC del 
+Coordinador para la gestión en tiempo real del automatismo 
+Finalmente, les señalo que el link para descargar la grabación solicitada será 
+enviado hoy a sus direcciones de correo electrónicos. Asimismo, una vez 
+adjudicada la licitación que llevan a cabo les informaremos el equipo 
+encargado de la atención de consultas y seguimiento del Proyecto PDCE por 
+parte del Coordinador.  
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                      
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+c.c.: 
+Sr. Eduardo Sáez, Encargado Titular Interchile S.A. 
+ 
+Sra. María José Reveco, Encargada Titular Transelec S.A. 
+ 
+Sr. Carlos Figueroa, Encargado Titular Transmisora Eléctrica del Norte S.A. 
+Sr. Leonardo Prado, Encargado Suplente Interchile S.A. 
+ 
+Sr. Alfredo Cárdenas, Encargado Suplente Transelec S.A. 
+ 
+Sr. Cristhian Carrasco, Encargado Suplente Transmisora Eléctrica del Norte S.A. 
+ 
+ 
+ 
+ 
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+LISTA DE DISTRIBUCIÓN 
+ 
+ 
+Interchile S.A. 
+Transelec S.A. 
+Transmisora Eléctrica del Norte S.A. 
+ 

@@ -1,0 +1,99 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 1 de agosto de 2025 
+ 
+    
+DE 04695-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Mínimo Técnico de la 
+Central PFV PMG Parque Cauquenes. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PFV PMG Parque Cauquenes, en 
+conformidad con el Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe ya 
+mencionado publicado en la página web del Coordinador mediante la comunicación de la 
+Ref. [2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme a lo anterior, los parámetros de Mínimo Técnico de la Central PFV PMG Parque 
+Cauquenes se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Mínimo Técnico de la Central PFV PMG Parque Cauquenes 
+Central/Unidad 
+Mínimo 
+Técnico Bruto 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en 
+la central(1) 
+[MW] 
+Mínimo 
+Técnico Neto(2) 
+[MW] 
+PFV PMG Parque Cauquenes 
+0,0313 
+0,0143 
+0,0074 
+0,0096 
+(1) Al no existir un transformador de poder principal, el valor total de pérdidas en la central 
+corresponde a las pérdidas en la red de media tensión de la central. 
+(2) Inyectada en la barra de 13,2 kV de la S/E Cauquenes. 
+ 
+En cumplimiento del Artículo 12 del Anexo Técnico antes mencionado, el valor de Mínimo 
+Técnico de la Central PFV PMG Parque Cauquenes, entrará en vigencia a partir de las 
+00:00 horas del día martes 5 de agosto de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra publicado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Mínimo Técnico > Informes de Mínimos Técnicos Unidades 
+Generadoras > Central PFV PMG Cauquenes > 2025 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+GZV/AHM/adr 
+ 
+Referencias 
+ 
+[1] Carta CAU-2025-L-002 del Coordinado Parque Solar Viveros SpA, Ref.: “Carta 
+conductora informes de parámetros de generación para PMG Cauquenes NUP 1422”, de 
+fecha 11 de marzo de 2025.  
+Ingreso DE01836-25. 
+ 
+[2] Carta DE01772-25, Ref.: “[NUP1422] Informes Técnicos de Parámetros Operacionales 
+de la Central PFV Cauquenes, del coordinado Parque Solar Viveros SpA”, de fecha 26 de 
+marzo de 2025. 
+ 

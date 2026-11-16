@@ -1,0 +1,84 @@
+ 
+Santiago, 11 de marzo de 2026. 
+  ACC.ECH.044.26 
+Señora: 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe de Desempeño de Servicios Complementarios – febrero 2026. 
+ 
+De nuestra consideración: 
+ 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de febrero de 2026, que fue publicado en su página web y cuya publicación fue comunicada a 
+través de la carta DE 01520-26 de fecha 06 de marzo de 2026. 
+ 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+ 
+Sin otro particular, saluda cordialmente a usted. 
+ 
+ 
+ 
+Luis Lorca Arenas 
+Encargado (S)  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC FEBRERO 2026 V1 
+Servicio Complementario – CTF 
+Planta PE San Gabriel 
+Timestamp 
+Planta 
+Consigna 
+en Planta 
+[MW] 
+Registro 
+en RIO 
+[MW] 
+ 
+Hora INICIO 
+registro RIO 
+Hora FIN 
+registro RIO 
+Comentario 
+22-02-2026 
+19:04 
+32 
+-50 
+ 
+ 
+ 
+ 
+ 
+22-02-2026 
+19:03 
+22-02-2026 
+19:12 
+Se califica como NC. Sin embargo, la planilla “CTF_202602” 
+asociada al índice de desempeño mensual para CTF no se 
+encuentra con la información actualizada. Según la 
+grabación 
+del 
+hotline 
+(archivo 
+adjunto 
+“22_02_2026_19:04”) CDC realizó la instrucción a las 19:03, 
+indicando un monto de 50MW para CTF(-). 
+En virtud de lo indicado y en una revisión rutinaria de los 
+registros en RIO, se identificó que el registro no coincide con 
+dicha información, sino que reflejaba los datos presentes en 
+la planilla “CTF_202602” motivo por el cual se solicitó la 
+corrección al CDC, quienes actualizaron los registros con los 
+datos reales. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

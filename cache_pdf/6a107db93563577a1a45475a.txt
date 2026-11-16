@@ -1,0 +1,679 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+                                                                           
+ Santiago, 22 de mayo de 2026 
+                                                                                                               DE 03474-26 
+ 
+ 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas  
+Segmento PMGD 
+Presente 
+ 
+ 
+Ref.:  Estandarización y extracción automática de 
+registros 
+oscilográficos 
+de 
+protecciones 
+en 
+instalaciones PMGD. 
+ 
+De mi consideración: 
+En relación con la materia de la Ref., y con el objetivo de impulsar mejoras requeridas en 
+el proceso de revisión y análisis de eventos de falla, que realiza este Coordinador, se ha 
+identificado la necesidad de estandarizar el formato de los registros oscilográficos de 
+protecciones que debe enviar su representada ante evento de falla y, por otro lado, de 
+implementar la extracción automática de dichos registros. 
+Al respecto, cabe destacar que este requerimiento surge de estudios que ha realizado este 
+Coordinador, en base a información de registro de protecciones provista por su 
+representada y Coordinados propietarios de PMGD, la cual carece de completitud de 
+información y de un formato homologado, así como de una entrega oportuna, lo cual no 
+permite evaluar en forma eficiente y efectiva la actuación de las protecciones, conforme a 
+las exigencias normativas. 
+De acuerdo con lo expuesto, mediante la presente comunicación solicito a Ud. informar un 
+plan de trabajo, a más tardar el 15 de julio de 2026, bajo el cual su representada 
+implementará las adecuaciones necesarias para cumplir con lo siguiente: 
+1. Incorporar, en los registros oscilográficos, que requiere el Coordinador, la 
+información de variables, configuración y nomenclatura especificada en el Anexo de 
+“Requerimientos mínimos para los registros oscilográficos del sistema de lectura 
+remota de protecciones de PMGD” que se adjunta a la presente. El plazo máximo 
+para cumplir con este requerimiento es el 30 de noviembre de 2026. 
+2. Extraer y almacenar en forma automática en un repositorio externo a la protección -
+cada vez que se produce la actuación de una protección asociada al PMGD- el 
+correspondiente registro oscilográfico, en el formato estándar COMTRADE 
+conforme con lo especificado en el Anexo citado en numeral 1, el cual será requerido 
+posteriormente para ser incorporado al Sistema de Lectura Remota de Protecciones 
+(SLRP) del Coordinador. El plazo máximo para cumplir con este requerimiento es el 
+31 de marzo de 2027. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Para efectos de informar el plan de trabajo requerido, Ud. -como Encargado Titular de su 
+representada- deberá conectarse a la plataforma de ConectaCEN, desde la página del 
+coordinador www.coordinador.cl -> botón “ConectaCEN” -> Botón “Mi coordinador”, donde 
+luego de ingresar con sus credenciales podrá encontrar el requerimiento a responder en el 
+apartado “To Do” o “Mis requerimientos”. Adicionalmente, recibirá un correo indicando el 
+número del requerimiento a responder. Ahí podrá completar un formulario ad-hoc donde 
+deberá ingresar los hitos y plazos establecidos para cumplir con la implementación de 
+ambos requerimientos solicitados en numerales 1 y 2 anteriores.  
+Finalmente, resulta oportuno recordar que, conforme a la normativa vigente, las empresas 
+PMGD, en su calidad de empresas coordinadas, son responsables de gestionar sus 
+instalaciones y de cumplir con la entrega de información e instrucciones del Coordinador 
+que le permitan cumplir con sus funciones, en particular con los principios de coordinación 
+del Sistema Eléctrico Nacional. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+GO/SGASO/DMAP/ycl 
+Incluye: Lo Indicado 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ANEXO 
+Requerimientos mínimos para los registros oscilográficos del 
+sistema de lectura remota de protecciones de PMGD 
+ 
+Definiciones y Abreviaturas 
+• 
+Coordinador: Coordinador Eléctrico Nacional 
+• 
+COMTRADE: Del inglés Common Format for Transient Data Exchange, formato requerido de 
+archivos de valores instantáneos para el intercambio de información, definido en el estándar 
+IEEE C37.111 (última revisión 2013) 
+• 
+IEEE C37.111: Estándar que especifica el Formato Común para el Intercambio de Datos 
+Transitorios (COMTRADE) en sistemas de potencia. 
+• 
+PMGD: Pequeños medios de generación distribuida 
+1 
+Registros COMTRADE de PMGD 
+En este anexo se describe la configuración requerida de los registros oscilográficos y 
+nomenclatura de variables que estos deberán contener. 
+Los registros deben cumplir el formato COMTRADE del estándar IEEE C37.111-2013, el cual 
+consta de 2 archivos obligatorios: el archivo de Configuración (“.CFG”), que da cuenta de la 
+estructura, canales, tiempo y frecuencia de muestreo del sistema y el archivo de Datos 
+(“.DAT”), el cual contiene los valores muestreados de todos los canales definidos en el 
+archivo “.CFG”. Por otra parte, los archivos opcionales del formato COMTRADE son el archivo 
+de información (“.INF”), el cual contiene metadatos o información del evento y el archivo de 
+encabezado (“. HDR”), el cual contiene información de encabezado extendida, comentarios, 
+ubicación, identificación de la subestación, etc. 
+De acuerdo con el estándar IEEE C37.111-2013, el campo identificador de cada canal 
+analógico o digital (ch_id) debe tener una longitud mínima de un carácter y una longitud 
+máxima de 128 caracteres. 
+1.1 Requisitos mínimos para la configuración de registros oscilográficos 
+La configuración mínima que deberá realizar el propietario de la instalación donde se 
+habilite un sistema de registro oscilográfico de eventos de falla son: 
+ 
+a) Nombre del archivo: El nombre de los archivos COMTRADE, debe seguir la 
+nomenclatura siguiente: 
+ 
+ 
+Fecha,Hora,Subestacion,Nombre de la instalación PMGD 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Campo 
+Definición 
+Fechalnicio 
+En formato AAAAMMDD (AAAA: Año, MM: Mes, DD: Día). Corresponde al año, mes y 
+día del registro oscilográfico. 
+Horalnicio 
+En formato hhmmssmmm (hh: Hora, mm: Minuto, ss: Segundo, mmm: 
+milisegundos). Corresponde a la hora, minutos y segundos en los cuales comienza el 
+registro oscilográfico. La referencia horaria es UTC ± 00:00. 
+Subestación 
+Nombre de la subestación de inyección, según el sistema de Infotecnica. (Eliminar 
+“S/E” del nombre y cambiar espacios por guion bajo “_”.  
+(Ej : “S/E Cardonal” -> “Cardonal”) 
+Nombre de la 
+instalación 
+PMGD 
+Nombre de la instalación según el sistema de Infotecnica. (Eliminar “PMGD” del 
+nombre y cambiar espacios por guion bajo “_”) 
+(Ej: “PMGD HP LOS BAJOS U1” -> “HP_LOS_BAJOS_U1”) 
+ 
+ 
+b) Tasa de Muestreo: Deberá ser a lo menos de 16 muestras por ciclo. Deseable 20 
+muestras por ciclo para aumentar la precisión del análisis de falla. 
+c) Arranque (trigger): Deberá gatillarse al activarse cualquier elemento que puede hacer 
+operar la protección. 
+d) Estampa de tiempo: Deberá estar sincronizada en UTC ± 00:00 mediante GPS conectado 
+al terminal RTU local u otro dispositivo de sincronización GPS. 
+e) Tiempo total de registro: A lo menos 25 ciclos 
+f) Tiempo de prefalla: A lo menos 15 ciclos. 
+g) Tiempo de postfalla: A lo menos de 10 ciclos luego de operada la protección. 
+h) Señales analógicas: Deberán ser las corrientes y tensiones por cada fase, y 
+residual donde corresponda.  
+i) 
+Señales binarias: Deberán estar identificadas, individualmente y por separado, las 
+siguientes señales: 
+• 
+Orden general para desenganche y apertura de interruptor. 
+• 
+Orden individual de desenganche por cada una de las funciones de protección 
+existentes. 
+• 
+Arranque de la función de protección activada. 
+• 
+Orden de reconexión automática, si corresponde. 
+• 
+Envío y recepción de señales de transferencia de desenganche directo, si corresponde. 
+ 
+j) 
+Magnitudes monitoreadas: Las señales análogas a monitorear deberán ser registradas 
+en la oscilografía en valores primarios. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+1.2 Requerimientos mínimos para la definición de parámetros para los registros 
+oscilográficos 
+Con el propósito de estandarizar la nomenclatura utilizada para designar señales análogas y 
+binarias en el registro oscilográfico, y consecuentemente agilizar los análisis respectivos, se 
+deberá aplicar las indicaciones siguientes: 
+1.2.1 Nomenclatura para Señales Analógicas: 
+La identificación de los parámetros utilizará la nomenclatura y formato siguiente: 
+magnitud_índice(unidad)_opcional 
+No se deberá incluir espacios en la nomenclatura. 
+En la Tabla A.1 se muestra la definición de los campos correspondientes a la nomenclatura 
+de Señales Analógicas. 
+ 
+Tabla A.1 Definición de los campos para las señales analógicas. 
+Campo 
+Definición 
+magnitud 
+Se identificarán corrientes y tensiones por cada fase, residual 
+cuando corresponda, y frecuencia. 
+índice 
+Se hará referencia a las fases A, B o C, según corresponda. El 
+neutro se identificará con el índice N. En caso de no contar con 
+señales sinusoidales y si con valores RMS, se debe hacer referencia 
+a valor RMS. 
+(unidad) 
+Se identificará a la unidad de medida de las magnitudes de 
+corriente, tensión y frecuencia. Se utilizarán A para corrientes, V 
+para tensiones y Hz para frecuencia. No se debe utilizar unidades 
+en por unidad (p.u) 
+opcional 
+Asignación opcional para que el propietario de la instalación 
+incorpore alguna definición de interés respecto de la señal 
+identificada. 
+(Por ejemplo, en caso de contar con canales con nombre similar se 
+puede utilizar este campo para hacer la distinción, protecciones que 
+no 
+permiten 
+cambiar 
+nombres 
+u 
+otras 
+limitaciones.) 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+1.2.2 Identificación de señales analógicas 
+En la Tabla A.2 se muestra la forma en que deberán identificarse las señales analógicas, 
+dependiendo del tipo de señal que representen. 
+Tabla A.2 Definición de señales analógicas 
+Señal 
+magnitud 
+índice 
+(unidad) 
+opcional 
+Corriente 
+I 
+A, B, C o N o 
+A_RMS, 
+B_RMS, 
+C_RMS 
+A 
+- 
+Tensión 
+U 
+A, B o C o 
+A_RMS, 
+B_RMS, 
+C_RMS 
+V 
+- 
+Frecuencia 
+F 
+- 
+Hz 
+- 
+Potencia Activa 
+P 
+A, B, C o 3 
+MW 
+- 
+Potencia Reactiva 
+Q 
+A, B, C o 3 
+MVAr 
+- 
+ 
+Para efectos de habilitar señales en cantidades de secuencia (componentes simétricas), la 
+nomenclatura y formato utilizado será el siguiente: 
+magnitudX_índice(unidad)_opcional 
+No se deberá incluir espacios en la nomenclatura. 
+En la Tabla A.3 se muestra la definición de los campos correspondientes a la nomenclatura 
+de Señales Analógicas expresadas en componentes de secuencia. 
+Tabla A.3 Definición de los campos para la definición de señales analógicas en 
+notación de componentes simétricas. 
+Campo 
+Definición 
+magnitud 
+Señal de corriente o tensión, expresada como I o V 
+X 
+Secuencia positiva, negativo y cero, expresada en número como 1, 2 y 0 
+respectivamente 
+ 
+ 
+ 
+índice 
+Especificará si se visualiza magnitud o fase de la señal, se utilizará el 
+término: 
+• 
+mag: para indicar magnitud 
+• 
+ang: para indicar ángulo 
+En caso de no contar con señales sinusoidales y si con valores RMS, se debe 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+hacer referencia a valor RMS. 
+ 
+(unidad) 
+Se identificará a la unidad de medida de las magnitudes de corriente 
+y tensión. Se utilizarán A para corrientes, V para tensiones, deg para 
+ángulos. 
+ 
+opcional 
+Asignación opcional para que el propietario de la instalación incorpore 
+alguna definición de interés propio respecto de la señal identificada. 
+ 
+1.2.3 Identificación de señales analógicas en componentes de secuencia. 
+En la Tabla A.3 se muestra la forma en que deberán identificarse las señales analógicas en 
+componentes de secuencia. 
+Tabla A.4 Definición de señales analógicas en notación de componentes simétricas. 
+Señal 
+magnitud 
+X 
+índice 
+(unidad) 
+opcional 
+Corriente 
+I 
+1, 2, 0 
+A, B, C o 
+A_RMS, 
+B_RMS, 
+C_MRS 
+A 
+- 
+Tensión 
+U 
+1, 2, 0 
+A, B, C o 
+A_RMS, 
+B_RMS, 
+C_MRS 
+V 
+- 
+Ángulo 
+deg 
+ 
+ang 
+deg 
+- 
+ 
+1.2.4 Nomenclatura para Señales Binarias: 
+La nomenclatura utilizada para señales binarias será de la siguiente forma: 
+num _fx _índice_opcional 
+No se deberá incluir espacios en la nomenclatura. 
+En la Tabla A.5 se muestra la definición de los campos correspondientes a la nomenclatura 
+de Señales Digitales. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Tabla A.5 Definición de los campos para señales binarias. 
+Campo 
+Definición 
+num 
+Función de protección  o señal  de  teleprotección,  según corresponda, identificado 
+según la norma ANSI/IEEE C37.2. 
+ 
+fx 
+Se utilizará para hacer referencia a una acción o estado, por ejemplo: 
+• 
+Trp: disparo (orden de apertura) 
+• 
+CLOSE: orden de cierre. 
+• 
+Str: arranque  
+ 
+No debe ser usada la palabra “Str” para órdenes de apertura ni cierres.  
+ 
+índice 
+Se utilizará cuando sea necesario destacar una particularidad, como, por ejemplo, 
+• 
+Designar fases o neutro: A, B, C, AB, AC, BC, 3F o N 
+• 
+Dirección de operación: FW (hacia adelante) /RV (hacia atrás) 
+• 
+Indicar escalón de frecuencia: 1, 2, 3, etc. dependiendo del escalón activado 
+ 
+(Ej: 50_Trp_A_1) 
+opcional 
+Asignación opcional para que el propietario de la instalación incorpore alguna 
+definición de interés respecto de la señal identificada. (ejemplo: definición de zonas) 
+ 
+1.2.5 
+Identificación de señales binarias 
+En la Tabla A.6 se muestra la forma en que deberán identificarse las señales digitales, 
+dependiendo de la señal que representen. 
+Tabla A.6 Definición de señales binarias 
+Señal 
+fx 
+Número 
+C37.2 
+Índice 
+Opcional 
+Función de 
+protección (aplicable 
+a funciones 
+residuales) 
+Trp,Str 
+ 81U, 
+81O, 50/51, 
+etc. 
+ 
+A, B, C, 3F, 
+FW/RV 
+ 
+- 
+ 
+Los equipos de protección con funciones de protección de tensión y frecuencia deben contar 
+con canales digitales que precisen que escalón opera para las condiciones indicadas en la 
+NTCO PMGD, en sus artículos 7-29 y 7-30. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+En caso de que el Coordinado haya definido parámetros adicionales a los indicados en este 
+documento, junto con el registro oscilográfico, se solicita la entrega del listado de señales 
+adicionales utilizadas, junto a su nomenclatura y definición.  
+1.3 Ejemplos de Casos de Uso para designación de Nombres del Canal de las 
+Variables Analógicas y Binarias de los Registros Oscilográficos. 
+Este apartado presenta algunos ejemplos de caso de uso para la designación de los nombres 
+de los canales para variables analógicas y binarias de los registros oscilográficos. 
+Variable Analógica 
+Nombre canal Analógico en 
+COMTRADE 
+Corriente fase A, en amperes 
+I_A(A) 
+Corriente fase B, en amperes 
+I_B(A) 
+Corriente fase C, en amperes 
+I_C(A) 
+Corriente fase A, en amperes 
+I_A_RMS(A) 
+Corriente fase B, en amperes 
+I_B_RMS(A) 
+Corriente fase C, en amperes 
+I_C_RMS(A) 
+Corriente residual, en amperes 
+I_N(A) 
+Tensión fase A a neutro, en Volts 
+V_AN(V) 
+Tensión fase B a neutro, en Volts 
+V_BN(V) 
+Tensión fase C a neutro, en Volts 
+V_CN(V) 
+Tensión entre fases A y B, en Volts 
+V_AB(V) 
+Tensión entre fases B y C, en Volts 
+V_BC(V) 
+Tensión entre fases C y A, en Volts 
+V_CA(V) 
+Tensión fase A a neutro, en Volts 
+V_AN_RMS(V) 
+Tensión fase B a neutro, en Volts 
+V_BN_RMS(V) 
+Tensión fase C a neutro, en Volts 
+V_CN_RMS(V) 
+Tensión entre fases A y B, en Volts 
+V_AB_RMS(V) 
+Tensión entre fases B y C, en Volts 
+V_BC_RMS(V) 
+Tensión entre fases C y A, en Volts 
+V_CA_RMS(V) 
+Potencia Activa fase A, en MW 
+P_A(MW) 
+Potencia Activa fase B, en MW 
+P_B(MW) 
+Potencia Activa fase C, en MW 
+P_C(MW) 
+Potencia Activa Trifásica, en MW 
+P_3F(MW) 
+Potencia Reactiva fase A, en MVAr 
+Q_A(MVAr) 
+Potencia Reactiva fase B, en MVAr 
+Q_B(MVAr) 
+Potencia Reactiva fase C, en MVAr 
+Q_C(MVAr) 
+Potencia Reactiva trifásica, en MVAr 
+Q_3F(MVAr) 
+Frecuencia 
+F(Hz) 
+Gradiente de frecuencia Df/Dt 
+ROCOF_(Hz/s) 
+ 
+Variable Digital 
+Nombre canal 
+Digital en 
+COMTRADE 
+Elemento 
+Protegido 
+Estado del interruptor de acoplamiento del PMGD 
+Estado_CB 
+Transformador 
+Disparo del interruptor de acoplamiento del PMGD 
+Trp_CB 
+Transformador 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Variable Digital 
+Nombre canal 
+Digital en 
+COMTRADE 
+Elemento 
+Protegido 
+Sobrecorriente Instantánea Arranque fase A 
+50_Str_A 
+Línea 
+Sobrecorriente Instantánea Arranque fase B 
+50_Str_B 
+Línea 
+Sobrecorriente Instantánea Arranque fase C 
+50_Str_C 
+Línea 
+Sobrecorriente Instantánea Operación fase A 
+50_Trp_A 
+Línea 
+Sobrecorriente Instantánea Operación fase B 
+50_Trp_B 
+Línea 
+Sobrecorriente Instantánea Operación fase C 
+50_Trp_C 
+Línea 
+Bajatensión fase A Arranque 
+27_Str_A 
+Barra o Paño 
+Bajatensión fase B Arranque 
+27_Str_B 
+Barra o Paño 
+Bajatensión fase C Arranque 
+27_Str_C 
+Barra o Paño 
+Bajatensión fase A Operación 
+27_Trp_A 
+Barra o Paño 
+Bajatensión fase B Operación 
+27_Trp_B 
+Barra o Paño 
+Bajatensión fase C Operación 
+27_Trp_C 
+Barra o Paño 
+Sobretensión fase A Arranque 
+59_Str_A 
+Barra o Paño 
+Sobretensión fase B Arranque 
+59_Str_B 
+Barra o Paño 
+Sobretensión fase C Arranque 
+59_Str_C 
+Barra o Paño 
+Sobretensión residual Operación 
+59N_Str 
+Barra o Paño 
+Sobretensión fase A Operación 
+59_Trp_A 
+Barra o Paño 
+Sobretensión fase B Operación 
+59_Trp_B 
+Barra o Paño 
+Sobretensión fase C Operación 
+59_Trp_C 
+Barra o Paño 
+Sobretensión residual Operación 
+59N_Trp 
+Barra o Paño 
+Fase reversa de sobre corriente 
+46 
+Generador 
+Trip Relé maestro 
+86_Trp 
+Paños 
+Protección Térmica Estator Arranque 
+49S_Str 
+Generador 
+Protección Térmica Estator Operación 
+49S_Trp 
+Generador 
+Sobrecorriente Instantánea Arranque fase A 
+50_Str_A 
+Generador 
+Sobrecorriente Instantánea Arranque fase B 
+50_Str_B 
+Generador 
+Sobrecorriente Instantánea Arranque fase C 
+50_Str_C 
+Generador 
+Sobrecorriente Instantánea Operación fase A 
+50_Trp_A 
+Generador 
+Sobrecorriente Instantánea Operación fase B 
+50_Trp_B 
+Generador 
+Sobrecorriente Instantánea Operación fase C 
+50_Trp_C 
+Generador 
+Pérdida de sincronismo Arranque 
+68_Str 
+Generador 
+Pérdida de sincronismo Operación 
+68_Trp 
+Generador 
+Detección de falla a tierra Arranque 
+64_Str 
+Generador 
+Detección de falla a tierra Operación 
+64_Trp 
+Generador 
+Sobrefrecuencia Arranque 
+81O_Str 
+Generador 
+Sobrefrecuencia Operación 
+81O_Trp 
+Generador 
+Bajafrecuencia Arranque 
+81U_Str 
+Generador 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Variable Digital 
+Nombre canal 
+Digital en 
+COMTRADE 
+Elemento 
+Protegido 
+Bajafrecuencia Operación 
+81U_Trp 
+Generador 
+ 
+En aquellos casos en que el dispositivo de protección no permita configurar el nombre 
+de algún canal, deberá justificar dicha imposibilidad adjuntando los antecedentes técnicos 
+de respaldo. En su reemplazo, deberá llenar y enviar una planilla con el diccionario, 
+descargable 
+en 
+link: 
+https://www.coordinador.cl/wp-
+content/uploads/2026/04/Anexo_Formato_Diccionario_PMGD.xlsx , que dé cuente a qué 
+función de protección, fase o tipo de señal corresponde. 
+ 

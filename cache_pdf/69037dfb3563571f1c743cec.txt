@@ -1,0 +1,153 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+Santiago, 30 de octubre de 2025 
+DE 06935-25 
+ 
+Señor 
+Sebastián Ruiz-Tagle 
+Encargado Titular   
+Colbún S.A. 
+Presente 
+ 
+Ref.: Resultado de Ensayos de Verificación de 
+Partida Autónoma de la Central HE Canutillar. 
+[1] Carta DE00037-23, Ref. “Resultado de 
+Ensayos de Verificación de SSCC de Partida 
+Autónoma de las Unidades HE Canutillar U1 y U2”, 
+de fecha 4 de enero de 2023. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo indicado en la carta de la Ref. [1], mediante la cual se dio el cierre al proceso 
+de verificación de Partida Autónoma de la Central HE Canutillar. Al respecto, se ha 
+detectado un error en el traspaso de la información desde el informe a la carta mencionada, 
+específicamente en los tiempos de sincronización de las unidades.  
+ 
+Considerando lo anterior, comunicamos la siguiente fe de erratas: 
+ 
+Tiempo de Sincronización 
+[minutos] 
+Dice 
+Debe Decir 
+U1 
+22,87 
+10,76 
+U2 
+20,20 
+9,60 
+ 
+En el Anexo de la presente comunicación se presenta la información actualizada. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+c.c.:   
+Sra. Javiera Gutiérrez – Encargada Suplente Colbún S.A.  
+DCO, SGASO, DPRO, SGOTR 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+ 
+ 
+ 
+Anexo: Resultados Proceso de Verificación de SSCC de las unidades HE 
+Canutillar U1 y U2 
+1. 
+Identificación de las Instalaciones Verificadas: 
+1. Central HE Canutillar 
+• 
+Unidad 1 
+• 
+Unidad 2 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de 
+SSCC 
+Subcategoría de SSCC 
+Unidades 
+Plan de 
+Recuperación de 
+Servicio (PRS) 
+Partida Autónoma 
+(PA) 
+Partida Autónoma (PA) 
+HE Canutillar U1 
+HE Canutillar U2 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+Para habilitar la partida autónoma de las unidades se realizó una modificación en la 
+lógica del sistema de protecciones (ANSI 27) para poder partir con tensión reducida en 
+el generador. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Colbún S.A. para su 
+Central HE Canutillar. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+SSCC 
+Plan de Recuperación de Servicio 
+Categoría 
+Partida autónoma 
+Subcategoría 
+Partida autónoma 
+Central 
+Combustible 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+ HE Canutillar 
+Hidráulica Embalse 
+Potencia Máxima [MW] 
+86 
+85,79 
+Tiempo de Sincronización [min] 
+10,76 
+9,6 
+Tasa de Toma de Carga 
+[MW/min] 
+45,1 
+44,3 
+Tiempo de Autonomía [hr] (1) 
+1.604 
+1.604 
+Modo de Control 
+Isla 
+Isla 
+Requiere Equipamiento 
+Adicional (2) 
+Sí 
+Sí 
+(1) Para cota mayor a 230 m.s.n.m. 
+(2) Cuenta con grupo electrógeno operativo.  
+ 

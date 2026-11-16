@@ -1,0 +1,123 @@
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+ 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+ 
+Carta ENLI-039-25 
+Santiago, 19 de diciembre de 2025 
+ 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+Ant:  [1] Carta ENLI-013-25 de Enlight Investments SpA, 24 de junio
+de 2025 
+[2] Correo Electrónico de Enlight Investments SpA, 4 de
+septiembre de 2025 
+[3] Carta ENLI-036-25 de Enlight Investmentes SpA de 1° de
+diciembre de 2025 
+[4] Minuta de Revisión de Antecedentes Proyecto Fehaciente
+del Coordinador Eléctrico Nacional de fecha 12 de septiembre
+de 2025 
+[5] Carta ENLI-33-25 de Enlight Investmentes SpA, de 13 de
+noviembre de 2025 
+ 
+Ref: Responde carta DE07891-25 Verificación de SSCC PFV La
+Huayca II 
+ 
+De nuestra consideración: 
+Por medio del presente, y en relación con el proceso de verificación de los Servicios Complementarios 
+(SSCC) de Control de Tensión (CT) y Control Terciario de Frecuencia (CTF), venimos en solicitar una prórroga 
+de plazo para la entrega de los informes de verificación correspondientes, proponiendo como nueva fecha 
+límite fines de marzo del año 2026, en consideración a los tiempos necesarios para realizar la verificación. 
+Para estos efectos, se acompaña el plan de trabajo requerido, en cumplimiento de lo señalado en la carta 
+de referencia, el cual detalla las actividades, plazos y entregables necesarios para asegurar la ejecución 
+completa y adecuada del proceso de verificación. 
+ 
+Cabe precisar, en relación a lo señalado en la carta de la Ref. DE07891-25, que  la solicitud de fehaciencia 
+del proyecto BESS La Huayca NUP 5188 fue aceptada por el Coordinador, tal como consta en el Ant 4. 
+Además, en la señalada minuta se indicó que se requería la presentación de una SUCTD a efectos de 
+autorizar la conexión del proyecto. A su vez, tal como consta en el Ant. 5, con fecha 13 de noviembre de 
+2025 mi representada presentó ante el Coordinador la señalada SUCTD la que se encuentra en etapa de 
+análisis.  
+ 
+A continuación, se acompaña el plan de trabajo propuesto para la verificación de los servicios CT y CTF, el 
+cual considera la solicitud de extensión de plazo hasta fines de marzo de 2026, con el objeto de completar 
+adecuadamente las actividades de verificación comprometidas. 
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+ 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+Fase 
+Actividad 
+Plazo Estimado 
+Entregable / Output 
+1. Planificación 
+Envío Plan de Trabajo al 
+CEN 
+19-12-25 
+Carta Sistema Correspondencia 
+Selección de Expertos y 
+Levantamiento 
+ene-26 
+Listado de Staff y Dossier 
+Técnico 
+2. Regularización 
+Verificación Señales 
+SITR/SCADA 
+1-15 Febrero 
+Reporte de conectividad 
+Calibración de Instrumentos 15 - 28 Febrero Certificados de Calibración 
+Justificación Técnica 
+Skycontrol 
+15 - 28 Febrero Informe de limitaciones PQ 
+3. Protocolización 
+Elaboración de Protocolos 
+CT y CTF 
+20 - 28 Feb 
+Documento Metodológico 
+Aprobación CEN (15 días 
+anticipación) 
+01 - 15 Mar 
+Resolución de aprobación 
+4. Ejecución 
+Pruebas Dinámicas y Curva 
+P-Q 
+15-20 Marzo 
+Datos crudos y registros 
+Recolección Data Histórica 
+CTF 
+15-20 Marzo 
+Base de datos operacional 
+5. Análisis 
+Procesamiento y Memorias 
+de Cálculo 
+20-25 Marzo 
+Gráficos y Tablas de resultados 
+Entrega Informe Final 
+30-mar-26 
+Informe Técnico y Acta Final 
+ 
+ 
+ 
+De acuerdo, a la aclaración efectuada respecto del proyecto fehaciente y el estado actual de tramitación 
+de la SUCTD, se espera que a diciembre de 2026 se puedan prestar los servicios de CPF y de CSF, habiéndose 
+subsanado a esa fecha los actuales impedimentos. En tal sentido, la verificación se realizará en paralelo con 
+el proyecto BESS. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Mauricio Ortuondo  
+Encargado Suplente 
+Enlight Investments 

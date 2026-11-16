@@ -1,0 +1,72 @@
+1 
+ 
+ 
+Santiago, 10 de julio de 2026 
+QE026-2026 
+ 
+Sr. Rodrigo Espinoza V.  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Envío de Observaciones a Indicadores de Desempeño de Servicios Complementarios - 
+junio 2026. 
+ 
+[1] Carta DE04548-26, “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de junio de 2026”, de fecha 07 de julio de 2026. 
+ 
+De nuestra consideración: 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. para hacer envío de nuestras 
+Observaciones a los Indicadores de Desempeño de Servicios Complementarios de junio 
+2026, notificada su publicación por medio de carta de la Ref. [1]. 
+ 
+En anexo a la presente carta, se encuentran dichas observaciones.  
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Marcelo Rubio Sekul 
+Encargado Titular 
+    Empresa Eléctrica Ventanas SpA
+
+ 
+ 
+ 
+Anexo 1: Observaciones Indicadores Desempeño CTF 
+ 
+Fecha 
+Hora 
+Unidad 
+Observación RNE 
+12-06-2026 
+6 
+TER NUEVA VENTANAS U1 
+a las 06:00 la unidad se le solicita desconectar AGC y subir a Plena Carga desde las 
+06:00 hrs, luego a las 06:05 el Coordinador indica que por CTF solicita reserva de 18 
+MW (Plena Carga menos 18 MW), posterior a ello, a las 06:07 Coordinador solicita ir a 
+MT, por tanto, el mantener la reserva tuvo una duración de 2 minutos, luego a las 06:22 
+solicitó Plena Carga. Por tanto, la instrucción de reserva de CTF fue solo de 2 minutos 
+bajando desde 232 MW a 214 MW ya que a las 06:16 hrs. Se solicita revisar el resultado 
+de la etapa C1 considerando el movimiento de la central.  
+
+ 
+ 
+13-06-2026 
+16 
+TER NUEVA VENTANAS U1 
+La central comienza a subir a las 16:32 hrs de 256 MW a 267 MW alcanzado a las 
+16:36, alcanzando la potencia solicitada, para la evaluación de desempeño se debe 
+tener en consideración la naturaleza de este tipo de centrales. La central al alcanzar el 
+valor solicitado los controladores de carga/combustión realizan el ajuste final, 
+oscilando entorno a los 267 MW, existiendo inercias térmicas que provocan estas 
+pequeñas oscilaciones de carga, las cuales son normales y transitorias hasta alcanzar 
+el equilibrio.  
+ 
+ 

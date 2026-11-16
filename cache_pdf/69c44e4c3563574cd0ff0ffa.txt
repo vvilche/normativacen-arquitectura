@@ -1,0 +1,49 @@
+ 
+ 
+ 
+ 
+ 
+ 
+    
+Sonnedix Cox Energy Chile SpA 
+Magdalena 140, oficina 601 
+Las Condes, Santiago. 
+sonnedix.com 
+CONFIDENTIAL
+ 
+Santiago, 25 de marzo de 2026 
+ 
+ 
+SXC-004-26 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+Ref: Respuesta Carta DE 01003-26 Comunica atraso en el 
+proceso de Verificación de Instalaciones de Generación 
+para la Prestación de Servicios Complementarios de 
+acuerdo con Cronograma Vigente. 
+ 
+ 
+De mi consideración, 
+ 
+Me dirijo a usted para informar que el proceso de Verificación de la central PFV Meseta de los 
+Andes está prácticamente terminado (Control Primario de frecuencia, control terciario y control 
+de tensión con informes aprobados). Solo está pendiente la integración de la planta al Control 
+de frecuencia AGC. Dicha integración se realizará de acuerdo con siguiente esquema: 
+ 
+Planta 
+Fecha estimada 
+PFV Meseta de Los Andes Pruebas de integración del AGC: Semana de 13 de abril de 
+2026 
+PFV Meseta de Los Andes Entrega de informe o verificación final: Semana de 27 de abril 
+de 2026 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+______________________________ 
+Claudio Silva 
+Encargado Suplente 
+Sonnedix Cox Energy Chile SpA 

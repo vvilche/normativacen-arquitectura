@@ -1,0 +1,55 @@
+ 
+Av. Parque Isidora N° 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+         www.coordinador.cl 
+ Santiago, 05 de febrero de 2025 
+DE 00791-25 
+ 
+Señores 
+Encargados Empresas Coordinadas 
+Coordinador Eléctrico Nacional 
+Presente   
+ 
+ 
+ 
+ 
+Ref.: Cadena de Pagos. Restricción 
+apertura de Disconformidades. 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, informamos que, con el objetivo de optimizar el uso de la Plataforma 
+de Disconformidades y Portal de Pagos, junto con el cierre de disconformidades informado en 
+carta DE00322-25, se implementaron restricciones en la apertura de nuevas Disconformidades. 
+Las restricciones consisten en que sólo se permitirá crear Disconformidades del tipo “Pago” en 
+los siguientes casos: 
+ 
+• 
+Las instrucciones de pago deben tener el estado de facturación como “Facturado”, y 
+• 
+Las instrucciones de pago no deben tener el estado de pago como “Pagado” o “Pagado 
+con atraso”. 
+  
+Las empresas que intenten abrir una disconformidad para una instrucción de pago que no cumpla 
+con las condiciones anteriores, se verán imposibilitadas y al mismo tiempo les llegará una 
+notificación indicando que no se puede abrir la disconformidad por alguna de los casos 
+mencionados. 
+ 
+Esta medida contribuirá a mejorar la eficiencia de la plataforma y agilizar el flujo de 
+procesamiento de disconformidades.  
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+ 
+Manuel Gatica Díaz 
+Jefe Departamento de Balances de Potencia y 
+Cargos de Transmisión 
+Coordinador Eléctrico Nacional 
+ 
+MGD/HTM/LOA/adr 
+Adj.: Carta DE00322-25 
+CC.  Marcelo Bobadilla M, Gerente de Mercados. 
+ 
+ 

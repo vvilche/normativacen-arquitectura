@@ -1,0 +1,31 @@
+Santiago, 19 de mayo de 2026
+Señores
+Coordinador Eléctrico Nacional 
+Presente
+Ref.: Respuesta a carta DCO-SSCC-BESS Arena-V1 - Arena BESS NUP4749
+De nuestra consideración: 
+Nos comunicamos con usted en representación de nuestro cliente CI GMF II Arena ProjectCo 
+SpA, quien en cumplimiento de lo establecido en la Norma Técnica de Seguridad y Calidad de 
+Servicio y por medio de la presente hacemos entrega de respuestas a observaciones de 
+informes de servicios complementarios correspondientes a proyecto de asunto.
+Control primario de frecuencia
+Control terciario de frecuencia
+Control de tensión
+Dentro de las carpetas se encuentran informes de cada prueba y se complementan con sus 
+ensayos. Se encuentran en formato CSV con tag correspondiente, conforme a lo indicado en 
+la normativa vigente.
+En caso de requerirse antecedentes adicionales o aclaraciones, quedamos atentos a sus 
+comentarios.
+Sin otro particular, le saluda atentamente,
+---------------------------------------
+Gabriela Silva Parraguez. 
+Coordinador de Proyecto
+WSP Chile.
+Firmado digitalmente por Silva,
+Gabriela (CLGS200427)
+DN: cn=Silva, Gabriela
+(CLGS200427), ou=WSPObjects,
+email=gabriela.silva@wsp.com
+Fecha: 2026.05.19 09:38:17 -04'00'
+Silva, Gabriela
+(CLGS200427)

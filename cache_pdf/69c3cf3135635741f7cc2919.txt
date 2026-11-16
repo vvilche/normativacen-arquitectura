@@ -1,0 +1,176 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 25 de marzo de 2026 
+DE 01917-26 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 105 al 108 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 105-2026 al EAF 108-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC > 2026 > Febrero > Cálculo por EAF: 
+ 
+1. EAF 105-2026 
+2. EAF 106-2026 
+3. EAF 107-2026 
+4. EAF 108-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el lunes 30 de marzo de 
+2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Cabe mencionar que la interrupción asociada al EAF 107 no presento afectación a Puntos 
+de Control.  
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+JSM/ycl 
+ 
+c.c.:  
+Sr. Víctor Gutiérrez González – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Víctor Gutiérrez González – Encargado Titular CGE Transmisión S.A. 
+DBCD/DTE-SSCC/SGASO 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras 
+ 
+EAF (*) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 105-2026 
+25-02-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Colchagua 
+Parcial 
+SI 
+La 
+información 
+proporcionada 
+no 
+contenía 
+la 
+desagregación comunal respectiva, puesto que para 
+las cargas asociadas a los alimentadores “Maggi”, 
+“ENAP”, “Antivero” y “El regimiento” se emitió 
+información relacionada únicamente a la comuna de 
+San Fernando, omitiendo la comuna de Chimbarongo. 
+ 
+Por lo tanto, se solicita detallar los consumos para 
+cada uno de los alimentadores mencionados, con 
+el desglose requerido por la SEC, esto es comunal 
+y por zona de tarificación. 
+EAF 108-2026 
+25-02-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Plantas 
+Parcial 
+SI 
+El siguiente cliente libre en distribución no se encuentra 
+en las bases de datos del Coordinador: 
+ 
+RENDIC HERMANOS S.A. (81537600) BA S/E 
+PLANTAS 13.8KV 
+ 
+Enviar antecedentes corregidos, indicando para 
+cada cliente libre la respectiva clave de balance.  
+ 
+Alimentadores ALICANTO y EL INCA tienen hora de 
+normalización equivalente previa a la hora de 
+disponibilidad de la barra. 
+Se solicita detallar el mecanismo de recuperación 
+de estas cargas para cada uno de los alimentadores 
+donde esto se presente, y con el desglose 
+requerido por la SEC, esto es comunal y por zona 
+de tarificación. 
+ 
+La empresa distribuidora informa consumos asociados 
+a la S/E Copiapó, pese a que ésta no se indica como 
+afectada en el evento, específicamente en relación con 
+el alimentador “EL PALOMAR”. 
+Se solicita enviar los antecedentes que permitan 
+esclarecer la inconsistencia, o, si corresponde, 
+enviar los antecedentes corregidos. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+(*) En los EAF N° 106 y 107 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A. fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+ 

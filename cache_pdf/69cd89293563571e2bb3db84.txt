@@ -1,0 +1,131 @@
+ 
+ 
+ 
+ 
+ 
+ 
+           wpd Negrete SpA 
+1 - 2  
+ 
+El Golf 40, Oficina 1102 
+ 
+Contacto:           +562 2 752 0570 
+7550107 Las Condes 
+ 
+E-Mail:                suministro@wpd.cl 
+Santiago de Chile 
+ 
+                             www.wpd.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+Santiago, 1 de abril de 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+De nuestra consideración, 
+ 
+Junto con saludar, y en respuesta a su carta DE 01003-26, mediante la cual se solicita informar las 
+razones del atraso, la fecha definitiva de entrega de los documentos pendientes y un plan de 
+normalización respecto del proceso de verificación de Servicios Complementarios, venimos en 
+informar lo siguiente respecto de las instalaciones PE Lomas de Duqueco, PE Malleco Norte, PE 
+Malleco Sur y PE Negrete, individualizadas en el Anexo 1 de su comunicación.  
+ 
+En primer término, el atraso en la entrega de los informes de verificación se explica principalmente 
+por restricciones técnicas y de coordinación asociadas a la ejecución de los ensayos requeridos, en 
+particular respecto del Control Primario de Frecuencia (CPF). Sobre esta materia, Vestas ha indicado 
+que la modificación de la banda muerta actualmente implementada, desde 200 mHz a los 25 mHz 
+exigidos, podría generar un desgaste no deseado en las unidades. Sin embargo, a la fecha, dicho 
+proveedor no ha entregado el informe técnico de respaldo que permita sustentar formalmente esta 
+condición ante el Coordinador y, en consecuencia, no ha sido posible cerrar el alcance técnico ni 
+avanzar fundadamente en la ejecución de dichos ensayos. 
+ 
+En atención a lo anterior, y con el objeto de transparentar esta situación, se adjunta a la presente la 
+comunicación emitida por Vestas, en la cual se expone la problemática antes descrita. 
+ 
+Adicionalmente, respecto de las verificaciones asociadas a Control de Tensión (CT) y Control 
+Terciario de Frecuencia (CTF), se ha estimado necesario reprogramar su ejecución hacia el tercer 
+trimestre del presente año, considerando una planificación conservadora y realista.  
+ 
+Lo anterior obedece a la necesidad de coordinar con anticipación la disponibilidad de personal 
+especialista de Vestas, del personal de apoyo para ensayos y de las condiciones operacionales 
+adecuadas para su correcta ejecución, incluyendo la existencia de recurso eólico suficiente que 
+permita realizar pruebas en condiciones representativas de operación.  
+ 
+ 
+Ref.: Respuesta a la carta DE01003-26, de 
+fecha 11 de febrero de 2026 
+Señor Rodrigo Espinoza 
+Gerente de Operaciones  
+Coordinador Eléctrico Nacional  
+Avda. Parque Isidora Sur 1061 - Pudahuel 
+Presente  
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+           wpd Negrete SpA 
+2 - 2  
+ 
+El Golf 40, Oficina 1102 
+ 
+Contacto:           +562 2 752 0570 
+7550107 Las Condes 
+ 
+E-Mail:                suministro@wpd.cl 
+Santiago de Chile 
+ 
+                             www.wpd.cl 
+ 
+En atención a lo anterior, a continuación, se informa el estado actual y la fecha de entrega de los 
+documentos pendientes por servicio complementario. 
+ 
+Servicio Complementario 
+Cronograma 
+CPF 
+En gestión por ajuste de banda muerta. 
+30 de septiembre 2026. 
+CSF 
+Enviado. 
+CTF 
+30 de septiembre 2026. 
+CT 
+30 de septiembre 2026. 
+ 
+En este contexto, y considerando que el proceso de verificación contempla varias etapas, incluyendo 
+el envío previo de protocolos, la coordinación de ensayos y la emisión de informes, informamos 
+expresamente que no será posible completar la totalidad de los informes de verificación pendientes 
+dentro del plazo de 30 días corridos señalado en su carta. No obstante, lo anterior, wpd estima 
+efectuar la entrega de los documentos pendientes durante el tercer trimestre del presente año, una 
+vez cerradas las coordinaciones técnicas y operacionales actualmente en curso y se cuente con los 
+antecedentes necesarios para una ejecución fundada de los ensayos correspondientes.  
+Finalmente, reiteramos que WPD se encuentra realizando las gestiones técnicas y de coordinación 
+necesarias para avanzar en este proceso, evaluando las condiciones operacionales requeridas para 
+la correcta ejecución de los ensayos pendientes. Cualquier antecedente adicional relevante será 
+informado oportunamente a ese Coordinador. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diego Muñoz  
+Encargado Titular  
+WPD Negrete SpA. 
+ 
+ 

@@ -1,0 +1,82 @@
+  
+ 
+ 
+Santiago, 21 de abril de 2026 
+ 
+ 
+ 
+Ref.: Respuesta a DE 02267-26 – Observaciones a Protocolos de Verificación de Servicios 
+Complementarios Central PFV San Pedro 
+ 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+De nuestra consideración, 
+ 
+ 
+Junto con saludar, y en relación con su carta DE 02267-26, de fecha 07 de abril de 2026, 
+mediante la cual se formulan observaciones a los Protocolos de Verificación de Servicios 
+Complementarios de la Central Parque Fotovoltaico San Pedro, informamos que dichas 
+observaciones han sido debidamente analizadas e incorporadas en una nueva revisión de los 
+documentos correspondientes. 
+ 
+En particular, se acompaña a la presente: 
+ 
+1. Minuta de respuesta a observaciones, en la cual se detalla el tratamiento dado a cada 
+una de las observaciones formuladas por ese Coordinador, tanto para el servicio de 
+Control Primario de Frecuencia (CPF) como para Control de Tensión (CT). 
+o 
+Documento: EE-MI-2026-0893-RA – Minuta de Respuesta a Observaciones – 
+Procedimientos SSCC. 
+ 
+2. Nueva versión del Procedimiento de Ensayos de Servicios Complementarios – Control 
+Primario de Frecuencia,  
+o 
+Documento: EE-EN-2025-2017-RB – Procedimiento Ensayos SSCC CPF – PFV 
+San Pedro. 
+ 
+3. Nueva versión del Procedimiento de Ensayos de Servicios Complementarios – Control 
+de Tensión,  
+o 
+Documento: EE-EN-2025-2018-RB – Procedimiento Ensayos SSCC CT – PFV 
+San Pedro. 
+ 
+ 
+Con lo anterior, estimamos que las observaciones indicadas por ese Coordinador han sido 
+debidamente atendidas, dando cumplimiento a lo establecido en el Artículo 8 del Anexo 
+Técnico “Verificación de Instalaciones para la prestación de SSCC” de la Norma Técnica de 
+Servicios Complementarios. 
+
+ 
+ 
+ 
+ 
+ 
+                                                                           
+ 
+                                                                           
+ 
+ 
+ 
+Sin otro particular, quedamos atentos a cualquier comentario adicional que estime pertinente. 
+ 
+Saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Jose Antonio Osorio Del Olmo 
+Gerente General 
+GPG Solar Chile 2017 SpA (PFV San Pedro) 
+Ibereólica Cabo Leones II S.A. 
+ 
+cc.: 
+– Sr. Héctor Astudillo, Encargado Suplente – Ibereólica Cabo Leones II S.A. 
+– verificacion.sscc@coordinador.cl 
+ 

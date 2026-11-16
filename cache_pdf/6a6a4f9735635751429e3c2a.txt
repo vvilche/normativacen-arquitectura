@@ -1,0 +1,189 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+Santiago, 28 de julio de 2026 
+SDD202618 
+     Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Responde DE 04209-26 Solicitud de 
+antecedentes 
+técnicos 
+que 
+respalden 
+los 
+Informes de Limitación (IL) declarados para la 
+prestación de Control Dinámico de Tensión, PFV 
+Sol del Desierto 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en respuesta a la notificación DE04209-26, entregamos los 
+antecedentes técnicos que respaldan los Informes de Limitación (IL) declarados para la 
+prestación del servicio de control dinámico de tensión (CDT) en el PFV Sol del Desierto, 
+así como el cronograma de trabajo comprometido para su implementación. 
+ 
+1. 
+Acciones ejecutadas a la fecha 
+ 
+1.1 Pruebas de validación de servicios complementarios 
+ 
+Durante junio de 2026 se ejecutaron, en conjunto con la empresa Estudios Eléctricos (EE), 
+pruebas orientadas a validar las funcionalidades de control de tensión y de control de 
+frecuencia (primario y terciario) de la planta. Dichas actividades se encuentran 
+respaldadas por los registros SI N° 2026057729 y SI N° 2026057730 de la plataforma 
+Neomante. 
+Las pruebas permitieron verificar que el controlador de planta cuenta con las 
+funcionalidades requeridas para prestar el servicio de control dinámico de tensión. 
+Los informes elaborados por EE respecto de dichas pruebas se encuentran en 
+preparación y estarán disponibles durante agosto de 2026, oportunidad en la que serán 
+remitidos a ese Coordinador. 
+ 
+1.2 Mejora del esquema de comunicaciones con el SITR 
+ 
+Durante junio de 2026, se presentó al Departamento de SCADA una propuesta de mejora 
+del esquema de envío de señales desde la planta hacia el Sistema de Información Técnica 
+en Tiempo Real (SITR). Dicha propuesta fue revisada y aprobada mediante correo 
+electrónico de fecha 9 de julio de 2026. 
+ 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+La migración del esquema de comunicaciones constituye un hito habilitante, por cuanto 
+de ella depende que el Coordinador pueda habilitar las señales requeridas para la 
+implementación del control dinámico de tensión. 
+ 
+Su desarrollo e implementación se encuentran proyectados para el 30 de julio de 2026. 
+ 
+2. Cronograma de trabajo 
+ 
+A continuación, se presenta el cronograma de trabajo para la implementación del control 
+dinámico de tensión, considerando como actividad precedente las pruebas de validación 
+finalizadas en junio de 2026: 
+ 
+Etapa 
+Descripción 
+Fecha 
+Responsable 
+Estado 
+1. Pruebas de 
+validación de 
+control de 
+tensión 
+Pruebas realizadas junto a Estudios 
+Eléctricos para validar las 
+funcionalidades de control de 
+tensión y de control de frecuencia 
+(primario y terciario) 
+Junio de 
+2026 
+Parque Solar 
+Fotovoltaico Sol del 
+Desierto SpA / 
+Estudios Eléctricos 
+Completado 
+2. Migración de 
+señales SITR 
+Migración del esquema de señales 
+al nuevo formato de comunicación 
+aprobado por el CEN (correo del 9 
+de julio de 2026); hito habilitante 
+para las etapas siguientes 
+30 de julio 
+de 2026 
+Parque Solar 
+Fotovoltaico Sol del 
+Desierto SpA / 
+Dpto. SCADA CEN 
+En ejecución 
+3. Pruebas 
+punto a punto 
+SITR 
+Coordinación y ejecución de 
+pruebas punto a punto con el Dpto. 
+SCADA del CEN, sobre el esquema 
+migrado, para verificar la 
+integración al SITR y la recepción de 
+señales 
+4 de 
+agosto de 
+2026 
+Parque Solar 
+Fotovoltaico Sol del 
+Desierto SpA / 
+Dpto. SCADA CEN 
+Pendiente 
+4. Aprobación 
+pruebas 
+internas SITR 
+Revisión y validación interna de los 
+resultados de las pruebas punto a 
+punto 
+5 de 
+agosto de 
+2026 
+Dpto. SCADA CEN 
+Pendiente 
+5. Revisión y 
+aprobación 
+CEN 
+Revisión de los resultados por parte 
+del CEN y aprobación formal de la 
+implementación del control 
+dinámico de tensión con el nuevo 
+esquema de señales 
+14 de 
+agosto de 
+2026 
+CEN 
+Pendiente 
+Nota: los plazos indicados para las etapas 2 y siguientes tienen carácter preliminar y se 
+encuentran sujetos a confirmación con los departamentos correspondientes del Coordinador. 
+ 
+ 
+ 
+ 
+ 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+En consecuencia, la limitación declarada para la prestación del control dinámico de 
+tensión se mantendrá vigente mientras no se complete la migración de señales al SITR y 
+las etapas de verificación antes descritas, cuya aprobación se encuentra prevista para el 
+14 de agosto de 2026. Esta empresa reitera su compromiso con el cumplimiento del 
+cronograma expuesto y queda a su disposición para aportar cualquier antecedente 
+adicional que estime necesario. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Moraga Á. 
+Encargado Titular 
+Parque Solar Fotovoltaico Sol del Desierto SpA 

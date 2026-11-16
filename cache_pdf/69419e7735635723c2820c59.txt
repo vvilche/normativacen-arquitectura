@@ -1,0 +1,77 @@
+CORRELATIVO DE 08014-25 
+Asunto: Plan de Acción por EAF 159-2023 - Apertura intempestiva del interruptor 
+52J2 de S/E Central Quintero 
+ 
+ 
+De: Raicit Guevara Diaz <Raicit.Guevara@coordinador.cl>  
+Enviado el: lunes, 15 de diciembre de 2025 13:53 
+Para: Felipe Inostrosa <felipe.inostrosa@ipsenergy.cl> 
+CC: Javier Pujol <javier.pujol@ipsenergy.cl>; Gabriel Cereceda <gabriel.cereceda@ipsenergy.cl>; 
+DAOP <daop@coordinador.cl>; Alejandra Domínguez Rivera 
+<Alejandra.Dominguez@coordinador.cl> 
+Asunto: RE: Plan de Acción por EAF 159-2023 - Apertura intempestiva del interruptor 52J2 de S/E 
+Central Quintero 
+ 
+Estimado Felipe, 
+ 
+Junto con saludar, comento que lamentablemente este plan de acción fue cerrado al 
+no tener respuesta de su representada a la última comunicación del Coordinador 
+(DE05057-24/ adjunta), la cual a la fecha aún sigue sin respuesta, la cual tenía plazo 
+hasta el 11 octubre de 2024.  
+ 
+Por lo anterior, por parte del seguimiento no se detectó la entrega del ECAP al que 
+Ud. hace referencia, entrando al sistema de correspondencia y dificultando nuestra 
+oportuna recepción. 
+ 
+Sin embargo, adelanto las observaciones que deben atender a la brevedad antes de 
+enviar la nueva versión del ECAP: 
+ 
+• Actualizar los proyectos de Generación y Transmisión considerados en el 
+ECAP, ya que, en el punto “6.1. Proyectos considerados” se evidencia que 
+solo se incluyeron proyectos hasta la fecha de septiembre 2024. 
+ 
+• Separar la acción correctiva del resto de ajustes sobre los cuales se 
+proponen cambios, enviar minuta que recoja el extracto del ECAP donde se 
+proponen cambios a las funciones que operaron para el EAF 159-2025, que, 
+según lo declarado en el Informe de Falla de 5 días las funciones operadas 
+fueron subvoltaje y sobrecorriente, esto para poder priorizar la corrección de 
+estos ajustes: 
+ 
+…/… “Al verificar los estados de las protecciones, se encontró operada 
+protección del generador. (GE-889). 
+ 
+Se revisan registros de oscilografías de la protección del generador (GE-
+889), no se encontraron archivos relacionados. Se revisa registro de 
+
+eventos de la protección del Generador GE-889, y se obtienen los 
+eventos mostrados al final del documento. 
+ 
+De acuerdo con el registro de eventos, la unidad detectó un 
+desbalance en sus fases provocando la operación de las 
+protecciones de subvoltaje y sobrecorriente principalmente. La 
+protección GE-889 operó de forma correcta según las lecturas 
+obtenidas.” 
+ 
+• Los ajustes coordinables sobre los cuales se proponen cambios, se solicita 
+la autorización de la empresa adyacente involucrada. Por ejemplo, los 
+cambios propuestos en ajuste de la línea Colmito – Torquemada, requieren 
+aprobación del propietario del paño H5 de S/E Torquemada (Compañía 
+Transmisora del Norte Grande S.A.). Incluir aprobación previa al ECAP del 
+propietario (s) correspondiente (s). 
+ 
+Quedamos atentos a la entrega seccionada solicitada. 
+ 
+Saludos, 
+ 
+ 
+ 
+Raicit Guevara Diaz 
+Ingeniero de Análisis de la Operación 
+Gerencia Operación 
+ 
+Santiago de Chile 
+Tel: +56 2 2424 6429 
+www.coordinador.cl 
+ 
+ 
+ 

@@ -1,0 +1,194 @@
+ 
+ www.coordinadorelectrico.cl  
+ 
+  
+ 
+ 
+  
+Santiago, 10 de diciembre de 2025  
+DE 07870-25  
+ 
+Señor  
+Encargado  
+Empresa Coordinada  
+Coordinador Eléctrico Nacional  
+(Lista distribución) 
+Presente  
+  
+Ref.:  Fin de Marcha Blanca de recepción 
+de Informe de operación Mensual (IOM) 
+mediante 
+Plataforma 
+OMNICANAL, 
+Módulo OMNIDATA. 
+[1] Carta DE06611-25 del 16 de octubre de 
+2025  
+  
+Sr. Encargado:   
+  
+Por medio de la presente, y según lo informado en la carga de la Ref. [1], la entrega por 
+parte de su representada del Informe de Operación Mensual (IOM) debe realizarse en el 
+nuevo módulo de la plataforma OMNICANAL (https://omnicanal.coordinador.cl), la cual 
+finalizará su marcha blanca el día 26 de diciembre de 2025. Luego de dicha fecha, la 
+plataforma será el medio de comunicación único dedicado a la entrega de esta información.   
+ 
+Con el fin de entregarle la mayor información relativa al proceso y cumplir con la normativa, 
+es importante que su representada tenga presente los siguientes pasos para cargar la 
+información: 
+• 
+Aquellos coordinados que representen a una empresa propietaria de PMGD o PMG 
+con autodespacho, deben estar previamente registrados como tal en el sistema 
+Registro Único de Coordinados REUC (https://reuc.coordinador.cl/). En caso 
+contrario, pueden solicitar al Titular de la empresa que lo registre como “Usuario del 
+Sistema de Correspondencia”. 
+• 
+Al ingresar a Omnicanal, podrá seleccionar la empresa coordinada que representará 
+y descargar la plantilla del archivo, la cual contendrá las centrales asociadas a la 
+empresa coordinada seleccionada. 
+• 
+Al completar los campos con la disponibilidad de excedentes, deberá considerar las 
+reglas de negocio establecidas en el Anexo 1 de esta carta. 
+• 
+Para su consulta, se encuentra disponible la “Guía Rápida IOM”, correspondiente al 
+Anexo 2 de la presente carta. 
+ 
+ 
+ 
+
+ 
+ www.coordinadorelectrico.cl  
+ 
+ 
+• 
+Se debe considerar que la estructura del archivo no es modificable. 
+• 
+Por último, las centrales que hayan obtenido su Entrada en Operación durante el 
+mismo mes del primer envío de información, deben previamente enviar un correo a 
+iom@coordinador.cl indicando el nombre del PMGD o PMG con autodespacho y la 
+empresa coordinada. 
+ 
+Finalmente, recordamos a usted que según lo indicado en el artículo 72°-2 de la Ley General 
+de Servicios Eléctricos, los coordinados están obligados a proporcionar oportunamente al 
+Coordinador y actualizar toda la información, en forma cabal, completa y veraz, que requiera 
+para el cumplimiento de sus funciones.  
+ 
+La omisión del deber de información, sea que medie requerimiento de información o cuando 
+proceda sin mediar aquél, así como la entrega de información falsa, incompleta o 
+manifiestamente errónea, o el incumplimiento a lo dispuesto en el presente artículo, serán 
+sancionadas por la Superintendencia. 
+ 
+Los invitamos a realizar todas sus consultas y dudas escribiendo al correo electrónico 
+iom@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+  
+ 
+  
+ 
+                        Jefe Departamento de Pronósticos 
+                                              Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+BAM/JUF/adr 
+Incl: Lo indicado 
+c.c.: 
+Sr. Marcelo Bobadilla M., Gerente Mercados 
+Sr. Juan Marcos Donoso N., Jefe Departamento Programación 
+Sr. Juan Pablo Ávalos F, Subgerente Programación y Análisis Económico 
+ 
+ 
+ 
+Javier Urbina 
+
+ 
+ www.coordinadorelectrico.cl  
+ 
+Lista de distribución: 
+ 
+•   Empresas representantes de Pequeños Medios de Generación PMGD 
+• 
+ASOC. DE CANAL. SOCIEDAD DEL CANAL DE MAIPO 
+• 
+CALAMA SOLAR 2 SPA 
+• 
+CENTRAL CARDONES S.A. 
+• 
+COLBÚN S.A. 
+• 
+EMPRESA ELÉCTRICA CIPRÉS SpA 
+• 
+EMPRESA ELÉCTRICA GUINDO SANTO SpA 
+• 
+EMPRESA ELÉCTRICA PEUMO SpA 
+• 
+EMPRESA ELÉCTRICA RAULÍ SpA 
+• 
+ENEL GREEN POWER CHILE S.A. 
+• 
+ENERBLAN SPA 
+• 
+ENGIE ENERGÍA CHILE S.A. 
+• 
+ENLASA GENERACIÓN CHILE S.A. 
+• 
+EÓLICA LA ESPERANZA S.A. 
+• 
+ESPINOS S.A. 
+• 
+FONTUS PRIME SOLAR SPA 
+• 
+GENERADORA DEL PACÍFICO SPA 
+• 
+GPG GENERACIÓN DISTRIBUIDA SPA 
+• 
+HIDROELECTRICA DOS VALLES SPA 
+• 
+HIDROELÉCTRICA LAS JUNTAS S.A. 
+• 
+HIDROELÉCTRICA LLEUQUEREO S.A. 
+• 
+HIDROELÉCTRICA LOS CORRALES SPA 
+• 
+HIDROELÉCTRICA PALACIOS SPA 
+• 
+HIDROELÉCTRICA PUNTA DEL VIENTO SPA 
+• 
+HIDROELÉCTRICA RÍO HUASCO S.A. 
+• 
+HIDROENERSUR S.A. 
+• 
+HIDROENERSUR SPA 
+• 
+HIDROLICAY 
+• 
+KDM ENERGÍA S.A. 
+• 
+LARQUI SOLAR SPA 
+• 
+LIKANA SOLAR SPA  
+• 
+MANZANO SOLAR SPA 
+• 
+PARQUE EÓLICO EL MAITÉN SPA 
+• 
+PARQUE EÓLICO LEBU-TORO SPA 
+• 
+PARQUE SOLAR TANGUA SPA 
+• 
+PARQUE SOLAR VILLA LONGAVI SPA 
+• 
+PATAGUILLA SOLAR SPA 
+• 
+PMGD HOLDCO SPA 
+• 
+RTS ENERGÍA S.A. 
+• 
+RUCASOL SPA 
+• 
+SANTA ESTER SOLAR SPA 
+• 
+SOLAR TI TREINTA Y CUATRO SPA 
+• 
+VENEZIA SOLAR SPA 

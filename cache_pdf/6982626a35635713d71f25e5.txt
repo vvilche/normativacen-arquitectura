@@ -1,0 +1,81 @@
+ 
+ 
+ 
+OR-000036-2026 
+ 
+Santiago, 26/01/2026 
+ 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA: Protocolos de Verificación de SSCC de Equipos Vinculantes de S/E Ancoa 
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, por medio de la presente y para dar cumplimiento con lo establecido en el Anexo 
+Técnico “Verificación de instalaciones para la prestación de SSCC” de la Norma Técnica de Servicios 
+Complementarios, se adjuntan revisión 1 de los Protocolos Específicos de Pruebas para la 
+Verificación de Servicios Complementarios – Equipos Vinculantes, correspondientes a los siguientes 
+equipos: 
+• 
+Relé sincronizador paño K1 de S/E Ancoa 
+(EN202709.1_PEP_SSCC_EV_SE Ancoa_K1_Rev.1); 
+ 
+• 
+Relé sincronizador paño K2 de S/E Ancoa 
+(EN202709.1_PEP_SSCC_EV_SE Ancoa_K2_Rev.1); 
+ 
+• 
+Relé sincronizador paño K3 de S/E Ancoa 
+(EN202709.1_PEP_SSCC_EV_SE Ancoa_K3_Rev.1); 
+ 
+• 
+Relé sincronizador paño K4 de S/E Ancoa 
+(EN202709.1_PEP_SSCC_EV_SE Ancoa_K4_Rev.1); 
+ 
+• 
+Relé sincronizador paño KT1 de S/E Ancoa 
+(EN202709.1_PEP_SSCC_EV_SE Ancoa_KT1_Rev.1 
+ 
+• 
+Relé sincronizador paño KT2 de S/E Ancoa 
+(EN202709.1_PEP_SSCC_EV_SE Ancoa_KT2_Rev.1); 
+ 
+ 
+• 
+Relé sincronizador paño J4 de S/E Ancoa 
+(EN240709.1_PEP_SSCC_EV_SE Ancoa_J4_Rev.1); 
+
+ 
+ 
+ 
+• 
+Relé sincronizador paño J5 de S/E Ancoa 
+(EN240709.1_PEP_SSCC_EV_SE Ancoa_J5_Rev.1); 
+ 
+• 
+Relé sincronizador paño JT1 de S/E Ancoa 
+(EN240709.1_PEP_SSCC_EV_SE Ancoa_JT1_Rev.1); 
+ 
+• 
+Relé sincronizador paño JT2 de S/E Ancoa 
+(EN240709.1_PEP_SSCC_EV_SE Ancoa_JT2_Rev.1); 
+ 
+Quedamos atentos a sus comentarios u observaciones. 
+ 
+Sin otro particular, saludan atentamente a usted 
+ 
+TRANSELEC S.A., 
+ 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 
+ 
+ 

@@ -1,0 +1,162 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIOENERGIAS FORESTALES 
+Agustinas 1343, Santiago, Chile 
+www.cmpc.cl 
+www.cmpc.com 
+Santiago, 10 de junio 2026 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional  
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+BF-E-CYR-2026-032: 
+Observaciones 
+a 
+Indicadores 
+de 
+Desempeño 
+de 
+Servicios 
+Complementarios prestados durante el mes de 
+mayo de 2026. 
+[1] 
+Carta 
+DE03768-26: 
+Publicación 
+de 
+Indicadores 
+de 
+Desempeño 
+de 
+Servicios 
+Complementarios prestados durante el mes de 
+abril de 2026 e Indicadores de Desempeño de 
+SSCC EDAC del mes de mayo de 2026. 
+[2] Carta DE05884-24: Resultado del Proceso de 
+Verificación del SC de Control Terciario de 
+Frecuencia de la Central TER CMPC Cordillera. 
+[3] Metodología de Cálculo de Desempeño de 
+SSCC. 
+De nuestra consideración: 
+ 
+Por la presente, y en relación con lo dispuesto en la comunicación de la Referencia [1], mediante la cual se 
+otorgó plazo hasta el 10 de junio para formular observaciones a los indicadores de desempeño de Servicios 
+Complementarios correspondientes al mes de mayo de 2025, vengo en exponer y solicitar lo siguiente. 
+ 
+ 
+I. 
+OBSERVACIÓN 
+ 
+La 
+presente 
+observación 
+se 
+fundamenta 
+en 
+la 
+evaluación 
+preliminar 
+contenida 
+en 
+el 
+archivo SSCC_Desempeño_Mayo_2026_V1 (en adelante, Informe de desempeño SSCC) específicamente en 
+lo referido a la prestación del recurso técnico de Control Terciario de Frecuencia de la central Ter CMPC 
+Cordillera. 
+ 
+a) Evaluación de Desempeño: Según el Registro de Instrucciones Operacionales (RIO), nuestra central 
+recibió un total de 13 instrucciones de activación (componentes de subida y bajada), de los cuales los 
+indicadores preliminares publicados en el Informe de desempeño SSCC califican como deficiente a la 
+
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIOENERGIAS FORESTALES 
+Agustinas 1343, Santiago, Chile 
+www.cmpc.cl 
+www.cmpc.com 
+totalidad de las activaciones. 
+b) Verificación Técnica Interna:  un análisis técnico exhaustivo de los registros SCADA ha permitido 
+constatar que la central Ter CMPC Cordillera modificó su consigna de operación cumpliendo 
+estrictamente con los parámetros y tiempos establecidos en la normativa y regulación vigente para la 
+gran mayoría de los eventos instruidos. 
+c) Evidencia de Cumplimiento:  se adjuntan como anexo a la presente comunicación registros de 
+instrucciones RIO contrastados con las tendencias de generación de la central. Esta evidencia 
+demuestra de manera fehaciente que la respuesta técnica de la unidad derivó en la prestación 
+material del recurso. 
+d) Pruebas de verificación: En lo concerniente a las activaciones en el Control Terciario de Frecuencia 
+(CTF), esta parte indagó un potencial desvío en la prestación del recurso técnico respecto de la 
+determinación del factor de desempeño [3], específicamente en lo relativo a la componente de 
+“Evaluación en 15 minutos” (rampas de subida y bajada). No obstante, en virtud de lo dispuesto en el 
+acto administrativo constante en la Referencia [2], mediante el cual el Coordinador Eléctrico Nacional 
+notificó el resultado satisfactorio del proceso de verificación e incorporó formalmente a la Central 
+Térmica CMPC Cordillera al mercado de servicios complementarios, queda de manifiesto que dicho 
+organismo validó el informe final técnico elaborado por un experto técnico independiente. 
+ 
+ En este sentido, es menester hacer presente que las rampas de subida y de bajada registradas en la 
+operación real se ajustan a las tasas normales de operación validadas por la autoridad competente en 
+dicha instancia —a saber, 15,66 MW/min para la rampa de subida y 10,08 MW/min para la rampa 
+de bajada—, las cuales gozan de plena vigencia técnica para todo el rango operativo de la planta; esto 
+es, desde su mínimo técnico de hasta su potencia máxima. 
+ 
+II. 
+PETITORIO 
+ 
+En virtud de lo expuesto y de la normativa que rige la prestación de Servicios Complementarios, solicitamos 
+al Coordinador Eléctrico Nacional: 
+ 
+a) Primero: Tener por formuladas las observaciones. 
+b) Segundo: Proceder con una revisión integral de la totalidad de las instrucciones asignadas a la central 
+Ter CMPC Cordillera durante el periodo en cuestión, rectificando la calificación de desempeño en 
+aquellos eventos donde se acredite el debido cumplimiento. 
+c) Tercero: Efectuar una reunión con vuestros equipos técnicos con tal de explorar alternativas de 
+operación que permitan el debido cumplimiento de las obligaciones operacionales asociadas a la 
+prestación del Servicio Complementario, resguardando en todo momento la debida correspondencia 
+entre los criterios de evaluación del factor de desempeño y los parámetros técnicamente validados. 
+ 
+
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIOENERGIAS FORESTALES 
+Agustinas 1343, Santiago, Chile 
+www.cmpc.cl 
+www.cmpc.com 
+ 
+Por último, y en un ánimo de contribuir a la eficiencia de los procesos, sugerimos que las futuras etapas de 
+observaciones a los indicadores de desempeño sean integradas y tramitadas a través de la Plataforma de 
+Observaciones de Mercado. Dado que dicha herramienta ha demostrado un óptimo funcionamiento, su 
+uso permitiría centralizar y otorgar mayor trazabilidad a aquellos procesos que impactan directamente en 
+las remuneraciones y que requieren de una revisión técnica rigurosa. 
+ 
+Sin otro particular, saluda atentamente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sergio Zamora Ramírez 
+Encargado Bioenergías Forestales SpA & CMPC 
+CC:  dco@coordinador.cl, Unidad de Regulación & Comercialización 

@@ -1,0 +1,40 @@
+ 
+Santiago, 28 de agosto de 2026 
+MLPTx-CEN20260828    
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Respuesta a DE05315-26 por Incumplimiento de plazos en la 
+implementación de PMU y PDC del Módulo de Medición Fasorial del 
+Coordinador. 
+ 
+ 
+De nuestra consideración: 
+Junto con saludar y en respuesta a su correspondencia DE05315-26, le informo sobre los antecedentes técnicos y 
+avance solicitados: 
+Ambas PMU se encuentran debidamente instaladas en terreno y corresponden a módulos fasoriales integrados 
+en los controladores de paño GE C60. 
+El canal de comunicación entre las PMU y el PDC Local, se encuentra completamente implementado. La conexión 
+entre el PDC Local y el PDC Corporativo está en su etapa de prueba; al respecto, mediante correo electrónico del 
+27 de agosto del presente año, se solicitó formalmente al área SCADA del Coordinador la ejecución de la prueba 
+final de enlace, quedando a la espera de sus resultados. 
+Las licencias de comunicaciones necesarias ya fueron adquiridas, quedando pendientes únicamente la integración 
+definitiva al PDC Corporativo una vez que el Coordinador verifique exitosamente el enlace. 
+Por lo anterior no se consideran medidas de mitigación, dado que nos encontramos a la espera de las pruebas de 
+enlace a realizar por el personal del área SCADA del Coordinador y así alcanzar la etapa final del proyecto. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Hermógenes Zepeda Pérez 
+Encargado Titular MLP Transmisión S.A. 
+Superintendente de Suministro Eléctrico 
+ 
+ 
+ 
+c.c.: 
+Rodrigo Rothen Véliz – Encargado Suplente MLP Transmisión S.A. 
+SIGN

@@ -1,0 +1,103 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 12 de septiembre de 2025 
+ 
+    
+DE 05745-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Mínimo Técnico de la 
+Central PE Calama. 
+[1] Carta ENGIE N°214/2023, del Coordinado 
+Engie 
+Energía 
+Chile 
+S.A., 
+Ref.: 
+“Observaciones a Informe Técnico de Mínimo 
+Técnico de PE Calama”, de fecha 6 de 
+diciembre de 2023. 
+[2] Carta DE05791-23, Ref.: “Informe de 
+Mínimo Técnico de la Central PE Calama, del 
+coordinado Engie Energía Chile S.A.”, de 
+fecha 23 de diciembre de 2023. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PE Calama, en conformidad con el Informe 
+Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+indicado publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme a lo anterior, los parámetros de Mínimo Técnico de la Central PE Calama se 
+presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Mínimo Técnico de la Central PE Calama 
+Central/Unidad 
+Mínimo 
+Técnico Bruto 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en 
+la central(1) 
+[MW] 
+Mínimo 
+Técnico Neto(2) 
+[MW] 
+PE Calama (planta completa) 
+9,8919  
+0,5583 
+0,2867 
+9,0469 
+PE Calama (aerogenerador individual)(3) 
+0,7872 
+0,0305 
+0,7196 
+0,0371 
+(1) Las pérdidas corresponden a la suma de las pérdidas en la red interna y las del transformador 
+principal. En el caso de la planta completa son 0,2289 MW y 0,0578 MW respectivamente, y en 
+el caso de aerogenerador individual son 0,6618 MW y 0,0578 MW respectivamente. 
+(2) Inyectada en la barra de 220 kV del transformador de potencia de la S/E Parque Eólico Calama. 
+(3) Considera todos los aerogeneradores detenidos con excepción de uno. Esta condición se logra 
+mediante el envío manual de comando de apagado a todas las unidades menos una desde la 
+consola de operación. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+En cumplimiento del Artículo 12 del Anexo Técnico antes mencionado, el valor de Mínimo 
+Técnico de la Central PE Calama, entrará en vigencia a partir de las 00:00 horas del 16 de 
+septiembre de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > Mínimo 
+Técnico > Informes de Mínimos Técnicos Unidades Generadoras > Central PE Calama 
+> 2023 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+GZV/DIR/adr 

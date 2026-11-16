@@ -1,0 +1,138 @@
+ 
+ 
+ 
+ 
+ 
+ 
+           wpd Malleco SpA 
+1 - 2  
+ 
+El Golf 40, Oficina 1102 
+ 
+Contacto:           +562 25881900 
+7550107 Las Condes 
+ 
+E-Mail:                suministro@wpd.cl 
+Santiago de Chile 
+ 
+                             www.wpd.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+Santiago, 22 de octubre de 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+De nuestra consideración, 
+ 
+Junto con saludar y en relación con la comunicación de la ref. (Carta DE06812-26), mediante 
+la cual el Coordinador Eléctrico Nacional informa a WPD Malleco SpA el incumplimiento del 
+plazo instruido y comprometido para la integración de PE Malleco Norte y PE Malleco Sur al 
+Esquema de Desconexión Automática de Generación (EDAG) de la Zona Centro Sur, instruida 
+mediante Carta DE07914-25 de fecha 15 de diciembre de 2025, y cuya última fecha de 
+implementación informada por nuestra representada era el 31 de octubre de 2026, venimos 
+a informar fundadamente las razones que explican dicho incumplimiento. 
+ 
+1. Antecedentes del Proyecto. 
+ 
+La implementación del EDAG de la Zona Centro Sur en PE Malleco Norte y PE Malleco Sur fue 
+adjudicada a la empresa contratista SPLIGHT. El proyecto contempla, en forma secuencial, la 
+adquisición del hardware de control y comunicaciones, la fabricación de celdas, los ensayos 
+FAT, el traslado, montaje, conexionado e instalación del hardware, los ensayos SAT y, 
+finalmente, la integración a la Celda Maestra de S/E Charrúa. 
+ 
+2. Causas del incumplimiento  
+El retraso en el cumplimiento del plazo comprometido se origina en atrasos de suministro 
+atribuibles al fabricante del hardware de medición fasorial, Schweitzer Engineering 
+Laboratories, Inc. (en adelante “SEL”), oportunamente comunicados a nuestra representada: 
+(i) Mediante comunicación de fecha 26 de marzo de 2026, suscrita por SEL, y dirigida a SPLIGHT 
+(Anexo N°1), dicho fabricante informó que en diciembre de 2025 su equipo de manufactura 
+identificó un riesgo de calidad asociado a una soldabilidad insuficiente en tarjetas de circuito 
+impreso suministradas por un proveedor externo, situación que afectó a más del 85% de sus 
+productos, y que, sumada a un fuerte crecimiento en las reservas de pedidos por sobre los 
+niveles típicos, generó una prolongación generalizada de los plazos de entrega de la compañía. 
+Ref.: Respuesta a Carta DE06812-26, 
+Incumplimiento en la implementación del 
+EDAG de la Zona Centro Sur, de acuerdo 
+con plazo instruido y comprometido. 
+Señor Patricio Valenzuela 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional  
+Avda. Parque Isidora Sur 1061 - Pudahuel 
+Presente  
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+           wpd Malleco SpA 
+2 - 2  
+ 
+El Golf 40, Oficina 1102 
+ 
+Contacto:           +562 25881900 
+7550107 Las Condes 
+ 
+E-Mail:                suministro@wpd.cl 
+Santiago de Chile 
+ 
+                             www.wpd.cl 
+(ii) Posteriormente, mediante carta de fecha 1 de julio de 2026, suscrita por SEL, y dirigida a 
+SPLIGHT (Anexo N°2), SEL confirmó específicamente que los equipos SEL 2240 y SEL 2730M, 
+correspondientes a la orden de compra emitida para el usuario final WPD Chile, presentaban 
+un retraso aproximado de 9 días respecto de la fecha original de envío, producto de 
+transiciones en su producción, aumento de demanda y las consecuentes limitaciones de 
+suministro. 
+Dado el carácter secuencial de las actividades del proyecto, el atraso de origen en el proveedor 
+SEL impactó de manera directa las etapas posteriores de fabricación, ensayos, montaje e 
+instalación, impidiendo cumplir con el plazo instruido y comprometido para la integración al 
+EDAG de la Zona Centro Sur. 
+ 
+Adicionalmente, una vez concluidos los trabajos en terreno, resta realizar la integración de PE 
+Malleco Norte y PE Malleco Sur a la Celda Maestra de S/E Charrúa, actividad que no es posible 
+ejecutar mientras no se encuentren habilitados los enlaces de comunicación requeridos, los 
+cuales a la fecha se encuentran pendientes. 
+ 
+3. Estado de avance y plazo comprometido 
+ 
+Los trabajos en terreno asociados a la implementación del EDAG en PE Malleco Norte y PE 
+Malleco Sur finalizarán el 30 de octubre de 2026. Quedará pendiente únicamente la 
+integración a la Celda Maestra de S/E Charrúa, la que se ejecutará una vez habilitados los 
+enlaces de comunicación. En consecuencia, WPD Malleco SpA compromete como nueva 
+fecha de integración de PE Malleco Norte y PE Malleco Sur al EDAG de la Zona Centro Sur el 
+31 de diciembre de 2026. Asimismo, WPD Malleco SpA se compromete a informar 
+oportunamente al Coordinador cualquier variación relevante respecto de este plazo. 
+ 
+4. Anexos 
+ 
+• 
+Anexo N°1: Carta SEL de fecha 26 de marzo de 2026, sobre riesgo de calidad en tarjetas de 
+circuito impreso y prolongación de plazos de entrega. 
+• 
+Anexo N°2: Carta SEL de fecha 1 de julio de 2026, sobre retraso específico de 9 días en los 
+equipos SEL 2240 y SEL 2730M de la orden WPD Chile. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diego Muñoz  
+Encargado Titular  
+WPD Malleco SpA. 

@@ -1,0 +1,83 @@
+1
+GO N°086/2025
+Santiago, 30 de abril de 2025
+Señor
+Rodrigo Espinoza V.
+Gerente de Operación
+Coordinador Eléctrico Nacional
+Presente
+Ref.:
+Actuación del Servicio Complementario de Plan de Recuperación de Servicio en la
+categoría de Partida Autónoma (PRS-PA) el 25 de febrero de 2025.
+De mi consideración:
+En respuesta a su carta DE 02344-25, de fecha 17 de abril de 2025, en donde solicita a Colbún SA
+entregar mayores antecedentes de la prestación del servicio complementario Partida Autónoma
+durante el evento del 25 de febrero de 2025 por las unidades generadoras de la central Colbún,
+informamos a usted lo siguiente:
+a)
+Informe técnico que dé cuenta del proceso de PRS-PA llevado a cabo
+Resp.: Colbún SA ha preparado un informe técnico que da cuenta del proceso de PRS-PA llevado a
+cabo por las unidades de la central Colbún durante el evento del 25 de febrero de 2025, el cual se
+adjunta en el Anexo I.
+b) Conforme al comportamiento y hallazgos evidenciados durante la aplicación del PRS-PA
+fallido, se solicita el envío de las medidas correctivas que implementará su representada
+junto con el plan de trabajo que indica las fechas en que se materializarán esas acciones, a
+más tardar el 30 de abril de 2025. Este plan debe considerar efectuar el proceso de
+verificación de instalaciones para la prestación de servicios complementarios, incluyendo el
+PRS-PA, y enviar el respectivo informe técnico al Coordinador a más tardar el 31 de julio
+de 2025
+Resp.: En base a los análisis realizados y detallados en el informe indicado en el punto a), es
+pertinente aclarar que, a juicio de Colbún S.A., varios de los eventos que no permitieron el
+desarrollo normal de aplicación del PRS-PA en la central Colbún se deben a condiciones
+sistémicas en instalaciones que no son de propiedad de Colbún, así como también a los problemas
+acontecidos con los sistemas de control que permiten la supervisión de las instalaciones de
+trasmisión. No obstante lo anterior, Colbún ha identificado los siguientes aspectos de mejora en
+sus procesos:
+
+2
+-
+Continuar con el programa de capacitaciones de comunicación efectiva entre centros de
+control para los operadores. Fecha de ejecución: durante los meses de mayo a septiembre
+2025.
+-
+Revisión y actualización, en caso de ser necesario, de guías de maniobra de aplicación de los
+PPRS. Fecha de ejecución:  durante los meses de abril a junio 2025.
+-
+Realizar la prueba de verificación del servicio complementario de Partida Autónoma para las
+unidades de la central Colbún. Pruebas planificadas para ejecutarse los días 14 y 15 de junio
+del 2025.
+-
+Evaluar la factibilidad de implementar cambios en lógicas o ajustes de sistemas de control
+que intervengan en el proceso del PRS. Fecha de ejecución: durante los meses de mayo a
+agosto 2025.
+c)
+El proceso de verificación y las pruebas deben ser realizadas por un experto técnico
+independiente que cumpla lo indicado en el Artículo 4 del Anexo Técnico “Verificación de
+Instalaciones para la Prestación de SSCC”. En función de lo anterior su representada
+deberá enviar los antecedentes que respalden su experiencia, junto con la declaración
+jurada de ausencia de conflicto de interés, con el fin que el Coordinador valide a dicho
+experto.
+Resp.: Con respecto al proceso de verificación de instalaciones de Colbún S.A. para la prestación
+de SSCC, quisiera mencionar que el Experto Técnico fue informado por Colbún al Coordinador
+mediante la carta GM Nº135 el 30 de septiembre del 2021, y el Coordinador lo aprobó, mediante
+la carta DE05009-21 del 04 de octubre del 2021. Particularmente, respecto a los ensayos para
+verificar la Partida Autónoma en la central Colbún, los procedimientos fueron entregados por
+Colbún en la carta GO Nº146 el 19 de agosto de 2024, los cuales fueron aprobados por el
+Coordinador, mediante la carta DE05031-24 el 02 de octubre del 2024.
+Colbún programó la ejecución de ensayo de verificación de Partida Autónoma en las unidades de
+la central Colbún, para el 23 de marzo del año 2025, pero debido a que en la barra de 13,8 kV de
+los SSAA en la central Colbún se conecta el consumo regulado del pueblo de Colbún, cuyo
+alimentador es de propiedad de la empresa CGE, no se logró la aceptación de las pruebas debido
+a la alta probabilidad de temporal de viento y lluvia para esa fecha, por lo cual la empresa
+mencionada rechazó la solicitud de desconexión correspondiente.
+En este contexto, se están realizando nuevamente coordinaciones entre empresas, evaluando
+incluso la posibilidad de respaldar los consumos asociados al pueblo Colbún, para mantener el
+suministro eléctrico del cliente de manera tal que no se vean afectados por las pruebas con el
+objetivo de concretar las pruebas de verificación de Partida Autónoma en la central Colbún.
+Sin otro particular, le saluda atentamente,
+
+3
+Sebastián Ruiz-Tagle Mena
+Encargado Titular
+COLBÚN.
+Incl. Lo indicado

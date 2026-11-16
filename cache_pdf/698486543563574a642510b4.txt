@@ -1,0 +1,71 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 05 de febrero de 2026 
+ 
+    
+DE 00798-26 
+Señor 
+Pablo Marcos 
+Encargado Titular  
+Cóndor Energía SpA 
+Presente 
+Ref.: Solicitud de plan de trabajo de ajustes 
+en el controlador potencia-frecuencia del 
+Parque Eólico Tchamma.  
+[1] Carta CH335-2025, Ref.: “Envía nueva 
+versión y responde a observaciones de 
+Informe de Verificación SC CPF del PE 
+Tchamma”, de fecha 31 de diciembre de 
+2025.  
+Responde a ingreso: DE12800-25. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y considerando el Informe de Verificación 
+de Control Primario de Frecuencia (CPF) recibido mediante carta de la Ref. [1] 
+informo a usted lo siguiente:  
+a) El Coordinador ha identificado que la respuesta actual que presenta el 
+controlador de potencia-frecuencia del Parque Eólico Tchamma está vinculado 
+a una rampa de toma y bajada de carga que impide que el PE pueda entregar 
+la totalidad de su aporte dentro de los primeros 10 segundos, contados desde 
+el inicio de la respuesta del controlador.  
+b) Considerando lo establecido en el artículo 3-17 de la Norma Técnica de 
+Seguridad y Calidad de Servicio (NTSyCS), donde se señala que el ajuste 
+específico que deben implementar las unidades generadoras, así como los 
+parques eólicos y fotovoltaicos para la prestación del Control Primario de 
+Frecuencia, será determinado por el Coordinador en atención a la seguridad y 
+calidad del servicio, se solicita a su representada presentar, un plan de trabajo 
+en el cual se detallen las acciones necesarias para que la respuesta del 
+controlador potencia-frecuencia logre entregar la totalidad del aporte en los 10 
+segundos desde el inicio de la respuesta CPF. Las modificaciones deberán 
+realizarse en un plazo no superior a 3 meses contados desde la fecha de 
+respuesta a la presente carta.  
+ 
+ 
+Adicionalmente, una vez que su representada realice las adecuaciones necesarias 
+al controlador, deberá remitir en un plazo máximo de 15 días hábiles, un nuevo 
+informe de verificación, donde mediante pruebas se evidencie la respuesta del PE 
+a los 10 segundos sin la limitante de la rampa y según lo requerido. Dicho informe 
+será sometido al proceso de verificación en los plazos normativos establecidos para 
+ello. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Finalmente, los antecedentes requeridos en el literal b), deberían ser enviados a 
+más tardar el 19 de febrero de 2026, mediante carta y con copia al correo 
+electrónico verificación.SSCC@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+CRV/WJS/adr 
+c.c.: Sr. Felipe Fernández – Encargado Suplente Cóndor Energía SpA 

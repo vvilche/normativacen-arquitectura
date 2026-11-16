@@ -1,0 +1,88 @@
+ 
+Valparaíso, 22 de abril 2026 
+GDx-SGO-2026/184 
+ 
+ 
+ 
+Señor 
+Raicit Guevara Diaz. 
+Ingeniero de Análisis de la Operación 
+Coordinador Eléctrico Nacional 
+ 
+Av. Parque Isidora N°1601, Pudahuel 
+Santiago 
+ 
+ 
+ 
+ 
+De nuestra consideración, 
+ 
+En atención a su comunicación DE02647-26, de fecha 21 de abril de 2026, y en relación con 
+la carta DE02093-26, cuya respuesta no fue remitida oportunamente debido a una omisión 
+administrativa involuntaria, cumplimos con informar a usted lo siguiente: 
+ 
+1) Aclaración sobre el monto efectivo de consumos desprendidos en los 
+alimentadores de la S/E Nueva Panquehue, esto debido a que se indica en el 
+Informe de Falla de 5 días: “La información contenida en las tablas de 
+indisponibilidad, han sido elaboradas considerando la medición de los equipos de 
+medida dispuestos en las cabeceras de cada uno de los alimentadores asociados 
+al evento de referencia. De existir generación distribuida está considerada en esta 
+medida.”. Se comenta, para su consideración, que el monto representativo a 
+reportar por alimentador corresponde a la suma resultante de la medida de la 
+cabecera y el monto de generación inyectado por los PMGDs en el alimentador. 
+Efectivamente, los consumos informados son los correctos y corresponden al 
+balance entre los consumos en las cabeceras y los PMGD conectados. En este caso, 
+existen dos PMGD afectados por el evento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+2) Indicar sí existe generación de PMGDs en los alimentadores afectados, de ser el 
+caso, indicar potencia de cada uno al momento de la falla. La información deberá 
+ser enviada considerando la siguiente tabla:  
+ 
+Adjunto detalle de los PMGD involucrados: 
+ 
+PMGD 
+Alimentador S/E Nueva 
+Panquehue/paño 
+Potencia al 
+momento del 
+evento en MW 
+Proyecto 
+Fotovoltaico 
+Los 
+Pedreros Solar 
+Lo Campo/SE Nueva Panquehue/PA 
+S/E NUEVA PANQUEHUE C1 
+2,67 
+ 
+Cruz Solar I 
+Las 
+vertientes/SE 
+Nueva 
+Panquehue/PA 
+S/E 
+NUEVA 
+PANQUEHUE C2 
+2,65 
+ 
+Esperando que nuestra respuesta de cumplimiento a lo requerido. 
+ 
+Saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rosa Andrea Celis G. 
+Subgerente de Operación Distribución 
+

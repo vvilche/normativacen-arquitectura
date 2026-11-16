@@ -1,0 +1,224 @@
+ 
+ 
+ 
+125-2025 
+ 
+ 
+ 
+ 
+ 
+ 
+            Santiago, 16 de octubre de 2025 
+ 
+ 
+ 
+Señor 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercados  
+Coordinador Eléctrico Nacional 
+ 
+ 
+Ref.: Hace presente errores e inconsistencias en la actualización del Estudio de Costos de Desgaste de 
+SSCC - versión de 9 de octubre de 2025. 
+ 
+[1] Carta DE06409-25, emitida por el Coordinador Eléctrico Nacional, con fecha 09 de octubre 2025, 
+referente a “Actualización Informe definitivo Estudio de Costos de Desgaste de Servicios 
+Complementarios”. 
+ 
+ 
+De mi consideración:  
+ 
+Por medio de la presente, nos referimos a la actualización del Informe Definitivo del Estudio de Costos 
+de Desgaste de SSCC informado mediante la carta de Ref. [1]. 
+ 
+En este contexto, le informo que mi representada ha identificado ciertos errores e inconsistencias que 
+requieren revisión y corrección urgente, dado que los costos de desgaste establecidos en el Estudio de 
+Costos de Desgaste de SSCC tienen un impacto directo en los procesos de subasta que se están 
+llevando a cabo desde el 15 de octubre de 2025. Los errores e inconsistencias identificadas se detallan 
+a continuación: 
+ 
+1. Asignación de costo fijo para central TV carbón: De acuerdo a lo señalado el informe técnico 
+de “Actualización del Estudio de desgaste de SSCC del Sistema Eléctrico Nacional” (“Estudio 
+Costo Desgaste SSCC”), elaborado por GME, el estudio considera una corrección “de los 
+montos de inversión de unidades a carbón con el fin de representar adecuadamente este 
+tipo de tecnología”. Al respecto, el Estudio Costos Desgaste SSCC hace mención explícita al uso 
+de los siguientes documentos entregados por el Coordinador, para efectos de la referida 
+corrección: 
+ 
+a. Estudio de determinación de costo por tecnología de Generación – INODÚ – 2019. 
+b. Informe de Costo de tecnología de Generación – 2018 (Res-Ex.CNE-55-2018). 
+c. Informe de Costo de tecnología de Generación – 2017 (Res-Ext-N-69-ICTG-2017). 
+ 
+El estudio del literal a) no contempla costos de inversión para este tipo de tecnologías, sino que 
+analiza los costos de adaptación de unidades a carbón para una operación flexible. Por otra 
+parte, los informes de los literales b) y c) contienen efectivamente los costos de inversión 
+
+ 
+ 
+ 
+para centrales térmicas a carbón, estableciéndose un costo referencial de 3.000.000 
+US$/MW, según se puede ver en la Tabla 1. 
+ 
+Tecnología 
+Costo de Inversión 
+Referencial (US$/kW) 
+Térmica a Carbón 
+3.000 
+Térmica a Gas Natural (CA) 
+800 
+Térmica a Gas Natural (CC) 
+1.035 
+Térmica Diésel (GMG) 
+685 
+Eólica 
+1.365 
+Solar Fotovoltaica 
+970 
+Solar Térmica 
+7.930 
+Hidráulica de Embalse 
+2.200 
+Hidráulica de Pasada 
+4.050 
+Mini-Hidráulica 
+3.035 
+Térmica a Biomasa 
+3.100 
+Térmica a Biogas 
+3.500 
+Geotérmica 
+6.375 
+Tabla 1: Costos de Inversión Referencial (USD/k”) – Fuente: Informe CNE 2018. 
+ 
+Sin perjuicio de lo anterior, en la “planilla Costos VARIANTES CALCULOS”, la cual establece los 
+costos de desgaste por tecnología, se asigna a centrales TV-carbón un costo de inversión 
+de 816.000 US$/MW. Este valor es exactamente el costo de inversión asignado a las 
+turbinas a gas natural en ciclo abierto por la CNE en su Informe Anual de Costos de 
+Tecnologías de Generación de 2024, según se puede apreciar en la Tabla 2. 
+ 
+Tecnología 
+Costo de Inversión 
+Referencial (US$/kW) 
+Almacenamiento BESS @2-4 hrs 
+1.252 
+Almacenamiento BESS @4-6 hrs 
+1.556 
+Solar 
+771 
+Solar PMGD 
+941 
+Solar Térmica 
+6.381 
+Eólica 
+1.534 
+Geotérmica 
+5.291 
+Térmica a gas natural (CC) 
+1.086 
+Térmica a gas natural (CA) 
+816 
+Térmica a biomasa 
+3.885 
+Térmica a biogás 
+1.384 
+Térmica Diésel 
+487 
+Hidráulica de embalse 
+5.369 
+Hidro-Pasada 
+4.746 
+Mini Hidro-Pasada 
+2.274 
+Eólica + Almacenamiento @4-5 hrs/50%Pnom 
+1.727 
+
+ 
+ 
+ 
+Solar + Almacenamiento @2-4 hrs/70%Pnom 
+1.503 
+Solar + Almacenamiento @4-8 hrs/90%Pnom 
+1.762 
+Tabla 2: Costos de Inversión Referencial unitario (US$/kW) – Fuente: Informe CNE 2024. 
+ 
+De esta manera, si GME hubiera aplicado lo que indica su Estudio Costo Desgaste SSCC, 
+específicamente en la introducción, el costo de inversión a utilizar para la tecnología TV-
+carbón debió ser (nominalmente, sin llevarlo a valor presente) de 3.000.000 US$/MW. Cabe 
+mencionar que, para que exista una consistencia temporal con los costos de inversión del resto 
+de las tecnologías, las que se encuentran actualizadas al año 2024, el costo de inversión antes 
+indicado debe ser debidamente reajustado según indicadores como CPI, PPI, IPC, etc. 
+ 
+Es así que, en base a lo expuesto, se evidencia un error en la asignación de costos de 
+inversión para el caso de centrales TV-carbón, así como una inconsistencia en el propio 
+Estudio Costo Desgaste SSCC, lo cual debe ser corregido por este Coordinador. 
+ 
+2. Inconsistencia de costo fijo de central TV-carbón en relación a otras tecnologías: La Figura 
+1 presenta una comparación de los costos de inversión de diversas tecnologías, utilizadas en la 
+“planilla Costos VARIANTES CALCULOS”. En ella, se observa una contradicción significativa: 
+los costos de inversión asignados a las unidades de centrales TV-carbón son considerablemente 
+inferiores a los de tecnologías como Biomasa, motores de combustión interna (MCI), e incluso 
+que tecnologías renovables como plantas fotovoltaicas (FV) y plantas eólicas (EO).  
+ 
+Este resultado no es coherente y carece de fundamento lógico. De hecho, la tendencia de 
+reducción de precios de tecnologías como FV y EO es una de las principales ventajas que han 
+mostrado en los últimos años frente a tecnologías convencionales como el carbón, que no está 
+experimentando mejoras sustanciales en eficiencia ni disminución desde el punto de vista de sus 
+costos. 
+ 
+ 
+Figura 1: Costos de inversión por tecnología, utilizados en el cálculo de costos de desgaste 2025. 
+ $-
+ $1.000.000
+ $2.000.000
+ $3.000.000
+ $4.000.000
+ $5.000.000
+ $6.000.000
+ $7.000.000
+Costo de inversión (US$/MW)
+
+ 
+ 
+ 
+De esta manera, y dada la inconsistencia tecnológica desde el punto de vista de costos de 
+inversión, se solicita, en concordancia con el punto 1, corregir el costo de inversión para 
+el caso de centrales TV-carbón, según se dispone en la documentación citada en el 
+Estudio Costo Desgaste SSCC, y que fue entregada por el propio Coordinador a GME. 
+ 
+3. Criterio utilizado en el cálculo del factor de horas anuales activas: En la hoja "Factor horas 
+anuales activas" de la “Planilla Costos VARIANTES CALCULOS” se observa que, para un 
+conjunto de 19 centrales de diversas tecnologías, se obtiene un coeficiente que representa el 
+tiempo de activación para cada tipo de control de frecuencia. Este coeficiente es único y se 
+calcula mediante un promedio simple, sin considerar diferencias entre tecnologías. 
+ 
+Esta simplificación resulta insuficiente y no refleja de manera precisa la variabilidad 
+inherente entre las distintas tecnologías evaluadas a lo largo de los 30 meses analizados. 
+Aunque algunas tecnologías pueden contar con una base de datos limitada en cuanto a la 
+prestación de servicios de control de frecuencia, es precisamente en estos casos donde un 
+promedio agregado entre tecnologías podría ser útil. Sin embargo, este enfoque no debe 
+aplicarse de manera generalizada a todas las tecnologías, ya que se distorsiona, 
+precisamente, el tiempo de activación propio de algunas tecnologías que si cuenta con 
+sustento técnico probado en la operación. 
+ 
+Por lo tanto, se solicita recalcular y utilizar un coeficiente específico para cada tipo de 
+tecnología tomando centrales que efectivamente presten el servicio, ya que el criterio actual 
+no es suficientemente representativo ni ajustado a la diversidad de las tecnologías evaluadas. 
+ 
+En relación a los antecedentes antes indicados, solicito respetuosamente a Ud. emitir una nueva versión 
+del Estudio de Costos de Desgaste de SSCC en el cual se corrijan los errores e inconsistencias 
+identificados en esta presentación. Asimismo, solicito que los resultados de esta actualización sean 
+considerados en el proceso de programación más próximo. Esta presentación se efectúa con el objeto 
+de corregir errores manifiestos en un insumo esencial del Estudio Costo Desgaste SSCC, de 
+conformidad con los principios de juridicidad, transparencia y corrección. 
+ 
+Sin otro particular, y esperando una favorable acogida, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sergio Pizarro G.  
+Encargado Suplente 
+Guacolda Energía SpA 
+ 

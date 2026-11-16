@@ -1,0 +1,50 @@
+ 
+ 
+N ° 1580213                                                                    Santiago, 12 de marzo de 2026 
+ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional. 
+ 
+PRESENTE  
+ 
+REF.: [1] Carta CEN DE08604-25 
+[2] Carta Respuesta STS N ° 157972 
+ [3] Carta CEN DE05021-25 
+[4] Carta Respuesta STS N ° 1574949 
+EAF 320/2025 y EAF 321/2025: Aperturas 
+intempestivas del interruptor 52CT1 de  
+S/E Masisa  
+ 
+ 
+De nuestra consideración: 
+ 
+En relación con la comunicación citada, asociada al evento ocurrido con fecha 10 de julio de 
+2025, y de acuerdo con el Plan de Acción comprometido, se remite la siguiente información 
+para su revisión y posterior implementación: 
+ 
+• 
+Se adjunta el Estudio de Coordinación y Ajuste de Protecciones (ECAP) de la S/E 
+MASISA. Este análisis técnico propone adecuaciones en los ajustes de protecciones, 
+con el objetivo de asegurar la correcta coordinación ante eventos de características 
+similares, resguardando en todo momento la integridad operativa y la seguridad de 
+los activos. 
+ 
+Enlace de acceso al estudio: ECAP MASISA. 
+ 
+Agradeceremos remitir su aprobación u observaciones a Gerardo Herreros Alarcón, Jefe del 
+Área de Control y Protecciones del Sistema de Transmisión del Sur S.A., al correo 
+electrónico gerardo.herreros@saesa.cl, con el fin de implementar oportunamente los ajustes 
+propuestos. 
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+Gerardo Herreros A. 
+Jefe de Área Control y Protecciones 
+Sistema de Transmisión del Sur S.A. 

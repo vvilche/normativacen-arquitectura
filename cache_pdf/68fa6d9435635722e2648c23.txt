@@ -1,0 +1,93 @@
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Santiago, 22 de octubre de 2025 
+OP 285-25 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA CARTA DE06386-25 SOBRE PROCESO DE VERIFICACIÓN DEL 
+SERVICIO COMPLEMENTARIO (SC) DE CONTROL SECUNDARIO DE 
+FRECUENCIA (CSF) 
+REF [1]:  
+CARTA 
+DE06386-25: 
+PROCESO 
+DE 
+VERIFICACIÓN 
+DEL 
+SERVICIO 
+COMPLEMENTARIO (SC) DE CONTROL SECUNDARIO DE FRECUENCIA (CSF) 
+ 
+ 
+De nuestra consideración,  
+ 
+En relación con la materia señalada en la referencia y en el contexto del proceso de 
+verificación del Servicio Complementario de Control Secundario de Frecuencia (CSF) 
+mediante el sistema AGC y su integración al Despacho Económico (DE), para las 
+instalaciones de generación de mi representada indicadas en el anexo de su comunicación, 
+se exponen las siguientes consideraciones: 
+1. Dado que actualmente se están desarrollando en paralelo los sistemas AGC y SCED, 
+resulta necesario planificar, dentro de un horizonte de mediano plazo, las actividades 
+que permitan la integración de ambas plataformas. Cabe señalar, además, que la 
+plataforma SCED, destinada al control de las plantas de tecnología fotovoltaica, eólica 
+y BESS, aún no se encuentra completamente implementada, lo que impide la 
+verificación de dichas tecnologías en esta etapa. 
+2. Es importante destacar que, durante el año 2015, el entonces CDEC-SIC efectuó 
+estudios detallados sobre el comportamiento y las capacidades de control del CSF en 
+la flota de generación existente. Dichos análisis sugieren que algunas de las plantas 
+señaladas en el anexo de su comunicación —y otras incluidas en el programa general 
+de certificación— fueron descartadas para prestar el SSCC de CSF desde el Control 
+Automático de Generación (AGC). 
+
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+3. Respecto del resto de las instalaciones de mi representada, existen diversas 
+consideraciones que es necesario detallar. En algunos casos, al no haberse emitido 
+instrucción de habilitación, la participación en dicho servicio requeriría inversiones 
+adicionales en los sistemas de control y comunicación. En otros casos, como se 
+mencionó previamente, es indispensable completar la implementación de la 
+plataforma SCED, la cual permitirá la integración plena con el sistema de control. 
+Finalmente, en el caso de algunas plantas de mayor antigüedad, y considerando los 
+antecedentes obtenidos en la verificación realizada en 2015, es probable que lo más 
+recomendable sea descartar su incorporación al servicio complementario en 
+cuestión, atendiendo a sus limitaciones técnicas y a los costos asociados a su 
+adecuación. 
+ 
+4. Debido a las dudas expuestas en la presente comunicación, le solicitamos 
+respetuosamente nos pueda conceder una reunión para evaluar la mejor estrategia para 
+poder cumplir con la solicitud indicada en la carta de la REF [1]. 
+ 
+5.  Por último, le solicitamos indicarnos y confirmar que las plantas que ya prestan el 
+servicio complementario de AGC en la operación en tiempo real, no necesitan de 
+certificaciones adicionales. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+____________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+cc: dmap@coordinador.cl 

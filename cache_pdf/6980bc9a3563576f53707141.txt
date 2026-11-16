@@ -1,0 +1,134 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 02 de febrero de 2026 
+ 
+    
+DE 00732-26 
+Señores  
+Encargados  
+Empresas Coordinadas  
+Presente 
+Ref.: Acepta Potencia Máxima del Sistema 
+de Almacenamiento de Energía BESS 
+Tocopilla. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Potencia Máxima del Sistema de Almacenamiento de Energía BESS Tocopilla, en 
+conformidad con el Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+mencionado, publicado en la página web del Coordinador mediante la comunicación de la 
+Ref. [2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+en asunto. 
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima del Sistema de 
+Almacenamiento de Energía BESS Tocopilla se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima Sistema de Almacenamiento BESS Tocopilla. 
+Instalación 
+Modo de 
+Operación 
+Tiempo 
+Carga/Descarga 
+[hr] 
+Potencia 
+Máxima 
+Bruta 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en 
+la 
+instalación(1) 
+[MW] 
+Potencia 
+Máxima 
+Neta(2) 
+[MW] 
+Sistema de 
+Almacenamiento 
+BESS Tocopilla 
+Carga 
+5,1670 
+114,3982 
+0,2097 
+2,0741 
+116,6820 
+Descarga 
+5,1500 
+119,5214 
+0,2097 
+2,7027 
+116,6090 
+(1) Las pérdidas en la instalación corresponden a la suma de las pérdidas en el transformador 
+de potencia de la SE Tocopilla a 110 kV y las pérdidas en el sistema colector de la central 
+(transformadores de bloque de los inversores + circuito colector de MT). 
+(2) Medido en barra 110 kV de la S/E Tocopilla. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del 4 de febrero de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra disponible en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > BESS Tocopilla > 
+2026 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GZV/CRV/PPF/PCG/adr 
+ 
+Referencias 
+ 
+[1] Carta N°374/2025 del coordinado Engie Energía Chile S.A., Ref.: “Envía actualización 
+de informe de Potencia Máxima del Proyecto NUP 4832 BESS Tocopilla”, de fecha 23 de 
+diciembre de 2025. Ingreso DE12544-25. 
+ 
+[2] Carta DE00137-26, Ref.: “Informes Técnicos de Parámetros Operacionales de la Central 
+BESS Tocopilla”, de fecha 8 de enero de 2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

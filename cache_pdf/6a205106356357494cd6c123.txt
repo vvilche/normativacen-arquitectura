@@ -1,0 +1,193 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+Santiago, 02 de junio de 2025 
+ 
+SDD202615 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a Carta DE 03429-26 – Proceso 
+de 
+Verificación 
+CSF-AGC 
+e 
+integración 
+AGC/ED  
+  
+De nuestra consideración:  
+  
+En atención a la carta de la referencia, mediante la cual se solicita informar el estado de 
+avance del proceso de verificación del Servicio Complementario de Control Secundario 
+de Frecuencia (CSF-AGC) y la integración al sistema de Despacho Económico (ED), junto 
+con el respectivo cronograma de trabajo, por medio de la presente informamos lo 
+siguiente:  
+ 
+1. Estado de Implementación de Señales SITR / AGC 
+ 
+PFV Sol del Desierto ha completado la implementación de los puntos de integración 
+requeridos para la prestación del servicio complementario de CSF vía AGC. Al respecto, 
+comunicamos el siguiente estado de avance por etapas: 
+  
+Los enlaces requeridos han sido implementados en las instalaciones de PFV Sol del 
+Desierto. Se ha procedido al envío de la planilla con los parámetros IEC 104 
+correspondientes a cada variable al Departamento SCADA del CEN, con lo cual se da por 
+completada la etapa de implementación de señales. 
+ 
+Las pruebas punto a punto sobre los enlaces implementados, para verificar la integración 
+al SITR y la correspondiente recepción de señales por parte del Coordinador, están siendo 
+coordinadas con el Departamento SCADA. 
+ 
+Una vez aprobadas las pruebas punto a punto SITR, se procederá a coordinar las pruebas 
+funcionales de integración al Despacho Económico vía AGC (CSF) con el Departamento 
+de Modelación y Aplicaciones EMS (DMAP), según disponibilidad, con plazo estimado 
+para la última semana de junio de 2026. 
+ 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+A continuación, se presenta el cronograma de trabajo con hitos y plazos específicos para 
+la implementación e integración de PFV Sol del Desierto al AGC/ED, considerando como 
+plazo máximo el mes de noviembre de 2026, de acuerdo con lo requerido: 
+  
+2. Cronograma de Trabajo 
+ 
+Etapa 
+Descripción 
+Fecha 
+Responsable 
+Estado 
+1. Implementación 
+de señales SITR 
+Implementación de 
+puntos IEC 104 y 
+envío de planilla de 
+parámetros al Dpto. 
+SCADA del CEN 
+Mayo 
+2026 
+Parque Solar 
+Fotovoltaico Sol del 
+Desierto SpA / Dpto 
+SCADA CEN 
+✓ Completado 
+2. Pruebas punto a 
+punto SITR 
+Coordinación y 
+ejecución de 
+pruebas punto a 
+punto con el Dpto. 
+SCADA del CEN para 
+verificar integración 
+al SITR y recepción 
+de señales 
+Junio 
+2026 
+Parque Solar 
+Fotovoltaico Sol del 
+Desierto SpA / 
+Dpto. SCADA CEN 
+En coordinación 
+3. Aprobación 
+pruebas internas 
+SITR 
+Revisión y validación 
+interna de resultados 
+de pruebas punto a 
+punto. 
+Junio 
+2026 
+ 
+Dpto. SCADA CEN 
+Pendiente 
+4. Coordinación 
+pruebas CSF-AGC 
+con DMAP 
+Coordinación con el 
+Dpto. de Modelación 
+y Aplicaciones EMS 
+(DMAP) para 
+programar pruebas 
+funcionales de 
+integración al 
+Despacho 
+Económico vía AGC 
+(CSF) 
+Junio 
+2026 
+ 
+Parque Solar 
+Fotovoltaico Sol del 
+Desierto SpA / 
+DMAP CEN 
+Pendiente 
+5. Ejecución 
+pruebas CSF-AGC 
+/ ED 
+Ejecución de 
+pruebas funcionales 
+de integración al 
+servicio CSF y al 
+módulo de 
+Despacho 
+Económico (ED) vía 
+AGC, conforme a lo 
+Julio 
+2026 
+Parque Solar 
+Fotovoltaico Sol del 
+Desierto SpA / 
+DMAP CEN 
+Pendiente 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+indicado en Anexo 2 
+de carta DE01003-26 
+6. Revisión y 
+aprobación CEN 
+Revisión de 
+resultados por parte 
+del CEN y 
+aprobación formal 
+de la integración al 
+AGC/ED.  
+Julio 
+2026 
+DMAP CEN 
+Pendiente 
+  
+Nota: Los plazos indicados para las etapas 2 en adelante son de carácter preliminar y 
+sujetos a confirmación con los departamentos del CEN correspondientes. La empresa se 
+compromete a dar cumplimiento al cronograma dentro del plazo máximo de julio de 2026 
+establecido al CEN. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Moraga 
+Encargado Titular 
+Parque Solar Fotovoltaico Sol del Desierto SpA 

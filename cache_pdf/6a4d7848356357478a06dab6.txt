@@ -1,0 +1,116 @@
+ 
+Osorno, 07 de Julio de 2026 
+N° 1585772 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+COORDINADOR ELÉCTRICO NACIONAL 
+Presente 
+ 
+REF.: 1) Envía informes de protocolos tipo por verificación 
+de servicios complementarios en subestación Pilauco. 
+2) Carta STS DE 02181-25, Observaciones al Protocolo 
+de Verificación de SSCC de EV de S/E Pilauco, Paños B1, 
+B2, B3, B4 y B5. 
+ 
+De nuestra consideración: 
+ 
+En el contexto de la referencia y en relación con la atención de las observaciones 
+formuladas a los protocolos tipo de los equipos de vinculación de la Subestación 
+Pilauco, en el marco de la auditoría de los Servicios Complementarios de SS/EE, y 
+conforme a lo señalado en la carta DE02181-25, mediante la cual se dio respuesta al 
+ingreso DE02391-25, hacemos envío de la nueva versión de los protocolos tipo 
+correspondientes a los paños ECE1, B1, B2, B3, B4 y B5 de la Subestación Pilauco. 
+ 
+Sin otro particular. 
+ 
+Saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marcelo E. Torres Vidal 
+Jefe Área Mantenimiento Mayor Tx 
+SISTEMA DE TRANSMISIÓN DEL SUR S. A. 
+ 
+ 
+
+ 
+Anexos:  
+ 
+1. A esta carta se adjunta: 
+ 
+• 
+EN231904.1_PEP_SSCC_CT_SE Ancud_ECE1_Rev 
+• 
+EN231904.1_PEP_SSCC_EV_SE Pilauco_B1_Rev.1 
+• 
+EN231904.1_PEP_SSCC_EV_SE Pilauco_B2_Rev.1 
+• 
+EN231904.1_PEP_SSCC_EV_SE Pilauco_B3_Rev.1 
+• 
+EN231904.1_PEP_SSCC_EV_SE Pilauco_B4_Rev.1 
+• 
+EN231904.1_PEP_SSCC_EV_SE Pilauco_B5_Rev.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Referencias: 
+ 
+1. Carta N° DE02181-25 del Coordinador Eléctrico Nacional, Ref.: “Observaciones al 
+Protocolo de Verificación de SSCC de EV de S/E Pilauco, Paños B1, B2, B3, B4 y B5”, de 
+fecha 11 de abril de 2025. Responde a Ingresos DE02391-25, (S/E Pilauco). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

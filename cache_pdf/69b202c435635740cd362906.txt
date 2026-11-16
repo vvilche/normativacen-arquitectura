@@ -1,0 +1,97 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 11 de marzo de 2026 
+DE 01655-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de los Parámetros de Potencia 
+Máxima de Central PE San Matías. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en los Artículos 24 y 39 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Potencia Máxima de la Central PE San Matías, en conformidad con el Informe 
+Técnico final recibido mediante la comunicación de la Ref. [1]. 
+ 
+Se deja constancia que en el plazo establecido por el Artículo 23 del Anexo Técnico en 
+aplicación, no se recibieron observaciones de Coordinado alguno al Informe Técnico 
+indicado, publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador realizó observaciones de carácter técnico mediante 
+comunicación de la Ref. [3], las cuales fueron subsanadas por el Coordinado Energía Eólica 
+San Matías SpA.  
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PE San 
+Matías se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PE San Matías. 
+Central/Unidad 
+Potencia 
+Máxima Bruta 
+[MW] 
+SS. AA 
+[MW] 
+Pérdidas en la 
+central (1) 
+[MW] 
+Potencia 
+Máxima Neta (2) 
+[MW] 
+PE San Matías 
+81,9883 
+0,3151 
+2,2403 
+79,4329 
+(1) Corresponde a las pérdidas en el sistema colector en media tensión (2,0500 MW) y del transformador de 
+poder (0,1903 MW). 
+(2) Potencia inyectada en la barra de 220 kV de S/E Campo Lindo. 
+ 
+Al respecto, comunico a Ud., que los parámetros de potencia máxima de la Central PE San 
+Matías, entrarán en vigencia a partir de las 00:00 horas del 17 de marzo de 2026 
+ 
+El informe técnico final que contiene la justificación de los parámetros indicados 
+anteriormente puede ser descargado en la siguiente ruta del sitio web del Coordinador 
+Eléctrico Nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación> Parámetros Operacionales de 
+Unidades Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > Central 
+PE San Matías > 2026 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+CRV/PPF/RSM/adr 
+ 
+ 
+Referencias 
+ 
+[1] Carta MAT 0007-2026, Ref.: “Envío de informes de Parámetros Operacionales”, de fecha 
+27 de febrero de 2026. Ingreso DE01941-26.  
+ 
+[2] Carta DE06353-25, Ref.: “[NUP 3182] Informes Técnicos de Parámetros Operacionales 
+de la central PE San Matías - Etapa 2”, de fecha 09 octubre 2025. 
+ 
+[3] Carta DE00229-26, Ref.: “Observaciones a los Parámetros Operacionales de la central 
+PE San Matías”, de fecha 14 de enero de 2026. 
+ 

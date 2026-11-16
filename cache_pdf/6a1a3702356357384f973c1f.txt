@@ -1,0 +1,153 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+Santiago, 29 de mayo de 2026 
+DE 03610-26 
+ 
+ 
+Señor 
+Eduardo Verdugo C. 
+Encargado Titular 
+AES Andes S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio 
+Complementario 
+de 
+Plan 
+de 
+Recuperación del Servicio - Equipamiento de 
+Vinculación (PRS-EV) de S/E Laberinto, propiedad 
+de AES Andes S.A. 
+ 
+[1] Carta AES 0060-2026 de AES Andes S.A., 
+Ref.: “Envío de informe de verificación de 
+Servicios Complementarios”, de fecha 13 de mayo 
+de 2026. 
+Responde Ingreso DE04641-26. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado 
+el proceso de verificación del Servicio Complementario (SC) del Plan de Recuperación del 
+Servicio - Equipamiento de Vinculación (PRS-EV) de S/E Laberinto, propiedad de AES 
+Andes S.A. 
+ 
+Como resultado de este proceso, las instalaciones indicadas quedan habilitadas para la 
+prestación del mencionado servicio complementario, mediante los recursos técnicos 
+identificados en el Anexo 1 de la presente carta. 
+ 
+El informe técnico que justifica la verificación de la capacidad de prestación del 
+equipamiento de vinculación de las instalaciones mencionadas se encuentra publicado en el 
+sitio web del Coordinador en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Transmisión > Plan de 
+Recuperación del Servicio > Equipamiento de Vinculación > S/E Laberinto 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+PVV/CRV/PBA/PCG/ycl 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+Anexo 1: Resultados Proceso de Verificación Equipamiento de Vinculación del 
+Coordinado AES Andes S.A. 
+1. Identificación de Instalaciones Verificadas 
+a) Paño J05L S/E Laberinto 
+2. Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Plan de Recuperación de 
+Servicio (PRS) 
+Equipamiento de Vinculación 
+(EV) 
+Equipamiento de Vinculación 
+(EV) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+A continuación, se resumen las condiciones de cierre que puede llevar a cabo el equipo de 
+vinculación: barra viva – línea muerta (BV – LM) y barra muerta – línea viva (BM – LV) o 
+barra muerta – línea muerta (BM – LM): 
+ 
+N° Paño Subestación 
+Equipo 
+BV – LM 
+BM – LV 
+BM-LM 
+1 
+J05L 
+Laberinto 
+Siemens Siprotec 7SA612 
+Sí 
+Sí 
+Sí 
+4. La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado AES Andes S.A. para sus 
+instalaciones asociadas a la S/E Laberinto. 
+5. Cuantía del recurso que puede prestar la instalación por Servicio Complementario, 
+categorías y subcategorías. 
+Se verifica en cada equipo la posibilidad de ejecutar la condición de cierre Barra Viva – 
+Línea Viva (BV-LV), permitiendo vincular islas eléctricas, una vez que se satisfacen las 
+condiciones de sincronismo ajustadas en cada equipo de sincronización: 
+ 
+Paño 
+Subestación 
+Máxima diferencia 
+de tensión1 
+Máxima diferencia 
+angular 
+Máxima diferencia 
+de frecuencia 
+J05L 
+Laberinto 
+20 [kV] 
+25° 
+0,10 [Hz] 
+ 
+Los ajustes de tensión actualmente configurados para la condición BV-LV consideran un 
+umbral máximo de 220 kV y un umbral mínimo de 100 kV. Estos valores corresponden a los 
+ajustes vigentes al momento de la verificación y permiten validar el correcto funcionamiento 
+del relé bajo la configuración actual, la cual puede ser modificada en futuras actualizaciones, 
+de acuerdo con los requerimientos operacionales del sistema. 
+ 
+El cargador y banco de baterías de respaldo al sistema de control de accionamiento 
+(corriente continua) del equipamiento de vinculación descrito son propiedad de AES Andes 
+S.A. Estos tienen el objetivo de alimentar la totalidad de paños que prestan el Servicio 
+Complementario PRS-EV para la S/E Laberinto. A continuación, se indican las horas de 
+autonomía y la magnitud de corriente continua con la que se chequea esta duración. 
+ 
+ 
+ 
+1 Tensión nominal 220 kV.  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile, Teléfono: (562) 2424 6300 
+ www.coordinador.cl 
+ 
+ 
+Subestación 
+Banco de Baterías 
+Marca y modelo 
+Autonomía 
+Laberinto 
+Banco de Baterías N°1 
+Eternity / 5 OPzV-ET 
+350 
+8 horas @ 52,5 [A] 
+Laberinto 
+Banco de Baterías N°2 
+Eternity / 5 OPzV-ET 
+350 
+8 horas @ 52,5 [A] 
+ 

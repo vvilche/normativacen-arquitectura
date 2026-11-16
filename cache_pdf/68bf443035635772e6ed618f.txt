@@ -1,0 +1,217 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 08 de septiembre de 2025 
+DE 05644-25 
+Señor 
+Pablo Marcos 
+Encargado Titular 
+Cóndor Energía SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario de Control Terciario de 
+Frecuencia de la Central PE Tchamma. 
+[1] Carta CH199-2024 del Coordinado Condor Energía 
+SpA, Ref.: “Informe de verificación del Control Terciario 
+de Frecuencia del PE Tchamma.” de fecha 23 de julio 
+de 2024. Responde a Ingreso DE04334-24. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación de los SSCC de Control Terciario de Frecuencia (CTF) 
+de la Central PE Tchamma. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del día 11 de septiembre de 2025, 
+considerando los recursos indicados en el anexo a la presente carta. 
+ 
+Al respecto, en el anexo a la presente comunicación se presenta la información indicada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación de los SSCC de la central mencionada se encuentran publicados en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación >  
+ 
+1. Control de Frecuencia > Control Terciario de Frecuencia > Central PE 
+Tchamma 
+Finalmente, la Central PE Tchamma podrá participar de las subastas de CTF una vez que 
+complete el proceso de solicitud de incorporación a la plataforma de subastas. Para ello, su 
+representada deberá presentar los antecedentes indicados en las Bases Administrativas de 
+Subastas para Control de Frecuencia, que se encuentran publicadas en la siguiente ruta de 
+la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin perjuicio de lo anterior, la centran en asunto podrá ser instruida de manera directa por 
+el Coordinador Eléctrico Nacional en la prestación del Control Terciario de Frecuencia. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DIR/WJS/adr 
+c.c.:  
+Sr. Felipe Fernández. – Encargado Suplente Cóndor Energía SpA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PE Tchamma. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE Tchamma  
+• 
+Potencia máxima bruta 174,063 MW 
+• 
+Potencia máxima neta 171,777 MW 
+• 
+Potencia mínima bruta 0,548 MW 
+• 
+Potencia mínima neta 0 MW 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia 
+Control Terciario de 
+Frecuencia (CTF)  
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia: 
+Sin condiciones especificas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Cóndor Energía SpA 
+para su Central PE Tchamma. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tabla en la página siguiente. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+PE Tchamma 
+Eólico 
+Tasa normal de 
+operación [MW/min] 
+Subida 
+34,98 
+Bajada 
+34,98 
+Tasa máxima de 
+operación [MW/min] 
+Subida 
+122,46 
+Bajada 
+122,46 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5,00 
+Bajada 
+<5,00 
+Aporte CTF [MW] (1) 
+Subida 
+171,777 
+Bajada 
+-171,777 
+Límite de regulación superior [MW] (2) 
+174,063 
+Límite de regulación inferior [MW] (2) 
+0,548 
+(1) La reserva se determina como la diferencia entre las potencias netas máximas y mínima de la central 
+correspondientes a 171,777 MW y 0 MW respectivamente. 
+(2) Los límites de regulación, correspondientes a la potencia bruta, y el aporte máximo de CTF podrán verse modificados 
+si se actualizan los parámetros operacionales de la central PE Tchamma. 
+ 
+ 
+ 

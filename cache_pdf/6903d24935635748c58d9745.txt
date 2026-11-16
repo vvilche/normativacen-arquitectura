@@ -1,0 +1,162 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 30 de octubre de 2025 
+DE 06986-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de Parámetros de Partida y 
+Detención de la Central PFV Finis Terrae. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros de Partida y Detención de Unidades Generadoras” de la Norma Técnica de 
+Seguridad y Calidad de Servicio, comunico a Ud. La aceptación por parte del Coordinador 
+Eléctrico Nacional de los Parámetros de Partida y Detención de la Central PFV Finis Terrae, 
+en conformidad con el Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja en constancia que en el plazo establecido por el Artículo 11 del 
+Anexo Técnico en aplicación no se recibieron observaciones de coordinado alguno al 
+informe indicado, publicado en la página web del Coordinador mediante la comunicación de 
+la Ref. [2]. Por su parte, este Coordinador efectuó observaciones de carácter técnico 
+mediante la comunicación de la Ref. [3] al informe técnico antes mencionado, las cuales 
+fueron subsanadas por el coordinado Enel Green Power Chile S.A. 
+ 
+Conforme con lo anterior, los valores de Parámetros de Partida y Detención de la Central 
+PFV Finis Terrae se presentan en las tablas contenidas en el Anexo de la presente carta. 
+ 
+En cumplimiento del Artículo 13 del Anexo Técnico en mención, los parámetros para los 
+procesos de Partida y Detención mencionados entrarán en vigencia a partir de las 00:00 
+horas del 05 de noviembre de 2025. 
+ 
+El informe de Parámetros de Partida y Detención que contiene la justificación de los 
+parámetros indicados anteriormente puede ser descargado en la siguiente ruta de la página 
+del Coordinador Eléctrico nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Parámetros de Partida y Detención > Informes de Determinación de 
+Parámetros de Partida y Detención > Central PFV Finis Terrae 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/SGM/RSM/adr 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Referencias 
+ 
+[1] Carta EGP 036-23 del Coordinado Enel Green Power Chile S.A., Ref.: “Parámetros 
+Procesos de Partida y Detención Parque Fotovoltaico Finis Terrae Extensión (NUP 1755 y 
+NUP 2093)”, de fecha 10 de mayo de 2023. Ingreso DE02791-23 
+ 
+[2] Carta DE02201-23, Ref.: “Informe de Parámetros de Partida y Detención de la Central 
+PFV Finis Terrae, del Coordinado Enel Green Power Chile S.A.”, de fecha 22 de mayo de 
+2023. 
+ 
+[3]Carta DE04293-23, Ref.: “Observaciones al Informe de Parámetros de Partida y 
+Detención de Central PFV Finis Terrae, del Coordinado Enel Green Power Chile S.A.”, de 
+fecha 15 de septiembre de 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central PFV Finis 
+Terrae 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PFV Finis Terrae (1) 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – 
+Sincronización 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización – 
+Mínimo Técnico 
+Consumo SSAA [MWh] 
+0,0000 
+0,0235 
+Tiempo [minutos] 
+0,1333 
+2,0000 
+Mínimo Técnico – 
+Potencia Nominal 
+Consumo SSAA [MWh] 
+0,0000 
+0,0925 
+Tiempo [minutos] 
+0,2217 
+7,8667 
+(1) Los valores de potencia máxima y mínima neta de la Central PFV Finis Terrae son de 
+241,3940 MW y 5,5000 MW respectivamente.  
+ 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PFV Finis Terrae 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia Nominal – 
+Mínimo Técnico  
+Consumo SSAA [MWh] 
+0,0000 
+0,0925 
+Tiempo [minutos] 
+0,0150 
+7,8667 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA [MWh] 
+0,0000 
+0,0078 
+Tiempo [minutos] 
+0,0000 
+0,6667 
+Desconexión – 
+Detención 
+Consumo SSAA [MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+Nota: El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo de Detención 
+(TMD) son 0 [min]. 
+ 

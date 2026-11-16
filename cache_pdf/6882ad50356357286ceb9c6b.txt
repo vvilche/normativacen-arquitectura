@@ -1,0 +1,96 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl  
+ 
+Santiago, 24 de julio de 2025 
+ 
+    
+DE 04545-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación Potencia Máxima de la Central PFV 
+North West. 
+[1] Carta FPS-001_North West_FPSCEN-0034-L del 
+coordinado Fontus Prime Solar SpA, Ref.: “Informe de 
+Potencia Máxima en Unidad Generadoras Proyecto 
+NUP 1431 North West”, de fecha 19 de diciembre de 
+2023.” Ingreso DE07595-23. 
+[2] Carta DE00241-24, Ref.: “Informe Técnico de 
+Potencia Máxima de la Central PFV North West”, del 
+coordinado Fontus Prime Solar SpA., de fecha 12 de 
+enero de 2024. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Potencia Máxima de la Central PFV North West, en conformidad con el Informe 
+Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+publicado en la página web del Coordinador mediante la comunicación de la Ref. [2]. Por 
+su parte, el Coordinador no tiene observaciones de carácter técnico al informe mencionado. 
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PFV 
+North West se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV North West 
+Central 
+Potencia Máxima 
+Bruta 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en la 
+central (1) 
+[MW] 
+Potencia Máxima 
+Neta (2) 
+[MW] 
+PFV North West 
+9,0923 
+0,0190 
+0,0733 
+9,0000 
+(1) Las pérdidas corresponden a la red colectora (0,0733 MW) y las pérdidas en el transformador principal 
+son consideradas como 0 MW, ya que la central se conecta directamente a la barra de 23 kV de la S/E 
+Pajonales. 
+(2) Inyectada en la barra de 23 kV de la S/E Pajonales. 
+ 
+Cabe destacar que esta unidad generadora, por ser PMG, tiene configurado su sistema 
+PPC de manera tal que limita la Potencia Máxima Neta a 9 MW. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del día 29 de julio de 2025. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl  
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Documentos > Potencia Máxima > Pruebas de Potencia Máxima > 
+Central PFV North West > 2025 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GZV/SGM/DIR/adr 
+ 
+ 

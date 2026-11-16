@@ -1,0 +1,654 @@
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+ 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+ 
+Carta ENLI-42-26 
+Santiago, 29 de Enero de 2026 
+ 
+ 
+Por medio de la presente, nos dirigimos a usted para solicitar la revisión y aprobación del Plan de 
+Mantenimiento Mayor correspondiente a la central generadora PFV LA HUAYCA para el período 
+comprendido entre los meses de Abril 2026 y Marzo 2028 
+ 
+Se adjunta a esta carta la documentación requerida, incluyendo el detalle técnico del plan, cronograma 
+propuesto, justificación técnica y los antecedentes necesarios para la evaluación por parte del 
+Coordinador Eléctrico Nacional. 
+ 
+Agradecemos la atención prestada y quedamos atentos a cualquier comentario, observación o 
+antecedente adicional que se estime necesario para la tramitación de esta solicitud. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+______________________________ 
+Mauricio Ortuondo 
+Encargado Suplente 
+ENLIGHT INVESTMENTS SpA 
+ 
+ 
+ 
+ 
+ 
+Señor 
+Ernesto Huber 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref 1 :  Solicitud de aprobación Actividades 
+Programa Mantenimiento Mayor período 
+Abril 2026 – Marzo 2028 
+Ref 2 : Respuesta a carta DE00138-26 
+Elaboración del Programa Preliminar de 
+Mantenimiento Preventivo Mayor 2026-2028 
+PFV LA HUAYCA 
+ 
+ 
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+ 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+ 
+2026 
+2027 
+2028 
+ENERO 
+  
+  
+  
+FEBRERO  
+  
+INSPECCION H 
+  
+MARZO 
+  
+  
+  
+ABRIL 
+INSPECCION G 
+  
+  
+MAYO 
+  
+  
+  
+JUNIO 
+  
+  
+  
+JULIO 
+  
+  
+  
+AGOSTO 
+INSPECCION C 
+INSPECCION C 
+  
+SEPTIEMBRE 
+  
+  
+  
+OCTUBRE 
+  
+  
+  
+NOVIEMBRE 
+INSPECCION D 
+  
+  
+DICIEMBRE 
+  
+  
+  
+ 
+2026 
+2027 
+2028 
+ENERO 
+  
+  
+  
+FEBRERO  
+  
+Miercoles 10 de Febrero 
+  
+MARZO 
+  
+  
+  
+ABRIL 
+Miercoles 15 de Abril 
+  
+  
+MAYO 
+  
+  
+  
+JUNIO 
+  
+  
+  
+JULIO 
+  
+  
+  
+AGOSTO 
+Miercoles 12 de Agosto 
+Miercoles 11 de Agosto 
+  
+SEPTIEMBRE 
+  
+  
+  
+OCTUBRE 
+  
+  
+  
+NOVIEMBRE 
+Miercoles 11 de Noviembre 
+  
+  
+DICIEMBRE 
+  
+  
+  
+ 
+ 
+ 
+- 
+Considerar horarios de solicitud de desconexión entre 08 y 20 hrs para cada fecha programada inspecciones C, 
+D y G 
+- 
+Considerar 3 días de desconexión para inspección H (Mantenimiento TABS Transformador + Limpieza Línea 66 
+kV S/E La Huayca- S/E Tap-Off Tamarugal) 
+ 
+ 
+ 
+ 
+
+NM
+Instalación a Intervenir
+Descripción General del Trabajo a realizar
+Número 
+total de días
+Fecha de Inicio
+Fecha de Término
+Fecha de Inicio 
+Alternativo
+Fecha de Término 
+Alternativo
+Indicar tipo de solicitud
+Justificación
+Postergable o 
+Impostergable
+1
+PFV LA HUAYCA II
+1
+15-04-2026 8:00
+15-04-2026 20:00
+22-04-2026 8:00
+22-04-2026 20:00
+DESCONEXION
+POSTERGABLE
+2
+S/E LA HUAYCA II
+1
+15-04-2026 8:00
+15-04-2026 20:00
+22-04-2026 8:00
+22-04-2026 20:00
+DESCONEXION
+POSTERGABLE
+3
+S/E TAP OFF TAMARUGAL
+1
+15-04-2026 8:00
+15-04-2026 20:00
+22-04-2026 8:00
+22-04-2026 20:00
+DESCONEXION
+POSTERGABLE
+1
+PFV LA HUAYCA II
+1
+12-08-2026 8:00
+12-08-2026 20:00
+19-08-2026 8:00
+19-08-2026 20:00
+DESCONEXION
+POSTERGABLE
+2
+S/E LA HUAYCA II
+1
+12-08-2026 8:00
+12-08-2026 20:00
+19-08-2026 8:00
+19-08-2026 20:00
+DESCONEXION
+POSTERGABLE
+3
+S/E TAP OFF TAMARUGAL
+1
+12-08-2026 8:00
+12-08-2026 20:00
+19-08-2026 8:00
+19-08-2026 20:00
+DESCONEXION
+POSTERGABLE
+1
+PFV LA HUAYCA II
+1
+11-11-2026 8:00
+11-11-2026 20:00
+18-11-2026 8:00
+18-11-2026 20:00
+DESCONEXION
+POSTERGABLE
+2
+S/E LA HUAYCA II
+1
+11-11-2026 8:00
+11-11-2026 20:00
+18-11-2026 8:00
+18-11-2026 20:00
+DESCONEXION
+POSTERGABLE
+3
+S/E TAP OFF TAMARUGAL
+1
+11-11-2026 8:00
+11-11-2026 20:00
+18-11-2026 8:00
+18-11-2026 20:00
+DESCONEXION
+POSTERGABLE
+1
+PFV LA HUAYCA II
+3
+10-02-2027 8:00
+12-02-2027 20:00
+17-02-2027 8:00
+19-02-2027 20:00
+DESCONEXION
+POSTERGABLE
+2
+S/E LA HUAYCA II
+3
+10-02-2027 8:00
+12-02-2027 20:00
+17-02-2027 8:00
+19-02-2027 20:00
+DESCONEXION
+POSTERGABLE
+3
+S/E TAP OFF TAMARUGAL
+3
+10-02-2027 8:00
+12-02-2027 20:00
+17-02-2027 8:00
+19-02-2027 20:00
+DESCONEXION
+POSTERGABLE
+1
+PFV LA HUAYCA II
+1
+11-08-2027 8:00
+11-08-2027 20:00
+18-08-2027 8:00
+18-08-2027 20:00
+DESCONEXION
+POSTERGABLE
+2
+S/E LA HUAYCA II
+1
+11-08-2027 8:00
+11-08-2027 20:00
+18-08-2027 8:00
+18-08-2027 20:00
+DESCONEXION
+POSTERGABLE
+3
+S/E TAP OFF TAMARUGAL
+1
+11-08-2027 8:00
+11-08-2027 20:00
+18-08-2027 8:00
+18-08-2027 20:00
+DESCONEXION
+POSTERGABLE
+MANTENIMIENTO ANUAL PARA 
+ASEGURAR CONTINUIDAD 
+OPERATIVA Y SEGURIDAD DE 
+UNIDAD GENERADORA
+MANTENIMIENTO PREVENTIVO TIPO G
+(SEGÚN DETALLE DE ACTIVIDADES)
+MANTENIMIENTO PREVENTIVO TIPO H
+(SEGÚN DETALLE DE ACTIVIDADES)
+MANTENIMIENTO PREVENTIVO TIPO C
+(SEGÚN DETALLE DE ACTIVIDADES)
+MANTENIMIENTO PREVENTIVO TIPO D
+(SEGÚN DETALLE DE ACTIVIDADES)
+MANTENIMIENTO PREVENTIVO TIPO C
+(SEGÚN DETALLE DE ACTIVIDADES)
+MANTENIMIENTO ANUAL PARA 
+ASEGURAR CONTINUIDAD 
+OPERATIVA Y SEGURIDAD DE 
+UNIDAD GENERADORA
+MANTENIMIENTO CADA 7 AÑOS 
+Ó 100.000 OPERACIONES PARA 
+ASEGURAR CONTINUIDAD 
+OPERATIVA Y SEGURIDAD DE 
+UNIDAD GENERADORA
+MANTENIMIENTO ANUAL PARA 
+ASEGURAR CONTINUIDAD 
+OPERATIVA Y SEGURIDAD DE 
+UNIDAD GENERADORA
+MANTENIMIENTO BI-ANUAL 
+PARA ASEGURAR CONTINUIDAD 
+OPERATIVA Y SEGURIDAD DE 
+UNIDAD GENERADORA
+
+S/E Tap-Off:
+•
+Revisión de indicadores eléctricos de SS/AA en sala eléctrica
+•
+Revisión de pértigas y accesorios de puesta a tierra.
+•
+Revisión de sistema de ventilación del contenedor en S/E Tap-Off, 
+compartimientos 1 y 2
+•
+Lubricación de candados y bisagras de puertas contenedor Tap-Off
+•
+Limpieza de bushings del interruptor 52B1 S/E Tap-Off
+•
+Inspección general de daños mecánicos al desconectador 89B1-1
+•
+Inspección de conexiónes de puesta a tierra al desconectador 89B1-1
+•
+Inspección general de aisladores del desconectador 89B1-1
+•
+Prueba de operación desconectador 89B1-1
+•
+Revisión de calentamiento de engranajes 89B1-1
+•
+Inspección general de daños mecánicos al desconectador 89B1-2
+•
+Inspección de conexiónes de puesta a tierra al desconectador 89B1-2
+•
+Inspección general de aisladores del desconectador 89B1-2
+•
+Prueba de operación desconectador 89B1-2
+•
+Revisión de calentamiento de engranajes 89B1-2
+•
+Inspección y limpieza de bases de porcelana de TT/CC y TT/PP S/E Tap-
+Off
+•
+Inspección y limpieza de bushings AT y BT transformador SS/AA S/E 
+Tap-Off
+•
+Limpieza a paño de todos los aisladores de porcelana de la S/E Tap-Off
+S/E La Huayca:
+•
+Lubricar candados y bisagras de puertas y portones del cierro de la S/E La 
+Huayca
+•
+Inspección del juego de puestas a tierra manuales.
+•
+Revisión de impermeabilidad de contenedor y accesorios
+•
+Reaprete de tapas y revisión de estanqueidad del contenedor
+•
+Revisión de indicadores eléctricos de SS/AA en sala eléctrica
+•
+Revisión de cubiertas de equipos en el contenedor
+•
+Revisión de pinturas y REPARACION de partes dañadas en el contenedor
+•
+Revisión de luminarias interiores del contenedor
+Patio de 66KV:
+•
+Registro del contador de operaciones del interruptor 52B1 (<2500)
+•
+Revisión de señales de corrosión en desconectador 89BT1
+•
+Revisión de las conexiones a tierra
+•
+Medición de la resistencia de contactos al desconectador 89BT1
+•
+Medición de resistencia de aislamiento al desconectador 89BT1
+•
+limpieza manual de aisladores al desconectador 89BT1
+•
+Limpieza y lubricación de polos desconectador 89BT1
+•
+Verificación de enclavamientos desconectador 89BT1
+•
+Limpieza, ajuste y lubricación de partes mecanicas desconectador 89BT1
+•
+Prueba de operación desconectador 89BT1
+•
+Inspección general de gabinetes de control y revisión de torque de los 
+terminales de cables desconectador 89BT1
+Transformador de poder:
+•
+Limpieza a paño de aisladores del transformador de poder S/E 
+La Huayca
+•
+Revisión de fugas de aceite al tanque del transformador de 
+poder
+•
+Verificar operación mecánica del cambiador de tomas (una 
+subida y una bajada) en forma manual (no incluye medición de 
+razón de tr.)
+•
+Registro de cantidad de operaciones del cambiador de tomas
+•
+Revisión de contactos y operación del relay Buchholz  del 
+transformador de poder
+•
+Revisión de raspaduras y daños a la pintura de la cuba del 
+transformador de poder
+Resistencia de neutro lado 23KV:
+•
+Limpieza de gabinete de resistencia de puesta a tierra y 52ET
+•
+Revisión de la resistencia de puesta a tierra (requiere manual de 
+mantenimiento del fabricante)
+•
+Muestreo de aceites en ambos transformadores (de la cuba)
+•
+Pruebas de Transformadores de medida en ambas SS/EE (9 
+equipos) 
+Listado Actividades
+MPB INSPECCIÓN TIPO C : MANTENIMIENTO ANUAL SS/EE LA HUAYCA Y TAP-OFF
+Frecuencia : ANUAL
+
+S/E La Huayca:
+•
+Revisión y reprete de todos los pernos con llave de torque al 
+desconectador 89BT1
+•
+Limpieza profunda de polos AT al desconectador 89BT1
+•
+Medida de resistencia de aislamiento a bushings del transformador de 
+poder de S/E La Huayca
+•
+Revisión de accesorios de S/E
+•
+Revision a Transformadores combinados en S/E La huayca (Verificar 
+Lozas, pintura, aterramientos, cimientos, Limpieza de bushing)
+•
+Medida de resistencia de aislamiento a Transformadores combinados 
+S/E La huayca
+•
+Medida de Razon de transformacion, Burden, Curva de Exitacion a 
+Transformadores combinados S/E La Huayca
+Transformador de poder:
+•
+Limpieza de bushing MT y BT
+•
+Inspección de accesorios (Reloj de Temperatura, Reloj de nivel de aceite)
+•
+Medida de resistencia de aislamiento a Transformador SS/AA S/E La 
+Huayca
+•
+Medida de razon de transformacion a Transformador SS/AA S/E La 
+Huayca
+•
+Medida de Tangente Delta a Transformador SS/AA S/E La huayca
+•
+Pruebas a interruptores con CBA 1000 y PHOENIX - aislamiento, 
+resistencia de contactos, carrera
+S/E Tap-Off:
+•
+Medida de resistencia de aislamiento a Transformadores de corriente y 
+potencial S/E Tap Off Tamarugal
+•
+Medida de Razon de transformacion, Burden, Curva de Exitacion a 
+Transformadores de corriente en S/E Tap Off Tamarugal
+•
+Medida de Razon de transformacion a Transformadores de potencial en S/E 
+Tap Off Tamarugal
+•
+Medida de resistencia de aislamiento a Transformador SS/AA S/E Tap Off 
+Tamarugal
+•
+Medida de razon de transformacion a Transformador SS/AA S/E Tap Off 
+Tamarugal
+•
+Medida de Tangente Delta a Transformador SS/AA S/E Tap Off Tamarugal
+Listado Actividades
+MPB INSPECCIÓN TIPO D : MANTENIMIENTO DESCONECTADOR 89BT1, PRUEBAS INTERRUPTORES 52BT1 y 52B1 
+Frecuencia : BI-ANUAL
+
+S/E La Huayca:
+•
+Revisión y pruebas del ventilador de la UPS S/E La Huayca
+•
+Inspección visual de todas las conexiones a tierra exteriores 
+(patio de 66KV S/E La huayca)
+•
+Medición de la resistencia efectiva de puesta a tierra de la 
+malla S/E La Huayca. Equipo AEMC Chauvin-Armoux (USA)
+•
+Revisión de partes energizadas desconectador 89BT-1
+•
+Medida de resistencia de contactos de los polos 
+desconectador 89BT-1
+•
+Revisión de aprete de pernos con llave de torque 
+desconectador 89BT-1
+•
+Revisión de operación (modo local) desconectador 89BT-1
+•
+Revisión de operación (modo manual) desconectador 89BT-1
+•
+Ajuste de ensamble polos móviles desconectador 89BT-1
+•
+Inspeción general de conexionado y revisión de daños en 
+conexiones a tierra desconectador 89BT-1
+•
+Lubricación de motores y engranajes caja principal y caja PAT 
+desconectador 89BT-1
+•
+Verificación de enclavamientos desconectador 89BT-1
+S/E Tap-Off (89B1-1):
+•
+Revisión de las conexiones de puestas a tierra (todas) en la S/E Tap-Off
+•
+Medición de la resistencia efectiva de puesta a tierra de la malla S/E 
+Tap-Off. Equipo AEMC Chauvin-Armoux (USA)
+•
+Revisión de partes energizadas desconectador 89B1-1
+•
+Medida de resistencia de contactos de los polos desconectador 89B1-1 
+en S/E Tap-Off Tamarugal
+•
+Revisión de aprete de pernos con llave de torque desconectador 89B1-1
+•
+Revisión de operación (modo local) desconectador 89B1-1
+•
+Revisión de operación (modo manual) desconectador 89B1-1
+•
+Ajuste de ensamble polos móviles desconectador 89B1-1
+•
+Inspeción general de conexionado y revisión de daños en conexiones a 
+tierra desconectador 89B1-1
+•
+Lubricación de motores y engranajes caja principal y caja PAT 
+desconectador 89B1-1
+•
+Verificación de enclavamientos desconectador 89B1-1
+Listado Actividades
+MPB INSPECCIÓN TIPO G : MANTENIMIENTO SISTEMA DE PUESTA A TIERRA EN S/E LA HUAYCA Y TAP-OFF TAMARUGAL
+Frecuencia : 5 AÑOS
+S/E Tap-Off (89B1-2):
+•
+Revisión de partes energizadas desconectador 89B-2
+•
+Medida de resistencia de contactos de los polos desconectador 89B1-2 en 
+S/E Tap-Off Tamarugal
+•
+Revisión de aprete de pernos con llave de torque desconectador 89B1-2
+•
+Revisión de operación (modo local) desconectador 89B1-2
+•
+Revisión de operación (modo manual) desconectador 89B1-2
+•
+Ajuste de ensamble polos móviles desconectador 89B1-2
+•
+Medida de resistencia de contactos desconectador 89B1-2
+•
+Inspeción general de conexionado y revisión de daños en conexiones a tierra 
+desconectador 89B1-2
+•
+Lubricación de motores y engranajes caja principal y caja PAT 
+desconectador 89B1-2
+•
+Verificación de enclavamientos desconectador 89B1-2
+•
+Reaprete de todas las conexiones en terminales de AT de los equipos de 
+patio de la S/E Tap-Off
+
+S/E La Huayca - Transformador de poder:
+•
+Mantenimiento a cambiador de tomas cumpliendo los 7 años 
+o las 100.000 operaciones.
+•
+Desenergización y consignación del generador
+•
+Acceso al OLTC: drenaje parcial de aceite, apertura de tapa
+•
+Inspección visual y pruebas (contactos, aceite, desgaste)
+•
+Mantenimiento correctivo/preventivo (reemplazos, limpieza, 
+filtrado de aceite)
+•
+Cierre y pruebas finales (funcionalidad, resistencia, 
+sincronización)
+•
+Energización controlada del generador
+•
+Monitoreo de parámetros eléctricos y térmicos
+Listado Actividades
+MPB INSPECCIÓN TIPO H : MANTENIMIENTO 
+Frecuencia : 7 AÑOS ó 100.000 CAMBIOS 

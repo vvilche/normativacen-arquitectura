@@ -1,0 +1,369 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 15 de octubre de 2026 
+ 
+    
+DE 06777-26 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Según Lista de Distribución 
+Presente 
+Ref.: Incumplimiento asociado al Proceso de 
+Verificación del Servicio Complementario (SC) 
+de Control Secundario de Frecuencia (CSF-
+AGC) e incorporación a la herramienta de 
+despacho económico (ED). 
+ 
+[1] Carta DE03429-26, Ref.: “Proceso de 
+Verificación del Servicio Complementario (SC) 
+de Control Secundario de Frecuencia (CSF-
+AGC) e incorporación a la herramienta de 
+despacho económico (ED)”, de fecha 20 de 
+mayo de 2026. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y de acuerdo con los antecedentes que dispone 
+este Coordinador, en los anexos de la presente comunicación se individualizan las 
+instalaciones que, a la fecha, no han sido integradas al AGC/ED, incumpliendo los plazos 
+establecidos en respuestas a la comunicación de la Ref. [1]. 
+ 
+En dichos anexos se detallan las acciones requeridas para cada una de las instalaciones, 
+describiendo el estado actual según la siguiente categorización: 
+ 
+a) Anexo 1: Instalaciones con plazos vencidos para la ejecución de las pruebas punto 
+a punto para la integración de señales al SITR/AGC y pruebas funcionales de 
+integración al AGC. 
+b) Anexo 2: Instalaciones con plazos vencidos para la ejecución de las pruebas punto 
+a punto para la integración de señales al SITR/AGC, estando programadas las 
+pruebas funcionales de integración al AGC para el mes de noviembre. 
+De acuerdo con lo expuesto, solicito a Ud. informar fundadamente las razones o 
+circunstancias que explican el incumplimiento de los plazos informados para la ejecución 
+de las actividades señaladas y gestionar las acciones necesarias para cumplir con lo 
+requerido en Anexos. Dicha información deberá ser remitida, dentro del plazo de tres días 
+hábiles contados desde la recepción de la presente comunicación, mediante carta 
+ingresada en el Sistema de Correspondencia del Coordinador, indicando como referencia 
+“Respuesta a carta DE06777-26”. 
+ 
+Se hace presente que dicho plazo se otorga únicamente para efectos de informar las 
+medidas que adoptarán sus representadas, y no implica la concesión de un nuevo plazo 
+para regularizar la integración de señales y unidades al AGC. 
+ 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+Asimismo, se hace presente que la información que su representada remita dentro del plazo 
+indicado será puesta en conocimiento de la Superintendencia de Electricidad y 
+Combustibles, conjuntamente con los antecedentes que dan cuenta del incumplimiento de 
+las verificaciones exigidas por la normativa aplicable y de la falta de respuesta al 
+Coordinador, en los casos que corresponda. 
+ 
+Sin otro particular, le saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+  Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+PVV/CRV/PGR/cfp 
+GO/SGASO/DCO/DSCADA/DMAP 
+c.c.: 
+Sres. Gerentes Generales Empresas Coordinadas – Según lista de distribución 
+Sr. Diego Perales R. – Gerente de Legal y Regulación del Coordinador 
+Sr. Rodrigo Espinoza V. – Gerente de Operación del Coordinador 
+ 
+ 
+ 
+ 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+Lista de Distribución: 
+ 
+1. Andes Solar II SpA 
+2. Arcadia Generación Solar S.A. 
+3. Aela Generación S.A. 
+4. Central Colmito S.A. 
+5. Cóndor Energía SpA 
+6. El Pelícano Solar Company SpA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ANEXO 1: Instalaciones con plazos vencidos para la ejecución de pruebas punto a punto y pruebas funcionales de integración al 
+AGC 
+ 
+N° 
+Coordinado 
+Unidad 
+Situación actual 
+Acción requerida 
+1 
+ANDES 
+SOLAR II SPA 
+PFV ANDES 
+SOLAR II 
+Mediante carta DE05119-26 de fecha 29/05/26, el Coordinado 
+informó que las pruebas punto a punto y las pruebas de 
+sintonización de AGC se realizarían a más tardar el 17 y 31 de 
+julio. Una vez vencido dicho plazo, se realizaron gestiones de 
+seguimiento mediante correo electrónico, tras lo cual, mediante 
+la carta DE06514-26 de fecha 31/07/26, se informó una nueva 
+fecha para la ejecución de dichas pruebas, comprometiendo su 
+realización a más tardar el 07 y 31 de agosto de 2026. Según 
+la información disponible a la fecha su instalación tiene 
+pendiente la realización de pruebas punto a punto SITR y 
+posteriormente la realización de las pruebas funcionales de 
+integración al AGC con el Coordinador. Adicionalmente, 
+mediante correo se informó que se remitiría un cronograma 
+actualizado, el cual no ha sido recibido por este Coordinador. 
+Realizar las pruebas punto a punto 
+pendientes y, posteriormente, coordinar 
+y ejecutar las pruebas funcionales de 
+integración al AGC, informando las 
+fechas comprometidas para completar 
+ambas actividades. 
+2 
+ARCADIA 
+GENERACIÓN 
+SOLAR S.A. 
+PFV DOMEYKO 
+Mediante carta DE05130-26 de fecha 29/05/26, el Coordinado 
+informó que las pruebas punto a punto y las pruebas de 
+sintonización de AGC se realizarían a más tardar el 28 de julio 
+y 13 de agosto. Una vez vencido dicho plazo, se realizaron 
+gestiones de seguimiento mediante correo electrónico, tras lo 
+cual, mediante la carta DE06552-26 de fecha 30/07/26, informó 
+una nueva fecha para la ejecución de dichas pruebas, 
+comprometiendo su realización a más tardar el 31 de agosto. 
+Según la información disponible a la fecha su instalación tiene 
+pendiente la realización de pruebas punto a punto SITR y 
+posteriormente la realización de las pruebas funcionales de 
+integración al AGC con el Coordinador. 
+Realizar las pruebas punto a punto 
+pendientes y, posteriormente, coordinar 
+y ejecutar las pruebas funcionales de 
+integración al AGC, informando las 
+fechas comprometidas para completar 
+ambas actividades. 
+3 
+ARCADIA 
+GENERACIÓN 
+SOLAR S.A. 
+PFV PAMPA 
+SOLAR NORTE 
+Mediante carta DE05130-26 de fecha 29/05/26, el Coordinado 
+informó que las pruebas punto a punto y las pruebas de 
+sintonización de AGC se realizarían a más tardar el 30 de julio 
+y 20 de agosto. Una vez vencido dicho plazo, se realizaron 
+gestiones de seguimiento mediante correo electrónico, tras lo 
+cual, mediante la carta DE06552-26 de fecha 30/07/26, informó 
+una nueva fecha para la ejecución de dichas pruebas, 
+Realizar las pruebas punto a punto 
+pendientes y, posteriormente, coordinar 
+y ejecutar las pruebas funcionales de 
+integración al AGC, informando las 
+fechas comprometidas para completar 
+ambas actividades. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Unidad 
+Situación actual 
+Acción requerida 
+comprometiendo su realización a más tardar el 31 de agosto. 
+Según la información disponible a la fecha su instalación tiene 
+pendiente la realización de pruebas punto a punto SITR y 
+posteriormente la realización de las pruebas funcionales de 
+integración al AGC con el Coordinador. 
+4 
+AELA 
+GENERACIÓN 
+S.A. 
+PE SARCO (U1-
+U50) 
+Mediante carta DE05289-26 de fecha 05/06/26 el Coordinado 
+informó que las pruebas punto a punto y las pruebas de 
+sintonización de AGC se realizarían a más tardar el 05 y 22 de 
+septiembre. Según la información disponible a la fecha su 
+instalación tiene pendiente la realización de pruebas punto a 
+punto SITR y posteriormente la realización de las pruebas 
+funcionales de integración al AGC con el Coordinador. 
+Realizar las pruebas punto a punto 
+pendientes y, posteriormente, coordinar 
+y ejecutar las pruebas funcionales de 
+integración al AGC, informando las 
+fechas comprometidas para completar 
+ambas actividades. 
+5 
+CENTRAL 
+COLMITO S.A. 
+TER COLMITO 
+U1 
+Mediante carta DE05485-26 de fecha 11/06/26, el Coordinado 
+informó que las pruebas punto a punto y las pruebas de 
+sintonización de AGC se realizarían a más tardar el 30 de 
+septiembre y 02 de octubre. Según la información disponible a 
+la fecha su instalación tiene pendiente la realización de 
+pruebas punto a punto SITR y posteriormente la realización de 
+las pruebas funcionales de integración al AGC con el 
+Coordinador. 
+Realizar las pruebas punto a punto 
+pendientes y, posteriormente, coordinar 
+y ejecutar las pruebas funcionales de 
+integración al AGC, informando las 
+fechas comprometidas para completar 
+ambas actividades. 
+ 
+ANEXO 2: Instalaciones con plazos vencidos para la ejecución de las pruebas punto a punto para la integración de señales al 
+SITR/AGC   
+ 
+N° 
+Coordinado 
+Unidad 
+Situación actual 
+Acción requerida 
+1 
+CÓNDOR 
+ENERGÍA 
+SPA 
+PE ALENA (U1-
+U18) 
+Mediante carta DE05533-26 de fecha 15/06/26, el Coordinado 
+informó que las pruebas punto a punto se realizarían a más 
+tardar el 30 agosto. Según la información disponible a la fecha 
+las señales requeridas se encuentran implementadas y los 
+TAG ICCP fueron enviados. Sin embargo, tiene pendiente la 
+realización de pruebas punto a punto SITR y posteriormente la 
+realización de las pruebas funcionales de integración al AGC 
+con el Coordinador. 
+Coordinar y realizar las pruebas punto a 
+punto pendientes con el Departamento 
+de SCADA del Coordinador, para 
+posteriormente 
+continuar 
+con 
+las 
+pruebas funcionales de integración al 
+AGC. 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Unidad 
+Situación actual 
+Acción requerida 
+2 
+CÓNDOR 
+ENERGÍA 
+SPA 
+PFV RÍO 
+ESCONDIDO 
+Mediante carta DE05533-26 de fecha 15/06/26, el Coordinado 
+informó que las pruebas punto a punto se realizarían a más 
+tardar el 30 agosto. Según la información disponible a la fecha 
+las señales requeridas se encuentran implementadas y los 
+TAG ICCP fueron enviados. Sin embargo, tiene pendiente la 
+realización de pruebas punto a punto SITR y posteriormente la 
+realización de las pruebas funcionales de integración al AGC 
+con el Coordinador. 
+Coordinar y realizar las pruebas punto a 
+punto pendientes con el Departamento 
+de SCADA del Coordinador, para 
+posteriormente 
+continuar 
+con 
+las 
+pruebas funcionales de integración al 
+AGC. 
+3 
+EL PELÍCANO 
+SOLAR 
+COMPANY 
+SPA 
+PFV EL 
+PELÍCANO 
+Mediante carta DE05438-26 de fecha 10/06/26, el Coordinado 
+informó que las pruebas punto a punto se realizarían a más 
+tardar el 30 de septiembre. Según la información disponible a 
+la fecha las señales requeridas se encuentran implementadas 
+y los TAG ICCP fueron enviados. Sin embargo, tiene pendiente 
+la realización de pruebas punto a punto SITR y posteriormente 
+la realización de las pruebas funcionales de integración al AGC 
+con el Coordinador 
+Coordinar y realizar las pruebas punto a 
+punto pendientes con el Departamento 
+de SCADA del Coordinador, para 
+posteriormente 
+continuar 
+con 
+las 
+pruebas funcionales de integración al 
+AGC. 
+ 

@@ -1,0 +1,172 @@
+ 
+ 
+     
+ 
+ 
+                    Santiago, 16 de octubre de 2026 
+SC-2026-00065 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+Ref.: [1] Carta DE 05854-26, de fecha 02 de septiembre de 
+2026, que solicita antecedentes técnicos de los relés con 
+función de gradiente de frecuencia (ROCOF) asociados a 
+esquemas EDAC y EDAG. 
+ 
+[2] Carta DE06602-26 de fecha 07 de octubre de 2026, 
+reitera entrega de antecedentes técnicos de relés con 
+función ROCOF asociados a esquemas EDAC y EDAG. 
+De mi consideración,  
+Junto con saludar, y en relación con las cartas de la referencia, mediante las cuales ese 
+Coordinador solicitó antecedentes de los relés que participan en esquemas EDAC y EDAG mediante 
+una función de gradiente de frecuencia, vengo en dar respuesta en representación de Inversiones 
+Fotovoltaicas SpA (PFV Willka) y Planta Solar Tocopilla SpA (PFV Taira).  
+Ambas unidades participan en el EDAG Zona Norte. En cada central, la celda local del esquema está 
+compuesta por dos relés SEL-751 en redundancia (P1 y P2), que miden en el paño de conexión al 
+SEN y disparan los interruptores de media tensión de los circuitos fotovoltaicos, sin intervenir el 
+sistema BESS. Cada relé dispone de dos escalones de gradiente de frecuencia (81R), con ajustes 
+idénticos en los cuatro equipos. 
+A continuación, se informan los antecedentes en el orden de los numerales de su carta: 
+1. Identificación del equipo y alcance 
+Unidad 
+Generadora 
+Relé 
+N° de serie 
+Fabricante y modelo 
+Firmware 
+Esquema 
+PFV Taira 
+CL-TAIRA P1 
+3251985733 
+Schweitzer 
+Engineering 
+Laboratories, SEL-751 
+R402 
+EDAG Zona 
+Norte 
+PFV Taira 
+CL-TAIRA P2 
+3251985732 
+Schweitzer 
+Engineering 
+Laboratories, SEL-751 
+R402 
+EDAG Zona 
+Norte 
+
+ 
+ 
+Unidad 
+Generadora 
+Relé 
+N° de serie 
+Fabricante y modelo 
+Firmware 
+Esquema 
+PFV Willka 
+CL-WILLKA 
+P1 
+3251985736 
+Schweitzer 
+Engineering 
+Laboratories, SEL-751 
+R402 
+EDAG Zona 
+Norte 
+PFV Willka 
+CL-WILLKA 
+P2 
+3251985737 
+Schweitzer 
+Engineering 
+Laboratories, SEL-751 
+R402 
+EDAG Zona 
+Norte 
+ 
+Unidad 
+Generadora 
+Subestación 
+Paño de medición (TP / TC) 
+Interruptores 
+PFV Taira 
+S/E Taira 
+Paño J1 (TP 3TPJ1 / TC TCJ1) 
+52F1 a 52F12 (ambas 
+bobinas de apertura) 
+PFV Willka 
+S/E Willka  
+Paño JT1 (TP 3PRJT1-1 / TC 
+3TCJT1) 
+52F1 a 52F5 (ambas bobinas 
+de apertura) 
+ 
+2. Ajustes implementados 
+Los siguientes ajustes se encuentran implementados en los cuatro relés (CL-TAIRA P1 y P2, CL-
+WILLKA P1 y P2): 
+Escalón 
+Umbral de 
+gradiente 
+Temporización 
+Umbral de frecuencia supervisado 
+VI 
+0,9 Hz/s 
+100 ms 
+51,0 Hz, en lógica AND con df/dt, implementado 
+en SELogic 
+VII 
+1,2 Hz/s 
+100 ms 
+51,0 Hz, en lógica AND con df/dt, implementado 
+en SELogic 
+ 
+Mediciones consecutivas de confirmación: Cuatro veces por ciclo. 
+3. Características de la medición de ROCOF declaradas por el fabricante 
+Característica 
+Declaración del fabricante 
+Ventana de cálculo 
+80 ms 
+Método de cálculo y 
+filtrado 
+Ventana móvil sobre la frecuencia de secuencia positiva, con filtro 
+coseno de un ciclo 
+Rango de medición 
+0,10 a 15,00 Hz/s (rango de ajuste) 
+Resolución 
+0,01 Hz/s 
+Exactitud declarada 
+±100 mHz/s más ±3,33 % del valor de arranque 
+Condiciones de 
+referencia 
+Frecuencia entre 40 y 70 Hz; distorsión armónica total (THD) menor a 
+1 % 
+ 
+4. Conformidad declarada 
+El fabricante declara conformidad de la función de gradiente de frecuencia del SEL-751 con la norma 
+IEC 60255-181:2019. 
+Se adjuntan a la presente los siguientes antecedentes: 
+
+ 
+ 
+1. Filosofía de control del EDAG de las celdas locales de PFV Taira y PFV Willka (ING-30325-ID-
+ET-MET-002 rev. B e ING-30325-ID-ET-MET-014 rev. B). 
+2. Documentación del fabricante SEL (SEL-751 Feeder Protection Relay_01 y SEL-751 Feeder 
+Protection Relay_02). 
+3. Pruebas FAT PFV Taira y PFV Willka (ING-30325-PF-SM-MET-011 e ING-30325-PF-SM-MET-
+023). 
+4. Pruebas SAT PFV Taira y PFV Willka (ING-30325-PF-SM-MET-012 e ING-30325-PS-SM-MET-
+024). 
+5. Planilla Anexo 02 (Respuesta carta DE 05854-26 — EDAG Zona Norte — PFV Taira y PFV 
+Willka). 
+ 
+Quedamos disponibles frente a cualquier información adicional que se requiera, me despido 
+atentamente, 
+ 
+ 
+Verónica Bustos Vial 
+Encargada Titular  
+Inversiones Fotovoltaicas SpA  
+Planta Solar Tocopilla SpA 
+ 

@@ -1,0 +1,43 @@
+ 
+ 
+ 
+ 
+Corporación Nacional del Cobre de Chile 
+División Andina 
+Av. Santa Teresa 513 
+Los Andes  
+V Región, Chile 
+www.codelco.com 
+ 
+Los Andes, Julio 17 de 2025 
+ 
+DAND-GSER-SSE-08-2025 
+Señor (a) 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y soporte operacional 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+Asunto: Respuesta DE 03748-25 
+ 
+De nuestra consideración: 
+ 
+De acuerdo con lo solicitado en su nota DE 03748-25, que hace referencia al desempeño del Esquema de 
+Desconexión Automático de Carga (EDAC) por Subfrecuencia y Contingencia Extrema, asociados a los 
+eventos de falla ocurridos en febrero de 2025 (EAF 062-2025, EAF 072-2025 y EAF 089-2025), Codelco 
+Chile División Andina indica que estos fueron respondidos en carta DAND-GSER-SSE-003-2025 en donde 
+señala la operación activa de interruptores de potencia debido a la actuación de los relés de su esquema 
+de baja frecuencia tanto en el sistema de 66 Kv como de 220 Kv por lo que se ingresó el aviso e informes 
+de falla según plazo y forma. 
+ 
+Se anexa archivos de operación EDAC. 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+Cristian Díaz Carvajal 
+Encargado Codelco Chile División Andina 
+ 
+ 
+Cc: Archivo GSER 

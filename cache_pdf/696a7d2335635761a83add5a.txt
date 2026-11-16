@@ -1,0 +1,170 @@
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Santiago, 16 de enero de 2026 
+OP 009-26 
+ 
+Srta. 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA 
+CARTA 
+DE08422-25: 
+DESEMPEÑO 
+DEFICIENTE 
+EN 
+LA 
+PRESTACIÓN DE LOS SERVICIOS COMPLEMENTARIOS DE CONTROL 
+PRIMARIO DE FRECUENCIA, CONTROL TERCIARIO DE FRECUENCIA Y 
+CONTROL DE TENSIÓN DE LAS UNIDADES GENERADORAS. 
+ 
+De nuestra consideración, 
+ 
+Me refiero a la comunicación DE08422-25 en la que de acuerdo con la información 
+analizada por el Coordinador, se informa que parques y unidades de generación de mi 
+representada han presentado un desempeño de bajo estándar normativo en la prestación 
+de los SSCC de CPF y CT. Adicionalmente, se solicita el envío de antecedentes para 
+detallar el comportamiento descrito, en específico se solicita lo siguiente: 
+a) Informe técnico que dé cuenta de la causa raíz que origina el desempeño no 
+satisfactorio de la prestación de los SSCC de CPF, CTF y CT, según corresponda. 
+Dicho informe deberá contar al menos con el diagnóstico y la descripción del 
+problema presentado, adjuntando los antecedentes de respaldo y el análisis de 
+variables operacionales que sustenten el motivo del bajo desempeño.  
+b) Indicar las acciones correctivas que ha implementado o implementará con el fin de 
+mejorar el desempeño de sus unidades.  
+c) En el caso de requerir tomar acciones correctivas, deberá enviar un plan de trabajo 
+indicando claramente las actividades a realizar y los plazos en que estas se llevarán 
+a cabo, especificando el impacto esperado de cada acción en el desempeño de las 
+instalaciones.  
+Este plan de trabajo debe considerar que las acciones destinadas a mejorar el 
+desempeño de la prestación de SSCC estén implementadas en un plazo no superior 
+a 30 días corridos, contados desde el plazo solicitado de respuesta a la presente 
+comunicación. 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Las instalaciones de mi representada incluidas en la comunicación DE08422-25 son las 
+siguientes: 
+ 
+• 
+Unidades generadoras con mal desempeño en CPF durante los meses de agosto, 
+septiembre y octubre de 2025. 
+ 
+ 
+• 
+Unidades generadoras con mal desempeño en CT durante los meses de agosto, 
+septiembre y octubre de 2025. 
+ 
+ 
+Al respecto, en todos los casos de desempeño deficiente descritos en la comunicación 
+DE08422-25 y en su respectivo anexo no se detalla la hora ni el periodo de no cumplimiento 
+o bajo desempeño, y tampoco se indican los criterios para calificar esos comportamientos 
+como deficientes. En consecuencia, solicitamos respetuosamente a usted detallar las 
+condiciones de no cumplimiento en el caso de CT o bajo desempeño en el caso de CPF 
+para las instalaciones de mi representada contenidas en la comunicación DE08422-25, 
+indicando la fecha y hora de cada evento analizado. Lo anterior, con el objetivo de enfocar 
+los análisis en periodos específicos, lo que permitirá determinar con mayor claridad las 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+condiciones de la prestación de los SSCC indicados y los motivos por los cuales no fue 
+posible prestar dichos SSCC de acuerdo con los requerimientos contenidos en la 
+Normativa, y de ser necesario informar acciones correctivas. 
+ 
+No obstante, podemos indicar lo siguiente respecto de las instalaciones de mi representada 
+ 
+• 
+TER Atacama CC1-TG1: De acuerdo con lo indicado en la comunicación DE08422-
+25 y su anexo, se informa un desempeño deficiente en la prestación de CPF+ y CPF-
+, indicando como observación, que la “Unidad no realiza CPF cuando las variaciones 
+de frecuencia se encuentran dentro de la banda de 0,2 Hz”. Al respecto, se indica que 
+el regulador de velocidad de la unidad tiene ajustado como banda muerta para el CPF 
+un valor de 25 [mHz] y un estatismo de 8%, por lo que posee las condiciones 
+necesarias para regular frecuencia en la banda descrita en la comunicación. 
+Adicionalmente, de forma preliminar, de acuerdo con nuestros análisis, no hemos 
+encontrado registros de fallas o condiciones de la planta que puedan implicar un mal 
+funcionamiento del regulador. En consecuencia, se requiere un mayor detalle 
+respecto del cálculo del desempeño de CPF de la CT Atacama. 
+• 
+PE Renaico: De acuerdo con lo indicado en la comunicación DE08422-25 y su anexo 
+se informa un no cumplimiento en la prestación del SC de CT. Sin embargo, en la 
+carta se indica que no cumple en 23 de 30 respuestas, mientras que en el anexo se 
+indica que no cumple en 6 de 14 casos. Por lo anterior, solicitamos respetuosamente 
+indicar cuales son realmente los casos considerados por el Coordinador para la 
+evaluación de la prestación de CT del PE Renaico. Adicionalmente indicamos que, de 
+acuerdo con nuestros registros el PE Renaico ha recibido instrucción para prestar CT 
+en 25 ocasiones en el periodo entre agosto y octubre 2025, de las cuales presenta un 
+no cumplimiento en 3 ocasiones, casos que se encuentran bajo estudio. Anexo a la 
+presente comunicación se indica el detalle de este análisis. 
+• 
+PFV Finis Terrae: De acuerdo con lo indicado en la comunicación DE08422-25 y su 
+anexo se informa un no cumplimiento en la prestación del SC de CT. Sin embargo, 
+se indica que no cumple en 4 de 10 respuestas solicitadas, mientras que de acuerdo 
+con nuestros registros se solicitó CT en 16 ocasiones dentro del periodo entre agosto 
+y octubre de 2025, donde solamente hay un no cumplimiento en un caso debido a un 
+problema de pérdida de comunicaciones con el parque, situación que fue resuelta y 
+no requiere medidas correctivas. Anexo a la presente comunicación se indica el 
+detalle de este análisis. 
+• 
+CH Pehuenche U1 y U2: De acuerdo con lo indicado en la comunicación DE08422-
+25 y su anexo se informa un no cumplimiento en la prestación del SC de CT. Al 
+respecto se indica que existe un no cumplimiento en 5 de 10 solicitudes realizadas en 
+el periodo entre agosto y octubre 2025. De acuerdo con nuestros registros se 
+encontraron condiciones en las que hay diferencia entre la referencia de tensión y la 
+
+ 
+ENEL GENERACIÓN CHILE S.A 
+ENEL GREEN POWER CHILE S.A 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+tensión medida en bornes, sin embargo, para poder determinar la razón del no 
+cumplimiento se requiere por parte del Coordinador un mayor detalle de los días y 
+horas en las que se realizó la instrucción de participación en el SC de CT. 
+ 
+El anexo de esta comunicación se encuentra en el siguiente enlace: 
+ 
+https://drive.google.com/drive/folders/1yeitRyhJwvjzP7_J7OjyMm74xIGIak_w 
+ 
+Finalmente, solicitamos respetuosamente considerar un plazo de al menos dos semanas 
+desde la recepción de la información conplementaria solicitada en esta comunicación para 
+el envío de la información requerida en la comunicación DE08422-25, junto con la definición 
+de planes de trabajo para acciones correctivas que sean necesarias. 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación, le saluda 
+atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________ 
+Adrian Guzmán. 
+Encargado (S) CEN. 
+Enel Generación Chile S.A. 
+Enel Green Power Chile S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ 
+ 
+ 

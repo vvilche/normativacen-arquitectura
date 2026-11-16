@@ -1,0 +1,47 @@
+ 
+ 
+ 
+ 
+ 
+Santiago de Chile, 3 de junio de 2026 
+ 
+ 
+Gerencia de Operaciones 
+Coordinador Eléctrico nacional 
+ Presente 
+ 
+ 
+Ref.: Envío antecedentes para evaluación de desempeño  
+Control Primario de Frecuencia de mayo 2026 -  SAE del Desierto. 
+ 
+ 
+De nuestra consideración 
+ 
+En el marco de la Norma Técnica de Servicios Complementarios y del Protocolo de envío de información 
+para la evaluación de desempeño de Control Primario de Frecuencia (CPF), exponemos y solicitamos lo 
+siguiente: 
+ 
+El sistema de almacenamiento con el nombre SAE del Desierto se encuentra en proceso de 
+incorporación a la plataforma Saturn para el envío automático de la información requerida para la 
+evaluación de desempeño de CPF. Este proceso está siendo gestionado conjuntamente con las áreas de 
+Control de la Operación e Infraestructura del Coordinador, encontrándonos actualmente a la espera de 
+las credenciales y de la verificación de los canales de comunicación implementados para tal efecto. 
+ 
+Sin perjuicio de que dicho canal automático aún no se encuentra operativo, se ha estado registrando la 
+información conforme al Protocolo dispuesto por el Coordinador para el mes de mayo 2026. En esa 
+línea, se adjuntan los registros de potencia y frecuencia correspondientes a fin de que sean 
+considerados en el cálculo de desempeño de CPF y posteriormente valorizados en el Informe de 
+Valorización de las Transferencias Económicas (IVTE). 
+ 
+Por lo anterior, se solicita que esta información sea incorporada en el informe de desempeño y 
+disponibilidad de SSCC, dado que su no consideración podría generar un perjuicio económico 
+significativo en la valorización del servicio. 
+ 
+Sin otro particular, se despide atentamente a usted, 
+ 
+ 
+ 
+Felipe Basaure Retamal 
+Especialista Procesos Coordinados y 
+Estudios 
+COPEC EMOAC SpA 

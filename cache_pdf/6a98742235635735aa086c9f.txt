@@ -1,0 +1,317 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 1 de 4 
+ 
+INSTRUYE 
+EL 
+PAGO 
+DE 
+COMPENSACIONES QUE INDICA. 
+ 
+VISTOS:  
+ 
+ Lo dispuesto en la Ley N°18.410, Orgánica de la 
+Superintendencia de Electricidad y Combustibles; en la Ley N° 19.880, sobre Bases de los 
+Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del 
+Estado; en el D.F.L. Nº4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, 
+(en adelante Ley Eléctrica o LGSE); en el D.S. Nº327, de 1997, del Ministerio de Minería, 
+Reglamento de la Ley Eléctrica (en adelante el Reglamento Eléctrico); en el D.S. Nº31, de 2017, del 
+Ministerio de Energía, que Aprueba reglamento para la determinación y pago de las 
+compensaciones por indisponibilidad de suministro eléctrico (en adelante Reglamento de 
+Compensaciones); en la Norma Técnica de Indisponibilidad de Suministro y Compensaciones, de 
+2020, de la CNE (en adelante NTISyC); lo establecido en las Resolución N°36, de 2024, de la 
+Contraloría General de la República, sobre trámite de toma de razón, y 
+ 
+ 
+CONSIDERANDO: 
+ 
+1°. Que el Título 3-2 de la norma NTISyC señala los 
+estándares de indisponibilidad de suministro por eventos, fallas o desconexiones programadas. Por 
+su parte, el numeral 11, del artículo 3°, de la Ley 18.410, señala que le corresponde a la 
+Superintendencia de Electricidad y Combustibles, en adelante la Superintendencia, revisar los 
+antecedentes asociados a un evento que provoque indisponibilidad de suministro, a fin de 
+determinar si los hechos configuran un caso de fuerza mayor. Así también, los artículos 14°, 16° y 
+17° del Reglamento de Compensaciones señalan que la Superintendencia determinará si procede 
+o no el pago de compensaciones, debiendo indicar los límites máximos a compensar por cada 
+empresa responsable; que en caso de que proceda el pago de compensaciones, deberá instruir a 
+las empresas suministradoras de los usuarios finales afectados, su pago en la facturación más 
+próxima, o en aquella que determine; y que, efectuado el pago, las empresas suministradoras dentro 
+del plazo de 15 días hábiles deberán acreditar dicha situación ante esta Superintendencia.  
+ 
+2°. Que, mediante carta DE 04579-26 del 07.07.2026, 
+ingreso SEC N° 405025, el Coordinador Eléctrico Nacional ha informado a esta Superintendencia 
+que los eventos se excedieran los estándares de indisponibilidad establecidos en el Título 3-2, de 
+la norma NTISyC de acuerdo con lo que se señala en la Tabla 1. 
+ 
+Tabla 1. Punto de control y sus estándares  
+Punto de Control 
+Sist. Tx Origen Evento 
+Redundancia Estándar T. [h] 
+Estándar Frec 
+BA S/E TAP OFF EL NEGRO 110KV BP/ 
+ALBEMARLE LIMITADA 
+Zonal 
+NO 
+7 
+4 
+ 
+3°. Que, según carta del CEN, los coordinados 
+afectados y sus respectivos suministradores, son las empresas señaladas en la Tabla 2. 
+ 
+Tabla 2. Datos de los coordinados afectados y sus respectivos suministradores 
+Clientes Afectados 
+Rut 
+Afectado 
+Suministrador 
+Porcentaje 
+suministro 
+ALBEMARLE LIMITADA 
+85066600-8 
+ENGIE ENERGÍA CHILE S.A. 
+100,00% 
+ 
+4°. Que, de acuerdo con la carta del CEN, los eventos 
+señalados en la Tabla 3 han contribuido a superar los estándares del punto de control señalado en 
+Tabla 1 de esta resolución, durante el periodo de control en análisis. 
+ 
+ 
+Tabla 3. Eventos que contribuyeron a superar los estándares durante periodo de control 
+Evento 
+Fecha 
+Evento 
+Eint del 
+evento [MWh] 
+Instalación donde se produce evento 
+Propietaria u operadora de la instalación 
+SD2024047059 08-05-2024 
+67,58 
+CAPRICORNIO - EST N°54 110KV 
+C1 
+ENGIE ENERGÍA CHILE S.A. 
+ 
+RESOLUCION EXENTA ELECTRONICA N° 41736
+Santiago, 02 de Septiembre de 2026
+V°B° ACS/JNS/MAL/MCP/NMM
+https://wlhttp.sec.cl/timesM/global/imgPDF.jsp?pa=4332367&pd=5198582&pc=2502253
+Caso:2502253 Acción:4332367 Documento:5198582
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 2 de 4 
+ 
+5°. Que, esta Superintendencia ha determinado que 
+los eventos señalados en la Tabla 3, sean calificados como interrupciones de suministro eléctrico 
+no autorizados, de responsabilidad de la empresa propietaria u operadora de la instalación 
+donde ocurre el evento, debido a que las causales de estas no reúnen copulativamente, los 
+requisitos señalados en el considerando 4°, de la Res. Ex. SEC N°30988, de fecha 14.11.2019, para 
+calificarla como caso fortuito o fuerza mayor. 
+ 
+6°.  Que, utilizando los datos informados en la carta del 
+CEN y siguiendo la metodología señalada en el Título 3-4, de la norma NTISyC, se obtuvo el valor 
+de la ENS a compensar asignada a cada empresa responsable de los diferentes eventos señalados 
+en la Tabla 3. Dicho resultado se muestra en la Tabla 4. Cabe señalar que, a partir de esta tabla, 
+solo se mostrarán los clientes afectados que presenten efectivamente una ENS por la cual deban 
+recibir compensación, excluyéndose aquellos casos con ENS igual a cero. 
+ 
+Tabla 4. Cálculo de ENS asignada a cada responsable, por cada evento, por cada afectado 
+Empresa Responsable 
+Clientes Afectados 
+ENS asignada a 
+empresa [MWh] 
+ENGIE ENERGÍA CHILE S.A. 
+ALBEMARLE LIMITADA 
+5,98 
+ 
+7°. Que, en consideración a que los eventos 
+analizados ocurrieron en instalaciones eléctricas que no están destinadas a prestar el servicio 
+público de distribución, provocaron indisponibilidad de suministro a usuarios finales, no se 
+encuentran autorizados en conformidad a la Ley y los reglamentos y se encuentran fuera de los 
+estándares señalados en la norma NTISyC; en virtud de lo señalado en el artículo 72°-20 de la 
+LGSE, en los artículos 3° y 16° del Reglamento de Compensaciones y en el artículo 4-15 de la 
+NTISyC, esta Superintendencia procederá a instruir el pago de compensaciones. 
+ 
+8°. Que, en virtud de lo señalado en el Reglamento de 
+Compensaciones, en la Tabla 5, se indican los datos para el cálculo del monto de compensaciones. 
+Cabe señalar que la tasa de cambio del dólar utilizado es el observado el día que ocurrió el evento 
+o del último día hábil bancario anterior a la fecha del evento, si es que el evento ocurrió en un día 
+no hábil. 
+ 
+Tabla 5. Datos para el cálculo del monto de compensaciones a clientes libres y regulados respectivamente. 
+Evento 
+Fecha 
+Evento 
+Tasa de 
+Cambio 
+ [$/UD$] 
+Decreto 
+PNCP 
+Fecha pub 
+decreto 
+Res ITD 
+PNCP 
+Fecha 
+resolución 
+CEPMM  
+[US$/MWh] 
+SD2024047059 
+08-05-2024 
+934,29 
+1T 
+03-08-2024 
+73 
+29-02-2024 
+100,926 
+ 
+9°. Que, aplicando lo señalado en el artículo segundo 
+transitorio, del Reglamento de Compensaciones, la ENS asignadas de la tabla 4, y los datos 
+señalados en la tabla 5, se procedió a calcular los montos que deben compensar cada una de las 
+empresas responsables de los eventos que contribuyeron a superar los estándares de 
+indisponibilidad de suministro durante el periodo de control en análisis. Dichos resultados son 
+mostrados en la Tabla 6.  
+ 
+Tabla 6.  Monto que debe compensar cada empresa responsable al respectivo afectado por cada evento 
+Empresa Responsable 
+Clientes Afectados 
+ Compensación [$]  
+ENGIE ENERGÍA CHILE S.A. 
+ALBEMARLE LIMITADA 
+                8.458.185  
+ 
+10°.  Que, revisados los registros que posee esta 
+Superintendencia de los estados financieros proporcionados en cumplimiento del artículo 10° del 
+Reglamento de Compensaciones, SEC considera que el monto de las compensaciones 
+determinadas en esta Resolución no excede lo señalado los artículos 6°, 7° y 8° del Reglamento de 
+Compensaciones.  De existir reparo de lo anterior, las respectivas empresas podrán notificar la 
+situación a esta Superintendencia, quien podrá tomar las medidas que estime conveniente tanto en 
+el proceso de compensaciones como contra las empresas que no proporcionaron los estados 
+financieros incumpliendo el reglamento. 
+ 
+ 
+ 
+RESOLUCION EXENTA ELECTRONICA N° 41736
+Santiago, 02 de Septiembre de 2026
+V°B° ACS/JNS/MAL/MCP/NMM
+https://wlhttp.sec.cl/timesM/global/imgPDF.jsp?pa=4332367&pd=5198582&pc=2502253
+Caso:2502253 Acción:4332367 Documento:5198582
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 3 de 4 
+ 
+ 
+ 
+ 
+RESUELVO: 
+ 
+ 
+ 
+1º Que, las siguientes empresas suministradoras, 
+deberán efectuar el pago de compensaciones a los respectivos clientes afectados, en la facturación 
+más próxima o en la siguiente si lo anterior no fuese posible, por los montos que se indican en la 
+Tabla 7.  
+ 
+Tabla 7. Monto consolidado que debe compensar cada empresa suministradora al respectivo afectado 
+Afectado 
+Rut Afectado 
+Suministrador 
+ Compensación [$]  
+Monto en palabras 
+ALBEMARLE LIMITADA 
+85066600-8 
+ENGIE ENERGÍA CHILE 
+S.A. 
+8.458.185 
+ocho millones cuatrocientos 
+cincuenta y ocho mil ciento 
+ochenta y cinco pesos. 
+ 
+2º Que, las empresas suministradoras detalladas en el 
+resuelvo anterior, deberán remitir una copia de esta resolución a las respectivas empresas a las que 
+le efectuarán el pago de compensaciones, según se indica en la Tabla 7. Lo anterior no aplicaría 
+para los clientes regulados, quienes la suministradora no tendría la obligación de enviar una copia 
+de esta resolución. 
+3º Que, las Empresas Suministradoras indicadas en la 
+Tabla 7, luego de realizado el pago, dispondrá de 15 días hábiles para informar a esta 
+Superintendencia el cumplimiento de lo instruido en el resuelvo 1° de esta resolución. 
+ 
+4º Que, luego de realizado el pago por parte de las 
+empresas suministradoras, dentro del plazo de 15 días hábiles los clientes libres afectados por las 
+interrupciones de suministro eléctrico analizados en esta resolución deberán informar a esta 
+Superintendencia si recibió o no el pago de la compensación antes instruida. 
+ 
+5º Que, en caso de que los contratos de suministro 
+entre la Empresa Suministradora y los clientes libres afectados por las interrupciones de suministro 
+eléctrico analizados en esta resolución contemplen clausulas especiales en relación con el pago de 
+compensaciones, no procederá lo dispuesto en los resuelvo 1° al 4° de esta Resolución. En su 
+defecto, las empresas señaladas deberán actuar según lo indicado en el artículo 2-7 de la NTISyC. 
+ 
+6º Que, si se cumple la condición indicada en el 
+Resuelvo anterior, la Empresa Suministradora y la afectada dispondrán de un plazo de 10 días 
+hábiles, a contar de la fecha de notificación de la presente Resolución, para informar que sus 
+contratos contemplan clausulas especiales. 
+ 
+7º Que, una vez acreditado el pago de compensación 
+instruido en la presente Resolución, esta Superintendencia, en virtud de lo señalado en el artículo 
+20° del Reglamento de Compensaciones, procederá a instruir a través del coordinador, a las 
+empresas responsables señaladas en la Tabla 6, el reembolso total e inmediato a las empresas 
+suministradoras señaladas en la Tabla 7, del monto pagado por esta por concepto de 
+compensación.  
+ 
+8º Que, de acuerdo con lo establecido en los artículos 
+18ºA y 19º de la ley N° 18.410, esta Resolución podrá ser impugnada interponiendo dentro de 5 
+días hábiles un recurso de reposición ante esta Superintendencia y/o de reclamación, dentro de 
+diez días hábiles ante la Corte de Apelaciones que corresponda. La interposición del recurso de 
+reposición se podrá realizar en las oficinas de la Superintendencia o a través de Oficina de Partes 
+Virtual. En ambos casos, la presentación del recurso suspenderá el plazo de 10 días para reclamar 
+de ilegalidad ante los tribunales de justicia.  
+ 
+RESOLUCION EXENTA ELECTRONICA N° 41736
+Santiago, 02 de Septiembre de 2026
+V°B° ACS/JNS/MAL/MCP/NMM
+https://wlhttp.sec.cl/timesM/global/imgPDF.jsp?pa=4332367&pd=5198582&pc=2502253
+Caso:2502253 Acción:4332367 Documento:5198582
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 4 de 4 
+ 
+9º Que, la información deberá ser presentada por 
+escrito ante esta Superintendencia, acompañando todos los antecedentes que sean pertinentes. 
+Toda la información entregada deberá indicar como referencia: Caso TIMES N° 2502253. 
+ 
+ 
+ 
+ANÓTESE, NOTIFÍQUESE Y ARCHÍVESE 
+ 
+ 
+ 
+ 
+MARTA CABEZA VARGAS 
+Superintendenta de Electricidad y Combustibles  
+RESOLUCION EXENTA ELECTRONICA N° 41736
+Santiago, 02 de Septiembre de 2026
+V°B° ACS/JNS/MAL/MCP/NMM
+https://wlhttp.sec.cl/timesM/global/imgPDF.jsp?pa=4332367&pd=5198582&pc=2502253
+Caso:2502253 Acción:4332367 Documento:5198582
+           Firmado digitalmente por
+Marta Cabeza Vargas

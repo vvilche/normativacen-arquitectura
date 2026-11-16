@@ -1,0 +1,83 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+ 
+Santiago, 30 de enero de 2026 
+DE 00699-26 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Presente 
+Ref.:  Estudio de Plan de Recuperación de 
+Servicio (PRS), Informe Final 2025 
+versión 2. 
+[1] DE 06947-25 de fecha 30 de octubre de 
+2026, “Estudio de Plan de Recuperación 
+de Servicio, Informe Final 2025” 
+ 
+De mi consideración,  
+ 
+En relación con la materia de la referencia, comunico a usted que el Informe Final del Plan 
+de Recuperación de Servicio (PRS 2025), en su versión 2, que rige a contar de la presente 
+comunicación, se encuentra publicado en la página web del Coordinador Eléctrico Nacional, 
+en la siguiente ruta: 
+ 
+Inicio > Operación > Informes y Estudios > Estudios para la Seguridad y Calidad de 
+Servicio > Plan de Recuperación de Servicio 2025. 
+ 
+Cabe señalar que la presente versión corresponde a una actualización del “Estudio de Plan 
+de Recuperación de Servicio, Informe Final 2025” informado mediante comunicación 
+individualizada en la Ref. [1]. Al respecto, a continuación, se indican los principales cambios 
+incorporados en esta versión: 
+ 
+1. Se actualiza la definición de “Tiempo de Partida Autónoma”, de acuerdo con lo 
+establecido en el Informe de SSCC vigente. 
+2. En el cuerpo del estudio y sus anexos, se actualizan los tiempos de Partida 
+Autónoma (PA), conforme a los antecedentes técnicos disponibles en la versión 
+actualizada de los anexos del Informe de SSCC, publicada el 29 de enero de 2026. 
+3. En el Anexo A se incorpora un paso adicional en la alternativa de recuperación 
+considerando el ingreso próximo de los proyectos NUP N° 3286 (que incorpora un  
+seccionamiento en la Línea 2x220 kV Frontera – María Elena) y NUP N° 3288 (que 
+incorpora un seccionamiento en la Línea 2x220 kV Lagunas – Ana María), en la 
+Zona Norte Grande. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+4. En el Anexo F, se corrigen los COR en las secuencias de recuperación de las áreas 
+Pullinque, Pilmaiquén y Canutillar. 
+5. Se actualiza la denominación del CC que opera las instalaciones de transmisión de 
+Engie Energía S.A. y TEN S.A. 
+6. En el apartado 4.2 del cuerpo del estudio se incorpora el detalle del registro del 
+resultado de las pruebas de comunicación entre COR y CC que debe ser entregado 
+al Coordinador. 
+7. En el apartado 7.5.1 del Anexo 5 del estudio se corrige el requerimiento de 
+autonomía de 6 horas de los equipos de respaldo de energía. 
+8. Se revisa el “Anexo 7 ERS por Área PRS”, considerando las respuestas a las 
+observaciones formuladas al Estudio de PRS 2025 preliminar, a fin de confirmar el 
+estado final de los interruptores correspondientes.  
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GO/SGOTR/DCST/adr 
+c.c.: 
+Sr. Mauricio Funes H. Secretario Ejecutivo (s) – CNE 
+Sra. Marta Cabeza V. Superintendenta de Electricidad y Combustibles 
+Señores Encargados Suplentes – Empresas Coordinadas 
+Sr. Patricio Valenzuela V. – Subgerente de Operación en Tiempo Real del Coordinador 
+Archivo DE 
+ 

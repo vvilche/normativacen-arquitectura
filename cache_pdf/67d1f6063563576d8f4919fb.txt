@@ -1,0 +1,70 @@
+ 
+ 
+Nala Renewables Chile 
+Registered Office: Isidora Goyenechea 2800, 9th Floor, Office 901, Las Condes, 
+Santiago, Chile 
+Company Number:  
+www.nalarenewables.com 
+Tortuga Solar SpA 
+Rut. 77.214.128-9 
+Isidora Goyenechea 2800, oficina 901 
+Las Condes, Santiago 
+SNC-2025-L-001 
+12 de marzo de 2025 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+ 
+Ref:  Evento ocurrido en el Sistema Eléctrico Nacional del día 25 de febrero de 
+2025. Respuesta a Carta DE01452-25 
+ 
+De nuestra consideración  
+ 
+En relación con su solicitud referente al evento ocurrido en el Sistema Eléctrico 
+Nacional el 25 de febrero de 2025, a partir de las 15:16 horas, en el cual se 
+presentó una desconexión intempestiva de varias instalaciones de generación, 
+transmisión y la afectación del suministro eléctrico a clientes finales, me 
+permito remitir la información solicitada sobre el PMGD a nuestra propiedad. 
+ 
+A continuación, los detalles requeridos: 
+ 
+(i) Nombre del PMGD: PMGD Tortuga Solar (Ex Chillan San Carlos 2) 
+(ii) Alimentador asociado a la red de media tensión: San Carlos 
+(iii) Empresa distribuidora propietaria de dicha red de media tensión: Copelec 
+(iv) Potencia generada por el PMGD previo al evento [MW]: 2,38 
+(v) Potencia generada por el PMGD posterior al evento [MW]: 0 
+(vi) Registros de protecciones operadas sobre el PMGD: UF (Baja frecuencia) 
+(vii) Horario de la reducción y/o desconexión de la generación [hh:mm:ss]: 
+25/02/25 03:17:26.981 PM 
+(viii) Horario de normalización de la generación [hh:mm:ss]: 26/02/25 
+09:33:15.125 AM 
+ 
+ 
+Se adjuntan los siguientes documentos: 
+ 
+1. 
+Anexo 1. Registro de apertura y cierre del reconectador.  
+ 
+ 
+ 
+ 
+
+ 
+ 
+Nala Renewables Chile 
+Registered Office: Isidora Goyenechea 2800, 9th Floor, Office 901, Las Condes, 
+Santiago, Chile 
+Company Number:  
+www.nalarenewables.com 
+Sin otro particular, le saluda atentamente,  
+ 
+ 
+ 
+ 
+María Alexandra Broderick Lorca 
+Encargado Titular 
+p.p. Tortuga Solar SpA 

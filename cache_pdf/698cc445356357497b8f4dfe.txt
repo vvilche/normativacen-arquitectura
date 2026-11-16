@@ -1,0 +1,63 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+GM N°2026-010 
+10 de febrero de 2026 
+ 
+Señorita 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref: Observaciones a Indicadores Desempeño Servicios Complementarios – enero 2026 
+ 
+En relación con el Informe de desempeño preliminar de servicios complementarios de enero 2026 
+publicado mediante carta DE00819-26 de fecha 05 de febrero de 2026, tenemos las siguientes 
+observaciones: 
+SSCC 
+Central 
+Observaciones 
+CT Manual 
+Central 
+Nueva 
+Renca 
+Instrucción CT Manual 2026-01-28 13:59: Se solicita por parte del CDC una variación de 2kV 
+a la Central Nueva Renca, la cual logra alcanzar 98.65% del valor solicitado al t15: 2026-01-
+28 14:14. 
+Se solicita revisar el valor de tensión registrado en los t10 y t15.  
+ 
+Se adjunta registro de historiador y medidor de la SE Renca 110kV “Registros V B1 CNR 28-
+01-2026" 
+ 
+Detalles de registro 
+ 
+• 
+t0: 2026-01-28 13:59 108.48kV  
+• 
+t10: 2026-01-28 14:09 109.26kV; 
+• 
+t15: 2026-01-28 14:14   109.11kV 
+CT 
+Automático 
+Central 
+Nueva 
+Renca 
+ 
+Para los días de enero 2026 8,9,13,14,1,16,20,21,22,23,29,30 se indica que la mayoría de los 
+puntos no es verificable el control de Tensión Automático, considerando registros internos 
+el cual si contempla variaciones de tensión en la salida de la TV “Registros TV KV Enero 2026”. 
+Adicionalmente, se registra algunos segundos FS (Fuera de servicio) periodo en el cual la 
+central se mantuvo en servicio. Se solicita verificar el resultado para dichos días  
+ 
+Sin otro particular, le saluda atentamente 
+ 
+ 
+ 
+Carolina Vélez K. 
+Encargada Titular 
+Generadora Metropolitana SpA 

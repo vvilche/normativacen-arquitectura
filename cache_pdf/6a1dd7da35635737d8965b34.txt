@@ -1,0 +1,56 @@
+GO N° 105/2026
+Santiago, 29 de mayo de 2026
+Señor
+Rodrigo Espinoza V.
+Gerente de Operación
+Coordinador Eléctrico Nacional
+Presente
+Ant.:
+[1] Carta DE 03429-26, de 20 de mayo de 2026 Ref.: “Proceso de Verificación del Servicio
+Complementario (SC) de Control Secundario de Frecuencia (CSF-AGC) e incorporación a la
+herramienta de despacho económico (ED)”.
+[2] Carta DE 05252-24, de 09 de octubre de 2024 Ref.: “Resultado del Proceso de
+Verificación del Servicio Complementario de Control Secundario de Frecuencia de las
+Centrales Ter Nehuenco II, Ter Nehuenco 9B, TER Candelaria, HE Canutillar y HE Colbún”.
+Ref.:
+Informa el estado de avance del proceso de verificación del Servicio Complementario (SC)
+de Control Secundario de Frecuencia (CSF-AGC) e incorporación a la herramienta de
+despacho económico (ED) de las unidades generadoras de Colbún SA.
+De nuestra consideración:
+En relación con su carta de Ant.[1], mediante la cual nos solicita información sobre el estado de
+avance del proyecto de AGC en las unidades de Colbún SA, a continuación, envío nuestros
+comentarios y actualizaciones de las distintas centrales involucradas:
+•
+CT Nehuenco 9B: De acuerdo con su carta de Ant.[2] la central se encuentra habilitada para
+prestar el SSCC de control secundario de frecuencia. No obstante, actualmente la unidad se
+encuentra en Mantenimiento Mayor según solicitud N°2026032734 hasta el 28 de junio del
+año curso. Una vez finalizado el mantenimiento Colbún SA programará las pruebas
+correspondientes, las cuales se informarán oportunamente con el Coordinador para que
+puedan participar de estas.
+•
+CT Santa María: Con relación a esta central, quisiera informar que Colbún SA se encuentra
+en proceso de desarrollo de la solución. Mediante solicitud N°2024107791 en octubre de
+2024 se iniciaron pruebas SITR con relación a las señales requeridas en modalidad AGC. Por
+otro lado, entre octubre y noviembre de 2025, a través de las solicitudes N°2025118128,
+2025118432 y 2025127566, Colbún SA ingresó solicitudes de intervención para realizar
+pruebas locales en modalidad AGC. Sin embargo, dichas solicitudes fueron rechazadas por
+el Coordinador, indicándose que sería posible efectuar pruebas con la unidad sólo cuando
+ésta se encuentre previamente despachada por operación económica. En base a esta última
+respuesta, se han realizado nuevos intentos de pruebas en abril y mayo de 2026 mediante las
+
+solicitudes N°2026034761 y 2026045326, sin embargo, los resultados de estas pruebas no
+fueron exitosos.
+Dado lo anterior, actualmente Colbún SA se encuentra en proceso de búsqueda de soluciones
+para poder cumplir con la prestación del SSCC de control secundario de frecuencia e
+inclusión en el Despacho Económico en el caso de esta central. Respecto al plazo definido
+por el Coordinador en su carta de Ant. [1] vemos factible cumplir con la fecha indicada para
+esta central.
+•
+PFV Diego de Almagro Sur: En este caso la implementación del AGC está vinculada al
+desarrollo del proyecto NUP 5074, el cual sigue su cronograma vigente en la Plataforma de
+Gestión de Proyectos, cuyo plazo es consistente con la fecha definida por el Coordinador en
+su carta de Ant. [1].
+Sin otro particular, saluda atentamente a usted,
+Sebastián Ruiz-Tagle Mena
+Encargado Titular
+COLBÚN S.A.

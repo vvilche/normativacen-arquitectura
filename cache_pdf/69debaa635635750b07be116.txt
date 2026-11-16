@@ -1,0 +1,63 @@
+ 
+Santiago, 10 de abril de 2026 
+ 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+ 
+Ref.: [1] DE08351-25 "Aprueba Protocolos para los Ensayos de 
+Verificación de Control de Frecuencia y Control de Tensión de la central 
+PFV Granja Solar." 
+[2] Carta S/N de COPEC Renovables SpA, de fecha 14 de enero de 2026, 
+informa inicio de ensayos de Verificación de SSCC. 
+[3] Carta S/N de COPEC Renovables SpA, de fecha 29 de enero de 2026, 
+informa avance y reprogramación de ensayos de Control de Tensión. 
+ 
+ 
+Por medio de la presente, y en continuidad a las comunicaciones indicadas en las referencias 
+precedentes, nos dirigimos a usted con el propósito de informar el estado de avance del proceso 
+de Verificación de Servicios Complementarios de la Central PFV Granja Solar y solicitar 
+formalmente una prórroga para la entrega del Informe Técnico de Verificación de los Servicios 
+Complementarios de Control Primario de Frecuencia (CPF), Control Secundario de Frecuencia 
+(CSF) y Control de Tensión (CT). 
+ 
+Conforme a lo informado en las comunicaciones de las Ref. [2] y [3], a la fecha han sido 
+ejecutados satisfactoriamente los ensayos correspondientes a los Servicios Complementarios 
+de Control Terciario de Frecuencia en Giro y Control Terciario de Frecuencia en Frío, tal como se 
+indica en el “Informe Técnico Verificación de SSCC CTF Central PFV Granja Solar” que acompaña 
+a esta carta.  
+ 
+Respecto a las pruebas correspondientes a los Servicios Complementarios de Control de 
+Tensión (CT), estas han sido realizadas y solo nos encontramos a la espera del Informe Técnico, 
+el que será recibido la semana del 13 de abril, siendo enviado al Coordinador a la brevedad 
+posible. 
+ 
+En relación con los ensayos CPF y CSF, durante la ejecución de las pruebas se constató que los 
+parámetros de configuración actuales del sistema de control de la Central requieren ser 
+modificados a fin de cumplir con los requerimientos establecidos en la Guía de Verificación de 
+SSCC de Control de Frecuencia, Versión 2, como se establece en el artículo 3-17 de la NTSyCS. 
+ 
+Al respecto, se ha tomado contacto formal con nuestro proveedor, quien ha confirmado la 
+factibilidad técnica del ajuste requerido y ya nos encontramos en coordinación de la ejecución 
+del ajuste y posterior realización de los ensayos, bajo las condiciones exigidas por la normativa 
+vigente. 
+ 
+ 
+
+ 
+ 
+ 
+Considerando lo expuesto, solicitamos respetuosamente a este Coordinador una prórroga hasta 
+el día 30 de abril de 2026 para la entrega del Informe Técnico de Verificación de los Servicios 
+Complementarios de CPF y CSF.  
+Sin otro particular, se despide atentamente, 
+ 
+Paula Domínguez 
+Encargado Suplente 
+Copec Renovables SpA 
+ 

@@ -1,0 +1,52 @@
+FOTOVOLTAICA NORTE GRANDE 1, SPA 
+Badajoz 130, Oficina 1401 
+Las Condes, Santiago 
+Teléfono +56 2 2434 4266 
+ 
+Santiago, 19 de noviembre del 2025 
+Carta FNG1 19-011-25 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Referencia: Respuesta a Oficio DE05006-25 
+ 
+ 
+De nuestra consideración: 
+ 
+En representación de Fotovoltaica Norte Grande 1 SpA, (la “Sociedad”) y por 
+medio de la presente, con relación a su carta No DE05006-25. 
+ 
+Me permito informarle que: 
+ 
+En respuesta al control secundario de frecuencia(CSF) ya enviamos las consultas 
+pertinentes al correo que indica la carta dcst@coordinador.cl, pero no tenemos 
+respuesta aún, las preguntas fueron las siguientes. 
+ 
+ 
+- 
+LA CRUZ 
+1. El equipo encargado del intercambio de señales es la RTU de planta. 
+2. Que equipo están leyendo actualmente (IP, puerto y protocolo de 
+comunicaciones) 
+3. Si ya están leyendo variables de planta que envíen el listado 
+ 
+ 
+Como consecuencia de no tener la información requerida el contratista no puede 
+hacer una valoración del proyecto ni del cronograma de actividades, así que 
+solicitamos amablemente una ampliación del plazo. 
+ 
+ 
+Quedamos a su disposición para aclarar cualquier duda. Sin otro particular, 
+atentamente 
+ 
+ 
+ 
+ 
+ 
+Armando Gómez 
+pp. Fotovoltaica Norte Grande 5 SpA 

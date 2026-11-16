@@ -1,0 +1,72 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<title>Radar normativo CEN · prueba 2 · verificación de cifras</title>
+<style>
+:root{--bg:#0e1116;--card:#161b22;--line:#262d36;--tx:#e6edf3;--dim:#8b949e;--rojo:#e0483e;--org:#d97706;--pur:#8957e5;--ok:#3fb950}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;padding:34px 28px 60px}
+h1{font-size:22px;margin:0 0 4px} h2{font-size:16px;margin:34px 0 10px;color:#c9d1d9}
+.sub{color:var(--dim);font-size:13px;margin-bottom:22px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin-bottom:14px}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+th{text-align:left;color:var(--dim);font-weight:600;font-size:11.5px;text-transform:uppercase;letter-spacing:.05em;padding:7px 8px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:7px 8px;border-bottom:1px solid #1c2229;vertical-align:middle}
+tr:last-child td{border-bottom:none}
+.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.n{color:var(--dim);width:28px}
+.b{font-weight:700;color:#f0f6fc}
+.dim{color:var(--dim)}
+.pill{display:inline-block;padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600;color:#fff;white-space:nowrap}
+.rojo{background:var(--rojo)} .naranja{background:var(--org)} .violeta{background:var(--pur)}
+tr.malo{background:#2a1215}
+tr.malo td{border-bottom-color:#3d1c20}
+.noval{color:var(--rojo);font-style:italic}
+.alerta{border-left:3px solid var(--rojo);background:#1d1416;border-radius:6px;padding:12px 16px;margin:12px 0;font-size:14px}
+.ok{border-left:3px solid var(--ok);background:#121c14}
+.warn{border-left:3px solid var(--org);background:#1f1a10}
+b.k{color:#f0f6fc}
+code{background:#0b0f14;padding:1px 6px;border-radius:4px;font-size:12.5px;color:#a5d6ff}
+ul{margin:8px 0 0 18px;padding:0} li{margin:4px 0}
+</style></head><body>
+
+<h1>Radar normativo CEN — prueba 2</h1>
+<div class="sub">Verificación de las reglas de cifras · generado 2026-10-23 21:06 · corpus 13.817 documentos (2024-12-31 → 2026-10-23)</div>
+
+<div class="alerta"><b class="k">Hallazgo: las 2 primeras filas de <code>oportunidades</code> no tienen empresa.</b>
+El campo <code>empresa</code> viene vacío en 9 filas. La más grave de todas es una fila sin nombre con <b>362 requerimientos</b> de SSCC y <b>653 días</b> de antigüedad, que ocupa el puesto 1 y arrastra <code>gravedad=470</code> (el máximo). Cualquier "top 8" leído tal cual entrega 2 puestos con nombre en blanco.</div>
+
+<h2>1 · Las 8 más graves tal como vienen en radar.json (sin filtrar)</h2>
+<div class="card"><table>
+<thead><tr><th></th><th>Empresa</th><th>Producto</th><th>Estado peor</th><th class="num">n_reqs</th><th class="num">dias_max</th><th class="num">gravedad</th><th class="num" title="Este cociente es el que genera el empate de 106 grupos">n/días</th><th>Correlativos (solo referencia)</th></tr></thead>
+<tbody><tr class='malo'><td class='n'>1</td><td><span class='noval'>— sin empresa —</span></td><td>SSCC</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>362</b></td><td class='num b'>653</td><td class='num'>470</td><td class='num dim'>0.5544</td><td class='dim'>&nbsp;</td></tr><tr class='malo'><td class='n'>2</td><td><span class='noval'>— sin empresa —</span></td><td>SITR</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>27</b></td><td class='num b'>646</td><td class='num'>470</td><td class='num dim'>0.0418</td><td class='dim'>&nbsp;</td></tr><tr class=''><td class='n'>3</td><td>Colbún S.A.</td><td>SSCC</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>23</b></td><td class='num b'>653</td><td class='num'>470</td><td class='num dim'>0.0352</td><td class='dim'>&nbsp;</td></tr><tr class=''><td class='n'>4</td><td>Engie Energía Chile S.A.</td><td>SSCC</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>25</b></td><td class='num b'>591</td><td class='num'>469</td><td class='num dim'>0.0423</td><td class='dim'>&nbsp;</td></tr><tr class=''><td class='n'>5</td><td>Enel Green Power Chile S.A.</td><td>SSCC</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>18</b></td><td class='num b'>645</td><td class='num'>464</td><td class='num dim'>0.0279</td><td class='dim'>&nbsp;</td></tr><tr class=''><td class='n'>6</td><td>ENEL GENERACIÓN CHILE S.A</td><td>SITR</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>17</b></td><td class='num b'>603</td><td class='num'>461</td><td class='num dim'>0.0282</td><td class='dim'>&nbsp;</td></tr><tr class=''><td class='n'>7</td><td>ENGIE ENERGÍA CHILE S.A</td><td>SITR</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>15</b></td><td class='num b'>603</td><td class='num'>455</td><td class='num dim'>0.0249</td><td class='dim'>&nbsp;</td></tr><tr class=''><td class='n'>8</td><td>ENEL GREEN POWER CHILE S.A</td><td>SITR</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>15</b></td><td class='num b'>379</td><td class='num'>451</td><td class='num dim'>0.0396</td><td class='dim'>&nbsp;</td></tr></tbody></table>
+<div class="sub" style="margin:10px 0 0">Las filas en rojo son las que hay que descartar: no identifican una cuenta.</div></div>
+
+<h2>2 · Las 8 cuentas con nombre, en el mismo orden de gravedad</h2>
+<div class="card"><table>
+<thead><tr><th></th><th>Empresa</th><th>Producto</th><th>Estado peor</th><th class="num">n_reqs</th><th class="num">dias_max</th><th class="num">Posición original</th></tr></thead>
+<tbody><tr><td class='n'>1</td><td>Colbún S.A.</td><td>SSCC</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>23</b></td><td class='num b'>653</td><td class='num dim'>470 · pos 3</td></tr><tr><td class='n'>2</td><td>Engie Energía Chile S.A.</td><td>SSCC</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>25</b></td><td class='num b'>591</td><td class='num dim'>469 · pos 4</td></tr><tr><td class='n'>3</td><td>Enel Green Power Chile S.A.</td><td>SSCC</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>18</b></td><td class='num b'>645</td><td class='num dim'>464 · pos 5</td></tr><tr><td class='n'>4</td><td>ENEL GENERACIÓN CHILE S.A</td><td>SITR</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>17</b></td><td class='num b'>603</td><td class='num dim'>461 · pos 6</td></tr><tr><td class='n'>5</td><td>ENGIE ENERGÍA CHILE S.A</td><td>SITR</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>15</b></td><td class='num b'>603</td><td class='num dim'>455 · pos 7</td></tr><tr><td class='n'>6</td><td>ENEL GREEN POWER CHILE S.A</td><td>SITR</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>15</b></td><td class='num b'>379</td><td class='num dim'>451 · pos 8</td></tr><tr><td class='n'>7</td><td>ANDES SOLAR II SPA</td><td>SITR</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>12</b></td><td class='num b'>549</td><td class='num dim'>445 · pos 9</td></tr><tr><td class='n'>8</td><td>CGE Transmisión S.A.</td><td>PROTECCIONES</td><td><span class='pill rojo'>SIN_RESPUESTA</span></td><td class='num'><b>12</b></td><td class='num b'>540</td><td class='num dim'>445 · pos 10</td></tr></tbody></table></div>
+
+<h2>3 · Requerimientos vivos por producto</h2>
+<div class="card"><table>
+<thead><tr><th>Producto</th><th class="num">n_reqs</th><th class="num">Empresas</th><th class="num">Sin respuesta</th><th class="num">Reiterados</th><th class="num">Reabiertos</th><th class="num">Respondidos</th><th>Última carta</th></tr></thead>
+<tbody><tr><td><b>SITR</b></td><td class='num'><b>899</b></td><td class='num'>372</td><td class='num'>695</td><td class='num'>861</td><td class='num'>564</td><td class='num'>0</td><td class='dim'>2026-10-15</td></tr><tr><td><b>PMU</b></td><td class='num'><b>639</b></td><td class='num'>280</td><td class='num'>512</td><td class='num'>621</td><td class='num'>544</td><td class='num'>0</td><td class='dim'>2026-09-23</td></tr><tr><td><b>SLRP</b></td><td class='num'><b>240</b></td><td class='num'>142</td><td class='num'>196</td><td class='num'>167</td><td class='num'>155</td><td class='num'>0</td><td class='dim'>2026-08-31</td></tr><tr><td><b>EDAC</b></td><td class='num'><b>223</b></td><td class='num'>94</td><td class='num'>191</td><td class='num'>118</td><td class='num'>111</td><td class='num'>12</td><td class='dim'>2026-09-25</td></tr><tr><td><b>EDAG</b></td><td class='num'><b>122</b></td><td class='num'>50</td><td class='num'>92</td><td class='num'>103</td><td class='num'>40</td><td class='num'>2</td><td class='dim'>2026-10-15</td></tr><tr><td><b>PRS</b></td><td class='num'><b>75</b></td><td class='num'>30</td><td class='num'>59</td><td class='num'>45</td><td class='num'>36</td><td class='num'>0</td><td class='dim'>2026-07-30</td></tr></tbody></table>
+<div class="sub" style="margin:10px 0 0">Sin respuesta + reiterados + reabiertos suman <b>12.313</b> y superan los <b>5.712</b> requerimientos: un requerimiento puede estar en más de un estado (campo <code>estados</code> es una lista). No son tres universos separados, son etiquetas que se solapan.</div></div>
+
+<h2>4 · Estado de las reglas de cifras</h2>
+<div class="card ok"><ul>
+<li><b>n_reqs es la única cifra de cantidad.</b> El reporte HTML no deriva ninguna cantidad de <code>correlativos</code>: la lista se muestra recortada a 3 elementos como referencia y ninguna frase del tipo "N cartas" aparece en el archivo (búsqueda de <code>(\d+)\s*cartas</code> sobre el HTML: 0 resultados).</li>
+<li><b>dias_max viene de <code>max(dias_abierto)</code></b> y es coherente con la fecha de cada carta: 0 inconsistencias en 3.438 requerimientos y 0 filas sin <code>dias_max</code> numérico.</li>
+</ul></div>
+
+<div class="card alerta"><b class="k">Problemas que la prueba destapó y que afectan la lectura del ranking</b><ul>
+<li><b>Empate masivo por construcción.</b> 106 grupos de cuentas comparten exactamente la misma terna (n_reqs, dias_max, gravedad), porque <code>gravedad</code> es una función determinista de esas dos cifras y hay pocas combinaciones. El orden dentro del empate lo decide el nombre alfabético, no la mora. Ejemplo: 7 cuentas distintas quedan todas en (8 requerimientos, 549 días, gravedad 433).</li>
+<li><b>La misma empresa aparece en dos filas</b> (una por producto) con nombres distintos: <i>Engie Energía Chile S.A.</i> (25 reqs, SSCC) y <i>ENGIE ENERGÍA CHILE S.A</i> (15 reqs, SITR). El pipeline agrupa por nombre normalizado más producto, así que la cuenta real está partida.</li>
+<li><b>El nombre visible es la variante más frecuente</b>, y por eso conviven mayúsculas y minúsculas del mismo coordinado: <i>Enel Green Power Chile S.A.</i> y <i>ENEL GREEN POWER CHILE S.A</i> son la misma empresa con dos filas.</li>
+<li><b>La columna del HTML se llama "Cartas" pero muestra <code>n_reqs</code></b>. La cifra es correcta; el rótulo invita a leerla como cantidad de cartas, que es exactamente la confusión que esta prueba busca evitar.</li>
+</ul></div>
+
+<div class="card warn"><b class="k">Sin cruce con Odoo</b> — <code>odoo.estado = "no_solicitado"</code>. Las cuentas listadas son todas las del CEN (1.523 pares empresa-producto (985 empresas tras normalizar el nombre sin sufijo legal), no la cartera real de CONECTA: no se distingue cliente, pipeline ni prospecto.</div>
+
+<div class="card"><b class="k">Respuestas: limitación del dato, no del mercado.</b> SITR, SLRP, PMU y PRS tienen 0 respondidos contra cientos de requerimientos cada uno. Eso no significa que el mercado no responda: las respuestas del CEN no son atribuibles a un requerimiento concreto en el corpus. La cifra de "sin respuesta" hay que leerla como "no se pudo emparejar la respuesta", no como tasa de respuesta del sector.</div>
+
+<div class="sub" style="margin-top:26px">Fuente: <code>out/radar.json</code> generado por <code>src/motor.py</code> · corpus sincronizado desde el VPS · verificación <code>verificar.py</code> y <code>verificar_sync.py</code>: ambas OK en esta corrida.</div>
+</body></html>

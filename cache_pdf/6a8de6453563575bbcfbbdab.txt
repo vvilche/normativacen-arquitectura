@@ -1,0 +1,228 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 25 de agosto de 2026 
+DE 05685-26 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 339 al 343 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 339-2026 al EAF 343-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Indisponibilidad > 
+Indicadores NTISyC > 2026 > Julio > Cálculo por EAF: 
+ 
+1. EAF 339-2026 
+2. EAF 340-2026 
+3. EAF 341-2026 
+ 
+4. EAF 342-2026 
+5. EAF 343-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el viernes 28 de agosto 
+de 2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Cabe destacar que en los eventos de falla asociados a los EAF 341 y 342 no tuvieron 
+afectación de punto de control. 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sra. María José Reveco – Encargado Titular CYT Operaciones SpA. 
+Sr. Hernán González Gaete – Encargado Titular Compañía SCM Minera Lumina Copper Chile. 
+Sra. María José Reveco – Encargado Titular Transelec S.A. 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Rodrigo Barrueto Díaz – Encargado Titular Compañía Minera del Pacífico S.A. 
+Sr. Alejandro Lagos Mardones – Encargado Titular Compañía Explotadora de Minas S.C.M. 
+Sr. Victor Gutierrez Gonzalez – Encargado Titular CGE Transmisión S.A. 
+Sr. José Rodrigo Lucero Chilovitis – Encargado Titular Compañía Minera Zaldívar LTDA. 
+DBCD/DTE-SSCC/SGASO 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 340-2026 
+18-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Incahuasi 
+Parcial 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. 
+ 
+La fecha y hora del cliente libre informado es anterior a 
+la fecha y hora de interrupción. 
+ 
+Enviar antecedentes corregidos. 
+ 
+No envía consumos afectados por el alimentador "LA 
+HIGUERA" asociado al paño PA S/E INCAHUASI E2. 
+ 
+Enviar antecedentes solicitados. 
+EAF 341-2026   
+18-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Monte Patria 
+Parcial 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. No obstante, respecto del contenido 
+recibido no se formulan observaciones de calidad y/o 
+formato, por lo que se incorpora íntegramente al 
+cálculo. 
+EAF 343-2026 
+19-07-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Incahuasi 
+Parcial 
+SI 
+Se informa que la empresa Distribuidora sí remitió la 
+información; sin embargo, ésta no fue presentada 
+conforme a lo exigido por la Norma Técnica de 
+Compensaciones, pues no se entregó dentro del plazo 
+establecido. 
+ 
+No envía consumos afectados por el alimentador "LA 
+HIGUERA" asociado al paño PA S/E INCAHUASI E2. 
+ 
+Enviar antecedentes solicitados 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+EAF 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con 
+consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+Se identifican valores de CPPH anómalos en relación 
+con la cantidad de clientes afectados. Se solicita 
+revisar los siguientes registros: 
+• 
+S/E Incahuasi: 2 clientes afectados; CPPH 
+informado: 0,002691 MW; CPPH promedio de 
+referencia: 0,000649 MW. 
+ 
+Se solicita revisar y, de corresponder, corregir la 
+información remitida. En caso de ratificar los 
+valores informados, indicar los antecedentes que 
+justifican la desviación observada. 
+ 
+Se identifica una inconsistencia en el mecanismo de 
+recuperación informado para un registro. En particular, 
+para el registro asociado a la comuna de Freirina se 
+informa una hora de normalización equivalente de 23-
+07-2026 03:25, indicando como mecanismo de 
+recuperación “Por barra MT”; sin embargo, de acuerdo 
+con el EAF, la disponibilidad de la barra se produjo 
+posteriormente, el 27-07-2026 a las 20:52. 
+ 
+En consecuencia, la hora de normalización informada 
+no resulta consistente con una recuperación asociada 
+a la restitución de la barra. 
+ 
+Se solicita revisar y, de corresponder, corregir la 
+hora de normalización y/o el mecanismo de 
+recuperación informado para dicho registro. En 
+caso de ratificar la hora de normalización indicada, 
+señalar el mecanismo efectivo mediante el cual se 
+produjo 
+la 
+recuperación 
+del 
+consumo 
+con 
+anterioridad a la disponibilidad de la barra. 
+ 
+(*) Los EAFs N° 339 y 342 no tuvieron afectación de Empresas Distribuidoras. 

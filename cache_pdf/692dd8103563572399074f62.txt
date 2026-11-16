@@ -1,0 +1,58 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 28 de noviembre de 2025 
+ENGIE N°388/2025
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Respuesta a su carta DE06962-25, “Servicio 
+Complementario de Partida Autónoma de unidades 
+U16 y CTM3. PRS Zona Norte Grande” 
+De nuestra consideración, 
+ 
+En respuesta a su comunicación DE06962-25 del 30 de octubre de 2025, se adjuntan los Anexos 1 y 2 con los 
+informes de las unidades CTM3 y U16 respectivamente, con los respaldos técnicos solicitados.  
+ 
+Es importante indicar que la potencia aparente que se debería instalar para la Partida Autónoma (PA) de la U16 y 
+de la CTM3 es igual a la suma de la potencia que necesita cada una de dichas unidades para alimentar sus servicios 
+auxiliares (Componente 1) y la potencia adicional que necesita la unidad que efectuaría la partida autónoma (Grupo 
+electrógeno, TG, u otro) para energizar la barra de servicios auxiliares o el transformador principal (Componente 2).  
+ 
+Al respecto, lo indicado en los Anexos 1 y 2 sólo consideran la Componente 1 y no constituye el dimensionamiento 
+del grupo generador necesario para efectuar una partida autónoma. La selección y diseño de dicho equipo requiere 
+un estudio específico, que considere aspectos adicionales como la capacidad de sincronización, comportamiento 
+frente a transientes y estabilidad durante la conexión a una barra sin tensión.  
+ 
+Cabe tener presente en esta materia y habida cuenta de las características técnicas de ambas unidades 
+generadoras, que el Estudio de Costos de SSCC 2024-2027 vigente no contempla un estándar tecnológico y de 
+eficiencia de un grupo electrógeno con una capacidad para realizar una PA de las magnitudes calculadas en los 
+informes adjuntos para CTM3 y U16, por lo que si el Coordinador instruyera una PA en cualquiera de ellas, no sería 
+posible recuperar los costos de inversión, habilitación y mantenimiento para su implementación y por tanto se 
+privaría el principio básico de recuperación de costos eficientes que contempla la normativa a los agentes del 
+mercado cuando se implementa un SSCC mediante instrucción directa. 
+ 
+Así mismo, dicho Estudio tampoco contempla las inversiones necesarias para desarrollar y remunerar los estudios 
+o declaraciones de impacto ambiental que se requerirían en este caso y que por tanto no sería posible recuperar.  
+ 
+Esperando una buena acogida, lo saluda atentamente,  
+ 
+ 
+ Juan Muñoz Tapia 
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 
+ 

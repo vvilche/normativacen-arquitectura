@@ -1,0 +1,53 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 2 de mayo de 2025 
+DE 02494-25 
+Señor 
+Víctor Gutiérrez González 
+Encargado Titular 
+CGE Transmisión S.A. 
+Presente 
+Ref.: Apertura intempestiva del interruptor 
+52AR de S/E Concepción 
+ 
+De mi consideración: 
+ 
+Me refiero a la apertura intempestiva del interruptor 52AR de S/E Concepción, ocurrida a 
+las 10:49 horas del día 23 de febrero de 2025, en la cual se vieron involucradas 
+instalaciones de su representada. 
+ 
+Al respecto, con el objetivo de aclarar debidamente las causas y consecuencias de los 
+eventos en cuestión, en conformidad con lo que establece el Título 6-7, y en particular, el 
+Artículo 6-44 de la Norma Técnica de Seguridad y Calidad de Servicio, y en virtud de las 
+modificaciones aplicadas al proceso de los Estudios para Análisis de Falla, instruidas por la 
+Superintendencia de Electricidad y Combustibles mediante las Resoluciones Exentas 
+N°30989-2019 y N°30891-2019, solicito a usted remitir al Coordinador antes de las 18:00 
+horas del día 09 de mayo de 2025, la siguiente información: 
+• 
+Estado de avance y/o informe con los resultados de las medidas correctivas a corto 
+plazo declaradas: 
+- 
+Revisión de Plano de Control del selector de transferencia de protecciones 
+(Transelec) del paño A7 al paño AR de S/E Concepción. 
+- 
+Cálculo de Detectores de Falla B8 de SE Concepción. 
+- 
+Parametrización en relé paño B8 de SE Concepción. 
+- 
+Cálculo de Detectores de Falla B11 de SE Concepción. 
+- 
+Parametrización en relé paño B11 de SE Concepción. 
+ 
+En caso de no encontrarse ejecutadas a la fecha las labores correspondientes, se solicita 
+enviar el cronograma de trabajo actualizado, con fechas definidas. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+ Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. Claudio Metayer Guerrero - Encargado Suplente de la empresa CGE Transmisión S.A. 
+DAOP/ngm 

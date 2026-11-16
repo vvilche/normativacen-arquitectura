@@ -1,0 +1,1292 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 31 de diciembre de 2025 
+ 
+    
+DE 08421-25 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+de 
+Indicadores 
+de 
+Desempeño de Servicios Complementarios 
+prestados durante el mes de noviembre 2025, 
+segunda versión. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página 
+web del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de 
+los Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de 
+noviembre 2025. Estos indicadores fueron considerados en la versión definitiva del IVTE de 
+dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador 
+en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2025 > Noviembre 2025 
+> Versión 2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las 
+observaciones recibidas para la primera versión del Informe. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ASA/ycl 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de noviembre 
+2025 consideradas en la versión 2. 
+ 
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Colbún S.A. Disponi
+bilidad 
+UG Colbún 1 
+Fecha: 
+01.11.2025 
+00:04:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que la 
+unidad fue instruida y fue capaz de prestar el 
+servicio adecuadamente y que, adicionalmente, 
+durante las instrucciones presentó una buena 
+calidad en sus señales SCADA. Dicho lo anterior 
+se recalcula el factor de disponibilidad y pasa a 
+100%. 
+ 
+Cabe destacar que la solicitud Neomante 
+2025120589, causante de la indisponibilidad, 
+señala explícitamente que la fecha de finalización 
+efectiva fue el 03-11-2025 a las 16:41 horas y no 
+a las 29-10-2025 a las 17:00 como señala su 
+representada en la observación. 
+ 
+Se solicita rellenar adecuadamente los campos 
+disponibles en Neomante tanto de horas efectivas 
+de inicio y final y el campo “Afecta SSCC”. Este 
+último es fundamental en caso de que la unidad 
+presente una limitación que impida la prestación 
+de SSCC. 
+2 
+Colbún S.A. Disponi
+bilidad 
+UG Colbún 2 
+Fecha: 
+01.11.2025 
+01:34:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+3 
+Colbún S.A. Disponi
+bilidad 
+UG Colbún 1 
+Fecha: 
+01.11.2025 
+02:47:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+ 
+4 
+Colbún S.A. Disponi
+bilidad 
+UG Colbún 1 
+Fecha: 
+01.11.2025 
+19:21:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+5 
+Colbún S.A. Disponi
+bilidad 
+UG Colbún 2 
+Fecha: 
+01.11.2025 
+19:21:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+6 
+Colbún S.A. Disponi
+bilidad 
+UG Colbún 1 
+Fecha: 
+01.11.2025 
+20:13:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+7 
+Colbún S.A. Disponi
+bilidad 
+UG Colbún 2 Fecha: 
+01.11.2025 
+20:13:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Ver respuesta a la observación N°1. 
+8 
+Colbún S.A. Disponi
+bilidad 
+UG Colbún 2 
+Fecha: 
+01.11.2025 
+23:05:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+9 
+Colbún S.A. Disponi
+bilidad 
+UG Colbún 1 
+Fecha: 
+02.11.2025 
+19:18:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+10 Colbún S.A. Disponi
+bilidad 
+UG Colbún 2 
+Fecha: 
+02.11.2025 
+19:18:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+11 Colbún S.A. Disponi
+bilidad 
+UG Colbún 1 
+Fecha: 
+03.11.2025 
+05:29:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+12 Colbún S.A. Disponi
+bilidad 
+UG Colbún 1 
+Fecha: 
+03.11.2025 
+07:42:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+13 Colbún S.A. Disponi
+bilidad 
+UG Colbún 2 
+Fecha: 
+03.11.2025 
+07:42:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+14 Colbún S.A. Disponi
+bilidad 
+UG Colbún 1 
+Fecha: 
+03.11.2025 
+09:19:00 
+(UTC-3) 
+La limitación se debe a disponibilidad de datos de 
+SITR lo cual se normalizó el 29 de octubre a las 
+17:00, ver informe de Neomante anexos. Se destaca 
+que la unidad si es evaluda debido a que tiene los 
+datos de SITR para que pueda ser evaluada. 
+Solicitud: Revisar informe de limitación y considerar 
+que la unidad estaba disponible 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+15 Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+04.11.2025 
+18:27:00 
+(UTC-3) 
+Se recibe instrucción para subir a Mínimo Técnico a 
+ambas unidades que estaban fuera de servicio. El 
+operador del Coordinador no indica que sea una 
+activación del Control Terciario de Frecuencia ni 
+tampoco por 212 MW de reserva. Se adjunta 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que no corresponde 
+a una instrucción de CTF. Dicho lo anterior la 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+grabación 
+Solicitud: Revisar instrucción recibida y reevluar si 
+corresponde 
+instrucción se elimina, el factor de desempeño se 
+recalcula y pasa a “No Activado”. 
+16 Colbún S.A. 
+CTF 
+UG Colbún 1 
+Fecha: 
+05.11.2025 
+00:00:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202511" la 
+instrucción inicia a las 00:00 y termina a las 00:06 
+habiendo transcurriendo solo 6 minutos desde el 
+inicio de la instrucción en condiciones que el servicio 
+tiene un tiempo de entrega de la reserva de 15 
+minutos por lo que la instrucción no cumple con los 
+requerimientos 
+para 
+este 
+servicio. 
+Solicitud: Se solicita revisar tiempo de instrucción y 
+no considerar su evaluación 
+Se acoge parcialmente. 
+ 
+La instrucción observada corresponde a la 
+continuación de la instrucción iniciada el día 04-
+11-2025 a las 23:39 horas, la cual finalizó a las 
+00:06 del día 05-11-2025. Dicho lo anterior, se 
+elimina la instrucción de las 00:00 horas y se 
+ajusta la hora fin de la instrucción de las 23:39. 
+ 
+El indicador de respuesta del día 05-11-2025 en la 
+hora 0 se recalcula y pasa a “No Activado”, 
+mientras que el indicador del día 04-11-2025 en la 
+hora 23 pasa a 98,2% y 100% para HE Colbún U1 
+y U2 respectivamente. 
+17 Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+05.11.2025 
+00:00:00 
+(UTC-3) 
+De acuerdo con el documento "CTF_202511" la 
+instrucción inicia a las 00:00 y termina a las 00:06 
+habiendo transcurriendo solo 6 minutos desde el 
+inicio de la instrucción en condiciones que el servicio 
+tiene un tiempo de entrega de la reserva de 15 
+minutos por lo que la instrucción no cumple con los 
+requerimientos 
+para 
+este 
+servicio. 
+Solicitud: Se solicita revisar tiempo de instrucción y 
+no considerar su evaluación 
+Se acoge parcialmente. 
+ 
+La instrucción observada corresponde a la 
+continuación de la instrucción iniciada el día 04-
+11-2025 a las 23:39 horas, la cual finalizó a las 
+00:06 del día 05-11-2025. Dicho lo anterior, se 
+elimina la instrucción de las 00:00 horas y se 
+ajusta la hora fin de la instrucción de las 23:39. 
+ 
+El indicador de respuesta del día 05-11-2025 en la 
+hora 0 se recalcula y pasa a “No Activado”, 
+mientras que el indicador del día 04-11-2025 en la 
+hora 23 pasa a 98,2% y 100% para HE Colbún U1 
+y U2 respectivamente. 
+18 Colbún S.A. 
+CTF 
+UG Colbún 1 
+Fecha: 
+06.11.2025 
+01:10:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún la instrucción se recibe a las 01:12 minutos, 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+lo cual es mencionado explicitamente por el 
+operador del Coordinador. Por otra parte, la 
+instrucción de finalización se recibe a las 01:26. Lo 
+anterior no alcanza a dar los 15 minutos para la 
+activación completa del servicio. Se adjuntan ambas 
+grabaciones. 
+Se solicita revisar extensión de activación y quitar de 
+la evaluación si correponde. 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la hora de inicio 
+fue a las 01:12. Dicho lo anterior la instrucción se 
+elimina, el factor de desempeño se recalcula y 
+pasa a 100%. 
+ 
+Se reitera que, en caso de que una instrucción de 
+CTF tenga una duración menor a 15 minutos, esto 
+no es justificación para no ajustar la potencia 
+inyectada y cumplir con el criterio C1 de 
+evaluación. 
+19 Colbún S.A. 
+CTF 
+UG Colbún 1 
+Fecha: 
+06.11.2025 
+06:47:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún el operador del Coordinador solicita llevar a 
+las unidades a plena carga por lo que se sube más 
+que lo requerido. La potencia máxima que considera 
+el Coordinador para efectos de la evaluación es 231 
+MW, esto en condiciones que el factor de potencia 
+es 0,95pu, sin embargo las unidades pueden 
+generar más potencia activa cuando el factor de 
+potencia es cercano a 1. Se debe tener en cuenta 
+esta situación al momento de evaluar a las unidades. 
+Se adjunta registro con la instrucción de subir 
+unidades 
+a 
+plena 
+carga. 
+Solicitud: Revisar instrucción y reevaluar en 
+consecuencia. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la unidad ya se 
+encontraba a plena carga al ser instruida para 
+CTF+, por lo que se actualiza el RIO y la 
+instrucción se elimina. 
+ 
+Dicho lo anterior el factor de respuesta se 
+recalcula y pasa a “No Activado”. 
+ 
+20 Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+07.11.2025 
+19:12:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún se recibe la primera instrucción a las 19:12 
+para llevar ambas unidades de Colbún a Mínimo 
+Técnico por activación de SSCC. Luego a las 19:13 
+el Coordinador llama nuevamente para entregar 
+detalles de la instrucción anterior y corrigiendo los 
+montos para cada unidad. Finalmente a las 19:27 se 
+llama para la finalización del servicio. En todo el 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la hora de inicio 
+efectiva fue a las 19:13 horas debido a los ajustes 
+de consigna. Dicho lo anterior se actualiza el RIO 
+y la instrucción se recalcula y pasa a 100% en su 
+factor de respuesta. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+proceso de activación ocurre en un transcurso 
+menor a los 15 minutos mínimos para activar la 
+reserva.  
+Solicitud: Revisar llamados e instrucciones y no 
+evaluar instrucción 
+Se reitera que, en caso de que una instrucción de 
+CTF tenga una duración menor a 15 minutos, esto 
+no es justificación para no ajustar la potencia 
+inyectada y cumplir con el criterio C1 de 
+evaluación. 
+21 Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+07.11.2025 
+19:27:00 
+(UTC-3) 
+De acuerdo con el registro de Colbún no se recibe 
+una instrucción de activación a esta hora, sino que 
+la 
+finalización 
+del 
+servicio 
+anterior. 
+Solicitud: Revisar si ocurre esta instrucción y 
+reevaluar si corresponde. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que no corresponde 
+a una nueva evaluación, sino que es la finalización 
+de la instrucción iniciada a las 19:13 horas. Dicho 
+lo anterior se actualiza el RIO y la instrucción se 
+elimina. 
+22 Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+07.11.2025 
+19:38:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún se recibe la instrucción de llevar a la unidad 
+a plena carga a las 19:38, sin embargo en el 
+documento CTF_202511 se evalúa a la unidad como 
+si hubiera tenido que subir 37 MW. Se adjunta 
+grabación. 
+Solicitud: Revisar monto de instrucción y reevaluar 
+en consecuencia. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción, donde se determina que la 
+instrucción de CTF+ fue subir a plena carga, por lo 
+que se ajusta el monto a 128MW y se recalcula la 
+respuesta. 
+ 
+Dicho lo anterior se actualiza el RIO y el factor de 
+desempeño pasa a 100%. 
+23 Colbún S.A. 
+CTF 
+UG La Mina 
+2 
+Fecha: 
+09.11.2025 
+09:23:00 
+(UTC-3) 
+La unidad se encontraba fuera de servicio por lo que 
+no podía estar sujeta a recibir una instrucción para 
+el 
+CTF 
+de 
+bajada. 
+Solicitud: Revisar condición operacional de la unidad 
+y reevaluar. 
+No se acoge la observación - Aclaración. 
+ 
+Las instrucciones de activación del servicio de 
+CTF son en base a las necesidades del sistema, 
+según sea definido por el programa e instruido por 
+el CDC. 
+ 
+Al respecto, la evaluación del factor activación de 
+Control Terciario de Frecuencia se realiza de 
+manera consistente con la instrucción entregada 
+por el CDC, que en este caso fue de prestar el 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+servicio por la central completa. Dado esto, en la 
+evaluación, se consideran las potencias, rampas y 
+señales de ambas unidades en conjunto. El 
+desempeño en cuestión de la Central se asigna a 
+cada una de las unidades. 
+ 
+Según registros de potencia de la central completa 
+de HP La Mina recibidos en SCADA, la unidad 
+alcanzó una potencia menor (2,58MW) a su 
+mínimo técnico (4,2MW) por lo que la evaluación 
+de CTF- se mantiene. Adicionalmente, se solicita 
+el envío de un informe de mínimo técnico 
+actualizado considerando que la central es capaz 
+de alcanzar una potencia mínima menor a la 
+informada. 
+24 Colbún S.A. 
+CTF 
+UG Colbún 1 
+Fecha: 
+10.11.2025 
+19:35:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones se recibe 
+la instrucción de la activación del servicio a las 19:26 
+horas, sin embargo en el documento CTF_202511 el 
+Coordinador evalúa el inicio de la activación a las 
+19:35, en condiciones que la instrucción ya había 
+sido 
+dada. 
+Se 
+adjunta 
+grabación. 
+Solicitud: Revisar inicio de instrucción y reevaluar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la hora de inicio 
+fue a las 19:26. Dicho lo anterior la instrucción se 
+elimina, el factor de desempeño se recalcula y 
+pasa a 100%. 
+ 
+25 Colbún S.A. 
+CTF 
+UG Colbún 1 
+Fecha: 
+10.11.2025 
+21:23:00 
+(UTC-3) 
+Según el documento CTF_202511 se recibieron 
+instrucciones a las 21:23 y 21:24 por la activación 
+del CTF de subida, sin embargo la unidad ya se 
+encontraba operando en su potencia máxima. 
+Solicitud: Favor revisar el contexto de estas 
+evaluaciones y reevaluar si corresponde. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la unidad ya se 
+encontraba a plena carga al ser instruida para 
+CTF+, por lo que se actualiza el RIO y la 
+instrucción se elimina. 
+ 
+26 Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+11.11.2025 
+22:52:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún la instrucción se recibe para la unidad N°1 en 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+condiciones que el Coordinador lo evalúa para la 
+unidad 
+N°2. 
+Se 
+adjunta 
+registro. 
+Solicitud: Revisar instrucción y reevaluar. 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la unidad 
+instruida fue la U1 por lo que se actualiza el RIO y 
+la instrucción se elimina para la U2. Dicho lo 
+anterior el indicador se recalcula y pasa a “No 
+Activado”. 
+ 
+27 Colbún S.A. 
+CTF 
+UG 
+Canutillar 1 
+Fecha: 
+13.11.2025 
+19:28:00 
+(UTC-3) 
+De acuerdo con el Registro RIO del Coordinador la 
+unidad se encontraba participando del CPF 
+simultáneamente 
+al 
+momento 
+de 
+recibir 
+la 
+instrucción de la activación del CTF de subida. En 
+este contexto la unidad sube pero al mismo tiempo 
+el regulador de velocidad varía su potencia activa en 
+respuesta 
+a 
+la 
+frecuencia 
+del 
+sistema. 
+Solicitud: 
+Evaluar 
+considerando 
+prestación 
+simultanea de CPF y CTF 
+Se acoge la observación. 
+ 
+Se analizan las señales SCADA de la operación 
+de la unidad, constatando que hubo un cambio de 
+consigna acorde a la instrucción del CTF durante 
+la prestación conjunta con el servicio de CPF. 
+ 
+Dicho lo anterior, el indicador de respuesta se 
+recalcula 
+quedando 
+en 
+100% 
+para 
+esta 
+instrucción. 
+28 Colbún S.A. 
+CTF 
+UG 
+Canutillar 2 
+Fecha: 
+13.11.2025 
+19:28:00 
+(UTC-3) 
+De acuerdo con el Registro RIO del Coordinador la 
+unidad se encontraba participando del CPF 
+simultáneamente 
+al 
+momento 
+de 
+recibir 
+la 
+instrucción de la activación del CTF de subida. En 
+este contexto la unidad sube pero al mismo tiempo 
+el regulador de velocidad varía su potencia activa en 
+respuesta 
+a 
+la 
+frecuencia 
+del 
+sistema. 
+Solicitud: 
+Evaluar 
+considerando 
+prestación 
+simultanea de CPF y CTF 
+Se acoge la observación. 
+ 
+Se analizan las señales SCADA de la operación 
+de la unidad, constatando que hubo un cambio de 
+consigna acorde a la instrucción del CTF durante 
+la prestación conjunta con el servicio de CPF. 
+ 
+Dicho lo anterior, el indicador de respuesta se 
+recalcula 
+quedando 
+en 
+100% 
+para 
+esta 
+instrucción. 
+29 Colbún S.A. 
+CTF 
+UG Colbún 1 
+Fecha: 
+13.11.2025 
+23:07:00 
+(UTC-3) 
+De acuerdo con el documento CTF_202511 la 
+instrucción finaliza a las 23:59, sin embargo de 
+acuerdo con el registro de grabaciones de Colbún se 
+recibe la instrucción de bajar a Mínimo Técnico a las 
+23:24 en condiciones que el servicio ya estaba 
+activado, por lo que esto interrumpe la medición del 
+Se acoge parcialmente. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la hora de inicio 
+correspondió a las 23:07 horas con hora 
+finalización a las 23:24 con un monto instruido de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+aporte.  
+Solicitud: Revisar contexto de la instrucción 
+considerando llamado del CEN mientras que el 
+servicio está activo. 
+-22MW. Dicho lo anterior el indicador de respuesta 
+se recalcula y pasa a 87,5%. 
+30 Colbún S.A. 
+CTF 
+UG 
+Canutillar 2 
+Fecha: 
+14.11.2025 
+19:07:00 
+(UTC-3) 
+De acuerdo con el registro RIO la instrucción dura 
+menos de 15 minutos desde las 19:07 hasta las 
+19:21. Junto con lo anterior la unidad se encontraba 
+pretando 
+CPF 
+simultáneamente. 
+Solicitud: 
+Revisar 
+duración 
+de 
+instrucción 
+y 
+prestación simultánea de SSCC. 
+Se acoge la observación. 
+ 
+Se analizan las señales SCADA de la operación 
+de la unidad, constatando que hubo un cambio de 
+consigna acorde a la instrucción del CTF durante 
+la prestación conjunta con el servicio de CPF. 
+ 
+Dicho lo anterior, el indicador de respuesta se 
+recalcula 
+quedando 
+en 
+100% 
+para 
+esta 
+instrucción. 
+31 Colbún S.A. 
+CTF 
+UG 
+Canutillar 2 
+Fecha: 
+14.11.2025 
+19:34:00 
+(UTC-3) 
+De acuerdo con el Registro RIO del Coordinador la 
+unidad se encontraba participando del CPF 
+simultáneamente 
+al 
+momento 
+de 
+recibir 
+la 
+instrucción de la activación del CTF de subida. En 
+este contexto la unidad sube pero al mismo tiempo 
+el regulador de velocidad varía su potencia activa en 
+respuesta 
+a 
+la 
+frecuencia 
+del 
+sistema. 
+Solicitud: 
+Evaluar 
+considerando 
+prestación 
+simultanea de CPF y CTF 
+Se acoge la observación. 
+ 
+Se analizan las señales SCADA de la operación 
+de la unidad, constatando que hubo un cambio de 
+consigna acorde a la instrucción del CTF durante 
+la prestación conjunta con el servicio de CPF. 
+ 
+Dicho lo anterior, el indicador de respuesta se 
+recalcula 
+quedando 
+en 
+100% 
+para 
+esta 
+instrucción. 
+32 Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 
+15.11.2025 
+07:56:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún la instrucción se recibe a las 07:40 sin 
+embargo el Coordinador evalúa el inicio a las 07:56 
+en condiciones que la instrucción ya había sido 
+ejecutada. 
+Solicitud: Revisar inicio de instrucción y reevaluar si 
+corresponde 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la hora de inicio 
+fue a las 07:40. Dicho lo anterior se actualiza RIO 
+y el factor de desempeño se recalcula y pasa a 
+66%, ya que alcanza un monto 6,6 MW mayor al 
+solicitado por lo que el índice C3 de su respuesta 
+se mantiene en 0%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+33 
+Enlasa 
+CTF 
+TER Trapen 
+Fecha: 
+15-11-2025 
+07:55 
+El día 15-11-2025 la central TRAPEN_DIESEL entra 
+en servicio por activación de CTF (+) a las 07:55, con 
+instrucción de salida a las 08:35. Sin embargo, en el 
+Registro de Instrucción de Operación se ingresó la 
+hora de finalización a las 08:36, afectando la 
+evaluación c3 de la activación. Se adjunta la 
+grabación "20251115083421" como evidencia. Se 
+solicita modificar el tiempo de finalización de la 
+activación del 15-11-2025 a las 07:55 de la hoja de 
+cálculo, "CTF_202511" y recalcular el desempeño 
+de la activación mencionada. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la hora de 
+finalización de la instrucción de CTF+ fue a las 
+08:35. Dicho lo anterior se actualiza RIO y el factor 
+de respuesta de la instrucción se recalcula y pasa 
+a 38%, ya que alcanzó un monto 20,1 MW menor 
+al solicitado y el índice C3 de su respuesta se 
+mantiene en 0%. 
+34 
+Enlasa 
+CTF 
+TER Trapen 
+Fecha: 
+15-11-2025 
+08:43 
+El día 15-11-2025 la central TRAPEN_DIESEL entra 
+en servicio por activación de CTF (+) a las 08:43, con 
+instrucción de salida a las 09:03. Sin embargo, en el 
+Registro de instrucción de operación se ingresó la 
+hora de finalización a las 09:43, afectando la 
+evaluación c3 de la activación. Se adjunta la 
+grabación "20251115090254" como evidencia. Se 
+solicita modificar el tiempo de finalización de la 
+activación del 15-11-2025 a las 08:49 de la hoja de 
+cálculo, "CTF_202511" y recalcular el desempeño 
+de la activación mencionada. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y se determina que la hora de 
+finalización de la instrucción de CTF+ fue a las 
+08:49. Dicho lo anterior se actualiza RIO y el factor 
+de respuesta de la instrucción se recalcula y pasa 
+a 100%, ya que ajusta su potencia activa 
+adecuadamente y en consistencia con lo instruido 
+por CDC. 
+35 
+Acciona 
+CT 
+PFV El 
+Romero 
+Fecha: 
+04-11-2025 
+01:08 
+Se califica como NC, sin embargo, el parque 
+comienza a descender de 0 a -60 MVAr a las 
+1:07:30, inmediatamente después que el CEN lo 
+instruyera. Se adjunta Figura 1 y Tabla 1 mostrando 
+lo anteriormente mencionado. 
+No se acoge observación. 
+ 
+Se analizan los antecedentes y se observa que la 
+unidad se encontraba inyectando 2MW de 
+potencia activa con una absorción de 58MVAr de 
+reactivos. El punto de operación anterior se 
+encuentra fuera de la curva PQ vigente, la cual es 
+responsabilidad del coordinado actualizar. Dicho 
+lo anterior el indicador no cambia. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Adicionalmente, se constata que la potencia activa 
+de la unidad es menor a su mínimo técnico 
+aprobado (5,39MW según carta DE05529-18) por 
+lo que se solicita el envío de un informe de mínimo 
+técnico actualizado considerando que la central es 
+capaz de alcanzar una potencia mínima menor a 
+la aprobada. 
+36 
+Acciona 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 
+Mes 
+completo 
+A partir de la notificación de la culminación del 
+proceso de verificación del CPF de la central, esta 
+ha participado activamente en dicho servicio. 
+Asimismo, se ha solicitado en tres oportunidades a 
+la 
+casilla 
+"verificacion.sscc@coordinador.cl" 
+la 
+asignación de un identificador para la central con el 
+fin de disponer los registros requeridos por el CEN 
+en el servidor correspondiente, sin embargo, no 
+hemos recibido respuesta a ello, lo que ha impedido 
+validar el desempeño de la central. Cabe señalar 
+que los registros están disponibles y fueron enviados 
+por correo a la misma casilla el día 04/12/2025 a las 
+15:24 horas, sin obtener confirmación. Por lo 
+anterior, 
+solicitamos 
+se 
+pueda 
+recalcular 
+el 
+desempeño de CPF y se entregue el identificador 
+correspondiente, a fin de realizar la carga de los 
+registros para el cálculo de los índices de 
+desempeño. 
+Se acoge observación. 
+ 
+Se revisan los antecedentes y se consideran los 
+registros cargados en el cálculo de indicadores de 
+desempeño de SSCC noviembre 2025 V2, ya que 
+el coordinado disponibilizó sus registros en una 
+fecha posterior al cálculo de la primera versión. 
+ 
+Se reitera la importancia de cargar la información 
+necesaria 
+para 
+el 
+cálculo 
+en 
+los 
+plazos 
+establecidos, por lo que se solicita su envío a más 
+tardar el primer día hábil del mes. El no envío de 
+estos en plazo constituye una falta a los procesos 
+establecidos. 
+37 
+Acciona 
+CPF 
+PFV 
+Almeyda 
+Fecha: 
+Mes 
+completo 
+Se solicita revisar el cálculo del Factor de 
+Desempeño en función de los registros enviados, tal 
+como en el caso anterior. 
+Se acoge observación. 
+ 
+Se revisan los antecedentes y se consideran los 
+registros cargados en el cálculo de indicadores de 
+desempeño de SSCC noviembre 2025 V2, ya que 
+el coordinado disponibilizó sus registros en una 
+fecha posterior al cálculo de la primera versión. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Se reitera la importancia de cargar la información 
+necesaria 
+para 
+el 
+cálculo 
+en 
+los 
+plazos 
+establecidos, por lo que se solicita su envío a más 
+tardar el primer día hábil del mes. El no envío de 
+estos en plazo constituye una falta a los procesos 
+establecidos. 
+38 
+Acciona 
+CPF 
+PFV 
+Malgarida 
+Fecha: 
+Mes 
+completo 
+Se solicita revisar el cálculo del Factor de 
+Desempeño en función de los registros enviados, tal 
+como en el caso anterior. 
+Se acoge observación. 
+ 
+Se revisan los antecedentes y se consideran los 
+registros cargados en el cálculo de indicadores de 
+desempeño de SSCC noviembre 2025 V2, ya que 
+el coordinado disponibilizó sus registros en una 
+fecha posterior al cálculo de la primera versión. 
+ 
+Se reitera la importancia de cargar la información 
+necesaria 
+para 
+el 
+cálculo 
+en 
+los 
+plazos 
+establecidos, por lo que se solicita su envío a más 
+tardar el primer día hábil del mes. El no envío de 
+estos en plazo constituye una falta a los procesos 
+establecidos. 
+39 
+Acciona 
+CPF 
+PFV Usya 
+Fecha: 
+Mes 
+completo 
+Se solicita revisar el cálculo del Factor de 
+Desempeño en función de los registros enviados, tal 
+como en el caso anterior. 
+Se acoge observación. 
+ 
+Se revisan los antecedentes y se consideran los 
+registros cargados en el cálculo de indicadores de 
+desempeño de SSCC noviembre 2025 V2, ya que 
+el coordinado disponibilizó sus registros en una 
+fecha posterior al cálculo de la primera versión. 
+ 
+Se reitera la importancia de cargar la información 
+necesaria 
+para 
+el 
+cálculo 
+en 
+los 
+plazos 
+establecidos, por lo que se solicita su envío a más 
+tardar el primer día hábil del mes. El no envío de 
+estos en plazo constituye una falta a los procesos 
+establecidos. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+40 
+Enel 
+Generación 
+CPF 
+HE 
+PEHUENCH
+E U1 y U2 
+Fecha: Mes completo 
+Enel disponibilizó sus registros CPF del mes de 
+noviembre en una fecha posterior a la publicación de 
+la primera versión del cálculo de indicadores. 
+Se acoge observación. 
+ 
+Se revisan los antecedentes y se consideran los 
+registros cargados en el cálculo de indicadores de 
+desempeño de SSCC noviembre 2025 V2, ya que 
+el coordinado disponibilizó sus registros en una 
+fecha posterior al cálculo de la primera versión. 
+ 
+Se reitera la importancia de cargar la información 
+necesaria 
+para 
+el 
+cálculo 
+en 
+los 
+plazos 
+establecidos, por lo que se solicita su envío a más 
+tardar el primer día hábil del mes. El no envío de 
+estos en plazo constituye una falta a los procesos 
+establecidos. 
+ 

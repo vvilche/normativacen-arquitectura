@@ -1,0 +1,57 @@
+ 
+ 
+INFORME DE RESPUESTA AL COORDINADOR ELÉCTRICO NACIONAL 
+ 
+AGROCOMERCIAL AS LTDA. Ref.: EAF 345/2026 y EAF 352/2026 
+Aperturas intempestivas interruptor 52E1, S/E Agrosuper 
+Fecha: 04 de septiembre de 2026 
+ 
+Señor Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional Coordinador Eléctrico Nacional 
+ Presente 
+ 
+De mi consideración: 
+En atención a lo solicitado mediante carta DE05658-26, relativa a las aperturas 
+intempestivas del interruptor 52E1 de la Subestación Agrosuper, ocurridas los días 
+19 y 21 de julio de 2026, y conforme al Título 6-7 y Artículo 6-44 de la NTSyCS, 
+AGROCOMERCIAL AS LTDA. informa lo siguiente: 
+1. Maniobras ejecutadas para la normalización de las instalaciones 
+Tras producirse las aperturas intempestivas del interruptor 52E1, en ninguna de las 
+dos oportunidades fue necesario ejecutar maniobras locales en la Subestación 
+Agrosuper para restablecer el servicio. 
+La reenergización del paño E1 fue realizada de manera remota por el Centro de 
+Control de ADY, sin intervención en terreno por parte del personal de 
+AGROCOMERCIAL AS LTDA. 
+2. Actualización de los Informes de Falla (48 horas y 5 días) 
+En cumplimiento de lo solicitado, se actualizaron los informes de falla IF2026004555 y 
+IF2026004536, incorporando los registros y antecedentes complementarios del 
+evento. 
+Los archivos COMTRADE correspondientes a las protecciones del paño E1 fueron 
+subidos en la plataforma Neomante, quedando disponibles para el proceso de 
+análisis del Coordinador. 
+
+ 
+3. Acciones correctivas y/o preventivas 
+A la fecha, no se han implementado acciones adicionales a las ya informadas en el 
+Informe de Falla de 5 días, manteniéndose el seguimiento técnico del desempeño de 
+las protecciones del paño E1. 
+ 
+4. Otros antecedentes relevantes 
+AGROCOMERCIAL AS LTDA. mantiene plena disposición para aportar información 
+adicional que el Coordinador estime necesaria para el análisis integral del evento. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Alejandro Sánchez Jaramillo  -  Encargado Titular AGROCOMERCIAL AS LTDA. 
+ 
+ 
+ 
+ 
+ 
+C.C.: Ariel Ramos – Encargado Suplente 
+ 

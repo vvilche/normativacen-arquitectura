@@ -1,0 +1,173 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 02 de diciembre de 2025 
+DE 07713-25 
+Señor 
+Ricardo Rabié 
+Encargado Titular 
+Parque Eólico Punta de Talca SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+del PE Punta de Talca. 
+[1] Carta CL-IC-090-2025 de Parque Eólico Punta de 
+Talca SpA, Ref.: “Respuesta a carta DE 02843-25” de 
+fecha 27 de octubre de 2025. 
+Responde a Ingreso DE10921-25 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación del Servicio Complementario (SC) enviado por su representada mediante 
+carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 
+4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el 
+proceso de verificación del SC de Control de Tensión (CT) del PE Punta de Talca. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del 04 de diciembre de 2025 
+considerando los recursos indicados en el anexo de la presente carta. 
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de 
+prestación del CT del PE Punta de Talca se ha publicado en la siguiente ruta de la página 
+web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > Central PE Punta de Talca 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+DIR/PGR/adr 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PE Punta de Talca 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE Punta de Talca 
+Los siguientes Parámetros Operacionales a la fecha de emisión de esta carta de 
+verificación se encuentran en proceso de aprobación por el Coordinador.  
+• 
+Potencia máxima bruta: 80,466 [MW] 
+• 
+Potencia máxima neta: 79,243 [MW]  
+• 
+Potencia mínima bruta: 9,025 [MW]  
+• 
+Potencia mínima neta: 8,374 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión 
+Control de Tensión 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión: 
+El transformador principal de la S/E Punta de Talca cuenta con una limitación de -40 
+MVAr, si se supera este umbral, la potencia reactiva se va a 0,0 MVAr luego de unos 
+segundos por lo que se recomienda operar la central con un margen de seguridad de 
+absorción de -35 MVAr. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte de Parque Eólico Punta de Talca 
+SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control de Tensión: 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de Reactivos (PQ) 
+Factor de Potencia (cos φ)   
+Control de Tensión (VQ) 
+Central 
+  
+Tensión [pu]  
+Potencia Reactiva [MVAr]  
+Potencia [MW] 
+  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+PE Punta de Talca 
+8,37 
+42,32 
+39,33 
+39,44 
+39,14 
+38,87 
+31,99 
+40,36 
+35,62 
+35,74 
+35,73 
+35,19 
+55,62 
+35,41 
+30,67 
+30,78 
+30,80 
+30,22 
+79,24 
+29,14 
+24,59 
+24,70 
+26,39 
+24,07 
+79,24(1) 
+-35,00 -35,00 -35,00 -35,00 -35,00 
+55,62(1) 
+-35,00 -35,00 -35,00 -35,00 -35,00 
+31,99(1) 
+-35,00 -35,00 -35,00 -35,00 -35,00 
+8,37(1) 
+-34,36 -34,22 -34,29 -34,44 -34,37 
+(1) Limitación de consigna de absorción potencia reactiva en -35 MVAr debido a limitación en el transformador de poder 
+principal de la S/E Punta de Talca. 

@@ -1,0 +1,547 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 13 de octubre de 2025 
+ 
+    
+DE 06457-25 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+de 
+Indicadores 
+de 
+Desempeño de Servicios Complementarios 
+prestados durante el mes de agosto 2025, 
+segunda versión. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página 
+web del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de 
+los Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de 
+agosto 2025. Estos indicadores fueron considerados en la versión definitiva del IVTE de 
+dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador 
+en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2025 > Agosto 2025 > 
+Versión 2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las 
+observaciones recibidas para la primera versión del Informe. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ASA/adr 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de 
+agosto 2025 consideradas en la versión 2. 
+ 
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Colbún 
+CTF 
+UG 
+Angostura 
+U3 
+Fecha: 
+03.08.2025 
+01:44:00 
+(UTC-4) 
+Se solicita evaluar la instrucción de CTF 
+considerando el mínimo técnico informado en la 
+LI2025000721, la cual considera un MT de 40 
+MW. Considerando el monto instruido la unidad 
+cumple correctamente con la prestación del 
+CTF. 
+Solicitud: Revisar los limites operacionales de la 
+unidad generadora y corregir evaluación si 
+corresponde 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora que la limitación 
+del MT informada en Neomante fue aprobada, por lo que el 
+indicador se recalcula considerando un MT de 40MW para la 
+unidad Angostura U3. 
+ 
+Dicho lo anterior, la respuesta cambia a 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+2 
+Colbún 
+CTF 
+UG 
+Angostura 
+U3 
+Fecha: 
+04.08.2025 
+17:50:00 
+(UTC-4) 
+Se solicita evaluar la instrucción de CTF 
+considerando el mínimo técnico informado en la 
+LI2025000721, la cual considera un MT de 40 
+MW. Considerando el monto instruido la unidad 
+cumple correctamente con la prestación del 
+CTF. 
+Solicitud: Revisar los limites operacionales de la 
+unidad generadora y corregir evaluación si 
+corresponde 
+Se acoge la observación. 
+ 
+Ver respuesta a la observación N°1. 
+3 
+Colbún 
+CTF 
+PFV Diego 
+de Almagro 
+Sur 
+Fecha: 
+18.08.2025 
+12:47:00 
+(UTC-4) 
+Se solicita revisar la duración de la instrucción 
+ya que de acuerdo al documento "CTF_202508" 
+excede la hora de duración. 
+Solicitud: Revisar el tiempo de finalización de la 
+instrucción y corregir evaluación si corresponde 
+No se acoge la observación - Aclaración 
+ 
+La evaluación de CTF para la unidad corresponde a No 
+Verificable (NV) ya que la señal de potencia activa de la 
+unidad medida directamente desde SCADA presentó pérdida 
+de datos y permaneció invariante el durante la duración de la 
+instrucción. Esta condición no cumple con los criterios de 
+calidad definidos en el artículo 13 del Anexo Técnico 
+“Definición de Parámetros Técnicos y Operativos para el 
+Envío de Datos al SITR”, por lo que la evaluación se 
+mantiene. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Dicho lo anterior se solicita al coordinado regularizar las 
+señales integradas en el sistema SCADA, para lo cual debe 
+contactar directamente al área TI SCADA al mail 
+tec.scada@coordinador.cl. 
+4 
+Colbún 
+CTF 
+PFV Diego 
+de Almagro 
+Sur 
+Fecha: 18.08.2025 13:24:00 (UTC-4) 
+Se solicita revisar la duración de la instrucción 
+ya que de acuerdo al documento "CTF_202508" 
+excede 
+la 
+hora 
+de 
+duración. 
+Solicitud: Revisar el tiempo de finalización de la 
+instrucción y corregir evaluación si corresponde 
+No se acoge la observación - Aclaración 
+ 
+Ver respuesta a la observación N°3. 
+5 
+Colbún 
+CT 
+PFV Diego 
+de Almagro 
+Sur 
+Fecha: 11.08.2025 19:12:00 (UTC-4) 
+Se solicita eliminar del cálculo del desempeño 
+del Control de Tensión Manual, por cuanto la 
+instrucción corresponde a "Continua CT", 
+manteniendo los valores instruidos previamente. 
+Lo anterior puede revisarse en los respaldos 
+entregados por el CEN en el archivo RIO 
+"SSCC_2025-08-01_2025-08-31". 
+Solicitud: Eliminar la instrucción del cálculo y 
+corregir evaluación mensual si corresponde 
+Se acoge la observación. 
+ 
+Se corrobora que la instrucción corresponde a una 
+continuación del día anterior. Por lo tanto, se elimina esta 
+instrucción. 
+ 
+Dicho lo anterior el indicador de respuesta del día 11 de 
+agosto cambia a 100%, ya fue evaluada con categoría “No 
+Participa”. 
+6 
+Colbún 
+CT 
+PFV Diego 
+de Almagro 
+Sur 
+Fecha: 12.08.2025 18:08:00 (UTC-4) 
+Se solicita eliminar del cálculo del desempeño 
+del Control de Tensión Manual, por cuanto la 
+instrucción corresponde a "Continua CT", 
+manteniendo los valores instruidos previamente. 
+Lo anterior puede revisarse en los respaldos 
+entregados por el CEN en el archivo RIO 
+"SSCC_2025-08-01_2025-08-31". 
+Solicitud: Eliminar la instrucción del cálculo y 
+corregir evaluación mensual si corresponde 
+Se acoge la observación. 
+ 
+Se corrobora que la instrucción corresponde a una 
+continuación del día anterior. Por lo tanto, se elimina esta 
+instrucción. 
+ 
+Dicho lo anterior el indicador de respuesta del día 12 de 
+agosto cambia a 100%, ya fue evaluada con categoría “No 
+Participa”. 
+7 
+Colbún 
+CT 
+PFV Diego 
+de Almagro 
+Sur 
+Fecha: 15.08.2025 18:10:00 (UTC-4) 
+Se solicita eliminar del cálculo del desempeño 
+del Control de Tensión Manual, por cuanto la 
+Se acoge la observación. 
+ 
+Se corrobora que la instrucción corresponde a una 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+instrucción corresponde a "Continua CT", 
+manteniendo los valores instruidos previamente. 
+Lo anterior puede revisarse en los respaldos 
+entregados por el CEN en el archivo RIO 
+"SSCC_2025-08-01_2025-08-31". 
+Solicitud: Eliminar la instrucción del cálculo y 
+corregir evaluación mensual si corresponde 
+continuación del día anterior. Por lo tanto, se elimina esta 
+instrucción. 
+ 
+Dicho lo anterior el indicador de respuesta del día 15 de 
+agosto cambia a 100%, ya fue evaluada con categoría “No 
+Participa”. 
+8 
+Colbún 
+CTF 
+UG Colbún 
+U2 
+Fecha: 11.08.2025 00:01:00 (UTC-4) 
+Se solicita revisar el monto instruido ya que de 
+acuerdo a los registros de Colbún la reserva 
+activada corresponde a 100 MW lo que también 
+es consistente con la reserva programada.  
+Solicitud: Revisar el valor de la reserva activada 
+y corregir evaluación si corresponde 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y se corrobora 
+que HE Colbún U2 fue instruida a prestar CTF+ con un monto 
+de 100MW en lugar de 40MW, por lo que se modifica el RIO. 
+ 
+Dicho lo anterior, el indicador se recalcula, por lo que la 
+respuesta cambia a 97,15%, lo que se traduce en un factor 
+de desempeño de 100%. 
+9 
+Acciona 
+CT 
+PFV El 
+Romero 
+Fecha:  
+02-08-2025 18:13:00 
+04-08-2025 18:09:00 
+12-08-2025 18:13:00 
+14-08-2025 18:05:00 
+15-08-2025 18:09:00 
+Se califica como NC, pero todos los registros 
+señalados 
+son 
+por 
+continuidad 
+de  
+servicio, tal como lo indica en la planilla de RIO. 
+Se acoge la observación. 
+ 
+Se corrobora que las instrucciones corresponden a 
+continuaciones de días anteriores. Por lo tanto, se eliminan 
+estas instrucciones. 
+ 
+Dicho lo anterior el indicador de respuesta de los días 02, 04, 
+12, 14 y 15 de agosto cambia a 100%, ya fueron evaluadas 
+con categoría “No Participa”. 
+10 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 14-08-2025 18:14 
+Se califica como NC, pero todos los registros 
+señalados 
+son 
+por 
+continuidad 
+de  
+servicio, tal como lo indica en la planilla de RIO. 
+No se acoge la observación. 
+ 
+De acuerdo con lo establecido en las Reglas de la OTR, las 
+instrucciones de SC de CT emitidas por el CDC se 
+mantendrán vigentes mientras la planta posea recurso 
+primario que le permita generar potencia activa. Una vez que 
+el valor de la potencia activa sea nulo, por ausencia del 
+recurso primario, se considerará el servicio de CT terminado 
+por lo que los respectivos CCs deberán ajustar la consigna 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+de potencia reactiva a cero MVAr. En el caso que el 
+respectivo CC no cumpla con llevar la consigna de potencia 
+reactiva a cero MVAr, dicha condición de operación de 
+absorción o inyección de reactivos, según corresponda, no 
+será considerada como entrega de SC de CT. En estos 
+casos, el CDC dará por cierto que la planta tiene una 
+consigna de potencia reactiva nula, y en consecuencia bajo 
+esa condición evaluará si requiere o no realizar una 
+instrucción de SC de CT a las plantas que corresponda.  
+ 
+Dicho lo anterior se revisan los antecedentes y se consigna 
+que la instrucción de las 18:14 es un inicio y no una 
+continuidad, por lo que se rechaza la observación. 
+ 
+Las Reglas de Operación vigentes pueden ser descargadas 
+del sitio web del Coordinador de la siguiente ruta: Inicio > 
+Informes 
+y 
+Estudios 
+> 
+Operación 
+> 
+Servicios 
+Complementarios > Reglas de Operación de Servicios 
+Complementarios 
+11 
+Acciona 
+CT 
+PE San 
+Gabriel 
+Fecha: 11-08-2025 21:47 
+Se califica como NV debido a que el parque 
+tenía problemas de comunicación, pero se 
+ingresa la consigna el parque respecta la 
+variación de potencia reactiva solicitada de -45 
+MVAr como se muestra en la imagen 1, hasta el 
+fin de la instrucción. 
+No se acoge la observación. 
+ 
+La evaluación de CT manual para la unidad corresponde a 
+No Verificable (NV) ya que la señal de potencia reactiva de 
+la unidad medida directamente desde SCADA permaneció 
+invariante el durante la duración de la instrucción. Esta 
+condición no cumple con los criterios de calidad definidos en 
+el artículo 13 del Anexo Técnico “Definición de Parámetros 
+Técnicos y Operativos para el Envío de Datos al SITR”.  
+ 
+Adicionalmente, los datos adjuntos en el anexo no cuentan 
+con la información de su origen, por lo que la evaluación se 
+mantiene. 
+  
+Dicho lo anterior se solicita al coordinado regularizar las 
+señales integradas en el sistema SCADA, para lo cual debe 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+contactar directamente al área TI SCADA al mail 
+tec.scada@coordinador.cl. 
+12 
+Acciona 
+CT 
+PE San 
+Gabriel 
+Fecha: 13-08-2025 01:55 
+Se califica como NC, sin embargo, según la 
+grabación dicha instrucción señalada tiene 
+como inicio a la 1:53. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y se corrobora 
+que PE San Gabriel fue instruida a prestar CT a las 01:53 
+horas por lo que se modifica el RIO. 
+ 
+Dicho lo anterior, el indicador de respuesta del día 13 de 
+agosto se recalcula y cambia de 0% a 100%. 
+13 
+Acciona 
+CT 
+PE San 
+Gabriel 
+Fecha: 14-08-2025 02:38 
+Se califica como NC, pero según la grabación, 
+la instrucción es para el día 15-08 y no la fecha 
+que indica en la planilla de RIO. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y se corrobora 
+que PE San Gabriel fue instruida a prestar CT a las 02:38 
+horas del día 15-08-2025 por lo que se modifica el RIO. 
+ 
+Dicho lo anterior, el indicador de respuesta del día 14 de 
+agosto se recalcula y cambia de 0% a categoría “No 
+Participa”. Además, el indicador de respuesta del día 15 de 
+agosto se recalcula y cambia de categoría “No Participa” a 
+100%. 
+14 
+Acciona 
+CTF 
+PFV 
+Almeyda 
+Fecha: 29-08-2025 12:49 
+Se califica C1, C2 y C3 con “0”, no obstante, la 
+instrucción no es real ya que no hay registro por 
+ningún canal oficial, además de que el valor de 
+activación, según planilla de RIO, es superior a 
+la potencia instalada del parque. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y se corrobora 
+que no existió instrucción para PFV Almeyda en el día y hora 
+indicados por lo que se modifica el RIO. 
+ 
+Dicho lo anterior, la instrucción se elimina y el indicador se 
+recalcula, por lo que la respuesta cambia a “No Participa”, lo 
+que se traduce en un factor de desempeño de 100%. 
+15 
+Acciona 
+CTF 
+PFV 
+Malgarida 
+Fecha: 25-08-2025 07:40 
+Se califica C2 y C3 como deficiente, no 
+obstante, según grabación, la activación de la 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+instrucción es a las 07:44, además de que dicha 
+instrucción finaliza a las 07:48, también según 
+grabación (imagen 2). 
+Se analizan los antecedentes y grabaciones y se corrobora 
+que la hora de inicio fue a las 07:44, por lo que se modifica 
+el RIO. 
+ 
+Dicho lo anterior, la instrucción se recalcula y el indicador se 
+recalcula, por lo que la respuesta cambia a 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+16 
+Acciona 
+CTF 
+PE Punta 
+Palmeras 
+Fecha: 01-08-2025 17:07 
+Se califica C3 como “0”, sin embargo, el parque 
+se mantiene con la variación solicitada hasta el 
+final de la instrucción (imagen 3). 
+No se acoge la observación.  
+ 
+Se analizan los antecedentes, registros de potencia activa en 
+SCADA y señales complementarias y se determina que la 
+central redujo en más de 23 MW su generación, lo que no es 
+consistente con la consigna de 21 MW solicitada por CDC. 
+ 
+Dicho lo anterior, la instrucción se mantiene y el indicador no 
+cambia. 
+17 
+Acciona 
+CTF 
+PE Punta 
+Palmeras 
+Fecha: 06-08-2025 17:58 
+Se califica C3 como “0”, sin embargo, el parque 
+se mantiene con la variación solicitada hasta el 
+final de la instrucción (imagen 4). 
+No se acoge la observación.  
+ 
+Se analizan los antecedentes, registros de potencia activa en 
+SCADA y señales complementarias y se determina que la 
+central redujo en más de 16 MW su generación, lo que no es 
+consistente con la consigna de 15 MW solicitada por CDC. 
+ 
+Dicho lo anterior, la instrucción se mantiene y el indicador no 
+cambia. 
+18 
+Acciona 
+CTF 
+PE Punta 
+Palmeras 
+Fecha: 24-08-2025 10:30 
+Se califica C1, C2 y C3 como “0”, sin embargo, 
+el parque varía su potencia activa de acuerdo 
+con la instrucción indicada (imagen 5). 
+No se acoge la observación.  
+ 
+Se analizan los antecedentes, registros de potencia activa en 
+SCADA y señales complementarias y se observa que la 
+central no ajustó su generación de forma consistente a lo 
+instruido en ningún momento de la instrucción. Dicho lo 
+anterior el indicador se mantiene. 
+ 

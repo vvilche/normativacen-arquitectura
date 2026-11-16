@@ -1,0 +1,194 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 23 de diciembre de 2025 
+DE 08183-25 
+Señor 
+Juan Muñoz 
+Encargado Titular 
+Engie Energía Chile S.A.  
+Presente 
+Ref.: Resultado del Proceso de Verificación del SC 
+de Partida Autónoma (PA) de las unidades U1 y U2 
+de Central HP Chapiquiña. 
+[1] Carta ENGIE N°050/2024 del coordinado Engie 
+Energía Chile S.A., Ref.: “Envío de informes de 
+pruebas de verificación de SSCC de las unidades 1 y 
+2 de la Central Hidroeléctrica Chapiquiña”, de fecha 
+19 de febrero de 2024.  
+Responde a Ingreso: DE01213-24. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT SSCC), ha finalizado 
+el proceso de verificación del Servicio Complementario (SC) de Partida Autónoma (PA) de 
+las unidades 1 y 2 de Central HP Chapiquiña. Como resultado de este proceso, las unidades 
+mencionadas quedan habilitadas para la prestación del mencionado servicio considerando 
+los recursos indicados en el anexo a la presente carta. 
+ 
+El informe técnico que justifica la verificación de la capacidad de la prestación del SC de 
+PA de las unidades mencionadas, ha sido publicado en la siguiente ruta de la página web 
+del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Plan de 
+Recuperación de Servicio > Partida Autónoma > Central HP Chapiquiña. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+c.c.: 
+ 
+Encargados empresas coordinadas  
+Felipe Fleming C. – Encargado Suplente Engie Energía Chile S.A. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de las unidades U1 
+y U2 de Central HP Chapiquiña 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central HP Chapiquiña 
+• 
+Unidad U1 
+• 
+Unidad U2 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Plan de Recuperación 
+de Servicio (PRS) 
+Partida Autónoma 
+(PA) 
+Partida Autónoma (PA) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) El Tiempo de Autonomía de una unidad, operando a una potencia de 5 MW es de 
+10,84 horas. Si se considera a ambas unidades generando una potencia de 5 MW 
+cada una, el tiempo de autonomía se reduce a 5,23 horas.  
+b) Las unidades de la Central HP Chapiquiña, poseen un control integrado de 
+regulación de tensión y potencia/frecuencia, donde: 
+• 
+El Control de Tensión (CT), no se tiene un esquema particular según se trate 
+de operación interconectada o modo isla, siendo el mismo para ambos 
+casos.  
+• 
+El regulador de control de frecuencia estando la unidad en Isla, varía los 
+parámetros del lazo de control de frecuencia (CF), al estar las unidades en 
+esta condición (isla).  
+c) No existe una limitación para operar en valores de potencia por debajo del MT ni un 
+tiempo asociado a esta condición cuando la unidad se encuentra en isla. 
+4. 
+Indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Engie Energía Chile 
+S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tabla en página siguiente.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Partida Autónoma: 
+ 
+SSCC 
+Plan de Recuperación de Servicio 
+Categoría 
+Partida autónoma 
+Subcategoría 
+Partida autónoma 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+HP 
+Chapiquiña 
+Hidráulica 
+Potencia Máxima [MW] 
+5,45 
+5,45 
+Tiempo de 
+Sincronización [min] (1) 
+10,36 
+10,36 
+Tasa de Toma de Carga 
+[MW/min] 
+3,72 
+3,72 
+Tiempo de Autonomía 
+[hr] (2) 
+5,23 
+5,23 
+Modo de Control 
+Regulador 
+potencia/frecuencia 
+Regulador 
+potencia/frecuencia 
+Requiere Equipamiento 
+Adicional (3) 
+SI 
+SI 
+Escalón de carga [MW] 
+(4) 
+2 
+2 
+Tiempo nuevo arranque 
+en caso de desconexión 
+intempestiva [min] (5) 
+18 
+18 
+Tiempo permanencia en 
+vacío [min] (6) 
+Sin restricciones 
+Sin Restricciones 
+(1) Tiempo asociado a la partida de unidades generadoras que prestan el SSCC de PA, correspondiente al 
+tiempo que transcurre desde que se solicita la PA por parte del CDC, hasta el cierre contra barra muerta 
+de la unidad. Este tiempo incluye las maniobras previas de revisión y verificación necesarias para este 
+proceso. Lo anterior, considerando que las unidades se encuentren disponibles, es decir no considera 
+tiempos para validar integridad de instalaciones luego de un siniestro provocado por: terremoto, 
+tsunami, aluvión, crecida, incendio, entre otros. 
+(2) Tiempo de autonomía corresponde a ambas unidades en operación y con 10 MW de generación total. 
+(3) Cuenta con generador de emergencia de arranque. 
+(4) Primer escalón de carga que puede tomar la unidad sin poner en riesgo la estabilidad de la unidad en 
+este proceso. 
+(5) Tiempo necesario para reiniciar la partida, después de una desconexión de la unidad. 
+(6) Tiempo máximo de permanencia en giro en vacío (sin carga) no tiene restricciones (sin límite). 
+ 
+ 

@@ -1,0 +1,71 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 24 de julio de 2025 
+DE 03998-25 
+ 
+Señor 
+Sebastián Ruiz-Tagle  
+Encargado Titular 
+Colbún S.A. 
+Presente 
+Ref.: Restricción Operativa de Central HE Colbún. 
+IL2025000940 de fecha 2 de mayo de 2025. 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, en el marco de las funciones de este 
+Coordinador sobre la operación de las unidades del Sistema Eléctrico Nacional, solicito a 
+Ud. el envío de antecedentes técnicos que respalden la Limitación Forzada que afecta la 
+Generación y prestación de SSCC de control de frecuencia de la central HE Colbún, según 
+fuera informado en el siguiente informe de limitación: 
+• 
+Informe N° 2025000940, ingresado a la plataforma Neomante el 02 de mayo de 2025 
+y con fecha estimada de término 31 de mayo de 2025, el cual señala lo siguiente:  
+“Desde la cota 418 m s. n. m. hacia niveles más bajos, las unidades de Colbún no 
+podrán prestar servicios complementarios de control primario ni secundario de 
+frecuencia. Para alcanzar los valores de potencia asignados, las tomas de carga de las 
+unidades sólo podrán realizarse en forma sucesiva, de modo que, al efectuar la toma 
+de carga de una de las unidades, la otra esté detenida, o bien funcionando enclavada 
+en una potencia fija. Esta condición deberá cumplirse cualquiera sea la magnitud de la 
+toma de carga y su grado de rapidez. Una vez alcanzada la carga asignada a las 
+unidades, estas deberán permanecer enclavadas”. 
+Afecta a SSCCC: CPF y CSF deshabilitados. 
+Limitación en ESTADO: Pendiente 
+ 
+Considerando lo planteado, se solicita el envío de un Informe Técnico que contenga al 
+menos la siguiente información: 
+a) Descripción y fundamentos técnicos que respalden la limitación de la central ya sea 
+elaborado por personal propio o por terceros. Deberá adjuntar los documentos y 
+antecedentes de las condiciones hídricas y/o administrativas que justifican la presente 
+limitación. 
+b) Respecto de la prestación de los SSCC de CPF y CSF, se solicita informar razones 
+técnicas y/o administrativas que impiden una vez alcanzada la carga asignada, prestar 
+el servicio complementario de control de frecuencia, forzando el enclavamiento de la 
+potencia asignada. 
+ 
+Se solicita enviar la información requerida, mediante carta y con copia al correo 
+anexos_dco@coordinador.cl, a más tardar el día 7 de agosto de 2025. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Cualquier duda en relación con las observaciones adjuntas favor dirigirlas a la misma 
+dirección de correo electrónico indicada. 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+c.c.:  
+Srta. Javiera Gutiérrez P. – Encargada Suplente Colbún S.A. 

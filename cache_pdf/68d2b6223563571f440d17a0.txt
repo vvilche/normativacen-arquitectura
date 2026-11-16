@@ -1,0 +1,122 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 22 de septiembre de 2025 
+DE 05825-25 
+Señor 
+Sebastián Ruiz-Tagle 
+Encargado Titular 
+Colbún S.A. 
+Presente 
+Ref.: Actualización aportes Control Primario de 
+Frecuencia Central PFV Diego de Almagro Sur. 
+[1] 
+Carta 
+GO 
+N° 
+218/2025, 
+Ref.: 
+“Confirma 
+modificación de la Potencia Base utilizada en 
+controlador de Frecuencia/Potencia del PFV Diego de 
+Almagro Sur”, de fecha 5 de septiembre de 2025.  
+[2] Carta GO N° 218/2025, Ref.: “Entrega análisis y 
+correcciones al control de velocidad del PFV Diego de 
+Almagro Sur para mejorar la respuesta en la prestación 
+del Control Primario de Frecuencia”, de fecha 5 de 
+septiembre de 2025.  
+Responde Ingresos DE09138-25 y DE09139-25 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y luego de que su representada -mediante 
+comunicaciones de las Ref. [1] y [2]- notificara la realización de los ajustes solicitados por 
+este Coordinador al controlador de potencia/frecuencia de la Central PFV Diego de Almagro 
+Sur, mediante la presente comunico a UD. la actualización de los aportes de la central en 
+la prestación del Control Primario de Frecuencia. 
+ 
+Al respecto, los nuevos aportes se describen en el Anexo de esta comunicación y la minuta 
+técnica que justifica los valores de los nuevos aportes de la prestación del CPF de la Central 
+PFV Diego de Almagro Sur se encuentra publicada en la siguiente ruta de la página web 
+del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Primario de Frecuencia > Central PFV Diego de Almagro Sur 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Operación en Tiempo Real 
+Coordinador Eléctrico Nacional 
+/DIR/adr 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Anexo: Actualización aportes Control Primario de Frecuencia Central PFV 
+Diego de Almagro Sur 
+SSCC 
+  
+Control de Frecuencia 
+Categoría 
+  
+Control Primario de Frecuencia 
+Subcategoría 
+  
+CPF+ y CPF- 
+  
+  
+  
+Valor determinado 
+Características del 
+Controlador de Frecuencia 
+Rango de ajuste Estatismo 
+3,22 - 100% 
+Estatismo 
+4,44% 
+Rango de ajuste Banda muerta [mHz] 
+25 - 200 
+Banda muerta [mHz] 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (1) 
+211,6 
+Límite de regulación inferior [MW] (2) 
+12,961 
+Aportes (3) 
+BM = 25 [mHz] 
+R= 4,44% 
+10 segundos 
+Aporte +0,2 [Hz] [MW] 
+-16,53 
+Aporte -0,2 [Hz] [MW] 
+16,53 
+Aporte +0,7 [Hz] [MW] 
+-63,28 
+Aporte -0,7 [Hz] [MW] 
+63,28 
+5 minutos 
+Aporte +0,2 [Hz] [MW] 
+-16,68 
+ 
+Aporte -0,2 [Hz] [MW] 
+16,68 
+Aporte +0,7 [Hz] [MW] 
+-63,34 
+Aporte -0,7 [Hz] [MW] 
+63,34 
+(1) Correspondiente a la Potencia Máxima bruta aprobada por el Coordinador. 
+(2) Correspondiente al Mínimo Técnico bruto aprobado por el Coordinador.  
+(3) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz son uniformes en todo el rango de operación de la central. 
+ 

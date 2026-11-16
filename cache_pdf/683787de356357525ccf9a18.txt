@@ -1,0 +1,92 @@
+ 
+1 
+ 
+ 
+GO N°113/2025 
+Santiago, 27 de mayo de 2025 
+ 
+Señor  
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: 
+Proceso de verificación de instalaciones de Transmisión para la Prestación de Servicios 
+Complementarios.  
+[1] Carta DE 02920-25, de fecha 16 de mayo de 2025, Ref.: Comunica atraso en proceso de 
+verificación de instalaciones de Transmisión para la Prestación de Servicios 
+Complementarios. 
+[2] Carta DE 01149-25, de fecha 21 de febrero de 2025, Ref.: Cronograma del proceso de 
+verificación de Servicios Complementarios (SSCC) en instalaciones de Transmisión.  
+[3] Carta DE 00838-25, de fecha 06 de febrero de 2025, Ref.: Comunica atraso en proceso de 
+Verificación de Instalaciones de Transmisión para la Prestación de Servicios 
+Complementarios. 
+ 
+De mi consideración: 
+ 
+En respuesta a su carta DE 02920-25, de fecha 16 de mayo de 2025, mediante la cual se reitera la 
+solicitud de informar sobre el proceso de verificación de los Servicios Complementarios en 
+instalaciones de Transmisión, así como las razones del eventual incumplimiento de los plazos 
+definidos por el Coordinador Eléctrico Nacional (“Coordinador”), nos referimos a los siguientes 
+equipos que han sido identificados como propiedad de Colbún S.A. (“Colbún”): 
+ 
+Tabla 1 
+ 
+ 
+ 
+Al respecto, comunico a usted que, tras revisar los equipos involucrados en el proceso de energización 
+y sincronización de la Central Canutillar, podemos confirmar que Colbún no dispone de equipamiento 
+de vinculación en la subestación (“S/E”) Canutillar en 220 kV. Por otra parte, tal como se detalla en 
+el Plan de Recuperación de Servicio (“PRS”) vigente, la Central Canutillar se conecta al sistema a 
+través de la barra de 220 kV de la S/E Puerto Montt, utilizando equipamiento que es de propiedad de 
+la empresa Transelec S.A. (“Transelec”).  
+ 
+ 
+
+ 
+2 
+ 
+ 
+Por lo anterior, estimamos que no corresponde a Colbún realizar pruebas de verificación sobre el 
+equipamiento señalado por el Coordinador en sus comunicaciones de Ant. [1], [2] y [3], ni tampoco 
+informar un plan de trabajo asociado a dicha materia. 
+ 
+A continuación, se presentan extractos del PRS vigente que respaldan y son consistentes con lo 
+señalado anteriormente: 
+ 
+Página 13, Título: Plan A por medio de la LT 2x220 kV Charrúa – El Rosal – Varones – Duqueco – Los Peumos 
+– Temuco, numeral 15: “… Para proceder con la sincronización de la Central Canutillar, y en caso de que se 
+encuentra fuera de servicio, se deberá abrir el interruptor de la LT 2x220 kV Canutillar – Puerto Montt C1, 
+extremo S/E Canutillar. Además, el CC Transelec abrirá ambos interruptores de dicha línea en S/E Puerto Montt. 
+La sincronización de la central Canutillar en S/E Puerto Montt se realizará por medio del interruptor del 
+segundo circuito de la LT 2x220 kV Canutillar – Puerto Montt” 
+ 
+Página 24, Título: Plan C Desde la Central Canutillar, tercer párrafo: “… Por otra parte, el CC Transelec abrirá 
+todos los interruptores del Sistema de Transmisión Nacional desde la S/E Puerto Montt hasta la S/E Temuco y la 
+central Canutillar abrirá sólo el interruptor de la LT 2x220 kV Canutillar – Puerto Montt C1. Una vez que la 
+central Canutillar esté en servicio y en condiciones de regular frecuencia, CC Colbún se coordinará con el COR 
+Transelec para el cierre del interruptor de la LT 2x220 kV Canutillar – Puerto Montt C2 en la S/E Puerto 
+Montt.”  
+ 
+Por otro lado, en relación con la versión preliminar de la remuneración de Infraestructura de Servicios 
+Complementarios del mes de marzo 2025, Colbún presentó una observación señalando que todo el 
+Equipamiento de Verificación de Sincronismo que aparecía como de su propiedad, debía ser 
+reasignado a las empresas Alfa Transmisora de Energía S.A. y Transelec, según correspondiera. Si 
+bien en la versión definitiva el Coordinador corrigió la propiedad de todos los equipos observados, 
+persiste el error para la S/E Canutillar (paños J1 y J2), en el Anexo F del Informe de SSCC 2025, 
+versión 2025.05.20. En consecuencia, solicitamos corregir dicho Anexo en línea con lo indicado en 
+la presente carta, dejando constancia de que ese equipamiento, de existir, no pertenece a Colbún. Por 
+nuestra parte, reiteraremos esta observación en el proceso de revisión asociado a la remuneración de 
+infraestructura. 
+ 
+Finalmente, agradeceremos considerar esta información en todos los procesos en que actualmente 
+esté siendo utilizada. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+Javiera Gutiérrez Pérez 
+Encargada Suplente 
+COLBÚN S.A. 
+ 

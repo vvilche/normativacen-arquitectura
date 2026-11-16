@@ -1,0 +1,797 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 28 de mayo de 2025 
+ 
+    
+DE 03186-25 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Publicación de Indicadores de Desempeño 
+de Servicios Complementarios prestados durante 
+el mes de abril 2025, segunda versión. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página web 
+del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de los Indicadores 
+de Desempeño de Servicios Complementarios prestados durante el mes de abril 2025. Estos 
+indicadores fueron considerados en la versión definitiva del IVTE de dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador en la 
+siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2025 > Abril 2025 > Versión 2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las observaciones 
+recibidas para la primera versión del Informe. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+CRV/ASA/adr 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de abril 2025 
+consideradas en la versión 2. 
+ 
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Enlasa 
+Generación 
+Chile S.A. 
+CTF 
+TER TENO 
+Fecha: 
+01-04-2025 
+08:10 
+El 01-04-2025 a las 08:10 se registró una 
+activación 
+por 
+CTF 
+(+) 
+para 
+la 
+central 
+TENO_DIESEL. Sin embargo, la instrucción 
+recibida fue a plena carga por orden de merito. 
+Se adjunta la grabación “20250401080503” 
+como evidencia de la situación. Se solicita que 
+se elimine del registro esta activación. 
+Se acoge la observación.  
+ 
+Se analizan los antecedentes y se determina 
+mediante las grabaciones que CDC instruyó a 
+la central ajustara su consigna por orden de 
+mérito. 
+ 
+Dicho lo anterior, el indicador se recalcula, por 
+lo que la respuesta cambia a 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+2 
+Enlasa 
+Generación 
+Chile S.A. 
+CTF 
+TER TRAPÉN 
+Fecha: 
+09-04-2025 
+14:30 
+ El 09-04-2025 a las 14:30 se registró una 
+activación 
+por 
+CTF 
+(-) 
+para 
+la 
+central 
+TRAPEN_DIESEL. Sin embargo, la instrucción 
+recibida 
+fue 
+CTF 
+(-) 
+para 
+la 
+central 
+TENO_DIESEL. 
+Se 
+adjunta 
+la 
+grabación 
+“20250409142959” 
+como 
+evidencia 
+de 
+la 
+situación. Se solicita que se elimine del registro 
+esta activación. 
+Se acoge la observación.  
+ 
+Se analizan los antecedentes y se determina 
+mediante las grabaciones que CDC instruyó a 
+la central ajustara su consigna por orden de 
+mérito. 
+ 
+Dicho lo anterior, el indicador se recalcula, por 
+lo que la respuesta cambia a 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+3 
+Enlasa 
+Generación 
+Chile S.A. 
+CTF 
+TER TENO 
+Fecha: 
+22-04-2025 
+15:31 
+ El 22-04-2025 entre las 15:31 y 16:07 se solicita 
+la activación por CTF (+) para TENO_DIESEL. 
+Sin embargo, en el registro de instrucciones de 
+operación la activación fue anotada entre las 
+15:40 y 16:14. Se adjunta como evidencia la 
+grabación “20250422153058”, aunque no se 
+menciona la hora en la comunicación, la 
+grabación queda registrada con la fecha y hora 
+del ingreso de la llamada. Se adjunta también la 
+grabación “20250422160639” donde el operador 
+menciona la hora de fin de activación 16:07. Se 
+Se acoge la observación.  
+ 
+Se analizan los antecedentes y grabaciones de 
+CDC, donde se corrobora que esta instrucción 
+fue dada a las 15:31, por lo que se actualiza el 
+RIO.  
+ 
+Dicho lo anterior, el indicador se recalcula, por 
+lo que la respuesta cambia a 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+solicita que se corrijan las horas de inicio y fin de 
+la activación y se recalcule el desempeño.  
+4 
+Enlasa 
+Generación 
+Chile S.A. 
+CTF 
+TER TENO 
+Fecha: 
+14-04-2025 
+23:06 
+El 
+14-04-2025 
+a 
+23:06 
+las 
+centrales 
+TENO_DIESEL Y TRAPEN_DIESEL recibieron 
+instrucciones de activación de CTF (+) hasta el 
+15-04-2025 a las 00:06. Sin embargo, en el 
+registro 
+de 
+instrucción 
+de 
+operación 
+las 
+activaciones quedaron separada por el cambio 
+de fecha,calculando dos desempeños, uno entre 
+23:06 y 23:59 y entre las 00:00 y las 00:06. Cabe 
+mencionar que el periodo de la segunda 
+activación es menor a los 15 minutos mínimos 
+para realizar una evaluación de desempeño, aun 
+así, se informó un 0% de cumplimiento. Se 
+solicita que se considere una sola activación 
+entre el 14-04-2025 a las 23:06 y el 15:04-2025 
+a las 00:06 o en su defecto que se elimine la 
+segunda activación, dado que no existe una 
+activación en este horario.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora 
+que los últimos minutos corresponden a una 
+continuación de la instrucción. 
+ 
+Dicho lo anterior, el indicador se recalcula, por 
+lo que la respuesta cambia a 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+5 
+Enlasa 
+Generación 
+Chile S.A. 
+CTF 
+TER TRAPÉN 
+Fecha: 
+14-04-2025 
+23:06 
+El 
+14-04-2025 
+a 
+23:06 
+las 
+centrales 
+TENO_DIESEL Y TRAPEN_DIESEL recibieron 
+instrucciones de activación de CTF (+) hasta el 
+15-04-2025 a las 00:06. Sin embargo, en el 
+registro 
+de 
+instrucción 
+de 
+operación 
+las 
+activaciones quedaron separada por el cambio 
+de fecha,calculando dos desempeños, uno entre 
+23:06 y 23:59 y entre las 00:00 y las 00:06. Cabe 
+mencionar que el periodo de la segunda 
+activación es menor a los 15 minutos mínimos 
+para realizar una evaluación de desempeño, aun 
+así, se informó un 0% de cumplimiento. Se 
+solicita que se considere una sola activación 
+entre el 14-04-2025 a las 23:06 y el 15:04-2025 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora 
+que los últimos minutos corresponden a una 
+continuación de la instrucción. 
+ 
+Dicho lo anterior, el indicador se recalcula, por 
+lo que la respuesta cambia a 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+a las 00:06 o en su defecto que se elimine la 
+segunda activación, dado que no existe una 
+activación en este horario.  
+6 
+Enlasa 
+Generación 
+Chile S.A. 
+CTF 
+TER PEÑON 
+Fecha: 
+14-04-2025 
+23:23 
+El 
+14-04-2025 
+a 
+23:23 
+la 
+central 
+PENON_DIESEL recibió una instrucción de 
+activación de CTF (+) hasta el 15-04-2025 a las 
+00:16. 
+Sin 
+embargo, 
+en 
+el 
+registro 
+de 
+instrucciones de operación la activación quedó 
+separada por el cambio de fecha, calculando dos 
+desempeños, uno entre 23:23 y 23:59 y entre las 
+00:00 y las 00:16. Se solicita que se considere 
+una sola activación entre el 14-04-2025 a las 
+23:23 y el 15:04-2025 a las 00:16 o que se 
+elimine la segunda activación. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora 
+que los últimos minutos corresponden a una 
+continuación de la instrucción. 
+ 
+Dicho lo anterior, el indicador se recalcula, por 
+lo que la respuesta cambia a 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+7 
+Cóndor y 
+Huemul 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Se evaluaron 3.93 minutos de Non tracking en el 
+período, específicamente entre las 16:01 y las 
+16:20. Al respecto, se observa que la central 
+sigue la consigna durante todo el período. Se 
+solicita reevaluar y revisar la parametrización 
+configurada en el AGC, la central siguió la 
+consigna de acuerdo con su rampa establecida. 
+En revisión.  
+ 
+Respecto al punto base, se están revisando los 
+antecedentes a efectos de determinar la causa 
+raíz de lo que indica.  
+ 
+Se debe considerar que la diferencia respecto 
+al punto base se debe en varias ocasiones a 
+predicciones, por lo que independiente de la 
+revisión 
+que 
+hará 
+el 
+Coordinador, 
+su 
+representada 
+debe 
+mejorar 
+dichas 
+predicciones, con el fin de que el punto base 
+asignado sea más ajustado a la realidad. 
+8 
+Cóndor y 
+Huemul 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Se evaluaron 3.33 minutos de Non tracking y 1.2 
+minutos en modo manual en el período, 
+específicamente entre las 15:03 y las 15:06:20. 
+Al respecto, se observa en los mismos registros 
+del CEN (Planilla "Copy of AGCReport - 
+2.4.2_1al16_abr")  que se aplicó un parámetro 
+En revisión.  
+ 
+Ver respuesta a la observación N°7. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+"Reg limit High" de 30 MW, y luego la central 
+comenzó el non tracking. Posterior a ello, se 
+aumentó a las 15:06:20 el parámetro a 81.2 MW. 
+y la central comenzó el seguimiento correcto. Se 
+solicita reevaluar con 100% de desempeño ya 
+que el período con non tracking y manual debe 
+ser descartado. 
+9 
+Cóndor y 
+Huemul 
+CSF 
+PE CERRO TIGRE 
+(U1-U44) 
+Se evaluaron 3.4 minutos de Non tracking en el 
+período, específicamente entre las 16:16 y las 
+16:31. Al respecto, se observa que la central 
+sigue la consigna durante todo el período. Se 
+solicita reevaluar y revisar la parametrización 
+configurada en el AGC, la central siguió la 
+consigna de acuerdo con su rampa establecida. 
+En revisión.  
+ 
+Ver respuesta a la observación N°7. 
+10 
+Cóndor y 
+Huemul 
+CSF 
+PE LLANOS DEL 
+VIENTO (U1-U32) 
+Se evaluaron 0.6 minutos de Non tracking y 
+18.33 minutos en modo manual en el período, 
+específicamente entre las 16:01 y las 16:21:52. 
+Al respecto, se observa que la central no tenía 
+bien parametrizado el valor "Reg Limit Low 
+(MW)" al inicio de la hora, y recién a las 16:19 se 
+bajó a 18.7 MW, lo que permitió que la central 
+bajara. Se solicita reevaluar con 100% de 
+desempeño ya que el período con non tracking y 
+manual debe ser descartado. 
+En revisión.  
+ 
+Ver respuesta a la observación N°7. 
+11 
+Cóndor y 
+Huemul 
+CSF 
+PE TCHAMMA 
+(U1-U35) 
+Se evaluaron 3.4 minutos de Non Tracking y 3.73 
+minutos en modo manual en el período. Al 
+respecto, se observa que la central sigue la 
+consigna durante todo el período. Se solicita 
+reevaluar 
+y 
+revisar 
+la 
+parametrización 
+configurada en el AGC, la central siguió la 
+consigna de acuerdo con su rampa establecida. 
+En revisión.  
+ 
+Ver respuesta a la observación N°7. 
+12 
+Colbún S.A. 
+CTF 
+TER NEHUENCO I 
+Fecha: 
+10.04.2025 
+17:06:00 
+(UTC-4) 
+De acuerdo con el documento "CTF_202504" y 
+el registro RIO para ese día, la instrucción duró 
+No se acoge la observación. - Aclaración.  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+10 minutos, desde las 17:06 horas hasta las 
+17:16 horas. En este contexto no se alcanza el 
+tiempo mínimo para la activación de la reserva, 
+el 
+cual 
+es 
+de 
+15 
+minutos. 
+Solicitud: Revisar duración de instrucción y 
+eliminar de la evaluación. 
+Si una instrucción de CTF tiene una duración 
+menor a 15 minutos no es justificación para no 
+ajustar la potencia inyectada y cumplir con el 
+criterio C1 de evaluación.  
+ 
+En el documento citado el desempeño 0% se 
+debe a la disponibilidad de la unidad, evaluada 
+con un 65% durante la hora 17 debido a la 
+solicitud N°2025039307, la cual obliga a la 
+unidad a ser despachada a mínimo técnico sin 
+mover consigna. Dicho lo anterior, el indicador 
+no cambia. 
+13 
+Colbún S.A. 
+CTF 
+TER NEHUENCO I 
+Fecha: 
+12.04.2025 
+10:15:00 
+(UTC-4) 
+De acuerdo con el documento "CTF_202504" y 
+el registro RIO para ese día, la instrucción duró 
+10 minutos, desde las 10:15 horas hasta las 
+10:25 horas. En este contexto no se alcanza el 
+tiempo mínimo para la activación de la reserva, 
+el 
+cual 
+es 
+de 
+15 
+minutos. 
+Solicitud: Revisar duración de instrucción y 
+eliminar de la evaluación. 
+No se acoge la observación. - Aclaración.  
+ 
+Si una instrucción de CTF tiene una duración 
+menor a 15 minutos no es justificación para no 
+ajustar la potencia inyectada y cumplir con el 
+criterio C1 de evaluación.  
+ 
+En el documento citado el desempeño 0% se 
+debe a la disponibilidad de la unidad, evaluada 
+con un 0% durante la hora 10 debido a la 
+solicitud N°2025000751, la cual indica que la 
+unidad no está disponible para prestar SSCC 
+Dicho lo anterior, el indicador no cambia. 
+14 
+Colbún S.A. 
+CTF 
+HP LA MINA 1 
+Fecha: 
+15.04.2025 
+07:51:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Abril_2025_V1-1" 
+se 
+evalúa a la unidad con desempeño 0% para la 
+activación de CTF de bajada por 1,5 MW, en 
+condiciones que esta se encontraba fuera de 
+servicio.  
+Solicitud: 
+Revisar 
+contexto 
+operacional 
+y 
+reevaluar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora 
+que la instrucción fue dada cuando la unidad se 
+encontraba fuera de servicio, por lo que es 
+eliminada. 
+ 
+Sin perjuicio de lo anterior el desempeño se 
+mantiene, debido a que su disponibilidad es 0% 
+durante la hora 7 según la solicitud N° 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+2025041114. Dicho lo anterior, el indicador no 
+cambia. 
+15 
+Colbún S.A. 
+CTF 
+HP LA MINA 2 
+Fecha: 
+15.04.2025 
+07:51:00 
+(UTC-4) 
+De 
+acuerdo 
+con 
+el 
+documento 
+"SSCC_Desempeno_Abril_2025_V1-1" 
+se 
+evalúa a la unidad con desempeño 0% para la 
+activación de CTF de bajada por 1,5 MW, en 
+condiciones que esta se encontraba fuera de 
+servicio.  
+Solicitud: 
+Revisar 
+contexto 
+operacional 
+y 
+reevaluar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora 
+que la instrucción fue dada cuando la unidad se 
+encontraba fuera de servicio, por lo que es 
+eliminada. 
+ 
+Sin perjuicio de lo anterior el desempeño se 
+mantiene, debido a que su disponibilidad es 0% 
+durante la hora 7 según la solicitud N° 
+2025041114. Dicho lo anterior, el indicador no 
+cambia. 
+16 
+Colbún S.A. 
+CTF 
+PFV DIEGO DE 
+ALMAGRO SUR 
+Fecha: 
+20.04.2025 
+10:51:00 
+(UTC-4) 
+De acuerdo con el registro RIO adjunto se 
+observa 
+que 
+el 
+Parque 
+se 
+encontraba 
+participando del CPF simultáneamente, en este 
+contexto, la potencia activa de la unidad varía en 
+función de la frecuencia del sistema y esto 
+provoca que salga de la banda de cumplimiento 
+para 
+el 
+CTF. 
+Solicitud: 
+Revisar 
+contexto 
+operacional 
+y 
+reevaluar. 
+No se acoge la observación.  
+ 
+Se analizan las señales SCADA de la 
+operación de la unidad, constatando que no 
+hubo un cambio de consigna acorde a la 
+instrucción del CTF durante la prestación 
+conjunta con el servicio de CPF.  
+ 
+Dicho lo anterior, la unidad no cumplió con lo 
+instruido por CDC y el indicador se mantiene. 
+17 
+Colbún S.A. 
+CTF 
+PFV DIEGO DE 
+ALMAGRO SUR 
+Fecha: 
+21.04.2025 
+16:25:00 
+(UTC-4) 
+De acuerdo con el registro RIO adjunto se 
+observa 
+que 
+el 
+Parque 
+se 
+encontraba 
+participando del CPF simultáneamente, en este 
+contexto, la potencia activa de la unidad varía en 
+función de la frecuencia del sistema y esto 
+provoca que salga de la banda de cumplimiento 
+para 
+el 
+CTF. 
+Solicitud: 
+Revisar 
+contexto 
+operacional 
+y 
+reevaluar. 
+No se acoge la observación.  
+ 
+Se analizan las señales SCADA de la 
+operación de la unidad, constatando que no 
+hubo un cambio de consigna acorde a la 
+instrucción del CTF durante la prestación 
+conjunta con el servicio de CPF.  
+ 
+Dicho lo anterior, la unidad no cumplió con lo 
+instruido por CDC y el indicador se mantiene. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+18 
+Colbún S.A. 
+CTF 
+PFV DIEGO DE 
+ALMAGRO SUR 
+Fecha: 
+23.04.2025 
+16:14:00 
+(UTC-4) 
+De acuerdo con el registro RIO adjunto se 
+observa 
+que 
+el 
+Parque 
+se 
+encontraba 
+participando del CPF simultáneamente, en este 
+contexto, la potencia activa de la unidad varía en 
+función de la frecuencia del sistema y esto 
+provoca que salga de la banda de cumplimiento 
+para 
+el 
+CTF. 
+Solicitud: 
+Revisar 
+contexto 
+operacional 
+y 
+reevaluar. 
+Se acoge la observación.  
+ 
+Se analizan las señales SCADA de la 
+operación de la unidad, constatando que hubo 
+un cambio de consigna acorde a la instrucción 
+del CTF durante la prestación conjunta con el 
+servicio de CPF. 
+ 
+Dicho lo anterior, el indicador de respuesta se 
+recalcula quedando en 100% para esta 
+instrucción. 
+19 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV EL ROMERO 
+Fecha: 
+25-04-2025 
+23:56 
+Instrucción calificada como “NV”, pero se 
+corrobora mediante la grabación de llamada que 
+la hora de la solicitud del servicio fue a las 23:54 
+hrs. 
+Se acoge la observación.  
+ 
+Se analizan los antecedentes y grabaciones de 
+CDC, donde se corrobora que esta instrucción 
+fue dada a las 23:54, por lo que se actualiza el 
+RIO.  
+ 
+Dicho lo anterior, la instrucción se recalcula, 
+por lo que la evaluación cambia a 100%. 
+20 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CT 
+PFV EL ROMERO 
+Fecha: 
+29-04-2025 
+18:07 
+La instrucción fue calificada como “NC”; sin 
+embargo, el registro en RIO no corresponde a 
+una nueva instrucción, sino a la continuidad del 
+servicio tras el término de la generación, el cual 
+fue solicitado explícitamente por CDC 
+Se acoge la observación.  
+ 
+Se analizan los antecedentes y se corrobora 
+que la anotación es la continuidad de una 
+instrucción anterior. Dicho lo anterior se elimina 
+el registro indicado. 
+21 
+Observación 
+interna 
+CPF 
+Todas 
+Actualización por desfase horario de reporte: Al 
+descargar reporte de evaluación de CPF de las 
+unidades, se produce un desfase que produce 
+un desplazamiento del desempeño horario en 
+una hora. 
+Se acoge la observación. 
+ 
+Se descargan nuevamente los reportes para 
+corregir este desfase horario, con esto el 
+desempeño horario se modifica. 
+ 
+ 

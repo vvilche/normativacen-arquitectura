@@ -1,0 +1,97 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+Santiago, 13 de julio de 2026 
+AEL056C-26 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Ref.: Responde carta DE 04459-26 EAF 229/2026: 
+Apertura intempestiva del interruptor 52CTSA5 de S/E 
+Central Mampil. 
+De nuestra consideración: 
+ 
+Nos referimos a la carta DE 04459-26, a través de la cual el Coordinador solicita antecedentes adicionales 
+respecto a la apertura intempestiva del interruptor 52CTSA5 de S/E Central Mampil, ocurrida a las 20:57 
+horas del día 03 de junio del 2026. 
+ 
+Al respecto, con el objeto de aclarar debidamente las causas y consecuencias del evento en cuestión, se 
+informa lo siguiente: 
+ 
+a) Cronograma de trabajo 
+ 
+En relación con el requerimiento contenido en el literal a), se informa que, al momento de la ocurrencia 
+del evento del 03 de junio de 2026, Aela Generación se encontraba en proceso de implementar las mejoras 
+definidas en el Estudio de Coordinación y Ajuste de Protecciones (ECAP) "ECAP_Falla_TSA5_Mampil", 
+previamente desarrollado, presentado y aprobado por el Coordinador Eléctrico Nacional. 
+ 
+Como parte de su implementación, con fecha 29 de mayo de 2026 se ingresó la Solicitud de Desconexión 
+N° DI2026058292, programando para el 13 de junio de 2026 la ejecución de los trabajos consistentes en 
+la modificación de los ajustes de la protección GE845, incluyendo pruebas de inyección y pruebas 
+efectivas. La programación de dichos trabajos consideró la coordinación operacional necesaria entre las 
+empresas involucradas, con el objeto de ejecutar la intervención en la ventana operacional más adecuada. 
+Al momento de la ocurrencia del evento del 03 de junio de 2026, dicha intervención ya se encontraba 
+programada. 
+ 
+Con posterioridad al evento, los trabajos fueron ejecutados conforme a la programación establecida, 
+implementándose los ajustes definidos en el ECAP. Posteriormente, éstos fueron verificados mediante 
+pruebas secundarias satisfactorias y la nueva configuración fue declarada al Coordinador Eléctrico 
+Nacional. 
+ 
+ 
+Docusign Envelope ID: DC3BCF59-F73D-8EB7-80E5-8B5CCC03F540
+
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+2 
+ 
+b) Otros antecedentes relevantes 
+ 
+De acuerdo con los antecedentes disponibles, la protección operó conforme a la corriente medida y a los 
+ajustes vigentes al momento del evento; sin embargo, su actuación resultó no selectiva desde el punto de 
+vista de coordinación, debido a la elevada sensibilidad de dicha función frente a corrientes residuales 
+aparentes generadas durante fallas externas de alta magnitud. 
+ 
+Respecto del origen de la perturbación, tal como se menciona en el EAF N°229/2026, no es posible 
+determinar de manera concluyente el punto exacto de falla. No obstante, el comportamiento registrado 
+y los antecedentes disponibles permiten establecer como hipótesis más probable una perturbación 
+originada en la red de 23 kV o en instalaciones externas. 
+ 
+Como parte del análisis efectuado para el evento del 03 de junio de 2026, al día siguiente de la ocurrencia 
+de la perturbación se realizó una inspección visual de las celdas de media tensión y equipos asociados de 
+la S/E Central Mampil, sin encontrarse evidencias de arco, daño visible, contaminación u otros elementos 
+que permitieran atribuir la perturbación a instalaciones propias. 
+ 
+Con posterioridad a la implementación de los ajustes definidos en el ECAP, éstos fueron verificados 
+mediante pruebas secundarias satisfactorias y posteriormente declarados al Coordinador Eléctrico 
+Nacional. 
+ 
+Como respaldo de lo anterior, se adjunta la siguiente documentación 
+ 
+• 
+Documento de revisión del ECAP emitido por el Coordinador Eléctrico Nacional. 
+• 
+Solicitud de Desconexión N° DI2026058292. 
+• 
+Acta de Ejecución Satisfactoria de la implementación de los ajustes. 
+• 
+Informe de pruebas secundarias (OMICRON). 
+• 
+Print Out de la configuración implementada del relé GE845. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+                       
+Nicolás Correa 
+Encargado Titular 
+Aela Generación S.A. 
+Docusign Envelope ID: DC3BCF59-F73D-8EB7-80E5-8B5CCC03F540

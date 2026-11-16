@@ -1,0 +1,55 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Santiago, 25 de julio de 2025 
+DE 04589-25 
+ 
+Señora(ita) 
+María José Reveco 
+Encargada Titular 
+Transelec S.A. 
+Presente 
+Ref.: Instruye adecuación del EDAG de la 
+Zona centro-sur del PDCE ZN según ISSCC 
+2026. 
+[1] Carta DE 03967-25 de fecha 30 de junio 
+de 2025, publicación del Informe de Servicios 
+Complementarios 2026, versión definitiva 
+junio 2025. 
+De mi consideración: 
+Me refiero a la carta de la Ref. [1], mediante la cual comunicamos la publicación del Informe de 
+Servicios Complementarios 2026 (ISSCC 2026), particularmente, lo que se refiere al EDAG de la 
+Zona centro-sur del PDCE Zona Norte especificado en la sección 7.3.2.1 literal c). Al respecto, el 
+ISSCC 2026 señala que el EDAG centro-sur deberá implementar las siguientes adecuaciones que 
+se instruyen a su representada: 
+• 
+Adecuación de la lógica de asignación de escalones de un criterio que relegue a las centrales 
+que provean al sistema más de un recurso general del control de contingencia, como inercia, 
+CPF, CSF, control dinámico de tensión y la disponibilidad de un estabilizador de sistema de 
+potencia, de modo que los parques eólicos ya instruidos queden asignados al primer escalón 
+y las centrales sincrónicas al último. 
+• 
+Integración de las nuevas centrales participantes, correspondientes a parques eólicos con 
+potencia nominal mayor a 20 MW al sur de la S/E Lo Aguirre, los cuales deberán ser 
+asignados dentro de los tres primeros escalones, priorizando la minimización de superávit 
+respecto a la potencia objetivo. 
+• 
+Adecuación de los puntos de apertura de la celda maestra de S/E Charrúa, considerando la 
+entrada en servicio de S/E Los Notros. 
+Al respecto, y para efectos de dar inicio al proyecto, explicar el detalle de las adecuaciones 
+requeridas, definir cronograma y planes de trabajo, datos de contacto y coordinar la reunión que 
+se sostendrá posteriormente con los nuevos coordinados que se deben integrar a la celda de S/E 
+Charrúa, los invito a una reunión técnica remota a realizarse el día jueves 31 de julio de 2025 a las 
+10:00 am, para lo cual agradeceré enviar a la dirección electrónica dmap@coordinador.cl los 
+correos de contacto de su representada a las que debemos enviarles la correspondiente citación.  
+Sin otro particular, le saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+GO/SGASO/DMAP 
+cc: Sr. Alfredo Cárdenas, Encargado Suplente Transelec S.A. 

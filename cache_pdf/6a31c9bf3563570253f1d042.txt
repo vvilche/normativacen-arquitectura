@@ -1,0 +1,83 @@
+ 
+1 
+ 
+ 
+GO N° 118/2026 
+Santiago, 16 de junio de 2026 
+ 
+ 
+Señor  
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: 
+Respuesta de Colbún por el desempeño deficiente en la presentación del Control de 
+Tensión en la Central Canutillar. 
+ 
+Ant.: 
+[1] Carta DE03776-26, fecha 04 de junio de 2026, Ref: “Desempeño deficiente en la 
+prestación de los Servicios Complementarios de Control Primario de Frecuencia, Control 
+Terciario de Frecuencia y Control de Tensión de unidades generadoras en abril 2026. 
+ 
+[2] Carta DE01267-26, fecha 23 de febrero de 2026, Ref: “Resultado del Proceso de 
+Verificación del Servicio Complementario (SC) de Control de Tensión de las unidades 1 y 2 
+de Central HE Canutillar”. 
+ 
+De nuestra consideración: 
+ 
+En relación con su carta Ant.[1] mediante la cual nos solicita informar los motivos y acciones que 
+permitan normalizar el comportamiento presentado por ambas unidades de la Central Canutillar en la 
+prestación del Servicio Complementario de Control de Tensión, durante el mes de abril del presente 
+año, se ha revisado la situación y quisiera informar lo siguiente: 
+ 
+• 
+En primer lugar, como lo indica la carta Ant.[2], desde el 26 de febrero de 2026 la central 
+respalda su capacidad para prestar el servicio de Control de Tensión, por cuanto se verifica 
+el cumplimiento con lo establecido en el Artículo 4-16 de la NTSSCC. 
+ 
+• 
+Respecto al desempeño deficiente que ha presentado la unidad N°1 y N°2 de la central 
+Canutillar durante el mes de abril, hemos identificado que esto se debe principalmente a 
+diferencias entre la señal de tensión con la que el Coordinador evalúa el servicio respecto a 
+la señal que utiliza el operador en la central como referencia para verificar el valor de la 
+tensión en la barra de 220kV de la S/E Puerto Montt, la cual es propiedad del Coordinado 
+Transelec S.A., por lo que su calidad no depende de Colbún. Asimismo, al comparar la 
+evaluación del Coordinador con la propia de Colbún se observan diferencias importantes 
+entre el valor de voltaje que tiene cada uno en tiempo real. 
+ 
+• 
+En general, se aprecia que las unidades N°1 y N°2 responden a las instrucciones de 
+disminución de tensión bajando sus reactivos rápidamente, los que comienzan a subir cuando 
+se alcanzan aproximadamente 10 minutos. Este comportamiento se presupone debido a que 
+
+ 
+2 
+ 
+otros activos han respondido a la misma instrucción y proceden a bajar la tensión en la barra 
+220kV de S/E Puerto Montt, por lo que central Canutillar tiende a mantener la tensión 
+inyectando reactivos. 
+ 
+• 
+Lo anterior se repite para ambas unidades de la central Canutillar en todas las instrucciones 
+de abril en las que se indica desempeño deficiente para el Control de Tensión Manual. En 
+atención a esto resulta relevante que el Coordinador indique en su informe mensual de 
+evaluación de los SSCC cuál es el TAG preciso con el cual se está verificando el servicio, así 
+como también permita a los Coordinados disponer de las mismas para el correcto seguimiento 
+de las instrucciones recibidas.  
+ 
+• 
+A modo de complemento de la situación descrita, se adjunta a la presente carta informes, 
+elaborados por Colbún S.A., donde se consigna el servicio de Control de Tensión durante el 
+mes de abril para las instrucciones indicadas. En estos antecedentes se evidencian estas 
+diferencias de valores de la tensión en la S/E Puerto Montt. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Sebastián Ruiz-Tagle Mena 
+Encargado Titular 
+COLBÚN S.A. 
+ 

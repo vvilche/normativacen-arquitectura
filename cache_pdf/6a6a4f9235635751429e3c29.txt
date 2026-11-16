@@ -1,0 +1,199 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+Santiago, 28 de julio de 2026 
+QLP202622 
+     Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Responde DE 04209-26 Solicitud de 
+antecedentes 
+técnicos 
+que 
+respalden 
+los 
+Informes de Limitación (IL) declarados para la 
+prestación de Control Dinámico de Tensión, PFV 
+Quilapilún 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en respuesta a la notificación DE 04209-26 del Coordinador 
+Eléctrico Nacional (CEN), Chungungo S.A. informa los antecedentes que justifican el 
+Informe de Limitación (IL) declarado para la prestación del control dinámico de tensión 
+(CDT) en el PFV Quilapilún. 
+ 
+Esta limitación radica en que actualmente no está verificada la capacidad de prestación 
+del control dinámico de tensión en PFV Quilapilún, por lo que se presentan las actividades 
+realizadas a la fecha y futuras para este fin. 
+ 
+1. 
+Acciones ejecutadas a la fecha 
+ 
+1.1 Cambio del controlador de la planta (PPC) 
+ 
+Durante julio de 2026 se realizaron las pruebas internas asociadas al cambio del 
+controlador de la planta (PPC), con las solicitudes de intervención gestionadas en la 
+plataforma Neomante del CEN. Las pruebas resultaron exitosas y confirmaron el correcto 
+funcionamiento del controlador. 
+ 
+1.2 Mejora del esquema de comunicaciones con el SITR 
+ 
+Durante junio de 2026, Chungungo S.A. presentó al Departamento de SCADA del CEN 
+una propuesta de mejora del esquema de envío de señales desde la planta hacia el 
+Sistema de Información Técnica en Tiempo Real (SITR). La propuesta fue revisada y 
+aprobada mediante correo electrónico de fecha 9 de julio de 2026. 
+ 
+La migración del esquema de comunicaciones es un hito habilitante, ya que de ella 
+depende que el CEN habilite las señales requeridas para la implementación del control 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+dinámico de tensión. 
+ 
+Su desarrollo e implementación se encuentran proyectados para el 30 de julio de 2026. 
+ 
+2. Cronograma de trabajo 
+ 
+A continuación, se presenta el cronograma de trabajo para la implementación del control 
+dinámico de tensión, considerando como actividad precedente las pruebas internas de 
+cambio de PPC ejecutadas en julio de 2026: 
+ 
+Etapa 
+Descripción 
+Fecha 
+Responsable 
+Estado 
+1. Pruebas internas 
+cambio de PPC 
+Ejecución de pruebas internas asociadas 
+al cambio del controlador de la planta 
+(PPC), con las solicitudes de intervención 
+ya gestionadas en la plataforma 
+Neomante del CEN. 
+10 al 12 de julio de 
+2026 
+Chungungo S.A. 
+Ejecutada 
+2. Cambio de PPC 
+Aprobación y cambio al nuevo PPC, a fin 
+de permitir la integración con SITR, AGC 
+y SCED. 
+31 de julio de 2026 
+Chungungo S.A. 
+/ DMAP 
+Pendiente 
+3. Implementación 
+señales SITR + 
+envío de planilla 
+IEC 104 
+Una vez completado el cambio de PPC, 
+implementación de los puntos de 
+integración requeridos y envío de la 
+planilla con los parámetros IEC 104 al 
+Dpto. SCADA del CEN. 
+5 de agosto de 2026 
+Chungungo S.A. 
+/ Dpto. SCADA 
+CEN 
+Pendiente 
+4. Pruebas punto a 
+punto SITR 
+Coordinación y ejecución de pruebas 
+punto a punto con el Dpto. SCADA del 
+CEN para verificar la integración al SITR y 
+la recepción de señales. 
+7 de agosto de 2026 
+Chungungo S.A. 
+/ Dpto. SCADA 
+CEN 
+Pendiente 
+5. Aprobación 
+pruebas internas 
+SITR 
+Revisión y validación interna de los 
+resultados de las pruebas punto a punto 
+por parte del CEN. 
+10 de agosto de 
+2026 
+Dpto. SCADA 
+CEN 
+Pendiente 
+6. Revisión y 
+aprobación CEN 
+Revisión de los resultados por parte del 
+CEN y aprobación formal de la 
+implementación del control dinámico de 
+tensión con el nuevo esquema de 
+señales. 
+14 de agosto de 
+2026 (sujeto a 
+disponibilidad del 
+CEN) 
+CEN 
+Pendiente 
+7. Ejecución de 
+pruebas CT 
+Ejecución de las pruebas funcionales de 
+integración a los servicios de control de 
+tensión (CT) y control dinámico de 
+tensión (CDT). 
+Septiembre de 2026 
+Chungungo S.A. 
+/ Estudios 
+Eléctricos 
+Pendiente 
+8. Envío de 
+informe 
+Envío del informe de pruebas 
+funcionales de integración a los servicios 
+CT y CDT. 
+Octubre de 2026 
+Chungungo S.A. 
+/ Estudios 
+Eléctricos 
+Pendiente 
+9. Revisión y 
+aprobación CEN 
+Revisión de los resultados por parte del 
+CEN y aprobación formal. 
+Octubre de 2026 
+CEN 
+Pendiente 
+ 
+Conforme a lo expuesto, la limitación se mantendrá hasta ejecutar las pruebas de control de 
+tensión, que permitirán determinar la capacidad efectiva de la planta para prestar este servicio y, 
+en particular, el control dinámico de tensión. 
+ 
+Sin otro particular, le saluda atentamente, 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Moraga Á. 
+Encargado Titular 
+Chungungo S.A. 

@@ -1,0 +1,75 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 19 de mayo de 2026 
+ 
+    
+DE 03399-26 
+ 
+Señora 
+Carolina Vélez 
+Encargada Titular  
+Generadora Metropolitana SpA 
+Presente 
+Ref.: Solicitud de antecedentes técnicos y 
+evaluación de mejoras para ampliación del 
+rango de prestación de CSF del Ciclo 
+Combinado de central TER Nueva Renca.  
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y considerando los antecedentes presentados 
+por su representada respecto de la prestación del Servicio Complementario de Control 
+Secundario de Frecuencia (CSF) de la central TER Nueva Renca, informo a usted lo 
+siguiente: 
+a) De la revisión de los antecedentes y resultados de las pruebas, se observa que el 
+rango de prestación de CSF actualmente declarado para la unidad presenta una 
+capacidad limitada respecto de su rango operativo completo. En este contexto, se 
+hace presente que las pruebas de verificación realizadas por el Coordinador fueron 
+efectuadas en función de los límites operacionales informados por su representada. 
+No obstante, a la fecha, no se cuenta con antecedentes técnicos suficientes que 
+permitan justificar las restricciones actualmente declaradas para justificar el rango 
+de operación de la prestación de este servicio complementario. 
+b) En atención a lo anterior, se solicita a su representada presentar, en un plazo de 15 
+días hábiles, un informe técnico que justifique las limitaciones actualmente 
+informadas para la prestación de CSF, incluyendo el detalle de las restricciones 
+operacionales, de control, equipamiento u otras que resulten aplicables.  
+c) Adicionalmente, dentro del mismo plazo señalado anteriormente, se solicita 
+presentar un cronograma de trabajo asociado a evaluar y presentar alternativas de 
+ajustes, pruebas, mejoras, modificaciones de control y/o adecuaciones 
+operacionales que permitan ampliar el rango de prestación del SC de la unidad, 
+apuntando a cubrir todo el rango de operación del ciclo combinado. Dicho 
+cronograma debe contener las actividades y los plazos estimados de ejecución, los 
+cuales deberán implementarse en un plazo no superior a 3 meses. Asimismo, 
+deberá respaldar los resultados obtenidos mediante un informe técnico que sustente 
+el rango operativo de la instalación en su operación en el AGC. 
+ 
+ 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+Finalmente, una vez revisados los antecedentes solicitados, y en caso de ampliarse el 
+rango de prestación de CSF de la unidad, deberán ejecutarse nuevos ensayos de 
+verificación CSF/AGC en el nuevo rango operativo habilitado con el objetivo de validar el 
+desempeño de la unidad bajo las condiciones actualizadas de prestación del servicio 
+complementario. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PGR/ycl 
+c.c.:  
+Sr. Sebastián Navarrete – Encargado Suplente Generadora Metropolitana SpA 
+DMAP 
+ 

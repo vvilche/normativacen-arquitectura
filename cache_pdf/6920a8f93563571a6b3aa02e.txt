@@ -1,0 +1,86 @@
+ 
+ 
+ 
+ 
+ 
+ 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 21 de noviembre de 2025 
+ENGIE N°332/2025
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Complementa carta ENGIE N°194/2025
+asociada a las pruebas de verificación de SSCC en el 
+PFV y BESS Tamaya 
+Ref.: 
+[1] Carta DE03477-25 del 11 de junio de 2025. 
+[2] Carta DE03478-25 del 11 de junio de 2025. 
+[3] Carta ENGIE N°194/2025, ingreso DE06630-25,
+del 11 de julio de 2025. 
+ 
+De nuestra consideración, 
+ 
+En complemento a nuestra comunicación ref. [3], relacionada con las pruebas de verificación de SSCC en el PFV 
+Tamaya Solar y el BESS Tamaya, informamos lo siguiente: 
+ 
+Actualmente nos encontramos en el proceso de implementación de un Master PPC (M-PPC) para el conjunto PFV 
+y BESS Tamaya, con el objetivo de homologar las lógicas de control de la planta e implementar las funcionalidades 
+SSCC. El estado actual del proceso es el siguiente: 
+ 
+• 
+Montaje del hardware y conexionado: Finalizado. 
+• 
+Integración con PPC Solar y PPC BESS: En proceso (fecha estimada de término: 15 de diciembre de 2025). 
+• 
+Inicio de marcha blanca: 15 de diciembre de 2025. 
+• 
+Término de marcha blanca: 29 de diciembre de 2025. 
+• 
+Pruebas funcionales de puesta en servicio: Semana del 5 de enero de 2026. 
+ 
+Posteriormente, se realizarán las pruebas de homologación y verificación de SSCC. 
+ 
+Con el fin de entregar al Coordinador un informe completo, coherente y técnicamente consistente, evitando versiones 
+parciales o reiteraciones posteriores, solicitamos cordialmente una extensión de plazo hasta el viernes 15 de enero 
+de 2026 para remitir: 
+ 
+• 
+La minuta de respuesta a las observaciones. 
+• 
+La versión corregida de los informes de verificación de SSCC del PFV Tamaya Solar. 
+ 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agradecemos de antemano su comprensión, considerando que estas actividades requieren interacción con 
+proveedores externos y validaciones especializadas. Quedamos disponibles para cualquier coordinación adicional 
+que estime necesaria. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Juan Muñoz 
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+ 

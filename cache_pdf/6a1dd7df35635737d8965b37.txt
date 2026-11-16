@@ -1,0 +1,119 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 29 de mayo de 2026 
+BOL 0026-2026 
+ 
+ 
+Señor  
+Rodrigo Espinoza 
+Gerente de Operación  
+Coordinador Eléctrico Nacional  
+ 
+ 
+Ref: Responde carta DE03429-26 sobre proceso de verificación de Control 
+Secundario de Frecuencia e incorporación a la herramienta de despacho económico. 
+[1] DE03429-26, “Proceso de Verificación del Servicio Complementario (SC) de Control 
+Secundario de Frecuencia (CSF-AGC) e incorporación a la herramienta de despacho 
+económico (ED)”, de fecha 20 de mayo de 2026. 
+ 
+ 
+De mi consideración, 
+ 
+A continuación, se indica información solicitada por Ud. a través de la comunicación 
+indicada en la Ref. [1]: 
+  
+ 
+1. Informe con estado de implementación de enlaces y señales requeridas y su 
+correspondiente integración al SITR/AGC del Coordinador. 
+a. Enlaces no implementados.  
+b. Enlaces implementados en instalaciones de su representada.  
+c. Pruebas punto a punto ejecutadas sobre los enlaces implementados, 
+verificando su integración al SITR con el Coordinador -gestionada con 
+el Departamento SCADA- y correspondiente recepción de señales.  
+d. Pruebas funcionales de integración al Despacho Económico vía AGC, 
+programadas con el Coordinador.  
+ 
+RESP: A la fecha todas las señales requeridas se encuentran habilitadas y en 
+explotación mediante el SITR de la compañía. A la fecha, mi representada se encuentra 
+realizando las gestiones pertinentes con este Coordinador para la asignación de TAGS 
+previo a la coordinación las pruebas punto a punto. 
+ 
+Acorde con lo anterior, las pruebas punto a punto y las pruebas funcionales de 
+integración al Despacho Económico vía AGC aún están pendientes de coordinación.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+2. Cronograma con hitos y plazos específicos en que ejecutará cada etapa 
+listada en literal a) anterior, considerando como plazo máximo para el término 
+de la implementación el mes de noviembre de 2026.  
+ 
+RESP: Por las razones mencionadas en el punto anterior, solicito a Ud. considerar 
+el siguiente cronograma de actividades actualizado: 
+ 
+Ítem Nombre de tarea 
+Estado 
+Comienzo 
+Fin 
+1 
+Reunión técnica O&M 
+Completado 
+N/A 
+N/A 
+2 
+Adquisición de hardware RTU 
+Completado 
+N/A 
+N/A 
+3 
+Análisis control de PPC BESS y PV 
+Completado 
+N/A 
+N/A 
+4 
+Reunión CEN por implementación PV AGC 
+(CSF) 
+Completado 
+N/A 
+N/A 
+5 
+Pruebas internas de CSF PV + BESS 
+En proceso 
+02/03/2026 
+20/07/2026 
+6 
+Señales SITR 
+En proceso 
+25/05/2026 
+05/06/2026 
+7 
+Pruebas punto a punto CEN 
+Pendiente 
+20/07/2026 
+24/07/2026 
+8 
+Sintonización de AGC 
+Pendiente 
+27/07/2026 
+31/07/2026 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+Bolero SpA. 
+ 
+ 

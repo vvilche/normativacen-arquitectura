@@ -1,0 +1,1634 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 04 de diciembre de 2025 
+ 
+    
+DE 07745-25 
+ 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Publicación de Indicadores de Desempeño 
+de Servicios Complementarios prestados durante 
+el mes de octubre 2025, segunda versión. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página web 
+del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de los Indicadores 
+de Desempeño de Servicios Complementarios prestados durante el mes de octubre 2025. Estos 
+indicadores fueron considerados en la versión definitiva del IVTE de dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador en la 
+siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2025 > Octubre 2025 > Versión 
+2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las observaciones 
+recibidas para la primera versión del Informe. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ASA/adr 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de octubre 
+2025 consideradas en la versión 2. 
+ 
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Engie 
+Disponi
+bilidad/
+CT 
+TER 
+Mejillones 
+CTM3 
+Fecha: 
+15-10-2025 
+00:00 
+Solicitan corrección de los factores de desempeño 
+considerando que la unidad se encontraba en 
+mantenimiento 
+programado 
+según 
+solicitud 
+Neomante N° 2025111493  
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que el 
+factor de disponibilidad es del 100% para esta 
+central durante la instrucción, por lo que no es 
+penalizada por el mantenimiento. Dicho lo anterior 
+el indicador se mantiene. 
+2 
+Engie 
+CT 
+TER 
+ANDINA 
+Fecha: 
+30-10-2025 
+00:00 
+Solicitan corrección de los factores de desempeño 
+considerando que la unidad se encontraba en 
+proceso de partida al momento de la instrucción de 
+CT. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que la 
+unidad se encontraba en estado de falla al 
+momento de la instrucción por fuga de agua en la 
+unidad (solicitud Neomante IF 2025006459), por 
+lo que su índice de disponibilidad es de 0%. Dicho 
+lo anterior el indicador se mantiene. 
+3 
+Engie 
+Disponi
+bilidad/
+CT 
+TER 
+Hornitos 
+Fecha: 
+01-10-2025 
+00:00 
+Indican 
+que 
+tienen 
+solicitud 
+programa 
+N°2025098746 
+Se acoge la observación. - En revisión. 
+ 
+Se analizan los antecedentes y se constata que la 
+unidad se encontraba en mantenimiento el día 01 
+de octubre de 2025 según solicitud Neomante N° 
+2025098746. La evaluación de la disponibilidad 
+del día 01 de octubre de esta unidad será 
+considerada en una reliquidación posterior. 
+4 
+Engie 
+Disponi
+bilidad/
+CPF 
+TER 
+Hornitos 
+Fecha: 
+01-10-2025 
+00:00 
+Indican 
+que 
+tienen 
+solicitud 
+programa 
+N°2025098746 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que la 
+unidad se encontraba en mantenimiento el día 01 
+de octubre de 2025 según solicitud Neomante N° 
+2025098746. En función de este antecedente el 
+factor de disponibilidad se recalcula y pasa a 
+100% entre las horas 1 y 10 (inclusive). 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+5 
+Acciona 
+CT 
+PE SAN 
+GABRIEL 
+Fecha: 01-10-2025 00:00 
+Se califica como NC, sin embargo, según grabación 
+con CDC (archivo adjunto “01102025_2355”), se les 
+indicó que PE San Gabriel puede absorber 45 MVAr. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y CDC confirma que el monto 
+instruido fue de -45MVAr. Dicho lo anterior el 
+factor de desempeño se recalcula y pasa a 100%. 
+6 
+Acciona 
+CT 
+PE TOLPAN 
+SUR 
+Fecha: 01-10-2025 00:00 
+ 
+Se califica como NC, sin embargo, según grabación 
+con CDC (archivo adjunto “01102025_2355”), se les 
+indicó que PE Tolpán Sur puede absorber 21 MVAr 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y CDC confirma que el monto 
+instruido fue de -21MVAr. Dicho lo anterior el 
+factor de desempeño se recalcula y pasa a 100%. 
+7 
+Colbún 
+CTF 
+UG Colbún 1 Fecha: 02.10.2025 00:00:00 (UTC-3) 
+De acuerdo con el documento CTF_202510 se 
+evalúa la instrucción de bajada con aporte de 55 
+MW, sin embargo la instrucción se da a las 23:59 del 
+día anterior por lo que el monto considerado debe 
+ser de 96 MW. Esto queda claro en la grabación que 
+se 
+obtiene 
+del 
+registro 
+de 
+Colbún 
+SA. 
+Solicitud: Revisar instrucción del operador del 
+Coordinador 
+y 
+reevaluar 
+con 
+la 
+reserva 
+correspondiente. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para 
+la instrucción y CDC confirma que el monto a 
+considerar en la evaluación es de 96MW para 
+CTF- en lugar de 55MW. Sin perjuicio de lo 
+anterior, la unidad ajustó su potencia en 121MW 
+en lugar de las 96MW solicitadas por el despacho 
+lo que el factor de desempeño se mantiene en 0%. 
+8 
+Colbún 
+CPF 
+UG 
+Canutillar U2 
+Fecha: 07.10.2025 22:00:00 (UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 08 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que este registro está en hora UTC-0, por lo que se 
+debe revisar el desempeño entre las 01:00 y las 
+02:00 horas. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Se analizan los registros de frecuencia y potencia 
+usados para la evaluación y se constata que estos 
+son adecuados e íntegros. Adicionalmente se 
+comprueba que esta se encuentra correctamente 
+disponible 
+y 
+que 
+pudo 
+ser 
+procesada 
+adecuadamente. Dicho lo anterior el indicador no 
+cambia.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+9 
+Colbún 
+CPF 
+UG 
+Canutillar U2 
+Fecha: 08.10.2025 00:00:00 (UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 08 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+10 
+Colbún 
+CPF 
+UG 
+Canutillar U1 
+Fecha: 08.10.2025 12:00:00 (UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 08 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.   
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+11 
+Colbún 
+CPF 
+UG 
+Canutillar U2 
+Fecha: 
+08.10.2025 
+17:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 08 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+12 
+Colbún 
+CPF 
+UG 
+Canutillar U2 
+Fecha: 
+09.10.2025 
+09:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 09 de octubre completo con el 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.   
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+13 
+Colbún 
+CPF 
+UG 
+Canutillar U2 
+Fecha: 
+09.10.2025 
+10:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 09 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.   
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+14 
+Colbún 
+CPF 
+UG 
+Canutillar U1 
+Fecha: 
+09.10.2025 
+13:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 09 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.   
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+15 
+Colbún 
+CPF 
+UG 
+Canutillar U2 
+Fecha: 
+10.10.2025 
+13:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 10 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+16 
+Colbún 
+CTF 
+UG 
+Canutillar 1 
+Fecha: 
+10.10.2025 
+17:37:00 
+(UTC-3) 
+Se solicita a la unidad participar de la prorrata y 
+consignar a Mínimo Técnico a las 17:36, esto se 
+No se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+puede corroborar en el registro RIO de energía. 
+Posteriormente a las 17:37 se solicita activar el CTF 
+de subida por 24 MW. En este contexto se consigna 
+a la unidad en 64 MW considerando que el aporte es 
+tomando como base 40 MW dado que es MT de la 
+unidad. Se adjunta grabación con la activación del 
+servicio en la cual el operador de Colbún le dice a su 
+par del Coordinador que la unidad se encuentra 
+bajando por prorrata pero que subirá ajustando la 
+consigna a la instrucción de subida. 
+Solicitud: 
+Se 
+solicita 
+evaluar 
+a 
+la 
+unidad 
+considerando que debería estar en 40 MW por 
+prorrata 
+Se analizan los antecedentes y grabaciones de la 
+instrucción y se constata que el despachador de 
+Colbún indica a CDC que detendrá la bajada a MT 
+y que desde ese punto aumentará su potencia 
+activa 24 MW. Dicho lo anterior, el indicador no 
+cambia. 
+17 
+Colbún 
+CTF 
+UG 
+Canutillar 2 
+Fecha: 
+10.10.2025 
+17:37:00 
+(UTC-3) 
+Se solicita a la unidad participar de la prorrata y 
+consignar a Mínimo Técnico a las 17:36, esto se 
+puede corroborar en el registro RIO de energía. 
+Posteriormente a las 17:37 se solicita activar el CTF 
+de subida por 24 MW. En este contexto se consigna 
+a la unidad en 64 MW considerando que el aporte es 
+tomando como base 40 MW dado que es MT de la 
+unidad. Se adjunta grabación con la activación del 
+servicio en la cual el operador de Colbún le dice a su 
+par del Coordinador que la unidad se encuentra 
+bajando por prorrata pero que subirá ajustando la 
+consigna a la instrucción de subida.  
+Solicitud: 
+Se 
+solicita 
+evaluar 
+a 
+la 
+unidad 
+considerando que debería estar en 40 MW por 
+prorrata 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones de la 
+instrucción y se constata que el despachador de 
+Colbún indica a CDC que detendrá la bajada a MT 
+y que desde ese punto aumentará su potencia 
+activa 24 MW. Dicho lo anterior, el indicador no 
+cambia. 
+18 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+12.10.2025 
+07:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 12 de octubre completo con el 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+19 
+Colbún 
+CPF 
+UG 
+Canutillar 2 
+Fecha: 
+13.10.2025 
+04:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 13 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+20 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+13.10.2025 
+06:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 13 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+21 
+Colbún 
+CPF 
+UG 
+Canutillar 2 
+Fecha: 
+13.10.2025 
+06:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 13 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+22 
+Colbún 
+CTF 
+UG Colbún 2 Fecha: 
+22.10.2025 
+00:00:00 
+(UTC-3) 
+De acuerdo con el registro de grabaciones de 
+Colbún SA la instrucción se realiza a las 23:52 de día 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+21 de octubre. Esto es consistente con el Registro 
+RIO de SSCC para el día 21 de octubre. 
+Solicitud: Revisar inicio de instrucción y reevaluar  
+Se analizan las grabaciones y se constata que 
+existió instrucción a las 23:52. Se actualiza el RIO 
+y el indicador de respuesta se recalcula y pasa de 
+“No Participa” a 97,57%. 
+23 
+Colbún 
+CPF 
+UG 
+Angostura 
+U1 
+Fecha: 
+24.10.2025 
+06:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 24 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+24 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+25.10.2025 
+07:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 25 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+25 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+26.10.2025 
+10:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 26 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+26 
+Colbún 
+CPF 
+UG 
+Angostura 
+U2 
+Fecha: 
+26.10.2025 
+20:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 26 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+27 
+Colbún 
+CPF 
+UG 
+Angostura 
+U1 
+Fecha: 
+26.10.2025 
+23:00:00 
+(UTC-3) 
+De acuerdo con el RIO de Energía se solicitó retirar 
+la unidad de servicio a las 23:03, esto es consistente 
+con el registro de grabaciones de Colbún SA. En 
+este contexto la unidad se encontraba fuera de 
+servicio y el equipo Saturn entrega datos en cero. Se 
+adjuntan el RIO y la grabación correspondiente. 
+Solicitud: Revisar contexto operacional y reevaluar 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y se 
+constata que la unidad fue instruida a retirar su 
+servicio a las 23:03 horas. Dicho lo anterior se 
+actualiza el RIO y la hora de finalización de la 
+instrucción de CPF-. Dicho lo anterior el indicador 
+de respuesta se recalcula y pasa a 100%. 
+28 
+Colbún 
+CPF 
+UG 
+Angostura 
+U2 
+Fecha: 
+27.10.2025 
+02:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 27 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+29 
+Colbún 
+CPF 
+UG 
+Angostura 
+U1 
+Fecha: 
+27.10.2025 
+03:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 27 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+30 
+Colbún 
+CPF 
+UG 
+Angostura 
+U2 
+Fecha: 
+27.10.2025 
+06:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 27 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+31 
+Colbún 
+CPF 
+UG 
+Angostura 
+U1 
+Fecha: 
+27.10.2025 
+09:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 27 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+32 
+Colbún 
+CTF 
+PE San Juan Fecha: 
+27.10.2025 
+18:54:00 
+(UTC-3) 
+De acuerdo con el registro RIO se observa que la 
+instrucción se activa a las 18:54 y se desactiva a las 
+19:00 horas, en consecuencia no cumple con los 15 
+minutos mínimos que debe tener el tiempo de 
+activación 
+para 
+entregar 
+toda 
+la 
+reserva. 
+Solicitud: 
+Revisar 
+duración 
+de 
+instrucción 
+y 
+reevaluar en consecuencia 
+Se acoge la observación - Aclaración 
+ 
+Se analizan los antecedentes y se constata que la 
+instrucción inició a las 18:54 horas y finalizó a las 
+19:00 horas. La instrucción, al durar menos de 15 
+minutos, sólo evalúa la respuesta de la unidad 
+durante los primeros 5 minutos, donde ajustó su 
+consigna adecuadamente. Dicho lo anterior, el 
+indicador de respuesta se recalcula y pasa a 
+100%. 
+ 
+ 
+33 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+28.10.2025 
+03:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+el registro para el día 28 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+34 
+Colbún 
+CPF 
+UG 
+Canutillar 2 
+Fecha: 
+28.10.2025 
+03:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 28 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+35 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+28.10.2025 
+04:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 28 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+36 
+Colbún 
+CPF 
+UG 
+Canutillar 2 
+Fecha: 
+28.10.2025 
+04:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 28 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+ Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+37 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+28.10.2025 
+06:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+No se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 28 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+Ver respuesta a la observación N°8. 
+38 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+28.10.2025 
+17:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 28 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+39 
+Colbún 
+CPF 
+UG 
+Angostura 2 
+Fecha: 
+28.10.2025 
+23:00:00 
+(UTC-3) 
+De acuerdo con el RIO de Energía se solicitó retirar 
+la unidad de servicio a las 22:43, esto es consistente 
+con el registro de grabaciones de Colbún SA. En 
+este contexto la unidad se encontraba fuera de 
+servicio y el equipo Saturn entrega datos en cero. Se 
+adjuntan el RIO y la grabación correspondiente. 
+Solicitud: Revisar contexto operacional y reevualuar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y se 
+constata que la unidad fue instruida a retirar su 
+servicio a las 22:43 horas por lo que la evaluación 
+de la hora 23 se elimina. Dicho lo anterior se 
+actualiza el RIO y la hora de finalización de la 
+instrucción de CPF-. Dicho lo anterior el indicador 
+de respuesta de la hora 23 del día 28 de octubre 
+se recalcula y pasa a “No Participa”. 
+40 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+29.10.2025 
+16:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 29 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0.  
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+41 
+Colbún 
+CTF 
+UG Colbún 1 Fecha: 
+29.10.2025 
+19:26:00 
+(UTC-3) 
+La unidad es evaluada con un desempeño de 100% 
+por la activación del servicio lo que se corrobora en 
+el documento "CTF_202510", sin embargo se 
+considera a la unidad indisponible por la limitación 
+N°2025120589 a partir de las 15:30 del 29.10.2025, 
+la cual hace referencia a la pérdida de señales SITR 
+hacia el Coordinador. 
+No obstante lo anterior, esta limitación fue 
+recuperada el mismo 29.10.2025 a las 16:15, de 
+hecho, el Coordinador puede utilizar estas señales 
+para la evaluación de desempeño de la central. En 
+el sitio de Neomante aparece que la resolución 
+efectiva del problema fue el 03.11.2025 sin embargo 
+esta consideración no es correcta. 
+Solicitud: No considerar la limitación por pérdidas de 
+señales por cuanto estas ya estaban disponibles 
+para evaluar la instrucción. 
+No se acoge la observación – Aclaración 
+ 
+La fuente de información para la determinación de 
+la disponibilidad de la central corresponde a la 
+plataforma Neomante, cuyas solicitudes son 
+responsabilidad del coordinado en tiempo y forma. 
+ 
+Esta no es instancia para rectificar la información 
+proporcionada 
+por 
+su 
+representada 
+en 
+la 
+plataforma Neomante, por lo que el indicador no 
+cambia y se solicita la actualización de la 
+información en la plataforma correspondiente. 
+42 
+Colbún 
+CTF 
+UG Colbún 2 Fecha: 
+29.10.2025 
+19:26:00 
+(UTC-3) 
+La unidad es evaluada con un desempeño de 100% 
+por la activación del servicio lo que se corrobora en 
+el documento "CTF_202510", sin embargo se 
+considera a la unidad indisponible por la limitación 
+N°2025120589 a partir de las 15:30 del 29.10.2025, 
+la cual hace referencia a la pérdida de señales SITR 
+hacia el Coordinador. No obstante lo anterior, esta 
+limitación fue recuperada el mismo 29.10.2025 a las 
+16:15, de hecho, el Coordinador puede utilizar estas 
+señales para la evaluación de desempeño de la 
+central. En el sitio de Neomante aparece que la 
+resolución efectiva del problema fue el 03.11.2025 
+sin embargo esta consideración no es correcta. 
+No se acoge la observación – Aclaración 
+ 
+Ver respuesta a la observación N°41. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Solicitud: No considerar la limitación por pérdidas de 
+señales por cuanto estas ya estaban disponibles 
+para evaluar la instrucción. 
+43 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+29.10.2025 
+22:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que este registro está en hora UTC-0, por lo que se 
+debe revisar el desempeño entre las 01:00 y las 
+02:00 horas. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+44 
+Colbún 
+CPF 
+UG 
+Angostura 1 
+Fecha: 
+29.10.2025 
+23:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que este registro está en hora UTC-0, por lo que se 
+debe revisar el desempeño entre las 02:00 y las 
+03:00 horas. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+45 
+Colbún 
+CPF 
+UG 
+Angostura 2 
+Fecha: 
+29.10.2025 
+23:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que este registro está en hora UTC-0, por lo que se 
+debe revisar el desempeño entre las 02:00 y las 
+03:00 horas. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+46 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+29.10.2025 
+23:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que este registro está en hora UTC-0, por lo que se 
+debe revisar el desempeño entre las 02:00 y las 
+03:00 
+horas. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+47 
+Colbún 
+CPF 
+UG 
+Canutillar 2 
+Fecha: 
+30.10.2025 
+09:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+48 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+30.10.2025 
+10:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+49 
+Colbún 
+CPF 
+UG 
+Canutillar 2 
+Fecha: 
+30.10.2025 
+10:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+50 
+Colbún 
+CPF 
+UG 
+Canutillar 2 
+Fecha: 
+30.10.2025 
+12:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+51 
+Colbún 
+CPF 
+UG 
+Canutillar 2 
+Fecha: 
+30.10.2025 
+13:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+52 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+30.10.2025 
+14:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+53 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+30.10.2025 
+16:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+54 
+Colbún 
+CPF 
+UG 
+Canutillar 2 
+Fecha: 
+30.10.2025 
+16:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+55 
+Colbún 
+CPF 
+UG 
+Canutillar 1 
+Fecha: 
+30.10.2025 
+17:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+56 
+Colbún 
+CPF 
+UG 
+Canutillar 2 
+Fecha: 
+30.10.2025 
+17:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 30 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+57 
+Colbún 
+CPF 
+UG 
+Angostura 1 
+Fecha: 
+30.10.2025 
+23:00:00 
+(UTC-3) 
+De acuerdo con el RIO de Energía se solicitó retirar 
+la unidad de servicio a las 21:05 esto es consistente 
+con el registro de grabaciones de Colbún SA. En 
+este contexto la unidad se encontraba fuera de 
+servicio y el equipo Saturn entrega datos en cero. Se 
+adjuntan el RIO y la grabación correspondiente. 
+Solicitud: Revisar contexto y reevaluar. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y se 
+constata que la instrucción inició a las 19:00 horas 
+y finalizó a las 21:05 horas. Dicho lo anterior se 
+actualiza el RIO y la hora de finalización de la 
+instrucción de CPF+. Dicho lo anterior el indicador 
+de respuesta se recalcula, quedando en 100%. 
+58 
+Colbún 
+CPF 
+UG 
+Angostura 2 
+Fecha: 
+31.10.2025 
+03:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 31 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0, 
+asimismo cerca de las 03:00 horas (UTC-3) se 
+requiere a la unidad en servicio para la prestación de 
+CPF por lo que en los primeros minutos del registro 
+la unidad se encuentra tomando carga hasta 
+alcanzar la potencia indicada por el Coordinador. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto. 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+59 
+Colbún 
+CPF 
+UG 
+Angostura 2 
+Fecha: 
+31.10.2025 
+07:00:00 
+(UTC-3) 
+Al revisar el registro del equipo Saturn de la unidad 
+se observa que este se encuentra completo para la 
+evaluación del servicio. En este contexto se adjunta 
+el registro para el día 31 de octubre completo con el 
+cual se puede evaluar este periodo. Cabe señalar 
+que el registro se encuentra en horario UTC-0. 
+Solicitud: Evaluar desempeño de la unidad con el 
+registro adjunto 
+No se acoge la observación. 
+ 
+Ver respuesta a la observación N°8. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+60 
+Colbún 
+CTF 
+UG Colbún 1 Fecha: 
+31.10.2025 
+20:07:00 
+(UTC-3) 
+La unidad es evaluada con un desempeño de 100% 
+por la activación del servicio lo que se corrobora en 
+el documento "CTF_202510", sin embargo se 
+considera a la unidad indisponible por la limitación 
+N°2025120589 a partir de las 15:30 del 29.10.2025, 
+la cual hace referencia a la pérdida de señales SITR 
+hacia el Coordinador. No obstante lo anterior, esta 
+limitación fue recuperada el mismo 29.10.2025 a las 
+16:15, de hecho, el Coordinador puede utilizar estas 
+señales para la evaluación de desempeño de la 
+central. En el sitio de Neomante aparece que la 
+resolución efectiva del problema fue el 03.11.2025 
+sin embargo esta consideración no es correcta. 
+Solicitud: No considerar la limitación por pérdidas de 
+señales por cuanto estas ya estaban disponibles 
+para evaluar la instrucción. 
+No se acoge la observación – Aclaración 
+ 
+Ver respuesta a la observación N°41. 
+61 
+Colbún 
+CTF 
+UG Colbún 2 Fecha: 
+31.10.2025 
+20:07:00 
+(UTC-3) 
+La unidad es evaluada con un desempeño de 100% 
+por la activación del servicio lo que se corrobora en 
+el documento "CTF_202510", sin embargo se 
+considera a la unidad indisponible por la limitación 
+N°2025120589 a partir de las 15:30 del 29.10.2025, 
+la cual hace referencia a la pérdida de señales SITR 
+hacia el Coordinador. No obstante lo anterior, esta 
+limitación fue recuperada el mismo 29.10.2025 a las 
+16:15, de hecho, el Coordinador puede utilizar estas 
+señales para la evaluación de desempeño de la 
+central. En el sitio de Neomante aparece que la 
+resolución efectiva del problema fue el 03.11.2025 
+sin embargo esta consideración no es correcta. 
+Solicitud: No considerar la limitación por pérdidas de 
+señales por cuanto estas ya estaban disponibles 
+para evaluar la instrucción. 
+No se acoge la observación – Aclaración 
+ 
+Ver respuesta a la observación N°41. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+62 
+Colbún 
+CTF 
+UG Colbún 1 Fecha: 
+31.10.2025 
+21:14:00 
+(UTC-3) 
+La unidad es evaluada con un desempeño de 100% 
+por la activación del servicio lo que se corrobora en 
+el documento "CTF_202510", sin embargo se 
+considera a la unidad indisponible por la limitación 
+N°2025120589 a partir de las 15:30 del 29.10.2025, 
+la cual hace referencia a la pérdida de señales SITR 
+hacia el Coordinador. No obstante lo anterior, esta 
+limitación fue recuperada el mismo 29.10.2025 a las 
+16:15, de hecho, el Coordinador puede utilizar estas 
+señales para la evaluación de desempeño de la 
+central. En el sitio de Neomante aparece que la 
+resolución efectiva del problema fue el 03.11.2025 
+sin embargo esta consideración no es correcta. 
+Solicitud: No considerar la limitación por pérdidas de 
+señales por cuanto estas ya estaban disponibles 
+para evaluar la instrucción. 
+No se acoge la observación – Aclaración 
+ 
+Ver respuesta a la observación N°41. 
+ 

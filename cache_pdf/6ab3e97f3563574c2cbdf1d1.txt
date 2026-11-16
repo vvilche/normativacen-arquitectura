@@ -1,0 +1,38 @@
+ 
+Santiago, 22 de septiembre de 2026 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Entrega antecedentes técnicos de relés con 
+función ROCOF – Carta DE05854-26. 
+Ref.[1]: Envío DE07993-26, 21 de septiembre de 2026 
+De nuestra consideración: 
+Junto con saludar, y en relación con la carta DE05854-26, de fecha 02 de septiembre de 2026, 
+mediante la cual el Coordinador Eléctrico Nacional solicita antecedentes técnicos de los relés con 
+función de gradiente de frecuencia (ROCOF) asociados a esquemas EDAC y EDAG, informamos lo 
+siguiente: 
+En atención a lo requerido y dando continuidad a nuestra comunicación ingresada mediante el envío 
+Ref.[1], por la cual solicitamos una prórroga para la entrega de los antecedentes, remitimos la 
+información técnica recopilada correspondiente a los relés asociados al esquema EDAG de la central 
+Granja Solar. 
+Para estos efectos, se adjunta el Anexo N.º 2, «Planilla de relés ROCOF EDAC/EDAG», debidamente 
+completado, junto con la documentación técnica de respaldo disponible, antecedentes del 
+fabricante y protocolos de pruebas efectuadas durante la puesta en servicio del esquema. 
+Cabe señalar que aquellos parámetros cuya información no se encuentra expresamente declarada 
+en la documentación técnica disponible han sido identificados en la planilla adjunta, con el objeto de 
+distinguir los antecedentes verificados de aquellos que requieren confirmación adicional. 
+Agradecemos desde ya su disposición y quedamos atentos a cualquier observación o requerimiento 
+complementario que estimen pertinente. 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+María José Quiroga G. 
+Encargado Titular 
+COPEC Renovables SpA 
+77.875.443-6 
+PFV GRANJA SOLAR 
+ 

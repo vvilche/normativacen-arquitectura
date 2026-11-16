@@ -1,0 +1,84 @@
+ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref: Respuesta a Carta DE 05854-26 – Antecedentes técnicos de 
+relés con función ROCOF asociados a esquemas EDAC y EDAG. 
+ 
+De nuestra consideración: 
+ 
+En atención a la carta DE 05854-26, de fecha 02 de septiembre de 2026, mediante 
+la cual el Coordinador solicita antecedentes técnicos de los relés que utilizan función 
+de gradiente de frecuencia (ROCOF) y que participan en esquemas EDAC y EDAG 
+del Sistema Eléctrico Nacional, Minera Los Pelambres viene en dar respuesta 
+dentro del plazo establecido, remitiendo la información solicitada y la 
+documentación de respaldo correspondiente.  
+ 
+En cumplimiento de lo requerido, se adjunta la planilla Anexo 2_Planilla relés_ 
+ROCOF EDAC_EDAG.xlsx, la cual contiene para cada relé informado los 
+antecedentes relativos a su identificación, esquema en que participa, ajustes 
+implementados de la función ROCOF, características de medición declaradas por 
+el fabricante y antecedentes de conformidad con estándares de desempeño 
+aplicables. 
+ 
+Asimismo, se acompañan los respaldos técnicos utilizados para completar la 
+información requerida, incluyendo configuraciones vigentes de los equipos de 
+protección, extractos de manuales.  
+ 
+Se deja constancia de que las características asociadas a la medición y 
+determinación de la tasa de cambio de frecuencia (ROCOF), incluyendo algoritmos 
+de cálculo, filtrado, ventanas de medición, exactitud y conformidad normativa, 
+corresponden a antecedentes declarados por los respectivos fabricantes y se 
+presentan conforme a la documentación técnica disponible al momento de la 
+elaboración de esta respuesta.  
+ 
+ 
+Finalmente, declaramos que los antecedentes proporcionados corresponden a la 
+información técnica vigente de los sistemas de protección actualmente 
+implementados en las instalaciones de Minera Los Pelambres a la fecha de emisión 
+de esta comunicación.  
+  
+ 
+  
+  
+  
+ 
+
+ 
+ 
+ 
+Atentos para responder cualquier consulta y/o duda, que pudiera surgir de este 
+documento. 
+Cordialmente, 
+ 
+Sin otro particular, se despide atentamente.  
+ 
+ 
+ 
+Hermógenes Zepeda Pérez 
+Encargado Titular MLP  
+Superintendente de Suministro Eléctrico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c.c.: Rodrigo Rothen Véliz – Encargado Suplente MLP Transmisión.  

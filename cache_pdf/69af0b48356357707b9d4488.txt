@@ -1,0 +1,165 @@
+ 
+Santiago, 06 de marzo de 2026 
+PE 006-26 
+ 
+ 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operacion 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+MATERIA: 
+RESPUESTA CARTA DE01003-26: COMUNICA ATRASO EN EL 
+PROCESO DEVERIFICACIÓN DE INSTALACIONES DE GENERACIÓN 
+PARA 
+LA 
+PRESTACIÓN 
+DE 
+SERVICIOS 
+COMPLEMENTARIOS 
+DEACUERDO CON CRONOGRAMA VIGENTE. 
+ 
+REF [1]:         CARTA DE01003-26 DEL COORDINADOR DE FECHA 11 DE FEBRERO 
+DE 2026  
+ 
+ 
+De nuestra consideración: 
+En relación con la carta de la REF [1], de fecha 11 de febrero de 2026, mediante la cual 
+ese Coordinador comunica atrasos en el proceso de Verificación de Instalaciones de 
+Generación para la Prestación de Servicios Complementarios (SSCC), y de conformidad 
+con lo establecido en la Norma Técnica de Servicios Complementarios, su Anexo Técnico 
+de Verificación y las Guías de Verificación publicadas por el Coordinador, podemos 
+indicarle lo siguiente: 
+ 
+1. Entrega de información requerida 
+Junto a esta comunicación, nuestra representada remite el archivo Excel indicado por ese 
+Coordinador, debidamente completado conforme a las instrucciones de llenado, incluyendo 
+la hoja “Respuestas de coordinados”, en la cual se detalla para cada instalación: 
+• 
+Las razones específicas que han incidido en el atraso en la entrega de los informes 
+de verificación de SSCC. 
+• 
+Las acciones correctivas adoptadas y en curso, orientadas a regularizar dichos 
+atrasos y evitar su reiteración. 
+• 
+Las fechas comprometidas de entrega de los informes pendientes, de acuerdo con 
+una planificación técnica realista y ejecutable. 
+Los Archivos Excel indicados pueden ser descargados desde el siguiente enlace: 
+https://drive.google.com/drive/folders/1ri3XK0VHftW4gclwnBZ1_47Ou5g80Vre?usp=shari
+ng 
+ 
+ 
+ 
+ 
+
+ 
+2
+2. Antecedentes generales sobre los atrasos. 
+Sin perjuicio del detalle particular incorporado en la planilla adjunta, informamos que los 
+atrasos observados responden principalmente a: 
+ 
+• 
+La complejidad técnica del proceso de verificación, especialmente en instalaciones 
+con prestación de Control Secundario de Frecuencia (CSF), que requiere 
+coordinación con diversas áreas técnicas del Coordinador. 
+• 
+La disponibilidad limitada de recursos técnicos y humanos, tanto internos como 
+externos. 
+• 
+La dependencia de la disponibilidad de nuestro consultor técnico, quien participa en 
+la elaboración, ejecución y validación de protocolos de ensayo e informes finales, y 
+cuya agenda ha debido compatibilizar múltiples procesos de verificación en el 
+mismo período. 
+Estas condiciones han sido abordadas mediante una priorización técnica de instalaciones 
+y una reorganización de recursos, manteniendo siempre como criterio principal el 
+cumplimiento técnico y normativo de los ensayos y reportes exigidos. 
+ 
+3. Plan de normalización y plazos comprometidos 
+ 
+Nuestra representada ha elaborado un Plan de Normalización, el cual se encuentra 
+detallado en la planilla adjunta y considera la regularización progresiva de los informes 
+pendientes. 
+No obstante, dada la magnitud del número de instalaciones involucradas, la diversidad 
+tecnológica y la disponibilidad efectiva de recursos técnicos y humanos, no nos es posible 
+comprometer la entrega de la totalidad de los informes solicitados dentro de un plazo 
+máximo de 30 días corridos. Considerando una programación realista, y un tiempo de 
+ensayos del orden de 3 días por unidad/central, además de la confección de los informes, 
+plazos de coordinación y logística de viajes y disponibilidad de recursos técnicos, humanos 
+y de recurso primario de cada instalación, el plazo que podemos indicar es del orden de 15 
+meses en total. 
+Sin perjuicio de lo anterior, se realizarán los mayores esfuerzos para entregar los informes 
+a la brevedad posible, avanzando de manera prioritaria en aquellas instalaciones con 
+mayor grado de atraso y/o mayor impacto regulatorio, de acuerdo con la disponibilidad de 
+recursos propios y de nuestro consultor técnico. 
+En términos generales, el plan contempla: 
+• 
+Envío de protocolos de ensayo al Coordinador: A partir del mes de abril de 2026, 
+conforme a la priorización indicada en la planilla adjunta. 
+• 
+Ejecución de ensayos: De forma escalonada, en función de la disponibilidad 
+operativa de las instalaciones y de los equipos técnicos involucrados. 
+• 
+Envío de informes de verificación: En fechas comprometidas por instalación, las 
+cuales se encuentran detalladas en el archivo Excel adjunto, y que consideran una 
+ejecución responsable y técnicamente fundada. 
+
+ 
+3
+Cabe señalar que este plan no afecta los compromisos 
+de 
+entrega 
+de 
+informes 
+correspondientes a otras instalaciones programadas para los meses siguientes, los cuales 
+se mantienen conforme al cronograma vigente. 
+ 
+4. Compromiso de cumplimiento 
+ 
+Nuestra representada reitera su plena disposición a colaborar con ese Coordinador y su 
+compromiso con el cumplimiento de la normativa eléctrica vigente, asegurando que los 
+procesos de verificación de SSCC se desarrollen con el rigor técnico requerido y dentro de 
+plazos razonables y alcanzables. 
+ 
+Cabe mencionar que las fechas específicas de los ensayos se informará considerando lo 
+siguiente: 
+ 
+• 
+El envío con al menos 5 días de antelación a la ejecución de las pruebas, las curvas 
+de carga, las que serán cargadas en la correspondiente solicitud de trabajo en el 
+sistema Neomante con estado operativo “PDO”. Adicionalmente, esta información, 
+se enviará al correo electrónico verificación.sscc@coordinador.cl, indicando el N° 
+de aviso de trabajo asociado al sistema Neomante. 
+ 
+• 
+En conformidad con el capítulo 5 del “Instructivo Técnico para la Verificación de 
+Instalaciones para la prestación de SSCC”, se enviará el Informe Técnico con los 
+resultados, una vez realizado los ensayos, en un plazo máximo de 15 días. 
+ 
+Quedamos atentos a cualquier observación, comentario o ajuste que ese Coordinador 
+estime necesario respecto del plan propuesto. 
+ 
+Finalmente, como se indica en la planilla adjunta de Empresa Eléctrica Pehuenche S.A., 
+los informes técnicos de verificación de SSCC de Central Curillinque, pueden ser 
+descargados desde el siguiente enlace: 
+ 
+https://drive.google.com/drive/folders/1A6zISxvnHENYU8seWrQpjbZBlsBwKJJb?usp=sha
+ring 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adrián Guzmán M. 
+Encargado (S) CEN 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ 
+ 

@@ -1,0 +1,1328 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 26 de agosto de 2025 
+DE 05310-25 
+Señores 
+Encargados 
+EMPRESAS COORDINADAS 
+(según lista de distribución) 
+Presente 
+Ref.: Ampliación plazo de respuesta y Planilla 
+Excel actualizada para llenar Ajustes VRT, 
+FRT, Tensión y Frecuencia de las plantas 
+PMGD ERV. 
+[1]
+Cartas DE05203-25, DE05204-25, DE05205-
+25, Ref.: “Ajustes VRT, FRT, Tensión y
+Frecuencia de las plantas PMGD ERV”, del 22
+de agosto de 2025.
+[2]
+Carta 
+DE02420-25, 
+Ref.: 
+“Requiere
+información respecto de ajustes en las
+protecciones de las plantas PMGD ERV” del
+5 de mayo de 2025.
+De mi consideración: 
+En relación con la información solicitada mediante las cartas de la Ref. [1] y [2], referente a 
+los ajustes de Voltage Ride-Through (VRT), Frequency Ride-Through (FRT) de los 
+inversores, y los ajustes de protecciones tensión y frecuencia establecidos en los artículos 
+7-29 y 7-30 de la NTCO-PMGD, informamos lo siguiente:
+Se detectó un bloqueo en dos pestañas de la “Planilla Excel para Informar Ajustes de 
+Protecciones” adjunta a las cartas de la Ref. [1]. Por este motivo, se adjunta una nueva 
+planilla, la cual deberá completarse en todos sus campos y remitirse como versión 
+definitiva. 
+Recordamos que, en caso de que los ajustes actuales no cumplan con las exigencias de la 
+NTCO-PMGD, deberán modificarse antes de ser informados. La planilla debe contener 
+exclusivamente los valores finales de los ajustes, en cumplimiento con los artículos 
+mencionados.  
+Por lo anterior, solicitamos enviar a más tardar el 12 de septiembre de 2025 al 
+correo RT_PMGD@coordinador.cl (asunto: “Respuesta a Carta DE 05310-25”): 
+1. La planilla Excel completa y con ajustes definitivos.
+2. Los respectivos print outs y documentación de respaldo, con todos los ajustes que
+participen en las protecciones de tensión y frecuencia de la instalación.
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Asimismo, deberá ingresar una carta a nuestro sistema de correspondencia, haciendo 
+referencia a la presente comunicación. 
+ 
+Finalmente, se hace presente que el incumplimiento de los artículos 7-29 y 7-30 de la 
+NTCO-PMGD genera una condición de riesgo para la seguridad del servicio en el sistema 
+eléctrico. Por dicho motivo, la no entrega de la información solicitada, en tiempo y forma, 
+que impida concluir que los ajustes están debidamente implementados y garantizar que no 
+se produzcan desconexiones indebidas de la(s) instalación(es) bajo su responsabilidad, 
+habilitará al Coordinador a limitar las inyecciones del PMGD, conforme a lo establecido en 
+el artículo 102 del DS88 de 2019, Reglamento para medios de generación de pequeña 
+escala. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+VVG/SVR/adr 
+c.c.:  
+Empresas Coordinadas 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+LISTA DE DISTRIBUCIÓN 
+ 
+Coordinado 
+Unidad 
+AES Andes S.A. 
+PMGD PFV KAUFMANN 
+Agrosolar IV SpA 
+PMGD PFV COCINILLAS 
+Agrosolar V SpA 
+PMGD PFV CANELILLO 
+Ailin Fotovoltaica SpA 
+PMGD PFV FOTOVOLT LIN 
+Ailin Fotovoltaica SpA 
+PMGD PFV AMPLIACION FOTOVOLT LIN 
+Algarrobo SpA 
+PMGD PFV ALGARROBO 
+ANDINA SOLAR 1 SPA 
+PMGD PFV VIÑAS DEL SOL 
+Andina Solar 10 SpA 
+PMGD PFV LAJA ANDINO 
+Andina Solar 13 SpA 
+PMGD PFV TRANQUE DEL SOL 
+Andina Solar 17 Este SpA 
+PMGD PFV PAILLIHUE 
+ANDINA SOLAR 2 SPA 
+PMGD PFV TABOLANGO 
+Anumar Energía del Sol 1 SpA 
+PMGD PFV SOLARPARK VILLA ALEMANA 
+Apolo Solar SpA 
+PMGD PFV CORTIJO 
+Atacama Solar SpA 
+PMGD PFV PICA 
+Atria Energía SpA 
+PMGD PFV PARQUE SOLAR EL OLIVAR 
+Atria Energía SpA 
+PMGD PFV SOLAR DEL BUENO 
+Avilés SpA 
+PMGD PFV AVILES 
+Belén Solar SpA 
+PMGD PFV BARCELONA 
+Belloto SpA 
+PMGD PFV BELLOTO B XXVII 
+Besalco Energía Renovable S.A. 
+PMGD PE EL ARREBOL (U1-U3) 
+Betel SpA 
+PMGD PFV SANTA AMELIA 
+Betel SpA 
+PMGD PFV DON JORGE (EX PERALILLO) 
+Betel SpA 
+PMGD PFV LUMBRERAS 
+Blu Solar SpA 
+PMGD PFV BLU 
+Blue Solar Cinco SpA 
+PMGD PFV MILLAHUE 
+Blue Solar Doce SpA 
+PMGD PFV SAN VICENTE TT 
+Blue Solar Ocho SpA 
+PMGD PFV EL TRIUNFO 
+Cabrero Solar SpA 
+PMGD PFV CABRERO SOLAR 
+Calama Solar 1 SpA 
+PMGD PFV CALAMA SOLAR 
+Calbuco de Verano SpA 
+PMGD PFV LAS TORTOLAS DEL VERANO 
+Caldera Solar SpA 
+PMGD PFV CE CALDERA 
+Callaqui de Verano SpA 
+PMGD PFV EL MONTE 
+Campo Lindo SpA 
+PMGD PFV PRETTY FIELD 
+Candelaria Solar SpA 
+PMGD PFV CANDELARIA SOLAR 
+Capurata del Verano SpA 
+PMGD PFV LAS PALMAS DEL VERANO SOLAR 
+Carbon Free Chile SpA 
+PMGD PFV ENCON SOLAR 
+Carbon Free Chile SpA 
+PMGD PFV VALLE SOLAR ESTE II 
+Carbon Free Chile SpA 
+PMGD PFV VALLE SOLAR OESTE II 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+Carbon Free Chile SpA 
+PMGD PFV MALAQUITA SOLAR II 
+Carbon Free Chile SpA 
+PMGD PFV CACHIYUYO SOLAR II 
+Carbon Free Chile SpA 
+PMGD PFV VITUCO 2B 
+Carbon Free Chile SpA 
+PMGD PFV CRUCERO 
+Carbon Free Chile SpA 
+PMGD PFV POBLACION 
+Carbon Free Chile SpA 
+PMGD PFV PEDREROS SOLAR 
+Carbon Free Chile SpA 
+PMGD PFV RANGUIL 
+Carbon Free Chile SpA 
+PMGD PFV MONTT SOLAR 
+Carbon Free Chile SpA 
+PMGD PFV MARCHIHUE VII 
+Carbon Free Chile SpA 
+PMGD PFV PLACILLA SOLAR 
+Carbon Free Chile SpA 
+PMGD PFV VILLA SECA 
+Carbon Free Chile SpA 
+PMGD PFV LOS PALTOS 
+Carbon Free Chile SpA 
+PMGD PFV RAUQUEN 
+Carbon Free Chile SpA 
+PMGD PFV LA ESTANCIA 
+Carbon Free Chile SpA 
+PMGD PFV VILLA CRUZ 
+Carbon Free Chile SpA 
+PMGD PFV PARQUE SOLAR SANTA FE 
+Carbon Free Chile SpA 
+PMGD PFV ANTONIA SOLAR 
+Carbon Free Chile SpA 
+PMGD PFV VILLA ALEGRE 
+Carbon Free Chile SpA 
+PMGD PFV QUELTEHUE SOLAR 
+Carbon Free Chile SpA 
+PMGD PFV PITOTOY 
+Carbon Free Chile SpA 
+PMGD PFV GR LEMU 
+Carbon Free Chile SpA 
+PMGD PFV SANTA CAROLINA 
+Carbon Free Chile SpA 
+PMGD PFV PARQUE SOLAR SAN JAVIER 
+Carbon Free Chile SpA 
+PMGD PFV EL ROMERAL 
+Carbon Free Chile SpA 
+PMGD PFV GR RAULI 
+Carbon Free Chile SpA 
+PMGD PFV VENTURADA 
+Carbon Free Chile SpA 
+PMGD PFV BERRUECO 
+Carbon Free Chile SpA 
+PMGD PFV CASABERMEJA 
+Carbon Free Chile SpA 
+PMGD PFV LINARES SOLAR 
+Carbon Free Chile SpA 
+PMGD PFV MUTUPIN 
+Carbon Free Chile SpA 
+PMGD PFV ORION SOLAR 
+Carbon Free Chile SpA 
+PMGD PFV PEGASUS SOLAR 
+Carbon Free Chile SpA 
+PMGD PFV PACHIRA 
+Catemu Solar SpA 
+PMGD PFV YAHUTELA 
+Cauce Solar SpA 
+PMGD PFV CAUCE SOLAR 
+CE Centinela Solar SpA 
+PMGD PFV LOCKMA 
+CE Uribe de Antofagasta Solar SpA 
+PMGD PFV CKILIR 
+Cefalú Solar SpA 
+PMGD PFV CEFALU SOLAR 
+Centauro Solar SpA 
+PMGD PFV CENTAURO SOLAR 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+Chacabuco Solar SpA 
+PMGD PFV COLINA 
+Chapiquina Solar SpA 
+PMGD PFV ARICA 
+Chequen Solar SpA 
+PMGD PFV CHEQUEN SOLAR 
+Chester Solar I SpA 
+PMGD PFV JAHUEL 
+Chester Solar IV SpA 
+PMGD PFV EL ROBLE 
+Chester Solar V SpA 
+PMGD PFV EL SAUCE 
+Chilener II SpA 
+PMGD PFV CHILENER 
+Chronos Solar SpA 
+PMGD PFV SOLARPARK MALLOA 
+Chungungo Solar SpA 
+PMGD PFV LA BLANQUINA 
+Chungungo Solar SpA 
+PMGD PFV CHACABUCO 
+Chungungo Solar SpA 
+PMGD PFV COVADONGA 
+Ciprés SpA 
+PMGD PFV CIPRES 
+Cocharcas Solar SpA 
+PMGD PFV DUQUECO SOLAR 
+Colbún S.A. 
+PMGD PFV OVEJERIA 
+Commonplace Energy SpA 
+PMGD PFV SANTA CECILIA 
+Corcovado de Verano SpA 
+PMGD PFV ESCORIAL DEL VERANO SOLAR 
+Corso Solar SpA 
+PMGD PFV CORSO 
+Cuenca Solar SpA 
+PMGD PFV SAN ANTONIO 
+CVE Proyecto Dieciocho SpA 
+PMGD PFV PELUMPEN SOLAR 
+CVE Proyecto Diecisiete SpA 
+PMGD PFV SANTA FRANCISCA 
+CVE Proyecto Nueve SpA 
+PMGD PFV ESFENA 
+CVE Proyecto Quince SpA 
+PMGD PFV ORQUIDEA SOLAR 
+CVE Proyecto Seis SpA 
+PMGD PFV SANTA INES SOLAR 
+CVE Proyecto Siete SpA 
+PMGD PFV LIQUIDAMBAR 
+CVE Proyecto Treinta y Uno SpA 
+PMGD PFV PERSEFONE 
+CVE Proyecto Veintiséis SpA 
+PMGD PFV MACARENA SOLAR 
+CVE Proyecto Veintiuno SpA 
+PMGD PFV CLEMENTINA 
+Diego de Almagro Solar 3 S.A. 
+PMGD PFV RECOLETA 
+Diego de Almagro Solar SpA 
+PMGD PFV DIEGO DE ALMAGRO SOLAR 
+Divisadero SpA. 
+PMGD PFV EL DIVISADERO 
+Don Mariano Energy SpA 
+PMGD PFV DON MARIANO 
+Draco Solar SpA 
+PMGD PFV SAN ALBERTO 
+Eclipse Solar SpA 
+PMGD PFV ECLIPSE SOLAR 
+El Castaño SpA 
+PMGD PFV EL CASTAÑO 
+El Peral SpA 
+PMGD PFV LLUTA SOLAR 
+EMOAC SpA 
+PMGD PFV PUELCHE SOLAR 
+Encina SpA 
+PMGD PFV ENCINA lll 
+Enel Green Power Chile S.A. 
+PMGD PFV SAN CAMILO 
+Enel Green Power Chile S.A. 
+PMGD PFV DADINCO 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+Enel Green Power Chile S.A. 
+PMGD PFV PIDUCO 
+Enel Green Power Chile S.A. 
+PMGD PFV PARQUE FOTOVOLTAICO EL SHARON 
+Enel Green Power Chile S.A. 
+PMGD PFV RINCONADA ALCONES 
+Enel Green Power Chile S.A. 
+PMGD PFV CARACOLES 
+Enel Green Power Chile S.A. 
+PMGD PFV LA COLONIA 
+Enel Green Power Chile S.A. 
+PMGD PFV COINCO 
+Enel Green Power Chile S.A. 
+PMGD PFV DON RODRIGO 
+Enel Green Power Chile S.A. 
+PMGD PFV PATAGUA 
+Enel Green Power Chile S.A. 
+PMGD PFV EA SF GRANEROS 
+Energía Atacama S.A. 
+PMGD PFV LAS TERRAZAS 
+Energía First SpA 
+PMGD PFV REXNER 
+Energía Renovable Encino SpA 
+PMGD PFV ENCINO 
+Energía Renovable Rucapaine SpA 
+PMGD PFV RUCAPAINE 
+Energías Renovables El Boldo SpA 
+PMGD PFV LA VENDIMIA 
+Energías Renovables Holding S.A. 
+PMGD PFV CONDOR PELVIN 
+Energías Renovables Holding S.A. 
+PMGD PFV CONDOR CHEPICA 
+Energías Renovables Holding S.A. 
+PMGD PFV LIMA 
+Energías Renovables Holding S.A. 
+PMGD PFV CONDOR PETORCA 
+Energías Renovables Holding S.A. 
+PMGD PFV SAN RAFAEL 
+Energías Renovables Holding S.A. 
+PMGD PFV CONDOR LA LIGUA 
+Energías Ucuquer S.A. 
+PMGD PE UCUQUER (U1-U4) 
+EnfraGen Chile Solar SpA 
+PMGD PFV FLORENCIA SOLAR 
+EnfraGen Chile Solar SpA 
+PMGD PFV GRANATE 
+EnfraGen Chile Solar SpA 
+PMGD PFV ANAKENA 
+EnfraGen Chile Solar SpA 
+PMGD PFV PASTRAN 
+EnfraGen Chile Solar SpA 
+PMGD PFV SUNHUNTER 
+EnfraGen Chile Solar SpA 
+PMGD PFV HUAQUELON 
+EnfraGen Chile Solar SpA 
+PMGD PFV TAMARAMA 
+EnfraGen Chile Solar SpA 
+PMGD PFV GABRIELA 
+EnfraGen Chile Solar SpA 
+PMGD PFV DON ENRIQUE 
+EnfraGen Chile Solar SpA 
+PMGD PFV AXEL SOLAR 
+Eólico Las Peñas SpA 
+PMGD PE LAS PEÑAS (U1-U4) 
+Espinos S.A. 
+PMGD PFV LIPANGUE 
+Espinos S.A. 
+PMGD PFV PUMAS 
+Estremera Energía SpA 
+PMGD PFV POMUYETO 
+EVOL SpA 
+PMGD PFV ALTOS DE TILTIL 
+Farmdo Energy Chile SpA 
+PMGD PFV HUAPE 
+Farmdo Energy Chile SpA 
+PMGD PFV MALVILLA 
+Farmdo Energy Chile SpA 
+PMGD PFV POCILLAS 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+Farmdo Energy Chile SpA 
+PMGD PFV SAGRADA FAMILIA LA FORTUNA 15 
+Faro Corona SpA 
+PMGD PFV CAIMI 
+Farol Solar SpA 
+PMGD PFV PARQUE FAROL SOLAR 
+Fenix Solar SpA 
+PMGD PFV PARQUE SOLAR EL PALQUI 
+Fotovoltaica Acacia SpA 
+PMGD PFV LORETO SOLAR 
+Fotovoltaica Alfa SpA 
+PMGD PFV COCHARCAS 
+Fotovoltaica Ariztía SpA 
+PMGD PFV ARIZTIA 
+Fotovoltaica Avellano SpA 
+PMGD PFV PARQUE SOLAR MEMBRILLO 
+Fotovoltaica El Manzano SpA 
+PMGD PFV EL ESTERO 
+Fotovoltaica La Ligua SpA 
+PMGD PFV PULLALLI SOLAR 
+Fotovoltaica Mañio SpA 
+PMGD PFV GUADALAO 
+Fotovoltaica Peumo SpA 
+PMGD PFV SANTA MARGARITA 
+Fotovoltaica Pueblo Hundido SpA 
+PMGD PFV PUEBLO HUNDIDO 
+Fotovoltaica Santa Rosario SpA 
+PMGD PFV MAITENLAHUE 
+Fotovoltaica Solar Laurel SpA 
+PMGD PFV PARQUE SOLAR BICENTENARIO 
+FV Rinconada SpA 
+PMGD PFV RINCONADA NORTE (SLK 808) 
+FV Santa Laura SpA 
+PMGD PFV JOSE SOLER MALLAFRE 
+Generadora Eléctrica Kaltemp Ltda. 
+PMGD PFV TAMBO REAL 
+Génova Solar SpA 
+PMGD PFV GENOVA 
+Gestel Ingeniería Limitada 
+PMGD PFV ÑILHUE 
+GPG Generación Distribuida SpA 
+PMGD PFV CANTERA 
+GPG Generación Distribuida SpA 
+PMGD PFV MILAN A 
+GPG Generación Distribuida SpA 
+PMGD PFV SOLAR TORINO 
+GPG Generación Distribuida SpA 
+PMGD PFV BERGAMO 
+GPG Generación Distribuida SpA 
+PMGD PFV CAUQUENES 
+GPG Generación Distribuida SpA 
+PMGD PFV RATULEMUS 
+GPG Generación Distribuida SpA 
+PMGD PFV OLIVIER 
+GPG Generación Distribuida SpA 
+PMGD PFV OLIVIA 
+GPG Generación Distribuida SpA 
+PMGD PFV LOS NOGALES 
+GPG Generación Distribuida SpA 
+PMGD PFV SOFIA 
+GPG Generación Distribuida SpA 
+PMGD PFV SOY SOLAR 
+GR Alerce Andino SpA 
+PMGD PFV TIERRA 
+GR Araucaria SpA 
+PMGD PFV LA ESPERANZA II 
+GR Canelo SpA 
+PMGD PFV MARCHIGUE II 
+GR Carza SpA 
+PMGD PFV ASTILLAS 
+GR Chaquihue SpA 
+PMGD PFV GR SANTA ROSA 
+GR Ciprés SpA 
+PMGD PFV GR PEUMO 
+GR Guindo SpA 
+PMGD PFV ARGOMEDO 
+GR Lleuque SpA 
+PMGD PFV GR ALCON SOLAR 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+GR Pilo SpA 
+PMGD PFV NAHUEN 
+GR Pitao SpA 
+PMGD PFV GR PITAO 
+GR Ruil SpA 
+PMGD PFV MITCHI 
+GR Tamarugo SpA 
+PMGD PFV RINCONADA 
+GR Torres del Paine SpA 
+PMGD PFV JAVIERA CARRERA 
+GR Villarrica SpA 
+PMGD PFV BELEN 
+Granada SpA 
+PMGD PFV GRANADA 
+Guadalupe Solar SpA 
+PMGD PFV GUADALUPE 
+Hanwha Q Cells Til Til Uno SpA 
+PMGD PFV TILTIL 
+Hormiga Solar SpA 
+PMGD PFV HORMIGA SOLAR 
+IEH Solar Chile SpA 
+PMGD PE RAKI (U1-U3) 
+IEH Solar Chile SpA 
+PMGD PE HUAJACHE (U1-U2) 
+IEH Solar Chile SpA 
+PMGD PFV LAGUNILLAS 
+IEH Solar Chile SpA 
+PMGD PFV ALTURAS DE OVALLE 
+IEH Solar Chile SpA 
+PMGD PFV SAN PEDRO 
+IEH Solar Chile SpA 
+PMGD PFV PANQUEHUE II 
+IEH Solar Chile SpA 
+PMGD PFV DON EUGENIO 
+IEH Solar Chile SpA 
+PMGD PFV CHIMBARONGO 
+IEH Solar Chile SpA 
+PMGD PFV HOMERO SOLAR 
+IEH Solar Chile SpA 
+PMGD PFV CABILSOL 
+IEH Solar Chile SpA 
+PMGD PFV MOSTAZAL 
+Illalolen S.A. 
+PMGD PFV LA LIGUA 
+Imelsa Energía SpA 
+PMGD PFV CINTAC 
+Imelsa Energía SpA 
+PMGD PFV LO BOZA 
+Impulso Solar El Resplandor SpA 
+PMGD PFV EL RESPLANDOR 
+Impulso Solar Las Lloysas SpA 
+PMGD PFV SANTA CLARA 
+Incahuasi Energy SpA 
+PMGD PFV EL GUANACO SOLAR 
+Incahuasi Energy SpA 
+PMGD PFV GUANACO AMPLIACION 
+Joel Solar SpA 
+PMGD PFV SAN EDUARDO 
+Konda Solar SpA 
+PMGD PFV KONDA 
+La Acacia SpA 
+PMGD PFV LA ACACIA 
+La Chapeana SpA 
+PMGD PFV LA CHAPEANA 
+La Chimba Bis SpA 
+PMGD PFV LA CHIMBA BIS 
+La Independencia Solar SpA 
+PMGD PFV INDEPENDENCIA 
+La Manga Energy SpA 
+PMGD PFV LA MANGA 
+Las Chacras Energy SpA 
+PMGD PFV LAS CHACRAS 
+Las Chilcas Solar SpA 
+PMGD PFV LAS CHILCAS 
+Las Mollacas SpA 
+PMGD PFV LAS MOLLACAS 
+LASCAR ENERGY SPA 
+PMGD PFV FUSTER DEL VERANO 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+Laurel SpA 
+PMGD PFV EL LAUREL 
+Lingue SpA 
+PMGD PFV LINGUE 
+Linzor de Verano SpA 
+PMGD PFV PLOMO DE VERANO 
+Lirio de Campo Solar SpA 
+PMGD PFV LIRIO DEL CAMPO 
+Litre SpA 
+PMGD PFV LOS MAGNOLIOS SOLAR 
+Loica SpA 
+PMGD PFV LOICA 
+Los Lagos SpA 
+PMGD PFV TAMARUGO 
+Los Lagos SpA 
+PMGD PFV LOS LAGOS 
+Los Libertadores Solar Spa 
+PMGD PFV SATURNO NORTE 
+Los Libertadores Solar Spa 
+PMGD PFV MERCURIO SUR 
+Los Molinos SpA 
+PMGD PFV LOS MOLINOS 
+Luce Solar SpA 
+PMGD PFV LUCE SOLAR 
+Luciano Solar SpA 
+PMGD PFV ERINOME 
+Luna Energy SpA 
+PMGD PFV LUNA 
+MACAO SOLAR SPA 
+PMGD PFV MACAO 
+Magdalena Solar SpA 
+PMGD PFV PARQUE SOLAR FOTOVOLTAICO LA 
+VICTORIA 
+Maitén SpA 
+PMGD PFV ÑIQUEN 
+Mandinga Solar SpA 
+PMGD PFV MANDINGA 
+Margarita Solar SpA 
+PMGD PFV MARGARITA X 
+Meli SpA 
+PMGD PFV MELI 
+Membrillo Solar SpA 
+PMGD PFV PARQUE ALHUE 
+MGM Innova Capital Chile SpA 
+PMGD PFV UTFSM VALPARAISO VALDES 
+MGM Innova Capital Chile SpA 
+PMGD PFV UTFSM VIÑA DEL MAR 
+Millaray Fotovoltaica SpA 
+PMGD PFV REN 
+Millaray Fotovoltaica SpA 
+PMGD PFV REN - AMPLIACION 
+MVC Solar 38 SpA 
+PMGD PFV LA PERLA 
+Newentun SpA 
+PMGD PFV NEWENTUN 
+Nextpower III Chile Holdco II SpA 
+PMGD PFV SANTA EMILIA 
+Nextpower III Chile Holdco II SpA 
+PMGD PFV PICUNCHE 
+Nextpower III Chile Holdco II SpA 
+PMGD PFV NAN 
+Nextpower III Chile Holdco II SpA 
+PMGD PFV VIOLETA 
+Nextpower III Chile Holdco II SpA 
+PMGD PFV ROSARIO 
+Nextpower III Chile Holdco II SpA 
+PMGD PFV TIJERAL 
+Nextpower III Chile Holdco II SpA 
+PMGD PFV EL CARDENAL 
+Nextpower III Chile Holdco II SpA 
+PMGD PFV COLIBRI 
+Nextpower III Chile Holdco II SpA 
+PMGD PFV CANQUEN 
+Nueva Esperanza Solar SpA 
+PMGD PFV PARQUE SOLAR RIO PEUCO 
+Palpana de Verano SpA 
+PMGD PFV IDAHUE DEL VERANO SOLAR 
+Panguilemo SpA 
+PMGD PFV LOS ROBLES 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+Parque Eólico el Nogal SpA 
+PMGD PE EL NOGAL (U1-U3) 
+Parque Eólico Lebu-Toro SpA 
+PMGD PE LEBU III (U1-U3) 
+Parque Fotovoltaico Alicahue Solar 
+SpA 
+PMGD PFV ALICAHUE 
+Parque Fotovoltaico Don Matías SpA 
+PMGD PFV DON MATIAS 
+Parque Fotovoltaico Doña Igna SpA 
+PMGD PFV DOÑA IGNA 
+Parque Fotovoltaico El Loreto SpA 
+PMGD PFV CARA DE GALLO 
+Parque Fotovoltaico Faramalla SpA 
+PMGD PFV FARAMALLA 
+Parque Fotovoltaico Idahuillo SpA 
+PMGD PFV EL INTERLOCUTOR 
+Parque Fotovoltaico Ocoa II SpA 
+PMGD PFV LOS TILOS 
+Parque Fotovoltaico Ocoa SpA 
+PMGD PFV OCOA 
+Parque Fotovoltaico Santa Adriana 
+SpA 
+PMGD PFV SANTA ADRIANA 
+Parque Fulgor SpA 
+PMGD PFV FULGOR 
+Parque Solar Alcaldesa SpA 
+PMGD PFV PARQUE SOLAR ALCALDESA 
+Parque Solar Alianza SpA 
+PMGD PFV ALIANZA 
+Parque Solar Aurora SpA 
+PMGD PFV PARQUE CURICURA 
+Parque Solar Bellavista SpA 
+PMGD PFV BELLAVISTA 
+Parque Solar Benavente SpA 
+PMGD PFV PVP CHINCHORRO 
+Parque Solar Cancha SpA 
+PMGD PFV DON ANDRONICO 
+Parque Solar Cantillana SpA 
+PMGD PFV PARQUE SOLAR CANTILLANA 
+Parque Solar Catemu SpA 
+PMGD PFV CATEMU 
+Parque Solar Colina SpA 
+PMGD PFV PARQUE SOLAR MARAMBIO 
+Parque Solar Don Flavio SpA 
+PMGD PFV PARQUE SAN FRANCISCO PARRAL 
+Parque Solar El Conquistador SpA 
+PMGD PFV PARQUE SOLAR EL RECONQUISTADOR 
+Parque Solar el Sauce SpA 
+PMGD PFV PARQUE ROMERIA 
+Parque Solar Esmeralda SpA 
+PMGD PFV LOS BANOS 
+Parque Solar Esmeralda SpA 
+PMGD PFV TOPACIO 
+Parque Solar H6 SpA 
+PMGD PFV LO SIERRA 
+Parque Solar Itihue SpA 
+PMGD PFV PARQUE PVP ITIHUE 
+Parque Solar La Muralla SpA 
+PMGD PFV PARQUE SOLAR LA MURALLA 
+Parque Solar Lo Chacón SpA 
+PMGD PFV PARQUE SANTA CRUZ 
+Parque Solar Los Puquios SpA 
+PMGD PFV LOS PUQUIOS 
+Parque Solar Meco Chillan SpA 
+PMGD PFV PARQUE SOLAR MECO CHILLAN 
+Parque Solar Ovalle Norte SpA 
+PMGD PFV PARQUE SOLAR OVALLE NORTE 
+Parque Solar Porvenir SpA 
+PMGD PFV PARQUE PENCAHUE ESTE 
+Parque Solar Pueblo Seco SpA 
+PMGD PFV PARQUE PUEBLO SECO 
+Parque Solar Quetena S.A. 
+PMGD PFV QUETENA 
+Parque Solar Retiro SpA 
+PMGD PFV PARQUE PANGUILEMO AEROPUERTO 
+Parque Solar Salamanca SpA 
+PMGD PFV EL HUASO 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+Parque Solar San Isidro SpA 
+PMGD PFV ISIDRO 
+Parque Solar Santa Cruz SpA 
+PMGD PFV PVP MAYOS 
+Parque Solar Santa Laura SpA 
+PMGD PFV SANTA LAURA 
+Parque Solar Tabolango SpA. 
+PMGD PFV PARQUE LA TRAVESIA 
+Parque Solar Unihue SpA 
+PMGD PFV PARQUE PVP UNIHUE 
+Patricia Solar SpA 
+PMGD PFV HURTADO 
+Pedro Solar SpA 
+PMGD PFV MARIA DOLORES 
+Pelequén Sur SpA 
+PMGD PFV SAN RAMIRO 
+Pequeño Medio de Generación 
+Distribuida Hornopirén Limitada 
+PMGD PFV LA HUERTA 
+Per Parinacota SpA 
+PMGD PFV PSF COYUNCHE 
+Pesaro Solar SpA 
+PMGD PFV PESARO SOLAR 
+PFV Ayla Solar SpA 
+PMGD PFV AYLA SOLAR 
+PFV El Caiquén SpA 
+PMGD PFV EL CAIQUEN 
+PFV El Carpintero SpA 
+PMGD PFV EL CARPINTERO 
+PFV El Chercan SpA 
+PMGD PFV EL CHERCAN 
+PFV El Chucao SpA 
+PMGD PFV EL CHUCAO 
+PFV El Cóndor SpA 
+PMGD PFV EL CONDOR 
+PFV El Cuervo SpA 
+PMGD PFV EL CUERVO 
+PFV El Flamenco SpA 
+PMGD PFV EL FLAMENCO 
+PFV El Gaviotín SpA 
+PMGD PFV EL GAVIOTIN 
+PFV El Loro Choroy SpA 
+PMGD PFV EL LORO CHOROY 
+PFV El Mirlo SpA 
+PMGD PFV EL MIRLO 
+PFV El Piuquen SpA 
+PMGD PFV EL PIUQUEN 
+PFV El Rayador SpA 
+PMGD PFV EL RAYADOR 
+PFV El Trile SpA 
+PMGD PFV EL TRILE 
+PFV El Zorzal SpA 
+PMGD PFV EL ZORZAL 
+PFV Fragata SpA 
+PMGD PFV FRAGATA 
+PFV Las Cachañas SpA 
+PMGD PFV LAS CACHAÑAS 
+PFV Las Catitas SpA 
+PMGD PFV LAS CATITAS 
+PFV Las Golondrinas SpA 
+PMGD PFV LAS GOLONDRINAS 
+PFV Las Lechuzas SpA 
+PMGD PFV LAS LECHUZAS 
+PFV Las Taguas SpA 
+PMGD PFV LAS TAGUAS 
+PFV Las Tencas SpA 
+PMGD PFV LAS TENCAS 
+PFV Las Torcazas SpA 
+PMGD PFV LAS TORCAZAS 
+PFV Las Tortolas SpA 
+PMGD PFV LAS TORTOLAS 
+PFV Lo Chacón SpA 
+PMGD PFV LO CHACON 
+PFV Los Cisnes SpA 
+PMGD PFV LOS CISNES 
+PFV Los Tordos SpA 
+PMGD PFV LOS TORDOS 
+PFV María Pinto SpA 
+PMGD PFV MARIA PINTO 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+Pilpilén SpA 
+PMGD PFV PILPILEN 
+Piquero SpA 
+PMGD PFV PIQUERO 
+Piquero SpA 
+PMGD PFV PIQUERO - AMPLIACION 
+Planeta Investments SpA 
+PMGD PFV CATAN SOLAR 
+Planta Solar La Paz II SpA. 
+PMGD PFV LA PAZ 
+Planta Solar Lo Miguel II SpA. 
+PMGD PFV LO MIGUEL 
+Planta Solar Peñaflor II SpA 
+PMGD PFV MALLOCO 
+Planta Solar Santa Teresita II SpA 
+PMGD PFV SANTA TERESITA 
+Playero SpA 
+PMGD PFV PLAYERO 
+Playero SpA 
+PMGD PFV PLAYERITO 
+Playero SpA 
+PMGD PFV PLAYERON 
+PMGD Calle Larga SpA 
+PMGD PFV CALLE LARGA 
+PMGD Puente SpA 
+PMGD PFV PUENTE SOLAR 
+PMGD Salerno SpA 
+PMGD PFV SALERNO SOLAR 
+PMGD Solar Los Perales I SpA 
+PMGD PFV LOS PERALES 
+Pomerape SpA 
+PMGD PFV PATRICIA DEL VERANO SOLAR 
+Portezuelo SpA 
+PMGD PFV EL TREBOL 
+Pozo Almonte Solar 1 SpA 
+PMGD PFV PAS1 
+PS Maimalican SpA 
+PMGD PFV MAIMALICAN 
+PSF El Salitral S.A. 
+PMGD PFV EL SALITRAL 
+PSF Lomas Coloradas S.A. 
+PMGD PFV LOMAS COLORADAS 
+PSF Pama S.A. 
+PMGD PFV PAMA 
+PSF Santa Isabel SpA 
+PMGD PFV SANTA ELIZABETH 
+PSF Santa Isabel SpA 
+PMGD PFV MARAÑON 
+PUNTIAGUDO ENERGY SPA 
+PMGD PFV FV CHICAUMA DEL VERANO 
+Quillay Solar SpA 
+PMGD PFV QUILLAY 
+Quinta Solar SpA 
+PMGD PFV QUINTA SOLAR 
+Ravenna Solar SpA 
+PMGD PFV CHOLGUAN 
+Ravenna Solar SpA 
+PMGD PFV SGT TUCAPEL 
+RCL Solar SpA 
+PMGD PFV LAS CABRAS 
+Reden Cabildo Solar SpA 
+PMGD PFV EL QUEMADO 
+Rigel SpA 
+PMGD PFV LA LAJUELA 
+Rimini Solar SpA 
+PMGD PFV RIMINI 
+RLA Solar SpA 
+PMGD PFV RLA SOLAR 
+RTN SOLAR SPA 
+PMGD PFV RCU (RTN) 
+RUBÉN SOLAR SPA 
+PMGD PFV SANTA PAMELA 
+Salado Energy SpA 
+PMGD PFV GABARDO DEL VERANO SOLAR 
+Salado Energy SpA 
+PMGD PFV GABARDO AMPLIACION SOLAR 
+Samo Bajo SpA 
+PMGD PFV SAMO BAJO 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+San Alfonso Solar SpA 
+PMGD PFV RDCL SAN 
+San Eugenio Solar SpA 
+PMGD PFV SAN EUGENIO SOLAR 
+San Francisco Solar SpA 
+PMGD PFV SAN FRANCISCO 
+San Marino Solar SpA 
+PMGD PFV SGT CATAPILCO 
+SANTA BARBARA ENERGY SPA 
+PMGD PFV VELASCO SOLAR 
+SANTA BARBARA ENERGY SPA 
+PMGD PFV LENGA SOLAR 
+Santa Catalina Solar SpA 
+PMGD PFV TALCA 
+Santa Cecilia Solar SpA 
+PMGD PFV AVELLANO SOLAR 
+SAO PAULO SOLAR SPA 
+PMGD PFV ALAMEDA 
+SETF Energías Renovables SpA 
+PMGD PFV RENGO SOLAR 
+SETF Energías Renovables SpA 
+PMGD PFV SAN ANTONIO DEL MONTE SUNLIGHT 
+SETF Energías Renovables SpA 
+PMGD PFV ENAMI SOLAR 
+SETF Energías Renovables SpA 
+PMGD PFV PLAZA SUNLIGHT 
+SETF Energías Renovables SpA 
+PMGD PFV ALTO BELLAVISTA SUNLIGHT 
+SETF Energías Renovables SpA 
+PMGD PFV SUNRAY 
+SETF Energías Renovables SpA 
+PMGD PFV SANTA BLANCA DE ISLA DE MAIPO 
+SUNLIGHT 
+Siete Colores SpA 
+PMGD PFV SIETE COLORES 
+SLK CB Nueve SpA 
+PMGD PFV SLK CB NUEVE 
+Sociedad de Energías Renovables Los 
+Lirios SpA 
+PMGD PFV LA FORESTA 
+Sociedad Generadora Austral S.A. 
+PMGD PFV PARANAL 
+Sociedad Generadora Austral S.A. 
+PMGD PFV ARMAZONES 
+Socompa de Verano SpA 
+PMGD PFV NAZARINO DEL VERANO SOLAR 
+Sol de Septiembre SpA 
+PMGD PFV SOL DE SEPTIEMBRE 
+Sol del sur 15 SpA 
+PMGD PFV CHACAICO 
+Sol del Sur 9 SpA 
+PMGD PFV QUINTACABRERO 
+Solar TI Cuatro SpA 
+PMGD PFV PIRQUE 
+Solar TI Dieciséis SpA 
+PMGD PFV GUARANA 
+Solar TI Diecisiete SpA 
+PMGD PFV TREBO 
+Solar TI Diez SpA 
+PMGD PFV CASUTO 
+Solar TI Doce SpA 
+PMGD PFV MANAO 
+Solar TI Dos SpA 
+PMGD PFV VICENTE SOLAR 
+Solar TI Once SpA 
+PMGD PFV CITRINO 
+Solar Ti Quince SpA 
+PMGD PFV PELLIN 
+SOLAR TI TREINTA Y OCHO SPA 
+PMGD PFV CURACO 
+SOLAR TI TREINTA Y SEIS SPA 
+PMGD PFV DON SIMON 
+SOLAR TI TREINTA Y SIETE SpA 
+PMGD PFV ALDEBARAN 
+Solar TI Treinta y Uno SpA 
+PMGD PFV PERLA DEL NORTE 
+Solarity SpA 
+PMGD PFV HORNITOS 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+Sonnedix Ángela Solar SpA 
+PMGD PFV CANESA SOLAR 
+Sonnedix Don Pedro SpA 
+PMGD PFV LAS MAJADAS 
+Sonnedix Fotovoltaica Algarrobo SpA 
+PMGD PFV LAS MERCEDES 
+Sonnedix Joaquín Solar SpA 
+PMGD PFV CHALINGA SOLAR 
+Sonnedix La Serena SpA 
+PMGD PFV LAS ROJAS 
+Sonnedix La Serena SpA 
+PMGD PFV LLANOS DE POTROSO 
+Sonnedix Las Perdices SpA 
+PMGD PFV LAS PERDICES 
+Sonnedix Metro Expansion SpA 
+PMGD PFV PERALILLO 
+Sonnedix Metro Expansion SpA 
+PMGD PFV VILLA PRAT 
+Sonnedix Metro Expansion SpA 
+PMGD PFV ALTO SOLAR 
+Sonnedix Metro Expansion SpA 
+PMGD PFV EL QUEULE 
+Sonnedix Metro Expansion SpA 
+PMGD PFV TARANTO 
+Sonnedix Metro Expansion SpA 
+PMGD PFV QUEBRADA DE TALCA 
+Sonnedix Metro Expansion SpA 
+PMGD PFV TALLADO 
+Sonnedix Metro Expansion SpA 
+PMGD PFV SANTA LUCIA 
+Sonnedix Parque Solar Amparo del 
+Sol SpA 
+PMGD PFV AMPARO DEL SOL 
+Sonnedix Parque Solar Punta 
+Colorada SpA 
+PMGD PFV PUNTA BAJA SOLAR 
+Sonnedix Parsosy Illapel 5 SpA 
+PMGD PFV ILLAPEL 5X 
+SPV P4 SpA 
+PMGD PFV SANTA JULIA 
+SPV P4 SpA 
+PMGD PFV CHUCHIÑI 
+SPV P4 SpA 
+PMGD PFV LO MIRANDA 
+SPV P4 SpA 
+PMGD PFV PARAGUAY 
+SPV P4 SpA 
+PMGD PFV MALINKE 
+SPV P4 SpA 
+PMGD PFV TRINIDAD 
+Sunenergreen S.A. 
+PMGD PFV ALTOS DEL PAICO 
+Suvan Solar SpA 
+PMGD PFV MOYA 
+Taltal Solar S.A. 
+PMGD PFV QUINANTU SOLAR 
+Tamarugal Solar 1 S.A. 
+PMGD PFV BELLAVISTA 1 
+Taruca Solar SpA 
+PMGD PFV TARUCA 
+Tauro Solar SpA 
+PMGD PFV CHILLAN HUAMBALI HIPER 
+Tedlar Diemos SpA 
+PMGD PFV LONCURA 
+Tedlar Jupiter SpA 
+PMGD PFV TALAGANTE 
+Tedlar Luna SpA 
+PMGD PFV TURQUÍA 
+Teno III SpA 
+PMGD PFV LAS ARBOLEDAS 
+Toesca Renovables SpA 
+PMGD PFV CURACAVI 
+Toesca Renovables SpA 
+PMGD PFV SANTA RITA 
+Toesca Renovables SpA 
+PMGD PFV SDSI 
+Toesca Renovables SpA 
+PMGD PFV SANTA ESTER 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+Toesca Renovables SpA 
+PMGD PFV LA PALMA SOLAR 
+Toesca Renovables SpA 
+PMGD PFV SANTA LUISA 
+Toesca Renovables SpA 
+PMGD PFV SAN CARLOS SOLAR 
+Toesca Renovables SpA 
+PMGD PFV SAN EMILIO SOLAR I 
+Toesca Renovables SpA 
+PMGD PFV VENTISQUERO SOLAR 
+Toesca Renovables SpA 
+PMGD PFV CABILDO SUNLIGHT 
+Toesca Renovables SpA 
+PMGD PFV SAN JOSE II 
+Toesca Renovables SpA 
+PMGD PFV AVEL SOLAR 
+Toesca Renovables SpA 
+PMGD PFV PALTO SUNLIGHT 
+Toesca Renovables SpA 
+PMGD PFV LITORAL SUNLIGHT 
+Toesca Renovables SpA 
+PMGD PFV CAÑONES SUNLIGHT 
+Toesca Renovables SpA 
+PMGD PFV LOS LIRIOS 
+Toesca Renovables SpA 
+PMGD PFV DON MARTIN 
+Toesca Renovables SpA 
+PMGD PFV ALBOR SOLAR 
+Toledo Solar SpA 
+PMGD PFV CHAMONATE SOLAR 
+Tórtola SpA 
+PMGD PFV MAIKONO 
+Tortuga Solar SpA 
+PMGD PFV TORTUGA SOLAR 
+Tricahue Solar SpA 
+PMGD PFV TRICAHUE II 
+Tricahue SpA 
+PMGD PFV TRICA-DOS 
+Tucuquere SpA 
+PMGD PFV TUCUQUERE 
+Valle de la Luna II SpA 
+PMGD PFV VALLE DE LA LUNA II 
+Verona Solar SpA 
+PMGD PFV VERONA SOLAR 
+VESPA SOLAR SpA 
+PMGD PFV SAN CLEMENTE FLOR DEL LLANO 
+Villaprat SpA 
+PMGD PFV VILLA SOLAR 
+Xue Solar SpA 
+PMGD PFV LLAY LLAY 
+ANTU ENERGY SPA 
+PMGD PFV MARIN 
+ANTU ENERGY SPA 
+PMGD PFV HUINGAN 
+ANTU ENERGY SPA 
+PMGD PFV ROMA 
+ANTU ENERGY SPA 
+PMGD PFV PVP LA ROSA - AMPLIACION 
+ANTU ENERGY SPA 
+PMGD PFV PVP LA ROSA 
+ANTU ENERGY SPA 
+PMGD PFV AMPLIACIÓN MARIN 
+CFC HOLDINGS SPA 
+PMGD PFV PSF PUANGUE 
+CFC HOLDINGS SPA 
+PMGD PFV HELIOS 
+CFC HOLDINGS SPA 
+PMGD PFV PSF HORIZONTE 
+CFC HOLDINGS SPA 
+PMGD PFV NIHUE 
+CFC HOLDINGS SPA 
+PMGD PFV COLTAUCO ALMENDRO 
+CFC HOLDINGS SPA 
+PMGD PFV PEQUEN 
+CFC HOLDINGS SPA 
+PMGD PFV ITAHUE SOLAR 
+CFC HOLDINGS SPA 
+PMGD PFV VILLA MOSCOSO 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+CFC HOLDINGS SPA 
+PMGD PFV BULNES LOS BARONES 
+CFC HOLDINGS SPA 
+PMGD PFV PSF CHAMPA 
+CFC HOLDINGS SPA 
+PMGD PFV PSF LA GAMBOINA 
+CFC HOLDINGS SPA 
+PMGD PFV QUEMADOS 
+CFC HOLDINGS SPA 
+PMGD PFV PSF EL PERAL 
+CFC HOLDINGS SPA 
+PMGD PFV BELENOS TIL TIL 
+CFC HOLDINGS SPA 
+PMGD PFV PENCAHUE 
+CFC HOLDINGS SPA 
+PMGD PFV JARDIN SOLAR PETORCA 
+COX ENERGY COMERCIALIZADORA 
+SPA 
+PMGD PFV SOL DEL MAULE 
+LINXERGY SPA 
+PMGD PFV TREBAL SOLAR 
+NEOELECTRA ENERGÍA CHILE SPA 
+PMGD PFV CORDILLERILLA SOLAR 
+PACIFIC SPA 
+PMGD PFV AROMO DEL VERANO SOLAR 
+PACIFIC SPA 
+PMGD PFV LOMA TENDIDA DEL VERANO SOLAR 
+PACIFIC SPA 
+PMGD PFV DOÑA REGINA SOLAR 
+PACIFIC SPA 
+PMGD PFV LIEBRE DE VERANO 
+PACIFIC SPA 
+PMGD PFV CHAÑAR DEL VERANO 
+PACIFIC SPA 
+PMGD PFV BULNES SOLAR 
+PACIFIC SPA 
+PMGD PFV TES SOLAR 
+PACIFIC SPA 
+PMGD PFV CATO SOLAR 
+PACIFIC SPA 
+PMGD PFV SIRIMAVO 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV JAURURO SOLAR 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV SAN ISIDRO 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV EL TIUQUE 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV LOS JOTES 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV EL PICHON 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV LAS BANDURRIAS 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV ALBATROS 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV JILGUERO 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV ANCAHUAL SOLAR 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV LLOICA 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV CARANCA SOLAR 
+PINGÜINO EMPERADOR SPA 
+PMGD PFV EL ÑANDU 
+SONNEDIX LAS CODORNICES SPA 
+PMGD PFV LAS CODORNICES 
+SONNEDIX PAINE ENERGY SPA 
+PMGD PFV PAINE 
+SONNEDIX VICTORIA SOLAR SPA 
+PMGD PFV VICTORIA 
+TRALKA SPA 
+PMGD PFV LUNA DEL NORTE 
+TRALKA SPA 
+PMGD PFV SOL DEL NORTE 
+TRALKA SPA 
+PMGD PFV LAS TURCAS 
+TRALKA SPA 
+PMGD PFV EL QUELTEHUE 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+TRALKA SPA 
+PMGD PFV SANTUARIO SOLAR 
+TRALKA SPA 
+PMGD PFV EL PILPEN 
+TRALKA SPA 
+PMGD PFV LA FRONTERA 
+TRALKA SPA 
+PMGD PFV PORTEZUELO 
+TRALKA SPA 
+PMGD PFV LOS GORRIONES 
+TRALKA SPA 
+PMGD PFV EL PITIO 
+TRALKA SPA 
+PMGD PFV CHANCON 
+TRALKA SPA 
+PMGD PFV CUZ CUZ 
+TRALKA SPA 
+PMGD PFV LOS PATOS 
+TRALKA SPA 
+PMGD PFV LOS LIBERTADORES 
+TRALKA SPA 
+PMGD PFV LAS PALOMAS 
+TRALKA SPA 
+PMGD PFV EL PICURIO 
+TRALKA SPA 
+PMGD PFV EL CHINCOL 
+TRALKA SPA 
+PMGD PFV OLIVILLO 
+TRALKA SPA 
+PMGD PFV RODEO 
+TRALKA SPA 
+PMGD PFV ROVIAN 
+TRALKA SPA 
+PMGD PFV NORTE CHICO 
+TRALKA SPA 
+PMGD PFV CRUZ SOLAR 
+TRALKA SPA 
+PMGD PFV DOÑIHUE 
+TRALKA SPA 
+PMGD PFV DARLIN SOLAR 
+TRALKA SPA 
+PMGD PFV GIRASOLES 
+TRALKA SPA 
+PMGD PFV EL LITRE SOLAR 
+TRALKA SPA 
+PMGD PFV FILOMENA SOLAR 
+TRALKA SPA 
+PMGD PFV PEPA SOLAR 
+TRALKA SPA 
+PMGD PFV PEÑAFLOR SOLAR 
+TRALKA SPA 
+PMGD PFV COLCHAGUA 
+TRALKA SPA 
+PMGD PFV PARQUE SOLAR NANCAGUA 
+TRALKA SPA 
+PMGD PFV PARQUE VALPARAISO 
+TRALKA SPA 
+PMGD PFV PARQUE EL INGENIO 
+TRALKA SPA 
+PMGD PFV PARQUE SOLAR JOTABECHE 
+TRALKA SPA 
+PMGD PFV PARQUE EL TRIGAL 
+ 

@@ -1,0 +1,209 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 23 de diciembre de 2025 
+DE 08181-25 
+Señor 
+Miguel Buzunariz R. 
+Encargado Titular 
+Enel Generación Chile S.A 
+Presente 
+Ref.: Resultado del Proceso de Verificación del SC de 
+Partida Autónoma (PA) de las unidades U1 a U5 de 
+Central HE Rapel. 
+[1] Carta OP 299-25, Ref.: “Aprueba Protocolo para los 
+ensayos de verificación de instalaciones para la 
+prestación del servicio complementario de Partida 
+Autónoma unidades de Centrales HE Rapel, TER 
+Atacama, HE El Toro y HE Pehuenche”, de fecha 14 
+de noviembre de 2025.  
+Responde a Ingreso: DE11621-25.  
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT SSCC), ha finalizado 
+el proceso de verificación de los SSCC de Partida Autónoma (PA) de las unidades U1, U2, 
+U3, U5 y U5 de Central HE Rapel. Como resultado de este proceso, las unidades 
+mencionadas quedan habilitadas para la prestación del mencionado servicio considerando 
+los recursos indicados en el anexo a la presente carta. 
+ 
+El informe técnico que justifica la verificación de la capacidad de la prestación del Servicio 
+Complementario de PA de las unidades mencionadas, ha sido publicado en la siguiente 
+ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Plan de 
+Recuperación de Servicio > Partida Autónoma > Central HE Rapel 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+c.c.: 
+ 
+Empresas Coordinadas 
+Adrián Guzmán M. – Encargado Suplente Enel Generación Chile S.A. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de las unidades de 
+Central HE Rapel 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central HE Rapel 
+• Unidad U1 
+• Unidad U2 
+• Unidad U3 
+• Unidad U4 
+• Unidad U5 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Plan de Recuperación 
+de Servicio (PRS) 
+Partida Autónoma 
+(PA) 
+Partida Autónoma (PA) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Tiempos de autonomía, sin restricción, asociado a nivel embalse. En el caso 
+particular de las unidades de HE Rapel, en la medida que el embalse se encuentra 
+sobre la cota mínima las maquinas pueden mantener generando energía. 
+b) Sin limitación de tiempo para mantener operación de Unidad en vacío (velocidad de 
+sincronismo sin tomar carga). 
+c) La partida de las unidades de la Central Rapel se realiza de forma secuencial, 
+iniciando con la unidad designada como reguladora. Dicha unidad deberá operar en 
+modo “Reguladora”, con estatismo ajustado a 0%. 
+Las demás unidades deberán colaborar en la regulación de frecuencia, operando 
+como unidades colaboradoras y manteniendo su estatismo en 3%. 
+d) La conmutación de los sistemas de control a modo isla es de la siguiente manera: 
+Es un proceso automático que realiza por sí solo el Regulador de Velocidad (Control 
+de Frecuencia. No se dispone de un selector de cambio de modo red a isla y el 
+Control de Tensión no dispone de ajustes de parámetros especiales para modo Isla. 
+e) Cada una de las unidades de la central tiene un estanque acumulador de aire / aceite 
+que permite el movimiento de los álabes y con ello el giro de la unidad, este estanque 
+tiene la capacidad de hacer partir 2 veces cada una. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Enel Generación S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tabla en página siguiente.  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+a) Partida Autónoma: 
+ 
+SSCC 
+Plan de Recuperación de Servicio 
+Categoría 
+Partida autónoma 
+Subcategoría 
+Partida autónoma 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+U3 
+U4 
+U5 
+HE Rapel 
+Hidráulica 
+Potencia Máxima 
+[MW] 
+76,050 
+76,220 
+75,430 
+74,980 
+79,520 
+Tiempo de 
+Sincronización [min] 
+(1) 
+102,430 101,966 102,266 102,200 101,716 
+Tasa de Toma de 
+Carga [MW/min] 
+56,360 
+55,500 
+52,900 
+53,800 
+51,900 
+Tiempo de 
+Autonomía [hr] (2) 
+Sin limitaciones 
+Modo de Control 
+Regulador de velocidad en modo isla 
+Requiere 
+Equipamiento 
+Adicional (3) 
+Si 
+Primer Escalón de 
+carga [MW] (4) 
+45 
+45 
+25 
+25 
+65 
+Escalones 
+sucesivos de carga 
+[MW] 
+45 
+45 
+25 
+25 
+65 
+Tiempo nuevo 
+arranque en caso 
+de desconexión 
+intempestiva [min] (5) 
+17,500 
+22,730 
+19,130 
+19,533 
+27,703 
+Tiempo 
+permanencia en 
+vacío (6) 
+Sin limitaciones 
+(1) Tiempo asociado a la partida de unidades generadoras que prestan el SSCC de PA, correspondiente 
+al intervalo que transcurre desde que se solicita hasta el cierre contra barra muerta de la central. Este 
+tiempo incluye las maniobras previas de revisión y verificación. Lo anterior, considerando que las 
+unidades se encuentren disponibles, es decir no considera tiempos para validar integridad de 
+instalaciones luego de un siniestro provocado por: terremoto, tsunami, aluvión, crecida, incendio, entre 
+otros. 
+(2) Tiempo de autonomía sujeto a disponibilidad de recurso primario (Agua embalse). 
+(3) Cuenta con estanque acumulador de aire/aceite que permite el movimiento de los álabes y con ello el 
+giro de la unidad. Al ser la misma auto-excitada proporciona la energía de sus propios servicios 
+auxiliares (no utiliza grupo electrógeno). 
+(4) Primer escalón de carga que puede tomar la unidad sin poner en riesgo la estabilidad de la unidad en 
+este proceso. 
+(5) Tiempo necesario para reiniciar la partida, desde el desenganche de la unidad. 
+(6) Tiempo máximo de permanencia en giro en vacío (sin carga) sin restricción (no tiene tiempo límite).  
+ 

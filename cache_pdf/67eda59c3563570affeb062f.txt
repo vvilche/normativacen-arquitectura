@@ -1,0 +1,96 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 2 de abril de 2025 
+DE 01940-25 
+Señor 
+Sebastián Ruiz-Tagle 
+Encargado Titular 
+Colbún S.A. 
+Presente 
+ 
+Ref.: Solicita ajustar banda muerta de la Central PFV 
+Diego de Almagro Sur para la prestación del Control 
+Primario de Frecuencia. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y de acuerdo a lo indicado en el Artículo 3-17 de 
+la Norma Técnica de Seguridad y Calidad de Servicio (NT SyCS), dónde se establece que 
+el ajuste específico que deberán implementar las unidades generadoras y parques eólicos 
+y fotovoltaicos para la prestación del Control Primario de Frecuencia (CPF) será 
+determinado por el Coordinador, en atención a la seguridad y calidad de servicio, se solicita 
+a su representada ajustar la banda muerta del controlador de frecuencia a 25 mHz. 
+ 
+Es importante destacar que la central concluyó su proceso de verificación mediante carta 
+de la Ref. [1], estableciéndose en los ensayos los aportes de la central con una banda 
+muerta ajustada de 25 mHz. Además, se determinó que dicha banda puede ser ajustada 
+en el rango entre 25 y 200 mHz. 
+ 
+El cambio en el ajuste de la banda muerta permitirá a la Central PFV Diego de Almagro Sur 
+prestar el servicio en condición normal de operación del SEN y no solo ante contingencias 
+en el sistema, lo que se alinea con las recomendaciones establecidas en el Informe de 
+Servicios Complementarios, publicado mediante carta de la Ref. [2]. 
+ 
+El cambio deberá ser realizado a más tardar el 9 de abril y debe ser notificado por medio 
+de correo electrónico a verificacion.sscc@coordinador.cl.  
+ 
+Si bien esta instrucción aplica a la central PFV Diego de Almagro Sur, es de carácter general 
+por lo que se hace extensiva a cualquier otro parque o central que se encuentre en proceso 
+de verificación. Considerando lo anterior, agradeceré hacer extensivo este ajuste en la 
+banda muerta, al resto de las centrales de su representada para la verificación de la 
+prestación del CPF. 
+ 
+Adicionalmente, conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada 
+deberá instalar los equipos necesarios para medir el desempeño de la prestación del CPF, 
+que en este caso corresponde a un medidor potencia/frecuencia con resolución de 1 
+segundo, debiendo los registros ser enviados al Coordinador siguiendo el protocolo 
+establecido en el documento de la Ref. [3].  
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DIR/ycl 
+ 
+ 
+Referencias 
+ 
+[1] Carta DE04857-24, ref.: “Resultado del Proceso de Verificación de los SSCC de CPF y 
+CTF de la Central PFV Diego de Almagro Sur” de fecha 26 de septiembre de 2024. 
+ 
+[2] Carta DE06790-24, ref.: “Informe de Servicios Complementarios 2025, versión diciembre 
+2024” de fecha 20 de diciembre de 2024. 
+ 
+[3] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 
+> 
+Instructivos 
+Técnicos 
+> 
+Protocolo 
+de 
+envío 
+de 
+registros 
+Potencia/Frecuencia para la evaluación del CPF 

@@ -1,0 +1,75 @@
+ 
+Santiago, 13 de enero de 2025. 
+  ACC.ECH.003.25 
+Señor: 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe Desempeño Servicios Complementarios – diciembre 2024. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de diciembre 2024, que fue publicado en su página web y cuya publicación fue comunicada a 
+través de la carta DE 00152-25 de fecha 08 de enero de 2025. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+Felipe Escobar Tapia 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC DICIEMBRE 2024 V1 
+Servicio Complementario – CPF 
+Planta: PFV Almeyda 
+Comentario 
+El documento "SSCC_Desempeno_Diciembre_2024_V1" no considera en las hojas "CPF Horario" y "CPF Mensual" a la central solar fotovoltaica PFV Almeyda dentro del listado de 
+ambas hojas, esto siendo que la central prestó recurrentemente el servicio de Control Primario de Frecuencia y cuyos antecedentes que permitirían verificar el desempeño fueron 
+enviados al Coordinador en el formato requerido. 
+Planta: PFV Usya 
+Comentario 
+El documento "SSCC_Desempeno_Diciembre_2024_V1" no considera en las hojas "CPF Horario" y "CPF Mensual" a la central solar fotovoltaica PFV Usya dentro del listado de ambas 
+hojas, esto siendo que la central prestó recurrentemente el servicio de Control Primario de Frecuencia y cuyos antecedentes que permitirían verificar el desempeño fueron enviados al 
+Coordinador en el formato requerido. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Servicio Complementario – CTF (-) 
+Planta: PFV Malgarida 
+Timestamp 
+Planta 
+Consigna P 
+en Planta 
+Registro ∆P 
+en RIO 
+Hora INICIO 
+registro RIO 
+Hora FIN registro 
+RIO 
+Comentario 
+- 
+- 
+-179 
+12-12-2024 
+11:17:00 
+12-12-2024 
+11:50:00 
+Instrucción se observa sólo en RIO, pero verificando las grabaciones de las llamadas del día, la 
+instrucción no fue solicitada por CDC. 
+19-12-2024 
+17:02:54 
+134 
+-46 
+19-12-2024 
+17:01:00 
+19-12-2024 
+17:45:00 
+Se evalúa con mal desempeño el C1, pero la planta llegó al tc2 a las 17:06, prestando ya el 
+deltaP solicitado.  A continuación, se adjunta imagen para demostrar lo comentado. 
+ 

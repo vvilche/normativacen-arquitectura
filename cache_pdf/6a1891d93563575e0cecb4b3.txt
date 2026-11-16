@@ -1,0 +1,90 @@
+ 
+ 
+ RI-000023-2026 
+ 
+ Santiago, 27 de mayo de 2026 
+ 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Santiago  
+PRESENTE 
+ 
+Referencia: Proyectos y propuestas de soluciones para Informe de Servicios 
+Complementarios (SSCC) 2027. 
+ 
+De nuestra consideración,  
+ 
+Por medio de la presente, y en conformidad con lo establecido en los Artículos 2-5 y 2-6 de 
+la Norma Técnica de Servicios Complementarios, venimos a complementar nuestra 
+propuesta presentada mediante carta RI-000003-2026, de fecha 30 de enero de 2026, 
+incorporando un estudio elaborado por la empresa consultora Estudios Eléctricos. Dicho 
+estudio tiene por objetivo analizar la fortaleza de la red en el contexto de los nuevos 
+requerimientos establecidos en la Norma Técnica de Seguridad y Calidad de Servicio 
+(NTSyCS). 
+ 
+En efecto, el acelerado proceso de descarbonización —caracterizado por la creciente 
+incorporación de generación renovable variable y sistemas de almacenamiento en baterías 
+(BESS)— junto con las exigencias técnicas asociadas a la futura operación del proyecto HVDC 
+Kimal–Lo Aguirre, han derivado en una disminución significativa de la fortaleza sistémica, 
+haciendo imperativo evaluar las condiciones de robustez de la red con horizonte al año 
+2030. 
+ 
+El análisis evaluó tres escenarios de penetración de tecnología Grid-Forming (GFM), 
+considerando que el 25%, 50% y 75% de los proyectos BESS instalados en el SEN operarían 
+bajo dicha modalidad. Los resultados evidencian que los condensadores sincrónicos 
+licitados a la fecha por el Coordinador Eléctrico Nacional resultan insuficientes para asegurar 
+el cumplimiento de los estándares normativos de ESCR en ese horizonte, en cualquiera de 
+los escenarios evaluados. Por ello, el estudio recomienda la incorporación de compensación 
+sincrónica adicional, con capacidades estimadas de 3,3 GVA, 1,7 GVA y 0,8 GVA —según el 
+nivel de penetración GFM— a instalarse en la zona norte del SEN. 
+ 
+ 
+ 
+ 
+ 
+Docusign Envelope ID: 1D0C4C93-24A1-8A65-8119-3890442190FD
+
+ 
+ 
+No obstante, es preciso señalar, que aun cuando se alcanzase el escenario de penetración 
+GFM proyectado por el Coordinador, persiste una preocupación relevante respecto de los 
+períodos nocturnos y de madrugada. Esto ya que, en dicho bloque horario, la dinámica de 
+mercado —condicionada por los diferenciales de costos marginales— podría llevar a que los 
+BESS GFM operen con reservas de energía cercanas a cero, dado que su ciclo natural 
+contempla carga al mediodía y descarga en el período punta. Esta condición representa un 
+riesgo real para la seguridad del sistema ante eventuales fallas.  
+ 
+Mitigar dicho riesgo requeriría establecer una reserva mínima de energía obligatoria para 
+los BESS GFM, o bien generar los incentivos adecuados a través de un mercado de Servicios 
+Complementarios. El costo de cualquiera de estas medidas no es nulo y debe ser 
+contrastado con el costo de incorporar compensadores sincrónicos adicionales de operación 
+continua (24/7), equipos que, por su naturaleza, no presentan las restricciones 
+operacionales propias de los BESS. Esta comparación resulta determinante para identificar 
+la solución técnico-económica más eficiente en el marco del desarrollo de la red. 
+ 
+En virtud de lo expuesto, Transelec estima prioritario que estas materias sean abordadas de 
+manera oportuna, con el fin de resguardar la seguridad y calidad de servicio del SEN, y de 
+habilitar adecuadamente el proceso de descarbonización y la integración de nuevos 
+proyectos estructurales. Quedamos a disposición para profundizar en los aspectos técnicos 
+que estime pertinentes. 
+ 
+ 
+Anexos: 
+ 
+1. Estudio de Necesidades de Servicios Complementarios del Sistema Eléctrico al 2030. 
+2. EE.ES.2026-1230_Anexo I-BD EE-CEN. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+Mauricio Fernández Berríos 
+Subgerente de Planificación y Regulación 
+Transelec S.A 
+Docusign Envelope ID: 1D0C4C93-24A1-8A65-8119-3890442190FD

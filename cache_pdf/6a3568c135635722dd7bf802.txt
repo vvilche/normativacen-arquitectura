@@ -1,0 +1,90 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+Santiago, 18 de junio de 2026 
+                                                                                                                                               JAV202620 
+ 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a Carta DE 03396-26 — Envío 
+de antecedentes para Informe Técnico de 
+Verificación CSF Central PFV Javiera. 
+De nuestra consideración: 
+En atención a su carta DE 03396-26, de fecha 19 de mayo de 2026, mediante la cual se 
+comunicó el resultado favorable del proceso de verificación del Servicio Complementario 
+de Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho 
+Económico de la central PFV Javiera, y en la que además se solicitó el envío de antecedentes 
+para la elaboración del correspondiente Informe Técnico de Verificación, Javiera SpA 
+procede a remitir la documentación requerida dentro del plazo indicado. 
+En cumplimiento de lo anterior, se adjuntan a la presente los siguientes documentos: 
+a) Layout o diagrama de arquitectura de comunicaciones:  
+Se adjunta diagrama que ilustra la arquitectura de comunicaciones y los equipos 
+implementados para la integración al AGC de la central PFV Javiera. 
+b) Certificado de disponibilidad del sistema de comunicaciones:  
+La central PFV Javiera cuenta con dos enlaces de comunicaciones independientes y 
+redundantes: uno con Entel, con una disponibilidad contractualmente garantizada de 
+99,5%, y otro con Starlink, con una disponibilidad garantizada de 99,9%, conforme a su 
+Acuerdo de Nivel de Servicio (SLA). La disponibilidad combinada del sistema de 
+comunicaciones, operando ambos enlaces en configuración de redundancia en paralelo 
+supera ampliamente el umbral de 99,95% de disponibilidad exigido por el Coordinador 
+Eléctrico Nacional.  
+Como respaldo documental de los valores utilizados, se adjunta lo siguiente:  
+• 
+Entel: Por razones de confidencialidad contractual, se adjunta un extracto del 
+contrato vigente con Entel que acredita la disponibilidad garantizada de 99,5%. 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+• 
+Starlink: Se adjunta el SLA declarado públicamente por Starlink en su página web 
+oficial, correspondiente al Plan de Prioridad — Acuerdo de Nivel de Servicio, que 
+establece una disponibilidad de red garantizada del 99,9%. 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Moraga 
+Encargado Titular 
+Javiera SpA 

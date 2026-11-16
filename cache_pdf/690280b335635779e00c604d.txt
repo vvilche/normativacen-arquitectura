@@ -1,0 +1,617 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 29 de octubre de 2025 
+ 
+    
+DE 06893-25 
+ 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Publicación de Indicadores de Desempeño 
+de Servicios Complementarios prestados durante 
+el mes de septiembre 2025, segunda versión. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página web 
+del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de los Indicadores 
+de Desempeño de Servicios Complementarios prestados durante el mes de septiembre 2025. Estos 
+indicadores fueron considerados en la versión definitiva del IVTE de dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador en la 
+siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2025 > Septiembre 2025 > 
+Versión 2 
+ 
+Adicionalmente, se adjuntan en el Anexo de esta comunicación, las respuestas a las observaciones 
+recibidas para la primera versión del Informe. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ASA/adr 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de septiembre 
+2025 consideradas en la versión 2. 
+ 
+N° 
+Coordinado SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+Empresa 
+Eléctrica 
+Rucatayo 
+S.A. 
+CT 
+HP 
+RUCATAYO 
+U1 
+Fecha: 06-09-2025 02:07 
+El día 06 de octubre de 2025 a las 02:07 horas, 
+el CEN solicitó resguardo de tensión en la 
+Subestación Pichirrahue. En respuesta, se ajustó 
+la unidad dentro de los límites de la curva PQ y 
+función 27 (-2 kV). Este evento fue calificado 
+como NC, sin embargo, el registro corresponde a 
+un evento por continuidad de servicio, tal como 
+se indica en la planilla de RIO (ver imagen 
+adjunta). Solicito por favor revisar el motivo del 
+porcentaje del 50% asignado, ya que esto podría 
+impactar negativamente en el cumplimiento del 
+porcentaje 
+exigido 
+para 
+efectos 
+de 
+remuneración. 
+No se acoge la observación. 
+ 
+De acuerdo a lo establecido en las Reglas de la OTR, 
+la categoría de continuidad de servicio aplica sólo 
+para instrucciones a plantas generadoras eólicas y 
+fotovoltaicas. 
+ 
+Dicho lo anterior se revisan los antecedentes y CDC 
+consigna que dicha instrucción no corresponde a una 
+continuación por lo que la evaluación no cambia.  
+ 
+Las Reglas de Operación vigentes pueden ser 
+descargadas del sitio web del Coordinador de la 
+siguiente ruta: Inicio > Informes y Estudios > 
+Operación > 
+Servicios Complementarios > 
+Reglas 
+de 
+Operación 
+de 
+Servicios 
+Complementarios 
+2 
+Empresa 
+Eléctrica 
+Rucatayo 
+S.A. 
+CTF 
+HP 
+RUCATAYO 
+U1 
+Fecha: 21-09-2025, 27-09-2025 y 28-09-2025 
+Durante los días 21 y 27 de septiembre se nos 
+instruyó la prestación de CFT, sin embargo, al 
+revisar el archivo de desempeño no visualizo que 
+Rucatayo se encuentre incluido, solicito por favor 
+información al respecto a esta omisión, ya que la 
+no inclusión de Rucatayo podría afectar la 
+correcta contabilización de las horas prestadas y, 
+por ende, 
+impactar 
+negativamente 
+en 
+la 
+remuneración asociada a estas prestaciones. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones para los 
+días en cuestión y CDC confirma que no existieron 
+instrucciones de CTF para HP Rucatayo. Dicho lo 
+anterior la evaluación no cambia. 
+3 
+Colbún 
+CTF 
+UG La Mina 
+1 
+Fecha: 01.09.2025 09:04:00 (UTC-4) 
+La unidad se encontraba fuera de servicio al 
+momento de recibir la instrucción, en este 
+contexto no puede cumplir con la activación del 
+CTF de bajada. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se comprueba que la 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Solicitud: Revisar estado operacional y revaluar 
+desempeño en caso de que corresponda. 
+unidad se encontraba Fuera de Servicio y que la 
+instrucción debió ser eliminada del Registro de 
+Instrucciones. 
+ 
+Dicho lo anterior, la instrucción se elimina, se 
+actualiza RIO y el indicador se recalcula, por lo que 
+la respuesta cambia a “No Activado”, lo que se 
+traduce en un factor de desempeño de 100%. 
+4 
+Colbún 
+CTF 
+UG La Mina 
+2 
+Fecha: 01.09.2025 09:04:00 (UTC-4) 
+De acuerdo con el documento CTF_202509 la 
+unidad se encontraba operando en su Mínimo 
+Técnico por lo que no podía cumplir con la 
+activación 
+del 
+CTF 
+de 
+bajada. 
+Solicitud: Revisar estado operacional y reevaluar 
+desempeño en caso de que corresponda. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se comprueba que la 
+unidad se encontraba Fuera de Servicio y que la 
+instrucción debió ser eliminada del Registro de 
+Instrucciones. 
+ 
+Dicho lo anterior, la instrucción se elimina, se 
+actualiza RIO y el indicador se recalcula, por lo que 
+la respuesta cambia a “No Activado”, lo que se 
+traduce en un factor de desempeño de 100%. 
+5 
+Colbún 
+CTF 
+UG Colbún 
+1 
+Fecha: 02.09.2025 18:44:00 (UTC-4) 
+Se activa el servicio de subida por 47 MW, la 
+unidad logra subir 40 MW alcanzando la potencia 
+activa máxima disponible de acuerdo con la cota 
+del embalse en ese instante. 
+Solicitud: Revisar estado operacional y revaluar 
+desempeño en caso de que corresponda. 
+Se acoge la observación. 
+ 
+Cabe 
+destacar 
+que 
+la 
+instrucción 
+indicada 
+corresponde al día 04 de septiembre. 
+ 
+Se analizan los antecedentes y se corrobora que la 
+limitación de la potencia máxima fue informada y 
+aprobada en Neomante, por lo que el indicador se 
+recalcula y la respuesta cambia a 100%, lo que se 
+traduce en un factor de desempeño de 100%. 
+6 
+Colbún 
+CTF 
+PE San 
+Juan 
+Fecha: 
+09.09.2025 
+17:01:00 
+(UTC-3) 
+De acuerdo con el documento CTF_202509 la 
+instrucción dura menos de 15 minutos que es el 
+tiempo mínimo para la entrega de toda la 
+reservar instruida. 
+No se acoge la observación - Aclaración 
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de CTF 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Solicitud: Revisar extensión de instrucción y 
+revaluar 
+desempeño 
+en 
+caso 
+de 
+que 
+corresponda. 
+tiene una duración menor a 15 minutos se evalúa 
+considerando los movimientos de la unidad que se 
+espera se hagan en ese lapso.  
+ 
+En este caso se evalúa el criterio C1, lo cual PE San 
+Juan no cumple, ya que se observa vía SCADA que 
+la unidad ajusta su consigna en sentido contrario al 
+solicitado por CDC. Dicho lo anterior el indicador se 
+mantiene. 
+7 
+Colbún 
+CTF 
+UG Colbún 
+1 
+Fecha: 13.09.2025 06:41:00 (UTC-3) 
+Se activa el servicio de subida por 72 MW, la 
+unidad logra subir 50 MW alcanzando la potencia 
+activa máxima disponible de acuerdo con la cota 
+del embalse en ese instante.  
+Solicitud: Revisar estado operacional y revaluar 
+desempeño en caso de que corresponda. 
+No se acoge la observación.  
+ 
+La central no registra una limitación de la potencia 
+máxima por nivel de cota vía Neomante durante esta 
+instrucción.  
+ 
+Las instrucciones dadas por CDC consideran ajustes 
+de potencia por cotas de embalse en la medida que 
+estas se encuentren respaldas en la plataforma 
+Neomante.  
+ 
+Dicho lo anterior, el indicador se mantiene. 
+8 
+Colbún 
+CTF 
+PFV Diego 
+de Almagro 
+Sur 
+Fecha: 14.09.2025 11:41:00 (UTC-3) 
+De acuerdo con el documento CTF_202509 se 
+evalúa la activación de 196 MW de bajada en 
+condiciones que la unidad estaba operando en 
+144 MW y tiene un MT de 12,7 MW. Junto con lo 
+anterior en el mismo documento se indica que la 
+finalización de la instrucción fue a las 12:46 sin 
+embargo según el registro de grabaciones de 
+Colbún se recibe la instrucción a las 11:53, 
+durando menos de 15 minutos. Lo anterior es 
+consistente con el registro RIO del Coordinador. 
+Finalmente el Coordinador evalúa al Parque 
+como No Verificable pero al revisar la señal de 
+potencia activa enviada a través del SITR se 
+No se acoge observación – Aclaración 
+ 
+Se analizan los antecedentes y mediciones SCADA, 
+las cuales muestran que la señal de potencia activa 
+de la unidad presentó intermitencias entre las 11:45 
+y 11:51. Esta condición no cumple con los criterios 
+de calidad definidos en el artículo 13 del Anexo 
+Técnico “Definición de Parámetros Técnicos y 
+Operativos para el Envío de Datos al SITR”. Dicho lo 
+anterior el indicador se mantiene.  
+ 
+Dado esto, el coordinado debe revisar sus señales 
+en sistema SCADA, para lo cual tiene que contactar 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+observa que esta no presenta problemas. 
+Solicitud: Revisar evaluación 
+directamente 
+al 
+área 
+TI 
+SCADA 
+al 
+mail 
+tec.scada@coordinador.cl  
+9 
+Colbún 
+CTF 
+UG Colbún 
+2 
+Fecha: 14.09.2025 19:33:00 (UTC-3) 
+De acuerdo con el documento CTF_202509 se 
+evalúa la activación de 112 MW de bajada sin 
+embargo según el registro de grabaciones de 
+Colbún SA se solicita llevar la unidad a Minimo 
+Técnico, por lo que, considerando que la unidad 
+se encontraba operando a 220 MW se debe 
+evaluar 
+una 
+instrucción 
+de 
+120 
+MW. 
+Solicitud: 
+Revisar 
+instrucción 
+y 
+revaluar 
+desempeño en caso de que corresponda. 
+Se acoge la observación.  
+ 
+Se analizan los antecedentes y grabaciones y se 
+corrobora que HE Colbún U2 fue instruida a prestar 
+CTF- con un monto de 120MW en lugar de 112MW.  
+ 
+Dicho lo anterior, se ajusta el monto, se modifica el 
+RIO y se recalcula el indicador de respuesta el cual 
+cambia a 100%. 
+10 
+Colbún 
+CTF 
+UG Colbún 
+1 
+Fecha: 19.09.2025 03:52:00 (UTC-3 
+ 
+De acuerdo con el documento CTF_202509 la 
+unidad se encontraba fuera de servicio y se 
+solicita subir 96 MW, en condiciones que su 
+Mínimo Técnico es 100 MW, en este contexto 
+debería utilizarse ese valor para evaluar el 
+desempeño. 
+Solicitud: Revisar estado operacional y revaluar 
+desempeño en caso de que corresponda. 
+Se acoge la observación.  
+ 
+Se analizan los antecedentes y grabaciones y se 
+corrobora que HE Colbún U2 fue instruida a prestar 
+CTF+ con un monto de 100MW en lugar de 96MW.  
+ 
+Dicho lo anterior, se ajusta el monto, se modifica el 
+RIO y se recalcula el indicador de respuesta el cual 
+cambia a 100%. 
+11 
+Colbún 
+CTF 
+PFV Diego 
+de Almagro 
+Sur 
+Fecha: 21.09.2025 12:30:00 (UTC-3) 
+De acuerdo con el registro RIO del Coordinador 
+la instrucción dura un poco menos de 15 minutos 
+que es el tiempo mínimo para la activación de 
+toda la reserva, adicionalmente la reserva 
+instruida fue de bajar 189 MW en condiciones 
+que el Parque estaba en 194 MW con un MT de 
+12.7 MW. Finalmente el CEN evalúa al Parque 
+como No Verificable pero al revisar las señales 
+SITR se observa que no hubo problemas de 
+disponibilidad con estas. 
+Solicitud: Revisar evaluación 
+No se acoge observación – Aclaración 
+ 
+Se analizan los antecedentes y mediciones SCADA, 
+las cuales muestran que la señal de potencia activa 
+de la unidad presentó intermitencias entre las 12:36 
+y 12:42. Esta condición no cumple con los criterios 
+de calidad definidos en el artículo 13 del Anexo 
+Técnico “Definición de Parámetros Técnicos y 
+Operativos para el Envío de Datos al SITR”. Dicho lo 
+anterior el indicador se mantiene.  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Dado esto, el coordinado debe revisar sus señales 
+en sistema SCADA, para lo cual tiene que contactar 
+directamente 
+al 
+área 
+TI 
+SCADA 
+al 
+mail 
+tec.scada@coordinador.cl 
+12 
+Colbún 
+CTF 
+UG Colbún 
+2 
+Fecha: 25.09.2025 19:09:00 (UTC-3) 
+De 
+acuerdo 
+con 
+el 
+registro 
+RIO 
+del 
+Coordinadorse recibe la instrucción una de 19:09 
+hasta las 19:17 la que no cumple con el 
+requerimiento de tiempo mínimo de activación 
+para este servicio equivalente a 15 minutos. 
+Solicitud: Revisar evaluación 
+Aclaración 
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de CTF 
+tiene una duración menor a 15 minutos se evalúa 
+considerando los movimientos de la unidad que se 
+espera se hagan en ese lapso.  
+ 
+En este caso se evalúa el criterio C1, lo cual HE 
+Colbún U2 cumple, ya que se observa vía SCADA 
+que la unidad ajusta su consigna en el sentido 
+solicitado por CDC. Dicho lo anterior el indicador se 
+mantiene en 100%. 
+13 
+Colbún 
+CTF 
+UG Colbún 
+2 
+Fecha: 25.09.2025 19:25:00 (UTC-3) 
+De 
+acuerdo 
+con 
+el 
+registro 
+RIO 
+del 
+Coordinadorse recibe la instrucción una de 19:25 
+hasta las 19:40 la que no cumple con el 
+requerimiento de tiempo mínimo de activación 
+para este servicio equivalente a 15 minutos. 
+Solicitud: Revisar evaluación 
+No se acoge la observación - Aclaración 
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de CTF 
+tiene una duración menor a 15 minutos se evalúa 
+considerando los movimientos de la unidad que se 
+espera se hagan en ese lapso.  
+ 
+En este caso se evalúa el criterio C1, lo cual HE 
+Colbún U2 no cumple, ya que se observa vía SCADA 
+que la unidad no realiza ningún movimiento. Dicho lo 
+anterior el indicador se mantiene. 
+14 
+Colbún 
+CTF 
+PE San 
+Juan 
+Fecha: 25.09.2025 16:29:00 (UTC-3) 
+De acuerdo con el documento CTF_202509 se 
+utiliza como Mínimo Técnico del Parque el valor 
+de 0,24 MW netos. ese dato no corresponde a la 
+operación 
+del 
+Parque 
+con 
+todos 
+sus 
+No se acoge la observación - Aclaración 
+ 
+El informe enviado por su representada y aprobado 
+por el coordinador informa un mínimo técnico de 
+0,235MW (potencia neta). Este valor fue establecido 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° 
+Coordinado SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+aerogeneradores en servicio, de acuerdo con el 
+informe aprobado por el CEN el MT con todos los 
+aerogeneradores en servicio para condición de 
+alto viento es de 19,32 MW brutos. Se adjunta 
+informe de MT aprobado por el Coordinador. 
+Solicitud: Revisar contexto de MT y reevaluar 
+considerando 
+el 
+valor 
+para 
+todos 
+los 
+aerogeneradores. 
+vía carta DE05284-20 en octubre de 2020 en 
+consistencia con el informe de mínimo técnico. 
+ 
+En aquel informe la central es capaz de apagar sus 
+aerogeneradores hasta alcanzar una operación 
+estable de 0,235 MW de potencia neta sin presentar 
+limitaciones de ningún tipo, por lo que la central es 
+capaz de alcanzar este valor sin problemas. 
+ 
+Dicho lo anterior, el mínimo técnico a considerar en 
+la evaluación se mantiene y el indicador no cambia. 
+En caso de que requiera actualizar su parámetro 
+operacional de mínimo técnico, se solicita el envío 
+del 
+informe 
+actualizado 
+vía 
+carta 
+en 
+correspondencia.  
+15 
+Acciona 
+CT 
+PFV 
+Almeyda 
+Fecha: 20-09-2025 08:17 
+Se califica como NC, sin embargo, según 
+grabación de llamado, la instrucción fue de -17 
+MVAr y no el valor de -27 MVAr indicado en la 
+planilla de RIO. 
+Se acoge la observación.  
+ 
+Se analizan los antecedentes y grabaciones y se 
+corrobora que PFV Almeyda fue instruida a prestar 
+CT con un monto de -17MVAr en lugar de -27MVAr.  
+ 
+Dicho lo anterior, se ajusta el monto, se modifica el 
+RIO y se recalcula el indicador de respuesta de la 
+instrucción, el cual cambia a 100%. 
+16 
+Acciona 
+CT 
+PFV 
+Malgarida 
+Fecha: 24-09-2025 03:32 
+A las 3:31 CDC solicita, mediante llamada, 
+absorber 60 MVAr asociado a SSCC-CT, sin 
+embargo, dicha instrucción no se encuentra 
+registrada en la planilla de RIO. 
+Se acoge la observación.  
+ 
+Se analizan los antecedentes y grabaciones y se 
+corrobora que PFV Malgarida fue instruida a prestar 
+CT con un monto de -60MVAr el día 24 de 
+septiembre.  
+ 
+Dicho lo anterior, se ajusta el monto, se modifica el 
+RIO y se recalcula el indicador de respuesta de la 
+instrucción, el cual cambia a 100%. 
+ 

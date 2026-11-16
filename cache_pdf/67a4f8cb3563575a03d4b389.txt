@@ -1,0 +1,279 @@
+ 
+ 
+ 
+ 
+Santiago, 06 de febrero de 2025 
+DE 00839-25 
+ 
+Señores  
+Encargados  
+Empresas Coordinadas    
+(Según lista de distribución)  
+Presente  
+ 
+Ref.: Procesos de Verificación de Instalaciones de 
+Transmisión para la Prestación de Servicios 
+Complementarios que están próximos a vencer de 
+acuerdo con el Cronograma Definitivo.  
+[1] Carta DE05479-24, Ref.: Cronograma Definitivo 
+del 
+proceso 
+de 
+verificación 
+de 
+Servicios 
+Complementarios (SSCC) en instalaciones de 
+Transmisión, de fecha 18 de octubre de 2024. 
+ 
+De mi consideración:  
+   
+En relación con la materia de la referencia y de acuerdo con lo establecido en el artículo 4-2 de 
+la Norma Técnica de Servicios Complementarios (NTSSCC), toda instalación interconectada al 
+Sistema Eléctrico y que se encuentre destinada a la prestación de SSCC, deberá someterse a la 
+verificación de los recursos técnicos asociados a dicha infraestructura.  
+ 
+Al respecto, mediante carta de la Ref. [1] este Coordinador emitió el Cronograma Definitivo del 
+proceso de verificación de Servicios Complementarios (SSCC) en instalaciones de Transmisión, 
+detectando que, a la fecha, su representada tiene procesos en los que corresponde el envío del 
+Informe de Verificación entre los meses de febrero y abril de 2025. Dichos procesos tienen a la 
+fecha hitos pendientes, estando estos identificados en el Anexo de la presente comunicación.  
+ 
+Es importante recordar que el proceso de verificación de SSCC considera varias etapas y se 
+realiza según lo establecido en el Anexo Técnico “Verificación de Instalaciones para la Prestación 
+de SSCC” de la NT-SSCC y en las Guías de Verificación elaborados por este Coordinador que 
+se encuentran publicadas en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión Definitiva > 
+Instructivos Técnicos 
+ 
+Considerando lo planteado, se solicita a su representada lo siguiente: 
+ 
+1. Informar las fechas en que enviará los documentos o ejecutará los hitos pendientes del 
+proceso de verificación (Información de Expertos Técnicos, envío de protocolos de ensayo, 
+ejecución de los ensayos), indicando las acciones que ha tomado o tomará para que no se 
+comprometa el plazo de envío del informe. 
+
+ 
+ 
+ 
+ 
+2. Informar si las actividades del punto 1 ponen en riesgo el cumplimiento del envío del 
+respectivo Informe de Verificación en los plazos estipulados en carta de la Ref. [1].  Considerar 
+los plazos establecidos para cada una de las etapas del punto 1 y que éstas son necesarias 
+para avanzar en la entrega del informe en cuestión.  
+ 
+La información solicitada deberá ser enviada mediante carta y con copia al correo electrónico 
+verificacion.SSCC@coordinador.cl, a más tardar el 13 de febrero de 2025.  
+ 
+Finalmente, señalamos a usted que de acuerdo a lo establecido en el artículo 8 del Decreto 
+Supremo 52 que aprueba el Reglamento del Coordinador Independiente del Sistema Eléctrico 
+Nacional, publicado en el diario oficial el 3 de abril de 2018, el Coordinador debe informar en un 
+plazo de 10 días hábiles a la Superintendencia de Electricidad y Combustibles y a la CNE, de 
+cualquier hecho o circunstancia que pueda constituir una infracción a la normativa eléctrica 
+vigente por parte de las empresas sujetas a coordinación.  
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+  
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GZV/CRV/DGQ/adr 
+Incl. Lo indicado 
+ 
+ 
+Lista de distribución: 
+• 
+ALFA TRANSMISORA DE ENERGÍA S.A. 
+• 
+ELETRANS S.A. 
+• 
+EMPRESA DE TRANSMISIÓN ELÉCTRICA TRANSEMEL S.A.
+
+ 
+ 
+ 
+ 
+Anexo: Procesos próximos por vencer de según Cronograma Definitivo de Verificación de SSCC en instalaciones de 
+Transmisión Versión 2024.10.18 
+ 
+A continuación, se listan las instalaciones que deben enviar los Informes de Verificación de SSCC en los próximos 3 meses, de acuerdo 
+al cronograma de la carta de la Ref. [1]. 
+ 
+Cabe destacar que de acuerdo con lo establecido en el artículo 4-5 de la NTSSCC, la verificación de instalaciones mencionadas, por 
+ser consideradas existentes en el presente régimen de SSCC, podrán ser realizadas por los titulares de las instalaciones mediante 
+personal propio o mediante un tercero, lo que deberá ser notificado oportunamente al Coordinador al momento de enviar el plan de 
+trabajo para normalizar el presente requerimiento. 
+ 
+Sin perjuicio de lo anterior, en caso de que el titular de la instalación no haya aún iniciado su proceso de verificación y opte por realizar 
+el proceso mediante un Experto Técnico independiente, deberá informar la terna de Expertos a la que se refiere el Artículo 4 del Anexo 
+Técnico “Verificación de Instalaciones para la Prestación de SSCC” ya citado. Adicionalmente, deberá enviar los antecedentes 
+solicitados en el capítulo 5.1 y 5.2 del Instructivo Técnico para la Verificación de Instalaciones. 
+ 
+Tabla N°1: Instalaciones con Informes de Verificación que deben ser enviados al Coordinador en los próximos 3 meses. 
+Coordinado 
+Subestación 
+Paño 
+SSCC 
+Fecha de entrega de informe 
+de verificación de SSCC 
+según cronograma 
+Alfa Transmisora de Energía S.A. 
+S/E Alto Jahuel 
+J10 
+EV 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Alto Jahuel 
+J3 
+EV 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Ancoa 
+J9 
+EV 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Angostura 
+J1 
+EV 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Angostura 
+J2 
+EV 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Candelaria 
+J3 
+EV 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Candelaria 
+J4 
+EV 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Candelaria 
+J1 
+EV 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Candelaria 
+J2 
+EV 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Colbún 
+J7 
+EV 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Mulchén 
+J5 
+EV 
+abr-25 
+Alfa Transmisora de Energía S.A. 
+S/E Mulchén 
+J6 
+EV 
+abr-25 
+Alfa Transmisora de Energía S.A. 
+S/E Mulchén 
+J3 
+EV 
+abr-25 
+
+ 
+ 
+ 
+ 
+Coordinado 
+Subestación 
+Paño 
+SSCC 
+Fecha de entrega de informe 
+de verificación de SSCC 
+según cronograma 
+Alfa Transmisora de Energía S.A. 
+S/E Mulchén 
+J4 
+EV 
+abr-25 
+Alfa Transmisora de Energía S.A. 
+S/E Cerro Calera 
+C14 
+CT 
+abr-25 
+Alfa Transmisora de Energía S.A. 
+S/E Esperanza 
+1 
+CT 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Esperanza 
+2 
+CT 
+feb-25 
+Alfa Transmisora de Energía S.A. 
+S/E Maipo 
+JCP4 
+CT 
+abr-25 
+Eletrans S.A. 
+S/E Cardones 
+J12 
+EV 
+mar-25 
+Eletrans S.A. 
+S/E Cardones 
+J13 
+EV 
+mar-25 
+Eletrans S.A. 
+S/E Carrera Pinto 
+J5 
+EV 
+mar-25 
+Eletrans S.A. 
+S/E Ciruelos 
+J8 
+EV 
+mar-25 
+Eletrans S.A. 
+S/E Ciruelos 
+J9 
+EV 
+mar-25 
+Eletrans S.A. 
+S/E Pichirropulli 
+J2 
+EV 
+mar-25 
+Eletrans S.A. 
+S/E Pichirropulli 
+J5 
+EV 
+mar-25 
+Empresa de Transmisión Eléctrica Transemel S.A. 
+S/E Cóndores 
+CE1 
+CT 
+abr-25 
+Empresa de Transmisión Eléctrica Transemel S.A. 
+S/E Cóndores 
+CE2 
+CT 
+abr-25 
+Empresa de Transmisión Eléctrica Transemel S.A. 
+S/E Duqueco 
+J1 
+EV 
+abr-25 
+ 

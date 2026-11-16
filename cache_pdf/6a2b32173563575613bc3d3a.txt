@@ -1,0 +1,109 @@
+ 
+ 
+Santiago, 10 de junio de 2026 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional (CEN) 
+Presente. 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref. [1] DE 03429-26 Proceso de Verificación del Servicio 
+Complementario (SC) de Control Secundario de 
+Frecuencia (CSF-AGC) e incorporación a la herramienta 
+de despacho económico (ED)
+ 
+De nuestra consideración: 
+ 
+En mi representación de Santiago Solar S.A., y en respuesta a la comunicación en referencia, carta 
+DE 03429-26, por medio de la cual se solicita estado y cronograma para la implementación del 
+Control Secundario de Frecuencia (CSG-AGC) e incorporación a la herramienta de despacho 
+económico, se exponen los siguientes avances para nuestra central: 
+ 
+1. Estado de implementación al SITR/AGC del Coordinador. 
+ 
+• 
+Enlaces y señales: Los enlaces para la integración al Despacho Económico están plenamente 
+operativas y disponibles en el SITR.  
+ 
+Tipo 
+Señal 
+Tag ICCP 
+Consigna 
+Consigna de Despacho Económico 
+SANTIAG_DE_SPV 
+Digital 
+Local Remoto (En Despacho Económico o Local) 
+SANTIAG_DE_SLR_ST 
+Analógica 
+Retorno de consigna enviada desde el Coordinador 
+SANTIAG_DE_MSP_AN 
+Analógica 
+Límite superior de la Unidad 
+SANTIAG_DE_LSUP_AN 
+Analógica 
+Límite inferior de la Unidad 
+SANTIAG_DE_LINF_AN 
+Analógica 
+Rampa de subida (MW/Min) 
+SANTIAG_DE_RSUB_AN 
+Analógica 
+Rampa de bajada (MW/Min) 
+SANTIAG_DE_RBAJ_AN 
+ 
+Adicionalmente, estas señales ya se encuentran operando e integradas en el nuevo datacenter 
+de ENEA dado que Santiago Solar se encuentra al 100% con la migración del nuevo Data Center. 
+ 
+• 
+Pruebas punto a punto: Las pruebas iniciales fueron ejecutadas y validadas con especialistas 
+del Coordinador en agosto 2024. 
+ 
+• 
+Pruebas funcionales de integración al Despacho Económico vía AGC: Con fecha 25 de agosto 
+de 2025 se realizó la prueba de verificación CSF bajo la solicitud en la plataforma Neomante N° 
+2025091780. Durante estas pruebas se comprobó la medición de la rampa y las señales, tal 
+como se detalla en documentación adjunta “Carta DE05006-25 Verificación AGC”. Como 
+conclusión de la actividad, la conexión y el control remoto de AGC desde el CEN se efectuaron 
+de manera exitosa. Adicionalmente, se definió el ajuste en la configuración de la banda muerta 
+de los inversores para optimizar la respuesta de los equipos. 
+ 
+ 
+
+ 
+ 
+Actualmente se mantiene pendiente la ejecución y aprobación de las pruebas funcionales 
+definitivas para finalizar la integración al Despacho Económico. Por lo que Santiago Solar se 
+compromete a tomar contacto con el departamento de Modelación y Aplicaciones EMS para 
+confirmar cierre exitoso de este proyecto de CSF-AGC al despacho económico.  
+ 
+2. Cronograma con hitos y plazos específicos 
+ 
+• 
+Junio de 2026: Contacto oficial con el Departamento de Modelación y Aplicaciones EMS para 
+el agendamiento de las pruebas funcionales definitivas. 
+ 
+• 
+Julio de 2026: Ejecución de las pruebas funcionales de integración al Despacho Económico. 
+ 
+• 
+31 de julio de 2026: Aprobación de las pruebas y confirmación del cierre exitoso del proyecto 
+de integración CSF-AGC al Despacho Económico. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Constanza Leal R 
+Encargada Titular 
+Santiago Solar S.A 
+ 
+ 

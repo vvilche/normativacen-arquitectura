@@ -1,0 +1,73 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 11 DE AGOSTO 2026 
+COM-56/2026 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operaciones. 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para julio del 2026. 
+ 
+De nuestra consideración,  
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para julio 2026. 
+ 
+1) 
+El 07-07-2026 a las 12:42, la central Trapén Diesel recibió una instrucción de activación de 
+CTF(-) por 82 MW. No obstante, tanto en el informe de indicadores de desempeño como en el 
+RIO SSCC dicha activación quedó registrada como un CTF (+). Adicionalmente, se observa que 
+la activación tuvo una duración efectiva de 11 minutos (12:42 a 12:53 horas), inferior al umbral 
+de 15 minutos establecido para que una activación quede afecta a desempeño. Sin perjuicio 
+de ello, en el archivo "SSCC_Desempeño_Julio_2026_V1" esta activación figura clasificada 
+como 
+afecta 
+a 
+desempeño. 
+Se 
+adjuntan 
+las 
+grabaciones 
+“20260707124250” 
+y 
+“20260707125343”, correspondientes al inicio y término de la activación respectivamente, 
+como respaldo de los tiempos e intrucciones indicados. Se solicita corregir el desempeño de 
+esta activación a 100%. 
+ 
+2) 
+El dia 09-07-2026, la central TRAPÉN DIESEL tenía una asignación de CTF (-) programado, sin 
+embargo, a partir de las 12:00 horas dicho servicio fue reemplazado. No obstante lo anterior, 
+el archivo "SSCC_Desempeño_Julio_2026_V1" registra una activación de CTF (-) entre las 
+13:09 y las 14:00 horas, con una consigna de 57 MW, la cual nunca ocurrió, dado que el servicio 
+ya había sido reemplazado con anterioridad. Ante eso, se adjunta la grabación 
+“20260709125953” y el archivo “RIOSSCC_Julio2026”, los cuales acreditan el reemplazo del 
+servicio de CTF (-) y respaldan que la activación registrada no tuvo lugar. Se solicita excluir esta 
+activación de las asociadas a SSCC. 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+ 
+ 
+ 
+Gustavo Ossa H. 
+Encargado titular.  
+Enlasa Generación Chile S.A. 

@@ -1,0 +1,129 @@
+Santiago, 02 de septiembre de 2025. 
+ACC.ECH.096.25 
+Señor: 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANT [1]: 
+: Carta DE01716-25. Actualiza plan de trabajo 
+del proyecto de envío de registros para la 
+evaluación del Control Primario de Frecuencia 
+de las centrales de Acciona Energía Chile 
+Holdings. 
+ 
+De mi consideración: 
+ 
+En relación con lo informado mediante ANT [1], mediante la cual mi representada Acciona Energía Chile 
+Holdings S.A. (en adelante, “Acciona”) presenta a usted el plan de trabajo asociado al proyecto de “Envío 
+Automatizado de Registros de Potencia/Frecuencia para Evaluación del Desempeño de Control Primario 
+de Frecuencia al Coordinador Eléctrico Nacional”, en cumplimiento de los requisitos establecidos por el 
+Coordinador Eléctrico Nacional (en adelante, “Coordinador”), queremos informar el avance y actualizar 
+el cronograma de actividades que conlleven al término del proyecto. 
+ 
+En relación con lo indicado en párrafo anterior, se adjunta a la presente carta una versión actualizada del 
+plan de trabajo, con una estimación de término para el 28 de noviembre del presente año. Destacamos 
+que el estado de avance actual, considerando todas las actividades detalladas en el plan de trabajo, se 
+estima en un 53%. 
+ 
+Si bien el proyecto considera la integración de todas las plantas de Acciona, se ha definido priorizar las 
+instalaciones que ya se encuentran validadas y prestando el servicio complementario de Control Primario 
+de Frecuencia (En adelante, “CPF”), es decir, PFV Almeyda, PFV Malgarida y PFV Usya. Por lo anterior, 
+se están concentrando los esfuerzos para completar dichas instalaciones antes de la fecha proyectada. 
+ 
+Considerando que las centrales de Acciona se encuentran actualmente prestando de manera regular el 
+servicio de CPF, se continuará utilizando los canales alternativos para el envío de registros, de modo que 
+el Coordinador pueda evaluar el desempeño de las instalaciones. 
+ 
+ 
+ 
+
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+Felipe Escobar Tapia 
+Encargado (S)  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO: Actualización del Plan de Trabajo 
+ 
+ 
+ 
+Comentarios: 
+• 
+El proyecto contempla a todas las instalaciones de Acciona (7 instalaciones en total), tanto que se encuentran validadas como las que están en 
+proceso de validación. 
+• 
+La fecha final de finalización del proyecto es el 28 de noviembre de 2025, la cual representaría el limite máximo ya que Acciona realizará todos los 
+esfuerzos para adelantar la fecha, o en el peor caso, terminar en la fecha indicada. 
+ 
+1
+8
+15
+22
+6
+13
+20
+27
+3
+10
+17
+24
+1
+Evaluación de los requerimiento
+2
+Revisión de equipamiento disponible
+3
+Revisión de antecedentes preliminares
+4
+Elaboración de la especificación técnica
+5
+Tiempo de revisión del desarrollo propuesto
+6
+Proceso de licitación y compra
+7
+Integración de señales
+8
+Ejecución automática de extracción de data
+9
+Ejecución automática de almacenamiento
+10
+Ejecución automática de envío
+11
+Pruebas internas
+12
+Validación del desarrollo
+13
+Puesta en Servicio
+Puesta en Servicio
+Finalizado
+Finalizado
+Finalizado
+Finalizado
+Finalizado
+Finalizado
+Completado un 95%
+NOVIEMBRE
+Prefactibilidad Técnica
+Factibilidad Técnica
+Ejecución del desarrollo
+SEPTIEMBRE
+OCTUBRE
+N°
+Actividades

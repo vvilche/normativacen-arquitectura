@@ -1,0 +1,135 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 11 de febrero 2026 
+DE 00851-26 
+Señores 
+Gerentes Generales 
+Empresas Coordinadas 
+(Según Listado de Distribución) 
+Presente 
+ 
+Ref.: 
+DE03539-25 
+y 
+DE05086-24: 
+Traslado 
+de 
+servicios de Data Center de Telefónica al Data 
+Center del Coordinador. 
+  
+ 
+ 
+De mi consideración: 
+En relación con las cartas de referencia DE05086-24, de fecha 4 de octubre de 2024, y 
+DE03539-25, de fecha 17 de junio de 2025, mediante las cuales se informó el proceso de 
+traslado de los servicios PRMTE, WAMS, SLRP y SITR, desde el Data Center ubicado en 
+Avenida Apoquindo N°7071, comuna de Las Condes, perteneciente a la empresa 
+Telefónica, al Data Center del Coordinador, ubicado en Parque Isidora Sur N°1061, comuna 
+de Pudahuel, se recuerda que en dichas comunicaciones se estableció la necesidad de 
+completar el traslado para el 22 de septiembre de 2025. 
+ 
+Considerando que, a la fecha de la presente comunicación, su representada no ha dado 
+cumplimiento al traslado de los servicios dentro del plazo máximo instruido, se reitera que 
+las instalaciones del Data Center de Telefónica ubicado en Apoquindo cesarán 
+definitivamente su operación, por lo que los servicios de aquellos Coordinados que no 
+hayan sido debidamente migrados al Data Center del Coordinador dejarán de contar con 
+soporte técnico y continuidad operativa, manteniéndose dicha condición hasta que el 
+traslado sea efectivamente completado. 
+ 
+Al respecto, se hace presente que la infraestructura de comunicaciones y plataformas del 
+Coordinador se encuentra plenamente operativa y habilitada para recibir los servicios de 
+las empresas coordinadas. Asimismo, las empresas de telecomunicaciones Telefónica, 
+Entel, Claro y GTD mantienen servicios activos y operativos en el Data Center del 
+Coordinador en Enea, contando con las capacidades necesarias para soportar el traslado 
+de los servicios de PRMTE, WAMS, SLRP y SITR. 
+ 
+En este contexto, se reitera lo instruido a su representada en cuanto a realizar el trasladado 
+efectivo de sus servicios de PRMTE, WAMS, SLRP y SITR al Data Center del Coordinador 
+en Enea, a más tardar el día 31 de marzo de 2026. Para ello, su representada deberá tomar 
+contacto con su respectivo operador telefónico a fin de gestionar el traslado del enlace de 
+comunicaciones, y realizar las coordinaciones con el equipo del Coordinador según se 
+indica en Anexo. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+El Coordinador continuará disponible, a través de sus equipos técnicos, para apoyar y 
+coordinar las actividades necesarias dentro del marco y plazos informados. Cualquier 
+consulta puede ser dirigida a la casilla tec.scada@coordinador.cl.  
+ 
+Agradecemos dar la máxima prioridad a estas acciones, con el fin de resguardar la 
+continuidad operativa de los sistemas señalados, necesarios para el debido respaldo del 
+monitoreo del sistema eléctrico.  
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ACT/agc 
+Incluye lo indicado: Anexo y Lista de Distribución (planilla Excel) 
+c.c.:  Encargados Titulares - Según Listado de Distribución. 
+ 
+Encargados Empresas Coordinadas 
+           Sr. Rodrigo Espinoza V. – Gerente de Operación. 
+           Sr. Octavio Donoso A.- Gerente de Tecnología y Sistemas. 
+           Sr. Rodrigo Barbagelata S. – Director Unidad de Regulación. 
+           Sr. Diego Perales R. – Director Unidad Legal.   
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ANEXO Carta DE 00851-26 
+ 
+Etapas a cumplir por cada empresa coordinada para concretar la migración de los 
+servicios PRMTE, WAMS, SLRP y SITR 
+ 
+Para llevar a cabo la migración de los servicios PRMTE, WAMS, SLRP y SITR, a 
+continuación, se indican las etapas a cumplir por cada empresa coordinada: 
+  
+• Etapa 1: Cada empresa Coordinada debe gestionar con la empresa de 
+telecomunicaciones de su preferencia (Telefónica, Grupo GTD, Entel o Claro), la 
+habilitación de a lo menos dos (2) nuevas VRF (Virtual Routing and Forwarding), una de 
+ellas correspondiente al servicio SITR y la segunda agrupando los servicios de WAMS, 
+SLRP y PRMTE.  
+ 
+Está permitida la utilización de más de dos (2) VRF en caso de que un coordinado 
+determine separar sus servicios en VRF distintas para el cumplimiento normativo. La 
+modalidad de configuración de enlaces de comunicación no requiere implementación de 
+equipamiento por cada Coordinado, sino que se continuará con equipos de 
+comunicación por cada empresa de telecomunicaciones (Troncales de comunicación).  
+ 
+Cabe aclarar que las VRF que actualmente se comunican con el Data Center de 
+Telefónica en Apoquindo no deben ser dadas de bajas, hasta que se informe vía carta 
+de la finalización de los trabajos de migración y se confirme por parte del equipo de 
+especialistas del Coordinador.  
+ 
+Cada coordinado debe informar la empresa de telecomunicaciones que contratará para 
+estas nuevas VRF al siguiente correo electrónico tec.scada@coordinador.cl con el 
+asunto: “Solicitud de direccionamiento IP Data Center Enea” e indicar dentro del correo 
+a qué plataformas se conectará el Coordinado ya sea SITR, WAMS, SLRP y/o PRMTE.  
+ 
+El Coordinador, una vez recibida la información del proveedor de comunicaciones, 
+enviará un correo con el segmento asignado a cada servicio requerido para la correcta 
+configuración de la empresa de telecomunicaciones.  
+ 
+• Etapa 2: Pruebas de comunicación, cada empresa coordinada deberá realizar la 
+solicitud de fecha de pruebas de los enlaces y servicios, a través de la casilla 
+tec.scada@coordinador.cl. Las pruebas serán asignadas de acuerdo con disponibilidad, 
+una vez finalizadas estas pruebas, serán informadas vía correo electrónico dando la 
+aceptación del servicio. 
+ 
+• Etapa 3: Baja servicios de comunicaciones y de Housing en Data Center de Apoquindo 
+7071.  
+ 

@@ -1,0 +1,91 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 13 de mayo de 2025 
+DE 02805-25 
+Señor 
+Luis Nuñez H. 
+Encargado Titular  
+Copiapó Solar SpA  
+Presente 
+ 
+Ref.: Aprueba Protocolos para los Ensayos de 
+Verificación de Instalaciones para la prestación de los 
+Servicios Complementarios (SSCC) de Control de 
+Frecuencia y Control de Tensión del PFV Desierto de 
+Atacama y el BESS PFV Desierto de Atacama. 
+Responde a Ingresos DE04265-25 y DE04714-25. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en el 
+Artículo 8 del Anexo Técnico “Verificación de Instalaciones para la prestación de SSCC” de 
+la Norma Técnica de Servicios Complementarios (NTSSCC), se han revisado los 
+antecedentes entregados por su representada mediante las cartas de las Ref. [1] y [2]. 
+ 
+Al respecto, comunicamos a Ud. que este Coordinador, aprueba los Protocolos para los 
+Ensayos de Verificación de los Servicios Complementarios de Control Terciario de 
+Frecuencia (CTF) y Control de Tensión (CT) a prestar por la central PFV Desierto de 
+Atacama y de Control Primario de Frecuencia (CPF), Control Terciario de Frecuencia (CTF) 
+y Control de Tensión (CT) del BESS PFV Desierto de Atacama. 
+ 
+Considerando lo indicado, y con la finalidad de continuar con el proceso de Verificación de 
+los Servicios Complementarios, solicito a usted lo siguiente: 
+• 
+Informar a más tardar el 28 de mayo de 2025, la fecha de realización de los ensayos. 
+• 
+Informar las curvas de carga asociadas a las pruebas según carta de la Ref. [3], 
+ingresándolas en la correspondiente solicitud de trabajo del sistema Neomante, con 
+estado operativo “PDO”. Adicionalmente, esta información, debe ser enviada con al 
+menos 5 días hábiles de antelación a la ejecución de las pruebas al correo 
+electrónico mencionado más abajo, indicando el N° de aviso de trabajo asociado al 
+sistema Neomante. 
+• 
+En conformidad con el capítulo 5 del “Instructivo Técnico para la Verificación de 
+Instalaciones para la prestación de SSCC”, enviar el Informe Técnico con los 
+resultados de la verificación, en un plazo máximo de 15 días hábiles contados desde 
+que finalizan los ensayos. 
+ 
+Los antecedentes requeridos deberán ser enviados por medio de carta y con copia al correo 
+verificacion.sscc@coordinador.cl, 
+cumpliendo 
+con 
+los 
+plazos 
+establecidos 
+precedentemente. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+PGR/adr 
+c.c. 
+Srta. Francisca Luna – Encargada Suplente Copiapó Solar SpA 
+ 
+Referencias 
+[1] Carta COM-1612-25 del coordinado Copiapó Solar SpA, Ref.: “Respuesta a 
+observaciones a los Protocolos de Verificación de Control de Tensión y Control Terciario de 
+Frecuencia de la Central PFV Desierto de Atacama DE 01819-25”, de fecha 28 de abril de 
+2025. Ingreso DE04265-25. 
+[2] Carta COM-1614-25 del coordinado Copiapó Solar SpA, Ref.: “Responde Observaciones 
+a Protocolos de Verificación de Control Terciario de Frecuencia y Control de Tensión del 
+BESS PFV Desierto de Atacama - Carta DE02081-25”, de fecha 12 de mayo de 2025. 
+Ingreso DE04714-25. 
+[3] Carta DE05925-24, Ref.: “Modificación al ingreso de solicitudes de pruebas de centrales 
+generadoras en plataforma Neomante”, de fecha 11 de noviembre de 2024. 

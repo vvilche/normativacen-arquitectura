@@ -1,0 +1,358 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl
+Santiago, 27 de enero de 2026 
+DE 00551-26 
+Señor 
+Juan Muñoz 
+Encargado Titular 
+Engie Energía Chile S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario de Frecuencia y Control Terciario de 
+Frecuencia del Ciclo Combinado TER Tocopilla U16. 
+Responde a Ingreso: DE12128-25. 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los Servicios Complementarios 
+(SSCC) de Control Primario de Frecuencia (CPF) y Control Terciario de Frecuencia (CTF) 
+del Ciclo Combinado y Ciclo Abierto de TER Tocopilla U16, en las configuraciones que se 
+presentan en Anexo de la presente carta. 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios complementarios a partir de las 00:00 del 29 de enero de 
+2026, considerando los recursos indicados en el anexo de la presente carta.  
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF y CTF de la unidad U16 de Central TER Tocopilla operando en Ciclo 
+Cerrado (GNL y Diésel) y Ciclo Abierto (GNL), se encuentran publicados en la siguiente ruta 
+de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia: 
+1. > Control Primario de Frecuencia > Central TER Tocopilla
+2. > Control Terciario de Frecuencia > Central TER Tocopilla
+Finalmente, la unidad U16 de central TER Tocopilla podrá participar de las subastas de 
+Control de Frecuencia una vez que complete el proceso de solicitud de incorporación a la 
+plataforma de subastas. Para ello, su representada deberá presentar los antecedentes 
+indicados en las Bases Administrativas de Subastas para Control de Frecuencia, que se 
+
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl
+encuentran publicadas en la siguiente ruta de la página web del Coordinador Eléctrico 
+Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+Sin perjuicio de lo anterior, la unidad mencionada podrá ser instruida de manera directa por 
+el Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC. 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse al correo electrónico programacion@coordinador.cl. 
+Sin otro particular, saluda atentamente a Ud., 
+Rodrigo Espinoza V.     
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+CRV/WJS/ycl 
+c.c.:
+Sr. Felipe Fleming – Encargado Suplente Engie Energía Chile S.A.
+Referencias: 
+[1] Carta ENGIE N°356/2025 de Engie Energía Chile S.A., Ref.: “Envío de informes de
+pruebas de verificación de SSCC de la U16”, de fecha 03 de diciembre de 2025. Ingreso:
+DE12128-25.
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la unidad U16 de 
+Central TER Tocopilla 
+1. 
+Identificación de las Instalaciones Verificadas: 
+A continuación, se presentan los parámetros operacionales que, a la fecha de emisión de 
+esta carta de verificación de SSCC, se encuentran aprobados por el Coordinador Eléctrico. 
+a) TER Tocopilla U16, CC con GNL: 
+• 
+Potencia máxima bruta 399,413 [MW] (aprobado en carta DE04598-25) 
+• 
+Potencia máxima neta 393,570 [MW] (aprobado en carta DE04598-25) 
+• 
+Potencia mínima con CPF 145 [MW] (aprobado en carta DE08331-25) 
+• 
+Potencia mínima bruta ambiental 130 [MW] (aprobado en carta DE08331-25) 
+b) TER Tocopilla U16, CA con GNL: 
+• 
+Potencia máxima bruta 262,083 [MW] (aprobado en carta DE04598-25) 
+• 
+Potencia máxima neta 256,469 [MW] (aprobado en carta DE04598-25) 
+• 
+Potencia mínima con CPF 64 [MW] (aprobado en carta DE03951-18) 
+• 
+Potencia mínima bruta ambiental 50 [MW] (aprobado en carta DE03951-18) 
+c) TER Tocopilla U16, CC con Diésel: 
+• 
+Potencia máxima bruta 332,410 [MW] (aprobado en carta DE01771-21) 
+• 
+Potencia máxima neta 325,680 [MW] (aprobado en carta DE01771-21) 
+• 
+Potencia mínima con CPF 159 [MW] (aprobado en carta DE04203-21) 
+• 
+Potencia mínima bruta ambiental 145 [MW] (aprobado en carta DE04203-21) 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia 
+(CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Los ensayos de CPF y CTF fueron realizados con Gas Natural. Sin embargo, Engie Energía 
+Chile S.A. solicitó la homologación de los resultados al combustible diésel. Para ello, el 
+Coordinado en conjunto con el experto técnico enviaron un informe técnico cuyo objetivo 
+fue demostrar que la respuesta de la unidad operando con diésel es equivalente al obtenido 
+operando con GNL. Dicha solicitud fue aprobada por el Coordinador Eléctrico mediante la 
+carta DE05306-22. En consecuencia, los resultados obtenidos con Gas Natural son 
+homologables al combustible diésel. 
+a) Control Primario de Frecuencia: 
+• 
+Unidad con rango de ajuste de estatismo (R) del 4% al 8%. 
+• 
+El estatismo puede ser ajustado directamente desde el sistema SCADA de la 
+central. 
+• 
+El estatismo (R) de la central se encuentra ajustado en 5,3%, considerando como 
+potencia base la potencia máxima bruta del ciclo abierto (CA) de 262,08 [MW]. La 
+turbina a gas es la encargada de realizar CPF, mientras que la turbina a vapor ajusta 
+su operación en función del comportamiento de la turbina a gas. 
+b) Control Terciario de Frecuencia 
+• 
+El rango de ajuste de las tasas de toma de carga de subida y bajada está fijo en 
+11,5 MW/min, sin posibilidad de poder ser ajustado con la unidad en servicio. Lo 
+anterior es aplicable tanto al Ciclo Combinado (CC) como al Ciclo Abierto (CA). 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Engie Energía Chile 
+S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver tablas en páginas siguientes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+a) Control Primario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+Central TER Tocopilla, unidad U16 
+Recurso Primario 
+GNL/Diésel 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+ 
+CC U16 
+CA U16 
+Características del Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+4-8% 
+4-8% 
+Estatismo 
+5,3% 
+5,3% 
+Rango de ajuste Banda muerta [mHz] 
+25 
+25 
+Banda muerta [mHz] (1) 
+25 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+<1 
+Límite de regulación superior [MW] (2) 
+399,57/332,410 
+(GNL/Diésel) 
+262,083 
+(GNL) 
+Límite de regulación inferior [MW] (3) 
+145/159 
+(GNL/Diésel) 
+64 
+(GNL) 
+Aportes (4) (5) 
+BM = 25 [mHz] 
+R = 5,3% 
+10 segundos 
+Aporte +0,2[Hz] [MW] 
+-18,610 
+-17,670 
+Aporte -0,2[Hz] [MW] 
+19,810 
+21,330 
+Aporte +0,7[Hz] [MW] 
+-41,310 
+-40,990 
+Aporte -0,7[Hz] [MW]  
+47,340 
+43,870 
+5 minutos 
+Aporte +0,2[Hz] [MW] 
+-18,610 
+-18,770 
+Aporte -0,2[Hz] [MW] 
+16,970 
+16,200 
+Aporte +0,7[Hz] [MW] 
+-67,950 
+-67,590 
+Aporte -0,7[Hz] [MW]  
+66,770 
+65,410 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia máxima bruta aprobada por el Coordinador. 
+(3) Correspondiente a la Potencia mínima bruta con Control Primario de Frecuencia, en proceso de revisión por el 
+Coordinador. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz fueron determinados con una consigna de 320 [MW] para el Ciclo 
+Combinado y 145 [MW] para el Ciclo Abierto utilizando GNL. Sin perjuicio de lo anterior, la respuesta de la instalación 
+es homogénea en todo su rango de operación. 
+(5) Los aportes son independientes del combustible utilizado. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+b) Control Terciario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Instalación 
+Recurso  
+Primario 
+Parámetro 
+Valor determinado 
+CC U16 
+CA U16 
+Central  
+TER 
+Tocopilla, 
+unidad U16 
+GNL/Diésel 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+11,5 
+11,5 
+Bajada 
+11,5 
+11,5 
+Tasa máxima de 
+operación [MW/min] (1) 
+Subida 
+11,5 
+11,5 
+Bajada 
+11,5 
+11,5 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+<5 
+Bajada 
+<5 
+<5 
+Aporte CTF [MW] 
+Subida 
+115 
+115 
+Bajada 
+-115 
+-115 
+Límite de regulación superior [MW] (2) 
+399,57/332,410 
+(GNL/Diésel) 
+262,083 
+(GNL) 
+Límite de regulación inferior [MW] (2)(3) 
+130/145 
+(GNL/Diésel) 
+50 
+(GNL) 
+(1) Tasa de subida y bajada de carga se encuentra fija en 11,5 MW/min. 
+(2) Los límites de regulación, correspondientes a la potencia bruta, y el aporte máximo de CTF podrán verse modificados si 
+se actualizan los parámetros operacionales de la central. 
+(3) Correspondiente a la potencia mínima bruta ambiental. 
+ 

@@ -1,0 +1,98 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 14 de agosto de 2025 
+DE 04978-25 
+Señores  
+Encargados  
+Empresas Coordinadas    
+(Según lista de distribución)  
+Presente 
+ 
+Ref.: Solicita ajustar Potencia Base utilizada en 
+controlador de Frecuencia/Potencia. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y conforme a lo establecido en el Artículo 3-17 
+de la Norma Técnica de Seguridad y Calidad de Servicio (NTSyCS), que señala que el 
+ajuste específico que deben implementar las unidades generadoras, así como los parques 
+eólicos y fotovoltaicos para la prestación del Control Primario de Frecuencia, será 
+determinado por el Coordinador en atención a la seguridad y calidad del servicio, se solicita 
+a su representada ajustar la Potencia Base utilizada por el controlador de 
+Frecuencia/Potencia. Esta Potencia Base debe corresponder a la Potencia Máxima de la 
+instalación. 
+ 
+A partir de los resultados de los ensayos de verificación de SSCC y la validación de modelos 
+dinámicos, se ha observado que, en los parques indicados en el Anexo, el estatismo en 
+porcentaje se calcula utilizando como Potencia Base el menor valor entre la potencia 
+despachada y el recurso disponible, en lugar de emplear la potencia máxima de la central. 
+Esta configuración provoca que el aporte de potencia activa o la reserva sea menor en 
+condiciones de baja carga, en comparación con condiciones de alta carga, llegando incluso 
+a superar el 8% de estatismo estipulado en el Artículo 3-17 de la NTSyCS. 
+ 
+El ajuste actual del controlador de Frecuencia/Potencia de las centrales mencionadas 
+genera un aporte no uniforme a lo largo de todo el rango operativo del parque. Por lo tanto, 
+se solicita modificar dicho ajuste de manera que el aporte de potencia activa ante 
+desviaciones de frecuencia de igual magnitud sea uniforme en todo el rango de operación 
+de la central, lo que contribuye a una operación del sistema segura al reflejar 
+adecuadamente las reservas disponibles. 
+ 
+El ajuste solicitado deberá implementarse a más tardar el 5 de septiembre y deberá ser 
+notificado mediante correo electrónico a la casilla verificacion.sscc@coordinador.cl, 
+adjuntando una minuta técnica que demuestre que la instalación presenta un 
+comportamiento y aporte de potencia activa uniforme en todo su rango de operación. Para 
+estos efectos, se podrán utilizar registros de operación real de la instalación. El ajuste 
+correspondiente deberá ser debidamente registrado como una solicitud de trabajo 
+programado en la plataforma Neomante. 
+ 
+Finalmente, sus centrales cada vez que sean adjudicadas en las subastas de CPF o 
+instruidas para la prestación de CPF deben cumplir con los requerimientos de ajuste de 
+estatismo menor a 8% (potencia base igual a la potencia máxima de la central), banda 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+muerta menor a 25 mHz, respuesta menor a 2 segundos y los tiempos de establecimiento 
+en conformidad al Artículo 3-17 de la NTSyCS.   
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/DIR/adr 
+ 
+Lista de Distribución: 
+• 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+• 
+ENGIE ENERGÍA CHILE S.A. 
+• 
+COLBÚN S.A. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo 
+ 
+COORDINADO 
+CENTRAL 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+PFV ALMEYDA 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+PFV USYA 
+ACCIONA ENERGÍA CHILE HOLDINGS S.A. 
+PFV MALGARIDA 
+ENGIE ENERGÍA CHILE S.A. 
+PE CALAMA 
+COLBÚN S.A. 
+PFV DIEGO DE ALMAGRO SUR 
+ 

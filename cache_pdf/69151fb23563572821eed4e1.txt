@@ -1,0 +1,56 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+Santiago, 12 de noviembre de 2025 
+ 
+    
+DE 07246-25 
+Señor 
+Luis Fredes 
+Encargado Titular  
+Inversiones Fotovoltaicas SpA 
+Presente 
+Ref.: Solicitud de cronograma de trabajo por 
+limitación de generación de potencia reactiva 
+de la central PFV Willka. 
+[1] Carta IIFF-SSCC-005-25 de Inversiones 
+Fotovoltaicas SpA, “Respuesta observaciones 
+informe SSCC”, de fecha 15 de octubre de 
+2025.  
+Responde a Ingreso DE10585-25 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y considerando el Informe de Verificación de 
+Control de Tensión (CT) recibido mediante carta de la Ref. [1], y conforme a lo establecido 
+en el artículo 15 del Anexo Técnico: Verificación de Instalaciones para la prestación de 
+SSCC, se solicita a su representada lo siguiente: 
+a) Enviar un plan de trabajo que considere las acciones necesarias para modificar los 
+ajustes del controlador del PFV, con el fin de levantar la limitación actual (+/- 32 MVAr) 
+y pueda entregar el máximo aporte de potencia reactiva en su punto de conexión y 
+acorde a su diseño. El plan de trabajo deberá considerar una ejecución en un plazo no 
+superior a 3 meses.  
+b) Una vez que su representada implemente las acciones asociadas al plan requerido en 
+literal a), ejecutar los ensayos de la curva P-Q teórico-máxima del PFV, conforme a la 
+Guía de Verificación de Control de Tensión, enviando el respectivo Informe de 
+Verificación en un plazo no superior a 15 días hábiles.  
+ 
+La información solicitada en el literal a) deberá ser enviada por carta y con copia al correo 
+electrónico verificación.sscc@coordinador.cl, en un plazo de 10 días hábiles. 
+ 
+Cualquier consulta podrá ser dirigida al mismo correo electrónico señalado previamente.  
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+                                                         Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+PGR/adr 
+c.c.:  
+Sr. Cristian Villalon – Encargado Suplente Inversiones Fotovoltaicas SpA. 

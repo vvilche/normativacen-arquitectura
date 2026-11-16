@@ -1,0 +1,56 @@
+ 
+Requínoa, 27 de junio de 2025 
+ 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ 
+Ref.: Desempeño del Esquema de 
+Desconexión Automático de Carga 
+(EDAC) 
+por 
+Subfrecuencia 
+y 
+Contingencia Extrema, asociados a 
+los eventos de falla ocurridos en 
+febrero de 2025 (EAF 062-2025, EAF 
+072-2025 y EAF 089-2025). 
+ 
+ 
+En relación con la carta DE 03748-25, de fecha 19 de junio de 2025, que presenta la evaluación 
+final realizada por el Coordinador asociada al Desempeño del Esquema de Desconexión 
+Automático de Carga (EDAC) por Subfrecuencia y Contingencia Extrema, vinculada a los 
+eventos de falla ocurridos en febrero de 2025 y, en particular, al EAF 089-2025, señalamos lo 
+siguiente: 
+1. Respecto al desempeño EDAC-BF: Este Coordinador envió los antecedentes y 
+respaldos mediante la carta N° DE02703-25, de fecha 25 de marzo de 2025, en la que 
+indica que, de acuerdo con lo aprobado por el Coordinador, Minera Valle Central no 
+aporta desprendimiento de carga en el escalón N° 4 del EDAC-BF. 
+ 
+2. Respecto al desempeño EDAC-CE: Este Coordinador envió los antecedentes y 
+respaldos mediante la carta N° 02702-25, de fecha 25 de marzo de 2025, en la cual se 
+señala que el relé EDAC-CE no actuó debido a la ausencia de las condiciones de 
+gradiente y frecuencia requeridas para su operación, por lo que no se produjo 
+desprendimiento de carga. 
+ 
+ 
+
+ 
+Del análisis presentado por el Coordinador se advierte que dichos antecedentes no fueron 
+considerados, puesto que para el escalón 4 del EDAC-BF y el escalón 2 del EDAC-CE se 
+catalogan como “antecedentes insuficientes”. 
+ 
+Figura 1.Extracto de la planilla EDAC_Febrero-2025-SEN-final 
+Agradeceremos que se tomen en cuenta los antecedentes previamente presentados por este 
+Coordinado en todos los análisis pertinentes a este EAF. 
+Quedamos a su disposición para cualquier información o aclaración adicional que requiera. 
+ 
+Saluda atentamente a usted, 
+ 
+ 
+Marcos Orellana Núñez 
+Encargado Suplente 
+Minera Valle Central 

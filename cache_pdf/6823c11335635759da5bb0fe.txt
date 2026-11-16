@@ -1,0 +1,128 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 13 de mayo de 2025 
+ 
+    
+DE 02802-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación Mínimo Técnico de la 
+Central PFV Taira. 
+Responde a Ingreso DE04451-25. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PFV Taira, en conformidad con el Informe 
+Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+indicado publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador emitió observaciones de carácter técnico al informe 
+mencionado, mediante comunicaciones de las Ref. [3] y [4], las que derivaron en la versión 
+final recibida mediante Ref. [1]. 
+ 
+Conforme a lo anterior, los parámetros de Mínimo Técnico de la Central PFV Taira se 
+presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Mínimo Técnico del Parque Fotovoltaico Taira 
+Central/Unidad 
+Mínimo 
+Técnico Bruto 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en 
+la central(1) 
+[MW] 
+Mínimo 
+Técnico Neto(2) 
+[MW] 
+PFV Taira (planta completa) (3) 
+7,0478 
+0,5122 
+0,3240 
+6,2116 
+PFV Taira (inversor individual) (4) 
+0,3669 
+0,0725 
+0,2944 
+0,0000 
+ 
+(1) Las pérdidas corresponden a la suma de las pérdidas en la red interna (sistema colector) y las de los 
+transformadores de poder. En el caso de la planta completa son 0,2046 MW y 0,1194 MW respectivamente, 
+y en el caso de la prueba con un inversor en operación y el resto en pausa manual, son de 0,1880 MW y 
+0,1064 MW, respectivamente. 
+(2) Inyectada en la barra de 220 kV de S/E Taira. 
+(3) El Coordinado ha mostrado en su informe técnico que al ingresar una consigna menor de potencia activa 
+al PPC se genera la pausa de todos los inversores de la central, absorbiendo energía de la red para 
+alimentar los SS.AA. de la central. 
+(4) El Mínimo Técnico con un inversor se consigue en forma manual, siendo el operador de la planta quién 
+debe dar la orden de detención a los inversores desde el sistema de control local de cada inversor. Cabe 
+aclarar que el PPC de la central no tiene actualmente la capacidad de enviar un comando menor a 6 MW 
+en el POI y lograr el pausado controlado de los inversores. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+En cumplimiento del Artículo 12 del Anexo Técnico antes mencionado, el valor de Mínimo 
+Técnico de Central PFV Taira entrará en vigencia a partir de las 00:00 horas del 15 de 
+mayo de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Mínimo Técnico > Informes de Mínimos Técnicos Unidades 
+Generadoras > PFV Taira 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PPF/CRV/adr 
+c.c.:  
+Sr. Luis Fredes – Encargado Titular Planta Solar Tocopilla SpA  
+DAA, DAEP, DIT, DPRO, DTE-SSCC, DTPT, DCONEC, DCO, SGESO, SGTM 
+ 
+Referencias: 
+ 
+[1] Carta TOC-E-006-25, Ref.: “NUP 1042 PFV Taira | Informa Entrega de Informe de 
+Mínimo Técnico V3”, de fecha 11 de marzo de 2025. Ingreso DE01805-25. 
+ 
+[2] Carta DE00288-25, Ref.: “[NUP 1042] Informes Técnicos de Parámetros Operacionales 
+del PFV Taira, de PS Tocopilla SpA”, de fecha 15 de enero de 2025. 
+ 
+[3] Carta DE01210-25, Ref.: “Observaciones a Informes de Parámetros Operacionales del 
+Parque Fotovoltaico Taira, de Planta Solar Tocopilla SpA”, de fecha 25 de febrero de 2025. 
+ 
+ 
+[4] Carta DE02296-25, Ref.: “Observaciones Adicionales a Informe de Mínimo Técnico del 
+Parque Fotovoltaico Taira”, de fecha 15 de abril de 2025. 
+ 
+ 
+ 
+ 
+ 
+ 

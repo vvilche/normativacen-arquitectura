@@ -1,0 +1,254 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 04 de noviembre de 2025 
+DE 07092-25 
+Señora 
+Verónica Bustos 
+Encargada Titular 
+Empresa Eléctrica Diego de Almagro SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Terciario de 
+Frecuencia de las unidades 1 y 2 de Central TER 
+Emelda. 
+[1] Carta PE-2023-001 de Empresa Eléctrica Diego de 
+Almagro SpA, Ref.: “Solicitud revisión de Informes de 
+Verificación de Servicios Complementarios”, de fecha 
+28 de febrero de 2023.  
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado 
+el proceso de verificación del Servicio Complementario (SC) de Control Terciario de 
+Frecuencia (CTF) de las unidades 1 y 2 de Central TER Emelda. 
+ 
+Como resultado de este proceso, la central mencionada quedará habilitada para la 
+prestación del mencionado servicio a partir de las 00:00 del 06 de noviembre de 2025, 
+considerando los recursos indicados en anexo de la presente carta.  
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NT-SSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CTF de las unidades 1 y 2 de Central TER Emelda se ha publicado en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central TER Emelda 
+ 
+Finalmente, las unidades 1 y 2 de Central TER Emelda podrá participar de las subastas de 
+CTF una vez que complete el proceso de solicitud de incorporación a la plataforma de 
+subastas. Para ello, su representada deberá presentar los antecedentes indicados en las 
+Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Sin perjuicio de lo anterior, las unidades en asunto podrán ser instruidas de manera directa 
+por el Coordinador Eléctrico Nacional en la prestación del Control Terciario de Frecuencia. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DIR/PGR/adr 
+c.c.:  
+Sr. Cristian Sanhueza – Encargado Suplente Empresa Eléctrica Diego de Almagro SpA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central  
+TER Emelda 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Emelda 
+• 
+Unidad 1 
+- Potencia máxima bruta: 37,688 [MW] 
+- Potencia máxima neta: 36,788 [MW] 
+- Potencia mínima bruta: 2,0 [MW] 
+- Potencia mínima neta1: 1,98 [MW] 
+• 
+Unidad 2 
+- Potencia máxima bruta: 35,426 [MW] 
+- Potencia máxima neta: 34,722 [MW] 
+- Potencia mínima bruta: 2,0 [MW] 
+- Potencia mínima neta1: 1,96 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de 
+SSCC 
+Subcategoría de SSCC 
+Unidades 
+Control de 
+Frecuencia 
+Control Terciario 
+de Frecuencia  
+Control Terciario de Frecuencia 
+por Subfrecuencia (CTF+) 
+TER Emelda U1 
+TER Emelda U2 
+Control Terciario de Frecuencia 
+por Sobrefrecuencia (CTF-) 
+TER Emelda U1 
+TER Emelda U2 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia: 
+• 
+El gradiente de carga es único y el operador carece de la posibilidad de modificarlo. 
+• 
+El tiempo de activación de CTF depende del tiempo que se demora el operador en 
+consignar el nuevo valor de referencia de potencia, debiendo activarse en menos 
+de 5 min de acuerdo con las definiciones del SC. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Empresa Eléctrica 
+Diego de Almagro SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente. 
+ 
+1 Para la estimación del valor de la potencia mínima neta se consideran los consumos propios de las unidades de la 
+central TER Emelda de 0,774% para la Unidad 1 y de 1,98% para la Unidad 2, respectivamente, valores obtenidos 
+desde la plataforma InfoTécnica del Coordinador. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Combustible 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+TER Emelda 
+Diésel 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+27,0 
+27,0 
+ 
+Bajada 
+26,5 
+27,5 
+ 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+27,0 
+27,0 
+ 
+Bajada 
+26,5 
+27,5 
+ 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+<5 
+ 
+Bajada 
+<5 
+<5 
+ 
+Aporte CTF [MW] (2) 
+Subida 
+34,808 
+32,762 
+ 
+Bajada 
+-34,808 
+-32,762 
+ 
+Límite de regulación superior [MW] (3) 
+37,688 
+35,426 
+ 
+Límite de regulación inferior [MW] (3) 
+2,00 
+2,00 
+ 
+(1) Tasa de subida y bajada de carga máxima es fija. 
+ 
+(2) La reserva se determina como la diferencia entre las potencias netas máxima y mínima de la central correspondientes 
+a 36,78 [MW] y 1,98 [MW] para la unidad 1, y de 34,72 [MW] y 1,96 [MW] para la unidad 2. 
+ 
+(3) Los límites de regulación, correspondientes a la potencia bruta, y el aporte máximo de CTF podrán verse modificados 
+si se actualizan los parámetros operacionales de la central. 
+ 
+ 
+ 
+ 

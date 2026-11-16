@@ -1,0 +1,197 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 23 de diciembre de 2025 
+DE 08187-25 
+Señor 
+Felipe Valdés A. 
+Encargado Titular 
+Guacolda Energía SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+SC de Partida Autónoma (PA) de las unidades U3, 
+U4 y U5 de Central TER Huasco. 
+[1] Carta 0109-2025 del coordinado Guacolda 
+Energía SpA, Ref.: “Actualización del Informe 
+Técnico de verificación de Partida Autónoma (PA) 
+de unidades de central Huasco TG”, de fecha 16 
+septiembre de 2025. 
+Responde a Ingreso: DE09598-25. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT SSCC), ha finalizado 
+el proceso de verificación de los SSCC de Partida Autónoma (PA) de las unidades U3, U4 
+y U5 de Central TER Huasco. Como resultado de este proceso, las unidades mencionadas 
+quedan habilitadas para la prestación del mencionado servicio considerando los recursos 
+indicados en el anexo a la presente carta. 
+ 
+El informe técnico que justifica la verificación de la capacidad de la prestación del Servicio 
+Complementario de PA de las unidades mencionadas, ha sido publicado en la siguiente 
+ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Plan de 
+Recuperación de Servicio > Partida Autónoma > Central TER Huasco 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                                
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+c.c.: 
+ 
+Empresas Coordinadas 
+Sergio Pizarro – Encargado Suplente Guacolda Energía SpA. 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de las unidades U3, 
+U4 y U5 de Central TER Huasco 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Huasco 
+• Unidad U3 
+• Unidad U4 
+• Unidad U5 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Plan de Recuperación 
+de Servicio (PRS) 
+Partida Autónoma 
+(PA) 
+Partida Autónoma (PA) 
+3. Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Tiempos de autonomía sujetos a la disponibilidad del recurso primario (Diésel), el 
+cual proviene de un oleoducto por lo cual el tiempo de autonomía está asociado a la 
+disponibilidad del suministro. En caso de corte de suministro de diésel la unidad no 
+estará disponible. 
+b) Cuando las unidades operan en vacío, estas pueden permanecer por tiempo 
+ilimitado en velocidad de sincronismo sin tomar carga. 
+c) La unidad Hitachi “CT Huasco”, no puede operar en cargas menores al MT 
+establecido. Primer escalón de carga corresponde a su mínimo técnico (2 MW), 
+d) No existe un control de frecuencia, y tensión específica para trabajar en modo isla o 
+modo isócrono. La unidad utiliza un control de carga/velocidad. La toma de 
+carga/frecuencia se realiza de forma manual desde el “regulador de carga”. De igual 
+forma, la regulación de tensión/reactivos se realiza desde “ajuste tensión”. 
+e) Las unidades poseen banco de baterías, para arrancar su motor de combustión 
+interna quien pone en movimiento la turbina, además, dichas baterías entregan la 
+energía para el funcionamiento de las bombas de combustible/lubricante y la tensión 
+para el sistema de control de la unidad. Lo que independiza a cada unidad para su 
+partida. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Guacolda Energía 
+SpA 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Partida Autónoma: 
+ 
+SSCC 
+Plan de Recuperación de Servicio 
+Categoría 
+Partida autónoma 
+Subcategoría 
+Partida autónoma 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+U3 
+TER Huasco 
+Diésel 
+Potencia Máxima [MW] 
+21,41 
+21,41 
+21,41 
+Tiempo de Sincronización 
+[min] (1) 
+7,002 
+7,03 
+7,18 
+Tasa de Toma de Carga 
+[MW/min] 
+20,3 
+34,8 
+47,5 
+Tiempo de Autonomía [hr] 
+(2) 
+ver literal a) 
+ver literal a) 
+ver literal a) 
+Modo de Control 
+Carga/ 
+velocidad 
+Carga/ 
+velocidad 
+Carga/ 
+velocidad 
+Requiere Equipamiento 
+Adicional (3) 
+No 
+No 
+No 
+Primer Escalón de carga 
+[MW] (4) 
+2 
+2 
+2 
+Tiempo nuevo arranque 
+en caso de desconexión 
+intempestiva [min] (5) 
+36 
+36 
+36 
+Tiempo permanencia en 
+vacío (6) 
+20 
+20 
+20 
+(1) Tiempo asociado a la partida de unidades generadoras que prestan el SSCC de PA, correspondiente al intervalo que 
+transcurre desde que se solicita hasta el cierre contra barra muerta de la central. Este tiempo incluye las maniobras 
+previas de revisión y verificación. Lo anterior, considerando que las unidades se encuentren disponibles, es decir no 
+considera tiempos para validar integridad de instalaciones luego de un siniestro provocado por: terremoto, tsunami, 
+aluvión, crecida, incendio, entre otros. 
+(2) Tiempo de autonomía sujeto a disponibilidad de recurso primario (Diésel). 
+(3) Cuenta con grupo de baterías de arranque. 
+(4) Condiciones particulares para la recuperación del primer escalón, corresponde a MT de la unidad. Valores informados 
+en carta DE09728-2. 
+(5) Tiempo necesario para reiniciar la partida, después de una desconexión de la unidad. 
+(6) Tiempo máximo de permanencia en giro en vacío (sin carga) sin restricción (no tiene tiempo límite). 
+ 
+ 

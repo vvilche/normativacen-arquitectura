@@ -1,0 +1,242 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+ 
+Santiago, 09 de septiembre de 2025 
+DE 05664-25 
+ 
+Señores 
+Encargados 
+EMPRESAS COORDINADAS 
+(según lista de distribución) 
+Presente 
+ 
+ 
+Ref.: Ampliación plazo de respuesta y Planilla 
+Excel actualizada para llenar Ajustes VRT, 
+FRT, Tensión y Frecuencia de las plantas 
+PMGD ERV. 
+[1] Cartas DE05203-25, DE05204-25, DE05205-
+25, Ref.: “Ajustes VRT, FRT, Tensión y 
+Frecuencia de las plantas PMGD ERV”, del 22 
+de agosto de 2025. 
+[2] Carta 
+DE02420-25, 
+Ref.: 
+“Requiere 
+información respecto de ajustes en las 
+protecciones de las plantas PMGD ERV” del 
+5 de mayo de 2025. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la información solicitada mediante las cartas de la Ref. [1] y [2], referente a 
+los ajustes de Voltage Ride-Through (VRT), Frequency Ride-Through (FRT) de los 
+inversores, y los ajustes de protecciones tensión y frecuencia establecidos en los artículos 
+7-29 y 7-30 de la NTCO-PMGD, informamos lo siguiente: 
+ 
+Se detectó un bloqueo en dos pestañas de la “Planilla Excel para Informar Ajustes de 
+Protecciones” adjunta a las cartas de la Ref. [1]. Por este motivo, se adjunta una nueva 
+planilla, la cual deberá completarse en todos sus campos y remitirse como versión 
+definitiva. 
+ 
+Recordamos que, en caso de que los ajustes actuales no cumplan con las exigencias de la 
+NTCO-PMGD, deberán modificarse antes de ser informados. La planilla debe contener 
+exclusivamente los valores finales de los ajustes, en cumplimiento con los artículos 
+mencionados.  
+ 
+Por lo anterior, solicitamos enviar a más tardar el 26 de septiembre de 2025 al correo 
+RT_PMGD@coordinador.cl (asunto: “Respuesta a Carta DE 05664-25”): 
+1. La planilla Excel completa y con ajustes definitivos. 
+2. Los respectivos print outs y documentación de respaldo. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Asimismo, deberá ingresar una carta a nuestro sistema de correspondencia, haciendo 
+referencia a la presente comunicación. 
+ 
+Finalmente, se hace presente que el incumplimiento de los artículos 7-29 y 7-30 de la 
+NTCO-PMGD genera una condición de riesgo para la seguridad del servicio en el sistema 
+eléctrico. Por dicho motivo, la no entrega de la información solicitada, en tiempo y forma, 
+que impida concluir que los ajustes están debidamente implementados y garantizar que no 
+se produzcan desconexiones indebidas de la(s) instalación(es) bajo su responsabilidad, 
+habilitará al Coordinador a limitar las inyecciones del PMGD, conforme a lo establecido en 
+el artículo 102 del DS88 de 2019, Reglamento para medios de generación de pequeña 
+escala. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+VVG/SVR/adr 
+Incl.: Lo indicado 
+c.c.:  Empresas Coordinadas 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+LISTA DE DISTRIBUCIÓN 
+ 
+Coordinado 
+Unidad 
+EERM Energías del Futuro S.A. 
+PMGD PFV TECHOS DE ALTAMIRA 
+GS Inima Chile S.A. 
+PMGD PFV EL BOCO 
+Sociedad Boco Solar SpA 
+PMGD PFV EL BOCO - AMPLIACION 
+IEH Solar Chile SpA 
+PMGD PFV FRANCISCO 
+Tralka SpA 
+PMGD PFV EL CERNICALO II 
+Tralka SpA 
+PMGD PFV EL CERNICALO 
+IEH Solar Chile SpA 
+PMGD PFV LUDERS 
+Reden Talhuen Solar SpA 
+PMGD PFV TALHUEN 
+Blue Solar Uno SpA 
+PMGD PFV COLLANCO 
+Pitra SpA 
+PMGD PFV PITRA 
+San Ramón Solar SpA 
+PMGD PFV SAN RAMON 
+Amanecer Solar SpA 
+PMGD PFV AMANECER 
+CVE Proyecto Ocho SpA 
+PMGD PFV LOS TAURETES 
+Faro Corona SpA 
+PMGD PFV ICB 
+PFV El Cuervo SpA 
+PMGD PFV FARDELA NEGRA 
+Andina Solar 6 SpA 
+PMGD PFV CENTRAL LLIU LLIU (FOSTER) 
+Abastible S.A. 
+PMGD PFV CONCON 
+CIA Eléctrica los Morros S.A. 
+PMGD PFV LOS MORROS I 
+CIA Electrica Los Morros S.A. 
+PMGD PFV LOS MORROS - AMPLIACION 
+Pacific SpA. 
+PMGD PFV SAND SOLAR 
+Farmdo Energy Chile SpA 
+PMGD PFV CHILLAN CONFLUENCIA / CE01L0661 
+Fotovoltaica Ciprés SpA 
+PMGD PFV ESMERALDA 
+Sur Solar SpA 
+PMGD PFV LAS GUINDILLAS 
+Andrómeda Solar SpA 
+PMGD PFV ANDRÓMEDA SOLAR 
+CVE Proyecto veintisiete SpA 
+PMGD PFV HEFESTO 
+Tedlar Mercurio SpA 
+PMGD PFV ELVIRA 
+Sol del Sur 2 SpA 
+PMGD PFV SAN SERAPIO 
+MVC Solar 17 SpA 
+PMGD PFV YUNGAY II TRILALEO 
+Miguel Solar SpA 
+PMGD PFV CHILOE 
+Sol del Sur 8 SpA 
+PMGD PFV PARRONAL 
+Champa Solar SpA 
+PMGD PFV ORILLA DEL MAULE 
+Tierra Solar SpA 
+PMGD PFV MULCHEN SANTA BARBARA 
+Parque Solar Panguilemo SpA 
+PMGD PFV PARQUE TACNA 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300   
+www.coordinador.cl 
+Coordinado 
+Unidad 
+La Pena Solar SpA 
+PMGD PFV LAS PENITAS 
+Fotovoltaica Valle Alegre SpA 
+PMGD PFV VALLE ALEGRE 
+PFV Las Garzas SpA 
+PMGD PFV LAS GARZAS 
+QUILMO SOLAR SPA 
+PMGD PFV QUILMO SOLAR 
+Nextpower III Chile Holdco II SpA 
+PMGD PFV FENIX 
+Aurora Solar SpA 
+PMGD PFV HORTENSIAS 
+Manzanares Energía SpA 
+PMGD PFV BALLOTA 
+MGM Innova Capital Chile SpA 
+PMGD PFV UTFSM VITACURA 
+Social Energy Chile Spa 
+PMGD PFV SOCIAL ENERGY POWER 
+Licancabur de Verano SpA 
+PMGD PFV LOS CORRALES DEL VERANO 
+Tedlar Mercurio SpA 
+PMGD PFV CASA DE LATA 
+Energía Renovable Caoba SpA 
+PMGD EA SF PICHILEMU 
+Orion Solar SpA 
+PMGD PFV LINCE SOLAR 
+Enel Green Power S.A. 
+PMGD PFV EA MAITEN 
+Enel Green Power S.A. 
+PMGD PFV MORA 
+Fotovoltaica Arrayán SpA 
+PMGD PFV CABIMAS 
+Fotovoltaica Molle SpA 
+PMGD PFV HIJUELA 4 
+Fotovoltaica Arrayán SpA 
+PMGD PVF DOÑA RUBENA 
+Solar TI Veinticuatro SpA 
+PMGD PFV VILLA CVE 
+Energía Renovable Cuarzo SpA 
+PMGD PFV CUARZO 
+Las Tacas II SpA 
+PMGD PFV LAS TACAS 
+BOIX SpA 
+PMGD PFV BOIX 
+Cerrillos SpA 
+PMGD PFV SOLARIS 
+La Viña Solar SpA 
+PMGD PFV CETUS 
+Farmdo Energy Chile SpA 
+PMGD PFV CHILLAN VICENTE MENDEZ 
+CVE Proyecto Veintiocho SpA 
+PMGD PIRINCHO SOLAR 
+SETF Energías Renovables SpA 
+PMGD PFV PUIG SUNLIGHT 
+Energía Renovable Roble SpA 
+PMGD PFV FALCON 
+Ranguil SpA 
+PMGD PFV RANGUIL SOLAR NORTE 
+GR Lumilla SpA 
+PMGD PFV LUMILLA 
+Solar TI Trece SpA 
+PMGD PFV DINAMO 
+Fotovoltaica Faro III SpA 
+PMGD PFV FARO SANTA ELENA 
+Fotovoltaica Faro III SpA 
+PMGD PFV FARO SANTA ELENA 
+PSF Los Maitenes SPA 
+PMGD PFV RITA DEL MAITEN 
+PS La Brújula SpA 
+PMGD PFV LA BRUJULA 
+ 

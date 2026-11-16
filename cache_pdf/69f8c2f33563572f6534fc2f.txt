@@ -1,0 +1,55 @@
+CENTRAL HIDROELÉCTRICA CARENA
+Región Metropolitana, Chile
+Santiago, 30 de abril de 2026
+Señores
+COORDINADOR ELÉCTRICO NACIONAL
+Departamento de Operación
+Presente
+REF.: Envío Protocolo de Verificación CTF y Justificación Técnica SSCC
+Central Hidroeléctrica Carena
+De nuestra consideración:
+Por medio de la presente, la Central Hidroeléctrica Carena se dirige a ustedes con el objeto de 
+hacer entrega formal de la siguiente documentación relacionada con el Proceso de Verificación 
+de Instalaciones para la Prestación de Servicios Complementarios:
+1.
+Procedimiento de Ensayos - Control Terciario de Frecuencia (CTF)
+Se adjunta el procedimiento de ensayos para la verificación del servicio complementario 
+de Control Terciario de Frecuencia (reserva en giro) para las Unidades 1, 2, 3 y 4 de la 
+Central Hidroeléctrica Carena, elaborado conforme a los lineamientos establecidos en la 
+"Guía de Verificación de Servicios Complementarios" publicada por el Coordinador 
+Eléctrico Nacional.
+El procedimiento describe en detalle los ensayos de incremento y reducción de carga, las 
+señales a registrar, los ajustes operativos considerados y el cronograma estimado para la 
+ejecución de las pruebas. La central cuenta con una potencia instalada total de 10 MW (4 
+unidades de 2.5 MW cada una) y se encuentra en condiciones de prestar este servicio 
+complementario.
+2.
+Carta de Justificación Técnica - Imposibilidad de Prestación de Otros SSCC
+Se adjunta carta explicativa mediante la cual informamos formalmente que la Central 
+Hidroeléctrica Carena no dispone actualmente de la capacidad técnica para prestar 
+los siguientes servicios complementarios:
+   • Control de Tensión (CT)
+   • Control Primario de Frecuencia (CPF)
+   • Control Secundario de Frecuencia (CSF)
+En dicha carta se detallan las limitaciones técnicas estructurales que impiden a la central 
+garantizar la prestación de estos servicios bajo los estándares de calidad, confiabilidad y 
+seguridad requeridos para asegurar la estabilidad del Sistema Eléctrico Nacional.
+Quedamos a disposición del Coordinador Eléctrico Nacional para:
+   • Coordinar la fecha y horario para la ejecución de los ensayos de verificación de CTF
+   • Proporcionar cualquier información técnica adicional que sea requerida
+
+   • Atender consultas o aclaraciones respecto a la documentación adjunta
+Agradecemos de antemano la atención prestada a la presente comunicación.
+Saluda atentamente,
+_________________________________
+[Nombre del Representante Legal]
+[Cargo]
+Central Hidroeléctrica Carena
+Documentos Adjuntos:
+1. Procedimiento de Ensayos - Control Terciario de Frecuencia - Central Hidroeléctrica 
+Carena (Unidades 1, 2, 3 y 4)
+2. Carta de Justificación Técnica - Imposibilidad de Prestación de Servicios 
+Complementarios CT, CPF y CSF
+Distribución:
+- Coordinador Eléctrico Nacional
+- Archivo Central Carena

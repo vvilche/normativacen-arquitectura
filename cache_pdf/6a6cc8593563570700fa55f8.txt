@@ -1,0 +1,106 @@
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. Y FILIALES 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Santiago, 30 de julio de 2026 
+OP 104-26 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+ENVÍO DE INFORMACIÓN RELATIVA A UNIDADES CON PARTIDA AUTÓNOMA 
+SEGÚN REUNIÓN DE OBSERVACIONES ADICIONALES PA CENTRALES ENEL 
+GENERACIÓN CHILE S.A. Y EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ 
+De nuestra consideración, 
+En atención a lo acordado en la reunión sostenida con profesionales de ese Coordinador 
+con fecha 8 de julio, relativa al proceso de revisión de los antecedentes asociados al 
+Servicio Complementario de Partida Autónoma, por medio de la presente hacemos entrega 
+de la información y documentación complementaria requerida durante dicha instancia. 
+Los antecedentes tienen por objeto aclarar y complementar los aspectos técnicos 
+consultados durante el proceso de revisión, en conformidad con los acuerdos consignados 
+en la minuta remitida por ese Coordinador, los que pueden ser descargados desde el 
+siguiente enlace: 
+https://drive.google.com/drive/folders/1c2ye-qMQvW74YmfgjyNtn9EFvSWpR-
+9b?usp=drive_link 
+ 
+Respecto a las consultas específicas de la unidad N°1 de Central El Toro y Central Rapel, 
+le podemos comentar lo siguiente: 
+• 
+Ensayo de Partida Autónoma de Unidad N°1 de Central El Toro. 
+ 
+Tal como es de su conocimiento, los derechos de generación asociados al Sistema 
+Laja se encuentran totalmente comprometidos para el presente año, situación que 
+limita la disponibilidad operativa necesaria para la ejecución de ensayos que 
+requieren la utilización de recurso hídrico. En consideración a esta condición y 
+atendiendo las restricciones operacionales derivadas de ella, informamos que no 
+será posible realizar durante el presente año la prueba de Servicio Complementario 
+de Partida Autónoma de la Unidad N.º 1 de la Central El Toro. 
+
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. Y FILIALES 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+Sin perjuicio de lo anterior, una vez que existan las condiciones operativas y de 
+disponibilidad de recurso que permitan ejecutar la prueba en forma segura y 
+representativa, se coordinarán oportunamente las actividades correspondientes y 
+se informará a ese Coordinador la programación propuesta para su realización. 
+ 
+• 
+Central Rapel: Se solicitó informar el tiempo requerido para la reposición del 
+estanque luego de ejecutar las dos partidas de las unidades, con el fin de 
+complementar los antecedentes asociados a la prestación del servicio. 
+ 
+Una vez ejecutada la revisión del Esquema de Recuperación de Servicio (ERS) y 
+definidas las unidades disponibles para participar en el Proceso de Recuperación 
+de Servicio (PRS), dichas unidades cuentan inicialmente con autonomía propia 
+gracias a la presión almacenada en los acumuladores del sistema hidráulico. 
+Esta energía almacenada permite efectuar, de manera segura, entre dos y tres 
+maniobras del distribuidor, las cuales son suficientes para la ejecución de las 
+acciones iniciales de recuperación previstas en el esquema. Sin embargo, una vez 
+consumida dicha reserva, y en caso de que ninguna unidad disponga de presión 
+suficiente para efectuar nuevos movimientos, resulta indispensable restituir la 
+presión del circuito hidráulico mediante la puesta en servicio de la bomba de 
+corriente alterna (A.C.) de la HPU. 
+Para ello, se requiere previamente energizar los servicios auxiliares asociados, 
+mediante maniobras orientadas a alimentar las barras de servicios desde el Grupo 
+Electrógeno (G.E.) de emergencia. Considerando que el personal de operación se 
+encuentra de forma permanente en la central, el tiempo requerido para ejecutar 
+estas maniobras y restablecer la presión del sistema hidráulico se estima del orden 
+de 30 minutos, permitiendo posteriormente recuperar la capacidad operativa de los 
+mecanismos de control y continuar con las acciones contempladas en el proceso de 
+recuperación del servicio. 
+ 
+Esperamos que la información proporcionada permita dar continuidad al proceso de revisión 
+en curso. En caso de estimarse necesario, quedamos a disposición para entregar 
+antecedentes adicionales o realizar las aclaraciones técnicas que ese Coordinador 
+considere pertinentes. 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación, le saluda 
+atentamente, 
+
+ 
+ 
+ENEL GENERACIÓN CHILE S.A. Y FILIALES 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN 
+ENEL GENERACIÓN CHILE S.A. 
+EMPRESA ELÉCTRICA PEHUENCHE S.A. 
+ 
+ 

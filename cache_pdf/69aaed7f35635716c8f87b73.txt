@@ -1,0 +1,135 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 06 de marzo de 2026 
+DE 01540-26 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de parámetros de Partida y 
+Detención de la Central HP Las Nieves. 
+[1] Carta S/N de Hidroeléctrica Las Nieves SpA, 
+Ref.: 
+“Responde 
+observaciones 
+Informe 
+de 
+Parámetros de Partida y Detención - Proyecto MCH 
+Las Nieves – NUP3908.”, de fecha 23 de enero de 
+2026. Ingreso DE00702-26. 
+[2] Carta DE00981-26, Ref.: “[NUP 3908] Informes 
+Técnicos de Parámetros Operacionales de la 
+central HP Las Nieves”, de fecha 10 de febrero de 
+2026. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros de Partida y Detención de Unidades Generadoras” de la Norma Técnica de 
+Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte del Coordinador 
+Eléctrico Nacional de los Parámetros de Partida y Detención de la Central HP Las Nieves, 
+en conformidad con el Informe Técnico final recibido mediante la comunicación de la Ref. 
+[1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+técnico publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme con lo anterior, los valores de los Parámetros de Partida y Detención de la Central 
+HP Las Nieves se presentan en las tablas contenidas en el Anexo 1 de la presente carta. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del día 11 de marzo de 2026. 
+ 
+El informe técnico de Parámetros de Partida y Detención que contiene la justificación de los 
+parámetros indicados anteriormente ha sido publicada en la siguiente ruta de la página del 
+Coordinador Eléctrico nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Parámetros de Partida y Detención > Informes de 
+Determinación de Parámetros de Partida y Detención > Central HP Las Nieves > 2026 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PPF/PBA/adr 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo 1: Parámetros del proceso de partida y detención de la Central  
+HP Las Nieves 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central HP Las Nieves (1) 
+Etapa 
+Parámetro 
+Valor 
+Partida – Sincronización 
+Consumo SSAA [MWh] 
+0,0006 
+Tiempo [minutos] 
+6,7167 
+Sincronización – 
+Mínimo Técnico 
+Consumo SSAA [MWh] 
+0,0000 
+Tiempo [minutos] 
+0,4167 
+Mínimo Técnico – 
+Potencia Nominal 
+Consumo SSAA [MWh] 
+0,0017 
+Tiempo [minutos] 
+19,8833 
+(1) Los valores de potencia máxima y mínima neta de la Central HP Las Nieves son de 6,6765 
+MW y 0,1670 MW respectivamente. 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central HP Las Nieves 
+Etapa 
+Parámetro 
+Valor 
+Potencia Nominal – 
+Mínimo Técnico  
+Consumo SSAA [MWh] 
+0,0002 
+Tiempo [minutos] 
+2,5500 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA [MWh] 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+Desconexión – 
+Detención 
+Consumo SSAA [MWh] 
+0,0008 
+Tiempo [minutos] 
+10,0500 
+ 
+Nota: El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo en Estado Detenido 
+(TMD) son 0 [min]. 
+ 

@@ -1,0 +1,41 @@
+ 
+Santiago, 2 de septiembre de 2026 
+Señores 
+Coordinador Eléctrico Nacional 
+Departamento de Medidas 
+Presente 
+ 
+Ref.: Actualización de Equipo Compacto de 
+Medida y medidor – PMGD PFV Chilener. 
+ 
+De nuestra consideración: 
+Junto con saludar, por medio de la presente informamos la sustitución del Equipo Compacto de 
+Medida (ECM) y del medidor asociado al PMGD PFV Chilener, propiedad de Chilener SpA. 
+El reemplazo del equipamiento fue realizado por OLCA Tecnored y la instalación ya ha sido 
+revisada y aprobada por Luz Linares. El cambio fue necesario debido a una falla técnica del 
+equipamiento anterior ocasionada por una descarga atmosférica. 
+Los nuevos equipos instalados corresponden a: 
+• 
+Medidor Schneider: N° de serie MR-2601D544-03. 
+• 
+Equipo Compacto de Medida (ECM) Elexor: N° de serie 4888. 
+Junto con esta comunicación se adjuntan todos los antecedentes técnicos asociados al 
+reemplazo, instalación, configuración y puesta en servicio del nuevo sistema de medida. 
+En virtud de lo anterior, solicitamos al Área de Medidas del Coordinador Eléctrico Nacional: 
+1. Acusar recibo de la presente comunicación y de todos los antecedentes adjuntos. 
+2. Actualizar en sus sistemas los antecedentes correspondientes al nuevo ECM y medidor 
+instalados en el PMGD PFV Chilener. 
+3. Realizar las modificaciones y parametrizaciones que resulten necesarias para que el 
+nuevo equipamiento quede correctamente asociado y operativo para el registro, 
+recepción y visualización de las medidas en la PRMTE. 
+4. Confirmarnos una vez que la actualización haya sido efectuada y el nuevo sistema de 
+medida se encuentre correctamente habilitado en sus plataformas. 
+Entendemos que con los antecedentes adjuntos se proporciona la información necesaria para 
+efectuar esta actualización. No obstante, si requieren cualquier información adicional, 
+agradeceremos nos lo hagan saber para proporcionarlo oportunamente. 
+Sin otro particular, y agradeciendo desde ya su colaboración, les saluda atentamente, 
+ 
+Dídac Álvarez Ortells 
+Chilener II SpA 
+proyectoschile@valfortec.com 
++56 9 4592 1343 

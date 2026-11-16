@@ -1,0 +1,61 @@
+ Parque Eólico PE Cancura                                 PE Cancura SpA 
+Santiago, 18 de junio de 2026 
+ 
+ 
+ 
+Señores Patricio Valenzuela V. 
+Coordinador Eléctrico Nacional 
+Subgerencia de Control y Desarrollo Operacional 
+Respuesta Carta DE03648-26 
+ 
+Presente 
+Ref.: Respuesta a Carta DE03648-26 – Aplicación del Artículo 7-5 del Anexo Técnico de 
+Exigencias Mínimas de Instalaciones Basadas en Convertidores (AT IBR). 
+De nuestra consideración: 
+ 
+Por medio de la presente, PE Cancura SpA, titular del Parque Eólico PE Cancura, da respuesta al 
+requerimiento contenido en la carta DE03648-26, relativo a la aplicación del Artículo 7-5 del Anexo 
+Técnico de Exigencias Mínimas de Instalaciones Basadas en Convertidores (AT IBR), aprobado 
+mediante la Resolución Exenta N°45/2026 de la Comisión Nacional de Energía. 
+1. Antecedentes de la Instalación 
+El Parque Eólico PE Cancura corresponde a una instalación de generación eólica basada en 
+aerogeneradores Goldwind de la plataforma GWH V11, clasificada como una Instalación Basada en 
+Convertidores tipo Grid Following (IBR-GFL). La tecnología considera generadores síncronos de 
+imanes permanentes y convertidores de potencia completos (Full Power Converter), con 
+funcionalidades de control de potencia activa y reactiva, regulación de tensión, control de factor de 
+potencia y capacidades de soporte dinámico de red. 
+2. Estado Actual del Proyecto 
+A la fecha de esta comunicación, el Parque Eólico PE Cancura se encuentra en etapa de construcción y 
+aún no ha iniciado su puesta en servicio. En consecuencia, no es posible disponer de mediciones 
+operacionales ni de estudios de comportamiento dinámico del parque, incluyendo verificaciones del 
+diagrama P-Q, ensayos de control de tensión, pruebas LVRT/HVRT, respuesta en frecuencia o 
+cualquier otra validación basada en registros de operación. 
+Por lo anterior, la evaluación preliminar de cumplimiento de los requerimientos establecidos en la 
+NTSyCS y en el AT IBR se sustenta exclusivamente en la documentación técnica emitida por el  
+
+ Parque Eólico PE Cancura                                 PE Cancura SpA 
+ 
+fabricante Goldwind, incluyendo manuales, diagramas unilineales, especificaciones técnicas de la 
+plataforma GWH V11 y documentos de conexión a red. 
+3. Compromiso de Acreditación de Cumplimiento 
+Una vez concluida la construcción y efectuada la puesta en servicio del Parque Eólico PE Cancura, PE 
+Cancura SpA realizará los estudios, ensayos y verificaciones técnicas que correspondan para 
+acreditar el cumplimiento de las exigencias establecidas en la normativa vigente, incluyendo los 
+requerimientos del Artículo 3-9 de la NTSyCS y de los artículos aplicables del AT IBR. Asimismo, se 
+pondrán a disposición del Coordinador Eléctrico Nacional los antecedentes técnicos y respaldos que 
+sean requeridos para demostrar el desempeño efectivo de la instalación. 
+Anexos 
+• 
+Anexo 1: Goldwind GWH V11 Platform Single Line Diagram. 
+• 
+Anexo 2: Documento GW-19CP.0035 – Goldwind V11 Wind Turbines Grid Connection. 
+• 
+Anexo 3: Especificaciones técnicas y manuales del fabricante Goldwind GWH V11. 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+__________________________________ 
+Italo Perfetti Nazal 
+Area Coordinador Electrico 
+PE Cancura SpA 

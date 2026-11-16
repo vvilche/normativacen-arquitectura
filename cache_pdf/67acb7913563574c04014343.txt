@@ -1,0 +1,121 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+ 
+Santiago, 11 de febrero de 2025 
+DE 00926-25 
+ 
+Señores 
+Encargados Titulares 
+Según Lista de Distribución 
+Presente 
+Ref.:  Cumplimiento de disponibilidad del 
+SITR según NT SyCS. 
+[1] DE 06581-24, de fecha 12 de diciembre de 
+2024, “Publicación en línea del cumplimiento 
+del SITR”. 
+De mi consideración,  
+ 
+Me refiero al cumplimiento de disponibilidad de las señales Sistema de Información de 
+Tiempo Real (SITR), de acuerdo con establecido en el Artículo 7 del Anexo Técnico de la 
+Norma Técnica de Seguridad y Calidad de Servicio: “Definición de Parámetros Técnicos y 
+Operativos para el Envío de Datos al SITR” que exige que “El equipamiento que deberán 
+disponer los Coordinados para establecer el enlace de datos con el Coordinador, deberá 
+garantizar una disponibilidad mensual de la información, tanto en el SITR de cada 
+Coordinado como en el del Coordinador, mayor o igual a 99,5%.” 
+Según da cuenta el último levantamiento de información efectuado hasta el 15 de enero de 
+2025, su representada no cumple con el nivel mínimo de disponibilidad exigido por la 
+normativa vigente y tampoco ha atendido el requerimiento de informar y ejecutar en plazo 
+planes de mejora para alcanzar dicha exigencia.  
+Por lo anterior, se instruye a su representada la adopción de las medidas que sean 
+necesarias para cumplir con la disponibilidad exigida por la normativa vigente para el SITR, 
+las que deberán constar en un plan de mejoras detallado, el que debe ser enviado a este 
+Coordinador al sistema de correspondencia, con copia al correo electrónico 
+tec.scada@coordinador.cl, indicando en el asunto: “Plan de mejoras de disponibilidad 
+SITR”, a más tardar el 26 de febrero de 2025. 
+El plan de mejoras requerido no podrá extenderse más allá de tres meses calendario y debe 
+incluir el diseño, la ejecución y las pruebas de implementación necesarios para alcanzar las 
+exigencias establecidas en la normativa vigente, cumpliendo con los siguientes hitos:  
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+ 
+ITEM NOMBRE DE LA TAREA 
+FECHA INICIO FECHA TERMINO 
+1 
+PLANIFICACIÓN 
+  
+  
+2 
+DIAGNÓSTICO O LEVANTAMIENTO 
+  
+  
+3 
+DESARROLLO DE LOS TRABAJOS 
+  
+  
+4 
+PRUEBAS DE NORMALIZACIÓN 
+  
+  
+5 
+FINALIZACION DE LA NORMALIZACION   
+ 26-05-2025 
+ 
+Adicionalmente, comunico a Ud. que, con el propósito de que su representada pueda contar 
+con una herramienta adicional que apoye una gestión permanente de mejoras, identificando 
+eventuales problemas que puedan afectar el correcto envío y recepción de información en 
+el SITR, que sus sistemas de monitoreo de desempeño de señales podrían no estar 
+identificando, se ha habilitado una sección específica denominada “Disponibilidad OnLine 
+de SITR”, dentro del portal web del Coordinador (www.coordinador.cl/gráficos/operacion) y 
+según fue informada en comunicación de la Ref. [1]. De esta manera, su representada podrá 
+contar con un reporte periódico de las señales que reporta al SITR del Coordinador y 
+realizar oportunamente las correcciones necesarias para cumplir con la normativa vigente. 
+ 
+Es importante reforzar que cualquier modificación o corrección de la información entregada 
+a través del SITR que realice su representada, debe ser informada al Coordinador con la 
+debida anticipación y respectivo plan de trabajo, de manera de coordinar anticipadamente 
+las pruebas de funcionamiento previo a su entrada en operación. 
+Finalmente, se hace presente la obligación legal que asiste a toda empresa coordinada de 
+proporcionar oportunamente al Coordinador toda la información que éste requiera para el 
+cumplimiento de sus funciones, y que la omisión de esta obligación podrá ser sancionado 
+por la Superintendencia de Electricidad y Combustibles, conforme lo señalado en el Artículo 
+72-2 de la Ley General de Servicios Eléctricos.  
+Cabe destacar que la respuesta que entregue su representada a la presente instrucción, 
+será remitida a la Superintendencia de Electricidad y Combustibles.  
+Sin otro particular, saluda atentamente a Ud.  
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+c.c.: 
+Encargados Suplentes Empresas Coordinadas Según lista de distribución 
+Sr. Jack Nahmías – Jefe Unidad Técnica de Generación y Transporte de Electricidad, SEC 
+Sr. Octavio Donoso – Gerente de Tecnología y Sistemas 
+Srta. Carola Díaz – Subgerente de Ingeniería y Software 
+Sr. Patricio Valenzuela V. – Subgerente de Operación en Tiempo Real 
+Sr. Felipe Antinao – Jefe Departamento Confiabilidad y Soporte Técnico. 
+ 

@@ -1,0 +1,2236 @@
+ 
+BIOENERGIAS FORESTALES SpA                         
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+1 
+Santiago, 30 de octubre 2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte operacional. 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+BF-E-CAE-2025-074: Ref. Carta DE06726-
+25. Observaciones a la actualización de Anexos 
+de 
+Instalaciones 
+que 
+prestan 
+Servicios 
+Complementarios, Informe SSCC 2025 del 
+23.10.2025.  
+[1] Carta DE06182-25. Ref. “Actualización de 
+Anexos de Instalaciones que prestan Servicios 
+Complementarios, Informe SSCC 2025” de 
+fecha 03 de octubre de 2025.  
+[2] Carta DE05700-25, Ref.: “Actualización de 
+Anexos de Instalaciones que prestan Servicios 
+Complementarios, Informe SSCC 2025”, de 
+fecha 10 de septiembre de 2025 
+De nuestra consideración,  
+ 
+Por medio de la presente y en relación con lo informado en carta DE06726-25 donde se 
+comunica la actualización de los Anexos que contienen las instalaciones que prestan 
+Servicios Complementarios (SSCC) el año 2025 de fecha 23.10.2025, solicitamos tenga 
+a bien de considerar los siguientes comentarios referidos al Coordinado Bioenergías 
+Forestales SpA: 
+1) Referente al anexo de Informe de Servicios Complementarios, en detalle al Anexo 
+E. Control de Contingencia, informamos que las tablas “EDAC Zona Sur Vigente” 
+cuentan con errores que son indicados en la columna observación del presente 
+ANEXO 1. 
+2) De la revisión al Anexo E. Control de Contingencia, en especial al EDAC Zona 
+Centro Sur propuesto, existen incongruencias menores referentes a las cargas 
+comprometidas por el coordinado Bioenergías Forestales SpA, detalladas a 
+continuación: 
+ 
+ 
+
+ 
+BIOENERGIAS FORESTALES SpA                         
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+2 
+ 
+Tabla N°1. Comentarios "EDAC Centro Sur Propuesto". 
+Carga 
+Valor de Hoja “EDAC 
+Centro Sur Propuesto” 
+Comentario 
+Maule 1 (N° 39 En EDAC 
+Centro Sur propuesto) 
+0MW para Demanda Alta; 
+16 MW para Demanda 
+Baja 
+Se debe modificar, debe 
+quedar como 16 MW para 
+Demanda Alta; 0MW para 
+Demanda Baja 
+Maule 2 (N° 31 En EDAC 
+Centro Sur propuesto) 
+Escalón 5 
+De acuerdo a carta 
+DE05325-25 se debe 
+considerar como 
+compromiso Escalón 6 
+Softy PA 1 (N° 34 En
+EDAC Centro Sur 
+propuesto) 
+Valor de Carga en
+Demanda Alta 1,1 MW 
+Valor de Carga en
+Demanda Alta 1 MW 
+Pacifico (N° 36 En EDAC 
+Centro Sur propuesto) 
+Se considera EDAC 5MW 
+en escalón 5. 
+Se encuentra en proceso 
+de adecuación de cargas 
+en CMPC Laja 
+ 
+En efecto, respecto al Anexo adjunto, solicitamos considerar la fila correspondiente a 
+“EDAC Centro Sur Propuesto” como como la versión definitiva corregida en virtud de lo 
+comentarios indicados en la Tabla N°1 de la presente. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marcelo Lagos Peña 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+Encargado Suplente Bioenergías Forestales SpA 
+ 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+3 
+ANEXO 1: Observaciones a la base de información de SSCC comunicación DE06182-25 “Anexo E”. 
+- 
+- 
+N° 
+Zona 
+Coordinad
+o 
+Subestació
+n 
+Alimentadore
+s 
+Escaló
+n 
+Frecuenci
+a 
+activació
+n [Hz] 
+Carga 
+Informad
+a (DAlta)
+[MW] 
+Carga 
+Informada 
+(DBaja) 
+[MW] 
+Verificad
+o 
+Observacion
+es CEN 
+Observación CMPC 
+Aplica 
+Modificació
+n en Tabla 
+"EDAC 
+Centro Sur 
+Propuesto" 
+Valdivia 1 
+EDAC 
+Centro 
+Sur 
+Vigente 
+4 
+Araucanía 
+Bioenergías 
+Forestales 
+SpA 
+CMPC Planta 
+Valdivia  
+Desfibrador 1 
+5 
+48.5 Hz 
+0,74 
+2,48 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+La Información de la tabla es 
+incorrecta (Carga Informada y 
+nombre de la carga) 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+15 
+Araucanía 
+Bioenergías 
+Forestales 
+SpA 
+CMPC Planta 
+Valdivia  
+Desfibrador 1 
+3 
+48.5 Hz 
+0,74 
+2,48 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+La Información de la tabla es 
+incorrecta (Carga Informada y 
+nombre de la carga) 
+EDAC 
+Centro 
+Sur 
+Propuesto
+41 
+Araucanía 
+Bioenergías 
+Forestales 
+SpA 
+Chumpullo 
+66kV 
+Valdivia 1 
+3 
+48.5 Hz 
+0,74 
+0,74 
+  
+  
+Es correcto 
+Valdivia 2 
+EDAC 
+Centro 
+Sur 
+Vigente 
+5 
+Araucanía 
+Bioenergías 
+Forestales 
+SpA 
+CMPC Planta 
+Valdivia  
+Desfibrador 2 
+6 
+48.3 Hz 
+0.91 
+2,06 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+La Información de la tabla es 
+incorrecta (nombre de la 
+carga) 
+NO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+16 
+Araucanía 
+Bioenergías 
+Forestales 
+SpA 
+CMPC Planta 
+Valdivia  
+Desfibrador 2 
+4 
+48.3 Hz 
+0.91 
+2,06 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+La Información de la tabla es 
+incorrecta (nombre de la 
+carga) 
+EDAC 
+Centro 
+42 
+Araucanía 
+Bioenergías 
+Forestales 
+SpA 
+Chumpullo 
+66kV 
+Valdivia 2 
+4 
+48,3 Hz 
+0,91 
+0,91 
+  
+  
+Es correcto 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+4 
+Sur 
+Propuesto
+Laja 
+EDAC 
+Centro 
+Sur 
+Vigente 
+77 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+CMPC Laja 
+CMPC Laja 
+5 
+48.5 Hz 
+0 
+1,73 
+No 
+  
+La Información de la tabla es 
+incorrecta (no aplica carga 
+EDAC-BF) 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+La Información de la tabla es 
+incorrecta (no aplica carga 
+EDAC-BF) 
+EDAC 
+Centro 
+Sur 
+Propuesto
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Es correcto 
+Pacifico 
+EDAC 
+Centro 
+Sur 
+Vigente 
+78 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+CMPC 
+Pacífico 
+CMPC Pacífico 
+1 
+49 Hz, -0.6 
+Hz/seg 
+5 
+2,35 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+La Información de la tabla es 
+incorrecta (no aplica carga 
+EDAC-BF) 
+SI 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+17 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+CMPC 
+Pacífico 
+CMPC Pacífico 
+5 
+49 Hz, -0.6 
+Hz/seg 
+5 
+2,35 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+La Información de la tabla es 
+incorrecta (no aplica carga 
+EDAC-BF) 
+EDAC 
+Centro 
+Sur 
+Propuesto
+36 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+CMPC 
+Pacífico 
+CMPC Pacífico 
+(*) 
+5 
+49.0 Hz, -
+0.6 Hz/seg 
+5 
+5 
+  
+  
+No Aplica EDAC, CARGA No 
+comprometida 
+Santa Fe 
+EDAC 
+Centro 
+Sur 
+Vigente 
+79 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+CMPC Santa 
+Fe 
+CMPC Santa Fe 
+3 
+48.8 Hz, -
+0.6 Hz/seg 
+3,2 
+2,192 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+La Información de la tabla es 
+incorrecta (Carga Informada 
+en demanda baja) 
+NO 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+5 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+18 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+CMPC Santa 
+Fe 
+CMPC Santa Fe 
+6 
+48.8 Hz, -
+0.6 Hz/seg 
+3,2 
+2,192 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+La Información de la tabla es 
+incorrecta (Carga Informada 
+en demanda baja) 
+EDAC 
+Centro 
+Sur 
+Propuesto
+37 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+CMPC Santa 
+Fe 
+CMPC Santa Fe 
+(*) 
+6 
+48.8 Hz, -
+0.6 Hz/seg 
+3,2 
+3,2 
+  
+  
+Es correcto 
+Planta AGA 2 
+EDAC 
+Centro 
+Sur 
+Vigente 
+80 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+Planta AGA 
+Planta AGA 2 
+3 
+48.8 Hz, -
+0.6 Hz/seg 
+o 48.7 (lo 
+primero 
+que ocurra) 
+3,3598 
+1,10005556
+7 
+No 
+  
+La Información de la tabla es 
+incorrecta (Escalón y 
+Demanda) 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+La Información de la tabla es 
+incorrecta (Escalón y 
+Demanda) 
+EDAC 
+Centro 
+Sur 
+Propuesto
+38 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+Planta AGA 
+Planta AGA 2 
+1 
+48.9 Hz 
+3,4 
+3,4 
+  
+  
+Es correcto 
+Planta AGA 2 
+EDAC 
+Centro 
+Sur 
+Vigente 
+81 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+Planta AGA 
+Planta AGA 2 
+2 
+48.9 Hz 
+3,3598 
+2,45 
+No 
+  
+La Información no aplica. 
+EDAC Actulamente no existe 
+NO 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+6 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+La Información no aplica. 
+EDAC Actulamente no existe 
+EDAC 
+Centro 
+Sur 
+Propuesto
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Es correcto, no aplica Carga 
+EDAC 
+Planta AMSA 1 
+EDAC 
+Centro 
+Sur 
+Vigente 
+82 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+Planta AMSA 
+Planta AMSA 1 
+2 
+48.9 Hz 
+1,8121 
+1,50000012 
+No 
+  
+La Información no aplica. 
+EDAC Actulamente no existe 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+La Información no aplica. 
+EDAC Actulamente no existe 
+EDAC 
+Centro 
+Sur 
+Propuesto
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Es correcto, no aplica Carga 
+EDAC 
+Planta AMSA 2 
+EDAC 
+Centro 
+Sur 
+Vigente 
+83 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+Planta AMSA 
+Planta AMSA 2 
+3 
+48.8 Hz, -
+0.6 Hz/seg 
+1 
+1 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Es correcto 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+19 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+Planta AMSA 
+Planta AMSA 2 
+6 
+48.8 Hz, -
+0.6 Hz/seg 
+1 
+1 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Es correcto 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+7 
+DE02698-
+21 
+EDAC 
+Centro 
+Sur 
+Propuesto
+39 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+Planta AMSA 
+Planta AMSA 2 
+6 
+48.8 Hz, -
+0.6 Hz/seg 
+1 
+1 
+  
+  
+Es correcto 
+Planta ERCO 2 
+EDAC 
+Centro 
+Sur 
+Vigente 
+84 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+Planta 
+Pacífico 
+ERCO 2 
+1 
+f < 49.0 y 
+df/dt > 0,6 
+Hz/seg o 
+48.5 (lo 
+primero 
+que ocurra) 
+35,0144 
+3,2 
+No 
+  
+La Información no aplica. 
+EDAC Actulamente no existe 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+La Información no aplica. 
+EDAC Actulamente no existe 
+EDAC 
+Centro 
+Sur 
+Propuesto
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Es correcto, no aplica Carga 
+EDAC 
+Planta ERCO 2 
+EDAC 
+Centro 
+Sur 
+Vigente 
+85 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+Planta 
+Pacífico 
+ERCO 2 
+5 
+f < 49.0 y 
+df/dt > 0,6 
+Hz/seg o 
+48.5 (lo 
+primero 
+que ocurra) 
+35,0144 
+2,674 
+No 
+  
+La Información no aplica. 
+EDAC Actulamente no existe 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+La Información no aplica. 
+EDAC Actulamente no existe 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+8 
+EDAC 
+Centro 
+Sur 
+Propuesto
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Es correcto, no aplica Carga 
+EDAC 
+Planta Plywood 
+2 
+EDAC 
+Centro 
+Sur 
+Vigente 
+86 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+Planta 
+Pacífico 
+Plywood 2 
+5 
+48.5 Hz 
+3.2 
+1,1 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+La Información indicada 
+presenta errores en demanda 
+Baja 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+El EDAC si es valido 
+EDAC 
+Centro 
+Sur 
+Propuesto
+40 
+Charrúa 
+Bioenergías 
+Forestales 
+SpA 
+Planta 
+Pacífico 
+Plywood 2 
+3 
+48.5 Hz 
+3,2 
+3,2 
+- 
+- 
+Es correcto 
+Planta Maule 1 
+EDAC 
+Centro 
+Sur 
+Vigente 
+21
+6 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 1 - 
+Refinador L1 
+6 
+48.3 Hz 
+16 
+1,12 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe un error en Demanda 
+Alta y Demanda Baja 
+SI 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+21 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 1 - 
+Refinador L1 
+4 
+48.3 Hz 
+16 
+1,12 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe un error en Demanda 
+Alta y Demanda Baja 
+EDAC 
+Centro 
+Sur 
+Propuesto
+30 
+Troncal 
+Centro 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 1 
+4 
+48.3 Hz 
+0 
+16 
+  
+  
+Existe un error, los 16 MW 
+deben estar asociado a las 
+carga informada de Demanda 
+Alta y 0MW asociados a la 
+carga de Demanda Baja 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+9 
+Planta Maule 2 
+EDAC 
+Centro 
+Sur 
+Vigente 
+21
+7 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 2 - 
+Madera y PTS 
+3 
+48.8 Hz, -
+0.6 Hz/seg 
+1,2 
+1,8 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe un error en la 
+declaración de la demanda 
+Baja 
+SI 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+22 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 2 - 
+Madera y PTS 
+6 
+48.8 Hz, -
+0.6 Hz/seg 
+1,2 
+1,8 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe un error en la 
+declaración de la demanda 
+Baja 
+EDAC 
+Centro 
+Sur 
+Propuesto
+31 
+Troncal 
+Centro 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 2 
+5 
+49.0 Hz, -
+0.6 Hz/seg 
+1,2 
+1,2 
+  
+  
+De acuerdo a carta DE05325-
+25 se debe considerar como 
+compromiso Escalón 6 
+Planta Maule 3 
+EDAC 
+Centro 
+Sur 
+Vigente 
+21
+8 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 3 - Ref 
+Baja 
+Consistencia y 
+Agitadores 
+5 
+48.5 Hz 
+1 
+2,51 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe un error en la 
+declaración de la demanda 
+Baja 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+23 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 3 - Ref 
+Baja 
+Consistencia y 
+Agitadores 
+3 
+48.5 Hz 
+1 
+2,51 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe un error en la 
+declaración de la demanda 
+Baja 
+EDAC 
+Centro 
+Sur 
+Propuesto
+32 
+Troncal 
+Centro 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 3 
+3 
+48.5 Hz 
+1 
+1 
+  
+  
+Es correcto 
+Planta Maule 4 
+EDAC 
+Centro 
+Sur 
+Vigente 
+21
+9 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 4 - Twin 
+Flow 
+2 
+48.9 Hz 
+1 
+1,9 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe un error en la 
+declaración de la demanda 
+Baja 
+NO 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+10 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+24 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 4 - Twin 
+Flow 
+1 
+48.9 Hz 
+1 
+1,9 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe un error en la 
+declaración de la demanda 
+Baja 
+EDAC 
+Centro 
+Sur 
+Propuesto
+33 
+Troncal 
+Centro 
+Bioenergías 
+Forestales 
+SpA 
+Colbún 
+Maule 4 
+1 
+48.9 Hz 
+1 
+1 
+  
+  
+Es correcto 
+Cordillera 1 
+EDAC 
+Centro 
+Sur 
+Vigente 
+22
+0 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Cordillera 1 
+Conversión 
+3 
+48.8 Hz, -
+0.6 Hz/seg 
+0.35 
+0.35 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe comentarios referente 
+al nombre de la carga 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+25 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Cordillera 1 
+Conversión 
+6 
+48.8 Hz, -
+0.6 Hz/seg 
+0.35 
+0.35 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe comentarios referente 
+al nombre de la carga 
+EDAC 
+Centro 
+Sur 
+Propuesto
+28 
+Troncal 
+Centro 
+Bioenergías 
+Forestales 
+SpA 
+Maipo 
+Cordillera 1 
+6 
+48.8 Hz, -
+0.6 Hz/seg 
+0,35 
+0,35 
+  
+  
+Es correcto 
+Cordillera 2 
+EDAC 
+Centro 
+Sur 
+Vigente 
+22
+1 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Cordillera 2 
+MP20 
+3 
+48.8 Hz, -
+0.6 Hz/seg 
+1 
+1 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe comentarios referente 
+al nombre de la carga 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+26 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Cordillera 2 
+MP20 
+6 
+48.8 Hz, -
+0.6 Hz/seg 
+1 
+1 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Existe comentarios referente 
+al nombre de la carga 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+11 
+DE02698-
+21 
+EDAC 
+Centro 
+Sur 
+Propuesto
+29 
+Troncal 
+Centro 
+Bioenergías 
+Forestales 
+SpA 
+Maipo 
+Cordillera 2 
+6 
+48.8 Hz, -
+0.6 Hz/seg 
+1 
+1 
+  
+  
+Es correcto 
+Softy PA 1 
+EDAC 
+Centro 
+Sur 
+Vigente 
+22
+2 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Softys PA 1 
+PRP 
+5 
+48.5 Hz 
+1 
+1 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Es correcto 
+SI 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+27 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Softys PA 1 
+PRP 
+3 
+48.5 Hz 
+1 
+1 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Es correcto 
+EDAC 
+Centro 
+Sur 
+Propuesto
+34 
+Troncal 
+Centro 
+Bioenergías 
+Forestales 
+SpA 
+Puente Alto 
+Softys PA 1 
+3 
+48.5 Hz 
+1,1 
+1 
+  
+  
+Existe un error dado que el 
+valor de Carga en Demanda 
+Alta 1 MW y no 1,1 MW 
+Softy PA 2 
+EDAC 
+Centro 
+Sur 
+Vigente 
+22
+3 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Softys PA 2 
+MP17+Refinaci
+ón 
+5 
+48.5 Hz 
+3.2 
+3.2 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Es correcto 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+28 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Softys PA 2 
+MP17+Refinaci
+ón 
+3 
+48.5 Hz 
+3.2 
+3.2 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Es correcto 
+EDAC 
+Centro 
+Sur 
+Propuesto
+35 
+Troncal 
+Centro 
+Bioenergías 
+Forestales 
+SpA 
+Puente Alto 
+Softys PA 2 
+3 
+48.5 Hz 
+3,2 
+3,2 
+  
+  
+Es correcto 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+12 
+Softy TA 
+EDAC 
+Centro 
+Sur 
+Vigente 
+22
+4 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Softys TA 
+MP1 y MP2 
+1 
+49 Hz, -0.6 
+Hz/seg 
+4.51 
+4.51 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Es correcto 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+29 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Softys TA 
+MP1 y MP2 
+5 
+49 Hz, -0.6 
+Hz/seg 
+4.51 
+4.51 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Es correcto 
+EDAC 
+Centro 
+Sur 
+Propuesto
+25 
+Troncal 
+Centro 
+Bioenergías 
+Forestales 
+SpA 
+Isla De 
+Maipo 
+Softys TA 
+5 
+49.0 Hz, -
+0.6 Hz/seg 
+4,51 
+4,51 
+  
+  
+Es correcto 
+Softy TA 
+EDAC 
+Centro 
+Sur 
+Vigente 
+22
+5 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Softys TA 
+Preparación 
+Pasta MP3 
+1 
+49 Hz, -0.6 
+Hz/seg 
+1.1 
+1.1 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Es correcto 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+30 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Softys TA 
+Preparación 
+Pasta MP3 
+5 
+49 Hz, -0.6 
+Hz/seg 
+1.1 
+1.1 
+No 
+Cambios en 
+base a carta 
+DE05325-25. 
+No verificado. 
+Es correcto 
+EDAC 
+Centro 
+Sur 
+Propuesto
+26 
+Troncal 
+Centro 
+Bioenergías 
+Forestales 
+SpA 
+Isla De 
+Maipo 
+Softys TA 
+5 
+49.0 Hz, -
+0.6 Hz/seg 
+1,1 
+1,1 
+  
+  
+Es correcto 
+Tissue TA 
+EDAC 
+Centro 
+Sur 
+Vigente 
+22
+6 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Isla De 
+Maipo 
+Tissue TA 
+6 
+48.3 Hz 
+0 
+0,239076 
+No 
+  
+Carga no existe en 
+compromisos EDAC-BF 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Carga no existe en 
+compromisos EDAC-BF 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+13 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+EDAC 
+Centro 
+Sur 
+Propuesto
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Carga no existe en 
+compromisos EDAC-BF 
+Cordillera 
+EDAC 
+Centro 
+Sur 
+Vigente 
+22
+7 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Maipo 
+Cordillera 
+6 
+48.3 Hz 
+0 
+5,4 
+No 
+  
+Carga no existe en 
+compromisos EDAC-BF 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Carga no existe en 
+compromisos EDAC-BF 
+EDAC 
+Centro 
+Sur 
+Propuesto
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Carga no existe en 
+compromisos EDAC-BF 
+Chimolsa 1 
+EDAC 
+Centro 
+Sur 
+Vigente 
+22
+8 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Puente Alto 
+Chimolsa1 
+3 
+48.7 Hz 
+1,8601 
+3,36 
+No 
+  
+Exite un error en la carga 
+Demanda Alta y Demanda Baja
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Exite un error en la carga 
+Demanda Alta y Demanda Baja
+EDAC 
+Centro 
+Sur 
+Propuesto
+27 
+Troncal 
+Centro 
+Bioenergías 
+Forestales 
+SpA 
+Puente Alto 
+Chimolsa1 
+2 
+48.7 Hz 
+2,1 
+2,1 
+  
+  
+Correcto 
+
+ 
+BIOENERGIAS FORESTALES SpA                     
+Agustinas 1343, Santiago, Chile 
+  
+ 
+  www.cmpc.com 
+  
+14 
+Tissue PA 1 
+EDAC 
+Centro 
+Sur 
+Vigente 
+22
+9 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Puente Alto 
+Tissue PA 1 
+3 
+48.8 Hz, -
+0.6 Hz/seg 
+1,1 
+1,42 
+No 
+  
+Carga no existe en 
+compromisos EDAC-BF 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Carga no existe en 
+compromisos EDAC-BF 
+EDAC 
+Centro 
+Sur 
+Propuesto
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Carga no existe en 
+compromisos EDAC-BF 
+Tissue PA 2 
+EDAC 
+Centro 
+Sur 
+Vigente 
+23
+0 
+Metropolitan
+a 
+Bioenergías 
+Forestales 
+SpA 
+Puente Alto 
+Tissue PA 2 
+4 
+48.7 Hz 
+3,2 
+1,56 
+No 
+  
+Carga no existe en 
+compromisos EDAC-BF 
+NO 
+EDAC 
+Centro 
+Sur 
+Vigente 
+//solicitad
+a en 
+cartas 
+DE04404-
+21 y 
+DE02698-
+21 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Carga no existe en 
+compromisos EDAC-BF 
+EDAC 
+Centro 
+Sur 
+Propuesto
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Carga no existe en 
+compromisos EDAC-BF 
+ 
+ 

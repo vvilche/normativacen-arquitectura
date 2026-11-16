@@ -1,0 +1,86 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 25 de agosto de 2026 
+DE 05701-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Establecimiento del Parámetro de Potencia 
+Máxima de la Central TER Teno Gas. 
+[1] Carta DE05210-26, Ref.: “Informes Técnicos de 
+Potencia Máxima y Consumo Específico Neto de la 
+Central TER Teno Gas”, de fecha 05 de agosto de 
+2026. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 y 39 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. el establecimiento de los parámetros de Potencia Máxima de 
+la Central TER Teno Gas, en conformidad con el Informe Técnico preparado por el Experto 
+Técnico Estudios Eléctricos S.A.  
+ 
+Se deja constancia que en el plazo establecido por el Artículo 23 del Anexo Técnico en 
+aplicación, no se recibieron observaciones de Coordinados al informe técnico publicado en 
+la página web del Coordinador mediante la comunicación de la Ref. [1]. Por su parte, el 
+Coordinador no tiene observaciones de carácter técnico al citado informe. 
+ 
+Conforme a lo anterior, los valores de los parámetros técnicos de Potencia Máxima de la 
+Central TER Teno Gas se presentan en la Tabla 1. 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central TER Teno Gas 
+Central/Unidad 
+Tipo de 
+Central 
+Potencia 
+Máxima Bruta 
+[MW] 
+SS/AA (1) 
+[MW] 
+Pérdidas en el 
+transformador 
+principal [MW] 
+Potencia Máxima 
+Neta  
+[MW] 
+TER Teno Gas 
+(U1-U31) 
+Térmica 
+(GLP) 
+54,1280 
+1,4944 
+0,2397 
+52,3939 
+(1) El valor informado como SS/AA considera los consumos de los servicios auxiliares (0,7234 [MW]), pérdidas 
+en los transformadores de bloque (0,1319 [MW]), y pérdidas en la red interna (0,6391 [MW]). 
+ 
+Al respecto, comunico a Ud., que los parámetros presentados en la Tabla 1 entrarán en 
+vigencia a partir de las 00:00 horas del 26 de agosto de 2026. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+puede ser descargado en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > Central 
+TER Teno Gas > 2026 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PVV/CRV/PPF/PCG /cfp 
+ 
+ 

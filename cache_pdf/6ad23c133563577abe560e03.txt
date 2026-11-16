@@ -1,0 +1,65 @@
+ 
+ 
+ 
+GO N°207/2026 
+Santiago, 15 de octubre de 2026 
+ 
+Señor  
+Rodrigo Espinoza. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ant.: [1] Carta DE05854-26, fecha 2 de septiembre de 2026, Ref.: “Solicita antecedentes técnicos 
+de los relés con función de gradiente de frecuencia (ROCOF) asociados a esquemas EDAC y 
+EDAG”.  
+[2] Solicitud Nº1000118 Plataforma Conecta Coordinador, de fecha 25 de septiembre de 
+2026, Ref.: “Antecedentes relés con función de gradiente de frecuencia (ROCOF) EDAC y 
+EDAG - Extensión Plazo”. 
+ 
+Ref.:  Responde a solicitud de antecedentes técnicos de los relés con función de gradiente de 
+frecuencia (ROCOF) asociados a esquemas EDAC y EDAG. 
+ 
+De nuestra consideración: 
+En relación con la comunicación de Ant. [1], mediante la cual el Coordinador solicita información de 
+los equipos de control y protecciones que actualmente se encuentren siendo utilizados en los 
+Esquemas de Desconexión Automática de Carga (EDAC) y en los Esquemas de Desconexión 
+Automática de Generación (EDAG) implementados en el Sistema Eléctrico Nacional (SEN), y 
+considerando la extensión de plazo comunicada en Ant. [2], adjuntamos parte de la información 
+solicitada en el Anexo I de la presente carta asociado a los siguientes esquemas: 
+Instalación 
+Esquema 
+Estado de Entrega de Información  
+PE Horizonte Norte 
+EDAG Zona Norte – PDCE 
+Entregada Parcial 
+PE Horizonte Sur 
+EDAG Zona Norte – PDCE 
+Entregada Parcial 
+TV Nehuenco I 
+EDAG Zona Sur – PDCE 
+Entregada Total 
+PFV Diego de Almagro Sur 
+EDAG Zona Norte – PDCE 
+Entregada Parcial 
+PFV Diego de Almagro Sur 
+EDAG Zona Norte – Fase 0 
+Entregada Parcial 
+ 
+La documentación adjunta también fue cargada en la plataforma Conecta Coordinador. 
+Como se menciona en el Anexo I, parte de la información se encuentra aún pendiente de recabar ya 
+que se encuentra en proceso de consulta con los respectivos fabricantes. En función a lo anterior, 
+solicitamos poder completar los antecedentes a más tarde el 30 de noviembre de 2026. 
+ 
+
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Sebastián Ruiz-Tagle Mena 
+Encargado Titular 
+COLBÚN S.A. 
+ 
+Adjunta lo solicitado. 

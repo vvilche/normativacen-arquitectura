@@ -1,0 +1,181 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Santiago, 24 de marzo de 2025 
+DE 01761-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Publicación Índices de Indisponibilidad 
+Norma 
+Técnica 
+de 
+Indisponibilidad 
+de 
+Suministro y Compensaciones asociados a 
+interrupciones programadas y de curso 
+forzoso de febrero 2025. 
+ 
+De mi consideración: 
+ 
+Mediante la presente, y en conformidad con lo establecido en el Artículo 3-10 de la Norma 
+Técnica de Indisponibilidad de Suministro y Compensaciones (NTISyC), comunico a usted 
+que la información correspondiente a las indisponibilidades programadas y de curso forzoso 
+del mes de febrero de 2025 se encuentra publicada, y puede ser descargada desde el Sitio 
+Web del Coordinador Eléctrico Nacional, en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC > 2025 > Febrero > Cálculo por Desconexión Programada y Forzada 
+ 
+Su representada podrá realizar observaciones a los cálculos de los índices mencionados 
+hasta el 31 de marzo de 2025, mediante carta y con copia al correo electrónico 
+ind.suministro@coordinador.cl, indicando en el asunto “Observaciones a cálculos de 
+indicadores de indisponibilidad programadas y curso forzoso febrero 2025”. Cabe destacar 
+que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de la 
+mencionada norma. 
+ 
+Adicionalmente, en el Anexo a la presente carta se encuentra una evaluación de la calidad 
+de antecedentes solicitados a las empresas distribuidoras mediante las cartas de la Ref. [2-
+5], según los formatos requeridos por la SEC en la carta de la Ref. [1]. Cabe destacar que 
+en los casos donde la información requerida no se ajuste a las condiciones establecidas en 
+las comunicaciones mencionadas o ésta no haya sido enviada en los plazos 
+correspondientes, esta situación será informada a la SEC.  
+ 
+Finalmente, informar que, en caso de no recibirse la información faltante, especificada en 
+el Anexo, el cálculo de indicadores se realizará con los antecedentes disponibles. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+GRH/ycl 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+c.c.:  
+Sr. Victor Gutierrez Gonzalez– Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Jorge Valladares Muñoz – Encargado Titular LuzParral S.A. 
+Sr. Kandinsky Dintrans Pérez – Encargado Titular Empresa Eléctrica de la Frontera S.A. 
+Sr. Francisco Messen Rebolledo – Encargado Titular Enel Distribución S.A. 
+ 
+DBCD/DTE-SSCC/SGASO 
+Referencias: 
+[1] Oficio Electrónico N° 121688 de la Superintendencia de Electricidad y Combustibles (SEC), (N° 
+recepción OP01307-22) Ref.: “Instruye el envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+[2] Carta DE01424-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de febrero de 2025.” de fecha 07 de 
+marzo de 2025. Dirigida a Enel Distribución S.A. 
+ 
+[3] Carta DE01425-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de febrero de 2025.” de fecha 07 de 
+marzo de 2025. Dirigida a Empresa Eléctrica de la Frontera S.A. 
+ 
+[4] Carta DE01426-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de febrero de 2025.” de fecha 07 de 
+marzo de 2025. Dirigida a LuzParral S.A. 
+ 
+[5] Carta DE01427-25 Ref.: “Envío de información asociada al cálculo de Energía no Suministrada 
+de desconexiones programadas y de curso forzoso del mes de febrero de 2025.” de fecha 07 de 
+marzo de 2025. Dirigida a Compañía General de Electricidad S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ www.coordinador.cl 
+Anexo 1: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras  
+ 
+Solicitud 
+Neomante 
+Fecha 
+efectiva 
+inicio 
+Distribuidora 
+Involucrada 
+S/E Afectada 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario DCO 
+SD2025010978 
+03-02-2025 
+Compañía 
+General de 
+Electricidad S.A. 
+S/E Cauquenes 
+S/E La Vega 
+SI 
+SI 
+La información recibida de la empresa 
+distribuidora 
+Compañía 
+General 
+de 
+Electricidad S.A. fue recibida en plazo y en 
+forma, e incorporada al cálculo. 
+SD2025010978 
+03-02-2025 
+LuzParral S.A. 
+S/E Paso Hondo 
+NO 
+- 
+No envía anexo con los alimentadores que 
+fueron afectados según la Solicitud de 
+Desconexión SD2025010978 para la S/E con 
+consumos afectados mencionada (Solicitado 
+en comunicación DE01426-25). 
+ 
+Enviar antecedentes solicitados. 
+SD2025011841 
+05-02-2025 
+Enel Distribución 
+S.A. 
+S/E Tap Off 
+Entel 
+NO 
+- 
+No envía anexo con los alimentadores que 
+fueron afectados según la Solicitud de 
+Desconexión SD2025011841 para la S/E con 
+consumos afectados mencionada (Solicitado 
+en comunicación DE01424-25). 
+ 
+Enviar antecedentes solicitados. 
+SD2025013174 
+08-02-2025 
+Empresa Eléctrica 
+de la Frontera 
+S.A. 
+S/E Curacautín 
+Parcial 
+SI 
+La hora de desconexión informada para los 
+alimentadores en S/E Curacautín no coincide 
+con la Hora de Desconexión Efectiva 
+informada en la Solicitud de Desconexión. 
+ 
+Enviar antecedentes corregidos. 
+ 
+ 
+ 
+ 
+ 

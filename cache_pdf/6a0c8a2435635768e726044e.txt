@@ -1,0 +1,73 @@
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 19 de mayo de 2026 
+ 
+    
+DE 03400-26 
+ 
+Señor 
+Javier Moraga 
+Encargado Titular  
+Javiera SpA 
+Presente 
+Ref.: Solicitud de evaluación y plan de 
+adecuación de sistemas de control para 
+prestación simultánea de CPF y CSF de la 
+central PFV Javiera.  
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y considerando los antecedentes y resultados 
+obtenidos de las pruebas asociadas a la prestación del Servicio Complementario de Control 
+Secundario de Frecuencia de la central PFV Javiera, informo a usted lo siguiente: 
+a) De la revisión de los resultados de las pruebas de integración al AGC efectuadas, 
+se observa que la configuración actual del sistema de control de la instalación 
+presentaría limitaciones para la prestación simultánea de los servicios de Control 
+Primario de Frecuencia (CPF) y Control Secundario de Frecuencia (CSF) debido a 
+que una vez activado el CPF, la central no ejecuta las consignas de variación de 
+carga instruidas por el AGC.  
+b) En atención a lo anterior, se solicita a su representada evaluar la factibilidad técnica 
+de implementar adecuaciones, ajustes y/o modificaciones en el sistema de control 
+de la unidad que permitan asegurar la prestación simultánea de CPF y CSF. Para 
+tales efectos, se solicita presentar, a más tardar el 09 de junio de 2026, un plan de 
+trabajo asociado a la realización de dicha evaluación, incluyendo los ajustes de 
+control y/o modificaciones que se estimen necesarias para habilitar la prestación 
+simultánea de ambos servicios complementarios.  
+Dicho plan deberá incorporar un cronograma con los plazos estimados para su 
+implementación, así como la identificación de eventuales restricciones técnicas que 
+pudieran afectar o impedir su ejecución. Asimismo, las actividades contempladas en 
+el referido plan deberán implementarse en un plazo no superior a 3 meses, tras lo 
+cual deberá presentarse al Coordinador Eléctrico un informe técnico con los 
+resultados de la evaluación efectuada. 
+c) Adicionalmente se solicita a su representada ingresar en un plazo de 3 días hábiles 
+una limitación en el sistema Neomante asociada a la situación antes descrita e 
+informar el N° de aviso al correo verificación.SSCC@coordinador.cl.  
+ 
+ 
+
+ 
+ 
+AV. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+www.coordinador.cl 
+Finalmente, una vez implementadas las eventuales adecuaciones y, en caso de habilitarse 
+la prestación simultánea de CPF y CSF, deberá efectuarse en conjunto con el Coordinador 
+las correspondientes pruebas AGC y verificaciones técnicas que permitan validar el 
+desempeño de la unidad bajo las nuevas condiciones operacionales y de control. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/PGR/ycl 
+c.c.:  
+Sr. Carlos Leiva – Encargado Suplente Javiera SpA 
+DMAP 
+ 

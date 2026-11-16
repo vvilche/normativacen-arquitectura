@@ -1,0 +1,182 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 19 de mayo de 2026 
+DE 03395-26 
+ 
+Señora 
+Carolina Vélez 
+Encargada Titular 
+Generadora Metropolitana SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio 
+Complementario 
+de 
+Control 
+Secundario de Frecuencia e integración al 
+Despacho Económico del Ciclo Combinado 
+TER Nueva Renca. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NT 
+SSCC), ha finalizado el proceso de verificación del Servicio Complementario (SC) de 
+Control Secundario de Frecuencia (CSF) e integración al módulo de Despacho Económico 
+automático del GMS/SCADA del Ciclo Combinado de TER Nueva Renca, en las 
+configuraciones que se presentan en anexo de la presente carta. 
+ 
+Como resultado de este proceso, la central mencionada ha validado su estado de verificada 
+bajo el régimen vigente de SSCC. 
+ 
+El informe técnico que justifica la verificación de la capacidad de la prestación del SC de 
+CSF de la central TER Nueva Renca operando en Ciclo Cerrado (Diésel y GNL), se 
+encuentra publicado en la siguiente ruta de la página web del Coordinador Eléctrico 
+Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Secundario de Frecuencia > Central TER Nueva Renca 
+ 
+Finalmente, la central mencionada podrá ser instruida de manera directa por el Coordinador 
+Eléctrico Nacional en la prestación del Control Secundario de Frecuencia. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+C.c.: 
+Sr. Sebastián Navarrete – Encargado Suplente Generadora Metropolitana SpA 
+DCO/DMAP 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central TER Nueva Renca 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Nueva Renca, CC con Diésel 
+• 
+Potencia máxima bruta: 338,04 [MW]. 
+• 
+Potencia mínima bruta: 205 [MW]. 
+b) Central TER Nueva Renca, CC con GNL 
+• 
+Potencia máxima bruta: 330,48 [MW] 
+• 
+Potencia mínima bruta: 160 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+ 
+Control Secundario de 
+Frecuencia (CSF) 
+Control Secundario de Frecuencia 
+por Subfrecuencia (CSF+) 
+Control Secundario de Frecuencia 
+por Sobrefrecuencia (CSF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Generadora 
+Metropolitana SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en la página siguiente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+a) Control Secundario de Frecuencia 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Secundario de Frecuencia 
+Subcategoría 
+CSF+ y CSF- 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+CC Diésel 
+CC GNL 
+Central TER 
+Nueva Renca 
+Diésel / 
+GNL 
+Tasa 
+normal 
+de 
+operación [MW/min] 
+Subida 
+6 
+6 
+Bajada 
+6 
+6 
+Aporte CSF [MW] (1) 
+Subida 
+5 
+10 
+Bajada 
+-5 
+-10 
+Límite de regulación superior 
+[MW]  
+210 
+210 
+Límite de regulación inferior 
+[MW] 
+205 
+190 
+(1) Los límites de regulación y el aporte máximo de CSF, correspondientes a potencia activa bruta, fueron 
+informados por Generadora Metropolitana SpA. El Coordinador consultará al coordinado si estos límites de 
+prestación del CSF pueden ser ampliados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

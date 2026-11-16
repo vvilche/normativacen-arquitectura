@@ -1,0 +1,230 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 02 de diciembre de 2025 
+DE 07711-25 
+Señor 
+Eduardo Verdugo 
+Encargado Titular 
+Atacama Solar SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Terciario de 
+Frecuencia de la central PFV Atacama Solar II. 
+[1] Carta 0045-2025 de Atacama Solar SpA, “Envío de 
+informe de verificación de Control Terciario de 
+Frecuencia”, de fecha 10 de noviembre de 2025. 
+Responde a Ingreso DE11288-25. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SCC) de Control 
+Terciario de Frecuencia (CTF) de la central PFV Atacama Solar II. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario a partir de las 00:00 del 04 de diciembre de 2025, 
+considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de la presente comunicación se presenta la información indicada 
+en el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación 
+de SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CTF de la central PFV Atacama Solar II se encuentra publicado en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central PFV Atacama Solar II 
+ 
+Finalmente, la central PFV Atacama Solar II podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del Control Terciario de Frecuencia. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PGR/adr 
+c.c.: Empresas Coordinadas 
+Sr. Juan Pablo Kindermann – Encargado Suplente Atacama Solar SpA 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PFV Atacama Solar II 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV Atacama Solar II 
+• 
+Potencia máxima bruta: 153,687 [MW] 
+• 
+Potencia máxima neta: 149,980 [MW] 
+• 
+Potencia mínima bruta: 3,303 [MW] 
+• 
+Potencia mínima neta: 2,366 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF) 
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia: 
+El gradiente de carga puede ser modificado por el operador con la central en servicio, 
+con un rango de configuración entre 0 - 20% Pnom/min. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Atacama Solar SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+PFV Atacama 
+Solar II 
+Solar 
+Tasa normal de operación [MW/min] 
+Subida 
+15,00 
+ 
+Bajada 
+15,00 
+ 
+Tasa máxima de operación [MW/min] (1) 
+Subida 
+30,00 
+ 
+Bajada 
+30,00 
+ 
+Tiempo de respuesta [minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] (2) 
+Subida 
+147,614 
+ 
+Bajada 
+-147,614 
+ 
+Límite de regulación superior [MW] (3) 
+153,687 
+ 
+Límite de regulación inferior [MW] (3) 
+3,303 
+ 
+(1) Tasa de subida y bajada de carga máxima corresponde al 20% de Pnom. 
+ 
+(2) La reserva se determina como la diferencia entre las potencias máxima y mínima netas de la central correspondientes a 
+149,98 [MW] y 2,366 [MW]. 
+ 
+(3) Los límites de regulación, correspondientes a la potencia bruta y el aporte máximo de CTF podrán verse modificados si se 
+actualizan los parámetros operacionales de la central. 
+ 
+ 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+PFV Atacama 
+Solar II 
+Solar 
+Tiempo hasta sincronización [min] 
+0,000 
+ 
+Tiempo hasta mínimo técnico [min] 
+3,260 
+ 
+Reserva Fría [MW] 
+149,98 
+ 
+ 
+ 
+ 
+ 

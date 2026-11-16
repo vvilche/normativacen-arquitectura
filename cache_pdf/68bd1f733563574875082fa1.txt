@@ -1,0 +1,184 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 08 de septiembre de 2025 
+DE 05601-25 
+Señor 
+Jorge Valladares Muñoz 
+Encargado Titular 
+Luzlinares S.A. 
+Presente 
+Ref.: EAF 261/2025 - Apertura intempestiva de los 
+interruptores 52CT1 y 52CT2 de S/E Linares Norte 
+De mi consideración: 
+ 
+Me refiero a la apertura intempestiva de los interruptores 52CT1 y 52CT2 de S/E Linares 
+Norte, ocurrida a las 22:40 horas del día 11 de junio de 2025, en la cual se vieron 
+involucradas instalaciones de su representada. 
+ 
+Al respecto, con el objetivo de aclarar debidamente las causas y consecuencias de los 
+eventos en cuestión, en conformidad con lo que establece el Título 6-7, y en particular, el 
+Artículo 6-44 de la Norma Técnica de Seguridad y Calidad de Servicio, y en virtud de las 
+modificaciones aplicadas al proceso de los Estudios para Análisis de Falla, instruidas por la 
+Superintendencia de Electricidad y Combustibles mediante las Resoluciones Exentas 
+N°30989-2019 y N°30891-2019, solicito a usted remitir al Coordinador antes de las 18:00 
+horas del día 15 de septiembre de 2025, la siguiente información: 
+ 
+Se solicita aclarar el origen y las causas de la falla que provocó la apertura de los 
+interruptores 52C1, 52CT1 y 52CT2 de la S/E Linares Norte. Asimismo, se requiere 
+precisar el punto exacto de la falla acompañado por un diagrama unilineal detallado. 
+Según los eventos mostrados a continuación, proporcionados por la empresa 
+Chilquinta Transmisión S.A., se registró una operación presuntamente fallida del 
+interruptor 52C4 de S/E Linares Norte, equipo que correspondería al interruptor 
+52C1 según unilineal de esta S/E (página siguiente). 
+ 
+ 
+ 
+ 
+HIST_TIMESTAMP
+TEXT
+CATEGORY
+AREA
+EXCDEF
+LOCATION
+EVENT
+RTU_TIME
+MS
+BAD_RTU_TIME
+11/06/2025 22:40:04s
+Int.13.2kV 52C4 Al.LINARES SUR ABIERTO
+ALARM1A
+CQTSTS
+S224
+LN
+0 11/06/2025 18
+150
+1
+11/06/2025 22:40:04s
+Int.13.2kV 52C4 Al.LINARES SUR CERRADO
+ALARM1A
+CQTSTS
+S202
+LN
+1 11/06/2025 18
+117
+1
+11/06/2025 22:40:04s
+Int.13.2kV 52C4 Al.LINARES SUR ABIERTO
+ALARM1A
+CQTSTS
+S224
+LN
+0 11/06/2025 18
+410
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 ALARMA
+ALARM4A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+835
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 NORMAL
+ALARM4A
+CQTSTS
+S202
+LN
+1 11/06/2025 22
+335
+1
+11/06/2025 22:40:04s
+Int.13.2kV 52CT1 TR-1 ABIERTO
+ALARM1A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+880
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 ALARMA
+ALARM4A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+869
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 NORMAL
+ALARM4A
+CQTSTS
+S202
+LN
+1 11/06/2025 22
+372
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 ALARMA
+ALARM4A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+373
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 NORMAL
+ALARM4A
+CQTSTS
+S202
+LN
+1 11/06/2025 22
+874
+1
+11/06/2025 22:40:04s
+Falta AlimentaciÃ³n CA Int.13.2kV TR-1 ALARMA
+ALARM4A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+876
+1
+11/06/2025 22:40:04s
+Int.13.2kV 52CT2 TR-2 ABIERTO
+ALARM1A
+CQTSTS
+S224
+LN
+0 11/06/2025 22
+975
+1
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+En base al punto anterior, se solicita enviar los registros oscilográficos y de eventos 
+(en formato COMTRADE) del paño C1 de S/E Linares Norte, junto con un análisis 
+de su operación, más el pronunciamiento respecto al no despeje de la falla. 
+ 
+Topología previa a la falla en el recinto de distribución en S/E Linares Norte, en 
+particular el estado del desconectador 89CS-3, con el objetivo de analizar la 
+propagación de la falla que fundamente el motivo de la desconexión forzada de 
+ambas barras de media tensión. 
+ 
+Estado actual del aislador cerámico involucrado con la falla. En caso de que aún no 
+se hayan realizado los trabajos de reparación, se solicita un cronograma de trabajo, 
+con fechas definidas, para regularizar el aislador cerámico en mal estado, junto con 
+los mantenimientos realizados a dichas instalaciones. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+ Coordinador Eléctrico Nacional 
+c.c.:  
+Sr. Víctor Ruiz Poblete - Encargado Suplente de la empresa Luzlinares S.A. 
+DAOP/ngm 

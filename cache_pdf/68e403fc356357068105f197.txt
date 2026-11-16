@@ -1,0 +1,73 @@
+ 
+ 
+Santiago, 03 de octubre de 2025 
+ 
+Señor  
+Rodrigo Espinoza  
+Gerente de Operación  
+Coordinador Eléctrico Nacional (CEN)  
+Presente.  
+ 
+ 
+[1] Carta DE05006-25 Comunica atraso en el 
+proceso de Verificación de instalaciones de 
+Generación para la Prestación de Servicios 
+Complementarios de acuerdo con Cronograma 
+Vigente. 
+ 
+[2] Carta DE04986-25 Proceso de Verificación de 
+instalaciones de Generación para la Prestación de 
+Servicios Complementarios Santiago Solar 
+ 
+[3] Carta DE 02388-25 Comunica atraso en el 
+proceso de Verificación de Instalaciones de 
+Generación para la Prestación de Servicios 
+Complementarios de acuerdo con Cronograma 
+Vigente. 
+ 
+De mi consideración, 
+De acuerdo con lo solicitado a Santiago Solar S.A, en la carta DE05006-25, y lo discutido con 
+el Coordinador mediante correo electrónico el pasado 18 de julio del presente año, en donde 
+se solicita que la central pueda llegar al menos a un 80% de su potencia máxima para los 
+ensayos de SSCC, se indicó que se deben desplazar a lo menos al mes de septiembre, 
+reflejando en la realidad dichos niveles de recurso solicitado a principios de octubre. 
+Adicionalmente, se manifestó la necesidad de realizar cambios en el controlador de planta 
+para poder ensayar las pruebas de Control Primario de Frecuencia, ya que no es posible 
+simular escalones de frecuencia con las condiciones actuales, por lo que se está trabajando 
+actualmente con el fabricante de los inversores el poder implementar la mejora en el menor 
+tiempo posible. Dado estos motivos, se planificarán los ensayos entre el 20 y 30 de octubre de 
+2025, priorizando los días de mayor recurso y que se puedan verificar todos los SSCC 
+solicitados entregando los informes respectivos dos semanas después de culminar los 
+ensayos. 
+En relación con los ensayos del pasado 25 de agosto de 2025 de Control Secundario de 
+Frecuencia, las comunicaciones pudieron realizarse de forma exitosa y la escritura y feedback 
+de la consiga desde el Coordinador a la central se pudieron validar. Por otra parte, se levantó 
+la necesidad de ajustar los proporcionales del controlador de planta para un control más fino, 
+
+ 
+ 
+el cual se está trabajando con fabricante junto con la simulación de escalones antes 
+mencionada. Finalmente, en relación con la banda muerta actualmente configurada en los 
+inversores, obedece a lo indicado en el Artículo 3-17 de la NTSyCS. No obstante, es posible 
+deshabilitar los parámetros de banda muerta y estatismo en las configuraciones del inversor 
+de forma permanente, y quedará solo para control a nivel planta, por ejemplo, si el Control 
+Primario de Frecuencia los necesita con ciertas características que se soliciten 
+(estatismo/droop, histéresis, banda muerta etc.), para esto se requiere confirmación del 
+Coordinador y se puede implementar en un plazo de no más de dos semanas. 
+ 
+ Sin otro particular y agradeciendo su atención, 
+Se despide atentamente, 
+ 
+ 
+ 
+___________________________________ 
+Lucas Guyonnet 
+Encargado Suplente 
+Santiago Solar S.A 
+ 
+ Cc:  
+Departamento de Control de la Operación – verificacion.SSCC@coordinador.cl  
+Cristian Reyes Vigh Ingeniero Senior de Control de la Operación - cristian.reyes@coordinador.cl 
+Arturo Olavarria Ingeniero de Modelación y Aplicaciones EMS - Gerencia Operación  Arturo.Olavarria@coordinador.cl 
+ 
+ 

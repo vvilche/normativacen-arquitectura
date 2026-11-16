@@ -1,0 +1,127 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 1 de septiembre de 2025 
+AEL0082C-25 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a carta DE05006-25  
+ 
+ 
+De nuestra consideración: 
+ 
+Nos referimos a la carta DE05006-25 del 13 de agosto de 2025 en que el Coordinador Eléctrico 
+Nacional solicita información sobre el estado de verificación de Servicios Complementarios (SSCC) 
+de un listado de centrales, entre las cuales se encuentran unidades representadas por Aela 
+Generación S.A. 
+ 
+Al respecto, se adjuntan los antecedentes sobre el estado de la verificación para cada una de las 
+unidades. 
+PE Aurora 
+ 
+La central ya ha realizado las pruebas de verificación de CT y CTF conforme a los protocolos 
+aprobados por el Coordinador, por lo que esa sección del informe ya está desarrollada. El retraso 
+en la entrega se debe a que aún está pendiente la sección correspondiente a CPF, la cual requiere 
+los comentarios del proveedor para confirmar si las pruebas pueden llevarse a cabo dentro de los 
+parámetros técnicos de la central sin comprometer la integridad de los equipos.  
+ 
+Se estima que el informe estará listo para ser entregado a finales de octubre.  
+PE Sarco 
+ 
+Al igual que PE Aurora, la central PE Sarco ya ha realizado las pruebas de verificación de CT y CTF conforme 
+a los protocolos aprobados por el Coordinador, por lo que esa sección del informe ya está desarrollada. El 
+retraso en la entrega se debe a que aún está pendiente la sección correspondiente a CPF, la cual requiere 
+los comentarios del proveedor para confirmar si las pruebas pueden llevarse a cabo dentro de los 
+parámetros técnicos de la central sin comprometer la integridad de los equipos.  
+ 
+
+ 
+ 
+ 
+ 
+2 
+ 
+Se estima que el informe estará listo para ser entregado a finales de octubre. 
+PE Cuel 
+ 
+Actualmente el PE Cuel se encuentra en proceso de actualización de su sistema SCADA para poder 
+cumplir con los requerimientos de verificación de SSCC. El proceso de implementación y pruebas 
+se extenderá durante los próximos dos meses, por lo que se estima que a finales del 2025 
+podremos realizar las pruebas de verificación dentro de los parámetros técnicos de la central y 
+sin comprometer la integridad de los equipos.  
+ 
+Se estima que el informe estará disponible para febrero de 2026. 
+HP Mampil 
+ 
+HP Mampil tiene pendiente la entrega del informe de CPF y CSF, lo que se ha retrasado ya que 
+actualmente se encuentra realizando el reemplazo de reguladores de tensión (MNR NUP5480) 
+con fecha estimada de término para octubre de 2025. Posterior a esto, se procederá a revisar con 
+el experto técnico la viabilidad de realizar las pruebas de CPF.  
+ 
+Es fundamental realizar una revisión exhaustiva de las capacidades técnicas de la central, 
+considerando las condiciones específicas de activación y entrega del CPF. Esta evaluación debe 
+asegurar que la ejecución del servicio no comprometa la seguridad de los equipos ni la integridad 
+de las personas involucradas en la operación. 
+ 
+Se estima que el informe estará disponible para junio de 2026, dada la disponibilidad del recurso 
+hídrico y los mantenimientos programados para la central. 
+HP Peuchen 
+ 
+HP Peuchén tiene pendiente la entrega del informe de CPF y CSF y en este contexto es 
+fundamental realizar una revisión exhaustiva de las capacidades técnicas de la central, 
+considerando las condiciones específicas de activación y entrega del CPF. Esta evaluación debe 
+asegurar que la ejecución del servicio no comprometa la seguridad de los equipos ni la integridad 
+de las personas involucradas en la operación. 
+ 
+Se estima que el informe estará disponible para mayo de 2025, dada la disponibilidad del recurso 
+hídrico y los mantenimientos programados para la central. 
+
+ 
+ 
+ 
+ 
+3 
+ 
+PFV Salvador 
+ 
+La central PFV+BESS Salvador actualmente está en proceso de revisión de protocolos de parte del 
+proveedor del sistema de almacenamiento para definir los parámetros dentro de los cuales 
+puede operar la central de manera segura. En este contexto, tanto las celdas como los sistemas 
+de control de la solución de almacenamiento se diseñaron para el arbitraje de energía y no para 
+la prestación de SSCC, lo que implica revisión de las garantías de los equipos toda vez que a mayor 
+tasa de descarga y de exigencia sobre las celdas se aumenta la degradación del sistema. 
+ 
+Con todo, se estima que se podrá entregar el informe a enero de 2026. 
+PFV San Andrés 
+ 
+Al igual que la central PFV+BESS Salvador, la central PFV+BESS San Andrés actualmente está en 
+proceso de revisión de protocolos de parte del proveedor del sistema de almacenamiento para 
+definir los parámetros dentro de los cuales puede operar la central de manera segura. En este 
+contexto, tanto las celdas como los sistemas de control de la solución de almacenamiento se 
+diseñaron para el arbitraje de energía y no para la prestación de SSCC, lo que implica revisión de 
+las garantías de los equipos toda vez que a mayor tasa de descarga y de exigencia sobre las celdas 
+se aumenta la degradación del sistema. 
+ 
+Con todo, se estima que se podrá entregar el informe a enero de 2026, sujeto a la disponibilidad 
+del experto técnico para realizar las pruebas en las fechas correspondientes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nicolás Correa 
+Encargado Suplente 
+Innergex Energía Renovable SpA 

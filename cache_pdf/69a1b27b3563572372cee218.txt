@@ -1,0 +1,105 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 27 de febrero de 2026 
+DE 01350-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de Parámetros de Potencia 
+Máxima Central PFV Desierto de Atacama. 
+ 
+ 
+De mi consideración: 
+ 
+En Cumplimiento con lo establecido en el Artículo 24 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. La aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Potencia Máxima de la Central PFV Desierto de Atacama, en conformidad con el 
+Informe Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en Aplicación, no se recibieron observaciones de Coordinado alguno al Informe 
+Técnico indicado publicado en la página web del Coordinador mediante la comunicación de 
+la Ref. [2]. Por su parte, el Coordinador envió observaciones de carácter técnico mediante 
+comunicación de la Ref. [3], las cuales fueron subsanadas por el Coordinado Copiapó Solar 
+SpA.  
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PFV 
+Desierto de Atacama se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima de la Central PFV Desierto de Atacama  
+Central/Unidad 
+Potencia 
+Máxima 
+Bruta 
+[MW] 
+SS. AA 
+[MW] 
+Pérdidas en 
+la central (1) 
+[MW] 
+Potencia Máxima 
+Neta (2) 
+[MW] 
+PFV Desierto de Atacama 
+239,8450 
+0,2689 
+4,1580 
+235,4181 
+(1) Este valor corresponde a las pérdidas en el transformador de poder de la central (0,4682 MW), más 
+las pérdidas en el sistema colector y los transformadores de bloque de la central estimadas en (3,6898 
+MW). 
+(2) Potencia inyectada en la barra de 220 kV de la S/E Desierto de Atacama. 
+ 
+Al respecto, comunico a Ud., que los parámetros de mínimo técnico de la Central PFV 
+Desierto de Atacama, entrarán en vigencia a partir de las 00:00 horas del día 03 de marzo 
+de 2026. 
+ 
+El informe técnico de potencia máxima de la Central PFV Desierto de Atacama, que 
+contiene la justificación de los parámetros indicados anteriormente, puede ser descargado 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Inicio > Operación del Sistema > Post-Operación> Parámetros Operacionales de 
+Unidades Generadoras > Potencia Máxima > Pruebas de Potencia Máxima > Central 
+PFV Desierto de Atacama > 2026 
+ 
+Sin otro particular, saluda atentamente a usted,   
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/PPF/RSM/adr 
+ 
+ 
+Referencias 
+ 
+[1] Carta COM-1657-25 del Coordinado Copiapó Solar SpA, Ref.: “Responde Carta 
+DE06669-25 Observaciones PPOO Desierto de Atacama”, de fecha 02 de diciembre de 
+2025. Ingreso DE12124-25 
+ 
+[2] Carta DE05184-25, Ref.: [NUP 1143] Informes Técnicos de Parámetros Operacionales 
+de la Central PFV Desierto de Atacama”, de fecha 21 de agosto de 2025. 
+ 
+[3] Carta DE06669-25, Ref.: “Observaciones a los Parámetros Operacionales del PFV 
+Desierto de Atacama”, de fecha 21 de octubre de 2025. 
+ 

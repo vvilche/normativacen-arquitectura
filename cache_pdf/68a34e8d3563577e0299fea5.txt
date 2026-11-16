@@ -1,0 +1,100 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 18 de agosto de 2025 
+ 
+    
+DE 05069-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Mínimo Técnico de la Central PE 
+Horizonte Norte. 
+[1] Carta DE01438-25, Ref.: “[NUP 1254] Informes 
+Técnicos de Parámetros Operacionales del PE 
+Horizonte Norte, de Colbún S.A.”, de fecha 7 de marzo 
+de 2025. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PE Horizonte Norte, en conformidad con 
+el Informe Técnico publicado mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+indicado, publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[1]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme a lo anterior, los parámetros de Mínimo Técnico de la Central PE Horizonte Norte 
+se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Mínimo Técnico del Parque Eólico Horizonte Norte 
+Central/Unidad 
+Mínimo 
+Técnico(1) 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en 
+la central(2) 
+[MW] 
+Potencia Mínima 
+Neta(3) 
+[MW] 
+PE Horizonte Norte 
+1,5894 
+0,9909  
+0,2585 
+0,3400 
+(1) El controlador de la central ajusta automáticamente el número de aerogeneradores para mantener 
+estable la potencia activa de la central. 
+(2) Este valor corresponde a las pérdidas en el sistema colector en media tensión (0,0877 MW) y de los 
+transformadores de poder (0,1708 MW). 
+(3) Potencia inyectada en la barra de 220 kV de S/E Horizonte Norte. 
+ 
+Al respecto, comunico a Ud. que los parámetros de Mínimo Técnico de la Central PE 
+Horizonte Norte entrarán en vigencia a partir de las 00:00 horas del miércoles 20 de 
+agosto de 2025. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+El informe técnico de Mínimo Técnico de la Central PE Horizonte Norte, que contiene la 
+justificación de los parámetros indicados anteriormente, puede ser descargado en la 
+siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > Mínimo 
+Técnico > Informes de Mínimos Técnicos Unidades Generadoras > Central PE 
+Horizonte Norte  
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+CRV/adr 
+c.c.:  
+Sr. Sebastián Ruiz-Tagle – Encargado Titular Colbún S.A. 
+DAA, DAEP, DIT, DPID, DPRO, DSCGx, DSCTx, DTE-SSCC, DTPT, DAOP, DCONEC, DCO, SGESO, SGPAE, SGTM 
+ 
+ 
+ 

@@ -1,0 +1,63 @@
+ 
+Santiago, 20 de octubre de 2026 
+CVE-2610-020 
+ 
+Señor
+Patricio Valenzuela V.
+Subgerente de Control y Desarrollo Operacional
+Coordinador Eléctrico Nacional
+Presente
+ 
+Ref.: Solicita revisión y rectiﬁcación de 
+antecedentes asociados a carta DE 06813-
+26 
+ 
+De nuestra consideración:  
+  
+Por medio de la presente, y tras revisar las cartas DE 02069-25, DE 04572-25, DE 05854-26, DE 06602-26 y DE 
+06813-26, así como los antecedentes disponibles, estimamos que la Central Bellavista, cuyo RUT es 
+76.055.368-9, no se encontraría en situación de incumplimiento respecto de la implementación del Esquema 
+de Desconexión Automática de Generación de la Zona Norte (EDAG Zona Norte).  
+  
+Lo anterior se sustenta en que la instalación individualizada en los antecedentes que originan la observación 
+no corresponde a la Central Bellavista. En particular, la carta DE 02069-25 identiﬁca al coordinado “Tamarugal 
+Solar SpA” y, en su anexo, asocia dicho coordinado a la central “PFV Aurora Solar”. Posteriormente, la carta DE 
+04572-25 reitera la implementación del EDAG para el Parque Fotovoltaico Estela Solar; y la carta DE 06813-26 
+identiﬁca en su anexo al coordinado “Tamarugal Solar 1 S.A.” asociado a la central “PFV Estela Solar”.  
+  
+Estos antecedentes evidencian una aparente inconsistencia en la identiﬁcación del coordinado y de la 
+instalación. En efecto, en el anexo de la carta DE 06813-26 se asocia al coordinado “Tamarugal Solar 1 S.A.” con 
+la central “PFV Estela Solar”. Sin embargo, nuestra central corresponde a Bellavista, un PMGD de 9 MWac 
+conectado a la barra de 23 kV del alimentador Pintados de la S/E Laguna, mientras que PFV Estela Solar se 
+conecta a la barra de 220 kV de la S/E Granja Solar, correspondiendo, por tanto, a una instalación distinta. 
+Asimismo, PFV Estela Solar corresponde al proyecto anteriormente denominado PFV Aurora Solar y no a la 
+Central Bellavista. Por otra parte, en las cartas DE 05854-26 y DE 06602-26 se incluye a “Tamarugal Solar 1 S.A.” 
+únicamente en sus respectivas listas de distribución, sin individualizar la central ni precisar la instalación a la 
+cual se asocia el requerimiento.  
+  
+En atención a los antecedentes expuestos, agradeceremos conﬁrmar si el requerimiento de integración al 
+EDAG Zona Norte contenido en la carta DE 06813-26 corresponde efectivamente a la central “PFV Estela Solar”, 
+individualizada en su anexo. Esta conﬁrmación permitirá aclarar el alcance de la instrucción y mantener 
+correctamente identiﬁcados el coordinado y la instalación asociados al requerimiento.  
+  
+En caso de que el requerimiento estuviese destinado a la Central Bellavista, solicitamos se tenga presente que 
+la falta de integración al EDAG se explica por las inconsistencias observadas en la identiﬁcación del coordinado 
+y de la instalación en las comunicaciones recibidas, en ninguna de las cuales se individualizó expresamente a 
+Bellavista como central sujeta a integración. De conﬁrmarse que la instrucción corresponde a nuestra central, 
+quedamos a disposición para revisar conjuntamente los antecedentes, precisar su alcance y coordinar las 
+acciones que resulten pertinentes para dar cumplimiento al requerimiento.  
+  
+Sin otro particular, le saluda atentamente,  
+  
+  
+ 
+ 
+ 
+ 
+ 
+_______________________________ 
+Joel Padilla 
+Gerente de Operaciones 
+Tamarugal Solar 1 S.A. 
+CVE Chile 
+ 

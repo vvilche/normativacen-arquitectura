@@ -1,0 +1,122 @@
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 10 de agosto de 2026 
+DE 05321-26 
+Señor 
+Miguel Buzunariz 
+Encargado Titular 
+Enel Green Power Chile S.A. 
+Presente 
+Ref.: Aceptación de Expertos Técnicos para los 
+Ensayos 
+de 
+Verificación 
+de 
+Servicios 
+Complementarios de Control de Frecuencia y 
+Control de Tensión del proyecto NUP 5282 BESS 
+PFV Azabache.  
+ 
+[1] Carta EGP 095-26 de Enel Green Power Chile 
+S.A., Ref.: “Solicitud de inicio del Proceso de 
+Verificación de Instalaciones para la Prestación de 
+Servicios Complementarios — BESS Azabache, 
+NUP 5282 y BESS Valle de los Vientos, NUP 
+5280”, de fecha 27 de julio de 2026.  
+Responde a Ingreso DE06441-26. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en el 
+Artículo 4 del Anexo Técnico “Verificación de Instalaciones para la prestación SSCC”, de la 
+Norma Técnica de Servicios Complementarios (NTSSCC), se han revisado los 
+antecedentes entregados por su representada mediante comunicación de la Ref. [1]. 
+ 
+Al respecto, comunicamos a Ud. que el Coordinador Eléctrico Nacional, ha determinado la 
+admisibilidad de los expertos de la empresa Estudios Energéticos Consultores S.A., que 
+se presentan en Anexo 1 de la presente carta, para llevar a cabo la supervisión de los 
+ensayos de Verificación de los Servicios Complementarios de Control de Tensión (CT), 
+Control Primario de Frecuencia (CPF) y Control Terciario de Frecuencia (CTF) a prestar por 
+el BESS PFV Azabache, el que se asocia a central renovable con capacidad de 
+almacenamiento (CRCA) PFV Azabache. 
+ 
+La verificación deberá ser realizada en cumplimiento con lo establecido en el Anexo Técnico 
+“Verificación de Instalaciones para la Prestación de SSCC” de la Norma Técnica 
+mencionada previamente y siguiendo los lineamientos de las Guías de Verificación 
+elaborados por este Coordinador y que se encuentran publicados en la siguiente ruta: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación  
+ 
+Los protocolos de ensayo y el informe de verificación, resultantes de la ejecución de los 
+ensayos en terreno, deberán ser enviados para revisión del Coordinador mediante carta y 
+con copia al correo verificacion.sscc@coordinador.cl, siguiendo las instrucciones y plazos 
+contenidos en los documentos previamente indicados. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300  
+ www.coordinador.cl 
+ 
+Asimismo, la instalación debe ser integrada al módulo de Control Automático de Generación 
+(AGC) para verificar la prestación del Servicio Complementario de Control Secundario de 
+Frecuencia (CSF) e integrarla al Despacho Económico (DE), siendo en este caso el 
+Coordinador quien cumple el rol de Experto Técnico.  
+ 
+Para efectos de coordinar las actividades que permitan realizar la verificación del SC de 
+CSF e integrar la instalación al DE, su representada deberá tomar contacto con en el 
+encargado de Conexiones del Coordinador, designado para este proyecto (NUP 5282) en 
+la plataforma de gestión de proyectos (PGP).  
+ 
+Dichas actividades se describen a continuación en el mismo orden en que deberán ser 
+ejecutadas: 
+ 
+1. Solicitud del listado de señales (SITR) requeridas para la prestación del CSF. 
+Cabe destacar que el listado de señales del CSF coincide con el listado de señales 
+requerido para el DE. 
+ 
+2. Solicitud de pruebas punto a punto de las señales requeridas para la prestación 
+del CSF y funcionamiento del DE. 
+ 
+3. Solicitud de integración de la instalación al AGC y pruebas funcionales de CSF y 
+DE. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+CRV/DIR/cfp 
+ 
+ 
+
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300  
+ www.coordinador.cl 
+Anexo 1: Exigencias Art. 4 a Expertos Técnicos  
+ 
+ 
+ 
+Exigencias Art. 4 
+Estudios Energéticos Consultores S.A. 
+10 años de experiencia relacionada con los 
+ensayos a realizar 
+Cumple 
+Profesionales que cumplen Experiencia y 
+que cumplen rol de Experto Técnico 
+• 
+Federico Muiño 
+• 
+Nicolás Pérez  
+Declaración Jurada de Conflicto de Interés 
+Cumple presentación de declaración jurada 
+de ausencia de conflicto de interés 

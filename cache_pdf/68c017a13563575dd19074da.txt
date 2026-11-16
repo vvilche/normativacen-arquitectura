@@ -1,0 +1,241 @@
+                                                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 1 de 1 
+  
+Santiago, 08 de septiembre de 2025 
+DE 024 Status Semana 6 EDAG GS.docx 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+Ref.: Reporte Semanal Implementación EDAG 
+- PFV y BESS Generación Solar 
+ - Semana 6 
+ 
+De nuestra consideración: 
+Por medio de la presente, y en representación del proyecto Generación Solar SpA, informamos el estado de avance semanal 
+de la implementación del Esquema de Desconexión Automática de Generación (EDAG) del Plan de Defensa Contra 
+Contingencias Extremas (PDCE) de la Zona Norte, en cumplimiento de lo instruido en carta DE-04577-25. 
+ 
+Cronograma 
+ 
+Actividad 
+Semana 1 
+Semana 2 
+Semana 3 
+Semana 4 
+Semana 5 
+Semana 6 
+Semana 7 
+Semana 8 
+Semana 9 
+Semana 10 
+Semana 11 
+Semana 12 
+Semana 13 
+Semana 14 
+Semana 15 
+Semana 16 
+Semana 17 
+Semana 18 
+Semana 19 
+Semana 20 
+Semana 21 
+Semana 22 
+Finalización de bases 
+de licitación 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Proceso de licitación 
+y adjudicación 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Definición de 
+factibilidad técnica 
+integración 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Inicio de 
+implementación 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Puesta en servicio 
+definitiva 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ACTIVIDADES REALIZADAS EN LA SEMANA 
+Durante este tiempo se avanzó en los siguientes puntos: 
+1. Bases de licitación: Documento técnico-comercial completado al 95%, pendiente únicamente definición de alcance 
+EDAG:  
+a. Completada sección técnica con especificaciones para ambos escenarios (PFV solo o PFV+BESS) 
+
+                                                       
+ 
+ 
+ 
+ 
+Los Militares 5885 Oficina 701-702 – Las Condes - Santiago – Chile 
+Código Postal  7561259 
+ Pág. 1 de 1 
+  
+b. Finalizada sección comercial con criterios de evaluación y garantías 
+c. 
+Incorporados requerimientos de integración con celda maestra ENGIE 
+d. Definidos protocolos de pruebas y comisionamiento 
+2. Proveedores potenciales: Proceso de precalificación avanzado con 3 empresas especializadas 
+3. Factibilidad técnica: Documento con 85% de avance que incluye:  
+a. Dos escenarios según alcance EDAG (solo PFV o PFV+BESS) 
+b. Integración con celda maestra ENGIE existente 
+c. 
+Protocolo de comunicaciones PDCE Zona Norte 
+4. Coordinación técnica: Reunión con equipo técnico del CEN para revisar arquitectura preliminar 
+ 
+CONSULTA PENDIENTE AL COORDINADOR 
+IMPORTANTE: Se requiere aclaración formal del Coordinador Eléctrico Nacional respecto al alcance del EDAG instruido para 
+Generación Solar SpA: 
+• 
+Opción A: EDAG aplicable únicamente a PFV María Elena 
+• 
+Opción B: EDAG aplicable al conjunto integrado PFV María Elena + Sistema BESS 
+Esta definición es crítica para: 
+• 
+Dimensionamiento correcto del sistema de control 
+• 
+Arquitectura de comunicaciones con celda maestra 
+• 
+Estrategia de desconexión coordinada 
+• 
+Presupuesto final de implementación 
+Se solicita respuesta a la brevedad posible para no afectar el cronograma comprometido. 
+ 
+PRÓXIMAS ACTIVIDADES 
+Para las próximas semanas se contempla: 
+• 
+Formalización de adjudicación mediante contrato (sujeto a aclaración del alcance EDAG) 
+• 
+Preparación de llamado a licitación  
+• 
+Continuación de documento de factibilidad técnica 
+ 
+Se mantiene cronograma establecido para la siguiente carta proyectada para el 22 de septiembre de 2025. 
+ 
+Agradecemos de antemano su gestión, quedamos atentos a sus comentarios. 
+ 
+Saludos cordiales, 
+ 
+ 
+ 
+  
+Eliseo López Nitsche 
+Encargado Titular 
+Generación Solar SpA 
+ 

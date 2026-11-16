@@ -1,0 +1,135 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 14 de julio de 2025 
+AEL063-25 
+Señorita 
+Gretchen Zbinden V 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+ 
+Ref.: Responde DE03942-25 Apertura intempestiva de  
+interruptor 52CTSA5 de S/E Central Mampil 
+ 
+ 
+De nuestra consideración: 
+ 
+Nos referimos a la carta DE03942-25 del día 07 de julio de 2025, a través de la cual el Coordinador solicita 
+información relacionada a la apertura intempestiva del interruptor 52CTSA5 de S/E Central Mampil, 
+ocurrida a las 21:44 horas del día 02 de junio de 2025, en el cual se vieron involucradas instalaciones de 
+propiedad de la empresa Duqueco SpA (representada por Aela Generación S.A.). 
+ 
+En relación con lo anterior, se contestarán las respuestas a la información solicitada por el Coordinador: 
+ 
+- 
+Cronograma de trabajo con las tareas necesarias para la determinación del origen y causa de la 
+falla, considerando que la empresa Coopelan Ltda. declara que la falla fue externa a sus 
+instalaciones. 
+ 
+R: Dentro de los antecedentes recopilados por mi representada (adjunto), no se encuentra evidencia que 
+permita afirmar que el origen de la falla se encuentra dentro de nuestras instalaciones. En relación a lo 
+indicado por la empresa Coopelan Ltda., agradecemos solicitar mayores antecedentes que permitan 
+respaldar lo declarado. 
+ 
+- 
+Mantenimientos realizados a la S/E Central Mampil, incluyendo a sus sistemas de control y 
+protecciones, durante los últimos 24 meses, junto con los antecedentes que acrediten su 
+realización (incluyendo los respectivos permisos de trabajo autorizados por el CDC), donde se 
+deberá incluir un resumen de acuerdo con el siguiente formato 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+2 
+ 
+R: Se adjunta tabla resumen de acuerdo con el siguiente formato solicitado. 
+ 
+N° 
+Mantenimiento 
+Tipo de Mantenimiento 
+Nombre de instalación 
+Fecha 
+Principales Hallazgos 
+- 
+Protocolo de pruebas 
+GE845  
+SE Mampil - Protección 
+celda MT 
+08/09/2023 
+Sin anormalidades detectadas / GE845 responde 
+correctamente a pruebas realizadas 
+- 
+Medidas de aislación y 
+pruebas de control 
+52TU2 y 52CTSA5 
+SE Mampil - Celdas MT 
+02/05/2024 
+Medidas de aislación correctas / Pruebas de control 
+exitosas / Pruebas de disparo en celdas de 23 y 13,8 
+kV satisfactorias. 
+- 
+Medición SPT  
+SE Mampil 
+27/03/2024 
+Sistema de puesta a tierra en buenas condiciones / 
+Inspección de conexiónes sin observar contactos 
+sueltos o presencia de corrosión . 
+- 
+Mantenimiento y 
+pruebas electricas en 
+equipamiento 
+SE Mampil 
+abr-24 
+Pruebas electricas en transformador TSA5 
+satisfactorias 
+- 
+Inspección termográfica 
+SE Mampil 
+jun-24 
+No se detectan puntos que evidencien potencial falla 
+/ Equipamiento puede continuar en funcionamiento 
+normal / No se requieren acciones. 
+- 
+Mantenimiento y 
+pruebas electricas en 
+equipamiento 
+SE Mampil 
+abr-25 
+Ensayos electricos exitosos en equipamiento de la SE 
+Mampil / Equipos aptos para ser energizados y 
+continuar en servicio 
+ 
+Además, se adjuntan a esta carta otros antecedentes que acreditan su realización. 
+ 
+- 
+Eventuales acciones correctivas y/o preventivas adoptadas. 
+ 
+R: El día 25 de junio durante la noche se normalizó la comunicación y sincronización horaria del equipo 
+GE845 el cual emite las ordenes de apertura en las celdas de 13,8 kV y 23 kV. Dentro de los antecedentes 
+se adjunta una imagen en donde el equipo ya no muestra este estado de alarma permanente. 
+ 
+ 
+Esperando una buena acogida, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Carlos de la Fuente 
+Encargado Suplente 
+Aela Generación S.A.  
+ 

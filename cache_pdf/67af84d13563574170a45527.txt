@@ -1,0 +1,53 @@
+ 
+ 
+ 
+ 
+Santiago, 14 de enero de 2025 
+                          
+ 
+ 
+. 
+ 
+Señora  
+Gretchen Zbinden Véliz. 
+Subgerente de Análisis y Soporte Operacional. 
+Coordinador Eléctrico Nacional. 
+Presente 
+ 
+Asunto: IC-OM-00-C311– Ref.: Respuesta a 
+Publicación de Indicadores de Desempeño 
+de Servicios Complementarios prestados 
+durante el mes de enero 2025. 
+               [1] DE 00866-25 – Ref Publicación de 
+indicadores de desempeño de servicios 
+complementarios prestados durante el 
+mes de enero 2025   
+De mi consideración: 
+ 
+Mediante carta DE008866-25 enviada el 07 de enero de 2025 realizamos la siguiente 
+observación a los indicadores de desempeño SSCC del mes de enero 2025: 
+“Se detectó un error en la planilla 2025.01_Indisponibilidades_PRS_EV ya que indica 
+que el interruptor J1 S/E Nueva Pan de Azúcar – ATR1 500/200 kV., estuvo indisponible 
+el día 29.01 durante las 6:43 fata las 13:11 del mismo día, con el código de falla 
+IFIF2025000331. De acuerdo con el reporte de fallas subestación, la falla corresponde 
+a una falla del paño J11 de propiedad de INTERCHILE.  
+ 
+agradecemos su apoyo en corregir esta información desde las planillas correspondientes 
+ya que está afectando la disponibilidad del activo. 
+Docusign Envelope ID: CF405D00-F9C3-41D0-A0D0-94B265FA6EA5
+
+ 
+ 
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+Leonardo Prado Vega 
+Director de operaciones  
+INTERCHILE S.A. 
+ 
+ 
+Anexos: 
+Informe de Falla IFIF2025000331. 
+Docusign Envelope ID: CF405D00-F9C3-41D0-A0D0-94B265FA6EA5

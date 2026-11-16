@@ -1,0 +1,53 @@
+ 
+ 
+ 
+Santiago, 22 de septiembre de 2026 
+SGCOM 2026/235 
+Enel Distribución Chile S.A. – Roger de Flor N° 2725 Las Condes – Chile / T: +(56) 2 26752000 
+ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+Ref.: Definición de responsabilidad SITR EDAC 
+ 
+De nuestra consideración: 
+ 
+En atención a su comunicación recibida mediante correo electrónico, con asunto “RE: Responde 
+Carta DE01676-26 en que piden pronunciamiento respecto de propuesta de adecuación de EDAC de 
+ENEL”, de fecha jueves 2 de abril, mediante la cual se valida la última modificación del automatismo 
+EDAC-BF y, entre otros aspectos, se solicita el envío de las señales y alarmas requeridas en el SITR, 
+solicitamos a usted aclarar el alcance de la responsabilidad de Enel Distribución respecto de este 
+requerimiento. 
+ 
+Enel Distribución participa en la realización de los estudios de carga y en la definición de las 
+instalaciones que conforman los escalones del EDAC. No obstante, los relés de baja frecuencia y las 
+protecciones desde las cuales se originan las señales requeridas son de propiedad y administración 
+de STM II. Enel Distribución no cuenta con acceso directo a dichos equipos ni a los sistemas utilizados 
+para su configuración y transmisión. 
+ 
+En este contexto, agradeceremos precisar si corresponde a Enel Distribución la responsabilidad de 
+configuración, envío, pruebas y mantenimiento de la disponibilidad de las señales y alarmas 
+requeridas en el SITR, o bien si dichas actividades deben ser gestionadas por STM II, considerando 
+su calidad de propietaria y administradora de las protecciones. 
+ 
+Agradeceremos vuestra aclaración respecto de este punto, a fin de establecer adecuadamente las 
+responsabilidades y coordinaciones necesarias para dar cumplimiento al requerimiento asociado a 
+los automatismos EDAC. 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+ 
+ 
+ 
+Francisco Messen R. 
+Subgerente Construcción, Operación 
+y Mantenimiento de la Red  
+Enel Distribución Chile S.A. 
+Signed by Francisco Javier
+Messen Rebolledo
+Enel Distribución Chile SA

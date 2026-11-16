@@ -1,0 +1,1001 @@
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+                                                                                    Santiago, 21 de agosto de 2026 
+                                                                                                                            DE 05315-26 
+ 
+ 
+Señores  
+Encargados Titulares  
+Empresas Coordinadas  
+Según Lista de Distribución  
+Presente 
+Ref.: Incumplimiento de plazos en la 
+implementación de PMU y PDC del 
+Módulo de Medición Fasorial del 
+Coordinador. 
+ 
+[1] 
+Carta 
+DE00901-26, 
+del 
+Coordinador, de fecha 06 de febrero 
+de 2026, “Solicita plan de trabajo para  
+implementación 
+de 
+puntos 
+de 
+monitoreo del Módulo de Medición 
+Fasorial del SEN”. 
+ 
+[2] 
+Carta 
+DE04823-25, 
+del 
+Coordinador, de fecha 19 de agosto 
+de 2025, “Instruye implementación y 
+solicita 
+plan 
+de 
+trabajo 
+para 
+implementación 
+de 
+puntos 
+de 
+monitoreo del Módulo de Medición 
+Fasorial del SEN”.  
+ 
+De nuestra consideración: 
+En relación con la materia de la Ref., y de acuerdo con los antecedentes disponibles 
+a la fecha, informo a Ud. que su representa no ha dado cumplimiento a los 
+requerimientos de implementación de los puntos de monitoreo dinámico -mediante 
+PMU-, que fueran requeridos por este Coordinador para ser integrados al Módulo de 
+Medición Fasorial (MMF), mediante comunicaciones de la Ref. [1] y [2]. 
+Al respecto, cabe destacar la importancia de que su representada cumpla con lo 
+instruido en dichas comunicaciones, para efectos de permitir que el Coordinador 
+cumpla con sus funciones de supervisión y coordinación del Sistema Eléctrico 
+Nacional, establecidas por la normativa vigente.  
+Habiendo vencido el plazo comprometido por su representada para llevar a cabo la 
+implementación de los puntos de monitoreo o PDC locales indicados en el Anexo, sin 
+haber ejecutado dicha implementación, solicito a Ud., dentro del plazo de cinco días 
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+hábiles contado desde la recepción de la presente comunicación y vía carta al 
+sistema de correspondencia del Coordinador, informe fundadamente las razones 
+o circunstancias que explican el incumplimiento antes señalado, junto con las 
+acciones realizadas y que prevé realizar para cumplir con lo requerido por este 
+Coordinador.  
+Se hace presente que la información que su representada remita dentro del plazo 
+indicado será puesta en conocimiento de la Superintendencia de Electricidad y 
+Combustibles, conjuntamente con los antecedentes que dan cuenta del 
+incumplimiento de la exigencia normativa aplicable. 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ 
+  
+GO/SCyDO/DMAP/adr 
+  
+Incluye: Lo indicado.   
+  
+c.c.:      
+Sr. Diego Perales R. – Gerente Legal y Regulación. 
+Sr. Rodrigo Espinoza V.- Gerente de Operación. 
+ 
+ 
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Anexo 
+Puntos de monitoreo (PMU) del módulo de medición fasorial pendientes 
+ 
+Coordinado 
+Elemento 
+Punto De Medida 
+Fuente 
+Fecha 
+Comprometida 
+Aela 
+Generación 
+S.A 
+PE Sarco 
+Paño J1 De Se PE 
+Sarco 
+DE04954-26 
+30-07-2026 
+Aela 
+Generación 
+S.A 
+PE Aurora 
+Paño J1 De Se 
+Aurora 
+DE04954-26 
+30-07-2026 
+Antu Energy 
+SpA 
+PFV Villa Longavi 
+En Punto De 
+Control PPC 
+DE03832-26 
+30-05-2026 
+Arauco 
+Bioenergía 
+SpA 
+TER Celco U1 
+Bornes De La 
+Unidad 
+DE04459-25 
+01-06-2026 
+Arcadia 
+Generación 
+Solar S.A. 
+PFV Domeyko 
+Paño JT1 De Se 
+Hades 
+DE09016-25 
+06-03-2026 
+Arcadia 
+Generación 
+Solar S.A. 
+PFV Pampa Solar Norte 
+En Punto De 
+Control PPC 
+DE09016-25 
+01-05-2026 
+Arcadia 
+Generación 
+Solar S.A. 
+PFV Carrera Pinto 
+En Punto De 
+Control PPC 
+DE09016-25 
+26-06-2026 
+Austriansolar 
+Chile Seis 
+SpA 
+PFV La Huella 
+En Punto De 
+Control PPC 
+DE09944-25 
+30-04-2026 
+CGE 
+Transmisión 
+S.A. 
+T2D S/E Graneros BT2 
+Lado AT o BT Del 
+Transformador 
+DE05148-26 
+30-07-2026 
+CGE 
+Transmisión 
+S.A. 
+T2D S/E Rengo BT2 
+Lado AT o BT Del 
+Transformador 
+DE05148-26 
+30-07-2026 
+CGE 
+Transmisión 
+S.A. 
+T2D S/E San Carlos 
+BT2 
+Lado AT o BT Del 
+Transformador 
+DE05148-26 
+30-07-2026 
+CGE 
+Transmisión 
+S.A. 
+T2D S/E Alcones BT2 
+Lado AT o BT Del 
+Transformador 
+DE05148-26 
+30-07-2026 
+CGE 
+Transmisión 
+S.A. 
+T2D S/E Chillan BT4 
+Lado AT o BT Del 
+Transformador 
+DE05148-26 
+30-07-2026 
+CGE 
+Transmisión 
+S.A. 
+T2D S/E Los Angeles 
+(CGE) BT5 
+Lado AT o BT Del 
+Transformador 
+DE05148-26 
+30-07-2026 
+Comasa SpA 
+TER Lautaro U1 
+Bornes De La 
+Unidad 
+OT5209 - Carta 
+Gantt_20251223-IT 2 
+24-03-2026 
+Comasa SpA 
+TER Lautaro U2 
+Bornes De La 
+Unidad 
+OT5209 - Carta 
+Gantt_20251223-IT 2 
+24-03-2026 
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Elemento 
+Punto De Medida 
+Fuente 
+Fecha 
+Comprometida 
+Compañía 
+Transmisora 
+Del Norte 
+Grande S.A. 
+ 
+Kapatur - Laberinto 
+220kV C1 
+ 
+Paño J11 De Se 
+Laberinto 
+ 
+ 
+       DE04955-26 
+ 
+ 
+07-07-2026 
+ 
+ 
+Compañía 
+Transmisora 
+Del Norte 
+Grande S.A. 
+Tap Off Pachacama - 
+Las Vegas 110kV C1 
+Paño H1 De Se 
+Las Vegas 
+ 
+DE04955-26 
+14-07-2026 
+Doña Antonia 
+Solar SpA 
+PFV Doña Antonia 
+En Punto De 
+Control PPC 
+DE01332-26 
+27-03-2026 
+El Pelícano 
+Solar 
+Company 
+SpA 
+PFV El Pelicano 
+Paño JT1 De Se El 
+Pelícano 
+ 
+DE11511-25 
+30-03-2026 
+Eléctrica 
+Cipresillos 
+SpA 
+HP Cipresillos U1 
+Bornes De La 
+Unidad 
+ 
+DE03311-26 
+30-05-2026 
+Eléctrica 
+Cipresillos 
+SpA 
+Hp Cipresillos U2 
+Bornes De La 
+Unidad 
+ 
+DE03311-26 
+30-05-2026 
+Elektra 
+Generación 
+S.A. 
+TER Constitución 
+Bornes De La 
+Unidad 
+ 
+DE09683-25 
+27-04-2026 
+Elektra 
+Generación 
+S.A. 
+TER Chiloé 
+Bornes De La 
+Unidad 
+ 
+DE09683-25 
+27-04-2026 
+Eletrans S.A. 
+Seccionadora San 
+Andrés - Cardones 
+220kV L2 C2 
+Paño J12 De Se 
+Cardones 
+ 
+DE04955-26 
+30-06-2026 
+Empresa De 
+Transmisión 
+Eléctrica 
+Transemel 
+S.A. 
+T2D S/E Duqueco BT1 
+Lado AT O BT Del 
+Transformador 
+         DE9004-25 
+30-04-2026 
+Empresa 
+Eléctrica 
+Cipres SpA 
+PFV Los Naranjos 
+En Punto De 
+Control PPC 
+Responde a 
+DE04823-25 Ciprés 
+17-06-2026 
+Empresa 
+Eléctrica 
+Pehuenche 
+S.A. 
+HP Curillinque U1 
+Bornes De La 
+Unidad 
+ 
+DE01285-26 
+ 
+03-04-2026 
+Empresa 
+Eléctrica 
+Peumo SpA 
+PFV Peumo 
+En Punto De 
+Control PPC 
+Responde a 
+DE04823-25 Peumo 
+17-06-2026 
+ 
+Empresa 
+Eléctrica 
+Vallenar S.A. 
+TER Maitencillo 
+Bornes De La 
+Unidad 
+ 
+DE05095-26 
+29-06-2026 
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Elemento 
+Punto De Medida 
+Fuente 
+Fecha 
+Comprometida 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+TER Nueva Ventanas 
+Bornes De La 
+Unidad 
+ 
+DE01561-26 
+24-04-2026 
+Enel 
+Generación 
+Chile S.A. 
+HE Antuco U1 
+Bornes De La 
+Unidad 
+ 
+DE01285-26 
+06-03-2026 
+Enel 
+Generación 
+Chile S.A. 
+HE El Toro U3 
+Bornes De La 
+Unidad 
+DE01285-26 
+03-04-2026 
+Enel 
+Generación 
+Chile S.A. 
+TER San Isidro CC1-TG 
+Bornes De La 
+Unidad 
+DE01285-26 
+17-04-2026 
+Enel 
+Generación 
+Chile S.A. 
+TER San Isidro II CC1-
+TG 
+Bornes De La 
+Unidad 
+DE01285-26 
+17-04-2026 
+Enel 
+Generación 
+Chile S.A. 
+TER Quintero U1 
+Bornes De La 
+Unidad 
+DE01285-26 
+17-04-2026 
+Enel Green 
+Power Chile 
+S.A. 
+PE La Cabaña 
+Paño JT1 De Se La 
+Cabaña 
+DE06152-25 
+01-08-2025 
+Enel Green 
+Power Chile 
+S.A. 
+PFV Finis Terrae 
+Paño J1 De Se 
+Rande 
+DE01284-26 
+10-04-2026 
+Enel Green 
+Power Chile 
+S.A. 
+PFV Sol De Lila 
+Paño JT1 De Se 
+Sol De Lila 
+DE01284-26 
+10-04-2026 
+Enel Green 
+Power Chile 
+S.A. 
+PFV Chañares 
+En Punto De 
+Control PPC 
+DE08939-25 
+30-06-2026 
+Enel Green 
+Power Chile 
+S.A. 
+PFV Lalackama II 
+En Punto De 
+Control PPC 
+DE08939-25 
+30-06-2026 
+Enel Green 
+Power Chile 
+S.A. 
+PE Taltal 
+En Punto De 
+Control PPC 
+DE08939-25 
+30-06-2026 
+Enel Green 
+Power Chile 
+S.A. 
+PE Valle De Los Vientos 
+En Punto De 
+Control PPC 
+DE08939-25 
+30-06-2026 
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Elemento 
+Punto De Medida 
+Fuente 
+Fecha 
+Comprometida 
+Enel Green 
+Power Chile 
+S.A. 
+PFV Azabache 
+En Punto De 
+Control PPC 
+DE08939-25 
+30-06-2026 
+Energías 
+Ucuquer Dos 
+S.A. 
+PE Ucuquer II 
+En Punto De 
+Control PPC 
+UCQ2 - Cronograma 
+PMU 03nov25 rev1 
+30-06-2026 
+Eólica La 
+Esperanza 
+S.A. 
+PE La Esperanza 
+En Punto De 
+Control PPC 
+                   
+LA Esperanza - 
+Cronograma PMU 
+revB 03nov25 rev1 
+ 
+30-06-2026 
+Gas Sur S.A. 
+TER Newen 
+Bornes De La 
+Unidad 
+Carta Gantt ter 
+newen 
+17-07-2026 
+Espinos S.A. 
+TER Los Espinos 
+Bornes De La 
+Unidad 
+Respuesta CEN 
+Espinos 
+30-03-2026 
+Espinos S.A. 
+TER Olivos 
+Bornes De La 
+Unidad 
+Respuesta CEN 
+Espinos 
+30-03-2026 
+Generación 
+Solar SpA 
+PFV María Elena 
+En Punto De 
+Control PPC 
+DE01616-26 
+31-07-2026 
+GPG 
+Generación 
+Distribuida 
+SpA 
+PMG PFV Solar 
+Palermo 
+En Punto De 
+Control PPC 
+DE11527-25 
+30-04-2026 
+Gr Algarrobo 
+SpA 
+PFV Gran Teno 
+Paño AT1 De Se 
+Solis 
+20251112_Respuesta 
+carta DE06899-25 
+Gran Teno           
+22-07-2026 
+GR Liun SpA 
+PFV Tamango 
+En Punto De 
+Control PPC 
+DE05029-26 
+26-05-2026 
+Hidroeléctrica 
+La 
+Confluencia 
+S.A. 
+HP La Confluencia 
+Bornes De La 
+Unidad 
+DE03846-26 
+15-07-2026 
+Hidroeléctrica 
+La Higuera 
+S.A. 
+HP La Higuera 
+Bornes De La 
+Unidad 
+DE03844-26 
+15-07-2026 
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Elemento 
+Punto De Medida 
+Fuente 
+Fecha 
+Comprometida 
+Hidroeléctrica 
+Río Lircay 
+S.A. 
+HP Lircay U1 Y U2 
+Bornes De La 
+Unidad 
+DE04946-26 
+10-07-2026 
+Hidroeléctrica 
+Río Lircay 
+S.A. 
+HP Providencia U1 Y U2 
+Bornes De La 
+Unidad 
+DE04946-26 
+10-07-2026 
+Inversiones 
+Fotovoltaicas 
+SpA 
+PFV Willka 
+Paño JT1 De Se 
+Willka 
+DE01334-26 
+27-03-2026 
+Larqui Solar 
+SpA 
+PFV Alto Del Sol 
+En Punto De 
+Control PPC 
+DE11362-25 
+30-07-2026 
+Mantos 
+Copper S.A. 
+TER Mantos Blancos 
+Bornes De La 
+Unidad 
+DE10200-25 
+20-05-2026 
+MLP 
+Transmision 
+S.A. 
+Statcom S/E El Chacay 
+ET1 
+Paños J11 Y J12 
+de SE El Chacay 
+Correo 31 de 
+diciembre 2025:” Re_ 
+Solicitud estado de 
+avance 
+implementación 
+puntos PMU en 
+respuesta a la carta 
+DE04399-25” 
+30-04-2026 
+Opdenergy 
+Generación 
+SpA 
+PFV Sol De Los Andes 
+En Punto De 
+Control PPC 
+DE03830-26 
+08-07-2026 
+Parque 
+Fotovoltaico 
+Nuevo 
+Quillagua 
+SpA 
+PFV Nuevo Quillagua II 
+En Punto De 
+Control PPC 
+DE02883-26 
+31-05-2026 
+Parque 
+Fotovoltaico 
+Nuevo 
+Quillagua 
+SpA 
+Bess Nuevo Quillagua II 
+Punto De Control 
+Del Bess 
+DE02883-26 
+31-05-2026 
+Parque 
+Fotovoltaico 
+Nuevo 
+Quillagua 
+SpA 
+Bess Nuevo Quillagua 
+Punto De Control 
+Del Bess 
+DE02883-26 
+31-05-2026 
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Elemento 
+Punto De Medida 
+Fuente 
+Fecha 
+Comprometida 
+Parque 
+Fotovoltaico 
+Nuevo 
+Quillagua 
+SpA 
+PFV Nuevo Quillagua 
+Paño JT1 De SE 
+PEQ 
+DE02883-26 
+31-05-2026 
+Parque Solar 
+Fotovoltaico 
+Luz Del Norte 
+SpA 
+PFV Luz Del Norte 
+Paño J1 De Se Luz 
+Del Norte 
+DE08954-25 
+31-12-2025 
+Parque Solar 
+Leyda SpA 
+PFV Leyda 
+En Punto De 
+Control PPC 
+DE11291-25 
+30-04-2026 
+Parque Solar 
+Viveros SpA 
+PFV PMG Parque 
+Cauquenes 
+En Punto De 
+Control PPC 
+DE01458-26 
+24-06-2026 
+Planta Solar 
+San Pedro III 
+SpA 
+PFV Jama U1 Y U2 
+En Punto De 
+Control PPC 
+DE01617-26 
+30-06-2026 
+Planta Solar 
+Tocopilla SpA 
+PFV Taira 
+Lado At Del 
+Transformador 
+Elevador Del 
+Parque 
+DE01336-26 
+27-03-2026 
+Santiago 
+Solar S.A. 
+PFV Santiago Solar 
+En Punto De 
+Control PPC 
+(52Ht1) 
+DE08998-25 
+30-01-2026 
+Solar Elena 
+SpA 
+ 
+Bess Elena 
+Punto De Control 
+Del Bess 
+20251112_Respuesta 
+carta DE06899-25 
+Solar Elena 
+22-07-2026 
+Solar Elena 
+SpA 
+PFV Elena 
+Lado At Del 
+Transformador 
+Elevador Del 
+Parque 
+20251112_Respuesta 
+carta DE06899-25 
+Solar Elena 
+22-07-2026 
+Statkraft 
+Eólico S.A. 
+PE Los Cerrillos 
+En Punto De 
+Control PPC 
+DE08974-25 
+06-03-2026 
+Statkraft 
+Eólico S.A. 
+PE Cardonal 
+En Punto De 
+Control PPC 
+DE08974-25 
+06-03-2026 
+Statkraft 
+Eólico S.A. 
+PE Manantiales 
+En Punto De 
+Control PPC 
+DE08974-25 
+06-03-2026 
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Coordinado 
+Elemento 
+Punto De Medida 
+Fuente 
+Fecha 
+Comprometida 
+Tamakaya 
+Energía SpA 
+TER Kelar CC1-TV 
+Bornes De La 
+Unidad 
+DE03949-26 
+25-07-2026 
+Tamarico 
+Solar Dos 
+SpA 
+PFV Tamarico 
+Paño JT1 De Se 
+PFV Tamarico 
+DE01335-26 
+27-03-2026 
+Tralka SpA 
+PFV Quilmo 
+En Punto De 
+Control PPC 
+DE03831-26 
+30-05-2026 
+Transelec 
+S.A. 
+Los Changos - Kimal 
+500kv C1 
+Paño K2 Y K3 De 
+Se Kimal 
+DE01549-26 
+30-07-2026 
+Vientos De 
+Renaico SpA 
+PE La Flor 
+En Punto De 
+Control PPC 
+VdR - Cronograma 
+PMU 06nov25 rev1 
+30-07-2026 
+Wpd 
+Duqueco SpA PE Lomas De Duqueco 
+En Punto De 
+Control PPC 
+DE02885-26 
+31-07-2026 
+Wpd Negrete 
+SpA 
+PE Negrete 
+En Punto De 
+Control PPC 
+DE02886-26 
+31-07-2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Lista de distribución 
+ 
+Aela Generación S.A.  
+AES Andes S.A.  
+Antu Energy SpA  
+Arauco Bioenergía SpA  
+Arcadia Generación Solar S.A.  
+Austriansolar Chile Seis SpA  
+CGE Transmisión S.A.  
+Comasa SpA  
+Compañía Transmisora del Norte Grande S.A.  
+Doña Antonia Solar SpA  
+El Pelícano Solar Company SpA  
+Eléctrica Cipresillos SpA  
+Elektra Generación S.A.  
+Eletrans S.A.  
+Empresa de Transmisión Eléctrica Transemel S.A.  
+Empresa Eléctrica Cipres SpA  
+Empresa Eléctrica Pehuenche S.A.  
+Empresa Eléctrica Peumo SpA  
+Empresa Eléctrica Vallenar S.A.  
+Empresa Eléctrica Ventanas SpA  
+Enel Generación Chile S.A.  
+Enel Green Power Chile S.A.  
+Energías Ucuquer Dos S.A.  
+Eólica La Esperanza S.A.  
+Espinos S.A. 
+Gas Sur S.A.  
+Generación Solar SpA  
+GPG Generación Distribuida SpA  
+GR Algarrobo SpA  
+GR Liun SpA  
+Hidroeléctrica La Confluencia S.A.  
+Hidroeléctrica La Higuera S.A.  
+Hidroeléctrica Río Lircay S.A.  
+Inversiones Fotovoltaicas SpA  
+Larqui Solar SpA  
+Mantos Copper S.A.  
+MLP Transmision S.A.  
+Opdenergy Generación SpA  
+Parque Fotovoltaico Nuevo Quillagua SpA  
+Parque Solar Fotovoltaico Luz del Norte SpA  
+
+                                                                                                                      
+ 
+ 
+  Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Parque Solar Leyda SpA  
+Parque Solar Viveros SpA  
+Planta Solar San Pedro III SpA  
+Planta Solar Tocopilla SpA  
+Santiago Solar S.A.  
+Solar Elena SpA  
+Statkraft Eólico S.A. 
+Tamakaya Energía SpA  
+Tamarico Solar Dos SpA  
+Tralka SpA  
+Transelec S.A.  
+Vientos de Renaico SpA  
+WPD Duqueco SpA  
+WPD Negrete SpA 

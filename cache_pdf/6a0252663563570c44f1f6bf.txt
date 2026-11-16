@@ -1,0 +1,51 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 11 de mayo de 2026 
+ 
+ 
+Señor 
+Rodrigo Espinoza 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Ref.: Solicitud de inicio del proceso de verificación de SSCC del 
+Proyecto BESS II Salvador — NUP 5785. 
+ 
+De nuestra consideración: 
+ 
+De conformidad con lo indicado en el numeral 5.1 del Anexo Técnico “Verificación de Instalaciones para 
+la Prestación de SSCC”, por medio de la presente solicitamos al Coordinador Eléctrico Nacional dar inicio 
+al proceso de verificación de Servicios Complementarios del Proyecto BESS II Salvador, asociado al NUP 
+5785. 
+ 
+El proyecto “BESS II Salvador” corresponde a un Sistema de Almacenamiento de Energía (SAE) con una 
+capacidad de 20 MW y 5 horas de autonomía (100 MWh), el cual contempla su conexión en las 
+instalaciones de 23 kV de la planta PV Salvador. La conexión de esta ampliación no considera acoplamiento 
+directo con la componente solar de la central PFV Salvador, sino que será cargada a través de retiros 
+realizados desde la red a través del punto de conexión del Proyecto al Sistema Eléctrico Nacional. 
+ 
+En cumplimiento de los antecedentes requeridos por el Anexo Técnico antes señalado, se adjunta a la 
+presente solicitud la información técnica correspondiente a los protocolos específicos de los ensayos. Las 
+pruebas por realizar son: Control Primario de Frecuencia, Control Terciario de Frecuencia y Control de 
+Tensión. 
+ 
+Se informa que los expertos a cargo del proceso de verificación corresponden a Estudios Eléctricos Chile 
+SpA, cuyos antecedentes se adjuntan como anexo a esta carta. 
+ 
+Las personas designadas para efectos de comunicación con el Coordinador con el objetivo de 
+programación y ejecución de las pruebas son Sebastián Flores Carrasco, sflores@innergex.com ; e Istuan 
+Olaechea Gambaro, iolaechea@innergex.com. 
+ 
+Sin otro particular,  
+Saluda atentamente, 
+ 
+ 
+Constanza Busquets Escuer 
+p.p BESS Salvador SpA 
+Marcelo Rivas Cohen 
+p.p. BESS Salvador SpA 
+Docusign Envelope ID: 9C0D130A-13EC-89E6-831E-BEE0FE1E1A58

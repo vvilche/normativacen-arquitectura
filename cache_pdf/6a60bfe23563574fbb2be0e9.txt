@@ -1,0 +1,178 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl
+Santiago, 22 de julio de 2026 
+DE 04869-26 
+Señor 
+Javier Toro  
+Encargado Titular 
+Acciona Energía Chile Holdings S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+de la central PE San Gabriel. 
+[1] Carta ACC.ECH.085.26 de Acciona Energía Chile
+Holdings S.A., Ref.: “Respuesta a observaciones
+emitidas 
+al 
+informe 
+técnico 
+del 
+Servicio
+Complementario de Control de Tensión del PE San
+Gabriel”, de fecha 23 de junio de 2026.
+Responde a Ingreso: DE05769-26.
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control de 
+Tensión de la central PE San Gabriel. 
+Como resultado de este proceso, la central mencionada queda habilitada para la 
+prestación del mencionado servicio complementario a partir de las 00:00 del 23 de 
+julio de 2026, considerando los recursos indicados en el anexo de la presente carta.  
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CT de la central PE San Gabriel se encuentra publicado en la siguiente ruta 
+de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > Central PE San Gabriel 
+Sin otro particular, saluda atentamente a Ud., 
+Rodrigo Espinoza V.     
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+WJS/adr 
+c.c.:
+Sr. Luis Lorca – Encargado Suplente Acciona Energía Chile Holdings S.A.
+
+ 
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PE San Gabriel 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE San Gabriel 
+A continuación, se describen los parámetros operacionales aceptados por el Coordinador 
+Eléctrico: 
+• 
+Potencia máxima bruta: 183,000 [MW] 
+• 
+Potencia máxima neta:  180,000 [MW] 
+• 
+Potencia mínima bruta: 0,600 [MW] 
+• 
+Potencia mínima neta: 0,080 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión (CT)  
+Control de Tensión 
+(CT) 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Acciona Energía 
+Chile S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategoría. 
+Ver Tabla en página siguiente
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+a) Control de Tensión 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Instalación 
+Recurso  
+Primario 
+  
+Tensión [pu]  
+Potencia Reactiva [MVAr]  
+Potencia [MW] 
+  
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+Central 
+ PE San Gabriel 
+Eólico 
+0,08 
+2,38 
+2,77 
+3,15 
+3,57 
+4,01 
+18 
+89,00 
+90,00 
+91,00 
+92,00 
+84,00 
+72 
+84,00 
+85,00 
+85,32 
+87,00 
+75,00 
+180 
+53,00 
+53,00 
+55,00 
+57,00 
+47,00 
+180 
+-105,00 -105,00 -102,00 -101,00 -100,00 
+68 
+-70,00 
+-69,00 
+-68,00 
+-67,00 
+-66,00 
+34 
+-63,00 
+-62,00 
+-62,00 
+-61,00 
+-60,00 
+0,08 
+2,38 
+2,77 
+3,15 
+3,57 
+4,01 
+ 
+ 

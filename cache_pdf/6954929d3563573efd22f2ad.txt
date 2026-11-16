@@ -1,0 +1,215 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+                                                                           
+ Santiago, 30 de diciembre de 2025 
+                                                                                                               DE 08408-25 
+Señores 
+Encargados 
+Según lista de Distribución 
+Presente 
+ 
+Ref.:  Solicita cumplir con la calidad exigida en el 
+envío al SITR del Coordinador de la señal de 
+Potencia Disponible para parques ERV. 
+De mi consideración: 
+ 
+Me refiero al artículo 3-20 de la NT de SyCS, donde se establece que las unidades 
+generadoras que operen conectadas al Sistema Eléctrico Nacional, deberán contar con un 
+sistema de comunicación para proveer al Coordinador toda la información que éste 
+determine necesaria para efectos de la supervisión y coordinación de la operación del SI 
+en Tiempo Real (SITR), cuyas exigencias de calidad se encuentran definidas en el 
+Capítulo 4 de esa NT y en el Anexo Técnico (AT) "Definición de Parámetros Técnicos y 
+Operativos para el envío de Datos al SITR". En particular, dicho AT señala que se 
+deberán enviar al SITR del Coordinador, con la calidad del dato y disponibilidad mensual 
+mínima requerida, la señal de Potencia “Potencia Activa Disponible (MW)” que puede 
+generar en todo momento cada parque solar y eólico, considerando tanto el recurso 
+primario con el que cuenta, así como la disponibilidad de las instalaciones físicas 
+asociadas.  
+ 
+Al respecto, según el levantamiento de información que realizamos al estado actual de la 
+disponibilidad y/o calidad de dicha señal, enviada a nuestro sistema SITR, su 
+representada se encuentra incumpliendo esta exigencia normativa para sus parques 
+generadoras indicadas en el Anexo 1. Por lo tanto, le solicitamos el envío a más tardar el 
+16 de enero de 2026, de un plan de acción que permita a su representada, antes del 31 
+de marzo de 2026, regularizar de manera permanente el correcto envío de la señal de 
+potencia disponible  
+ 
+Por otra parte, en caso de requerir consultas, pruebas SITR u otra gestión en relación con 
+lo solicitado, agradeceré comunicarse directamente a las direcciones electrónicas 
+dmap@coordinador.cl y tec.scada@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+Gretchen Zbinden Véliz 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+GO/SGASO/SGOTR/DMAP/DCST/DSE 
+Cc: Sr Victor Reyes Jefe Departamento Scada y SITR 
+Incluye: Lo Indicado 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+LISTA DE DISTRIBUCIÓN 
+ 
+AELA GENERACIÓN S.A. 
+ANDES SOLAR SPA 
+ANDES SOLAR II SPA 
+ANDES SOLAR IV SPA 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+CERRO DOMINADOR CSP S.A. 
+CONDOR ENERGIA SPA 
+COPIAPO SOLAR SPA 
+DOÑA ANTONIA SOLAR 
+ENGIE ENERGÍA CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+ENERGÍA CERRO EL MORADO S.A. 
+ENERGIA EOLICA LOS OLMOS SPA 
+ENERGIA EOLICA MESAMAVIDA SPA 
+ENERGIA EOLICA SAN MATIAS SPA 
+ENFRAGEN CHILE SOLAR SPA 
+ENLASA GENERACIÓN CHILE S.A. 
+FOTOVOLTAICA DE LOS ANDES SPA 
+FOTOVOLTAICA DEL DESIERTO SPA 
+FOTOVOLTAICA NORTE GRANDE 5 
+FOTOVOLTAICA SOL DEL NORTE SPA 
+GENERACIÓN SOLAR SPA 
+HUEMUL ENERGIA SPA 
+INVERSIONES FOTOVOLTAICAS SPA 
+NORVIND S.A. 
+PARQUE EOLICO CAMPO LINDO SPA 
+PARQUE EÓLICO EL ARRAYÁN SPA 
+PARQUE EOLICO LOS CURUROS SPA 
+PARQUE EÓLICO PUNTA DE TALCA SPA 
+PARQUE SOLAR QUILMO SPA 
+PARQUE SOLAR VILLA LONGAVÍ SPA 
+PARQUE SOLAR VIVEROS SPA 
+PATAGUILLA SOLAR SPA 
+PLANTA SOLAR SAN PEDRO III SPA 
+PV SALVADOR S.A. 
+SANTIAGO SOLAR S.A. 
+SOLAR ELENA SPA 
+STATKRAFT EOLICO S.A. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ANEXO 1 
+Parques ERV con envío de la señal de “Potencia Disponible (MW)” al SITR del 
+Coordinador, con mala calidad y/o mala disponibilidad mensual 
+ 
+Coordinado 
+Nombre Parque 
+AELA GENERACIÓN S.A. 
+PE AURORA 
+ANDES SOLAR SPA 
+PFV ANDES SOLAR 
+ANDES SOLAR II SPA 
+PFV ANDES SOLAR II 
+PFV ANDES SOLAR II-B 
+ANDES SOLAR IV SPA 
+PFV ANDES SOLAR IV 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+PFV HUATACONDO 
+CERRO DOMINADOR CSP S.A. 
+PFV CERRO DOMINADOR 
+CONDOR ENERGIA SPA 
+PE CERRO TIGRE 
+PFV RIO ESCONDIDO 
+COPIAPO SOLAR SPA 
+PFV DESIERTO DE ATACAMA 
+DOÑA ANTONIA SOLAR 
+PFV DOÑA ANTONIA 
+ENGIE ENERGÍA CHILE S.A. 
+PE CALAMA 
+PFV CAPRICORNIO 
+PFV TAMAYA SOLAR 
+PFV EL AGUILA 
+PE KALLPA 
+ENEL GREEN POWER CHILE S.A. 
+PFV LAS SALINAS 
+PFV FINIS TERRAE 
+PE CANELA II 
+PE TALINAY ORIENTE 
+PE TALINAY PONIENTE 
+PE TALTAL 
+PFV AZABACHE 
+PFV LALACKAMA 
+PFV MANZANO 
+PFV SOL DE LILA 
+PFV VALLE DEL SOL 
+ENERGÍA CERRO EL MORADO S.A. 
+PFV DOÑA CARMEN SOLAR 
+ENERGIA EOLICA LOS OLMOS SPA 
+PE LOS OLMOS 
+ENERGIA EOLICA MESAMAVIDA SPA 
+PE MESAMAVIDA 
+ENERGIA EOLICA SAN MATIAS SPA 
+PE SAN MATIAS 
+ENFRAGEN CHILE SOLAR SPA 
+PFV CARACAS II 
+ENLASA GENERACIÓN CHILE S.A. 
+PFV TENO SOLAR 
+FOTOVOLTAICA DE LOS ANDES SPA 
+PFV DE LOS ANDES 
+FOTOVOLTAICA DEL DESIERTO SPA 
+PFV DEL DESIERTO 
+FOTOVOLTAICA NORTE GRANDE 5 
+PFV URIBE SOLAR 
+FOTOVOLTAICA SOL DEL NORTE SPA 
+PFV SOL DEL NORTE 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Coordinado 
+Nombre Parque 
+GENERACIÓN SOLAR SPA 
+PFV MARIA ELENA 
+HUEMUL ENERGIA SPA 
+PFV VALLE ESCONDIDO 
+INVERSIONES FOTOVOLTAICAS SPA 
+PFV WILLKA 
+NORVIND S.A. 
+PE TOTORAL 
+PARQUE EOLICO CAMPO LINDO SPA 
+PE CAMPO LINDO 
+PARQUE EÓLICO EL ARRAYÁN SPA 
+PE EL ARRAYAN 
+PARQUE EOLICO LOS CURUROS SPA 
+PE LOS CURUROS 
+PARQUE EÓLICO PUNTA DE TALCA SPA 
+PE PUNTA DE TALCA 
+PARQUE SOLAR QUILMO SPA 
+PFV QUILMO 
+PARQUE SOLAR VILLA LONGAVÍ SPA 
+PFV VILLA LONGAVI 
+PARQUE SOLAR VIVEROS SPA 
+PFV PMG PARQUE CAUQUENES 
+PATAGUILLA SOLAR SPA 
+PFV PATAGUILLA 
+PLANTA SOLAR SAN PEDRO III SPA 
+PFV JAMA 
+PV SALVADOR S.A. 
+PFV SALVADOR 
+SANTIAGO SOLAR S.A. 
+PFV SANTIAGO SOLAR 
+SOLAR ELENA SPA 
+PFV ELENA 
+STATKRAFT EOLICO S.A. 
+PE CARDONAL-LOS CERRILLOS-MANANTIALES 
+ 
+ 
+ 

@@ -1,0 +1,52 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 08 de septiembre de 2025 
+DE 05497-25 
+Señor 
+Víctor Gutiérrez González 
+Encargado Titular 
+CGE Transmisión S.A. 
+Presente 
+Ref.: EAF 297/2025 - Apertura intempestiva 
+del interruptor 52C4 de S/E Cauquenes 
+De mi consideración: 
+ 
+Me refiero a la apertura intempestiva del interruptor 52C4 de S/E Cauquenes, ocurrida a las 
+23:25 horas del día 21 de junio de 2025, en la cual se vieron involucradas instalaciones de 
+su representada. 
+ 
+Al respecto, con el objetivo de aclarar debidamente las causas y consecuencias de los 
+eventos en cuestión, en conformidad con lo que establece el Título 6-7, y en particular, el 
+Artículo 6-44 de la Norma Técnica de Seguridad y Calidad de Servicio, y en virtud de las 
+modificaciones aplicadas al proceso de los Estudios para Análisis de Falla, instruidas por la 
+Superintendencia de Electricidad y Combustibles mediante las Resoluciones Exentas 
+N°30989-2019 y N°30891-2019, solicito a usted remitir al Coordinador antes de las 18:00 
+horas del día 15 de septiembre de 2025, la siguiente información: 
+• Cronograma de trabajo, con fechas definidas, para corregir la desincronización horaria 
+del relé Cooper Form 6 del paño C4 de S/E Cauquenes. 
+• Cronograma de trabajo, con fechas definidas, para regularizar la información técnica de 
+los sistemas de protección de los paños C4 y ET2 de S/E Cauquenes en la plataforma 
+Infotécnica del Coordinador. 
+• Envío de los registros oscilográficos de la protección asociada al paño ET2 de S/E 
+Cauquenes en formato COMTRADE, y envío de sus registros de eventos en formato de 
+texto y formato COMTRADE, junto con el correspondiente análisis en función de sus 
+ajustes. En el caso de que la protección del mencionado paño no cuente con la 
+capacidad de generar registros, se solicitará cronograma de trabajo, con fechas 
+definidas, para el cambio de los relés de la protección mencionada de S/E Cauquenes, 
+con la finalidad de disponer de equipos con la capacidad para generar registros 
+oscilográficos y de eventos. 
+• Precisar la determinación del ajuste del pick up de las funciones de sobrecorriente de 
+fases de los paños C4 y ET2 de S/E Cauquenes, en base a su criterio aplicado. En caso 
+de corresponder a un ajuste que incorpora una restricción a la capacidad operativa del 
+equipamiento que protegen dichos paños, se deberá efectuar su adecuación. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+ Coordinador Eléctrico Nacional 
+ 
+c.c.:  
+Sr. Claudio Metayer Guerrero - Encargado Suplente de la empresa CGE Transmisión S.A. 
+DAOP/ngm 

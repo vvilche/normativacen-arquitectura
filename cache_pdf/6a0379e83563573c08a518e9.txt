@@ -1,0 +1,87 @@
+ 
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 12 de mayo de 2026 
+DE 03207-26 
+ 
+Señor 
+Víctor Salinas Barrera 
+Encargado Titular  
+Empresa Eléctrica Capullo S.A. 
+Sistema de Transmisión de Los Lagos S.A. 
+Presente 
+ 
+ 
+Ref.: Solicitud de pronunciamiento técnico en 
+el marco del proceso de calificación como 
+Operadores 
+de 
+Importancia 
+Vital 
+(OIV) 
+conforme a la Ley N°21.663. 
+ 
+[1] Carta CAR-CAP-007-2026 / CAR-STLL-
+002-2026, del 10 de abril de 2026. N° ingreso 
+DE03717-26 y DE03718-26. 
+ 
+Responde a: DE03717-26 y DE03718-26. 
+De mi consideración: 
+ 
+En respuesta a su carta indicada en la Ref. [1], mediante la cual solicitan un 
+pronunciamiento técnico actualizado respecto a la participación efectiva que cumplen las 
+instalaciones de Empresa Eléctrica Capullo S.A. y Sistema de Transmisión de Los Lagos 
+S.A. dentro del Sistema Eléctrico Nacional relacionadas con aspectos de Ciberseguridad. 
+ 
+Habiéndose analizado los argumentos expuestos por vuestra representada, informamos lo 
+siguiente: 
+ 
+Respecto de las instalaciones de Empresa Eléctrica Capullo S.A., podemos indicar que si 
+bien la central “HP Capullo” tiene participación en el Plan de Recuperación del Servicio 
+(PRS), operando sus instalaciones cuando se requiere recuperar y aumentar la generación 
+en S/E Antillanca, una eventual indisponibilidad de dicha central no impide la ejecución del 
+PRS. Ello, por cuanto su centro de control no tiene asignado el rol de COR y las estrategias 
+de recuperación incluidas en el plan no inician con la recuperación de dicha central. Ello, 
+sin perjuicio de la obligación de estar disponible para poner en servicio sus instalaciones 
+cuando sea requerido conforme al plan. 
+ 
+Asimismo, respecto de las instalaciones de Sistema de Transmisión de Los Lagos S.A., si 
+bien las mismas participan del PRS cuando se necesita sincronizar las islas de las áreas 
+
+ 
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300  
+www.coordinador.cl 
+ 
+de Pilmaiquén y Pullinque, su participación se restringe a la disponibilidad de la 
+infraestructura física, ya que son propietarios y responsable de una sección de la “línea 
+Antillanca – Rahue” y no poseen elementos de control, ni de maniobra remota que permitan 
+gestionar la ejecución del PRS. 
+ 
+Finalmente, se hace presente que, si bien estas entidades deben cumplir con los 
+requerimientos establecidos en el Estándar de Ciberseguridad para el Sector Eléctrico, 
+como entidades con calificación de impacto bajo, es la Agencia Nacional de Ciberseguridad 
+quien se encuentra facultada a determinar a las entidades que corresponde incluir como 
+Operadores de Importancia Vital (OIV) conforme a la Ley N°21.663. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PLR/FAQ/OHO/VMA/adr 
+ 
+c.c.: 
+Sr. Patricio Leyton R. – Director de Unidad de C 
+Sr. Rodrigo Barbagelata S. – Director Unidad de Regulación. 
+Sr. Diego Perales R. – Director Unidad Legal. 
+ 

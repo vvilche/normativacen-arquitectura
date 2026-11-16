@@ -1,0 +1,101 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 27 de enero de 2026 
+DE 00532-26 
+ 
+Señor 
+Héctor Astudillo 
+ 
+Encargado Titular  
+Parque Eólico Atacama SpA 
+Presente 
+Ref.: Aprueba Protocolos para los Ensayos de 
+Verificación de Control de Frecuencia y Control de 
+Tensión de la central PE Atacama. 
+Responde a Ingreso DE00716-26. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia y en cumplimiento con lo establecido en el 
+Artículo 8 del Anexo Técnico “Verificación de Instalaciones para la prestación de SSCC” de 
+la Norma Técnica de Servicios Complementarios (NTSSCC), se han revisado los 
+antecedentes entregados por su representada mediante comunicación de la Ref. [1]. 
+ 
+Al respecto, comunicamos a Ud. que este Coordinador, aprueba los Protocolos para los 
+Ensayos de Verificación de los Servicios Complementarios de Control Primario de 
+Frecuencia (CPF), Control Terciario de Frecuencia (CTF) y Control de Tensión (CT) a 
+prestar por la central PE Atacama. 
+ 
+Considerando lo indicado, y con la finalidad de continuar con el proceso de Verificación de 
+los Servicios Complementarios, solicito a usted lo siguiente: 
+• 
+Informar a más tardar el 08 de febrero de 2026, al correo que se indica más adelante, 
+la fecha de realización de los ensayos, la cual no podrá ser posterior al 24 de febrero 
+de 2026. 
+• 
+Informar las curvas de carga asociadas a las pruebas según cartas de las Ref. [2] y 
+[3], ingresándolas en la correspondiente solicitud de trabajo del sistema Neomante, 
+con estado operativo “PDO”. Adicionalmente, esta información, debe ser enviada al 
+correo electrónico mencionado más abajo, indicando el N° de aviso de trabajo 
+asociado al sistema Neomante. 
+• 
+En conformidad con el capítulo 5 del “Instructivo Técnico para la Verificación de 
+Instalaciones para la prestación de SSCC”, enviar el Informe Técnico con los 
+resultados de la verificación, en un plazo máximo de 15 días hábiles contados desde 
+que finalizan los ensayos. 
+ 
+Los 
+antecedentes 
+requeridos 
+deberán 
+ser 
+enviados, 
+al 
+correo 
+verificacion.sscc@coordinador.cl, con el asunto “Respuesta carta DE00532-25 – Ensayos 
+Verificación SSCC PE Atacama” cumpliendo con los plazos establecidos precedentemente. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud. 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+PGR/ycl 
+ 
+ 
+c.c.:  
+Sr. Manuel Pardo – Encargado Suplente Parque Eólico Atacama SpA 
+ 
+Referencias: 
+[1] Carta 250120-PEAT-CEN-001 de Parque Eólico Atacama SpA, Ref.: “Responde 
+Observaciones al Protocolo de SSCC”, de fecha 20 de enero de 2026. Ingreso DE00716-
+26. 
+[2] Carta DE05925-24, Ref.: “Modificación al ingreso de solicitudes de pruebas de centrales 
+generadoras en plataforma Neomante”, de fecha 11 de noviembre de 2024. 
+[3] Carta DE05995-25, Ref.: “Adecuaciones funcionales a la Plataforma de Solicitudes de 
+Trabajo del Coordinador Eléctrico Nacional.”, de fecha 24 de septiembre de 2025. 
+ 
+ 
+ 
+ 
+ 

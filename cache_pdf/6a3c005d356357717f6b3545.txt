@@ -1,0 +1,105 @@
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+Santiago, 23 de junio de 2026
+ASIV 0021-2026
+Señora
+Marta Cabeza Vargas 
+Superintendenta de Electricidad y Combustibles
+Superintendencia de Electricidad y Combustibles
+Ref: Eventual incumplimiento a la normativa eléctrica, señal de potencia disponible.
+[1] Carta CD N°00102-26, de fecha 19 de junio de 2026.
+[2] Carta DE04836-26 (ASIV 0017-2026), de fecha 19 de mayo de 2026.
+[3] Carta DE03245-26, de fecha 13 de mayo de 2026.
+[4] Carta DE00528-26 (ASIV 0002-2026), de fecha 16 de enero de 2026.
+De mi consideración,
+En relación con la materia de la Ref., y lo informado por el Coordinador Eléctrico Nacional 
+(en adelante “Coordinador”) a Ud. a través de la comunicación indicada en la Ref. [1], puedo 
+comentar lo siguiente:
+1) El Coordinador a través de la comunicación indicada en la Ref. [1] informó a Ud. que 
+mi representada Andes Solar IV SpA, no dio respuesta a la comunicación DE03245-
+26 de fecha 13 de mayo de 2026. Al respecto, comento que dicha comunicación fue 
+respondida por mi representada mediante la carta indicada en la Ref. [2], según 
+consta en el Sistema de Correspondencia del Coordinador. Mediante esta última 
+comunicación, mi representada informó que dio cumplimiento al plan de trabajo 
+comprometido a través de la comunicación indicada en la Ref. [4], esto fue, 
+implementar la señal de potencia disponible para la central PFV Andes Solar IV al 
+30 de marzo del presente.
+2) El Coordinador, a través de la comunicación indicada en la Ref. [1] informó a Ud. 
+que la señal de potencia disponible del parque PFV Andes Solar IV regularmente 
+excede la capacidad máxima del parque. Al respecto, cabe destacar que a través 
+de la comunicación indicada en la Ref. [2], mi representada dio respuesta a dicha 
+aseveración del Coordinador, la cual estuvo contenida en el Anexo de la 
+comunicación indicada en la Ref. [3]. En esa oportunidad, mi representada indicó lo 
+siguiente:
+ 
+“Por otra parte, en Anexo de la comunicación de la Ref. [2], se indica la siguiente 
+observación para la señal en comento, “la información de la señal de potencia 
+
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+disponible regularmente excede la capacidad máxima del parque”. Al respecto, es 
+importante destacar que la central posee las siguientes características: 
+o
+PMax PFV: 211 𝑀𝑊𝐷𝐶. 
+o
+PMax BESS: 130 𝑀𝑊𝐴𝐶 / 650 MWh. 
+o
+Máxima inyección en punto conexión: 130 𝑀𝑊𝐴𝐶  
+Cabe destacar que, la señal de potencia disponible se calcula sobre la base de la 
+potencia máxima que puede producir la componente solar de la Central. Asimismo, 
+acorde con el diseño operativo del parque, el cual fue debidamente informado al 
+Coordinador Eléctrico Nacional en su proceso de conexión, todos los excedentes 
+generados por la componente PFV pueden ser almacenados por la componente 
+BESS mientras tenga capacidad disponible.  
+Finalmente, según los antecedentes expuestos, informamos a Ud. que la señal 
+enviada da cuenta de la real disponibilidad de generación solar de la central, por lo 
+que solicitamos excluir del incumplimiento mencionado en la comunicación de la 
+Ref. [2] a mi representada.” 
+En primer lugar, cabe destacar que mi representada no recibió comentario alguno a 
+lo indicado anteriormente.
+Por otro lado, es posible indicar que no existe inconsistencia en la información 
+entregada por mi representada, la señal de potencia disponible da cuenta de la 
+disponibilidad de generación solar de la central, la cual por sus características de 
+sobredimensionamiento de la componente PFV excede la capacidad máxima de 
+inyección del parque en su punto de conexión. Cabe destacar que, dicha 
+información es entregada de ese modo en cumplimiento de la normativa vigente 
+citada por el mismo Coordinador en la carta indicada en la Ref. [1] de la presente 
+comunicación, lo cual permite que este último cuente con la totalidad de los 
+antecedentes que le permitan gestionar tanto la componente PFV y el Sistema de 
+Almacenamiento del parque híbrido Andes Solar IV de propiedad de mi 
+representada.
+Finalmente, y en atención a lo expuesto, cabe destacar que el eventual incumplimiento a la 
+normativa vigente eléctrica en los términos del artículo 212°-4 de la Ley general de Servicios 
+
+Los Conquistadores 1730 | Providencia, Santiago
+Teléfono: (56-2) 2686-8900
+Eléctricos que informó a Ud. el Coordinador a través de la comunicación indicada en la Ref. 
+[1], carece de fundamentos en vista de los antecedentes antes expuestos.
+Sin otro particular, saluda atte.
+Paola Hartung M.
+p.p. Andes Solar IV SpA
+cc: 
+Consejo Directivo – Coordinador Eléctrico Nacional.
+Sr. Ramón Castañeda P. – Director Ejecutivo Coordinador Eléctrico Nacional.
+
+Electronic Record of Contracts
+This document was generated as a record of certain contracts created, accepted and stored electronically.
+Summary of Contracts
+This document contains the following contracts.
+Title
+ID
+Letter (sec and AES)
+9f60edcc-18f3-4aca-83b4-9c4db26375b4
+Contract signed by:
+Paola Hartung
+Signer ID:
+9dbcca3b-5a95-42bf-b97c-eb6628b5d9cf
+Email:
+paola.hartung@aes.com
+Date / Time:
+Jun 23, 2026 at 9:40 PM UTC
+IP Address:
+191.113.159.185
+User Agent:
+Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/149.0.4022.68 
+Version/26.0 Mobile/15E148 Safari/604.1

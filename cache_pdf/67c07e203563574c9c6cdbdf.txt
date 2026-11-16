@@ -1,0 +1,44 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 27 de febrero de 2025 
+DE 01276-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Solicita dar cumplimiento a ingreso de registros 
+oscilográficos de protecciones a la plataforma SIREP. 
+ 
+De mi consideración: 
+ 
+Me refiero al Sistema de Registro de Protecciones (SIREP), plataforma web desarrollada 
+por el Coordinador para efectos de disponer de un concentrador de registros de eventos y 
+a través del cual los Coordinados deben ingresar manualmente todos los registros 
+oscilográficos (en formato Comtrade) por operación de protecciones que se produzcan en 
+las instalaciones del SEN, en un plazo inferior a las 12 horas de ocurrida una contingencia 
+que gatilló dichos registros, de acuerdo con lo requerido en el Anexo Técnico de Sistema 
+de Monitoreo. 
+Al respecto, vencido el plazo indicado anteriormente para la falla y posterior aplicación del 
+plan de recuperación de servicio que afectó al Sistema Eléctrico Nacional el día 25 de 
+febrero de 2025, a partir de las 15:16 horas, solicito a su representada subir a SIREP 
+(https://sirep.coordinador.cl/) a más tardar las 18:00 hrs. del día 27 de febrero de 2025, 
+todos los registros de sus protecciones que correspondan a este evento. 
+Finalmente, en caso de requerir consultas o aclarar dudas respecto de la plataforma SIREP, 
+agradeceremos dirigirlas a través del correo electrónico soporte.sirep@coordinador.cl, con 
+copia a dmap@coordinador.cl . 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GO/SGASO/DMAP 
+GTS/SGCO/DSCO 
+c.c.: Sres. Encargados Suplentes de Empresas Coordinadas.  

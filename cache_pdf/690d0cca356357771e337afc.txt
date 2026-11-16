@@ -1,0 +1,131 @@
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+ 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+ 
+Carta ENLI-031-25 
+Santiago, 06 de Noviembre de 2025 
+De nuestra consideración: 
+En relación al plan de trabajo solicitado por el Coordinador Eléctrico Nacional en la Ref [1], y conforme a 
+las disposiciones establecidas en el Plan de Recuperación de Servicio (PRS) vigente, se presenta a 
+continuación el plan de trabajo correspondiente a las pruebas de verificación del sistema SCADA, SITR y 
+enlaces de comunicación para mi representada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operacion 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref:  Plan de Trabajo Pruebas de Verificación 
+SCADA 
+[1] DE06407-25 “Plan de Recuperación de 
+Servicio - Pruebas de Verificación SCADA”. 
+ 
+ 
+Concepto
+Fecha de inicio
+Fecha de término
+Diseño y planificación
+03-11-2025
+07-11-2025
+Licitación y adjudicación pruebas señales SITR-SCADA
+10-11-2025
+24-11-2025
+Pruebas   para   verificar   la   redundancia   de alimentación 
+y respaldo de energía
+24-11-2025
+26-11-2025
+Pruebas de avalancha de datos a SCADA
+15-12-2025
+19-12-2025
+Pruebas de edad del dato
+15-12-2025
+19-12-2025
+Pruebas de estampado del dato
+15-12-2025
+19-12-2025
+Pruebas de enlace de comunicación
+18-11-2025
+21-11-2025
+Pruebas de conmutación servidores SCADA
+15-12-2025
+19-12-2025
+Pruebas    de    alimentación    de    energía    y comunicación  
+con   el   Centro   de   Control Principal y de Respaldo
+14-11-2025
+21-11-2025
+Validación de Disponibilidad SCADA
+01-12-2025
+05-12-2025
+Desarrollo  de  Informe  Técnico  preliminar  y envío al CEN
+12-12-2025
+19-12-2025
+Revisión y comentarios por el CEN
+19-12-2025
+26-12-2025
+Emisión Informe Técnico Final
+29-12-2025
+30-12-2025
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+ 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+ 
+ 
+Cabe destacar que la fecha que se propone para la entrega del Informe Técnico Final se encuentra dentro 
+de los plazos establecidos en el PRS vigente, es decir, antes del 31 de diciembre del 2025. 
+ 
+ 
+Sin otro particular, lo saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Mauricio Ortuondo 
+Encargado Suplente 
+Enlight Investments SpA 
+ 
+ 
+ 
+ 

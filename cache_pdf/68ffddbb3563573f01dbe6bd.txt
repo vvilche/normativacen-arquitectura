@@ -1,0 +1,100 @@
+ 
+ 
+ 
+ 
+ 
+ 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 27 de octubre de 2025 
+CTH N°002/2025
+ 
+Sra. 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Observaciones a Indicadores Desempeño 
+Servicios Complementarios – septiembre 2025. 
+[1] Carta DE06307-25 del 07 de octubre de 2025. 
+ 
+De nuestra consideración, 
+ 
+Nos referimos a su carta DE06307-25, ref. [1], donde publica los Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de septiembre de 2025. Al respecto, se informan nuestras 
+observaciones en el Anexo. 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+ 
+ 
+ 
+Juan Muñoz  
+Encargado Titular 
+Inversiones Hornitos SpA 
+  
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 
+ 
+TER HORNITOS 
+ 
+Se observa que, en las fechas indicadas en tabla, se asigna un FD nulo, sin embargo, en dicho periodo TER 
+HORNITOS estuvo fuera de servicio por mantenimiento mayor (MM), documento 2025098746 (desde el 08 sept. 
+hasta el 04 oct.). Por lo tanto, se solicita asignar un FD igual a 100% durante el periodo que la unidad se encontró 
+en MM. 
+ 
+Fecha 
+Unidad 
+Respuesta 
+CT 
+Automática 
+Respuesta CT por 
+Instrucción 
+Disponibilidad 
+Desempeño 
+Factor 
+de 
+Desempeño 
+01-09-2025 
+TER HORNITOS U1 
+100% 
+No participa 
+61% 
+61% 
+0% 
+16-09-2025 
+TER HORNITOS U1 
+No verificable 
+No participa 
+100% 
+0% 
+0% 
+17-09-2025 
+TER HORNITOS U1 
+No verificable 
+No participa 
+100% 
+0% 
+0% 
+22-09-2025 
+TER HORNITOS U1 
+No verificable 
+No participa 
+100% 
+0% 
+0% 
+ 

@@ -1,0 +1,92 @@
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+Carta ENLI-47-26 
+Santiago, 18 de marzo de 2026 
+De nuestra consideración: 
+ 
+Por medio de la presente, y en atención a lo solicitado mediante carta de Ref., mediante la cual se solicita 
+formalizar la entrega del Plan de Adecuaciones e Informe de Cumplimiento del artículo 3-8 de la Norma 
+Técnica de Seguridad y Calidad de Servicio (NTSyCS), versión de octubre 2024, conforme a lo dispuesto 
+en el artículo 9-24 de la misma Norma Técnica, le informo lo siguiente: 
+ 
+En atención al requerimiento efectuado por el Coordinador, Enlight Investments se encuentra realizando 
+un proceso de revisión de los antecedentes técnicos de nuestros inversores en coordinación con su 
+fabricante, con el objeto de determinar la factibilidad técnica de dar cumplimiento al requerimiento de 
+restablecer la inyección de potencia/corriente activa al valor previo a la caída de tensión en un tiempo 
+no superior a 1 segundo, una vez despejada la falla y retornada la tensión a la banda de operación 
+normal. 
+ 
+Esta evaluación tiene por objeto determinar la factibilidad de cumplimiento del requerimiento, 
+considerando integralmente las capacidades del equipamiento, incluyendo aspectos de diseño del 
+convertidor, lógica de control y firmware, configuraciones de protección, así como su interacción con el 
+sistema de control de planta y las condiciones de la red. En particular, se está verificando si el 
+comportamiento requerido puede lograrse mediante ajustes de parametrización o si, alternativamente, 
+requiere modificaciones de mayor alcance a nivel de control o firmware. 
+ 
+Debido a que el Plan de Adecuaciones depende directamente de los resultados de este proceso de 
+análisis y validación con el fabricante, una vez concluido se presentará el referido plan, incluyendo los 
+alcances técnicos, hitos, cronograma de actividades, instancias de coordinación con el Coordinador, 
+estados de avance y fechas comprometidas para su ejecución. 
+ 
+En el mismo sentido, se hace presente que la entrega de la información requerida en los numerales 2. y 
+3. de la carta de Ref. se encuentra igualmente supeditada a los resultados de la evaluación técnica 
+actualmente en desarrollo. 
+ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operaciones 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref: Responde carta DE 01494-26, de 4 de marzo de 2026, 
+Informando respecto del Plan de Adecuaciones e Informe de 
+Cumplimiento del Artículo 3-8 de la NTSyCS, versión octubre 
+2024. 
+ 
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+Lo anterior, por cuanto la verificación de cumplimiento o la eventual identificación de limitaciones 
+técnicas requiere analizar en detalle las capacidades efectivas de los inversores instalados, considerando 
+sus características de diseño, lógica de control, configuraciones de protección y condiciones de 
+operación, así como la evidencia técnica disponible y/o a desarrollar mediante pruebas y validaciones 
+específicas. 
+ 
+En consecuencia, solo una vez concluido dicho proceso de evaluación conjunta con el fabricante será 
+posible determinar si las instalaciones cumplen con el estándar exigido, o bien, si se configuran las 
+condiciones que den lugar a la aplicación de lo dispuesto en el artículo transitorio 9-24 de la NTSyCS, 
+versión de octubre 2024, así como elaborar los informes correspondientes en cada caso. 
+ 
+Estimamos que los resultados del proceso de evaluación técnica en curso estarán disponibles dentro de 
+un plazo de 90 días. En cuanto se disponga de dichos antecedentes, se procederá a remitir al 
+Coordinador toda la información requerida en la carta de Ref. 
+ 
+Sin otro particular, lo saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Mauricio Ortuondo 
+Encargado Suplente 
+Enlight Investments 
+ 
+ 

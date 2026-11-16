@@ -1,0 +1,463 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 20 de mayo de 2025 
+DE 02982-25 
+Señor 
+Miguel Buzunariz 
+Encargado Titular 
+Enel Generación Chile S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación de los 
+Servicios Complementarios (SSCC) de Control de 
+Frecuencia y Control de Tensión de las unidades 1 y 2 
+de Central HE Los Cóndores. 
+Responde a Ingreso DE03930-25 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los SSCC de Control Primario de 
+Frecuencia (CPF), Control Terciario de Frecuencia en frío y en giro (CTF) y Control de 
+Tensión (CT) de las unidades 1 y 2 de Central HE Los Cóndores.  
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del día 23 de mayo de 2025, 
+considerando los recursos indicados en anexo de la presente carta. 
+Al respecto, en anexo de la presente comunicación se presenta la información indicada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación de los SSCC de la central mencionada se encuentran publicados en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación >  
+ 
+1. Control de Frecuencia > Control Primario de Frecuencia > Central HE Los 
+Cóndores 
+2. Control de Frecuencia > Control Terciario de Frecuencia > Central HE Los 
+Cóndores 
+3. Control de Tensión > Central HE Los Cóndores 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar y/o habilitar los equipos necesarios para medir el desempeño de la 
+prestación del SC de CPF, que en este caso corresponden a un medidor 
+potencia/frecuencia con resolución de 1 segundo, debiendo los registros ser 
+enviados al Coordinador siguiendo el protocolo establecido en el documento de la 
+Ref. [2].  Pese a no contar con las señales necesarias para evaluar el desempeño 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+en la prestación, la central HE Los Cóndores quedará habilitada para prestar el 
+Servicio Complementario (SC) de Control Primario de Frecuencia (CPF), pudiendo 
+ser instruida por este Coordinador para prestar dicho servicio. En dicho caso, la 
+evaluación de estás instrucciones será “No Verificable”. 
+• 
+Considerando lo anterior, en base a los artículos 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional, para la evaluación de desempeño se podrán utilizar medios 
+alternativos para poder realizar la evaluación de desempeño de la prestación del 
+SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, las unidades 1 y 2 de Central HE Los Cóndores podrán participar de las 
+subastas de CPF y CTF una vez que complete el proceso de solicitud de incorporación a la 
+plataforma de subastas. Para ello, su representada deberá presentar los antecedentes 
+indicados en las Bases Administrativas de Subastas para Control de Frecuencia, que se 
+encuentran publicadas en la siguiente ruta de la página web del Coordinador Eléctrico 
+Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse al correo electrónico programacion@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/DIR/adr 
+c.c.: Empresas Coordinadas 
+Sr. Adrian Guzmán – Encargado Suplente Enel Generación Chile S.A. 
+ 
+Referencias: 
+[1] Carta OP 093-2025, Ref.: “NUP1416 Observaciones a Informes Técnicos de Verificación 
+de SS.CC. de la Central HP Los Condores” de fecha 21 de abril de 2025. Ingreso: 
+DE03930-25. 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 2020.06.01 > Instructivos Técnicos > Protocolo de envío de registros 
+Potencia/Frecuencia para la evaluación del CPF 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de las unidades 1 y 
+2 de Central HE Los Cóndores. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Unidad HE Los Cóndores U1. 
+• 
+Potencia máxima bruta: 85,30 [MW] 
+• 
+Potencia máxima neta: 84,76 [MW] 
+b) Unidad HE Los Cóndores U2. 
+• 
+Potencia máxima bruta: 85,43 [MW] 
+• 
+Potencia máxima neta: 84,98 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+Control de Tensión (CT) 
+Control de Frecuencia (CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de 
+Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de 
+Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia (CTF)  
+Control Terciario de 
+Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de 
+Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+El estatismo y banda muerta no pueden ser ajustados desde el sistema SCADA. 
+Los cambios deben ser realizados por personal especialista directamente en el 
+regulador de las unidades. 
+• 
+Estatismo (R) se encuentra ajustado en 5%. 
+• 
+La banda muerta se encuentra ajustada en 25 mHz. 
+b) Control de Tensión: 
+• 
+Las unidades se encuentran restringidas para operar a tensiones menores de 0,95 
+pu y mayores a 1,05 pu, debido al límite establecido por la tensión de servicio del 
+AVR. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Enel Generación 
+Chile S.A. para las unidades 1 y 2 de su Central HE Los Cóndores. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+SSCC 
+  
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+ 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+  
+U1 
+U2 
+Características del 
+Controlador de Frecuencia 
+Rango de ajuste Estatismo 
+0-8% 
+0-8% 
+Estatismo 
+5% 
+5% 
+Rango de ajuste Banda muerta [mHz] 
+0-200 
+0-200 
+Banda muerta [mHz] 
+25 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+<1 
+Límite de regulación superior [MW](1) 
+85,30 
+85,42 
+Límite de regulación inferior [MW](2) 
+6,00 
+6,00 
+Aportes (3) 
+ BM = 25 [mHz]  
+R = 5% 
+10 segundos 
+Aporte +0,2[Hz] [MW] 
+-1,84 
+-2,05 
+Aporte -0,2[Hz] [MW] 
++0,77 
++1,47 
+Aporte +0,7[Hz] [MW] 
+-6,25 
+-4,55 
+Aporte -0,7[Hz] [MW] 
++6,14 
++1,97 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-6,41 
+-6,33 
+Aporte -0,2[Hz] [MW] 
++6,52 
++6,43 
+Aporte +0,7[Hz] [MW] 
+-23,04 
+-22,78 
+Aporte -0,7[Hz] [MW] 
++23,15 
++22,75 
+(1) Correspondiente a la Potencia Máxima bruta aprobada por el Coordinador. 
+(2) Correspondiente al Mínimo Técnico bruto aprobado por el Coordinador. 
+(3) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 36,6 MW. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+HE Los 
+Cóndores 
+Hidráulica  
+Tasa normal de 
+operación [MW/min] 
+Subida 
+12,83 
+12,83 
+Bajada 
+-12,83 
+-12,83 
+Tasa máxima de 
+operación [MW/min] 
+Subida 
+12,83 
+12,83 
+Bajada 
+-12,83 
+-12,83 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5,00 
+<5,00 
+Bajada 
+<5,00 
+<5,00 
+Aporte CTF [MW] (1) 
+Subida 
+79,3 
+79,42 
+Bajada 
+-79,3 
+-79,42 
+Límite de regulación superior [MW] (1) 
+85,3 
+85,42 
+Límite de regulación inferior [MW] (1) 
+6 
+6 
+(1) Corresponden a valores brutos. Los límites de regulación y el aporte máximo de CTF podrán verse modificados si se 
+actualizan los parámetros operacionales de las unidades 1 y 2 de central HE Los Cóndores. 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+ 
+HE Los Cóndores 
+Hidráulica  
+Tiempo hasta sincronización [min] 
+3,6 
+4,3 
+ 
+Tiempo hasta mínimo técnico [min] 
+7 
+7 
+ 
+Reserva Fría [MW]  
+85,300 
+85,420 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+SSCC 
+Control de Tensión 
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de reactivos (PQ) 
+Control de tensión (PV) 
+Factor de potencia 
+Unidad 
+  
+Tensión 
+[p.u.]  
+Valor Determinado [MVAr] 
+P bruta 
+[MW] 
+  
+0,9(1) 
+0,95 
+1 
+1,05 
+1,1(1) 
+HE Los 
+Cóndores 
+U1 
+6,00 
+No 
+operable 
+-49,86 
+-55,25 
+-60,91 
+No 
+operable 
+32,43 
+-40,61 
+-46,76 
+-53,38 
+58,87 
+-28,1 
+-34,29 
+-40,63 
+85,30 
+-5,13 
+-21,1 
+-27,63 
+85,30 
+5,13 
+24,99 
+19,01 
+58,87 
+42,44 
+37,01 
+30,25 
+32,43 
+50,06 
+44,16 
+36,99 
+6,00 
+53,1 
+47,02 
+39,7 
+HE Los 
+Cóndores 
+U2 
+6,00 
+No 
+operable 
+-49,86 
+-55,25 
+-60,91 
+No 
+operable 
+32,48 
+-40,59 
+-46,74 
+-53,36 
+58,95 
+-28,06 
+-34,26 
+-40,59 
+85,43 
+-3,18 
+-21,04 
+-27,57 
+85,43 
+3,18 
+24,99 
+19,01 
+58,95 
+42,41 
+36,98 
+30,22 
+32,48 
+50,05 
+44,15 
+36,99 
+6,00 
+53,1 
+47,02 
+39,7 
+(1) El rango de operación del AVR está definido para tensiones en bornes de los generadores entre el rango 0,95 y 1,05 
+p.u. 

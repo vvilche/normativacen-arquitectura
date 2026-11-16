@@ -1,0 +1,66 @@
+ARAUCO BIOENERGIA SpA. 
+Av. El Golf 150. Piso 14 
+Las Condes – Santiago, Chile 
+Fono: 56-2 2461 7200 
+Santiago, 10 de junio 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GAB-054/2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+REF: Respuesta a Observaciones al Informe Técnico de Verificación del Servicio 
+Complementario de Control de Tensión de central TER Horcones. 
+[1] Carta DE03393-26, Ref.:” Observaciones al Informe Técnico de Verificación 
+del Servicio Complementario de Control de Tensión de central TER Horcones” 
+ 
+ 
+De nuestra consideración: 
+ 
+Nos referimos a su carta Ref. [1], mediante la cual se emitieron observaciones al Informe Técnico de Verificación 
+de Servicios Complementarios de la Central TER Horcones. Al respecto, por medio de la presente remitimos una 
+nueva versión de los Informes Técnicos que atienden dichas observaciones. 
+ 
+Sin perjuicio de lo anterior, respecto de la limitación en la potencia reactiva (-10/+20 MVAr) de la unidad, cabe 
+precisar que éstas se encuentran implementadas en el sistema de control (PLC) de la unidad, y se ha determinado 
+que estos valores corresponden a un límite implementado desde la puesta en servicio de la unidad. 
+ 
+A mayor abundamiento, se ha verificado que el límite de consigna de -10 MVAr no tiene implicancias en la 
+operación de la unidad, debido a que se encuentra aguas abajo del limitador de subexcitación. Lo anterior fue 
+corroborado durante los ensayos de verificación de servicios complementarios, en los cuales se comprobó la 
+correcta actuación de dicho limitador. 
+ 
+Respecto del límite de +20 MVAr, se ha determinado que éste coincide con la máxima inyección de potencia 
+reactiva que la unidad puede entregar a potencia activa nominal, razón por la cual se estima que obedeció al 
+criterio utilizado para su implementación original. Sin perjuicio de lo anterior, se realizará un estudio técnico que 
+permita determinar la capacidad efectiva del sistema de excitación para suministrar potencia reactiva adicional 
+en distintos puntos de operación de la unidad. Los resultados de dicho estudio permitirán evaluar la factibilidad 
+de modificar dicho límite y, en caso de corresponder, establecer un nuevo valor que refleje adecuadamente las 
+nuevas capacidades de la unidad y de su sistema de excitación. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Leonardo Bastidas 
+Encargado Titular 
+ARAUCO BIOENERGÍA SpA. 
+Leonardo 
+Bastidas 
+Almarza
+Firmado 
+digitalmente por 
+Leonardo Bastidas 
+Almarza 
+Fecha: 2026.06.10 
+11:56:07 -04'00'

@@ -1,0 +1,53 @@
+ 
+Santiago, 13 de mayo de 2025. 
+  ACC.ECH.051.25 
+Señor: 
+Gretchen Zbinden V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N° 1061, Parque Industrial ENEA 
+Pudahuel 
+PRESENTE 
+ 
+REF.:  Observaciones al Informe Desempeño Servicios Complementarios – abril 2025. 
+De nuestra consideración: 
+Nos referimos al Informe Desempeño de Servicios Complementarios versión 1 correspondiente al 
+mes de abril 2025, que fue publicado en su página web y cuya publicación fue comunicada a través 
+de la carta DE 02707-25 de fecha 8 de mayo de 2025. 
+Al respecto, adjuntamos nuestras observaciones a dicho informe en Anexo.  
+Sin otro particular, saluda cordialmente a usted. 
+ 
+Felipe Escobar Tapia 
+Encargado Suplente  
+Acciona Energía Chile Holdings, S.A. 
+
+ANEXO 1: OBSERVACIONES AL INFORME DESEMPEÑO SSCC ABRIL 2025 V1 
+Servicio Complementario – CT 
+Planta: PFV El Romero 
+Timestamp 
+Planta 
+Consigna en 
+Planta [MVAr] 
+Registro en 
+RIO [MVAr] 
+Hora INICIO 
+registro RIO 
+Comentario 
+25-04-2025 
+23:55:23 
+-60 
+-60 
+25-04-2025 
+23:56:00 
+Instrucción calificada como “NV”, pero se corrobora mediante la grabación de llamada que la hora de la 
+solicitud del servicio fue a las 23:54 hrs. 
+- 
+-60 
+-60 
+29-04-2025 
+18:07:00 
+La instrucción fue calificada como “NC”; sin embargo, el registro en RIO no corresponde a una nueva 
+instrucción, sino a la continuidad del servicio tras el término de la generación, el cual fue solicitado 
+explícitamente por CDC. 
+ 
+ 

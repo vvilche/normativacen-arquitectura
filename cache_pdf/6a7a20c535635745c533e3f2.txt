@@ -1,0 +1,87 @@
+Opdenergy Generación S.p.A. Los Militares 5953, Oficina 1803, Las Condes - Santiago 
+ 
+ 
+                                                                                                                                                                            OPDE-CL-GR-0877 
+07 de agosto de 2026 
+ 
+ 
+Sr. Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional (CEN)  
+Av. Parque Isidora Sur 1061, Pudahuel  
+ 
+Presente 
+ 
+REF: Carta DE05006-25, Ref.: “Comunica atraso en el proceso de Verificación de Instalaciones de 
+Generación para la Prestación de Servicios Complementarios de acuerdo con Cronograma Vigente”, de 
+fecha 13 de agosto de 2025. 
+ 
+[1]: Carta OPDE-Cl-GR-0817 “Solicita prorroga para la entrega de Informes de verificación para la 
+Prestación de Servicios Complementarios.” 
+ 
+[2]: Carta DE03429-26, Ref: “Proceso de Verificación del Servicio Complementario (SC) de Control 
+Secundario de Frecuencia (CSF-AGC) e incorporación a la herramienta de despacho económico (ED)” de 
+fecha 20 de mayo de 2026.” 
+ 
+[3]: Carta DE05186-26, Ref: “Incumplimiento de plazos de Verificación del Servicio Complementario de 
+Control Secundario de Frecuencia y de envío de información requerida.” 
+ 
+ 
+De nuestra consideración, 
+ 
+En relación con la comunicación individualizada en la Ref.[1], mediante la cual mi representada solicitó una 
+prórroga para el cumplimiento de las actividades asociadas al proceso de verificación para la prestación del 
+Servicio Complementario de Control Secundario de Frecuencia (CSF-AGC), considerando que la unidad 
+generadora se encuentra actualmente en un proceso de hibridación con el proyecto BESS Sol de Los Andes 
+(NUP 5114), el cual contempla la actualización del equipamiento de operación y del sistema de control PPC, 
+venimos en informar el estado de avance de las actividades comprometidas. 
+ 
+Al respecto, se comunica lo siguiente: 
+ 
+1. El enlace requerido para la integración de la unidad generadora con los sistemas del Coordinador se 
+encuentra completamente implementado. 
+2. Se adjunta el archivo "5114_Sol_de_los_Andes_TAG_ICCP_v2_4", correspondiente al proyecto de 
+hibridación, el cual incorpora las señales requeridas para la prestación del Servicio Complementario 
+de Control Secundario de Frecuencia (CSF-AGC). 
+3. Asimismo, se adjunta el comprobante de las pruebas efectuadas, junto con la correspondiente 
+aprobación emitida por ese Coordinador, conforme al documento público PGP. 
+4. Los informes correspondientes a SSCC, CPF y CTF se encuentran actualmente en desarrollo, 
+estimándose su ingreso a través de la Plataforma de Gestión de Proyectos (PGP) durante la semana 
+del 24 de agosto de 2026. 
+5. Finalmente, las pruebas funcionales para la habilitación del Servicio Complementario de Control 
+Secundario de Frecuencia (CSF-AGC) se encuentran programadas para finales del mes de agosto de 
+2026. 
+ 
+ 
+ 
+ 
+
+Opdenergy Generación S.p.A. Los Militares 5953, Oficina 1803, Las Condes - Santiago 
+ 
+ 
+En mérito de lo expuesto, se adjuntan a la presente comunicación los antecedentes que respaldan el avance 
+del proceso de verificación antes descrito. Asimismo, hacemos presente que las actividades indicadas en los 
+numerales 4 y 5 serán concluidas con anterioridad al plazo máximo establecido por el Coordinador para el 
+mes de noviembre de 2026. 
+ 
+Agradecemos la comprensión su comprensión respecto de la situación expuesta, considerando que las 
+actividades aún pendientes forman parte del proceso de hibridación actualmente en desarrollo y que su 
+ejecución se encuentra sujeta a la secuencia técnica de implementación del proyecto BESS Sol de Los Andes. 
+Reiteramos el compromiso de mi representada con el cumplimiento de las exigencias regulatorias y con la 
+finalización de todas las actividades dentro de los plazos comprometidos. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Felipe Arcos Reyes  
+Encargado Suplente 
+ Opdenergy Generación S.p.A. 

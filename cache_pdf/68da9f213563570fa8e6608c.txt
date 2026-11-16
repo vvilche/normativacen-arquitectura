@@ -1,0 +1,110 @@
+ 
+ 
+                                                                                                                                          
+ 
+ 
+ 
+OP 269-25 
+ 
+   FECHA:    26/09/2025 
+                 
+Sr.     
+MARCELO BOBADILLA M. 
+DIRECTOR EJECUTIVO 
+COORDINADOR ELÉCTRICO NACIONAL  
+Dirección 
+TEATINOS 280 
+Teléfono 
+(56) (2) 2424 6300 
+Fax 
+(56) (2) 2424 6301 
+Remite 
+ 
+MIGUEL BUZUNÁRIZ 
+ENCARGADO Enel Generación Chile 
+Dirección 
+ 
+Roger de Flor N°2725 – Piso 18 – Las Condes – Santiago 
+Teléfono 
+ 
+(56) (2) 2630 9000 
+Fax 
+ 
+(56) (2) 2635 4087 
+ 
+ 
+MATERIA: 
+SOLICITUD DE ANTECEDENTES SOBRE EL CÁLCULO DEL FACTOR DE 
+ACTIVACIÓN Y DEL COMPONENTE DE O&M EN LA TECNOLOGÍA DE CICLOS 
+COMBINADOS – INFORME DEFINITIVO ESTUDIO DE COSTOS DE DESGASTE 
+SSCC 2025. 
+ 
+REF: 
+DE05827-25 – PUBLICACIÓN INFORME DEFINITIVO ESTUDIO DE COSTOS DE 
+DESGASTE DE SSCC (16-SEP-2025) 
+  
+ 
+Estimado Señor: 
+ 
+Me refiero a la carta DE05827-25, mediante la cual el Coordinador informó la publicación del Informe 
+Definitivo del Estudio de Costos de Desgaste de Servicios Complementarios (SSCC), elaborado por 
+el consultor Grupo Mercados Energía (GME) y disponible en la página web institucional.     
+ 
+Tras la revisión del informe definitivo, quisiéramos solicitar aclaraciones respecto de los siguientes 
+aspectos metodológicos de cálculo:   
+ 
+1. Factor de Activación 
+ 
+El informe señala que el factor de activación se aplica de manera uniforme a todas las tecnologías 
+y segmentos de potencia, calculado como un valor promedio a partir de datos de activación de SSCC 
+(CPF, CSF y CTF) de unidades térmicas, hidráulicas y renovables en los últimos tres años.   
+Solicitamos se nos remitan los antecedentes específicos que respaldan dicho cálculo, incluyendo: 
+• 
+La base de datos de horas de activación por tecnología y rango de potencia. 
+• 
+Respuesta a la siguiente consulta ¿Por qué se utiliza solo una muestra para realizar este 
+calcula y no la totalidad de datos? 
+ 
+2. Costos de O&M en Ciclos Combinados 
+ 
+En el informe definitivo se aprecia una disminución relevante del componente de costos de operación 
+y mantenimiento adicionales (OyM) respecto de la versión preliminar de abril 2025, particularmente 
+en la tecnología de Ciclos Combinados.   
+ 
+Solicitamos se nos informe:   
+ 
+• 
+¿Cuáles fueron las fuentes y criterios utilizados para actualizar los valores de OyM 
+(incluyendo las referencias al Informe de Costos de Tecnologías de Generación – ICTG 
+2024 de la CNE)? 
+
+ 
+ 
+• 
+Los motivos que explican la reducción de dichos costos en los Ciclos Combinados (CCGT), 
+considerando que en la práctica estos activos presentan exigencias mayores cuando operan 
+bajo condiciones de regulación de frecuencia. 
+ 
+ 
+3. Formula Costos Fijos Totales 
+ 
+• 
+Como otros coordinados lo han manifestado, el cálculo del “Costo fijo total US$/MW-hora” 
+el divisor de horas anuales es distinto según la tecnología: para Carbón y Turbinas de Vapor 
+se usaron 2.053 horas, mientras que en el resto se emplearon las 8.760 horas del año 
+calendario. Esto eleva artificialmente el costo por hora en dichas tecnologías. Solicitamos 
+se nos informe la justificación técnica y normativa de este criterio, así como su consistencia 
+metodológica respecto de la comparabilidad entre tecnologías en la prestación de SSCC. 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a usted: 
+ 
+ 
+ 
+ 
+ 
+Miguel Buzunariz 
+ENCARGADO – Enel Generación Chile 
+ 
+ 

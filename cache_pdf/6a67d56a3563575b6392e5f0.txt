@@ -1,0 +1,115 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 27 de julio 2026 
+DE 04999-26 
+Señor 
+Eduardo Sáez M. 
+Gerente de Operación y Mantenimiento 
+Interchile S.A. 
+Presente 
+Ref.: Solicita antecedentes sobre la arquitectura y 
+redundancia de los canales de comunicación de la 
+línea 2x500 kV Nueva Pan de Azúcar - Polpaico, 
+y refuerza los compromisos de coordinación y 
+alerta oportuna ante condiciones meteorológicas 
+adversas. 
+[1] Carta IC-OM-00-C450, de fecha 22 de junio de 
+2026, de Interchile S.A. 
+[2] Carta DE04463-26, de fecha 6 de julio de 2026, 
+del Coordinador Eléctrico Nacional. 
+De mi consideración: 
+Me refiero a los antecedentes asociados a la operación de la línea 2x500 kV Nueva Pan de 
+Azúcar - Polpaico, en particular a los eventos registrados entre los días 17 y 19 de julio de 2026, 
+en el contexto de condiciones meteorológicas adversas en su zona de emplazamiento, durante 
+los cuales se produjeron desconexiones forzadas por acción de protecciones, así como 
+condiciones de indisponibilidad o degradación de esquemas de teleprotección en ambos 
+circuitos, asociadas, según los antecedentes disponibles, tanto a daño físico de los canales de 
+comunicación por fibra óptica como por la degradación transitoria del canal de onda portadora 
+(OPLAT). 
+Al respecto, y aun cuando los circuitos de esta instalación de transmisión retornaron al servicio y 
+las limitaciones sobre las teleprotecciones fueron canceladas —según se informó— entre las 
+21:29 y las 21:47 horas del día 18 de julio, este Coordinador estima indispensable contar con 
+antecedentes técnicos que permitan analizar las causas, alcance y efectos operacionales de la 
+pérdida simultánea de ambos sistemas de protección diferencial (87L) y de su respaldo OPLAT 
+en el tramo Nueva Pan de Azúcar - Polpaico. Lo anterior, considerando especialmente la 
+necesidad de verificar la redundancia efectiva de dichos sistemas y su comportamiento frente a 
+eventos de origen meteorológico, en comparación con lo observado en los tramos Nueva 
+Cardones - Nueva Maitencillo y Nueva Maitencillo - Nueva Pan de Azúcar, donde según los 
+antecedentes disponibles el Sistema 2 se mantuvo operativo en todo momento.  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+En consecuencia, solicitamos a su representada remitir a más tardar el 3 de agosto de 2026, los 
+siguientes antecedentes relativos al diseño, arquitectura y condición operacional de los canales 
+de comunicación de la línea: 
+a) Un diagrama explicativo de la arquitectura completa de los canales de comunicación (fibra 
+óptica y OPLAT) que soportan las funciones de protección diferencial de línea (87L) y de 
+teleprotección en los tramos Nueva Cardones - Nueva Maitencillo, Nueva Maitencillo - 
+Nueva Pan de Azúcar y Nueva Pan de Azúcar - Polpaico, que permita identificar con 
+claridad los equipos, tramos físicos, rutas de comunicación, enlaces y puntos de conexión 
+compartidos entre el Sistema 1 y el Sistema 2 de protección, y entre el canal primario y 
+su respaldo. 
+b) La identificación expresa de todo punto único de falla ("single point of failure") existente 
+en dicha arquitectura, es decir, todo componente, equipo de multiplexación, tramo de fibra 
+óptica o infraestructura de comunicaciones o elemento común cuya indisponibilidad 
+pueda comprometer simultáneamente más de un sistema de protección o más de un 
+canal de comunicación, con especial atención al tramo Nueva Pan de Azúcar - Polpaico. 
+c) La confirmación de la redundancia física y lógica efectiva del equipamiento de 
+comunicaciones de la línea, incluyendo los criterios de diseño, configuración, operación 
+y mantenimiento que permiten sustentar dicha redundancia, junto con la evaluación de la 
+conveniencia de diversificar las vías de comunicación en los tramos identificados de 
+mayor criticidad, de manera de evitar que un evento físico localizado pueda dejar a uno 
+o ambos circuitos sin esquema de teleprotección disponible. 
+d) La confirmación de que la filosofía operacional y la arquitectura del equipamiento que 
+integra el esquema de onda portadora (OPLAT) permiten su actuación frente a fallas que 
+involucren cualquiera de las fases, en cualquiera de los circuitos de la línea, incluyendo 
+el detalle de las condiciones bajo las cuales dicho esquema puede quedar degradado o 
+indisponible así como los criterios operacionales aplicables en tales condiciones. 
+e) Un informe de análisis de los eventos registrados entre el 17 y el 19 de julio de 2026, que 
+incluya cronología de eventos, protecciones operadas, estado de los canales de 
+comunicación, indisponibilidades registradas, medidas adoptadas, criterios de 
+normalización y eventuales acciones correctivas o preventivas definidas por Interchile. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+f) Plan de acción de corto y/o largo plazo destinado a disminuir la probabilidad de ocurrencia 
+de eventos similares, indicando las medidas técnicas, operacionales y de mantenimiento 
+que serán implementadas, junto con sus plazos de ejecución. 
+Sin perjuicio de lo anterior, y en segundo término, este Coordinador estima pertinente reforzar lo 
+señalado por Interchile en su carta de la referencia [1], en la que su representada informó que, 
+"ante la detección de cualquier condición climática extrema que pueda superar las condiciones 
+de diseño, Interchile informará de manera oportuna al CEN de manera que este tome a través 
+del CDC las medidas operacionales necesarias en caso de riesgo de una salida intempestiva de 
+la línea de transmisión". Los eventos del 17 al 19 de julio de 2026 corresponden a un escenario 
+que requiere especial coordinación operacional y seguimiento preventivo, en línea con dicho 
+compromiso. 
+Por lo anterior, solicitamos a su representada mantener una comunicación oportuna y constante 
+con el CDC de este Coordinador respecto de cualquier condición de riesgo, actual o inminente, 
+sobre este activo de transmisión, incluyendo de manera especial las alertas tempranas frente a 
+pronósticos de condiciones meteorológicas adversas que puedan superar las condiciones 
+operacionales o de diseño consideradas para la línea. Dicha comunicación oportuna debe 
+permitir tanto evaluar con la debida anticipación la adopción de las medidas operacionales que 
+resulten necesarias para resguardar la seguridad y confiabilidad de la operación del Sistema 
+Eléctrico Nacional, como también evitar que dichas medidas se mantengan vigentes más allá de 
+lo estrictamente necesario, una vez verificada la ausencia de riesgo. 
+Finalmente, manifestamos a usted que la presente solicitud se entiende sin perjuicio del proceso 
+de supervisión de las medidas derivadas de la Auditoría Técnica, formalizada mediante carta de 
+la Ref. [2], y de la obligación de Interchile de remitir los antecedentes, entregables, medios de 
+verificación y cronograma de implementación requeridos en dicha comunicación. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+c.c.: 
+Sr. Leonardo Prado – Encargado Suplente Interchile S.A. 
+Sr. Diego Perales – Gerente Legal y de Regulación. 
+Sr. Gustavo Venegas – Gerente de Planificación y Desarrollo de la Red. 
+Sr. Luis Calabrán G. – Subgerente de Operación en Tiempo Real. 

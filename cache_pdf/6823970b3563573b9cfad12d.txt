@@ -1,0 +1,77 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 12 DE MAYO .2025 
+COM-11/2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para abril del 2025. 
+ 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para marzo 2025. 
+ 
+1) 
+El 01-04-2025 a las 08:10 se registró una activación por CTF (+) para la central TENO_DIESEL. 
+Sin embargo, la instrucción recibida fue a plena carga por orden de merito. Se adjunta la 
+grabación “20250401080503” como evidencia de la situación. Se solicita que se elimine del 
+registro esta activación.  
+2) 
+El 09-04-2025 a las 14:30 se registró una activación por CTF (-) para la central TRAPEN_DIESEL. 
+Sin embargo, la instrucción recibida fue CTF (-) para la central TENO_DIESEL. Se adjunta la 
+grabación “20250409142959” como evidencia de la situación. Se solicita que se elimine del 
+registro esta activación.  
+3) 
+El 22-04-2025 entre las 15:31 y 16:07 se solicita la activación por CTF (+) para TENO_DIESEL. 
+Sin embargo, en el registro de instrucciones de operación la activación fue anotada entre las 
+15:40 y 16:14. Se adjunta como evidencia la grabación “20250422153058”, aunque no se 
+menciona la hora en la comunicación, la grabación queda registrada con la fecha y hora del 
+ingreso de la llamada. Se adjunta también la grabación “20250422160639” donde el operador 
+menciona la hora de fin de activación 16:07. Se solicita que se corrijan las horas de inicio y fin 
+de la activación y se recalcule el desempeño.  
+4) 
+El 14-04-2025 a 23:06 las centrales TENO_DIESEL Y TRAPEN_DIESEL recibieron instrucciones 
+de activación de CTF (+) hasta el 15-04-2025 a las 00:06. Sin embargo, en el registro de 
+instrucción de operación las activaciones quedaron separada por el cambio de fecha, 
+calculando dos desempeños, uno entre 23:06 y 23:59 y entre las 00:00 y las 00:06. Cabe 
+mencionar que el periodo de la segunda activación es menor a los 15 minutos mínimos para 
+realizar una evaluación de desempeño, aun así, se informó un 0% de cumplimiento. Se solicita 
+
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+que se considere una sola activación entre el 14-04-2025 a las 23:06 y el 15:04-2025 a las 00:06 
+o en su defecto que se elimine la segunda activación, dado que no existe una activación en 
+este horario.  
+5) 
+El 14-04-2025 a 23:23 la central PENON_DIESEL recibió una instrucción de activación de CTF 
+(+) hasta el 15-04-2025 a las 00:16. Sin embargo, en el registro de instrucciones de operación 
+la activación quedó separada por el cambio de fecha, calculando dos desempeños, uno entre 
+23:23 y 23:59 y entre las 00:00 y las 00:16. Se solicita que se considere una sola activación entre 
+el 14-04-2025 a las 23:23 y el 15:04-2025 a las 00:16 o que se elimine la segunda activación.  
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+Gustavo Venegas H. 
+Encargado Titular 
+Enlasa Generación Chile S.A. 

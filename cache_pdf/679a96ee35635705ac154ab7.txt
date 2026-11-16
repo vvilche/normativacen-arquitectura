@@ -1,0 +1,271 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 29 de enero de 2025  
+DE 00642-25 
+ 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación de Parámetros de Partida y 
+Detención de la Central TER Mejillones CTM3, del 
+coordinado Engie Energía Chile S.A. 
+[1] 
+Carta 
+DE03788-24, 
+Ref.: 
+“Informe 
+de 
+Parámetros de Partida y Detención de la Central 
+TER Mejillones - CTM3 con combustible diésel, 
+del coordinado Engie Energía Chile S.A”, de fecha 
+30 de julio de 2024. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+TER Mejillones - CTM3 usando combustible diésel, en conformidad con el Informe Técnico 
+publicado en la página web del Coordinador mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+indicado en el párrafo precedente. 
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+TER Mejillones CTM3 con combustible diésel, se presentan en las tablas contenidas en los 
+anexos de la presente carta. 
+ 
+Al respecto, comunico a Ud., que este parámetro entrará en vigencia a partir de las 00:00 
+horas del 1 de febrero de 2025. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+y la tabla con el detalle de los parámetros han sido publicados en la siguiente ruta del sitio 
+web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras 
+Parámetros de Partida y Detención > Informes Determinación de Parámetros para 
+Procesos de Partida y Detención de Unidades Generadoras > Central TER Mejillones 
+- CTM3 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+DIR/adr 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo 1: Parámetros de Partida y Detención Central TER Mejillones - CTM3 con 
+combustible diésel 
+ 
+A. Configuración Ciclo Cerrado: 
+ 
+ 
+Tabla 1. Parámetros del proceso de partida en frío (1) 
+Etapa 
+Parámetro 
+Valor 
+Partida – Sincronización (2) 
+Diesel [m3] 
+42,34 
+Consumo SSAA [MWh] 
+18,49 
+Tiempo [min] 
+163,8 
+Sincronización – Mínimo Técnico 
+Diesel [m3] 
+2,73 
+Consumo SSAA [MWh] 
+0,93 
+Tiempo [min] 
+8,28 
+Mínimo Técnico – Potencia Nominal 
+Diesel [m3] 
+24,26 
+Consumo SSAA [MWh] 
+5,65 
+Tiempo [min] 
+46,14 
+(1) El estado frío de la unidad se alcanza al registrarse una temperatura menor a 150 °C en el 
+eje de la turbina a vapor, lo que equivale a estar detenida totalmente por un tiempo mínimo 
+de 82 horas. 
+(2) Etapa considera la sincronización de la Turbina a Gas y luego la Turbina de Vapor. 
+ 
+ 
+Tabla 2. Parámetros del proceso de partida en tibio/caliente (3)(4) 
+Etapa 
+Parámetro 
+Valor 
+Partida – Sincronización (5) 
+Diesel [m3] 
+18,87 
+Consumo SSAA [MWh] 
+11,26 
+Tiempo [min] 
+99,0 
+Sincronización – Mínimo Técnico 
+Diesel [m3] 
+2,74 
+Consumo SSAA [MWh] 
+0,93 
+Tiempo [min] 
+8,28 
+Mínimo Técnico – Potencia Nominal 
+Diesel [m3] 
+24,26 
+Consumo SSAA [MWh] 
+5,65 
+Tiempo [min] 
+46,14 
+(3) El estado tibio de la unidad se alcanza al registrarse una temperatura entre 150 a 350 °C en 
+el eje de la turbina a vapor, lo que equivale a estar detenida totalmente por un tiempo inferior 
+a 82 horas. 
+(4) La partida en caliente se presenta con una temperatura superior a 350 °C en el eje de la 
+turbina a vapor. 
+(5) Etapa considera sincronización de la Turbina de Gas y luego la Turbina a Vapor. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Tabla 3. Parámetros del proceso de detención 
+Etapa 
+Parámetro 
+Unidad 
+Potencia Nominal – Mínimo Técnico 
+Diesel [m3] 
+21,11 
+Consumo SSAA [MWh] 
+5,16 
+Tiempo [min] 
+42,78 
+Mínimo Técnico – Desconexión (6) 
+Diesel [m3] 
+5,46 
+Consumo SSAA [MWh] 
+2,18 
+Tiempo [min] 
+19,32 
+Desconexión – Apagado (7) 
+Diesel [m3] 
+0,00 
+Consumo SSAA [MWh] 
+6,15 
+Tiempo [min] 
+106,26 
+(6) Etapa considera desconexión de la Turbina de Vapor y luego la Turbina de Gas. 
+(7) El estado apagado se considera cuando las turbinas de Gas y de Vapor inicia su proceso 
+de virado. 
+ 
+B. Configuración Ciclo Abierto 
+ 
+Tabla 4. Parámetros del proceso de partida 
+Etapa 
+Parámetro 
+Unidad 
+Partida – Sincronización 
+Diesel [m3] 
+1,28 
+Consumo SSAA [MWh] 
+1,61 
+Tiempo [min] 
+26,82 
+Sincronización – Mínimo Técnico 
+Diesel [m3] 
+4,34 
+Consumo SSAA [MWh] 
+2,55 
+Tiempo [min] 
+16,74 
+Mínimo Técnico – Potencia Nominal 
+Diesel [m3] 
+18,17 
+Consumo SSAA [MWh] 
+2,99 
+Tiempo [min] 
+37,80 
+ 
+Tabla 5. Parámetros del proceso de detención 
+Etapa 
+Parámetro 
+Unidad 
+Potencia Nominal – Mínimo Técnico 
+Diesel [m3] 
+19,33 
+Consumo SSAA [MWh] 
+4,59 
+Tiempo [min] 
+37,86 
+Mínimo Técnico – Desconexión 
+Diesel [m3] 
+2,16 
+Consumo SSAA [MWh] 
+1,01 
+Tiempo [min] 
+9,06 
+Desconexión – Apagado (1) 
+Diesel [m3] 
+0,00 
+Consumo SSAA [MWh] 
+1,32 
+Tiempo [min] 
+12,06 
+(1) El estado apagado se considera cuando la turbina inicia su proceso de virado. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+C. Tiempos Mínimos de Operación 
+ 
+Tabla 6. Tiempo mínimo de operación (culminado proceso de partida) 
+Configuración 
+Valor [minutos] 
+TER Mejillones CTM3 TG+TV 
+0 
+TER Mejillones CTM3 TG 
+0 
+ 
+ 
+D. Tiempos Mínimos de Detención 
+ 
+Tabla 7. Tiempo mínimo de detención (culminado proceso de detención) 
+Configuración 
+Valor [minutos] 
+TER Mejillones CTM3 TG+TV 
+0  
+TER Mejillones CTM3 TG 
+0 
+ 

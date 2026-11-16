@@ -1,0 +1,110 @@
+ 
+Av. Parque Isidora Sur 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Santiago, 26 de junio de 2026 
+DE 04402-26 
+ 
+ 
+ 
+Señor 
+Encargado Titular 
+Empresa Coordinada 
+Presente 
+ 
+ 
+    
+Ref.: Solicita revisión y actualización de 
+datos en Registro Único de Coordinados 
+(REUC). 
+ 
+Sr. Encargado Titular:  
+ 
+En relación con lo establecido en el Artículo 72-2, así como lo dispuesto en el Artículo 12 
+del Decreto 125, que aprueba el reglamento de la coordinación y operación del sistema 
+eléctrico nacional: “Los Coordinados estarán obligados a proporcionar oportunamente al 
+Coordinador y actualizar toda la información, en forma cabal, completa y veraz, que éste 
+requiera para el cumplimiento de sus funciones”, se requiere que cada empresa revise, 
+actualice o confirme, la información ingresada en el Registro Único de Coordinados 
+(REUC) (https://reuc.coordinador.cl/).  
+ 
+Al respecto, se debe precisar que la obligación de actualización contempla la siguiente 
+información: 
+ 
+1. Datos de la Empresa Coordinada 
+  
+i. Validar el correcto registro de los campos “Comuna”, “Dirección”, “Teléfono”. Dicha 
+información es crítica y solicitada mensualmente por la Superintendencia de 
+Electricidad y Combustibles (SEC) (junto al resto de información disponible en REUC). 
+ii. Confirmar que el campo “Información Bancaria” se encuentra vigente, ya que este 
+dato es utilizado para el proceso de recaudación del Cargo por Servicio Público (CSP) 
+y Fondo de Estabilización de Tarifas (FET). 
+iii. Completar o actualizar el campo “En Copia”, indicando una cuenta de correo 
+electrónico que facilite la distribución interna, para cada empresa, de las 
+comunicaciones procesadas en el Sistema de Correspondencia.   
+ 
+2. Datos de contacto de Encargados Designados 
+ 
+i. Gerente General, Encargado Titular y Encargado Suplente: se requiere que la 
+persona que detente el cargo se encuentre vigente y sus datos de contacto estén 
+actualizados, tanto para comunicaciones emitidas por el Coordinador como por la SEC. 
+Asimismo, se requiere que los correos sean individuales y correspondiente al nombre 
+del respectivo responsable. 
+
+ 
+Av. Parque Isidora Sur 1061, Pudahuel, Santiago de Chile – Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+ii. Encargado Facturación: se requiere que la persona que detenta el cargo se 
+encuentre vigente y sea consistente con la información entregada en procesos 
+asociados a la participación de empresas en el Mercado de Corto Plazo, Cargo por 
+Servicio Público y Fondo de Estabilización de Tarifas. 
+iii. Encargado y Delegado NERC-CIP: empresas sujetas al cumplimiento del Estándar 
+de Ciberseguridad para el Sector Eléctrico (NERC-CIP), validar vigencia de las 
+personas cuyos cargos fueron informados a este organismo. En caso de requerir 
+actualización, informar a ciberseguridadsen@coordinador.cl las nuevas personas que 
+detentan los cargos y adjuntar las evidencias de la designación respectiva. 
+iv. Responsable SITR: designar un profesional técnico titular y su suplente a cargo del 
+sistema SCADA o que tengan a su cargo actividades afines para cumplir funciones de 
+contraparte para los procesos asociados a la gestión del “Sistema de Información en 
+Tiempo Real” y comunicaciones TO. 
+v. Usuarios Sistema Correspondencia y otros aplicativos: se solicita validar registros 
+de usuarios habilitados en este apartado. Los encargados designados de cada 
+empresa cuentan con permisos para agregar/eliminar usuarios, para facilitar la 
+autogestión de accesos a aplicativos del Coordinador.   
+  
+3. Documentación Legal 
+ 
+Revisar y actualizar, si procede, la información legal solicitada en el respectivo 
+apartado de REUC: 
+ 
+i. Escritura Pública de Constitución de la Sociedad. 
+ii. Certificado de Inscripción y Vigencia de la Sociedad en el Registro de Comercio con 
+anotaciones, de antigüedad menor a 30 días. 
+ 
+iii. Copia del Rol Tributario. 
+ 
+iv. Iniciación de Actividades ante el Servicio de Impuestos Internos. 
+ 
+v. Copia simple de la escritura pública donde conste la designación del Gerente General 
+o Representante Legal. 
+ 
+Finalmente, para dar respuesta a lo solicitado en la presente, se habilitará en la 
+plataforma ConectaCEN el respectivo requerimiento, con fecha de cierre 17 de julio 
+de 2026. Una vez actualizada la información en REUC, se deberá responder el 
+requerimiento en ConectaCEN, confirmando que la solicitud realizada por el 
+Coordinador se encuentra actualizada (habiendo o no habiendo cambios). Las 
+respuestas emitidas a través de ConectaCEN sólo serán consideradas válidas si la 
+información correspondiente se encuentra efectivamente actualizada en REUC. 
+Ante cualquier duda o dificultad para actualizar la información requerida, contactar 
+a ConectaCEN@coordinador.cl. 
+ 
+Sin otro particular saluda atentamente a Ud., 
+ 
+ 
+ 
+Marcelo Bobadilla M. 
+Gerente de Mercados 
+Coordinador Eléctrico Nacional 
+MHS/VMS/YCL 
+c.c.: Sr. Encargado Suplente  

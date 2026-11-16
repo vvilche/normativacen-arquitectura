@@ -1,0 +1,83 @@
+ 
+Santiago, 5 de octubre de 2026 
+Señor 
+Rodrigo Espinoza Vilches 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+Presente 
+ 
+ 
+ 
+REF: [1] Carta DE06943-25 “Implementación, verificación y 
+solicitud de plan de trabajo de esquema de Plan de 
+Defensa contra Contingencias Extremas (PDCE) de la 
+zona Norte del SEN" 
+ 
+[2] Correo electrónico “Responde a carta DE07805-26 
+Propuesta EDACxCE”, del 25 de septiembre de 2026. 
+ 
+ 
+De nuestra consideración: 
+ 
+ 
+En relación con la carta indicada en la referencia [1] y la respuesta entregada mediante el correo electrónico 
+señalado en la referencia [2], referidas al Esquema de Desprendimiento Automático de Carga por Contingencias 
+Extremas (EDACxCE) de la Zona Norte, nos dirigimos a usted para plantear las siguientes consultas respecto 
+de la implementación de recursos para el control de frecuencia solicitada a Sociedad Química y Minera de Chile 
+S.A., de conformidad con lo establecido en el Informe de Servicios Complementarios Año 2027 emitido en junio 
+de 2026. 
+ 
+De acuerdo con la información proporcionada en el referido correo electrónico, se indica que Sociedad Química 
+y Minera de Chile S.A. registra una demanda de 31,92 MW y que la propuesta considera el desprendimiento 
+de un total de 14,964 MW, distribuidos en tres escalones. Por otra parte, actualmente nos encontramos 
+desarrollando la implementación del esquema EDAC BF, el cual contempla un desprendimiento total de 8,5 
+MW. En consecuencia, al considerar conjuntamente ambos esquemas, la potencia total comprometida para 
+desprendimiento automático alcanzaría 23,464 MW, equivalente aproximadamente al 73% de nuestra demanda 
+total. 
+ 
+En este contexto, queremos manifestar nuestra disposición a implementar el esquema solicitado, en 
+cumplimiento de la normativa vigente. Sin perjuicio de ello, estimamos necesario considerar que, dada la 
+naturaleza de nuestras operaciones, la desconexión y posterior reposición de determinadas cargas presentan 
+restricciones operacionales relevantes. En particular, existen procesos térmicos que requieren tiempos de 
+preparación, estabilización y puesta en régimen antes de recuperar sus condiciones normales de operación, por 
+lo que la definición de los bloques de carga a desprender debe contemplar adecuadamente estas condiciones. 
+  
+Por consiguiente, solicitamos evaluar la posibilidad de que los puntos de desprendimiento considerados para la 
+implementación del esquema EDAC BF puedan ser utilizados, total o parcialmente, para dar cumplimiento a los 
+requerimientos asociados al esquema EDACxCE. Esta solicitud se fundamenta en que ambos esquemas 
+contemplan el desprendimiento automático de carga, aunque asociados a condiciones operacionales distintas 
+vinculadas al comportamiento de la frecuencia del sistema. De estimarse técnicamente factible, los relés 
+asociados al esquema EDAC BF podrían incorporar en su lógica de programación tanto las condiciones de 
+actuación definidas para dicho esquema como aquellas requeridas para contingencias extremas.  
+ 
+Dicha definición es relevante para evaluar donde serán aplicados los distintos escalones solicitados, conforme 
+lo dispuesto en la nota al pie N° 58 del Informe de Servicios Complementarios año 2027. 
+ 
+
+ 
+Adicionalmente, agradeceremos informar cuál es el criterio utilizado por el coordinador para determinar la 
+potencia de desprendimiento requerida bajo el esquema EDACxCE y, en particular, si existe un porcentaje 
+objetivo respecto de la demanda total de cada coordinado o alguna metodología específica para su asignación. 
+ 
+En virtud de lo anterior, solicitamos a ese Coordinador su pronunciamiento respecto de las consultas planteadas, 
+a fin de contar con los antecedentes necesarios para definir adecuadamente los puntos de desprendimiento y 
+elaborar el correspondiente cronograma de implementación de los recursos de control de frecuencia. 
+ 
+ 
+Sin otro particular, y quedando atentos a sus comentarios,  
+ 
+Se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Godoy 
+Encargado Suplente 
+Sociedad Química y Minera de 
+Chile S.A. 
+ 

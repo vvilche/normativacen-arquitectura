@@ -1,0 +1,5508 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Santiago, 25 de septiembre de 2026 
+ 
+    
+DE 06299-26 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+Ref.: 
+Respuestas 
+a 
+observaciones 
+de 
+Indicadores de Desempeño de Servicios 
+Complementarios prestados durante los meses 
+de enero a junio de 2026, versión 3. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y considerando las comunicaciones de las 
+Ref. [1] a [6], relativas a los indicadores de desempeño de Servicios Complementarios 
+de los meses de enero a junio de 2026 -en su versión 2- y habiendo revisado y atendido 
+las observaciones recibidas, informo a Ud. lo siguiente: 
+ 
+a) En anexo 1 de la presente comunicación se remiten las respuestas a las 
+observaciones recibidas a la versión 2 de los Indicadores de Desempeño de 
+Servicios Complementarios prestados durante los meses de enero a junio de 
+2026. 
+ 
+b) De acuerdo con lo indicado en el literal a) anterior, se encuentra disponible en el 
+sitio web del Coordinador la versión 3 del cálculo de los Indicadores de 
+Desempeño de SSCC prestados durante los meses desde enero a junio de 2026.  
+ 
+Al respecto, los indicadores mencionados pueden ser descargados desde las siguientes 
+rutas: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Índices de Desempeño y 
+Disponibilidad de Servicios Complementarios > 2026 
+ 
+• 
+Enero 2026 > Versión 3 
+• 
+Febrero 2026 > Versión 3 
+• 
+Marzo 2026 > Versión 3 
+• 
+Abril 2026 > Versión 3 
+• 
+Mayo 2026 > Versión 3 
+• 
+Junio 2026 > Versión 3 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Finalmente, comunico a Ud. que los indicadores antes individualizados serán 
+considerados en las reliquidaciones del IVTE, proceso que lidera la Gerencia de 
+Mercados de este Coordinador.  
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+ 
+Subgerente de Control y Desarrollo Operacional 
+ 
+ 
+Coordinador Eléctrico Nacional 
+ 
+CRV/ASA 
+C.C. 
+Sr. Rodrigo Espinoza V. - Gerente de Operación del Coordinador 
+Sr. Marcelo Bobadilla M. - Gerente de Mercado del Coordinador 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Referencias 
+ 
+[1] Carta DE01132-26, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de enero 2026, segunda versión” de fecha 
+18 de febrero de 2026. 
+[2] Carta DE01730-26, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de febrero 2026, segunda versión”, de fecha 
+17 de marzo de 2026. 
+[3] Carta DE02690-26, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de marzo 2026, segunda versión”, de fecha 
+26 de abril de 2026. 
+[4] Carta DE03513-26, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de abril 2026, segunda versión”, de fecha 
+26 de mayo de 2026. 
+[5] Carta DE04262-26, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de mayo 2026, segunda versión”, de fecha 
+23 de junio de 2026. 
+[6] Carta DE05087-26, Ref.: “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de junio 2026, segunda versión”, de fecha 
+30 de julio de 2026. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 1: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+enero 2026 versión 2. 
+ 
+Consultas recibidas: 
+- 
+Empresa Eléctrica Rucatayo S.A.: recibidas mediante plataforma de observaciones del departamento de Transferencias de 
+Energía y SSCC con correlativo O2026-0045352.  
+- 
+Enel Generación Chile S.A.: recibidas mediante las cartas OP 059-26 y OP 086-26. Ingresos DE04105-26 y DE05594-26. 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Enel 
+Generación 
+Chile S.A. 
+CPF 
+TER Atacama 
+Fecha: Todo el mes 
+ 
+Se detectó que los archivos cargados en 
+dichos meses presentaron errores en la data 
+de consigna de carga informada, lo que 
+ocasionó que el desempeño de dichas 
+unidades fuera evaluado incorrectamente. En 
+consecuencia, se generaron archivos con la 
+información corregida para las unidades 
+TG1A, TG1B y TG2A (enero a marzo), y para 
+TG2B (enero a febrero, quedando pendiente 
+marzo). 
+ 
+Adicionalmente se solicita reprocesar los 
+archivos de control primario de frecuencia de 
+las unidades mencionadas para la nueva 
+versión del factor de desempeño de marzo y 
+abril. 
+ 
+Agradeceremos considerar estos archivos 
+corregidos en una tercera versión del cálculo 
+de los indicadores de desempeño de estos 
+meses, y que sean utilizados en la futura 
+reliquidación del Balance de SSCC del primer 
+semestre de 2026. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de TER 
+Atacama en esta versión del cálculo. Dicho lo 
+anterior los indicadores se recalculan y el 
+desempeño mensual cambia a 87% para las 
+unidades TER Atacama CC1-TG1 y CC2-TG2 
+y a 93% TER Atacama CC2-TG1. Las 
+unidades restantes de la central TER Atacama 
+no 
+tuvieron 
+modificaciones 
+en 
+sus 
+desempeños. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+2 
+Enel 
+Generación 
+Chile S.A. 
+CPF 
+HE Cipreses 
+Fecha: Todo el mes 
+ 
+Se solicita reprocesar los archivos de control 
+primario de frecuencia de las unidades 
+mencionadas para la nueva versión del factor 
+de desempeño desde enero a mayo 2026. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de HE 
+Cipreses en esta versión del cálculo. Dicho lo 
+anterior los indicadores se recalculan y el 
+desempeño mensual del mes de enero cambia 
+a 100% para la unidad HE Cipreses U1. Las 
+unidades HE Cipreses U2 y U3 no participaron 
+del servicio. 
+3 
+Observación 
+Interna 
+CPF 
+Todas 
+Fecha: Todo el mes 
+ 
+Se aplica una banda de tolerancia del 20% a la 
+prestación del servicio ante excursiones sobre 
++-0,2Hz categorizadas con e2. 
+Se acoge la observación. 
+ 
+Se recalculan todos los indicadores de 
+respuesta de CPF de enero considerando este 
+ajuste metodológico. 
+4 
+Empresa 
+Eléctrica 
+Rucatayo 
+S.A. 
+CT 
+HP Rucatayo 
+Fecha: Todo el mes 
+ 
+Junto con saludar, quisiéramos realizar la 
+siguiente 
+consulta. 
+Hemos 
+recibido 
+remuneración por concepto de control de 
+tensión, el cual por lo que detectamos 
+corresponde a la modalidad automática. En 
+este sentido, nos gustaría saber dónde 
+podemos visualizar qué días específicos se 
+prestó dicho servicio. 
+ 
+Al revisar la normativa, observamos que la 
+"Metodología de Cálculo de Indicadores de 
+Desempeño de SSCC del SEN" establece que 
+la 
+verificación 
+del 
+Control 
+de 
+Tensión 
+Automático se realiza en el sistema SCADA 
+con periodicidad de 1 segundo, descontando 
+los períodos en que se haya solicitado control 
+manual. Asimismo, se considera que el 
+servicio se presta si se cumple el Criterio 1 
+(tensión dentro de la banda ±0,1 kV) o el 
+Aclaración. 
+ 
+Las evaluaciones de CT Automático se realizan 
+todos los días del mes de manera automática. 
+Estas se realizan a partir de la potencia activa, 
+reactiva y tensión desde el sistema SCADA en 
+bornes de la unidad a cada segundo del mes.  
+ 
+Los tags SCADA de HP Rucatayo analizados con 
+este fin son: 
+ 
+a. V: RUCATAY 13.GEN1   V 
+b. P: RUCATAY 13.GEN1   P 
+c. 
+Q: RUCATAY 13.GEN1   Q 
+ 
+Dado esto, como coordinado puede revisar la 
+calidad de sus señales en sistema SCADA, para 
+lo cual tiene que contactar directamente al área 
+TI SCADA al mail tec.scada@coordinador.cl y a 
+DCO mediante el correo DCO@coordinador.cl.  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Criterio 2 (sin reservas de reactivos en curva 
+PQ). En caso contrario, se clasifica como No 
+Verificable por Curva (NVC) o No Cumple 
+(NC). 
+ 
+Con 
+base 
+en 
+lo 
+anterior, 
+solicitamos 
+orientación respecto a cómo acceder al detalle 
+diario de la prestación del servicio de control 
+de tensión automático, para poder contrastar 
+nuestros 
+registros 
+con 
+los 
+resultados 
+reportados. 
+Las evaluaciones de desempeño pueden ser 
+descargadas desde el sitio web del Coordinador 
+en la siguiente ruta: Inicio > Operación del 
+Sistema 
+> 
+Post-Operación 
+> 
+Índices 
+de 
+Desempeño 
+y 
+Disponibilidad 
+de 
+Servicios 
+Complementarios > 2026 
+ 
+Para más información sobre la metodología de 
+evaluación se recomienda revisar el sitio web del 
+Coordinador en la siguiente ruta: Inicio > 
+Operación del Sistema > Post-Operación > 
+Índices de Desempeño y Disponibilidad de 
+Servicios 
+Complementarios 
+> 
+Metodología 
+Cálculo Desempeño SSCC 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 2: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+febrero 2026 versión 2. 
+ 
+Consultas recibidas: 
+- 
+Colbún S.A.: recibida mediante la carta GO N°133/2026. Ingreso DE06011-26. 
+- 
+Enel Generación Chile S.A.: recibidas mediante las cartas OP 059-26, OP 077-26 y OP 086-26. Ingresos DE04105-26, 
+DE05206-26 y DE05594-26. 
+- 
+GM Holdings S.A.: recibida mediante la carta GMH N°2026-057. Ingreso DE03783-26. 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Enel 
+Generación 
+Chile S.A. 
+CPF 
+TER Atacama 
+Fecha: Todo el mes 
+ 
+Se detectó que los archivos cargados en 
+dichos meses presentaron errores en la data 
+de consigna de carga informada, lo que 
+ocasionó que el desempeño de dichas 
+unidades fuera evaluado incorrectamente. En 
+consecuencia, se generaron archivos con la 
+información corregida para las unidades 
+TG1A, TG1B y TG2A (enero a marzo), y para 
+TG2B (enero a febrero, quedando pendiente 
+marzo). 
+ 
+Adicionalmente se solicita reprocesar los 
+archivos de control primario de frecuencia de 
+las unidades mencionadas para la nueva 
+versión del factor de desempeño de marzo y 
+abril. 
+ 
+Agradeceremos considerar estos archivos 
+corregidos en una tercera versión del cálculo 
+de los indicadores de desempeño de estos 
+meses, y que sean utilizados en la futura 
+reliquidación del Balance de SSCC del primer 
+semestre de 2026. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de TER 
+Atacama en esta versión del cálculo. Dicho lo 
+anterior los indicadores se recalculan y el 
+desempeño mensual cambia a 87% para la 
+unidad TER Atacama CC1-TG1, a 86% para la 
+unidad TER Atacama CC2-TG1 y a 81% TER 
+Atacama CC2-TG2. Las unidades restantes de 
+la 
+central 
+TER 
+Atacama 
+no 
+tuvieron 
+modificaciones en sus desempeños. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+2 
+Enel 
+Generación 
+Chile S.A. 
+CPF 
+HE Cipreses 
+Fecha: Todo el mes 
+ 
+Se solicita reprocesar los archivos de control 
+primario de frecuencia de las unidades 
+mencionadas para la nueva versión del factor 
+de desempeño desde enero a mayo 2026. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de HE 
+Cipreses en esta versión del cálculo. Dicho lo 
+anterior los indicadores se recalculan y el 
+desempeño mensual del mes de febrero 
+cambia a 100% para la unidad HE Cipreses 
+U1. Las unidades HE Cipreses U2 y U3 no 
+participaron del servicio. 
+3 
+Enel 
+Generación 
+Chile S.A. 
+Disponibilidad- 
+CSF 
+HE 
+Pehuenche 
+Fecha: Todo el mes 
+La limitación LI2026000276 que aplicaba al 
+control secundario de frecuencia de la unidad 
+2 de la central Pehuenche, tuvo como fecha de 
+termino efectiva el 2 de febrero de 2026 a las 
+21:22 
+hrs, 
+sin 
+embargo, 
+se 
+encuentra 
+indisponible en los periodos de febrero, marzo 
+y 
+abril 
+de 
+2026 
+por 
+dicha 
+limitación, 
+considerando que la unidad presto el servicio 
+de control secundario de frecuencia en los tres 
+meses mencionados. Se solicita no considerar 
+esa limitación para el factor de desempeño ya 
+que anula la remuneración por la prestación de 
+los 
+mencionados 
+SSCC, 
+para 
+futuras 
+versiones del factor de desempeño de SSCC y 
+reliquidaciones de los balances de SSCC. 
+Se acoge la observación. 
+ 
+Se constata que la limitación fue cerrada el 2 
+de febrero con fecha de término efectiva a 
+21:22 horas. Dicho lo anterior se calcula el 
+indicador de disponibilidad, resultando en 
+99,96% para HE Pehuenche U1 y 97% para 
+HE Pehuenche U2. 
+4 
+Observación 
+Interna 
+EDAC Enero 2026 
+(calculado en 
+indicadores de 
+febrero 2026) 
+EAF- 60 2026 
+Fecha: Todo el mes 
+La evaluación del EAF060-2026 finalizó de 
+forma posterior a la emisión de la segunda 
+versión 
+del 
+cálculo 
+de 
+desempeño 
+correspondiente, por lo que se incorpora en el 
+proceso de reliquidaciones. 
+Se acoge la observación. 
+ 
+Se incorpora a la tercera versión del cálculo de 
+indicadores de desempeño las evaluaciones 
+EDAC del EAF060-2026. 
+5 
+GM Holdings 
+S.A. 
+CT 
+PFV CEME 1 
+Fecha: 16-02-2026 09:47 horas 
+En la segunda versión de los indicadores de 
+desempeño de febrero no fue acogida la 
+observación a la instrucción de Control de 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde constata que la instrucción fue llegar a -
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Tensión 
+Manual 
+de 
+PFV 
+CEME 
+1, 
+correspondiente al día 16-02-2026 a las 9:47 
+horas, en la cual se señalaba que “El 
+probatorio enviado indica que la unidad fue 
+seteada con -40MVAr, cuando la correcta 
+interpretación de la instrucción es absorber -40 
+MVAr adicionales a los -15MVAr ya absorbidos 
+en la anterior instrucción”.  
+ 
+Con posterioridad a la recepción de la referida 
+carta, se remitió mediante correo electrónico la 
+grabación de la instrucción. En respuesta, el 
+Coordinador solicitó que dicha información 
+fuera ingresada formalmente a través de 
+correspondencia. En virtud de lo anterior GM 
+Holdings S.A, (“GMH”) envía como adjunto a 
+esta 
+comunicación 
+la 
+grabación 
+de 
+la 
+instrucción en que, el despachador del 
+Coordinador consulta cuanto puede absorber 
+CEME1, el Despachador GM responde que 
+pueden llegar a -40 MVAr, a lo que el 
+Despachador CDC indica que adelante con los 
+-40. En virtud de lo anterior, GMH solicita 
+corregir la evaluación, debido a que según se 
+registra en el audio se solicitó y confirmó llevar 
+a PFV CEME1 a -40 MVAr, no absorber 40 
+MVAr adicionales. 
+40 MVAr, lo que PFV CEME 1 cumple 
+adecuadamente según sus registros SCADA. 
+ 
+Dicho lo anterior el indicador de respuesta para 
+esta instrucción se recalcula y pasa a 100%. 
+6 
+Colbún S.A. 
+CPF 
+PE Horizonte 
+Norte 
+Fecha: Todo el mes 
+ 
+El equipo registrador del Parque había perdido 
+el enlace con el concentrador de registros del 
+Coordinador desde febrero hasta mayo del 
+2026. En este contexto se evaluó al Parque 
+como No Verificable. No obstante, lo anterior 
+este problema fue solucionado a fines del mes 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de PE 
+Horizonte Norte en esta versión del cálculo. 
+Dicho lo anterior los indicadores se recalculan 
+y el desempeño mensual resulta en 0%. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+de mayo, y los registros de los meses faltantes 
+ya quedaron disponibles para su evaluación en 
+el enlace dispuesto por el CEN para estos 
+fines. 
+Solicitud: Se solicita revisar nuevamente el 
+desempeño del CPF de Parque para los 
+meses de febrero, marzo y abril, usando los 
+registros que se encuentran disponibles. 
+Este cambio en el desempeño ocurre debido a 
+que en la segunda versión se evaluó sólo 
+hasta el día 5 de febrero por falta de registros. 
+Al incluir el resto del mes en esta tercera 
+versión se detecta que la unidad no presta 
+CPF aun cuando se encuentra instruida y con 
+recurso primario. 
+7 
+Colbún S.A. 
+CPF 
+PE Horizonte 
+Sur 
+Fecha: Todo el mes 
+El equipo registrador del Parque había perdido 
+el enlace con el concentrador de registros del 
+Coordinador desde febrero hasta mayo del 
+2026. En este contexto se evaluó al Parque 
+como No Verificable. No obstante, lo anterior 
+este problema fue solucionado a fines del mes 
+de mayo, y los registros de los meses faltantes 
+ya quedaron disponibles para su evaluación en 
+el enlace dispuesto por el CEN para estos 
+fines. 
+Solicitud: Se solicita revisar nuevamente el 
+desempeño del CPF de Parque para los 
+meses de febrero, marzo y abril, usando los 
+registros que se encuentran disponibles. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de PE 
+Horizonte Sur en esta versión del cálculo. 
+Dicho lo anterior los indicadores se recalculan 
+y el desempeño mensual del mes de febrero 
+cambia a 85%. 
+8 
+Colbún S.A. 
+CPF 
+HE Canutillar 
+U1 
+Fecha: Todo el mes 
+El equipo registrador de la unidad había 
+perdido el enlace con el concentrador de 
+registros del Coordinador desde febrero hasta 
+mayo del 2026. En este contexto se evaluó a 
+la unidad como No Verificable. No obstante, lo 
+anterior este problema fue solucionado a fines 
+del mes de mayo, y los registros de los meses 
+faltantes ya quedaron disponibles para su 
+evaluación en el enlace dispuesto por el CEN 
+para estos fines. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de HE 
+Canutillar U1 en esta versión del cálculo. Dicho 
+lo anterior los indicadores se recalculan y el 
+desempeño mensual del mes de febrero 
+cambia a 100%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Solicitud: Se solicita revisar nuevamente el 
+desempeño del CPF de la unidad para los 
+meses de febrero, marzo y abril, usando los 
+registros que se encuentran disponibles. 
+9 
+Observación 
+Interna 
+CPF 
+Todas 
+Fecha: Todo el mes 
+ 
+Se aplica una banda de tolerancia del 20% a la 
+prestación del servicio ante excursiones sobre 
++-0,2Hz categorizadas con e2. 
+Se acoge la observación. 
+ 
+Se recalculan todos los indicadores de 
+respuesta de CPF de febrero considerando 
+este ajuste metodológico. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 3: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+marzo 2026 versión 2. 
+ 
+Consultas recibidas: 
+- 
+Colbún S.A.: recibida mediante la carta GO N°133/2026. Ingreso DE06011-26. 
+- 
+Enel Generación Chile S.A.: recibidas mediante las cartas OP 059-26, OP 077-26 y OP 086-26. Ingresos DE04105-26, 
+DE05206-26 y DE05594-26. 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Enel 
+Generación 
+Chile S.A. 
+CPF 
+TER Atacama 
+Fecha: Todo el mes 
+ 
+Se detectó que los archivos cargados en 
+dichos meses presentaron errores en la data 
+de consigna de carga informada, lo que 
+ocasionó que el desempeño de dichas 
+unidades fuera evaluado incorrectamente. En 
+consecuencia, se generaron archivos con la 
+información corregida para las unidades 
+TG1A, TG1B y TG2A (enero a marzo), y para 
+TG2B (enero a febrero, quedando pendiente 
+marzo). 
+ 
+Adicionalmente se solicita reprocesar los 
+archivos de control primario de frecuencia de 
+las unidades mencionadas para la nueva 
+versión del factor de desempeño de marzo y 
+abril. 
+ 
+Agradeceremos considerar estos archivos 
+corregidos en una tercera versión del cálculo 
+de los indicadores de desempeño de estos 
+meses, y que sean utilizados en la futura 
+reliquidación del Balance de SSCC del primer 
+semestre de 2026. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de TER 
+Atacama en esta versión del cálculo. Dicho lo 
+anterior los indicadores se recalculan y el 
+desempeño mensual cambia a 80% para la 
+unidad TER Atacama CC1-TG1 y a 89% para 
+la unidad TER Atacama CC1-TG2. Las 
+unidades restantes de la central TER Atacama 
+no 
+tuvieron 
+modificaciones 
+en 
+sus 
+desempeños. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+2 
+Enel 
+Generación 
+Chile S.A. 
+CPF 
+HE Cipreses 
+Fecha: Todo el mes 
+ 
+Se solicita reprocesar los archivos de control 
+primario de frecuencia de las unidades 
+mencionadas para la nueva versión del factor 
+de desempeño desde enero a mayo 2026. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de HE 
+Cipreses en esta versión del cálculo. Dicho lo 
+anterior los indicadores se recalculan y el 
+desempeño mensual del mes de marzo 
+cambia a 92% para la unidad HE Cipreses U1. 
+Las unidades HE Cipreses U2 y U3 no 
+participaron del servicio. 
+3 
+Enel 
+Generación 
+Chile S.A. 
+Disponibilidad- 
+CSF 
+HE Pehuenche 
+Fecha: Todo el mes 
+La limitación LI2026000276 que aplicaba al 
+control secundario de frecuencia de la unidad 
+2 de la central Pehuenche, tuvo como fecha de 
+termino efectiva el 2 de febrero de 2026 a las 
+21:22 
+hrs, 
+sin 
+embargo, 
+se 
+encuentra 
+indisponible en los periodos de febrero, marzo 
+y 
+abril 
+de 
+2026 
+por 
+dicha 
+limitación, 
+considerando que la unidad presto el servicio 
+de control secundario de frecuencia en los tres 
+meses mencionados. Se solicita no considerar 
+esa limitación para el factor de desempeño ya 
+que anula la remuneración por la prestación de 
+los 
+mencionados 
+SSCC, 
+para 
+futuras 
+versiones del factor de desempeño de SSCC y 
+reliquidaciones de los balances de SSCC. 
+Se acoge la observación. 
+ 
+Se constata que la limitación fue cerrada con 
+fecha de término efectiva a las 21:22 horas del 
+02 de febrero de 2026, por lo que no afecta al 
+mes de marzo. Dicho lo anterior se calcula el 
+indicador de disponibilidad, resultando en 
+100% para ambas unidades. 
+4 
+Colbún S.A. 
+CPF 
+PE Horizonte 
+Norte 
+Fecha: Todo el mes 
+El equipo registrador del Parque había perdido 
+el enlace con el concentrador de registros del 
+Coordinador desde febrero hasta mayo del 
+2026. En este contexto se evaluó al Parque 
+como No Verificable. No obstante, lo anterior 
+este problema fue solucionado a fines del mes 
+de mayo, y los registros de los meses faltantes 
+ya quedaron disponibles para su evaluación en 
+el enlace dispuesto por el CEN para estos 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de PE 
+Horizonte Norte en esta versión del cálculo. 
+Dicho lo anterior los indicadores se recalculan 
+y el desempeño mensual se mantiene en 0%. 
+ 
+Lo anterior ocurre debido a que, a pesar del 
+reemplazo en el indicador de respuesta de “No 
+Verificable” a 71%, este último sigue siendo 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+fines. 
+Solicitud: Se solicita revisar nuevamente el 
+desempeño del CPF de Parque para los 
+meses de febrero, marzo y abril, usando los 
+registros que se encuentran disponibles. 
+menor a al umbral de 75% definido en el art. 5-
+71 de la NT-SSCC. 
+5 
+Colbún S.A. 
+CPF 
+PE Horizonte Sur 
+Fecha: Todo el mes 
+El equipo registrador del Parque había perdido 
+el enlace con el concentrador de registros del 
+Coordinador desde febrero hasta mayo del 
+2026. En este contexto se evaluó al Parque 
+como No Verificable. No obstante, lo anterior 
+este problema fue solucionado a fines del mes 
+de mayo, y los registros de los meses faltantes 
+ya quedaron disponibles para su evaluación en 
+el enlace dispuesto por el CEN para estos 
+fines. 
+Solicitud: Se solicita revisar nuevamente el 
+desempeño del CPF de Parque para los 
+meses de febrero, marzo y abril, usando los 
+registros que se encuentran disponibles. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de PE 
+Horizonte Sur en esta versión del cálculo. 
+Dicho lo anterior los indicadores se recalculan 
+y el desempeño mensual del mes de marzo 
+cambia a 75%. 
+6 
+Colbún S.A. 
+CPF 
+HE Canutillar U1 
+Fecha: Todo el mes 
+El equipo registrador de la unidad había 
+perdido el enlace con el concentrador de 
+registros del Coordinador desde febrero hasta 
+mayo del 2026. En este contexto se evaluó a 
+la unidad como No Verificable. No obstante, lo 
+anterior este problema fue solucionado a fines 
+del mes de mayo, y los registros de los meses 
+faltantes ya quedaron disponibles para su 
+evaluación en el enlace dispuesto por el CEN 
+para 
+estos 
+fines. 
+Solicitud: Se solicita revisar nuevamente el 
+desempeño del CPF de la unidad para los 
+meses de febrero, marzo y abril, usando los 
+registros que se encuentran disponibles. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de HE 
+Canutillar U1 en esta versión del cálculo. Dicho 
+lo anterior los indicadores se recalculan y el 
+desempeño mensual del mes de marzo 
+cambia a 100%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+7 
+Observación 
+Interna 
+CPF 
+Todas 
+Fecha: Todo el mes 
+ 
+Se aplica una banda de tolerancia del 20% a la 
+prestación del servicio ante excursiones sobre 
++-0,2Hz categorizadas con e2. 
+Se acoge la observación. 
+ 
+Se recalculan todos los indicadores de 
+respuesta de CPF de marzo considerando este 
+ajuste metodológico. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 4: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de abril 
+2026 versión 2. 
+ 
+Consultas recibidas: 
+- 
+Acciona Energía Chile Holdings S.A: recibida mediante la carta ACC.ECH.089.26. Ingreso DE05932-26. 
+- 
+Atlas SpA y COPEC EMOAC SpA: recibida mediante la carta S/N. Ingreso DE05893-26. 
+- 
+Colbún S.A.: recibida mediante la carta GO N°133/2026. Ingreso DE06011-26. 
+- 
+Enel Generación Chile S.A.: recibidas mediante las cartas OP 059-26, OP 077-26 y OP 086-26. Ingresos DE04105-26, 
+DE05206-26 y DE05594-26. 
+- 
+Engie Energía Chile S.A.: recibida mediante correo electrónico. 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Enel 
+Generación 
+Chile S.A. 
+CPF 
+TER Atacama 
+Fecha: Todo el mes 
+ 
+Se detectó que los archivos cargados en 
+dichos meses presentaron errores en la data 
+de consigna de carga informada, lo que 
+ocasionó que el desempeño de dichas 
+unidades fuera evaluado incorrectamente. En 
+consecuencia, se generaron archivos con la 
+información corregida para las unidades 
+TG1A, TG1B y TG2A (enero a marzo), y para 
+TG2B (enero a febrero, quedando pendiente 
+marzo). 
+ 
+Adicionalmente se solicita reprocesar los 
+archivos de control primario de frecuencia de 
+las unidades mencionadas para la nueva 
+versión del factor de desempeño de marzo y 
+abril. 
+ 
+Agradeceremos considerar estos archivos 
+corregidos en una tercera versión del cálculo 
+de los indicadores de desempeño de estos 
+meses, y que sean utilizados en la futura 
+Se acoge la observación. – Aclaración. 
+ 
+Se incluyen los registros enviados de TER 
+Atacama en esta versión del cálculo. Dicho lo 
+anterior, los indicadores se recalculan y el 
+desempeño mensual se mantiene para todas 
+las unidades de TER Atacama, ya que estos 
+alcanzaron a ser evaluados en la segunda 
+versión de los indicadores de desempeño de 
+abril 2026. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+reliquidación del Balance de SSCC del primer 
+semestre de 2026. 
+2 
+Enel 
+Generación 
+Chile S.A. 
+CPF 
+HE Cipreses 
+Fecha: Todo el mes 
+ 
+Se solicita reprocesar los archivos de control 
+primario de frecuencia de las unidades 
+mencionadas para la nueva versión del factor 
+de desempeño desde enero a mayo 2026. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de HE 
+Cipreses en esta versión del cálculo. Dicho lo 
+anterior los indicadores se recalculan y el 
+desempeño mensual del mes de marzo 
+cambia a 89% para la unidad HE Cipreses U1. 
+Las unidades HE Cipreses U2 y U3 no 
+participaron del servicio. 
+3 
+Enel 
+Generación 
+Chile S.A. 
+Disponibilidad- 
+CSF 
+HE 
+Pehuenche 
+Fecha: Todo el mes 
+La limitación LI2026000276 que aplicaba al 
+control secundario de frecuencia de la unidad 
+2 de la central Pehuenche, tuvo como fecha de 
+termino efectiva el 2 de febrero de 2026 a las 
+21:22 
+hrs, 
+sin 
+embargo, 
+se 
+encuentra 
+indisponible en los periodos de febrero, marzo 
+y 
+abril 
+de 
+2026 
+por 
+dicha 
+limitación, 
+considerando que la unidad presto el servicio 
+de control secundario de frecuencia en los tres 
+meses mencionados. Se solicita no considerar 
+esa limitación para el factor de desempeño ya 
+que anula la remuneración por la prestación de 
+los 
+mencionados 
+SSCC, 
+para 
+futuras 
+versiones del factor de desempeño de SSCC y 
+reliquidaciones de los balances de SSCC. 
+Se acoge la observación. 
+ 
+Se constata que la limitación fue cerrada con 
+fecha de término efectiva las 21:22 horas del 
+día 02 de febrero de 2026, por lo que no afecta 
+al mes de abril. Dicho lo anterior se calcula el 
+indicador de disponibilidad, quedando en 
+100% para ambas unidades. 
+4 
+Colbún S.A. 
+CPF 
+PE Horizonte 
+Norte 
+Fecha: Todo el mes 
+El equipo registrador del Parque había perdido 
+el enlace con el concentrador de registros del 
+Coordinador desde febrero hasta mayo del 
+2026. En este contexto se evaluó al Parque 
+como No Verificable. No obstante lo anterior 
+este problema fue solucionado a fines del mes 
+de mayo, y los resgistros de los meses 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de PE 
+Horizonte Norte en esta versión del cálculo. 
+Dicho lo anterior los indicadores se recalculan 
+y el desempeño mensual del mes de abril 
+cambia a 77%. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+faltantes ya quedaron disponibles para su 
+evaluación en el enlace dispuesto por el CEN 
+para estos fines. 
+ 
+Solicitud: Se solicita revisar nuevamente el 
+desempeño del CPF de Parque para los 
+meses de febrero, marzo y abril, usando los 
+registros que se encuentran disponibles. 
+ 
+5 
+Colbún S.A. 
+CPF 
+PE Horizonte 
+Sur 
+Fecha: Todo el mes 
+El equipo registrador del Parque había perdido 
+el enlace con el concentrador de registros del 
+Coordinador desde febrero hasta mayo del 
+2026. En este contexto se evaluó al Parque 
+como No Verificable. No obstante lo anterior 
+este problema fue solucionado a fines del mes 
+de mayo, y los resgistros de los meses 
+faltantes ya quedaron disponibles para su 
+evaluación en el enlace dispuesto por el CEN 
+para 
+estos 
+fines. 
+Solicitud: Se solicita revisar nuevamente el 
+desempeño del CPF de Parque para los 
+meses de febrero, marzo y abril, usando los 
+registros que se encuentran disponibles. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de PE 
+Horizonte Sur en esta versión del cálculo. 
+Dicho lo anterior los indicadores se recalculan 
+y el desempeño mensual del mes de abril se 
+mantiene en 0%. 
+ 
+Lo anterior ocurre debido a que, a pesar del 
+aumento en el indicador de respuesta de “No 
+Verificable” a 55%, este último sigue siendo 
+menor a al umbral de 75% definido en el art. 5-
+71 de la NT-SSCC. 
+6 
+Colbún S.A. 
+CPF 
+HE Canutillar 
+U1 
+Fecha: Todo el mes 
+El equipo registrador de la unidad había 
+perdido el enlace con el concentrador de 
+registros del Coordinador desde febrero hasta 
+mayo del 2026. En este contexto se evaluó a 
+la unidad como No Verificable. No obstante lo 
+anterior este problema fue solucionado a fines 
+del mes de mayo, y los resgistros de los meses 
+faltantes ya quedaron disponibles para su 
+evaluación en el enlace dispuesto por el CEN 
+para estos fines. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de HE 
+Canutillar U1 en esta versión del cálculo. Dicho 
+lo anterior los indicadores se recalculan y el 
+desempeño mensual del mes de abril cambia 
+a 100%. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+ 
+Solicitud: Se solicita revisar nuevamente el 
+desempeño del CPF de la unidad para los 
+meses de febrero, marzo y abril, usando los 
+registros que se encuentran disponibles. 
+7 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 04-04-2026 15:20 
+ 
+Según PID de las 11 tiene asignación CPF+ 15 
+MW y CPF- 24 MW. Se notifica por llamada de 
+CECOER a CDC que no cumple con bloque 
+por recurso, por lo tanto, se solicita al 
+Coordinador eliminar este registro de los casos 
+evaluados negativamente. Se adjunta llamada 
+"_20260404_150738_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la finalización del CPF+ es 
+a las 15:00 horas y que no existió instrucción 
+de CPF- entre las 14:00 y 17:00 horas. Dicho 
+lo anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 15, el cual 
+cambia a “No Participa”.  
+8 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 04-04-2026 15:40 
+ 
+Según PID de las 11 tiene asignación CPF+ 15 
+MW y CPF- 24 MW. Se notifica por llamada de 
+CECOER a CDC que no cumple con bloque 
+por recurso, por lo tanto, se solicita al 
+Coordinador eliminar este registro de los casos 
+evaluados negativamente. Se adjunta llamada 
+"_20260404_150738_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la finalización del CPF+ es 
+a las 15:00 horas y que no existió instrucción 
+de CPF- entre las 14:00 y 17:00 horas. Dicho 
+lo anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 15, el cual 
+cambia a “No Participa”.  
+9 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 04-04-2026 17:20 
+ 
+Según PID de las 11 NO tiene asignación en 
+este horario. Mediante llamada indica CDC 
+que finaliza CPF, CECOER indica en la misma 
+llamada que estaba sin CPF porque en las 
+horas anteriores el recurso no le permitía 
+cumplir con las reservas. Ok indica CDC. Al no 
+tener asignación de reservas en el horario 
+evaluado y además, al haber informado la 
+indisponibilidad de recurso, se solicita eliminar 
+este 
+registro 
+de 
+los 
+casos 
+evaluados 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la finalización del CPF+ es 
+a las 15:00 horas y que no existió instrucción 
+de CPF- entre las 14:00 y 17:00 horas. Dicho 
+lo anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 17, el cual 
+cambia a “No Participa”.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+negativamente. 
+Se 
+adjunta 
+llamada 
+"_20260404_170455_d.wav". 
+10 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 04-04-2026 17:40 
+ 
+Según PID de las 11 NO tiene asignación en 
+este horario. Mediante llamada indica CDC 
+que finaliza CPF, CECOER indica en la misma 
+llamada que estaba sin CPF porque en las 
+horas anteriores el recurso no le permitía 
+cumplir con las reservas. Ok indica CDC. Al no 
+tener asignación de reservas en el horario 
+evaluado y además, al haber informado la 
+indisponibilidad de recurso, se solicita eliminar 
+este 
+registro 
+de 
+los 
+casos 
+evaluados 
+negativamente. 
+Se 
+adjunta 
+llamada 
+"_20260404_170455_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la finalización del CPF+ es 
+a las 15:00 horas y que no existió instrucción 
+de CPF- entre las 14:00 y 17:00 horas. Dicho 
+lo anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 17, el cual 
+cambia a “No Participa”.  
+11 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 04-04-2026 23:40 
+ 
+El registro no se encuentra en los reportes del 
+Coordinador, de acuerdo con las revisiones de 
+Acciona esto se habría producido debido al 
+cambio de hora ocurrido en Chile el día 05 de 
+abril de 2026. Por lo que se solicita corregir 
+este registro y no considerarlo para la 
+evaluación del desempeño mensual. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se constata que existió instrucción de 
+CPF entre las 23:00 y 23:59 horas. El RIO 
+indica de manera explícita que esta instrucción 
+corresponde al cambio de hora del día 04 de 
+abril. Dicho lo anterior el indicador se 
+mantiene. 
+12 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 07-04-2026 09:20 
+ 
+La central tenía una asignación de 33MW de 
+CPF de subida (CPF+) según el PID del bloque 
+3. Al analizar los eventos evaluados, se verifica 
+que la central presenta un desempeño 
+adecuado ante eventos de subfrecuencia 
+(CPF+), 
+cumpliendo 
+con 
+la 
+respuesta 
+esperada para el servicio efectivamente 
+asignado. No obstante, la evaluación incorpora 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+eventos de sobrefrecuencia (CPF-), en los 
+cuales el aporte de la central se ve mermado 
+debido a que durante el período analizado ésta 
+operaba con una consigna de 10 MW. En 
+dichas condiciones, la respuesta teórica 
+esperada para CPF(-) implicaba reducir la 
+potencia por debajo de 0 MW, lo que resulta 
+físicamente imposible. Adicionalmente, la 
+central no contaba con asignación de CPF de 
+bajada (CPF-) durante el periodo evaluado. En 
+virtud de lo anterior, se solicita al Coordinador 
+excluir este registro de los casos evaluados 
+negativamente, considerando que la central 
+únicamente tenía asignada reservas de CPF+, 
+condición que requiere mantener un nivel de 
+generación reducido para disponer de la 
+reserva exigida. En consecuencia, no resulta 
+técnicamente procedente evaluar desempeño 
+en eventos de CPF(-) cuando la central no 
+tenía asignación para dicho servicio. 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 9 (09:00 hasta 09:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+13 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 11-04-2026 11:20 
+ 
+Según Programa tiene asignación de 10MW 
+de CPF-. CDC coordina mediante llamadas 
+retomar CPF, CECOER indica que no puede 
+dar CPF porque no tiene recurso. Se adjunta 
+llamada "_20260411_110007_d.wav". Por lo 
+tanto, se solicita eliminar este registro de la 
+evaluación mensual y de los casos negativos 
+porque tiene un impacto en el cálculo del 
+desempeño. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que no existió instrucción de 
+CPF- entre las 11:00 y 12:00 horas. Dicho lo 
+anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 11, el cual 
+cambia a “No Participa”. 
+14 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 11-04-2026 11:30 
+ 
+Según Programa tiene asignación de CPF- 
+10MW. CDC coordina mediante llamadas 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que no existió instrucción de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+retomar CPF, CECOER indica que no puede 
+dar CPF porque no tiene recurso. Se adjunta 
+llamada "_20260411_110007_d.wav". Por lo 
+tanto, se solicita eliminar este registro de la 
+evaluación mensual y de los casos negativos 
+porque tiene un impacto en el cálculo del 
+desempeño. 
+CPF- entre las 11:00 y 12:00 horas. Dicho lo 
+anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 11, el cual 
+cambia a “No Participa”. 
+15 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 11-04-2026 11:40 
+ 
+Según Programa tiene asignación de CPF- 
+10MW. CDC coordina mediante llamadas 
+retomar CPF, CECOER indica que no puede 
+dar CPF porque no tiene recurso. Se adjunta 
+llamada "_20260411_110007_d.wav". Por lo 
+tanto, se solicita eliminar este registro de la 
+evaluación mensual y de los casos negativos 
+porque tiene un impacto en el cálculo del 
+desempeño. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que no existió instrucción de 
+CPF- entre las 11:00 y 12:00 horas. Dicho lo 
+anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 11, el cual 
+cambia a “No Participa”. 
+16 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 11-04-2026 11:50 
+ 
+Según Programa tiene asignación de CPF- 
+10MW. CDC coordina mediante llamadas 
+retomar CPF, CECOER indica que no puede 
+dar CPF porque no tiene recurso. Se adjunta 
+llamada "_20260411_110007_d.wav". Por lo 
+tanto, se solicita eliminar este registro de la 
+evaluación mensual y de los casos negativos 
+porque tiene un impacto en el cálculo del 
+desempeño. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que no existió instrucción de 
+CPF- entre las 11:00 y 12:00 horas. Dicho lo 
+anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 11, el cual 
+cambia a “No Participa”. 
+17 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 12-04-2026 09:20 
+ 
+Según PID del bloque 6, la central tenía una 
+asignación de 15MW de CPF de Bajada (CPF-
+). Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+bien y para los de subfrecuencia se ve 
+mermada porque no hay recurso para subir, 
+pero no se tiene asignación de subida. Por lo 
+que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos 
+del mes de abril. 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 9 (09:00 hasta 09:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+18 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 12-04-2026 16:10 
+ 
+Según PID de bloque 6. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la instrucción de CPF+ es 
+solo entre las 18:00 y 18:59 horas. Dicho lo 
+anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 16, 17 y 19, 
+el cual cambia a “No Participa”. 
+19 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 12-04-2026 16:20 
+ 
+Según PID de bloque 6. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la instrucción de CPF+ es 
+solo entre las 18:00 y 18:59 horas. Dicho lo 
+anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 16, 17 y 19, 
+el cual cambia a “No Participa”. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+20 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 12-04-2026 17:00 
+ 
+Según PID de bloque 6. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la instrucción de CPF+ es 
+solo entre las 18:00 y 18:59 horas. Dicho lo 
+anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 16, 17 y 19, 
+el cual cambia a “No Participa”. 
+21 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 12-04-2026 17:30 
+ 
+Según PID de bloque 6. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la instrucción de CPF+ es 
+solo entre las 18:00 y 18:59 horas. Dicho lo 
+anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 16, 17 y 19, 
+el cual cambia a “No Participa”. 
+22 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 12-04-2026 17:50 
+ 
+Según PID de bloque 6. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la instrucción de CPF+ es 
+solo entre las 18:00 y 18:59 horas. Dicho lo 
+anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 16, 17 y 19, 
+el cual cambia a “No Participa”. 
+23 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 12-04-2026 19:30 
+ 
+Según PID de bloque 6. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la instrucción de CPF+ es 
+solo entre las 18:00 y 18:59 horas. Dicho lo 
+anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 16, 17 y 19, 
+el cual cambia a “No Participa”. 
+24 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 12-04-2026 19:50 
+ 
+Según PID de bloque 6. No tiene asignación 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la instrucción de CPF+ es 
+solo entre las 18:00 y 18:59 horas. Dicho lo 
+anterior, se actualiza RIO y se recalcula el 
+indicador de respuesta de la hora 16, 17 y 19, 
+el cual cambia a “No Participa”. 
+25 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 18-04-2026 16:30 
+ 
+Según la PID del bloque 6, la central tiene una 
+asignación de 3MW de CPF de Bajada (CPF-
+). Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermada por consigna liberada (potencia 
+nominal), pero no se tiene asignación de CPF 
+de subida (CPF+). Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 16 (16:00 hasta 16:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+26 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 18-04-2026 16:40 
+ 
+Según la PID del bloque 6, la central tiene una 
+asignación de 3MW de CPF de Bajada (CPF-
+). Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermada por consigna liberada (potencia 
+nominal), pero no se tiene asignación de CPF 
+de subida (CPF+). Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 16 (16:00 hasta 16:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+27 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 19-04-2026 10:30 
+ 
+La central tenía una asignación de 16MW de 
+CPF de Bajada (CPF-) según PID de bloque 8. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque no hay recurso 
+adicional para subir, esto porque no se tiene 
+asignación de subida. Por lo que se solicita al 
+CEN reconsiderar la evaluación y retirarlo de 
+los casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 10 (10:00 hasta 10:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+28 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 19-04-2026 10:40 
+ 
+La central tenía una asignación de 16MW de 
+CPF de Bajada (CPF-) según PID de bloque 8. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque no hay recurso 
+adicional para subir, esto porque no se tiene 
+asignación de subida. Por lo que se solicita al 
+CEN reconsiderar la evaluación y retirarlo de 
+los casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 10 (10:00 hasta 10:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+29 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 21-04-2026 14:20 
+ 
+Según PID de bloque 15. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC 
+confirma 
+que 
+el 
+bloque 
+horario 
+correspondiente considera asignación de CPF 
+en dicho horario, por lo que el indicador se 
+mantiene. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+30 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 21-04-2026 14:50 
+ 
+Según PID de bloque 15. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC 
+confirma 
+que 
+el 
+bloque 
+horario 
+correspondiente considera asignación de CPF 
+en dicho horario, por lo que el indicador se 
+mantiene. 
+31 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 25-04-2026 07:10 
+ 
+Según PID de bloque 4. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la instrucción de CPF+ 
+inicia a las 08:00 horas. Dicho lo anterior, se 
+actualiza RIO y se recalcula el indicador de 
+respuesta de la hora 7, el cual cambia a “No 
+Participa”. 
+32 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 25-04-2026 07:20 
+ 
+Según PID de bloque 4. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la instrucción de CPF+ 
+inicia a las 08:00 horas. Dicho lo anterior, se 
+actualiza RIO y se recalcula el indicador de 
+respuesta de la hora 7, el cual cambia a “No 
+Participa”. 
+33 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE San 
+Gabriel 
+Fecha: 25-04-2026 07:50 
+ 
+Según PID de bloque 4. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la instrucción de CPF+ 
+inicia a las 08:00 horas. Dicho lo anterior, se 
+actualiza RIO y se recalcula el indicador de 
+respuesta de la hora 7, el cual cambia a “No 
+Participa”. 
+34 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 01-04-2026 08:20 
+ 
+La central tenía una asignación de 17MW de 
+CPF de Subida (CPF+) según PID de bloque 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+5. 
+Se 
+observa 
+que 
+el 
+evento 
+es 
+mayoritariamente de sobrefrecuencia (CPF-), 
+la central no tenía asignación de CPF de 
+bajada (CPF-) e igualmente se evalúa 
+negativamente. Se solicita la reconsideración 
+de parte del CEN y retirar este registro de los 
+casos negativos del mes de abril. 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 8 (08:00 hasta 08:59 
+UTC-3).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+35 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 01-04-2026 23:30 
+ 
+La central tenía una asignación de 28MW de 
+CPF de Subida (CPF+) según PID de bloque 
+5. 
+Se 
+observa 
+que 
+el 
+evento 
+es 
+mayoritariamente de sobrefrecuencia (CPF-) y 
+la central no tenía asignación de CPF bajada 
+(CPF-) e igualmente se evalúa negativamente. 
+Se solicita la reconsideración de parte del CEN 
+y retirar este registro de los casos negativos 
+del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 23 (23:00 hasta 23:59 
+UTC-3).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible 
+36 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 01-04-2026 23:40 
+ 
+La central tenía una asignación de 28MW de 
+CPF de Subida (CPF+) según PID de bloque 
+5. 
+Se 
+observa 
+que 
+el 
+evento 
+es 
+mayoritariamente de sobrefrecuencia (CPF-) y 
+la central no tenía asignación de CPF bajada 
+(CPF-) e igualmente se evalúa negativamente. 
+Se solicita la reconsideración de parte del CEN 
+y retirar este registro de los casos negativos 
+del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 23 (23:00 hasta 23:59 
+UTC-3).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible 
+37 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 04-04-2026 23:50 
+ 
+Se identifica llamada a las 23:45 en la que se 
+indica a CDC que Tolpán Sur no tiene recurso 
+y el CDC responde con "OK lo seguimos 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad fue reemplazada 
+durante el período horario indicado (cambio de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+remplazando". Por lo que no correspondería 
+incluir este caso en la evaluación. Se identifica 
+otra llamada a las 23:50 en la que se coordinan 
+los SSCC de la hora 25 (se entiende por el 
+cambio de hora) y en esta llamada se detalla 
+que Tolpán tiene CPF- y no tienen recurso, por 
+lo que no se darán. Esta situación reafirma la 
+necesidad de retirar este registro de la 
+evaluación. 
+hora). Dicho lo anterior, se actualiza RIO y se 
+recalcula el indicador de respuesta de la hora 
+24, el cual cambia a “No Participa”. 
+38 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 08-04-2026 09:40 
+ 
+La central tenía una asignación de 12MW de 
+CPF de Bajada (CPF-) según PID de bloque 5. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque mantiene la 
+consigna liberada (potencia nominal), ya que 
+no tenía asignación de CPF de subida (CPF+). 
+Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos 
+del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 9 (09:00 hasta 09:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible 
+39 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 08-04-2026 10:40 
+ 
+La central tenía una asignación de 16MW de 
+Pendiente. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+CPF de Bajada (CPF-) según PID de bloque 5. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte por consigna liberada 
+(potencia nominal), lo que estaría bien ya que 
+la central no tenía asignación de subida 
+(CPF+). Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 10 (10:00 hasta 10:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+40 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 11-04-2026 11:20 
+ 
+La central tenía una asignación de 5MW de 
+CPF de Bajada (CPF-) según Programa. Se 
+observa 
+que 
+para 
+los 
+eventos 
+de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque mantiene la 
+consigna liberada (potencia nominal), lo que 
+estaría bien ya que no tiene asignación de 
+subida (CPF+). Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 11 (11:00 hasta 11:59 
+UTC-4).  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+41 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 11-04-2026 11:40 
+ 
+La central tenía una asignación de 5MW de 
+CPF de Bajada (CPF-) según Programa. Se 
+observa 
+que 
+para 
+los 
+eventos 
+de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermada por consigna liberada (potencia 
+nominal), pero no se tiene asignación de 
+subida. Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 11 (11:00 hasta 11:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+42 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 12-04-2026 15:00 
+ 
+La central tenía una asignación de 16MW de 
+CPF de Bajada (CPF-) según PID de bloque 6. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque no hay recurso 
+adicional para subir, esta situación estaría bien 
+porque no tiene asignación de CPF de subida 
+(CPF+). Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 15 (15:00 hasta 15:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+43 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 12-04-2026 15:10 
+ 
+La central tenía una asignación de 16MW de 
+CPF de Bajada (CPF-) según PID de bloque 6. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque no hay recurso 
+adicional para subir, lo cual estaría bien porque 
+no tenía asignación de CPF de subida (CPF+). 
+Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos 
+del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 15 (15:00 hasta 15:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+44 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 12-04-2026 15:30 
+ 
+La central tenía una asignación de 16MW de 
+CPF de Bajada (CPF-) según PID de bloque 6. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque no hay recurso 
+adicional para subir, lo cual estaría bien porque 
+la central no tenía asignación de CPF de 
+subida (CPF+). Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 15 (15:00 hasta 15:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+45 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 12-04-2026 15:40 
+ 
+La central tenía una asignación de 16MW de 
+CPF de Bajada (CPF-) según PID de bloque 6. 
+Se observa que para los eventos de 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque no hay recurso 
+adicional para subir, lo cual estaría bien porque 
+la central no tenía asignación de CPF de 
+subida (CPF+). Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 15 (15:00 hasta 15:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+46 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 12-04-2026 15:50 
+ 
+La central tenía una asignación de 16MW de 
+CPF de Bajada (CPF-) según PID de bloque 6. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque no hay recurso 
+adicional para subir, lo cual estaría bien porque 
+la central no tenía asignación de CPF de 
+subida (CPF+). Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 15 (15:00 hasta 15:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+47 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 15-04-2026 03:10 
+ 
+La central no tenía recurso eólico disponible y 
+se encontraba sin generación, es decir, en 
+0MW desde las 21:18 del 14/04. Se identifica 
+llamada de las 23:50 en el que se informa que 
+no tiene recurso el CPF de Tolpán Sur, CDC 
+indica que lo reemplazará. Se adjunta llamada 
+"_20260414_235048_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad fue reemplazada 
+desde las 03:00 horas debido a falta de 
+recurso primario. Dicho lo anterior, se actualiza 
+RIO y se recalcula el indicador de respuesta de 
+la hora 3 y 4, el cual cambia a “No Participa”. 
+48 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 15-04-2026 04:10 
+ 
+La central no tenía recurso eólico disponible y 
+se encontraba sin generación, es decir, en 
+0MW desde las 21:18 del 14/04. Se identifica 
+llamada de las 23:50 en el que se informa que 
+no tiene recurso el CPF de Tolpán Sur, CDC 
+indica que lo reemplazará. Se adjunta llamada 
+"_20260414_235048_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad fue reemplazada 
+desde las 03:00 horas debido a falta de 
+recurso primario. Dicho lo anterior, se actualiza 
+RIO y se recalcula el indicador de respuesta de 
+la hora 3 y 4, el cual cambia a “No Participa”. 
+49 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 15-04-2026 04:20 
+ 
+La central no tenía recurso eólico disponible y 
+se encontraba sin generación, es decir, en 
+0MW desde las 21:18 del 14/04. Se identifica 
+llamada de las 23:50 en el que se informa que 
+no tiene recurso el CPF de Tolpán Sur, CDC 
+indica que lo reemplazará. Se adjunta llamada 
+"_20260414_235048_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad fue reemplazada 
+desde las 03:00 horas debido a falta de 
+recurso primario. Dicho lo anterior, se actualiza 
+RIO y se recalcula el indicador de respuesta de 
+la hora 3 y 4, el cual cambia a “No Participa”. 
+50 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 15-04-2026 04:30 
+ 
+La central no tenía recurso eólico disponible y 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+se encontraba sin generación, es decir, en 
+0MW desde las 21:18 del 14/04. Se identifica 
+llamada de las 23:50 en el que se informa que 
+no tiene recurso el CPF de Tolpán Sur, CDC 
+indica que lo reemplazará. Se adjunta llamada 
+"_20260414_235048_d.wav". 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad fue reemplazada 
+desde las 03:00 horas debido a falta de 
+recurso primario. Dicho lo anterior, se actualiza 
+RIO y se recalcula el indicador de respuesta de 
+la hora 3 y 4, el cual cambia a “No Participa”. 
+51 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 15-04-2026 04:40 
+ 
+La central no tenía recurso eólico disponible y 
+se encontraba sin generación, es decir, en 
+0MW desde las 21:18 del 14/04. Se identifica 
+llamada de las 23:50 en el que se informa que 
+no tiene recurso el CPF de Tolpán Sur, CDC 
+indica que lo reemplazará. Se adjunta llamada 
+"_20260414_235048_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad fue reemplazada 
+desde las 03:00 horas debido a falta de 
+recurso primario. Dicho lo anterior, se actualiza 
+RIO y se recalcula el indicador de respuesta de 
+la hora 3 y 4, el cual cambia a “No Participa”. 
+52 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 17-04-2026 19:00 
+ 
+Según PID de bloque 1. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 19, el cual cambia a “No Participa”. 
+53 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 17-04-2026 19:10 
+ 
+Según PID de bloque 1. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 19, el cual cambia a “No Participa”. 
+54 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 17-04-2026 19:20 
+ 
+Según PID de bloque 1. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+y se recalcula el indicador de respuesta de la 
+hora 19, el cual cambia a “No Participa”. 
+55 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 17-04-2026 19:40 
+ 
+Según PID de bloque 1. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 19, el cual cambia a “No Participa”. 
+56 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 17-04-2026 19:50 
+ 
+Según PID de bloque 1. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 19, el cual cambia a “No Participa”. 
+57 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 18-04-2026 09:10 
+ 
+La central tenía una asignación de 14MW de 
+CPF de Subida (CPF+) según PID de bloque 
+6. Se observa que para los eventos de 
+subfrecuencia (CPF+) la central responde bien 
+y para los de sobrefrecuencia (CPF-) se ve 
+mermado su aporte porque mantienen la 
+consigna en 1MW y la teórica pide bajar de 
+0MW. Lo anterior, sería correcto, ya que la 
+central no tenía asignación de CPF de bajada 
+(CPF-). Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 9 (09:00 hasta 09:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+58 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 20-04-2026 09:00 
+ 
+La central tenía una asignación de 28MW de 
+CPF de Bajada según PID de bloque 1. Se 
+observa 
+que 
+para 
+los 
+eventos 
+de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque mantenía la 
+consigna liberada (potencia nominal), lo cual 
+estaría bien porque no tenía asignación de 
+CPF de subida (CPF+). Por lo que se solicita 
+al CEN reconsiderar la evaluación y retirarlo de 
+los casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 9 (09:00 hasta 09:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+59 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 20-04-2026 09:20 
+ 
+La central tenía una asignación de 28MW de 
+CPF de Bajada (CPF-) según PID de bloque 1. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque mantiene la 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+consigna liberada (potencia nominal), lo cual 
+estaría bien porque no tenía una asignación de 
+subida (CPF+). Por lo que se solicita al CEN 
+reconsiderar la evaluación y retirarlo de los 
+casos negativos del mes de abril. 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 9 (09:00 hasta 09:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+60 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 20-04-2026 10:10 
+ 
+La central tenía una asignación de 2MW de 
+CPF de Bajada (CPF-) según PID de bloque 1. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque mantenía la 
+consigna liberada (potencia nominal), lo cual 
+estaría bien porque no tenía asignación de 
+CPF de subida (CPF+). Por lo que se solicita 
+al CEN reconsiderar la evaluación y retirarlo de 
+los casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 10 (10:00 hasta 10:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+61 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 20-04-2026 10:20 
+ 
+La central tenía una asignación de 2MW de 
+CPF de Bajada (CPF-) según PID de bloque 1. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque mantenía la 
+consigna liberada (potencia nominal), lo cual 
+estaría bien porque no tenía asignación de 
+CPF de subida (CPF+). Por lo que se solicita 
+al CEN reconsiderar la evaluación y retirarlo de 
+los casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 10 (10:00 hasta 10:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+62 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 20-04-2026 10:30 
+ 
+La central tenía una asignación de 2MW de 
+CPF de Bajada (CPF-) según PID de bloque 1. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque mantenía la 
+consigna liberada (potencia nominal), lo cual 
+estaría bien porque no tenía asignación de 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+CPF de subida (CPF+). Por lo que se solicita 
+al CEN reconsiderar la evaluación y retirarlo de 
+los casos negativos del mes de abril. 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 10 (10:00 hasta 10:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+63 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 20-04-2026 10:40 
+ 
+La central tenía una asignación de 2MW de 
+CPF de Bajada (CPF-) según PID de bloque 1. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque mantenía la 
+consigna liberada (potencia nominal), lo cual 
+estaría bien porque no tenía asignación de 
+CPF de subida (CPF+). Por lo que se solicita 
+al CEN reconsiderar la evaluación y retirarlo de 
+los casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 10 (10:00 hasta 10:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+64 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 20-04-2026 10:50 
+ 
+La central tenía una asignación de 2MW de 
+CPF de Bajada (CPF-) según PID de bloque 1. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque mantenía la 
+consigna liberada (potencia nominal), lo cual 
+estaría bien porque no tenía asignación de 
+CPF de subida (CPF+). Por lo que se solicita 
+al CEN reconsiderar la evaluación y retirarlo de 
+los casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 10 (10:00 hasta 10:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+65 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 20-04-2026 11:20 
+ 
+La central tenía una asignación de 4MW de 
+CPF de Bajada (CPF-) según PID de bloque 1. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque mantenía la 
+consigna liberada (potencia nominal), lo cual 
+estaría bien porque no tenía asignación de 
+CPF de subida (CPF+). Por lo que se solicita 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+al CEN reconsiderar la evaluación y retirarlo de 
+los casos negativos del mes de abril. 
+servicio durante la hora 11 (11:00 hasta 11:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+66 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 20-04-2026 11:40 
+ 
+La central tenía una asignación de 4MW de 
+CPF de Bajada (CPF-) según PID de bloque 1. 
+Se observa que para los eventos de 
+sobrefrecuencia (CPF-) la central responde 
+bien y para los de subfrecuencia (CPF+) se ve 
+mermado su aporte porque la central mantenía 
+la consigna liberada (potencia nominal), lo cual 
+estaría bien porque no tenía asignación de 
+CPF de subida (CPF+). Por lo que se solicita 
+al CEN reconsiderar la evaluación y retirarlo de 
+los casos negativos del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 11 (11:00 hasta 11:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+67 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 21-04-2026 02:10 
+ 
+La central tenía una asignación de 17MW de 
+CPF de Subida (CPF+) según PID de bloque 
+1. Se observa que para los eventos de 
+subfrecuencia (CPF+) la central responde bien 
+y para los de sobrefrecuencia (CPF-) se ve 
+mermado su aporte porque mantenía la 
+consigna en 1MW y la teórica pide bajar de 
+0MW. Sin embargo, en dicho periodo la central 
+no tenía asignación de CPF de bajada (CPF-). 
+Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos 
+del mes de abril. 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 2 (02:00 hasta 02:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+68 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 21-04-2026 19:40 
+ 
+Según PID de bloque 15. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 19, 20, 21 y 22 el cual cambia a “No 
+Participa”. 
+69 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 21-04-2026 19:50 
+ 
+Según PID de bloque 15. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 19, 20, 21 y 22 el cual cambia a “No 
+Participa”. 
+70 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 21-04-2026 20:30 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 28MW. Se coordina mediante llamada a 
+las 19:55 con CDC que no hay recurso para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+"_20260421_195504_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 19, 20, 21 y 22 el cual cambia a “No 
+Participa”. 
+71 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 21-04-2026 21:10 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 28MW. Se coordina mediante llamada a 
+las 19:55 con CDC que no hay recurso para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+"_20260421_195504_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 19, 20, 21 y 22 el cual cambia a “No 
+Participa”. 
+72 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 21-04-2026 22:10 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 28MW. Se coordina mediante llamada a 
+las 19:55 con CDC que no hay recurso para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+"_20260421_195504_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 19, 20, 21 y 22 el cual cambia a “No 
+Participa”. 
+73 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 21-04-2026 22:20 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 28MW. Se coordina mediante llamada a 
+las 19:55 con CDC que no hay recurso para 
+dar 
+CPF. 
+Se 
+adjunta 
+llamada 
+"_20260421_195504_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+hora 19, 20, 21 y 22 el cual cambia a “No 
+Participa”. 
+74 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 11:30 
+ 
+Según PID del bloque 3 tiene asignación CPF+ 
+1MW. CECOER indica a CDC que Tolpán 
+sigue sin recurso. Se adjunta llamada 
+"_20260422_105251_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+11:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 11, 12, 13, 14 y 15, las cuales cambian a 
+“No Participa”. 
+75 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 13:00 
+ 
+Según PID del bloque 3 tiene asignación CPF+ 
+2MW. CDC indica mediante llamada que sigue 
+reemplazando a Tolpán Sur por recurso. Se 
+adjunta llamada "_20260422_125459_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+11:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 11, 12, 13, 14 y 15, las cuales pasan a 
+“No Participa”. 
+76 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 13:10 
+ 
+Según PID del bloque 3 tiene asignación CPF+ 
+2MW. CDC indica mediante llamada que sigue 
+reemplazando a Tolpán Sur por recurso. Se 
+adjunta llamada "_20260422_125459_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+11:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 11, 12, 13, 14 y 15, las cuales cambian a 
+“No Participa”. 
+77 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 13:30 
+ 
+Según PID del bloque 3 tiene asignación CPF+ 
+2MW. CDC indica mediante llamada que sigue 
+reemplazando a Tolpán Sur por recurso. Se 
+adjunta llamada "_20260422_125459_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+11:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 11, 12, 13, 14 y 15, las cuales cambian a 
+“No Participa”. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+78 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 13:40 
+ 
+Según PID del bloque 3 tiene asignación CPF+ 
+2MW. CDC indica mediante llamada que sigue 
+reemplazando a Tolpán Sur por recurso. Se 
+adjunta llamada "_20260422_125459_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+11:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 11, 12, 13, 14 y 15, las cuales cambian a 
+“No Participa”. 
+79 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 14:10 
+ 
+Según PID del bloque 3 tiene asignación CPF+ 
+2MW. CDC indica mediante llamada que sigue 
+reemplazando a Tolpán Sur por recurso. Se 
+adjunta llamada "_20260422_135306_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+11:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 11, 12, 13, 14 y 15, las cuales cambian a 
+“No Participa”. 
+80 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 14:20 
+ 
+Según PID del bloque 3 tiene asignación CPF+ 
+2MW. CDC indica mediante llamada que sigue 
+reemplazando a Tolpán Sur por recurso. Se 
+adjunta llamada "_20260422_135306_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+11:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 11, 12, 13, 14 y 15, las cuales cambian a 
+“No Participa”. 
+81 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 14:40 
+ 
+Según PID del bloque 3 tiene asignación CPF+ 
+2MW. CDC indica mediante llamada que sigue 
+reemplazando a Tolpán Sur por recurso. Se 
+adjunta llamada "_20260422_135306_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+11:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 11, 12, 13, 14 y 15, las cuales cambian a 
+“No Participa”. 
+82 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 17:20 
+ 
+Según PID del bloque 3 tiene asignación CPF+ 
+Se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+10MW. CECOER y CDC comentan en llamada 
+al inicio del horario que, si no hay recurso 
+durante el bloque, se le avise a CDC. A las 
+17:15 CECOER informa que no hay recurso. 
+Se 
+adjuntan 
+llamadas 
+"_20260422_164920_d.wav" 
+y 
+"_20260422_171505_d.wav". 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+17:17 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 17, considerando los 17 minutos de 
+prestación de CPF, por lo que su desempeño 
+horario se mantiene en 0%. 
+83 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 17:30 
+ 
+Según PID del bloque 3 tiene asignación CPF+ 
+10MW. CECOER y CDC comentan en llamada 
+al inicio del horario que, si no hay recurso 
+durante el bloque, se le avise a CDC. A las 
+17:15 CECOER informa que no hay recurso. 
+Se 
+adjuntan 
+llamadas 
+"_20260422_164920_d.wav" 
+y 
+"_20260422_171505_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+17:17 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 17, considerando los 17 minutos de 
+prestación de CPF, por lo que su desempeño 
+horario se mantiene en 0%. 
+84 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 18:00 
+ 
+Sin recurso para cumplir con el bloque 
+asignado. Recién retoma recurso y por 
+consecuencia generación a las 19:00 horas. 
+Se coordina mediante llamada con CDC desde 
+las 
+17:15. 
+Se 
+adjunta 
+llamada 
+"_20260422_171505_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+17:17 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 18, la cual cambia a “No Participa”. 
+85 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 18:10 
+ 
+Sin recurso para cumplir con el bloque 
+asignado. Recién retoma recurso y por 
+consecuencia generación a las 19:00 horas. 
+Se coordina mediante llamada con CDC desde 
+las 
+17:15. 
+Se 
+adjunta 
+llamada 
+"_20260422_171505_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+17:17 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 18, la cual cambia a “No Participa”. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+86 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 18:20 
+ 
+Sin recurso para cumplir con el bloque 
+asignado. Recién retoma recurso y por 
+consecuencia generación a las 19:00 horas. 
+Se coordina mediante llamada con CDC desde 
+las 
+17:15. 
+Se 
+adjunta 
+llamada 
+"_20260422_171505_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+17:17 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 18, la cual cambia a “No Participa”. 
+87 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 18:30 
+ 
+Sin recurso para cumplir con el bloque 
+asignado. Recién retoma recurso y por 
+consecuencia generación a las 19:00 horas. 
+Se coordina mediante llamada con CDC desde 
+las 
+17:15. 
+Se 
+adjunta 
+llamada 
+"_20260422_171505_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+17:17 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 18, la cual cambia a “No Participa”. 
+88 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 22-04-2026 18:40 
+ 
+Sin recurso para cumplir con el bloque 
+asignado. Recién retoma recurso y por 
+consecuencia generación a las 19:00 horas. 
+Se coordina mediante llamada con CDC desde 
+las 
+17:15. 
+Se 
+adjunta 
+llamada 
+"_20260422_171505_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+17:17 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 18, la cual cambia a “No Participa”. 
+89 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 25-04-2026 17:30 
+ 
+Según PID de bloque 15. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC 
+confirma 
+que 
+el 
+bloque 
+horario 
+correspondiente considera asignación de CPF 
+en dicho horario, por lo que el indicador se 
+mantiene. 
+90 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 25-04-2026 18:40 
+ 
+Sin recurso para cumplir con el bloque 
+asignado. Según PID del bloque 15 tiene 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC confirma que el coordinado informó a las 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+asignación CPF+ 14MW, la central no puede 
+cumplir con el bloque asignado. 
+19:02 horas que no cuenta con recurso 
+primario. Dicho lo anterior, el indicador se 
+mantiene. 
+91 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 25-04-2026 19:10 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 11MW. Se coordina mediante llamada 
+con CDC que no hay recurso para dar CPF 
+desde las 19:00 horas. Se adjunta llamada 
+"_20260425_190227_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 19, la cual cambia a “No Participa”. 
+92 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 25-04-2026 20:10 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 13MW. Se coordina mediante llamada 
+con CDC que no hay recurso para dar CPF 
+desde las 19:00 horas. Se adjunta llamada 
+"_20260425_190227_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 20, la cual cambia a “No Participa”. 
+93 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 25-04-2026 20:20 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 13MW. Se coordina mediante llamada 
+con CDC que no hay recurso para dar CPF 
+desde las 19:00 horas. Se adjunta llamada 
+"_20260425_190227_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 20, la cual cambia a “No Participa”. 
+94 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 25-04-2026 20:30 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 13MW. Se coordina mediante llamada 
+con CDC que no hay recurso para dar CPF 
+desde las 19:00 horas. Se adjunta llamada 
+"_20260425_190227_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 20, la cual cambia a “No Participa”. 
+95 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 25-04-2026 20:40 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 13MW. Se coordina mediante llamada 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+con CDC que no hay recurso para dar CPF 
+desde las 19:00 horas. Se adjunta llamada 
+"_20260425_190227_d.wav". 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 20, la cual cambia a “No Participa”. 
+96 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 25-04-2026 20:50 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 13MW. Se coordina mediante llamada 
+con CDC que no hay recurso para dar CPF 
+desde las 19:00 horas. Se adjunta llamada 
+"_20260425_190227_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 20, la cual cambia a “No Participa”. 
+97 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 25-04-2026 21:00 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 13MW. Se coordina mediante llamada 
+con CDC que no hay recurso para dar CPF 
+desde las 19:00 horas. Se adjunta llamada 
+"_20260425_190227_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+19:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 21, la cual cambia a “No Participa”. 
+98 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 27-04-2026 13:00 
+ 
+Según PID del bloque 12 tiene asignación 
+CPF+ 15MW. Mediante llamada CECOER 
+informa que no hay recurso, CDC indica que 
+reemplazará el servicio. Se adjunta llamada 
+"_20260427_125542_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+12:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 13, la cual cambia a “No Participa”. 
+99 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 27-04-2026 13:10 
+ 
+Según PID del bloque 12 tiene asignación 
+CPF+ 15MW. Mediante llamada CECOER 
+informa que no hay recurso, CDC indica que 
+reemplazará el servicio. Se adjunta llamada 
+"_20260427_125542_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+12:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 13, la cual cambia a “No Participa”. 
+100 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 27-04-2026 13:40 
+ 
+Según PID del bloque 12 tiene asignación 
+CPF+ 15MW. Mediante llamada CECOER 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+informa que no hay recurso, CDC indica que 
+reemplazará el servicio. Se adjunta llamada 
+"_20260427_125542_d.wav". 
+12:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 13, la cual cambia a “No Participa”. 
+101 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 27-04-2026 14:00 
+ 
+Según PID de bloque 15. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+12:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 14, la cual cambia a “No Participa”. 
+102 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 27-04-2026 14:10 
+ 
+Según PID de bloque 15. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+12:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 14, la cual cambia a “No Participa”. 
+103 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 27-04-2026 14:50 
+ 
+Según PID de bloque 15. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+12:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 14, la cual cambia a “No Participa”. 
+104 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 27-04-2026 15:00 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 8MW. Se coordina mediante llamada 
+con CDC que no hay recurso para dar CPF. Se 
+adjunta llamada "_20260427_145534_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+12:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 15, la cual cambia a “No Participa”. 
+105 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 27-04-2026 15:10 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 8MW. Se coordina mediante llamada 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+con CDC que no hay recurso para dar CPF. Se 
+adjunta llamada "_20260427_145534_d.wav". 
+12:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 15, la cual cambia a “No Participa”. 
+106 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 27-04-2026 15:30 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 8MW. Se coordina mediante llamada 
+con CDC que no hay recurso para dar CPF. Se 
+adjunta llamada "_20260427_145534_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+12:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 15, la cual cambia a “No Participa”. 
+107 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 27-04-2026 15:40 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 8MW. Se coordina mediante llamada 
+con CDC que no hay recurso para dar CPF. Se 
+adjunta llamada "_20260427_145534_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+12:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 15, la cual cambia a “No Participa”. 
+108 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 27-04-2026 15:50 
+ 
+Según PID del bloque 15 tiene asignación 
+CPF+ 8MW. Se coordina mediante llamada 
+con CDC que no hay recurso para dar CPF. Se 
+adjunta llamada "_20260427_145534_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+12:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 15, la cual cambia a “No Participa”. 
+109 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 28-04-2026 14:30 
+ 
+La central tenía una asignación de 25MW de 
+CPF de Subida (CPF+) según PID de bloque 
+14. Se observa que para los eventos de 
+subfrecuencia (CPF+) la central responde bien 
+y para los de sobrefrecuencia (CPF-) se ve 
+mermado su aporte porque la central mantenía 
+una consigna de 1MW y la teórica le pide bajar 
+de 0MW, lo que físicamente es imposible y 
+técnicamente está bien la prestación, ya que 
+Pendiente. 
+ 
+El 
+período 
+horario 
+observado 
+presenta 
+movimientos de frecuencia sobre y bajo 50 Hz, y, 
+considerando esta información, el aplicativo 
+determinó que la unidad no sigue frecuencia de 
+manera satisfactoria, por lo que el indicador se 
+mantiene. 
+ 
+Dicho lo anterior, se solicita a su representada 
+que envíe probatorios detallados que permitan 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+no tenía asignación de CPF de bajada (CPF-). 
+Por lo que se solicita al CEN reconsiderar la 
+evaluación y retirarlo de los casos negativos 
+del mes de abril. 
+justificar que la unidad prestó adecuadamente el 
+servicio durante la hora 14 (14:00 hasta 14:59 
+UTC-4).  
+ 
+Este probatorio debe corresponder a una minuta 
+identificando estatismo, banda muerta, tiempo de 
+establecimiento, potencia aportada y aporte 
+esperado ante las excursiones de frecuencia. 
+ 
+Además, este probatorio debe contar con las 
+mediciones segundo a segundo de las variables 
+fecha/hora, potencia activa, consigna, frecuencia 
+y potencia disponible. 
+110 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 28-04-2026 20:00 
+ 
+Según PID del bloque 14 tiene asignación 
+CPF+ 8MW. Se informa a CDC mediante 
+llamada que no hay recurso. Se adjunta 
+llamada "_20260428_195946_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+20:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 20, la cual cambia a “No Participa”. 
+111 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 28-04-2026 20:20 
+ 
+Según PID del bloque 14 tiene asignación 
+CPF+ 8MW. Se informa a CDC mediante 
+llamada que no hay recurso. Se adjunta 
+llamada "_20260428_195946_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+20:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 20, la cual cambia a “No Participa”. 
+112 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 29-04-2026 21:20 
+ 
+Según PID de bloque 15. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+20:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 20, la cual cambia a “No Participa”. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+113 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 29-04-2026 21:30 
+ 
+Según PID de bloque 15. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+20:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 20, la cual cambia a “No Participa”. 
+114 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 29-04-2026 21:40 
+ 
+Según PID de bloque 15. No tiene asignación 
+en este horario. Se solicita al CEN corregir este 
+registro y no considerarlo para la evaluación 
+del desempeño mensual. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que la unidad finalizó CPF a las 
+20:00 horas. Dicho lo anterior, se actualiza RIO 
+y se recalcula el indicador de respuesta de la 
+hora 20, la cual cambia a “No Participa”. 
+115 
+Acciona 
+Energía Chile 
+Holdings S.A. 
+CPF 
+PE Tolpan 
+Sur 
+Fecha: 30-04-2026 15:30 
+ 
+Mediante llamada CECOER informa que no 
+puede cumplir con los 7MW asignado, dado 
+que se tienen 5MW aprox, CDC indica que lo 
+active de todas formas y en los 10 minutos 
+evaluados se va a 0MW. Se adjunta llamada 
+"_20260430_145354_d.wav". 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones y 
+CDC constata que esta instrucción no 
+corresponde a una instrucción de CPF, por lo 
+que es eliminada del RIO. Dicho lo anterior, se 
+actualiza RIO y se recalcula el indicador de 
+respuesta de la hora 15, la cual cambia a “No 
+Participa”. 
+116 
+Atlas SpA y 
+COPEC 
+EMOAC SpA 
+CPF 
+BESS Del 
+Desierto 
+Fecha: Todo el mes 
+ 
+Se remite la información utilizada para el 
+cálculo de los factores de desempeño de abril 
+y mayo de 2026, para su consideración en el 
+proceso de reliquidación correspondiente. 
+Se acoge parcialmente la observación 
+ - Aclaración. 
+ 
+Se analizan los antecedentes y registros de 
+potencia y frecuencia del mes de abril y estos 
+no cumplen con el formato mínimo establecido.  
+ 
+En particular, todos los datos del mes fueron 
+muestreados al minuto en lugar de al segundo, 
+por lo que no son válidos y no fueron 
+considerados en el cálculo. Dicho lo anterior, 
+el indicador se mantiene. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+117 
+Engie Energía 
+Chile S.A. 
+CPF 
+SAE Tocopilla 
+y PE Calama 
+Fecha: Todo el mes 
+ 
+El coordinado disponibiliza los registros de 
+potencia y frecuencia de abril, de ambas 
+unidades, en una fecha posterior al cálculo de 
+la segunda versión de los indicadores de 
+desempeño. 
+Se acoge la observación. 
+ 
+Se incorporan los registros de ambas unidades 
+en esta tercera versión. Dicho lo anterior se 
+recalcula el desempeño mensual de SAE 
+Tocopilla y PE Calama.  
+ 
+En el caso de SAE Tocopilla el desempeño 
+mensual se mantiene en 0% debido a que, a 
+pesar del aumento en el indicador de 
+respuesta a 41%, este último sigue siendo 
+menor a al umbral de 75% definido en el art. 5-
+71 de la NT-SSCC. 
+ 
+En el caso de PE Calama el desempeño 
+mensual cambia a 92%. 
+118 
+Observación 
+Interna 
+CPF 
+Todas 
+Fecha: Todo el mes 
+ 
+Se aplica una banda de tolerancia del 20% a la 
+prestación del servicio ante excursiones sobre 
++-0,2Hz categorizadas con e2. 
+Se acoge la observación. 
+ 
+Se recalculan todos los indicadores de 
+respuesta de CPF de abril considerando este 
+ajuste metodológico. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 5: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de 
+mayo 2026 versión 2. 
+ 
+Consultas recibidas: 
+- 
+AES Andes S.A.: recibida mediante correo electrónico. 
+- 
+Atlas SpA y COPEC EMOAC SpA: recibida mediante la carta S/N. Ingreso DE05893-26. 
+- 
+Empresa Eléctrica Ventanas SpA: recibida mediante la carta QE016-2026. Ingreso DE05384-26. 
+- 
+Enel Generación Chile S.A.: recibida mediante la carta OP 086-26. Ingreso DE05594-26. 
+- 
+Engie Energía Chile S.A.: recibida mediante correo electrónico. 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Enel 
+Generación 
+Chile S.A. 
+CPF 
+HE Cipreses 
+Fecha: Todo el mes 
+ 
+Se solicita reprocesar los archivos de control 
+primario de frecuencia de las unidades 
+mencionadas para la nueva versión del factor 
+de desempeño desde enero a mayo 2026. 
+Se acoge la observación. 
+ 
+Se incluyen los registros enviados de HE 
+Cipreses en esta versión del cálculo. Dicho lo 
+anterior los indicadores se recalculan y el 
+desempeño mensual del mes de mayo cambia 
+a 100% para la unidad HE Cipreses U1. Las 
+unidades HE Cipreses U2 y U3 no participaron 
+del servicio. 
+2 
+Atlas SpA y 
+COPEC 
+EMOAC SpA 
+CPF 
+BESS Del 
+Desierto 
+Fecha: Todo el mes 
+Se remite la información utilizada para el 
+cálculo de los factores de desempeño de abril 
+y mayo de 2026, para su consideración en el 
+proceso de reliquidación correspondiente. 
+Se acoge la observación. 
+ 
+Se incluyen los registros adicionales enviados 
+de BESS Del Desierto en esta versión del 
+cálculo. Dicho lo anterior los indicadores se 
+recalculan y el desempeño mensual del mes 
+de mayo cambia a 95%. 
+3 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER Nueva 
+Ventanas U1 
+Fecha: 23-05-2026 16:35 
+ 
+La instrucción fue a las 16:35 donde la unidad 
+estaba en 257 MW. El Coordinador solicita a la 
+central prestar 11 MW de subida. A los 5 
+minutos de la instrucción la central alcanzó los 
+266,1 MW entregando 9 MW de los 11 MW 
+comprometidos. A los 15 minutos de la 
+Se acoge la observación. 
+ 
+Se revisan los antecedentes y las señales 
+SCADA de la unidad para la instrucción y se 
+comprueba que TER Nueva Ventanas U1 
+alcanzó la consigna de 11 MW solicitados, 
+manteniéndolos hasta el fin de la instrucción 
+(16:59 horas). 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+instrucción, 
+la 
+central 
+se 
+encontraba 
+entregando los 11 MW solicitados sosteniendo 
+la potencia en los restantes 9 minutos 
+asociados a la componente C3, se solicita 
+revisar la evaluación de la componente C3 del 
+desempeño de la unidad ya que en los 9 
+minutos la unidad sostuvo su potencia.  
+ 
+Dicho lo anterior, se recalcula el indicador de 
+respuesta para esta instrucción, el cual cambia 
+a 100%. 
+4 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+SAE Tocopilla 
+y PE Calama 
+Fecha: Todo el mes 
+ 
+El coordinado disponibiliza los registros de 
+potencia y frecuencia de mayo, de ambas 
+unidades, en una fecha posterior al cálculo de 
+la segunda versión de los indicadores de 
+desempeño. 
+Se acoge la observación. 
+ 
+Se incorporan los registros de ambas unidades 
+en esta tercera versión. Dicho lo anterior se 
+recalcula el desempeño mensual de SAE 
+Tocopilla y PE Calama.  
+ 
+En el caso de SAE Tocopilla el desempeño 
+mensual cambia a “No Participa” debido a que 
+no fue instruido en mayo. 
+ 
+En el caso de PE Calama el desempeño 
+mensual cambia a 82%. 
+5 
+AES Andes 
+S.A. 
+CPF 
+CRCA PFV 
+Andes Solar 
+III y CRCA 
+PFV Andes 
+Solar IV 
+Fecha: Todo el mes 
+ 
+El coordinado disponibiliza los registros de 
+potencia y frecuencia de mayo, de ambas 
+unidades, en una fecha posterior al cálculo de 
+la segunda versión de los indicadores de 
+desempeño. 
+Se acoge la observación. 
+ 
+Se incorporan los registros de ambas unidades 
+en esta tercera versión. Dicho lo anterior se 
+recalcula el desempeño mensual de CRCA 
+PFV Andes Solar III y IV.  
+ 
+En ambos casos el desempeño mensual 
+cambia a “No Participa” debido a que no fueron 
+instruidos en mayo. 
+6 
+Observación 
+Interna 
+CPF 
+Todas 
+Fecha: Todo el mes 
+ 
+Se aplica una banda de tolerancia del 20% a la 
+prestación del servicio ante excursiones sobre 
++-0,2Hz categorizadas con e2. 
+Se acoge la observación. 
+ 
+Se recalculan todos los indicadores de 
+respuesta de CPF de mayo considerando este 
+ajuste metodológico. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo 6: Respuestas a observaciones de Indicadores de Desempeño de SSCC prestados durante el mes de junio 
+2026 versión 2. 
+ 
+Consultas recibidas: 
+- 
+AES Andes S.A.: recibida mediante correo electrónico. 
+- 
+Engie Energía Chile S.A.: recibida mediante correo electrónico. 
+- 
+Prime Energía Quickstart SpA: recibidas mediante plataforma de observaciones del departamento de Transferencias de 
+Energía y SSCC con correlativo O2026-0049338 y O2026-0049337.  
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+1 
+Observación 
+Interna 
+CPF 
+Todas 
+Fecha: Todo el mes 
+ 
+Se aplica una banda de tolerancia del 20% a la 
+prestación del servicio ante excursiones sobre 
++-0,2Hz categorizadas con e2. 
+Se acoge la observación. 
+ 
+Se recalculan todos los indicadores de 
+respuesta de CPF de junio considerando este 
+ajuste metodológico. 
+2 
+Observación 
+Interna 
+EDAG Mayo 
+2026 (calculado 
+en indicadores 
+de junio 2026) 
+PE Kallpa 
+PFV Tamaya 
+Fecha: Todo el mes 
+ 
+Se incluye en las planillas de desempeño 
+EDAG del mes de mayo 2026 (calculado en 
+desempeño de junio 2026) las unidades PE 
+Kallpa y PFV Tamaya, ya que finalizaron su 
+proceso de verificación. 
+Se acoge la observación. 
+ 
+Se incluye a las unidades PE Kallpa y PFV 
+Tamaya en las planillas en esta tercera versión 
+del cálculo de indicadores de desempeño. 
+3 
+Prime 
+Energía 
+Quickstart 
+SpA 
+CTF 
+TER Llanos 
+Blancos 
+Fecha: 19-06-2026 07:05 y 30-06-2026 17:36 
+ 
+En el Balance de SSCC de junio de 2026 se 
+observa que a la central TER Llanos Blancos 
+se le asignó un Factor de Desempeño (FD) 
+igual a 0 en la hora 7 del día 19 de junio, y en 
+la hora 17 del día 30 de junio, ambas bajo la 
+clasificación "No Verificable". Al respecto, los 
+antecedentes adjuntos acreditan que las 
+señales 
+de 
+la 
+central 
+se 
+encontraban 
+plenamente disponibles durante dicha hora: el 
+registro de tensión de barra 220 kV, obtenido 
+mediante PI DataLink desde el historian con 
+Se acoge la observación – Aclaración. 
+ 
+Se analizan los antecedentes y señales de 
+SCADA de cada una de las 6 naves de manera 
+individual y se constata que la unidad ajusta su 
+potencia en dirección a la instrucción de CDC 
+en ambas instrucciones. 
+ 
+Dicho lo anterior, el indicador de respuesta se 
+recalcula y cambia a 100% en ambas 
+instrucciones. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+resolución de 1 segundo, presenta 3.600 de 
+3.600 muestras válidas en la hora 7 (100% de 
+disponibilidad), con la señal variando segundo 
+a segundo durante toda la hora, sin presentar 
+valores 
+congelados 
+ni 
+repeticiones 
+consecutivas que pudieran indicar pérdida de 
+actualización de la telemetría. Asimismo, las 
+tendencias de PI Vision adjuntas muestran las 
+tres señales SITR de la central registrando en 
+forma continua durante todo el día 19 de junio, 
+incluyendo el instante de inicio de la hora 
+observada. 
+ 
+4 
+Prime 
+Energía 
+Quickstart 
+SpA 
+CTF 
+TER Llanos 
+Blancos 
+Fecha: 06-06-2026 17:31 
+ 
+En el Balance de SSCC de junio de 2026 se 
+observa que a la central TER Llanos Blancos 
+se le asignó un Factor de Desempeño (FD) 
+igual a 0 en la hora 17 del día 6 de junio. Al 
+respecto, los antecedentes adjuntos acreditan 
+que la central cumplió oportunamente la 
+instrucción del CDC: según el registro 
+telefónico del NOC, la instrucción fue recibida 
+a las 17:32 horas (llamada entrante por línea 
+dedicada a las 17:32:02 y retransmisión 
+inmediata a la central a las 17:32:26). 
+Conforme al registro de potencia activa del 
+medidor de la central, con resolución de 1 
+segundo y sin pérdida de datos (86.400 de 
+86.400 muestras del día), la central sincronizó 
+e inició la inyección a las 17:42 horas, es decir, 
+10 minutos después de recibida la instrucción; 
+dentro del plazo de 15 minutos ya inyectaba 
+una potencia superior a 120 MW, alcanzando 
+138 MW a las 17:48 horas, la que mantuvo en 
+No se acoge la observación. 
+ 
+La evaluación de la prestación de CTF en frío 
+evalúa que la central alcance el valor instruido 
+por CDC a los 15 minutos, contados desde el 
+llamado del CDC y no desde la sincronización 
+de la unidad.  
+ 
+Se analizan los antecedentes y se constata 
+que a los 15 minutos la unidad no alcanzó el 
+monto instruido, llegando a 96 MW en lugar de 
+los 138 MW solicitados, por lo que el indicador 
+se mantiene. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl 
+ 
+Nº 
+Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuesta 
+forma estable hasta las 18:02 horas, momento 
+en que se instruyó su salida de servicio. 
+5 
+Engie 
+Energía Chile 
+S.A. 
+CPF 
+SAE Tocopilla y 
+PE Calama 
+Fecha: Todo el mes 
+ 
+El coordinado disponibiliza los registros de 
+potencia y frecuencia de junio, de ambas 
+unidades, en una fecha posterior al cálculo de 
+la segunda versión de los indicadores de 
+desempeño. 
+Se acoge la observación. 
+ 
+Se incorporan los registros de ambas unidades 
+en esta tercera versión. Dicho lo anterior se 
+recalcula el desempeño mensual de SAE 
+Tocopilla y PE Calama.  
+ 
+En el caso de SAE Tocopilla el desempeño 
+mensual cambia a 92%, mientras que en el 
+caso de PE Calama el desempeño mensual se 
+mantiene en 0% debido a que los registros 
+potencia frecuencia no tienen sentido físico. 
+6 
+AES Andes 
+S.A. 
+CPF 
+CRCA PFV 
+Andes Solar III y 
+CRCA PFV 
+Andes Solar IV 
+Fecha: Todo el mes 
+ 
+El coordinado disponibiliza los registros de 
+potencia y frecuencia de junio, de ambas 
+unidades, en una fecha posterior al cálculo de 
+la segunda versión de los indicadores de 
+desempeño. 
+Se acoge la observación. 
+ 
+Se incorporan los registros de ambas unidades 
+en esta tercera versión. Dicho lo anterior se 
+recalcula el desempeño mensual de CRCA 
+PFV Andes Solar III y IV.  
+ 
+En ambos casos el desempeño mensual 
+cambia a “No Participa” debido a que no fueron 
+instruidos en junio. 
+ 
+  

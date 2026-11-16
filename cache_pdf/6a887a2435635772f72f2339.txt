@@ -1,0 +1,184 @@
+ 
+Alfa  
+Transmisora de Energía S.A 
+ 
+ 
+ 
+Alfa Transmisora de Energía S.A 
+RUT: 77.337.345-0 
+CE-168-2025-ALFATX   / Pág. 1 de 2
+Av. Apoquindo 4501 | Piso 19 
+Oficina 1902 | Las Condes 
+7580128 Santiago 
+T. +562 3319 7200 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Santiago, Chile 
+                                                                                                                                Santiago, 20 de agosto de 2026. 
+ 
+n/ref: CE- 167-2026-ALFATX – Respuesta a carta DE 04167-26: Entrega de Informes de Verificación de Servicios 
+Complementarios (SSCC) de Equipos de Vinculación (EV) de S/E Candelaria. 
+ 
+De nuestra consideración 
+En relación en la carta DE 04167-26, mediante la cual el Coordinador Eléctrico Nacional remitió observaciones a los 
+Informes de Verificación de los SSCC correspondientes a EV de los paños J1, J2, J3 y J4 de la S/E Candelaria, y a la 
+minuta DCO-SSCC-EV-SE Candelaria adjunta a dicha comunicación, informamos que Alfa Transmisora de Energía S.A. 
+ha completado la revisión y actualización integral de los antecedentes requeridos. 
+ 
+Los antecedentes adjuntos incorporan las adecuaciones y complementos solicitados por el Coordinador, en 
+conformidad con lo comprometido por Alfa Transmisora de Energía S.A. mediante carta CE-163-2026-ALFA. 
+ 
+A continuación, se detallan las instalaciones a la cuales se les ha ejecutado los informes de verificación SSCC: 
+ 
+Coordinado 
+Subestación 
+Instalación 
+Paño 
+SSCC 
+Informe  
+Alfa Transmisora 
+de Energía S.A. 
+S/E Candelaria 
+LT 220kV 
+Candelaria - 
+Maipo N°1 
+J1 
+EV 
+IVSC-17  
+Alfa Transmisora 
+de Energía S.A. 
+S/E Candelaria 
+LT 220kV 
+Candelaria - 
+Maipo N°2 
+J2 
+EV 
+IVSC-18 
+Alfa Transmisora 
+de Energía S.A. 
+S/E Candelaria 
+Línea 220kV 
+Candelaria - 
+Seccionadora 
+Puente Negro 
+N°1 
+J3 
+EV 
+IVSC-19 
+Alfa Transmisora 
+de Energía S.A. 
+S/E Candelaria 
+Línea 220kV 
+Candelaria - 
+Seccionadora 
+Puente Negro 
+N°2 
+J4 
+EV 
+IVSC-20 
+ 
+Asimismo, junto a la presente carta se adjuntan los informes técnicos de verificación de SSCC y sus anexos. A 
+continuación, el detalle: 
+ 
+• 
+IVSC-17: Paño J1 
+• 
+IVSC-18: Paño J2 
+• 
+IVSC-19: Paño J3 
+• 
+IVSC-20: Paño J4 
+ 
+Cada informe incluye las pruebas de verificación Controlador Principal (CP) y de Respaldo (CR): 
+ 
+• 
+Anexo N°1 Pruebas de verificación Controlador Principal  
+• 
+Anexo N°2 Pruebas de verificación Controlador de Respaldo  
+ 
+
+ 
+Alfa  
+Transmisora de Energía S.A 
+ 
+ 
+ 
+Alfa Transmisora de Energía S.A 
+RUT: 77.337.345-0 
+CE-168-2025-ALFATX   / Pág. 2 de 2
+Av. Apoquindo 4501 | Piso 19 
+Oficina 1902 | Las Condes 
+7580128 Santiago 
+T. +562 3319 7200 
+ 
+ 
+ 
+Además, se incluye los resultados de pruebas de cargadores y bancos de baterías: 
+ 
+• 
+Anexo N°3 Resultados pruebas cargador y banco de baterías N°1 y N°2 
+• 
+Anexo N°4 Resultados pruebas de descarga bancos de baterías 
+ 
+En base a los resultados obtenidos, las instalaciones verificadas cumplen con los requisitos para la prestación de 
+SSCC de EV. 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+David Zamora Mesías  
+Gerente de Operaciones  
+Alfa Transmisora de Energía S.A. 
+ 
+David Germán 
+Zamora Mesías
+Firmado digitalmente 
+por David Germán 
+Zamora Mesías 
+Fecha: 2026.08.20 
+18:36:19 -04'00'

@@ -1,0 +1,61 @@
+Apoquindo 3885, Piso 22
+Las Condes, Santiago
+Tel. +56 2 2646 2000
+Chile
+Parque Solar Fotovoltaico Luz del Norte SpA
+Apoquindo 3885, Piso 22, Las Condes, Santiago
+Santiago, 24 de octubre de 2025.-   
+Señor
+Rodrigo Espinoza V.
+Gerente de Operación
+Coordinador Eléctrico Nacional
+Av. Parque Isidora 1061, Pudahuel, Región Metropolitana
+Ref.: Responde a Carta DE 06696-25
+Comunica atraso en proceso de Verificación 
+de Instalaciones de Transmisión para la 
+Prestación de Servicios Complementarios.
+[1] Carta DE06696-25, de fecha 22 de 
+octubre de 2025
+[2] Carta DE01149-25, de fecha 21 de 
+febrero de 2025
+De mi consideración,
+En relación con el atraso mencionado en la carta de la Ref. [1], respecto de la entrega del Informe de 
+Verificación de Servicios Complementarios (SSCC) de instalaciones existentes de Transmisión, que 
+presuntamente debiese haber entregado mi representada el 22 de agosto de este año conforme al
+cronograma indicado en carta de la Ref. [2], informo lo siguiente:
+El Banco de Capacitores (BBCC) de 32 MVAr/23kV ubicado en el lado de baja tensión del 
+transformador elevador de la S/E Central Luz del Norte, constituye un equipo de control asociado a 
+la instalación de generación, controlado en su totalidad mediante el PPC de la planta. Su función 
+exclusiva es la compensación de potencia reactiva para mantener la relación P-Q en el punto de
+conexión de la planta, para cumplir con las exigencias de los Artículos 3-9 y 5-81 de la NTSyCS.
+En consecuencia, este equipo no corresponde a una instalación de transmisión, sino a un elemento 
+propio de la instalación de generación, por lo que no aplica el proceso de Verificación de Instalaciones 
+de Transmisión para la Prestación de SSCC. El hecho de desconectar el BBCC del PPC de Luz del Norte 
+para cumplir con el proceso de verificación, como si este activo fuese una instalación de transmisión 
+independiente, degrada la seguridad del servicio, toda vez que al desconectarse el BBCC del PPC no 
+sería posible cumplir con las exigencias de los Artículos 3-9 y 5-8 de la NTSyCS.
+Adicionalmente, la verificación del servicio de Control de Tensión de Luz del Norte ya fue ejecutada, 
+según el Cronograma de Verificación de SSCC en Instalaciones de Generación (versión 2025.02.18
+
+Apoquindo 3885, Piso 22
+Las Condes, Santiago
+Tel. +56 2 2646 2000
+Chile
+publicada en el sitio web del Coordinador), quedando el BBCC comprendido dentro del equipamiento 
+verificado. 
+Por lo anterior, no corresponde elaborar un informe adicional bajo el proceso para instalaciones en 
+transmisión, además de que las pruebas necesarias no son realizables sin intervenir el sistema de 
+control de la planta y arriesgar el cumplimiento normativo antes citado. 
+donde se demuestra el proceso de verificación llevado a cabo.
+Sin perjuicio de lo anterior, quedamos atentos a cualquier comentario o antecedente adicional que 
+se requiera, a fin de asegurar la debida coordinación y cumplimiento de la normativa vigente.
+Sin otro particular, saluda atentamente,
+Alejandro Reyes F.
+Encargado Titular
+Parque Solar Fotovoltaico Luz del Norte SpA
+1
+Capítulo 5, Artículo 5-8 de la NTSyCS sobre exigencias para estándares de seguridad y calidad de 
+servicio: 
+neradoras sincrónicas y parques eólicos y fotovoltaicos que operen 
+interconectados al SI deberán disponer de la capacidad de absorber o entregar potencia reactiva, 
+conforme se indica en el Título 3-3 de la presente NT.

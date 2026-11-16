@@ -1,0 +1,86 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 5 de febrero de 2026 
+AEL012C-26 
+ 
+ 
+Señor 
+Jorge Luis Gallegos Mellado 
+Ingeniero de Análisis de la Operación 
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+Ref.: Responde DE00711-26 - Solicita respuesta a las 
+cartas DE05814-25 y DE00167-26 - Plan de Acción por 
+EAF 135-2024 - Apertura automática del interruptor 
+52JL2 de S/E Central Mampil 
+ 
+De nuestra consideración: 
+ 
+Nos referimos a la carta DE00711-26, a través de la cual el Coordinador solicita información relacionada a 
+la apertura automática del interruptor 52JL2 de S/E Central Mampil, ocurrida a las 08:17 horas del día 04 
+de abril de 2024. 
+ 
+A continuación, se indica la solicitud y su respuesta: 
+ 
+• 
+Confirmación de ejecución exitosa de las tareas necesarias para la revisión del enlace y equipos 
+de teleprotecciones de la línea 220 kV Mampil - Rucúe, con el fin de evaluar el reemplazo de 
+equipos en ambos extremos, junto con señalar las medidas derivadas de dicha revisión, cuya 
+adquisición de equipamiento fue comprometida para estar finalizada el 05 de diciembre de 
+2025. 
+ 
+R: Para responder a lo solicitado en carta DE00167-26 debemos indicar que se realizó de forma 
+exitosa el levantamiento y revisión del enlace de comunicación de la teleprotección entre las 
+Subestaciones Mampil y Rucúe entre los días 22 y 23 de julio del 2025, en donde principalmente 
+se recomienda reemplazar el equipamiento de telecomunicaciones basado en onda portadora 
+en ambos extremos, y reemplazar igualmente cajas acopladoras o cajas de sintonía en ambas 
+subestaciones con el fin de utilizar componentes compatibles y estandarizados para la solución 
+propuesta.  
+ 
+ 
+Posterior a la revisión mencionada, se dio paso a cotizar todos los suministros recomendados 
+para el reemplazo en ambos extremos, emitiendo la orden de compra a comienzos de octubre 
+para realizar el pedido a fabrica dentro del mismo mes (se adjunta OA emitida por fábrica). De 
+acuerdo con la información entregada por el proveedor, la fecha aproximada de llegada del 
+
+ 
+ 
+ 
+ 
+2 
+ 
+equipamiento sería a fines de febrero y comienzos de marzo del año 2026, para proceder con el 
+reemplazo e instalación durante el mes de abril 2026.  
+ 
+En cuanto a la carta DE05814-25, se debe indicar que los cambios de la protección de bajo 
+voltaje en SE Mampil y Peuchén no se concretaron durante el año 2025 debido a diversas 
+razones, entre las cuales está el hecho de que estos proyectos van de la mano con el reemplazo 
+de otras protecciones, demoras en el desarrollo y revisión del ECAP y principalmente la 
+reprogramación de los trabajos en sitio esperando las fechas de menor recurso hídrico para 
+realizar desconexiones. Por esto, es que la finalización de ambos reemplazos se llevará a cabo en 
+abril de 2026 durante el mantenimiento mayor de cada central (estas fechas se actualizarán 
+mediante PGP dentro del cronograma para cada NUP).  
+ 
+Se debe destacar que igualmente se avanzó en las ingenierías, estudios y adecuaciones físicas en 
+gabinetes durante el 2025, por lo que se reducirían los tiempos de ejecución para culminar 
+ambos reemplazos.  
+ 
+ 
+ 
+Sin otro particular, atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos De La Fuente 
+Encargado Titular 
+Aela Generación S.A. 
+ 
+ 

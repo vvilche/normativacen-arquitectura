@@ -1,0 +1,209 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 23 de febrero de 2026 
+DE 01267-26 
+Señor 
+Sebastián Ruiz-Tagle 
+Encargado Titular 
+Colbún S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+de las unidades 1 y 2 de central HE Canutillar. 
+[1] Carta GO N° 027/2026 de Colbún S.A., Ref.: 
+“Respuesta 
+a 
+observaciones 
+enviadas 
+por 
+el 
+Coordinador a los informes técnicos de verificación de 
+Servicios Complementarios a las unidades de Colbún 
+SA.”, de fecha 06 de febrero de 2026. 
+Responde a Ingreso: DE01169-26. 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación del Servicio Complementario (SC) enviado por su representada mediante 
+carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 
+4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el 
+proceso de verificación del SC de Control de Tensión (CT) de las unidades 1 y 2 de central 
+HE Canutillar. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del 26 de febrero de 2026 considerando 
+los recursos indicados en el anexo a la presente carta. 
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+prestación del CT de las unidades 1 y 2 de central HE Canutillar se han publicado en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > Central HE Canutillar 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/WJS/adr 
+c.c.:  
+Sr. Rafael Zamorano – Encargado Suplente Colbún S.A.
+
+ 
+1 para la estimación del valor de la potencia mínima neta, se consideran los consumos propios de las unidades de la central 
+HE Canutillar, correspondientes a 0,25% para cada una de las unidades. Este valor se obtiene desde la plataforma Infotécnica 
+del Coordinador. 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central HE Canutillar. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central HE Canutillar U1 y U2 (para cada una de las unidades) 
+• 
+Potencia máxima bruta: 86,000 [MW]. 
+• 
+Potencia máxima neta: 85,785 [MW]. 
+• 
+Potencia mínima bruta: 40,000 [MW]. 
+• 
+Potencia mínima neta1: 39,900 [MW]. 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión 
+Control de Tensión 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión: 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte de Colbún S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en la página siguiente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control de Tensión – Unidad 1: 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de Tensión 
+Instalación 
+Recurso Primario 
+  
+Tensión [pu] 
+Potencia Reactiva [MVAr]  
+Potencia [MW]   
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+Central HE 
+Canutillar  
+Unidad 1 
+Hidráulica  
+Embalse 
+40,0 
+42,3 39,9 36,5 32,0 26,4 
+55,3 
+35,6 33,7 30,7 26,6 21,3 
+70,7 
+25,8 24,8 22,5 18,9 14,1 
+86,0 
+11,9 12,4 11,2 
+8,6 
+4,6 
+86,0 
+-4,2 -12,2 -20,6 -29,5 -38,8 
+70,7 
+-9,7 -17,7 -26,1 -34,9 -44,2 
+55,3 
+-15,1 -23,1 -31,5 -40,4 -49,7 
+40,0 
+-20,1 -28,1 -36,6 -45,4 -54,7 
+b) Control de Tensión – Unidad 2: 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de Tensión 
+Instalación 
+Recurso Primario 
+  
+Tensión [pu] 
+Potencia Reactiva [MVAr]  
+Potencia [MW]   
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+Central HE 
+Canutillar  
+Unidad 2 
+Hidráulica 
+Embalse 
+40,0 
+42,3 39,9 36,5 32,0 26,4 
+55,3 
+35,6 33,7 30,7 26,6 21,3 
+70,7 
+28,8 24,8 22,5 18,9 14,1 
+86,0 
+11,9 12,4 11,2 
+8,6 
+4,6 
+86,0 
+-3,9 -12,1 -20,6 -29,7 -39,1 
+70,7 
+-9,4 -17,5 -26,1 -35,1 -44,5 
+55,3 
+-14,8 -23,0 -31,5 -50,5 -50,0 
+40,0 
+-19,9 -28,0 -36,6 -45,6 -55,0 
+ 
+ 

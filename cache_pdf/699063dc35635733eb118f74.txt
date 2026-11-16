@@ -1,0 +1,313 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Santiago, 13 de febrero de 2026 
+DE 01038-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: 
+Publicación 
+Índices 
+de 
+Indisponibilidad 
+asociados a los EAF 016 al 025 del año 2026. 
+[1] 
+Oficio 
+Electrónico 
+N° 
+121688 
+de 
+la 
+Superintendencia de Electricidad y Combustibles 
+(SEC), (N° recepción OP01307-22) Ref.: “Instruye el 
+envío de información de acuerdo con lo que indica”, de 
+fecha 14 de junio de 2022. 
+ 
+De mi consideración: 
+ 
+Me refiero a lo establecido en el Artículo 4-5 de la Norma Técnica de Indisponibilidad de 
+Suministro y Compensaciones, que establece que el Coordinador será el responsable de 
+centralizar, registrar, procesar y publicar la información asociada a un evento de falla, que 
+permita calcular los índices de indisponibilidad de suministro y la Energía no Suministrada, 
+entre otras variables relacionadas con la Calidad de Servicio. 
+ 
+Al respecto, comunico a usted que la información asociada a los EAF 016-2026 al EAF 025-
+2026 se encuentra publicada, y puede ser descargada desde el Sitio Web del Coordinador 
+Eléctrico Nacional, en las siguientes rutas: 
+ 
+Inicio > Informes y Estudios > Operación > Índices de Indisponibilidad > Indicadores 
+NTISyC 2026 > Enero > Cálculo por EAF: 
+ 
+1. EAF 016-2026 
+2. EAF 017-2026 
+3. EAF 018-2026 
+4. EAF 019-2026 
+5. EAF 020-2026 
+6. EAF 021-2026 
+7. EAF 022-2026 
+8. EAF 023-2026 
+9. EAF 024-2026 
+10. EAF 025-2026 
+ 
+En conformidad con lo establecido en el Artículo 5-3 de la Norma Técnica de 
+Indisponibilidad de Suministro y Compensaciones, su representada podrá realizar 
+observaciones a los cálculos de los índices mencionados hasta el miércoles 18 de febrero 
+de 2026, mediante carta y con copia al correo electrónico ind.suministro@coordinador.cl, 
+indicando en el asunto “Observaciones a cálculos de indicadores de indisponibilidad”. Cabe 
+destacar que las observaciones deben enmarcarse en lo establecido en el Artículo 4-9 de 
+la mencionada norma. 
+ 
+Finalmente, en el anexo a la presente carta encontrará una evaluación de la calidad de los 
+antecedentes solicitados a las empresas distribuidoras, para aquellos EAF donde la 
+información no se ajusta a las condiciones establecidas por la Superintendencia en la 
+comunicación de la Ref. [1]. Cabe destacar que será informado a la SEC aquellos 
+Coordinados que no envíen los antecedentes en los formatos y plazos requeridos. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+c.c.:  
+Sr. Víctor Gutiérrez González – Encargado Titular Compañía General de Electricidad S.A. 
+Sr. Víctor Gutiérrez González – Encargado Titular CGE Transmisión S.A. 
+Sr. Daniel Pinto – Encargado Titular Empresa de los Ferrocarriles del Estado. 
+Sr. Andrea Francisca Torneria Torres – Encargado Titular Indura S.A. 
+Sr. Ivan Aballay – Encargado Titular Aguas Antofagasta S.A. 
+Sr. María José Reveco – Encargado Titular Transelec S.A. 
+Sr. Sergio Zamora Ramírez – Encargado Titular Bioenergías Forestales SpA 
+Sr. Francisco Reyes J. – Encargado Titular  Minera Valle Central S.A. 
+Sr. Nelson Salinas – Encargado Titular Fundición Talleres Ltda. 
+ 
+DBCD/DTE-SSCC/SGASO 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+Anexo: Estado de completitud y calidad de información solicitada a Empresas Distribuidoras (*) 
+ 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 019-2026 
+18-01-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Lirquen 
+Parcial 
+Si 
+El alimentador Indura Penco (S/E Lirquen) tiene hora 
+de normalización equivalente previa a la hora de 
+disponibilidad de la barra. 
+ 
+Se solicita detallar el mecanismo de recuperación 
+de estas cargas para este alimentador donde esto 
+se presente, y con el desglose requerido por la 
+SEC, esto es comunal y por zona de tarificación. 
+ 
+EAF 021-2026 
+18-01-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Penco 
+Parcial 
+Si 
+Los siguientes clientes libres en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+• 
+SERVICIO DE SALUD THNO. (61602198), 
+BA S/E PENCO 15KV BP1. 
+• 
+ESSBIO S. A. (76833300), BA S/E PENCO 
+15KV BP1. 
+• 
+COMBUSTIBLE 
+RAPALLO 
+LTDA 
+(78838900), BA S/E PENCO 15KV BP1. 
+ 
+Enviar antecedentes corregidos, indicando para 
+cada cliente libre la respectiva clave de balance.  
+EAF 022-2026 
+18-01-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Antofagasta 
+S/E Guardiamarina 
+Parcial 
+Si 
+No envía la información sobre los consumos afectados 
+en la S/E Guardiamarina. 
+ 
+Enviar antecedentes solicitados. 
+EAF 023-2026 
+18-01-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Penco 
+Parcial 
+Si 
+Los siguientes clientes libres en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+• 
+SERVICIO DE SALUD THNO. (61602198), 
+BA S/E PENCO 15KV BP1. 
+ 
+Enviar antecedentes corregidos, indicando para 
+cada cliente libre la respectiva clave de balance.  
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+EAF 024-2026 
+18-01-2026 
+Compañía General 
+de Electricidad S.A. 
+S/E Alameda 
+S/E Isla de Maipo 
+S/E Fatima 
+S/E Buin 
+S/E San Francisco 
+de Mostazal 
+S/E Hospital 
+ 
+ 
+Parcial 
+Si 
+Los siguientes clientes libres en distribución no se 
+encuentran en las bases de datos del Coordinador: 
+ 
+• 
+INMOB E INVERSIONES LAS VERTIENTES 
+LTDA (76077056), BA S/E ALAMEDA 15KV 
+C2. 
+• 
+ADMINISTRADORA DE SUPERMERCADOS 
+HIPER LT (76134941), BA S/E ALAMEDA 
+15KV C2. 
+• 
+ADMINISTRADORA 
+DE 
+VENTAS 
+AL 
+DETALLE 
+LTDA 
+(77215640), 
+BA 
+S/E 
+ALAMEDA 15KV C1. 
+• 
+RENDIC HERMANOS S.A. 2 - Cachapoal 
+13.8 - C2 - Alimentador BRASIL (1), BA S/E 
+ALAMEDA 15KV C1. 
+• 
+AGRICOLA 
+EL 
+CARMELO 
+LIMITADA 
+(76905679), BA S/E BUIN (CGE) 15KV C2. 
+• 
+SUPERMERCADOS MONTSERRAT S.A.C. 
+(93307000), BA S/E FATIMA 15KV BP2. 
+• 
+WALMART 
+CHILE 
+ALIMENTOS 
+Y 
+SERVICIOS LTDA (96755580), BA S/E 
+FATIMA 15KV BP1. 
+• 
+INMOBILIARIA BAVARIA LTDA - Fatima 13.8 
+- C4 - Alimentador LINDEROS (1), BA S/E 
+FATIMA 15KV BP2. 
+• 
+HIPERMERCADOS 
+TOTTUS 
+S.A 
+(78627210), BA S/E ISLA DE MAIPO 23KV 
+C2. 
+• 
+ADMINISTRADORA 
+DE 
+VENTAS 
+AL 
+DETALLE LTDA (77215640), BA S/E SAN 
+FRANCISCO DE MOSTAZAL 15KV BP2. 
+ 
+Enviar antecedentes corregidos, indicando para 
+cada cliente libre la respectiva clave de balance. 
+ 
+El alimentador CARAMPANGUE (S/E Isla de Maipo) 
+tiene hora de normalización equivalente previa a la 
+hora de disponibilidad de la barra. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+ www.coordinador.cl 
+EAF (**) 
+Fecha falla 
+Distribuidora 
+Involucrada 
+S/E con consumo 
+afectado 
+¿Envía 
+información? 
+Presenta 
+formato 
+solicitado 
+Comentario CEN 
+ 
+Se solicita detallar el mecanismo de recuperación 
+de estas cargas para este alimentador donde esto 
+se presente, y con el desglose requerido por la 
+SEC, esto es comunal y por zona de tarificación. 
+ 
+(*) Los EAFs N° 017 y 020 no tuvieron afectación de Empresas Distribuidoras. 
+(**) En los EAF N° 016, 018 y 025 la información recibida de la empresa distribuidora Compañía General de Electricidad S.A.fue recibida en plazo y en forma, e 
+incorporada al cálculo. 
+ 

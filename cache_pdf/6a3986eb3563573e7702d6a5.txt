@@ -1,0 +1,114 @@
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+ 
+Carta ENLI-53-26 
+Santiago, 19 de junio de 2026 
+De nuestra consideración: 
+ 
+Junto con saludarle, conforme a lo requerido en la carta de ANT., y de acuerdo con lo dispuesto en el 
+artículo 7-5 del Anexo Técnico de Exigencias Mínimas de Instalaciones Basadas en Convertidores que se 
+conectan al Sistema Eléctrico Nacional (“AT IBR”), por medio de la presente hacemos entrega del 
+cronograma de trabajo requerido para la central la PFV La Huayca II de Enlight Investments. 
+ 
+Al respecto, y conforme con lo requerido por el Coordinador, se informa a continuación la condición 
+aplicable a cada instalación, de acuerdo con las alternativas señaladas en los literales a), b) y c) de la 
+comunicación antes referida, indicando asimismo la fecha estimada para la entrega de los respectivos 
+antecedentes técnicos: 
+ 
+Artículo 
+Exigencia 
+Estado actual preliminar 
+Observación 
+3-9 NTSyCS 
+Verificación diagrama PQ del 
+sistema 
+Cumple 
+Se requiere validación técnica 
+por parte del fabricante. 
+4-1 AT IBR 
+Exigencias generales IBR GFL 
+Cumple  
+Se requiere validación técnica 
+por parte del fabricante. 
+4-2 AT IBR 
+Operación ante fallas 
+Cumple 
+Se requiere validación técnica 
+por parte del fabricante. 
+4-3 AT IBR 
+Control de tensión 
+No cumple  
+Se requiere respaldo técnico 
+por parte del fabricante. 
+4-4 AT IBR 
+Operación ante fallas de los 
+inversores 
+Por verificar 
+Se requiere validación y/o 
+respaldo técnico por parte del 
+fabricante. 
+4-7 AT IBR 
+Reducción de potencia activa 
+en función de frecuencia 
+Por verificar 
+Se requiere validación y/o 
+respaldo técnico por parte del 
+fabricante. 
+6-2 AT IBR 
+Ajuste de parámetros de 
+modos de control 
+No cumple  
+Se requiere respaldo técnico 
+por parte del fabricante. 
+ 
+ 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref: 
+ Remite cronograma de trabajo solicitado 
+mediante carta DE 03648-26, de 05 de junio de 2026. 
+ANT: 
+Carta DE 03648-26, de 05 de junio de 2026. 
+ 
+
+ 
+ 
+Correo: contacto.chile@enlight.cl 
+Av. Apoquindo 5950, Piso 13, 7560932, 
+Las Condes, Santiago 
+El cronograma anterior considera las actividades necesarias para la preparación y entrega de los informes 
+técnicos correspondientes, conforme con los plazos establecidos en el artículo 7-5 del AT IBR y en la 
+comunicación de referencia. 
+ 
+Finalmente, hacemos presente que el referido cronograma fue ingresado mediante la Plataforma 
+Conecta CEN, de conformidad con las instrucciones impartidas por ese Coordinador. 
+ 
+ 
+Sin otro particular, lo saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Mauricio Ortuondo 
+Encargado Suplente 
+Enlight Investments 
+ 
+ 
+Adjunto: Cronograma Art. 7-5 AT IBR PFV La Huayca II 

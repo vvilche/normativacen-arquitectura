@@ -1,0 +1,55 @@
+Carta:CSM-CN_1001 
+Fecha:03-10-2025 
+Señores 
+Coordinador Eléctrico Nacional 
+Departamento de Control de la Operación (DCO) 
+Atn.: Sr. Cristian Reyes Vigh, Jefe DCO 
+Av. Parque Isidora N° 1061, Pudahuel – Santiago 
+Ref.: Respuesta a Carta DE05007-25 – Proceso de Verificación de SSCC central TER Santa Marta 
+ 
+De nuestra consideración: 
+Por medio de la presente, acusamos recibo de su carta DE05007-25 y del correo de insistencia del 29 de 
+septiembre de 2025. En atención a lo solicitado, informamos que la central TER Santa Marta no puede verificar 
+ni prestar los Servicios Complementarios de Control de Tensión (CT) ni Control Terciario de Frecuencia – CTF (giro), 
+por las razones técnicas que se exponen: 
+1. Naturaleza del combustible y modo de operación La central está compuesta por 10 grupos generadores 
+CAT G3520C que operan con biogás de relleno sanitario no acumulado. El combustible se extrae y utiliza 
+en línea conforme al caudal instantáneo disponible, sin gasómetros ni sistemas de almacenamiento 
+energético. Por razones operativas y ambientales, la planta se explota como generación continua y 
+estable mientras existe combustible suficiente, sin reservar margen de potencia activa que permita 
+constituir reserva en giro ni garantizar rampas/tiempos de activación exigidos por CTF (giro) en horizontes 
+de 10–30 minutos, sin comprometer la combustión segura y el cumplimiento ambiental. Se adjunta 
+memorándum técnico respaldatorio.  
+2. Limitaciones de control y comunicaciones para SSCC La configuración eléctrica y de control de la central 
+fue diseñada para generación despachada (energía), no para provisión de SSCC. En particular, la planta 
+no dispone de arquitectura de control automático centralizado ni de las telemediciones/telecontrol 
+redundantes que permitan recibir consignas, seguirlas y acreditar desempeño en los tiempos y con la 
+trazabilidad requeridos para la verificación de CTF (giro). Lo anterior imposibilita ejecutar protocolos de 
+activación y medición con las garantías exigidas.  
+3. Imposibilidad de CT (Control de Tensión) con la configuración vigente Si bien los generadores sincrónicos 
+cuentan con regulación propia, la instalación no fue concebida ni equipada para prestación sistemática 
+de CT: 
+• 
+No cuenta con equipos de compensación reactiva dinámica (p. ej., SVC/STATCOM) ni controlador de 
+planta que permita trazar/operar las curvas P–Q en los cinco niveles de tensión (0,90–1,10 pu) y los ocho 
+puntos requeridos; 
+• 
+La operación se mantiene cercana a factor de potencia unitario, priorizando el aprovechamiento del 
+biogás disponible y la estabilidad de combustión, lo que limita la entrega/absorción de MVAr en los 
+rangos y dinámicas exigibles; 
+• 
+No se dispone de la infraestructura de medición y registro necesaria para acreditar la verificación 
+conforme a las guías vigentes sin adecuaciones mayores de equipamiento y sistemas.  
+ 
+ 
+
+Conclusión y solicitud En virtud de lo anterior, solicitamos respetuosamente:  
+a) Se excluya a TER Santa Marta del cronograma de verificación de CT y CTF (giro) indicado en la carta DE05007-25, 
+manteniéndose su clasificación como no prestadora de estos SSCC en su configuración actual; y  
+b) De estimarlo pertinente, se agende reunión técnica para revisar estas limitaciones y evaluar alternativas 
+regulatorias y/o adecuaciones futuras que, de implementarse, permitan re-evaluar una eventual habilitación. 
+Agradecemos confirmar recepción de esta carta. Quedamos a su disposición a sus requerimientos. 
+Sin otro particular, les saluda atentamente, 
+Brunsley Elliot 
+Encargado Titular – Consorcio Santa Marta S.A. 
+ 

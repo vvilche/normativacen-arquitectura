@@ -1,0 +1,103 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 26 de febrero de 2025 
+ 
+    
+DE 01241-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Acepta Potencia Máxima de la Central PFV 
+Tamarico, del coordinado Tamarico Solar Dos SpA 
+[1] Carta TAM-E-006-24, Ref.: “NUP 876 PFV 
+Tamarico Fase I Informa Entrega de Informe de 
+Potencia Máxima V2”, de fecha 30 de diciembre de 
+2024.  Ingreso DE07502-24. 
+[2] Carta DE00296-25, Ref.: “[NUP 876] Informes 
+Técnicos de Parámetros Operacionales del PFV 
+Tamarico, de Tamarico Solar Dos SpA.”, de fecha 15 
+de enero de 2025. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 24 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Potencia Máxima de la Central PFV Tamarico, en conformidad con el Informe 
+Técnico recibido mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+indicado publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme a lo anterior, los parámetros técnicos de Potencia Máxima de la Central PFV 
+Tamarico se presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Potencia Máxima del Parque Fotovoltaico Tamarico 
+Central/Unidad 
+Potencia Máxima 
+Bruta 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en la 
+central (1) 
+[MW] 
+Potencia Máxima 
+Neta (2) 
+[MW] 
+PFV Tamarico(3) 
+155,8718 
+0,3593 
+3,2125 
+152,3000 
+ 
+(1) Este valor incluye las pérdidas del sistema colector de media tensión (2,7898 MW) y del transformador 
+de poder (0,4227 MW). 
+(2) Inyectada en la barra de alta tensión (220 kV) del transformador de potencia del Parque Fotovoltaico 
+Tamarico.  
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del día 28 de febrero de 2025. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > 
+Documentos > Potencia Máxima > Pruebas de Potencia Máxima > PFV Tamarico 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+                               
+ 
+ 
+Gretchen Zbinden V. 
+                                                           Subgerente de Análisis y Soporte Operacional 
+ 
+Coordinador Eléctrico Nacional 
+ 
+JKH/PPF/DGQ/adr 
+c.c.: Sr. Luis Fredes – Encargado Titular Tamarico Solar Dos SpA 
+ 
+DAA, DAEP, DAIT, DPRO, DTE-SSCC, DTPT, DCON, DCO, SGESO, SGTM 
+ 
+ 
+ 
+ 

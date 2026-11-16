@@ -1,0 +1,59 @@
+ 
+Santiago, 15 de septiembre de 2026 
+Señor 
+Rodrigo Espinoza Vilches 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+Presente 
+REF: [1] Carta DE 05854-26 “Solicita antecedentes técnicos de 
+los relés con función de gradiente de frecuencia (ROCOF) 
+asociados a esquemas EDAC y EDAG. " 
+ 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, nos referimos a la carta enviada por el Coordinador Eléctrico Nacional mediante REF 
+[1], en donde se solicita antecedentes técnicos de los relés con función de gradiente de frecuencia (ROCOF) 
+asociados a esquemas EDAC y EDAG.  
+ 
+Al respecto, debemos informar que el esquema EDAC que fue implementado en nuestras instalaciones años 
+atrás actualmente no se encuentra operativo, debido a cambios ocurridos en nuestras faenas y operaciones. 
+ 
+Con el propósito de subsanar esta situación, Sociedad Química y Minera de Chile S.A. se encuentra 
+desarrollando un proyecto de implementación del esquema EDAC-BF, con el fin de restablecer su operatividad 
+de acuerdo con las condiciones actuales de nuestras instalaciones. 
+ 
+En relación con lo anterior, hemos mantenido contacto con el Sr. Jorge Vargas, Jefe del Departamento de 
+Modelación y Aplicación EMS de la Gerencia de Operaciones del Coordinador Eléctrico Nacional, a quien hemos 
+informado sobre el estado de avance y los plazos asociados a la implementación antes señalada. 
+ 
+En consecuencia, actualmente no nos encontramos en condiciones de responder al requerimiento N.° 1000095 
+del portal Omnicanal con los antecedentes solicitados. No obstante, el diseño del sistema que estamos 
+implementando contempla la incorporación y disponibilidad de toda la información requerida, de modo que esta 
+pueda ser remitida una vez que se cuente con la Puesta en Servicio (PES) del sistema. 
+ 
+Sin otro particular, y quedando atentos a sus comentarios,  
+ 
+Se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Godoy 
+Encargado Suplente 
+Sociedad Química y Minera de Chile S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

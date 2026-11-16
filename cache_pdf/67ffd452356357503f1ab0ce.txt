@@ -1,0 +1,99 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 15 de abril de 2025 
+ 
+    
+DE 02259-25 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación Potencia Máxima de la Central PFV 
+Gran Teno, del coordinado GR Algarrobo SpA. 
+[1] Carta GR-CHL0004A-567/2024 de GR Algarrobo 
+SpA, Referencia: “1) Informa envío de Informes de 
+Potencia Máxima, Parámetros de Partida y Detención 
+y 2) Solicita prórroga para el estudio de Mínimo 
+Técnico PFV Gran Teno – NUP 3455”, de fecha 23 
+de septiembre de 2024. Ingreso DE05379-24. 
+[2] Carta DE 03968-24, Referencia.: “Informes 
+Técnicos de Parámetros Operacionales de la Central 
+PFV Gran Teno, del coordinado GR Algarrobo SpA.”, 
+de fecha 08 de agosto de 2024. 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en los Artículos 24 y 39 del Anexo Técnico “Pruebas de 
+Potencia Máxima en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de potencia máxima de la Central PFV Gran Teno, en conformidad con el 
+informe técnico final de Potencia Máxima recibido mediante carta de la Referencia [1].  
+ 
+Se deja constancia que en el plazo establecido por el Artículo 23 del Anexo Técnico en 
+aplicación no se recibieron observaciones de Coordinado alguno al informe técnico 
+publicado en la página web del Coordinador mediante carta de la Referencia [2]. Por su 
+parte, el Coordinador Eléctrico envió observaciones de carácter técnico al coordinado GR 
+Algarrobo SpA, las que han sido publicadas en conjunto con el informe final de Potencia 
+Máxima, en la ruta indicada más adelante.  
+ 
+Conforme a lo anterior, los valores de los parámetros de Potencia Máxima de la Central 
+PFV Gran Teno, se presentan en la siguiente tabla: 
+ 
+Tabla N°1: Parámetros de Potencia Máxima Parque Fotovoltaico Gran Teno 
+Central/unidad 
+Potencia Máxima 
+Bruta [MW] 
+SS.AA. 
+[MW] 
+Pérdidas en la 
+central(1) [MW] 
+Potencia 
+Máxima Neta(2) 
+[MW] 
+PFV Gran Teno 
+139,8624  
+0,2742 
+0,5063 
+139,0819 
+(1) Este valor corresponde a las pérdidas en el transformador de poder de la central (0,2710MW), más las 
+pérdidas en el sistema colector y transformador de bloque de la central estimadas en (0,2353 MW) 
+(2) Potencia inyectada en la barra de 154 kV de S/E Solís. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Al respecto, comunico a Ud. que los parámetros de potencia máxima de la Central PFV 
+Gran Teno, entrarán en vigencia a partir de las 00:00 horas del 22 de abril de 2025. 
+ 
+El informe técnico final de Potencia Máxima de la Central PFV Gran Teno, que contiene la 
+justificación de los parámetros indicados anteriormente, y las minutas de observaciones 
+enviadas al coordinado GR Algarrobo SpA, pueden ser descargados en la siguiente ruta 
+del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación > Parámetros Operacionales de Unidades Generadoras > Potencia 
+Máxima > Pruebas de Potencia máxima > Central PFV Gran Teno 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+GZV/PPF/DGQ 
+c.c.: Sr. Cristián Soto – Encargado Titular GR Algarrobo SpA 
+DAA, DAEP, DIT, DPID, DPRO, DSCGx, DSCTx, DTE-SSCC, DTPT, DAOP, DCONEC, DCO, SGESO, SGPAE, SGTM 
+ 
+ 

@@ -1,0 +1,232 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 08 de septiembre de 2025 
+DE 05641-25 
+Señora 
+Carolina Vélez 
+Encargado Titular 
+GM Holdings S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicio Complementario (SC) de Control Primario de 
+Frecuencia de la central TER Santa Lidia. 
+[1] Carta GM 2024-012 de GM Holdings S.A., Ref.: 
+“Envío informe de Verificación de SSCC Central Santa 
+Lidia”, de fecha 30 de enero de 2024. 
+Responde a Ingreso DE00797-24. 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el 
+Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado 
+el proceso de verificación del Servicio Complementario (SC) de Control Primario de 
+Frecuencia (CPF) de la central TER Santa Lidia. 
+ 
+Como resultado de este proceso, la central mencionada quedará habilitada para la 
+prestación del mencionado servicio a partir de las 00:00 del 11 de septiembre de 2025, 
+considerando los recursos indicados en anexo de la presente carta.  
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CPF de la central TER Santa Lidia se ha publicado en la siguiente ruta de la 
+página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Primario de Frecuencia > TER Santa Lidia 
+En base a los artículos 5-7 y 5-8 de la NTSSCC, de manera excepcional, para la evaluación 
+de desempeño se podrán utilizar medios alternativos para poder realizar la evaluación de 
+desempeño de la prestación del SC de CPF, los que deberán ser aprobados previamente 
+por el Coordinador. 
+Finalmente, la central TER Santa Lidia podrá participar de las subastas de CPF una vez 
+que complete el proceso de solicitud de incorporación a la plataforma de subastas. Para 
+ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, la central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del mencionado SC. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PGR/adr 
+c.c.:  
+Sr. Sebastián Navarrete – Encargado Suplente GM Holdings S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central  
+TER Santa Lidia 
+ 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Santa Lidia 
+• 
+Potencia máxima bruta 142,3 [MW] 
+• 
+Potencia mínima bruta 30,0 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+En el caso de la banda muerta, los ensayos se realizaron con un valor de 0 [mHz], 
+quedando este valor ajustado en el controlador. 
+• 
+Estatismo (R) actual se encuentra ajustado al 5%. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado GM Holdings S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tabla en la página siguiente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Primario de Frecuencia: 
+SSCC 
+  
+Control de Frecuencia 
+Categoría   
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+ 
+Valor determinado 
+Características del 
+Controlador de 
+Frecuencia 
+Rango ajuste Estatismo 
+4 a 8% 
+Estatismo 
+5% 
+Banda muerta [mHz] (1) 
+0 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite Regulación Superior [MW] (2) 
+142,3 
+Límite Regulación Inferior [MW] (3) 
+30,0 
+Aportes (4) 
+ BM = 0 [mHz]  
+R = 5% 
+10 segundos 
+Aporte +0,2[Hz] [MW] 
+-10,98 
+Aporte -0,2[Hz] [MW] 
+10,82 
+Aporte +0,7[Hz] [MW] 
+-39,32 
+Aporte -0,7[Hz] [MW] 
+37,50 
+5 minutos 
+Aporte +0,2[Hz] [MW] 
+-11,47 
+Aporte -0,2[Hz] [MW] 
+11,50 
+Aporte +0,7[Hz] [MW] 
+-40,18 
+Aporte -0,7[Hz] [MW] 
+40,00 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 0 [mHz]. 
+(2) Correspondiente a la Potencia Máxima bruta establecido por el Coordinador. 
+(3) Correspondiente al Mínimo Técnico bruto aceptado por el Coordinador. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna inicial de 69,6 [MW]. Adicionalmente, 
+la respuesta de la central es uniforme en todo su rango de operación. 
+ 
+ 

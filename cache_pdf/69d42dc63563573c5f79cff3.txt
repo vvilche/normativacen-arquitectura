@@ -1,0 +1,77 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 06 de abril de 2026 
+DE 02241-26 
+Señor 
+Carlos de la Fuente  
+Encargado Titular 
+Aela Generación S.A.  
+Presente 
+Ref.: EAF 055/2026 - Apertura 
+intempestiva 
+de 
+interruptor 
+52CTSA5 de S/E Central Mampil. 
+ 
+De mi consideración: 
+ 
+Me refiero a la apertura intempestiva de interruptor 52CTSA5 de S/E Central 
+Mampil, ocurrida a las 09:08 horas del día 30 de enero de 2026. 
+ 
+Al respecto, con el objetivo de aclarar debidamente las causas y consecuencias del 
+evento en cuestión, en conformidad con lo que establece el Título 6-7, y en 
+particular, el Artículo 6-44 de la Norma Técnica de Seguridad y Calidad de Servicio, 
+y en virtud de las modificaciones aplicadas al proceso de los Estudios para Análisis 
+de Falla, instruidas por la Superintendencia de Electricidad y Combustibles 
+mediante las Resoluciones Exentas N°30989-2019 y N°30891-2019, solicito a usted 
+remitir al Coordinador antes de las 18:00 horas del día 13 de abril de 2026 la 
+siguiente información: 
+ 
+• 
+Revisión de sus instalaciones para aclarar el origen y punto de ubicación de la 
+falla. Cabe destacar que en el Informe de Falla de 5 días de Coopelan esta 
+empresa declara falla externa “Apertura de LAT, falla a nivel de transmisión 
+cuyo origen es externo”. Asimismo, el análisis propio del Coordinador sobre la 
+protección actuada en el paño CTSA5 de la S/E Central Mampil, indica que la 
+falla no habría estado en el alimentador de Coopelan. 
+• 
+En base a los resultados del ítem anterior, proposición acerca del origen de la 
+falla (Externa, Interna, Fuerza Mayor o Caso Fortuito), junto con los 
+antecedentes probatorios que respalden dicha proposición. 
+• 
+Revisión de la identificación de la protección perada en el paño CTSA5 de la 
+S/E Central Mampil. 
+• 
+Corrección de los datos de la empresa propietaria de la instalación y elemento 
+afectado. En particular, se debe corregir en el Informe de Falla el Nombre 
+Empresa y RUT, ya que según nuestros registros (REUC y plataforma de 
+Infotécnica) la empresa Aela Generación S.A sustituyó a la empresa Duqueco 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+SpA, y su representada sigue informando bajo el propietario anterior, lo cual 
+no corresponde. 
+• 
+Se solicita cronograma de trabajo con fechas definidas para la actualización 
+del propietario de las instalaciones de Duqueco SpA. en el Sistema Neomante. 
+• 
+Otros antecedentes que su representada considere relevantes en relación con 
+lo solicitado. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ 
+c.c.:  
+Sr. Nicolas Correa.- Encargado Suplente Aela Generación S.A. 
+DAOP/rgd 

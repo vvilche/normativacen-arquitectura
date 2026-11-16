@@ -1,0 +1,35 @@
+ 
+Santiago, 23 de mayo de 2025 
+PE2510 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Santiago 
+Presente 
+Ref.: Solicitud de autorización para verificaciones del funcionamiento del CPF, CTF y CT – 
+El Pelícano Solar 
+Mediante la presente, solicitamos a usted la autorización correspondiente para llevar a 
+cabo una serie de verificaciones del funcionamiento del control primario de frecuencia, 
+control terciario de frecuencia y del sistema de control de tensión de la planta El Pelícano 
+Solar. Estas pruebas se proyectan para la primera semana de junio, en una fecha específica 
+por definir, sujeta a la aprobación de esta solicitud. 
+El objetivo principal de estas verificaciones es confirmar el correcto funcionamiento de la 
+programación actual del PPC, así como la activación de los sistemas mencionados a través 
+del SCADA de la planta, en cumplimiento con los requerimientos establecidos por ese 
+Coordinador. Lo anterior, con el fin de asegurar una operación confiable y segura del parque 
+en el Sistema Eléctrico Nacional. 
+Cabe señalar que las pruebas no deberían exceder un tiempo de ejecución de dos horas y 
+se realizarían en una única jornada dentro de la semana señalada. Una vez aprobada esta 
+solicitud, se procederá con el ingreso formal de la solicitud de trabajo correspondiente 
+mediante la plataforma Neomante. 
+Agradecemos de antemano su atención y quedamos atentos a sus comentarios o a 
+cualquier antecedente adicional que estimen necesario para el análisis y aprobación de esta 
+solicitud. 
+Sin otro particular, saludamos atentamente, 
+ 
+ 
+______________________________________ 
+Benjamín Rivadeneira 
+Gerente de Proyectos 
+El Pelícano Solar 

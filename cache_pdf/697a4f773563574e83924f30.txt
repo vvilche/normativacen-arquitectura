@@ -1,0 +1,78 @@
+ 
+Grenergy Renovables Pacific Ltda 
+RUT: 76.257.813-1 
+Avda. Isidora Goyenechea 2800, oficina 3702 – Las Condes – Santiago 
+Tel.: 56 (2) 22483253 
+ 
+1 
+ Santiago, 28 de enero de 2026 
+GR-CHL0005A-23/2026 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Mat.: Entrega de Informes Técnicos de la Verificación de 
+Instalaciones para la Prestación de SSCC de Control de Tensión, 
+Control Primario y Terciario de Frecuencia. 
+NUP 2139 PF Víctor Jara 200MW - Etapa 02 y NUP 4635 BESS 
+Victor Jara 200MW. 
+ 
+De nuestra consideración: 
+En conformidad con lo señalado en el capítulo 5 del Instructivo Técnico para la Verificación de 
+Instalaciones para la prestación de SSCC, por medio de la presente venimos en hacer entrega de 
+los siguientes informes técnicos de verificación de instalaciones para la prestación de SSCC:  
+a) CT_pfv bess vj - EEMT-2025-564-832-R0 - Informe de Verificación de SSCC CT PFV BESS 
+Victor Jara. 
+b) CPF_pfv bess vj - EEMT-2025-564-833-R0 - Informe de Verificación de SSCC CPF PFV 
+BESS Victor Jara 
+c) CTF_pfv bess vj - EEMT-2025-564-834-R0 - Informe de Verificación de SSCC CTF PFV 
+BESS Victor Jara. 
+Cabe señalar que, al momento de la ejecución de los ensayos, el proyecto se encontraba sujeto 
+a restricciones operativas del sistema de transmisión, informadas por el Coordinador 
+Eléctrico Nacional, las cuales impidieron la operación del parque a su potencia nominal 
+durante las pruebas. Dichas restricciones se originan por condiciones de riesgos de 
+sobrecargas por posibles escenarios de falla en la S/E Pozo Almonte, las que no son 
+imputables al propietario de las instalaciones evaluadas en los presentes informes. 
+Como consecuencia de esta limitación lo anterior, algunos ensayos se realizaron a la máxima 
+potencia disponible autorizada por el sistema, alcanzando valores del orden de 150 a 180 
+MW, según corresponda, lo que representa aproximadamente un 75 % a 90 % de la potencia 
+nominal del conjunto PFV + BESS Víctor Jara. 
+Respecto a la Verificación de SSCC de Control Secundario de Frecuencia, es del caso informar 
+que se coordinarán las actividades con el Departamento de Modelación y Aplicaciones EMS del 
+Coordinador Eléctrico Nacional. 
+Finalmente, indicamos que los antecedentes entregados por la presente comunicación fueron 
+copiados al correo verificacion.sscc@coordinador.cl y cargados en la Plataforma de Gestión de 
+Conexión de Proyectos. 
+ 
+
+ 
+Grenergy Renovables Pacific Ltda 
+RUT: 76.257.813-1 
+Avda. Isidora Goyenechea 2800, oficina 3702 – Las Condes – Santiago 
+Tel.: 56 (2) 22483253 
+ 
+2 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Rodrigo Hernández P. 
+P.p GR Chañar SpA 
+  
+cc: 
+Gretchen Zbinden – Subgerenta de Análisis y Soporte Operacional – Coordinador Eléctrico Nacional 
+Luis Calabrán – Jefe Departamento Análisis de la Operación – Coordinador Eléctrico Nacional  
+Carla Hernandez – Subgerenta Interconexión de Proyectos – Coordinador Eléctrico Nacional  
+María Gabriela Malavé – Jefa Departamento Conexiones – Coordinador Eléctrico Nacional  
+Cristopher Torres – Ingeniero de Departamento Conexiones – Coordinador Eléctrico Nacional 
+Cristian Reyes – Jefe Departamento Control de la Operación – Gerencia de Operación del Coordinador 
+Eléctrico Nacional 
+ 
+RODRIGO JAVIER 
+HERNANDEZ PALMA
+Firmado digitalmente por 
+RODRIGO JAVIER HERNANDEZ 
+PALMA 
+Fecha: 2026.01.28 10:22:50 -03'00'

@@ -1,0 +1,70 @@
+ 
+ 
+OR-000243-2026 
+ 
+Santiago, 28/08/2026 
+ 
+Señor 
+Ramón Castañeda P. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA:  
+1) Respuesta a Carta DE05315-26: Incumplimiento de plazos en la implementación de PMU y 
+PDC del Módulo de Medición Fasorial del Coordinador. 
+2) Carta OR-000052-2026, de fecha 19 de febrero de 2026. 
+ 
+De nuestra consideración: 
+ 
+En atención a la comunicación de la referencia 1), mediante la cual se solicita informar las razones 
+que explican el retraso en la implementación del punto de monitoreo identificado para Transelec 
+como “Los Changos – Kimal 500 kV C1 – Paños K2 y K3 de S/E Kimal”, junto con las acciones 
+realizadas y aquellas previstas para completar su implementación, y en concordancia con lo 
+informado previamente mediante comunicación de la referencia 2), informamos lo siguiente. 
+ 
+A la fecha, la unidad de medición fasorial (PMU) asociada a los paños K2 y K3 de la S/E Kimal se 
+encuentra implementada, el canal de comunicación asociado se encuentra implementado y 
+probado, y también se dispone de la licencia requerida para su integración al concentrador de datos 
+(PDC). 
+ 
+Por su parte, el nuevo PDC de la S/E Encuentro, mediante el cual se realizará la integración de este 
+punto de medida (PMU) hacia el Coordinador Eléctrico Nacional (en adelante, Coordinador), se 
+encuentra actualmente en condiciones para recibir la integración de la PMU y comunicarse hacia el 
+Coordinador. 
+ 
+El retraso respecto de la fecha comprometida se encuentra asociado a estas actividades finales de 
+integración, principalmente a la ejecución de la conexión física entre el multiplexor (MUX) y el nuevo 
+PDC de la S/E Encuentro, junto con la adecuación y configuración del firewall correspondiente. 
+ 
+Con el objetivo de completar la implementación, durante septiembre de 2026 se ejecutarán los 
+trabajos asociados a la conexión física MUX–PDC, la adecuación y configuración del firewall, la 
+Docusign Envelope ID: C3012303-00A5-8747-817B-647A89148F49
+
+ 
+ 
+integración de la PMU al PDC de la S/E Encuentro y las pruebas necesarias para dejar el punto de 
+medida transmitiendo hacia el Coordinador. 
+ 
+Posteriormente, durante la primera quincena de octubre de 2026 se contempla realizar, en 
+coordinación con el Coordinador, el período de validación y marcha blanca, incluyendo la 
+verificación de la transmisión y validación de los datos recibidos. 
+ 
+Transelec mantendrá informado al Coordinador respecto del avance de estas actividades y 
+comunicará oportunamente la finalización del proceso de integración y validación operativa del 
+punto de medida. 
+ 
+Sin otro particular, saludan atentamente a usted 
+ 
+ 
+TRANSELEC S.A., 
+ 
+ 
+ 
+ 
+ 
+María José Reveco 
+Gerente Gestión de Redes 
+Docusign Envelope ID: C3012303-00A5-8747-817B-647A89148F49

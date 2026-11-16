@@ -1,0 +1,58 @@
+ 
+Santiago, 5 de agosto de 2026 
+Sr. Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Condición para la prestación de Control Dinámico 
+de Tensión (CDT). 
+[1] Carta DE04209-26 del 02 de julio de 2026 
+ 
+De nuestra consideración: 
+Nos referimos a su carta de Ref. [1], mediante la cual se solicita una justificación técnica respecto 
+de la limitación ingresada para la Central PFV Granja Solar en la prestación del Servicio 
+Complementario de Control Dinámico de Tensión (CDT).  
+Al respecto, mediante la presente queremos explicar los antecedentes que dieron origen a la 
+limitación informada para la operación de la central en modo de Control Dinámico de Tensión. 
+Durante el proceso de integración del sistema de almacenamiento BESS de Granja Solar, y como 
+parte de los requerimientos asociados a dicho proyecto, fue necesario modificar la referencia de 
+control del Power Plant Controller (PPC) desde el nivel de tensión de 220 kV hacia 33 kV, conforme a 
+los requerimientos operacionales indicados para la correcta integración del sistema BESS. 
+Con fecha 25 de mayo de 2026, el fabricante del PPC (Ingeteam) efectuó dicha modificación. 
+Posteriormente, se presentaron inconvenientes en el comportamiento del sistema de control que 
+derivaron en la desconexión forzada de la central y requirieron la realización de ajustes adicionales 
+al PPC, ejecutados durante los días siguientes. La central retomó su operación el 1 de junio de 2026.  
+Con posterioridad, el 6 de junio de 2026, el Coordinador instruyó la prestación del Servicio 
+Complementario de Control Dinámico de Tensión, oportunidad en la cual, de manera preventiva, se 
+informó que la central no se encontraba en condiciones de prestar dicho servicio, debido a que las 
+modificaciones efectuadas al PPC aún se encontraban en proceso de revisión y validación. 
+Posteriormente, el 10 de julio de 2026, durante las pruebas del conjunto PFV + BESS, se detectaron 
+observaciones relacionadas con el comportamiento del Control Dinámico de Tensión, las cuales 
+fueron informadas al fabricante para su análisis y corrección. 
+Como resultado de dicho proceso, el 30 de julio de 2026 el fabricante realizó nuevos ajustes al PPC. 
+Posteriormente, junto con personal de operación y mantenimiento, se efectuaron pruebas 
+funcionales que permitieron verificar el correcto funcionamiento de los modos de control de 
+tensión, frecuencia, factor de potencia, potencia activa y potencia reactiva. 
+
+ 
+No obstante, lo anterior, la validación formal de la capacidad de la central para prestar el Servicio 
+Complementario de Control Dinámico de Tensión quedará respaldada mediante las pruebas 
+integrales pendientes del conjunto PFV + BESS, las cuales serán retomadas a partir del 17 de agosto 
+de 2026 por la empresa Estudios Eléctricos. El informe técnico correspondiente se estima 
+disponible durante la primera quincena de septiembre de 2026 y será incorporado al expediente del 
+NUP 5760, correspondiente al proceso de Puesta en Servicio del proyecto BESS Granja Solar. 
+En consecuencia, estimamos que la condición que dio origen a la limitación informada corresponde 
+a una situación transitoria, actualmente en proceso de validación final, quedando nuestra 
+representada a disposición de ese Coordinador para remitir el informe técnico una vez concluido el 
+proceso de pruebas y coordinar las acciones necesarias para el levantamiento de la limitación. 
+ 
+Sin otro particular, le saluda atentamente. 
+ 
+ 
+ 
+María José Quiroga. 
+Encargado Titular  
+Central Granja Solar 
+Copec Renovables SpA 
+ 

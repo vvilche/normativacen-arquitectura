@@ -1,0 +1,43 @@
+ 
+ 
+OR-000279-2025 
+ 
+Santiago, 15/12/2025 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+REFERENCIA: EAF 478/2025: Apertura intempestiva del interruptor 52H3 de S/E Cardones. 
+De nuestra consideración: 
+En respuesta a su carta DE07787-25, en relación con el EAF 478/2025 relacionado con la apertura 
+intempestiva del interruptor 52H3 de S/E Cardones, señalamos lo siguiente:  
+Respecto a la solicitud de mayores antecedentes sobre la no activación de la etapa de tiempo 
+definido de la protección de sobrecorriente de fase en el relé MiCOM P443 del paño H3 de S/E 
+Cardones, informamos que en el proceso de observaciones del Estudio de Coordinación y Ajuste de 
+Protecciones (ECAP) del proyecto NUP 880 "Ampliación en SE Copayapu", Transelec indicó que, 
+según su filosofía de protecciones, no se ajustan funciones de sobrecorriente de fase de carácter 
+permanente para control de sobrecargas en instalaciones cuya capacidad tiene una naturaleza 
+variable (conductor de línea), razón por la cual dicho ajuste debía quedar consignado como de 
+emergencia. De acuerdo con esta filosofía, consideramos que es responsabilidad del operador del 
+sistema velar por mantener los niveles de sobrecarga dentro de los márgenes seguros de operación. 
+No obstante lo anterior, tras el proceso de revisión del EAP 31-2021_V1 —previamente remitido al 
+Coordinador Eléctrico Nacional (CEN)— y del análisis del Print Out de dicha protección, se concluyó 
+que, dado que la línea protegida pertenece a un tercero, el ajuste de 372 A (capacidad del conductor 
+a 25°C) propuesto para la protección MiCOM P443 del paño H3 de S/E Cardones debe quedar 
+configurado de manera permanente y no como emergencia, tal como indica el ECAP del proyecto 
+NUP 880. 
+En virtud de lo expuesto, y con el objetivo de subsanar lo informado y aprobado en el EAP 31-
+2021_V1, Transelec ha procedido a emitir el EAP 096-2025, el cual modifica la función de 
+sobrecorriente de fase de tiempo definido de 372 A para dejarla habilitada de forma permanente. 
+Cabe señalar que dicho documento ya ha sido remitido al CEN vía correo electrónico; no obstante, 
+se adjunta igualmente a la presente carta para su formalización, revisión y validación, con el fin de 
+programar posteriormente los trabajos asociados en conformidad con su aprobación. 
+Sin otro particular, saludan atentamente a usted 
+TRANSELEC S.A., 
+ 
+_______________ 
+María José Reveco 
+Gerente Gestión de Redes 

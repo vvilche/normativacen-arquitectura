@@ -1,0 +1,151 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Santiago, 29 de enero de 2026 
+DE 00654-26 
+ 
+ 
+Señores 
+Encargados 
+Según lista de Distribución 
+Presente 
+ 
+Ref.:  Solicita implementar el envío al SITR del 
+Coordinador de la señal de Potencia Disponible en 
+parques ERV. 
+De mi consideración: 
+Me refiero al artículo 3-20 de la NT de SyCS, donde se establece que las unidades 
+generadoras que operen conectadas al Sistema Eléctrico Nacional deberán contar con un 
+sistema de comunicación para proveer al Coordinador toda la información que éste 
+determine necesaria para efectos de la supervisión y coordinación de la operación del SI 
+en Tiempo Real (SITR), cuyas exigencias de calidad se encuentran definidas en el 
+Capítulo 4 de esa NT y en el Anexo Técnico "Definición de Parámetros Técnicos y 
+Operativos para el envío de Datos al SITR". En particular, Ese AT señala que se deberán 
+enviar al SITR del Coordinador, con la calidad del dato y disponibilidad mensual mínima 
+requerida, la señal correspondiente a la Potencia Activa Disponible (MW) que puede 
+generar en todo momento cada parque solar y eólico, considerando tanto el recurso 
+primario con que cuenta, así como la disponibilidad de las instalaciones físicas asociadas.  
+Al respecto, según el levantamiento de información que realizamos al estado actual de las 
+señales SITR configuradas en nuestro SCADA, su representada se encuentra 
+incumpliendo esta exigencia normativa para los parques generadoras indicadas en el 
+Anexo 1. Por lo tanto, le solicitamos el envío a más tardar el 13 de febrero de 2026 del 
+plan de acción que llevará a cabo su representada para efectos de implementar el envío a 
+través del SITR de la señal de potencia disponible antes del 31 de marzo de 2026. 
+ 
+Por otra parte, en caso de requerir consultas, pruebas SITR u otra gestión en relación con 
+lo solicitado, agradeceré comunicarse directamente a las direcciones electrónicas 
+dmap@coordinador.cl y tec.scada@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GO/SGASO/SGOTR/DMAP/DCST/DSE 
+Incluye: Lo Indicado 
+Cc: Sra. Marta Cabeza V., Superintendencia de Electricidad y Combustible 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+ANEXO 1 
+Parques con señal de Potencia Disponible (MW) de parques ERV no implementadas 
+en el SITR del Coordinador 
+ 
+ 
+ 
+ALBA SPA 
+PE SAN PEDRO 
+BOLERO SPA 
+PFV BOLERO 
+COMPAÑÍA BARRICK CHILE GENERACIÓN SPA 
+PE PUNTA COLORADA 
+ENEL GENERACIÓN CHILE S.A. 
+PE CANELA 
+ENEL GREEN POWER CHILE S.A. 
+PE RENAICO I 
+ENEL GREEN POWER CHILE S.A. 
+PFV LALACKAMA II 
+ENERGÍAS UCUQUER DOS S.A. 
+PE UCUQUER II 
+RÍO ALTO SPA 
+PE SAN PEDRO II 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+LISTA DE DISTRIBUCIÓN 
+ 
+ALBA SPA 
+BOLERO SPA 
+COMPAÑÍA BARRICK CHILE GENERACIÓN SPA 
+ENEL GENERACIÓN CHILE S.A. 
+ENEL GREEN POWER CHILE S.A. 
+ENERGÍAS UCUQUER DOS S.A. 
+RÍO ALTO SPA 
+VIENTOS PATAGÓNICOS SPA 
+
+COMPROBANTE RECEPCION OFICINA DE PARTES SEC DE 
+COPIA CARTA DE00654-26 
+ 
+ 
+ 
+ 
+De: info@sec.cl <info@sec.cl>  
+Enviado el: jueves, 29 de enero de 2026 16:42 
+Para: Alejandra Domínguez Rivera <Alejandra.Dominguez@coordinador.cl> 
+Asunto: Informa Ingreso OP Virtual N°373869 
+ 
+ 
+[ CORREO EXTERNO. Solo abra links o adjuntos de remitentes conocidos, no revele 
+sus contraseñas]  
+ 
+ 
+ 
+Estimado(a) Coordinador Electrico Nacional 
+La informacion enviada, a nuestra Oficina de Partes Virtual, 
+ha sido recibida exitosamente y registrada con el N° de OP 
+373869, si cumple todos los patrones necesarios, 
+procederemos a realizar el ingreso a nuestros sistemas, 
+para 
+ser 
+derivado 
+a 
+la 
+oficina 
+SEC SANTIAGO. 
+ 
+¡Gracias 
+por 
+comunicarse 
+con 
+la 
+SEC! 
+ 
+www.sec.cl  
+ 
+ 
+ 
+Este es un mensaje automatico y solo tiene fines informativos, por 
+lo que le solicitamos no responder el presente mail. 
+Se ha enviado sin tildes u otros caracteres especiales a fin de 
+evitar posibles errores de lectura a traves de su software de correo 
+electronico.  
+ 
+ 

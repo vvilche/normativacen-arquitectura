@@ -1,0 +1,223 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 04 de agosto de 2026 
+DE 05202-26 
+Señor 
+Miguel Buzunariz 
+Encargado Titular 
+Enel Green Power Chile S.A. 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+de la componente de almacenamiento de la Central 
+Renovable con Capacidad de Almacenamiento PFV 
+Don Humberto. 
+ 
+[1] Carta EGP 074-26 de Enel Green Power Chile S.A., 
+Ref.: “BESS PFV El Manzano, BESS PE La Cabaña, 
+BESS PFV Don Humberto – Informe Final Control de 
+Tensión”, de fecha 16 de junio de 2026. 
+Responde a Ingreso DE05596-26. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control de 
+Tensión del BESS Don Humberto. 
+ 
+Como resultado de este proceso, la instalación mencionada queda habilitada para la 
+prestación del mencionado servicio complementario a partir de las 00:00 del 06 de agosto 
+de 2026, considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CT del BESS Don Humberto se encuentra publicado en la siguiente ruta de 
+la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > CRCA PFV Don Humberto 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+WJS/cfp 
+c.c.: 
+Sr. Adrián Guzmán – Encargado Suplente Enel Green Power Chile S.A. 
+
+ 
+1 Los signos negativos hacen referencia a la convención utilizada para identificar la carga del BESS. 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC del BESS Don 
+Humberto. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+Los parámetros operacionales correspondientes al modo de carga del BESS Don 
+Humberto, considerados para el presente proceso de verificación, fueron estimados a partir 
+de los parámetros del modo de descarga aprobados por el Coordinador Eléctrico, 
+considerando el signo negativo correspondiente a la carga del BESS.  
+a) BESS Don Humberto  
+i) BESS Don Humberto - Modo descarga 
+• 
+Potencia máxima bruta: 60,696 [MW] 
+• 
+Potencia máxima neta:  59,961 [MW] 
+• 
+Potencia mínima bruta: 0,522 [MW] 
+• 
+Potencia mínima neta: 0,137 [MW]  
+ii) BESS Don Humberto - Modo carga1 
+• 
+Potencia máxima bruta: - 59,961 [MW] 
+• 
+Potencia máxima neta:  - 60,696 [MW] 
+• 
+Potencia mínima bruta: - 0,137 [MW] 
+• 
+Potencia mínima neta: - 0,522 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión (CT)  Control de Tensión (CT) 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Enel Green Power 
+Chile S.A.
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategoría. 
+a) Control de tensión: 
+i. 
+Control de Tensión, BESS Don Humberto - Modo descarga 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Instalación 
+Recurso 
+Primario 
+  
+Tensión [pu]  
+Potencia Reactiva [MVAr]  
+Potencia [MW]   
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+BESS 
+Don Humberto Baterías 
+60 
+-26,91 -26,91 -26,91 -26,91 -26,91 
+40 
+-61,30 -61,60 -61,52 -61,45 -61,38 
+20 
+-58,83 -58,94 -58,89 -58,84 -58,79 
+0 
+-57,76 -58,00 -57,95 -57,91 -57,86 
+0 
+48,17 48,25 48,29 48,23 48,28 
+20 
+47,45 47,52 47,45 47,51 47,57 
+40 
+45,15 45,25 45,18 45,24 45,31 
+60 
+19,20 19,15 19,13 19,21 19,29 
+ 
+ii. 
+Control de Tensión, BESS Don Humberto - Modo carga 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Instalación 
+Recurso 
+Primario 
+  
+Tensión [pu]  
+Potencia Reactiva [MVAr]  
+Potencia [MW]   
+0,9 
+0,95 
+1 
+1,05 
+1,1 
+BESS 
+Don Humberto Baterías 
+0 
+-57,76 -58,00 -57,95 -57,91 -57,86 
+-20 
+-58,66 -58,63 -58,87 -58,82 -58,77 
+-40 
+-61,38 -61,32 -61,26 -61,61 -61,53 
+-60 
+-21,80 -21,80 -21,80 -21,80 -21,80 
+-60 
+24,41 24,24 24,30 24,36 24,42 
+-40 
+45,51 45,38 45,47 45,55 45,45 
+-20 
+47,62 47,53 47,60 47,52 47,58 
+0 
+48,17 48,25 48,29 48,23 48,28 
+ 

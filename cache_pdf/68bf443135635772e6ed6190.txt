@@ -1,0 +1,373 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 08 de septiembre de 2025 
+DE 05645-25 
+Señor 
+Sebastián Ruiz-Tagle 
+Encargado Titular 
+Colbún S.A 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario de Frecuencia y Control Terciario de 
+Frecuencia de las unidades 1 y 2 de Central HE 
+Canutillar. 
+Responde a Ingresos DE04419-25, DE04420-25, 
+DE04994-25 y DE04995-25. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de las Ref. [1] a [4], comunico a Ud. que, en cumplimiento con 
+lo establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los Servicios Complementarios 
+(SSCC) de Control Primario de Frecuencia (CPF) y Control Terciario de Frecuencia (CTF) 
+de las unidades 1 y 2 de Central HE Canutillar. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio a partir de las 00:00 del 11 de septiembre de 2025, considerando 
+los recursos indicados en el anexo a la presente carta.  
+Al respecto, en el anexo a la presente comunicación se presenta la información indicada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF y CTF de las unidades 1 y 2 de Central HE Canutillar se encuentran 
+publicados en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > 
+ 
+1. Control Primario de Frecuencia > Central HE Canutillar 
+2. Control Terciario de Frecuencia > Central HE Canutillar 
+ 
+Finalmente, las unidades 1 y 2 de la central HE Canutillar podrán participar de las subastas 
+de Control de Frecuencia una vez que complete el proceso de solicitud de incorporación a 
+la plataforma de subastas. Para ello, su representada deberá presentar los antecedentes 
+indicados en las Bases Administrativas de Subastas para Control de Frecuencia, que se 
+encuentran publicadas en la siguiente ruta de la página web del Coordinador Eléctrico 
+Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, las unidades podrán ser instruidas de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/WJS/adr 
+c.c.: Empresas Coordinadas 
+Sra. Javiera Gutiérrez – Encargada Suplente Colbún S.A. 
+ 
+Referencias: 
+ 
+[1] Carta GO N°084/2025 de Colbún S.A, Ref.: “Informe Técnico de pruebas de verificación 
+de Control Terciario de Frecuencia de la Unidad Generadora N°1 de la central Canutillar.”, 
+de fecha 30 de abril de 2025. Ingreso DE04419-25. 
+ 
+[2] Carta GO N°085/2025 de Colbún S.A, Ref.: “Informe Técnico de pruebas de verificación 
+de Control Terciario de Frecuencia de la Unidad Generadora N°2 de la central Canutillar.”, 
+de fecha 19 de abril de 2025. Ingreso DE04420-25. 
+ 
+[3] Carta GO N°108/2025 de Colbún S.A, Ref.: “Informe Técnico de pruebas de verificación 
+de Control Primario de Frecuencia de la Unidad Generadora N°1 de la central Canutillar.”, 
+de fecha 19 de mayo de 2025. Ingreso DE04994-25. 
+ 
+[4] Carta GO N°109/2025 de Colbún S.A, Ref.: “Informe Técnico de pruebas de verificación 
+de Control Primario de Frecuencia de la Unidad Generadora N°2 de la central Canutillar.”, 
+de fecha 19 de mayo de 2025. Ingreso DE04995-25. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central HE Canutillar 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central HE Canutillar U1 y U2 (para cada una de las unidades) 
+• 
+Potencia máxima bruta 86 [MW]. 
+• 
+Potencia máxima neta 85,785 [MW]. 
+• 
+Potencia mínima bruta 40 [MW]. 
+• 
+Potencia mínima neta 39,785 [MW]. 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia 
+(CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Central con rango de ajuste de estatismo (R) del 4% al 6%. 
+• 
+El estatismo puede ser ajustado por el operador de la central, no así la banda 
+muerta, que se mantiene fija en un valor de 25 mHz. 
+• 
+El estatismo (R) se encuentra ajustado en 6%. 
+• 
+El tiempo de establecimiento de las unidades 1 y 2 de central HE Canutillar es menor 
+a 120 segundos. 
+b) Control Terciario de Frecuencia 
+El rango de ajuste de las tasas de toma de carga de subida y bajada está fijo en su 
+valor nominal de 7,5 MW/min, sin posibilidad de poder ser ajustado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Colbún S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Primario de Frecuencia 
+ 
+SSCC 
+  
+Control de Frecuencia 
+Categor
+ía 
+  
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+  
+U1 
+U2 
+Características del 
+Controlador de Frecuencia 
+Rango de ajuste Estatismo 
+4-6% 
+4-6% 
+Estatismo 
+6% 
+6% 
+Rango de ajuste Banda muerta [mHz] 
+25 
+25 
+Banda muerta [mHz] (1) 
+25 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+<1 
+Límite de regulación superior [MW] (2) 
+86 
+86 
+Límite de regulación inferior [MW] (3) 
+40 
+40 
+Aportes (4) 
+BM = 25 [mHz] 
+R = 6% 
+10 segundos 
+Aporte +0,2[Hz] [MW] 
+-1,95 
+-2,45 
+Aporte -0,2[Hz] [MW] 
+2,4 
+2,92 
+Aporte +0,7[Hz] [MW] 
+-8,41 
+-8,65 
+Aporte -0,7[Hz] [MW]  
+8,74 
+7,63 
+5 minutos 
+Aporte +0,2[Hz] [MW] 
+-5,36 
+-5,25 
+Aporte -0,2[Hz] [MW] 
+5,35 
+5,2 
+Aporte +0,7[Hz] [MW] 
+-19,78 
+-19,54 
+Aporte -0,7[Hz] [MW]  
+18,44 
+20,27 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia máxima bruta informada por el coordinado. 
+(3) Correspondiente a la Potencia mínima bruta aprobada por el Coordinador. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 45,2 MW y 60,3 MW 
+respectivamente. El aporte de la central es uniforme en todo su rango de operación.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+b) Control Terciario de Frecuencia 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Tecnología 
+Parámetro 
+Valor determinado 
+U1 
+U2 
+HE 
+Canutillar 
+Hidráulica Embalse 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+7,6 
+7,5 
+Bajada 
+7,5 
+7,5 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+7,6 
+7,5 
+Bajada 
+7,5 
+7,5 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+<5 
+Bajada 
+<5 
+<5 
+Aporte CTF [MW] (2) 
+Subida 
+46 
+46 
+Bajada 
+-46 
+-46 
+Límite de regulación superior [MW] (3) 
+86 
+86 
+Límite de regulación inferior [MW] (3) 
+40 
+40 
+(1)  El rango de ajuste de las tasas de toma y reducción de carga está fijado en un valor nominal de 7,5 MW/min. 
+(2)  La reserva se determina como la diferencia entre las potencias netas máxima y mínima de la central correspondientes 
+a 85,785 [MW] y 39,785 [MW]. 
+(3) Los límites de regulación, correspondientes a la potencia bruta, y el aporte máximo de CTF podrán verse modificados 
+si se actualizan los parámetros operacionales de la central. 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Central 
+Tecnología 
+Parámetro 
+Valor 
+determinado 
+U1 
+U2 
+HE Canutillar 
+Hidráulica Embalse 
+Tiempo hasta sincronización [min] 
+2,45 
+2,73 
+Tiempo hasta mínimo técnico [min] 
+5,11 
+5,40 
+Reserva Fría [MW]  
+85,785 
+85,785 
+(1) Según parámetros aceptados de PPyD de las unidades Canutillar U1 y U2 la central puede alcanzar su Potencia 
+Máxima en un tiempo de 15 minutos.  
+(2) Las Unidades 1 y 2 pueden operar en paralelo sin restricciones, contando cada una con la capacidad de realizar 
+partida, sincronización, incremento y reducción de carga de manera independiente. 
+ 

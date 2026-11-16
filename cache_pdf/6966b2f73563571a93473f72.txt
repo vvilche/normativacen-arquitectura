@@ -1,0 +1,89 @@
+ 
+ 
+ 
+ 
+Santiago, 13 de enero de 2026 
+N°005-2026/DE 
+ 
+ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operaciones 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+ 
+Ref.: Respuesta a Carta DE00041-26 de fecha 06 de enero de 2026: Comunica atraso 
+en proceso de Verificación de Instalaciones de Transmisión para la Prestación de 
+Servicios Complementarios. 
+ 
+ 
+De nuestra consideración: 
+ 
+En relación con su carta DE00041-26, de fecha 06 de enero de 2026, mediante la cual se 
+comunica el atraso en el envío de los Informes de Verificación de Servicios 
+Complementarios (en adelante, “SSCC”) correspondientes a instalaciones de transmisión 
+de nuestra representada, indicadas en la tabla siguiente, informamos lo siguiente: 
+Coordinado 
+Subestación 
+Paño 
+SSCC 
+ENAP Refinerías S.A. 
+S/E Petropower H 
+C 
+CT 
+ 
+La Subestación Petropower 154/66 kV (en adelante, la “S/E Petropower”) corresponde a 
+la subestación principal a través de la cual el Complejo Autoproductor Refinería Biobío 
+(en adelante, el “Complejo Autoproductor”) se conecta al Sistema Eléctrico Nacional (en 
+adelante, el “SEN”), mediante su enlace con la Subestación Hualpén 154 kV, de propiedad 
+de Transelec S.A. 
+Asimismo, la S/E Petropower se encuentra clasificada como una instalación dedicada, 
+conforme a lo establecido en el informe denominado “Aprueba Informe Técnico Definitivo 
+de Calificación de Instalaciones de los Sistemas de Transmisión para el Período 2024–
+2027”. 
+Docusign Envelope ID: 61209455-6465-4236-956B-0869AD2F8BDB
+
+ 
+ 
+ 
+ 
+Por su parte, el paño C corresponde a un banco de condensadores (en adelante, el “BBCC”) 
+conectado al terciario del transformador TR-1501 154/66/20 kV. Dicho BBCC es de uso 
+exclusivo del Complejo Autoproductor y entra en operación únicamente cuando la Central 
+Cogeneradora Biobío (ex Central Petropower) se encuentra fuera de servicio, ya sea por 
+razones operativas o por actividades de mantenimiento programado. 
+El objetivo principal de este equipamiento es la corrección del factor de potencia del 
+Complejo Autoproductor y, a su vez la mejora de los niveles de tensión en la barra de 66 
+kV de la S/E Petropower, sin que su operación tenga por finalidad la prestación del Servicio 
+Complementario de Control de Tensión (en adelante, “CT”) al SEN. 
+En este contexto, y conforme al análisis interno realizado, el BBCC correspondiente al 
+paño C no constituye una instalación destinada ni habilitada para la prestación del SSCC 
+de CT, dado que: 
+• 
+Su operación es de carácter particular y exclusivo del Complejo Autoproductor; 
+• 
+Su disponibilidad se encuentra supeditada a condiciones operativas específicas del 
+complejo industrial; y 
+• 
+No participa en esquemas de control ni en instrucciones operativas orientadas al 
+control de tensión del SEN. 
+En virtud de lo anterior, y atendida la naturaleza y finalidad de la instalación, nuestra 
+representada concluye que no resulta procedente la realización del proceso de 
+verificación del SSCC de Control de Tensión para el BBCC del paño C de la S/E Petropower, 
+por no corresponder a una instalación que preste efectivamente dicho servicio al sistema. 
+Sin perjuicio de lo anterior, nuestra representada se mantiene disponible para analizar 
+esta situación en conjunto con este Coordinador, en caso de que se estime necesario 
+revisar los antecedentes técnicos o regulatorios que fundamentan lo señalado. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+David Labra Pinto 
+Encargado Suplente 
+ENAP Refinerías S.A. 
+Docusign Envelope ID: 61209455-6465-4236-956B-0869AD2F8BDB

@@ -1,0 +1,136 @@
+ 
+Nativa Energy 
+Rosario Norte 555, piso 22 – Edificio Neruda - Las Condes, Santiago - Chile 
+Teléfono: +56 2 248 873 00   |   www.nativaenergy.cl 
+Página 1 de 3 
+ 
+HSA-0216 
+Santiago, 09 de octubre de 2026 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Mat.: Actualiza estado de avance del plan de implementación 
+de PMU – Central San Andrés. 
+Ref.: [1] Carta DE00900-26 de fecha 06 de febrero de 2026 
+ 
+[2] Carta DE02168-26 de fecha 01 de abril de 2026 
+ 
+[3] Carta HSA-0200 de fecha 17 de abril de 2026 
+ 
+[4] Carta HSA-0212 de fecha 14 de agosto de 2026 
+ 
+[5] Carta HSA-0213 de fecha 09 de octubre de 2026 
+ 
+De nuestra consideración: 
+Nos referimos a la carta de Ref. [2] y en continuidad con lo informado en la 
+carta de Ref. [4], informamos a usted el estado de avance actualizado de la implementación del 
+Módulo de Medición Fasorial (PMU) correspondiente al Estudio de Implementación PMU 2025: 
+1. Estado actual de la implementación PMU – Central San Andrés 
+Se han completado las etapas de ingeniería, adecuaciones en sitio y recepción, 
+configuración y pruebas FAT. Actualmente nos encontramos en la etapa final de Instalación en 
+terreno, con los siguientes trabajos ejecutados: 
+• 
+Equipo PMU montado en el gabinete del GPS. 
+• 
+Instalación de bornera con interruptor automático que alimenta la PMU desde la red 
+segura. 
+• 
+Equipo energizado y conectado en el extremo de la PMU. 
+• 
+Cableado hacia los medidores tendido, quedando pendiente únicamente la 
+confirmación de los núcleos de medida. 
+
+ 
+Nativa Energy 
+Rosario Norte 555, piso 22 – Edificio Neruda - Las Condes, Santiago - Chile 
+Teléfono: +56 2 248 873 00   |   www.nativaenergy.cl 
+Página 2 de 3 
+ 
+2. Cronograma actualizado 
+A continuación, se presenta el estado de cada etapa del cronograma, ajustado 
+a las condiciones reales de avance: 
+Ingeniería → Completado 
+• 
+Revisión de diagramas unifilares, esquemas de control e identificación de señales 
+disponibles (TC/TP) 
+• 
+Revisión de infraestructura de servicios auxiliares y de la red de comunicaciones 
+existente 
+• 
+Definición del punto de medición, arquitectura del sistema PMU y planos de conexión 
+• 
+Arquitectura de comunicaciones (VLAN, direccionamiento, rutas) y esquema de 
+sincronización (GNSS/PTP) 
+Adecuaciones en sitio → Completado 
+• 
+Canalizaciones y espacio físico para instalación 
+• 
+Disponibilidad de alimentación (SSAA y respaldo): bornera con automático desde red 
+segura 
+• 
+Habilitación de red de comunicaciones y disponibilidad de señales de medición 
+Recepción, configuración y pruebas FAT → Pendiente 
+• 
+Configuración de parámetros de medición y comunicaciones 
+• 
+Validación de sincronización 
+• 
+Ejecución de pruebas FAT (medición y transmisión de datos) 
+Instalación en terreno y pruebas SAT → En etapa final 
+• 
+Montaje del equipo en gabinete del GPS: completado 
+• 
+Energización y conexionado en el extremo de la PMU: completado 
+• 
+Tendido de cableado hacia medidores: completado, pendiente confirmación de 
+núcleos de medida de TT 
+• 
+Verificación de señales, sincronismo y pruebas SAT: a ejecutar una vez confirmados los 
+núcleos de medida 
+Integración con sistemas del Coordinador → Próxima etapa (13 de octubre al 13 de noviembre de 
+2026, estimado) 
+• 
+Establecimiento del enlace de comunicación con el proveedor HispaSat hacia los data 
+center del Coordinador 
+• 
+Configuraciones correspondientes por parte del Coordinador en su plataforma 
+
+ 
+Nativa Energy 
+Rosario Norte 555, piso 22 – Edificio Neruda - Las Condes, Santiago - Chile 
+Teléfono: +56 2 248 873 00   |   www.nativaenergy.cl 
+Página 3 de 3 
+ 
+• 
+Pruebas de comunicación e integración a PDC Local (si aplica) y PDC Corporativo 
+• 
+Validación de calidad de datos y cumplimiento normativo 
+Puesta en servicio y cierre → 16 al 27 de noviembre de 2026 (estimado) 
+• 
+Entrada en operación del punto PMU 
+• 
+Monitoreo inicial y capacitación 
+• 
+Entrega de documentación final 
+4. Desviaciones respecto al cronograma original y justificación 
+Existe una desviación respecto de las fechas comprometidas en la carta de Ref. [4], cuya puesta en 
+servicio se estimaba para el 10 de octubre de 2026, debido a: 
+• 
+Retrasos en la entrega de equipamiento importado, asociados a disponibilidad 
+logística del proveedor. 
+• 
+Plazos requeridos para el establecimiento del enlace de comunicación con HispaSat 
+hacia el Coordinador y para las configuraciones en la plataforma del Coordinador, cuya 
+duración depende de la coordinación entre las partes. 
+• 
+Condiciones climáticas adversas en la zona de la central, que en reiteradas ocasiones 
+han impedido el acceso de nuestro proveedor de servicios al sitio. Esto ha obligado a 
+reprogramar los trabajos en terreno y ha afectado el avance de la etapa de instalación 
+ 
+Sin otro particular le saluda atte., 
+ 
+Jorge Zarate 
+Encargado Suplente 
+Hidroeléctrica San Andrés SpA 

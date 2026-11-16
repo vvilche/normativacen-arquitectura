@@ -1,0 +1,51 @@
+CORRELATIVO DE 05435-26 
+Asunto: Respuesta Carta DE06401-26: Plan de trabajo Transmisora Eléctrica del Norte 
+ 
+________________________________________ 
+De: Camila Aparicio Espinoza <mailto:camila.aparicio@coordinador.cl> 
+Enviado: Jueves, 13 de Agosto de 2026 16:04 
+Para: FIGUEROA MONTESINOS Carlos (TEN) <mailto:carlos.figueroa@engie.com>; 
+mailto:cristhian.carrasco@engie.com <mailto:cristhian.carrasco@engie.com> 
+CC: Jorge Vargas Cáceres <mailto:Jorge.Vargas@coordinador.cl>; Fabian Mora Nuñez 
+<mailto:fabian.mora@coordinador.cl> 
+Asunto: Respuesta Carta DE06401-26: Plan de trabajo Transmisora Eléctrica del Norte  
+ 
+Señor 
+Carlos Figueros 
+Encargado Titular de Transmisora Eléctrica del Norte S.A.  
+Presente 
+ 
+Tomamos conocimiento de las restricciones de espacio físico informadas y de su eventual impacto 
+en el plazo de ejecución de la segunda etapa del proyecto, así como de las actualizaciones 
+presentadas en su cronograma de implementación. 
+ 
+Al respecto, se deja constancia que la medidas presentadas ya fueron aceptadas mediante nuestra 
+respuesta a su carta DE01560-26 adjunta. 
+ 
+Con relación a la consulta planteada en el punto 3, se precisa que esta medida tiene un carácter 
+transitorio, conforme a lo dispuesto en el artículo 9-25 de la NTSyCS, y suele ser aplicable en aquellos 
+casos en que los núcleos de medida ya se encuentran destinados a mediciones de facturación. Esta 
+alternativa permite postergar el reemplazo del TTCC principal hasta el término de su vida útil o hasta 
+que sea necesario efectuar su reemplazo. En este sentido, dicha solución podría mantenerse en caso 
+de que la segunda etapa del proyecto no deba desarrollarse producto de alguna razón adicional 
+asociada a los requerimientos técnicos de la PMU. 
+ 
+Bajo este contexto, se solicita a su representada asistir a una reunión el día martes 18/08/2026 a las 
+12:00 hrs, con la finalidad de evaluar el impacto que podría tener la eventual no realización de la 
+segunda etapa del proyecto y analizar las alternativas correspondientes. 
+Por último, se entiende que esta condición sería aplicable únicamente a los puntos de monitoreo 
+K11/K12 y K8/K9 de la S/E Nueva Cardones, correspondientes a las líneas Cumbre–Nueva Cardones 
+500 kV C1 y C2. Asimismo, se deja presente que el cronograma adjunto corresponde a las todas las 
+PMU pendientes de implementación por parte de su representada (8 en total). Agradeceremos 
+confirmar si lo anterior es correcto. 
+ 
+Muchas gracias, quedamos atentos a la confirmación de la cita. 
+Saludos cordiales, 
+ 
+Camila Aparicio Espinoza 
+Ingeniera de Modelación y Aplicaciones EMS 
+Gerencia Operación 
+Santiago de Chile 
+
+Tel: +56224246300 
+http://www.coordinador.cl/ 

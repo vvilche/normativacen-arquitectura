@@ -1,0 +1,202 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 05 de septiembre de 2025 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+ 
+Ref.: Aceptación de Parámetros de 
+Partida y Detención de la Central PFV 
+Puerto Seco Solar. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+PFV Puerto Seco Solar, en conformidad con el Informe Técnico final recibido mediante 
+comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación no se recibieron observaciones de coordinado alguno al informe 
+publicado en la página web del Coordinador mediante la comunicación de la Ref. [2]. Por 
+su parte, este Coordinador presentó observaciones de carácter técnico al informe 
+mencionado, las cuales fueron subsanadas por el coordinado Calama Solar 2 SpA, 
+enviando una nueva versión del informe técnico que fue recibida mediante la comunicación 
+de la Ref. [1]. 
+ 
+Conforme con lo anterior, los valores de parámetros de Partida y Detención de la Central 
+PFV Puerto Seco Solar se presentan en las tablas contenidas en el Anexo de la presente 
+carta. 
+ 
+En cumplimiento del Artículo 13 del Anexo Técnico en mención, los parámetros para los 
+procesos de Partida y Detención mencionados entrarán en vigencia a partir de las 00:00 
+horas del 08 de septiembre de 2025. 
+ 
+La versión final del informe de parámetros de partida y detención que contiene la 
+justificación de los parámetros indicados anteriormente ha sido publicada en la siguiente 
+ruta de la página web del Coordinador Eléctrico nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Parámetros de Partida y Detención > Informes de Determinación de 
+Parámetros para Procesos de Partida y Detención de Unidades Generadoras > PFV 
+Puerto Seco Solar 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+GZV/CRV/SGM/RSM/adr 
+ 
+ 
+Referencias 
+ 
+[1] Carta S/N del coordinado Calama Solar SpA, Ref.: “Entrega Informe Técnico de 
+Determinación de Parámetros de Partida y Detención Parque Fotovoltaico Puerto Seco 
+Solar”, de fecha 29 de agosto de 2025. 
+Ingreso DE08882-25. 
+ 
+[2] Carta DE01876-20, Ref.: “Informe Técnico de Parámetros de Partida y Detención de 
+Parque Fotovoltaico Puerto Seco Solar”, de fecha 16 de abril de 2020. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central PFV Puerto 
+Seco Solar 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PFV Puerto Seco Solar (1) 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Partida – 
+Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0004 
+0,0190 
+Tiempo [minutos] 
+0,1500 
+0,1500 
+Sincronización – 
+Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0150 
+Tiempo [minutos] 
+0,8600 
+0,8600 
+Mínimo Técnico – 
+Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+5,0000 
+5,0000 
+(1) Los valores de potencia máxima y mínima del PFV Puerto Seco Solar son de 9,0000 MW y 
+0,0000 MW respectivamente.  
+ 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PFV Puerto Seco Solar 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Potencia Nominal – 
+Mínimo Técnico  
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+8,0000 
+8,0000 
+Mínimo Técnico - 
+Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0004 
+0,0190 
+Tiempo [minutos] 
+0,5000 
+3,0000 
+Desconexión – 
+Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+Nota: El Tiempo Mínimo de Operación (TMO) y el Tiempo Mínimo de Detención 
+(TMD) son 0 [min]. 

@@ -1,0 +1,318 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 23 de febrero de 2026 
+DE 01261-26 
+Señor 
+Eduardo Verdugo 
+Encargado Titular 
+Parque Eólico Campo Lindo SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios Complementarios (SSCC) de Control 
+Primario de Frecuencia y Control de Tensión de 
+la central PE Campo Lindo. 
+Responde a Ingreso: DE00885-26. 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los SSCC de Control Primario de 
+Frecuencia (CPF) y Control de Tensión (CT) de la central PE Campo Lindo. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del 26 de febrero de 2026 considerando 
+los recursos indicados en el anexo de la presente carta. 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifica la verificación de la capacidad de 
+prestación del CPF y CT de la central PE Campo Lindo se ha publicado en la siguiente ruta 
+de la página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación  
+1. > Control de Frecuencia > Control Primario de Frecuencia > Central PE Campo 
+Lindo 
+2. > Control de Tensión > Central PE Campo Lindo 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2], siendo el plazo 
+para esta acción de 30 días corridos.  Pese a no contar con las señales necesarias 
+para evaluar el desempeño en la prestación, la central PE Campo Lindo quedará 
+habilitada para prestar el Servicio Complementario (SC) de Control Primario de 
+Frecuencia (CPF), pudiendo ser instruido por este Coordinador para prestar dicho 
+servicio. En dicho caso, la evaluación de estás instrucciones será “No Verificable”. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+• 
+Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, para la evaluación de desempeño se podrán utilizar 
+medios alternativos para poder realizar la evaluación de desempeño de la prestación 
+del SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, la central mencionada podrá participar de las subastas de Control de 
+Frecuencia, una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+ 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del mencionado SC.  
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, puede 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/DIR/WJS/adr 
+c.c.:  
+Sr. Juan Kindermann – Encargado Suplente Parque Eólico Campo Lindo SpA 
+ 
+Referencias: 
+ 
+[1] Carta 0003-CAM-26, Ref.: “Envío de informes de verificación de Control Primario de 
+Frecuencia y Control de Tensión”, de fecha 29 de enero de 2026. Ingreso DE00885-26. 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 
+> 
+Instructivos 
+Técnicos 
+> 
+Protocolo 
+de 
+envío 
+de 
+registros 
+Potencia/Frecuencia para la evaluación del CPF 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PE Campo Lindo 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE Campo Lindo 
+• 
+Potencia máxima bruta: 65,710 [MW] 
+• 
+Potencia máxima neta: 62,945 [MW]  
+A continuación, se presentan las potencias mínimas considerando un solo aerogenerador 
+en funcionamiento y los restantes en pausa (mínimo técnico de la central). 
+• 
+Potencia mínima bruta: 0,985 [MW]  
+• 
+Potencia mínima neta: 0,429 [MW] 
+A continuación, se presentan potencias mínimas considerando la central con todos los 
+aerogeneradores en funcionamiento. 
+• 
+Potencia mínima bruta: 7,810 [MW]  
+• 
+Potencia mínima neta: 6,330 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control de Tensión 
+Control de Tensión 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+El estatismo es ajustable en un rango entre 2% y 8%, y puede ser modificado por el 
+operador con el parque en servicio. 
+• 
+Estatismo (R) actual se encuentra ajustado al 3,64%, respecto a una potencia base 
+igual a su potencia nominal de 64,5 [MW].  
+• 
+La Banda Muerta (BM) quedó configurada permanentemente en 25 mHz, y no 
+puede ser configurada por el operador, siendo necesaria la asistencia del 
+especialista del PPC para realizar dicho cambio. 
+b) Control de Tensión: 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Sin presentación de medios alternativos por parte del Coordinado Parque Eólico 
+Campo Lindo SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Control Primario de Frecuencia: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+Central PE Campo Lindo 
+Recurso Primario 
+Eólico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Valor determinado 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2% - 8% 
+Estatismo 
+3,64% 
+Rango de ajuste Banda muerta [mHz] 
+25 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+65,710 
+Límite de regulación inferior [MW] (3) 
+7,810 
+Aportes (4) 
+ BM = 25 [mHz]  
+R = 3,64% 
+10  
+segundos 
+Aporte +0,2[Hz] [MW] 
+-6,410 
+Aporte -0,2[Hz] [MW] 
+5,930 
+Aporte +0,7[Hz] [MW] 
+-23,700 
+Aporte -0,7[Hz] [MW] 
+22,250 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-6,180 
+Aporte -0,2[Hz] [MW] 
+6,220 
+Aporte +0,7[Hz] [MW]  
+-23,740 
+Aporte -0,7[Hz] [MW]  
+21,830 
+(1) La Banda Muerta está configurada permanentemente en 25 mHz. Para realizar su ajuste es necesaria la asistencia del 
+especialista del PPC. 
+(2) Correspondiente a la potencia máxima bruta aprobada por el Coordinador. 
+(3) Correspondiente a la potencia mínima bruta considerando todos los aerogeneradores en funcionamiento. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con consignas de 56,9 MW y 39,6 MW respectivamente 
+para cada escalón. Sin perjuicio de lo anterior, la respuesta del PE es homogénea en todo su rango de operación. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+b) Control de Tensión: 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Potencia Reactiva, Factor de Potencia y Tensión 
+Central 
+  
+Tensión [pu]  
+Potencia Reactiva [MVAr]  
+Potencia [MW]   
+0,90 
+0,95 
+1,00 
+1,05 
+1,10 
+Central PE Campo Lindo 
+6,45 
+19,50 -13,22 -33,49 -33,18 -32,89 
+25.8 
+16,60 -16,22 -34,43 -34,02 -33,65 
+44,11 
+13,08 -19,82 -36,48 -35,86 -35,31 
+62,95 
+8,92 -23,36 -25,29 -26,22 -27,13 
+62,95 
+21,02 22,78 
+24,51 
+5,81 
+-27,14 
+44,11 
+34,04 34,63 
+35,16 
+9,52 
+-29,03 
+25,28 
+36,05 36,47 
+36,84 
+12,79 -25,70 
+6,45 
+36,97 37,30 
+37,60 
+15,59 -22,80 
+ 

@@ -1,0 +1,235 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 29 de mayo de 2026 
+DE 03641-26 
+ 
+Señor 
+Javier Pujol 
+Encargado Titular 
+Central Colmito S.A. 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario de Control Terciario de 
+Frecuencia de la central TER Colmito. 
+ 
+[1] Carta GC-CO 0008-26 de Central Colmito S.A., 
+Ref.: “Informes de Verificación SSCC – Central 
+Colmito”, de fecha 06 de abril de 2026. 
+Responde a Ingreso DE03347-26 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control Terciario 
+de Frecuencia (CTF) de la central TER Colmito. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario de CTF a partir de las 00:00 del 04 de junio de 
+2026, considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CTF de la central TER Colmito se encuentra publicado en la siguiente ruta 
+de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central TER Colmito 
+ 
+Finalmente, la central mencionada podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+ 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del SC de CTF, a partir de la fecha antes 
+señalada. 
+ 
+En el caso de que su representada tenga alguna consulta sobre el procedimiento de 
+Subastas para Control de Frecuencia, estas pueden ser dirigidas al correo electrónico 
+programacion@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DIR/PGR/ycl 
+c.c.: 
+Sr. Felipe Inostrosa – Encargado Suplente Central Colmito S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+1 Para la estimación del valor de la potencia mínima neta, se consideran los consumos propios de la central TER Colmito, 
+0,57% para Diésel y 0,442% para Gas Natural. Este valor se obtiene desde la plataforma Infotécnica del Coordinador. 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central TER Colmito 
+1. 
+Identificación de las Instalaciones Verificadas: 
+A continuación, se presentan los parámetros operacionales que, a la fecha de emisión de 
+esta carta de verificación de SSCC, se encuentran aceptados por el Coordinador Eléctrico. 
+a) Central TER Colmito 
+• 
+Potencia máxima bruta: 57,587 [MW] (Diésel) / 57,982 [MW] (GNL) 
+• 
+Potencia máxima neta:  57,259 [MW] (Diésel) / 57,724 [MW] (GNL) 
+• 
+Potencia mínima bruta ambiental: 18 [MW]  
+• 
+Potencia mínima neta1: 17,897 [MW] (Diésel) / 17,918 (GNL) 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF)  
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia 
+• 
+Los ensayos de CTF fueron realizados con Gas Natural, el coordinado informa que 
+el comportamiento del controlador no varía entre ambos combustibles, asimismo, el 
+rango de potencias en diésel queda comprendido dentro del rango ensayado con 
+GNL. En consecuencia, los resultados obtenidos con Gas Natural son homologables 
+al combustible diésel. 
+• 
+El gradiente de carga no puede ser modificado por el operador de la central, solo 
+por el especialista externo del fabricante. Con un rango de ajuste de 8,4 a 21,0 
+MW/min para el gradiente de subida y 8,4 a 10,2 MW/min para el gradiente de 
+bajada. 
+• 
+El tiempo de activación de CTF depende del tiempo que se demora el operador en 
+consignar el nuevo valor de referencia de potencia, debiendo activarse en menos de 
+5 min de acuerdo con las definiciones del SC. 
+• 
+TER Colmito supera el tiempo de sincronización de 5 minutos. Dado lo anterior, no 
+se verifica en CTF frío. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Central Colmito S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+Central TER Colmito 
+Diésel / GNL 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+21,0 
+Bajada 
+10,2 
+Tasa máxima de 
+operación [MW/min] (1) 
+Subida 
+21,0 
+Bajada 
+10,2 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+Bajada 
+<5 
+Aporte CTF [MW] (2)  
+Subida 
+39,362 / 39,806 
+(Diésel/GNL) 
+Bajada 
+-39,362 / -39,806 
+(Diésel/GNL) 
+Límite de regulación superior [MW] 
+(3) 
+57,587/57,982 
+(Diésel/GNL) 
+Límite de regulación inferior [MW] 
+(3) 
+18 
+(Diésel/GNL) 
+(1)  Tasa de subida y bajada de carga máxima corresponde a la tasa normal ajustada. 
+ 
+(2) La reserva se determina como la diferencia entre la potencia máxima neta y la potencia mínima neta correspondientes 
+a 57,259 MW y 17,897 MW para Diésel y 57,724 MW y 17,918 MW para Gas Natural, respectivamente. 
+(3) Los límites de regulación inferior y superior, correspondientes al mínimo técnico que respeta normativa ambiental y a la 
+potencia máxima bruta, y el aporte máximo de CTF, podrán verse modificados si se actualizan los parámetros operacionales 
+de la central. 
+ 
+ 

@@ -1,0 +1,45 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 10 DE FEBRERO 2026 
+COM-46/2026 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para enero del 2026 
+ 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para enero 2026. 
+ 
+1) 
+El 11-01-2026 a las 05:42 el CDC activa la central TENO_DIESEL por CTF (+). Sin embargo, en 
+el Registro de Instrucción de Operación (RIO) se menciona que la instrucción fue recibida a las 
+05:45. En el archivo “CTF_202601” el calculo considera que a las 05:45 la central ya se 
+encontraba en servicio, afectando la evaluación 1 y 2 de desempeño. Se adjuntan las 
+grabaciones 20260111054129 y 20260111054643 como evidencia de la hora de inicio real y 
+entrada en servicio.  
+Se solicita que se modifique la hora de inicio de la activación y se recalculé el desempeño.  
+ 
+ 
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+Andrés Guerra C. 
+Encargado Suplente 
+Enlasa Generación Chile S.A. 

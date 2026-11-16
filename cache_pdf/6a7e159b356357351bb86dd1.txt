@@ -1,0 +1,195 @@
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+ 
+GMH N°2026-107 
+12 de agosto de 2026 
+ 
+Señor 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref: Observaciones a Indicadores Desempeño Servicios Complementarios – Julio 2026 
+ 
+En relación con el Informe de desempeño preliminar de servicios complementarios de julio de 2026 
+publicado mediante carta DE05255-26 de fecha 07 de agosto de 2026, tenemos las siguientes 
+observaciones: 
+SSCC 
+Central 
+Observaciones 
+CT 
+Manual 
+PFV 
+CEME1 
+Instrucción CT Manual 2026-07-03 00:00: No se registra instrucción a las 00:00 del día 3 de julio 
+para CEME1, se intuye que pudiera corresponder a la misma instrucción del 2 de julio a las 21:52 
+(instrucción que se encuentra en el RIO, no así en los índices de CT de SSCC).  
+ 
+Se solicita al Coordinador revisar esta instrucción ya que, si se desea considerar una nueva 
+instrucción debido al cambio de día, el valor solicitado sigue siendo -100MVAr y no -100MVAr 
+adicional a la instrucción del 2 de julio.  
+ 
+Se le solicita al Coordinador no considerar para la evaluación del mes de julio. 
+ 
+ 
+CT 
+Manual 
+PFV 
+CEME1 
+Instrucción CT Manual 2026-07-04 00:00: No se registra instrucción a las 00:00 del día 4 de julio 
+para CEME1, se intuye que pudiera corresponder a la misma instrucción del 3 de julio a las 22:00 
+(instrucción que se encuentra en el RIO, no así en los índices de CT de SSCC).  
+ 
+Se solicita al Coordinador revisar esta instrucción ya que, si se desea considerar una nueva 
+instrucción debido al cambio de día, el valor solicitado sigue siendo -100MVAr y no -100MVAr 
+adicional a la instrucción del 3 de julio.  
+ 
+Se le solicita al Coordinador no considerar para la evaluación del mes de julio. 
+ 
+ 
+CT 
+Manual 
+PFV 
+CEME1 
+Instrucción CT Manual 2026-07-18 02:42: La planta desde la 1:35 hasta las 2:53 se encontraba 
+en pruebas PQ a solicitud del CDC en donde se asignaron diversas consignas de inyección y 
+absorción de reactivos. Considerando que la secuencia de consignas fue por motivo de pruebas, 
+se le solicita al Coordinador no considerar para la evaluación del mes de julio o que se evalúen 
+todas las instrucciones solicitadas de forma separada (menor a 15 minutos entre instrucciones).  
+ 
+
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+ 
+ 
+ 
+CT 
+Manual 
+PFV 
+CEME1 
+Instrucción CT Manual 2026-07-18 20:33: Se alcanza a las 20:48 (15 minutos posteriores a la 
+instrucción) -101 MVAr según lo solicitado por el CDC del Coordinador (en rango con la 
+instrucción de -100 MVAr). Como antecedente, a las 17:55 del mismo día se había solicitado 
+terminar el control de tensión asignado, por lo que la variación de la instrucción de las 20:33 se 
+encuentra correcta. 
+ 
+Se le solicita al Coordinador revisar para la evaluación del mes de julio. 
+ 
+ 
+CPF + 
+PFV 
+CEME1 
+Instrucción CPF 2026-07-09 Hora 13: Se realiza instrucción directa por parte del CDC a las 13:45 
+en reemplazo de PFV TAIRA por lo que se debe evaluar el tiempo activado. Se muestra el 
+desempeño del real vs esperado desde las 13:42 hasta las 16:00 
+ 
+No se evalúa el periodo de 15 a 16 horas y el periodo de 14 a 15 indica no verificable el cual se 
+demuestra que estuvo operativo 
+ 
+ 
+CPF + 
+PFV 
+CEME1 
+Instrucción CPF 2026-07-14 Hora 16: Se realiza instrucción directa por parte del CDC a las 16:15 
+en reemplazo de TOCOPILLA-U16_TG1_GNL_B por lo que se debe evaluar el tiempo activado. Se 
+muestra el desempeño del real vs. esperado y se encuentra alineado. 
+ 
+ 
+ 
+CPF + 
+PFV 
+CEME1 
+Instrucción CPF 2026-07-23 Hora 8: Se participa en CPF activa en hora y con desempeño con 
+error menor al 5%. Se muestra el desempeño del real vs. esperado y se encuentra alineado. 
+ 
+ 
+ 
+ 
+CPF + 
+PFV 
+CEME1 
+Instrucción CPF 2026-07-24 Hora 8: Se participa en CPF activa en hora y con desempeño con 
+error menor al 5%. Se muestra el desempeño del real vs. esperado y se encuentra alineado. 
+ 
+
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+ 
+ 
+CPF + 
+PFV 
+CEME1 
+Instrucción CPF 2026-07-25 Hora 8: Se participa en CPF activa en hora, si bien entre 8:00 y 8:06 
+el control no se desempeñó de forma ideal, posterior a esto se desempeñó con error menor al 
+5%. Se muestra el desempeño del real vs. esperado y se encuentra alineado. 
+ 
+ 
+ 
+CPF + 
+PFV 
+CEME1 
+Instrucción CPF 2026-07-25 Hora 14: Se participa en CPF activa en hora y con desempeño con 
+error menor al 5%. Se muestra el desempeño del real vs. esperado y se encuentra alineado. 
+ 
+ 
+ 
+CPF + 
+PFV 
+CEME1 
+Instrucción CPF 2026-07-25 Hora 17: Se participa en CPF activa en hora y con desempeño con 
+error menor al 5%. La instrucción se termina a las 17:38 a solicitud de CDC (descrito en el RIO) 
+por lo que se debe evaluar por el periodo solicitado (desempeño actual 50%). Se muestra el 
+desempeño del real vs. esperado y se encuentra alineado. 
+ 
+ 
+ 
+CPF + 
+PFV 
+CEME1 
+Instrucción CPF 2026-07-28 Hora 17: Se participa en CPF activa en hora y con desempeño con 
+error menor al 5%. Se muestra el desempeño del real vs. esperado y se encuentra alineado. 
+ 
+ 
+ 
+ 
+CPF + 
+PFV 
+CEME1 
+Instrucción CPF 2026-07-29 Hora 9 y Hora 10: Se participa en CPF activa en hora y con 
+desempeño con error menor al 5%. Se muestra el desempeño del real vs. esperado y se 
+encuentra alineado. 
+ 
+ 
+
+ 
+Avda. Apoquindo 3472, oficina 1301 
+ 
+     
+Las Condes, Santiago, Chile 
+ 
+fono: (56-2) 2391 1100 
+ 
+Sin otro particular, le saluda atentamente 
+ 
+ 
+ 
+Sebastian Navarrete G. 
+Encargado Suplente 
+GM Holdings S.A. 
+ 
+ 

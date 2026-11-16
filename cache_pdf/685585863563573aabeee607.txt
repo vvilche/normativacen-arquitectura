@@ -1,0 +1,390 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+ www.coordinador.cl 
+Santiago, 19 de junio de 2025 
+ 
+     DE 03748-25 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+(según lista de Distribución) 
+Presente 
+ 
+Ref.: 
+Desempeño 
+del 
+Esquema 
+de 
+Desconexión 
+Automático de Carga (EDAC) por Subfrecuencia y 
+Contingencia Extrema, asociados a los eventos de falla 
+ocurridos en febrero de 2025 (EAF 062-2025, EAF 072-
+2025 y EAF 089-2025). 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia adjunto a la presente la evaluación final realizada por 
+el Coordinador, considerando los antecedentes enviados por su representada en el respectivo 
+Informe de Falla y en respuesta a las cartas de la Ref. [1], [2], [3] y [4] para el evento de falla 
+asociado al EAF 089-2025. En la planilla “EDAC_Febrero 2025 SEN final.xlsx” adjunta podrá 
+revisar el detalle de las evaluaciones realizadas, las cuales pueden ser descargadas en la 
+siguiente ruta del sitio web del Coordinador: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2025 > Febrero 2025 > 
+Versión 1 
+ 
+Su representada podrá realizar observaciones fundadas tanto a los indicadores de los SSCC 
+prestados durante el mes de febrero 2025 hasta el 27 de junio de 2025, mediante carta y con 
+copia al correo electrónico dco@coordinador.cl, indicando en el asunto “Observaciones a 
+Indicadores Desempeño Servicios Complementarios EDAC – febrero 2025”.  
+ 
+Adicionalmente, adjunto a la presente carta se encuentran los siguientes anexos:  
+- 
+Anexo 1: Aspectos claves que afectan la evaluación de desempeño del EDAC. 
+- 
+Anexo 2: Guía de configuración de los archivos COMTRADE, que deben ser enviados al 
+Coordinados cada vez que operan las protecciones.  
+ 
+Finalmente, invitamos a su representada a una reunión informativa, a realizarse de manera 
+telemática el día 14 de julio de 2025 a las 11:00, con el objetivo de revisar los aspectos 
+planteados en el Anexo 1 y aclarar cualquier duda que pudiese existir en relación con la 
+evaluación del desempeño de los EDAC, la configuración de los respectivos COMTRADE y su 
+envío a través de la plataforma SIREP y Neomante. En caso de que su representada desee 
+asistir deberá inscribirse en el siguiente enlace.  
+ 
+Cualquier 
+duda 
+respecto 
+a 
+lo 
+planteado 
+puede 
+dirigirla 
+al 
+correo 
+electrónico 
+DCO@coordinador.cl. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+ www.coordinador.cl 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Referencias 
+[1] Carta DE 01734-25, Ref.: “Actuación de los Esquemas de Desconexión Automática de Carga (EDAC) 
+de Enel Distribución.”, de fecha 21 de marzo de 2025. 
+[2] Carta DE 01743-25, Ref.: “Actuación de los Esquemas de Desconexión Automática de Carga (EDAC) 
+sin información.”, de fecha 21 de marzo de 2025. 
+[3] Carta DE 01744-25, Ref.: “Actuación de los Esquemas de Desconexión Automática de Carga 
+(EDAC).”, de fecha 21 de marzo de 2025. 
+[4] Carta DE 01831-25, Ref.: “Actuación de los Esquemas de Desconexión Automática de Carga (EDAC) 
+sin información.”, de fecha 28 de marzo de 2025. 
+ 
+Lista de Distribución 
+ 
+• 
+Aguas Antofagasta S.A. 
+• 
+Algorta Norte S.A. 
+• 
+Anglo American Sur S.A. 
+• 
+Arauco Bioenergía S.A. 
+• 
+Atacama Minerals Chile S.C.M. 
+• 
+Bioenergías Forestales SpA 
+• 
+Cartulinas CMPC SPA 
+• 
+Cemento Polpaico S.A. 
+• 
+Cementos Bío Bío Centro S.A. 
+• 
+CGE Transmisión S.A. 
+• 
+Chilquinta Transmisión S.A. 
+• 
+CIA. Minera Mantos de Oro 
+• 
+Codelco (Corporación Nacional del Cobre) 
+• 
+Compañía Contractual Minera Candelaria 
+• 
+Compañía Distribuidora de Energía Eléctrica 
+CODINER LTDA 
+• 
+Compañía Doña Inés de Collahuasi SCM 
+• 
+Compañía Eléctrica del Litoral S.A. 
+• 
+Compañía Explotadora de Minas S.C.M. 
+• 
+Compañía Minera Lomas Bayas 
+• 
+Compañía Minera Cerro Colorado Ltda 
+• 
+Compañía Minera del Pacífico S.A. 
+• 
+Compañía Minera Maricunga 
+• 
+Compañía Minera Teck Carmen de Andacollo 
+• 
+Compañía Minera Teck Quebrada Blanca S.A. 
+• 
+Compañía Minera Zaldívar SpA 
+• 
+Compañía Siderúrgica Huachipato S.A. 
+• 
+Complejo Metalúrgico Altonorte S.A. 
+• 
+Cooperativa de Abastecimiento de Energía 
+Eléctrica Curico LTDA. 
+• 
+Cooperativa de Consumo de Energía Eléctrica 
+Chillán Ltda. 
+• 
+Cooperativa Eléctrica Los Angeles LTDA 
+• 
+Cooperativa Regional Eléctrica Llanquihue Ltda 
+• 
+Cristalerías de Chile S.A. 
+• 
+EKA CHILE S.A. 
+• 
+Empresa de Transporte de Pasajeros Metro S.A. 
+• 
+Empresa Eléctrica Puente Alto S.A. 
+• 
+Empresa Nacional de Minería, Fundición Hernán 
+Videla Lira 
+• 
+Enaex S.A. 
+• 
+ENAP Refinerías S.A. 
+• 
+Fundición Talleres Ltda. 
+• 
+Grace S.A. 
+• 
+Haldeman Mining Company S.A. 
+• 
+Industria Chilena de Alambre S.A. 
+• 
+Luzlinares S.A. 
+• 
+Mantos Copper S.A. 
+• 
+Masisa S.A. 
+• 
+MELON S.A. 
+• 
+Metro Regional de Valparaíso S.A. 
+• 
+Minera Antucoya 
+• 
+Minera Centinela 
+• 
+Minera Escondida Ltda. 
+• 
+Minera Las Cenizas S.A. 
+• 
+Minera Meridian Ltda. 
+• 
+Minera Michilla SpA 
+• 
+Minera Spence S.A. 
+• 
+Minera Valle Central S.A. 
+• 
+MLP TRANSMISION S.A. (M. Los Pelambres) 
+• 
+Moly-Cop Chile S.A. 
+• 
+Occidental Chemical Chile Ltda. 
+• 
+Papeles Bio Bio S.A. 
+• 
+Petroquim S.A. 
+• 
+Sierra Gorda SCM 
+• 
+Sistema de Transmisión del Sur S.A. 
+• 
+Sociedad Austral de Electricidad S.A. 
+• 
+Sociedad Contractual Minera El Abra 
+• 
+Sociedad GNL Mejillones S.A. 
+• 
+Sociedad Química y Minera de Chile S.A. 
+• 
+Sociedad Transmisora Metropolitana S.A. 
+• 
+Transemel S.A. 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+ www.coordinador.cl 
+Anexo 1: Aspectos claves que afectan la evaluación de desempeño del EDAC  
+Considerando la planilla “EDAC_Febrero 2025 SEN final.xlsx” publicada, resulta relevante a 
+efectos de comprender la causa de los desempeños bajo 100%, revisar la hoja “Diccionario”.  
+ 
+Al respecto, la revisión de la operación efectiva de los EDAC del evento mencionado y de otros 
+evaluados de manera previa, ha permitido identificar errores que se repiten constantemente y 
+que no permiten realizar la evaluación del desempeño o afectan a esta considerablemente, 
+Estos errores se refieren a la rotulación de variables, identificación del alimentador y 
+subestación afectados, así como el contenido de los registros COMTRADE enviados.  
+ 
+Considerando lo planteado, a continuación, se listan los aspectos mínimos que su representada 
+debe considerar con el fin de que los registros Comtrade permitan al Coordinador evaluar el 
+desempeño del EDAC1. Tal como se ha señalado, estos aspectos se relacionan con los errores 
+más frecuentes detectados en los antecedentes recibidos: 
+1. Los registros oscilográficos extraídos desde las protecciones (relés) operadas deben ser 
+enviados en formato COMTRADE (.cfg y .dat). Archivos enviados en otros formatos no 
+pueden ser leídos por el Coordinador. No se aceptan impresiones de las gráficas que se 
+generan.  
+2. Los registros oscilográficos deben se renviado por los siguientes canales: 
+a. Informe de Falla, cargado en la plataforma Neomante del Coordinador. El envío debe 
+realizarse en un plazo máximo de 5 días hábiles contados desde la ocurrencia del 
+evento. 
+b. Módulo de Registro de Protecciones del Sistema de Monitoreo de la plataforma web 
+SIREP. El envío debe realizarse en un plazo máximo de 12 horas desde ocurrido el 
+evento de falla. 
+3. Los registros oscilográficos en formato COMTRADE deben estar configurados según lo 
+indicado en el Anexo 2 de la presente carta y deben contener, como mínimo, las siguientes 
+señales y características: 
+a. Potencia en MW (señal analógica) 
+b. Frecuencia en Hz (señal analógica) 
+c. Gradiente de frecuencia en Hz/s (señal analógica). Mandatorio para operación de 
+escalones EDAC de gradiente de frecuencia. 
+d. Señal de trip o desenganche del EDAC (señal digital) 
+e. Estado del interruptor (cerrado/abierto) asociado a cada alimentador y escalón EDAC. 
+4. En caso de que los registros COMTRADE no se encuentren configurados con el formato 
+indicado y/o no sean identificables las variables solicitadas, el desempeño del EDAC es 
+evaluado en “cero”.´ 
+5. El archivo COMTRADE debe ser fácilmente identificable con el alimentador, escalón EDAC 
+y subestación correspondiente. Para esto debe seguir la nomenclatura especificada en el 
+Anexo 2. De no poder identificar adecuadamente los alimentadores, la evaluación de 
+desempeño no puede llevarse a cabo, quedando en un valor de “cero”. 
+ 
+1 Lo aquí se señalado se complementa con lo indicado en el Anexo 2 a la presente carta y en el sitio web del Coordinador en la 
+siguiente ruta: Sistema de Registro de Protecciones (SIREP) | Coordinador Eléctrico Nacional 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+ www.coordinador.cl 
+Anexo 2: Requerimientos mínimos de señales análogas y digitales en relés de 
+subfrecuencia asociados al esquema EDACxBF y EDACxCEx del SEN 
+Se solicita configurar los relés asociados al EDAC de manera que registren al menos las 
+siguientes señales. 
+A. Señales Análogas: 
+1. Potencia activa trifásica [MW]. 
+2. Corriente [A] (fases 1, 2 y 3). 
+3. Tensión fase-neutro [kV] (fases 1, 2 y 3). 
+4. Frecuencia [Hz]. 
+5. Gradiente de caída frecuencia [Hz/s]. 
+ 
+B. Señales Digitales: 
+1. Pick up de la función de subfrecuencia o de tasa de caída de frecuencia (Nema 81) 
+asociada a cada alimentador y escalón EDAC. 
+2. Trip o desenganche asociado a la función de subfrecuencia o de tasa de caída de 
+frecuencia asociada a cada alimentador. 
+3. Estado del interruptor (cerrado y/o abierto) asociado a cada alimentador que forma parte 
+del EDACxBF y EDACxCEx. 
+ 
+C. Archivo COMTRADE: 
+Los registros oscilográficos asociados a los EDAC deben estar en formato COMTRADE. El 
+nombre de cada registro debe tener la estructura que se solicita en las especificaciones para la 
+implementación del Módulo de Registro de Protecciones, SIREP y SLRP, es decir: 
+ 
+FechaInicio,Hora,Pañonemo o BarraNemo,ProtecciónNemo 
+Donde: 
+ 
+Campo 
+Definición 
+FechaInicio 
+En formato AAAMMDD (AAAA: año, MM: mes, DD: día). Corresponde 
+al año, mes y día del inicio del registro oscilográfico 
+Hora 
+En formato hhmmssmmm (hh: Hora, mm: Minuto, ss: Segundo, 
+mmm: milisegundos) Corresponde a la hora, minutos y segundos en 
+los cuales comienza el registro oscilográfico. La referencia horaria es 
+UTC ± 00:00. 
+PañoNemo o 
+BarraNemo 
+Código nemotécnico del Paño o la Barra, según corresponda, 
+asociado al sistema de protección, de acuerdo con el campo 
+“Nemotécnico de Paño” o “Nemotécnico de Barra” 
+del sistema Infotecnica 
+ProtecciónNemo Código nemotécnico de la protección de acuerdo con el campo 
+“Nemotécnico del Sistema 
+de Protecciones” del sistema Infotecnica 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono (562) 2424 6300 
+ www.coordinador.cl 
+En relación con los nombres de los canales analógicos y digitales de los registros oscilográficos, 
+estos deben cumplir con lo requerido en el documento “Nomenclatura de Canales asociados a 
+los Registros Oscilográficos COMTRADE”, disponibles en nuestra página web: 
+https://www.coordinador.cl/operacion/documentos/plataformas-para-la-operacion/modulo-de-
+registro-de-protecciones-electricas/sirep/ 
+ 
+En caso de no poder configurar los nombres de los canales debido a que el sistema de 
+protección lo impida, se solicita informar, por cada protección el significado de la función de 
+cada canal. 
+ 
+La documentación asociada al SIREP está disponible en:  
+https://www.coordinador.cl/operacion/documentos/plataformas-para-la-operacion/modulo-de-
+registro-de-protecciones-electricas/sirep/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

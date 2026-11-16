@@ -1,0 +1,270 @@
+ 
+ 
+ARAUCO BIOENERGIA SpA. 
+Av. El Golf 150. Piso 14 
+Las Condes – Santiago, Chile 
+Fono: 56-2 2461 7200 
+Santiago, 26 de junio 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GAB-039/2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+PRESENTE 
+REF: Desempeño del Esquema de Desconexión  
+Automático de Carga (EDAC) por Subfrecuencia  
+y Contingencia Extrema, EAF 089-2025 
+ 
+De nuestra consideración: 
+ 
+En relación con la materia de la referencia, que es el desempeño del Esquema de Desconexión Automático de 
+Carga (EDAC) por Subfrecuencia y Contingencia Extrema en el blackout del pasado 25 de febrero, el cual está 
+contenido en su planilla “EDAC_Febrero 2025 SEN final.xlsx”, informamos a usted lo siguiente:  
+ 
+En la figura 1 se muestran los alimentadores de nuestros representados a los cuales se les exigió la operación de 
+su EDAC-BF en el blackout el pasado pasado 25 de febrero. 
+ 
+ 
+Figura 1: Desempeño de EDAC-BF de alimentadores representados por Arauco Bioenergía. 
+ 
+Registro Oscilográfico
+Frecuencia 
+escalón
+Gradiente 
+escalón
+Carga Informada EDAC-
+BF o EDAC-CE Centro Sur 
+(DAlta)
+[MW]
+[Si/No]
+[HZ]
+[HZ/s]
+[MW]
+28
+Arauco Bioenergía S.A.
+Ciruelos
+EDAC_BF
+No
+1
+49 Hz
+-0,6
+Planta Valdivia
+0,00
+29
+Arauco Bioenergía S.A.
+Ciruelos
+EDAC_BF
+No
+2
+48,90
+FA
+Planta Valdivia
+0,00
+30
+Arauco Bioenergía S.A.
+Ciruelos
+EDAC_BF
+No
+3
+48,80
+-0,6
+Planta Valdivia
+0,00
+35
+Arauco Bioenergía S.A.
+Central Horcones
+EDAC_BF
+No
+1
+49.0 y df/dt  
+o 48.7
+-0,6
+Planta Arauco
+0,00
+36
+Arauco Bioenergía S.A.
+Central Horcones
+EDAC_BF
+No
+4
+49.0 y df/dt  
+o 48.7
+-0,6
+Planta Arauco
+0,00
+37
+Arauco Bioenergía S.A.
+Constitución
+EDAC_BF
+No
+1
+49,00
+-0,6
+Planta Viñales
+0,00
+38
+Arauco Bioenergía S.A.
+Constitución
+EDAC_BF
+No
+2
+48,90
+-
+Planta Viñales
+0,00
+39
+Arauco Bioenergía S.A.
+Constitución
+EDAC_BF
+No
+3
+48,80
+-0,6
+Planta Viñales
+0,00
+40
+Arauco Bioenergía S.A.
+Constitución
+EDAC_BF
+No
+4
+48,70
+-
+Planta Viñales
+0,00
+41
+Arauco Bioenergía S.A.
+Constitución
+EDAC_BF
+No
+5
+48,50
+-
+Planta Viñales
+0,00
+42
+Arauco Bioenergía S.A.
+Constitución
+EDAC_BF
+No
+6
+48,30
+-
+Planta Viñales
+0,00
+45
+Arauco Bioenergía S.A.
+Nueva Aldea
+EDAC_BF
+No
+2
+48,90
+-
+Paneles Nva. Aldea
+0,00
+46
+Arauco Bioenergía S.A.
+Nueva Aldea
+EDAC_BF
+No
+6
+48,30
+-
+Paneles Nva. Aldea
+0,00
+47
+Arauco Bioenergía S.A.
+Nueva Aldea
+EDAC_BF
+No
+3
+48,80
+-0,6
+Planta Celulosa Nva. Aldea
+0,00
+48
+Arauco Bioenergía S.A.
+Nueva Aldea
+EDAC_BF
+No
+5
+48,50
+-
+Planta Celulosa Nva. Aldea
+0,00
+49
+Arauco Bioenergía S.A.
+Nueva Aldea
+EDAC_BF
+No
+6
+48,30
+-
+Planta Celulosa Nva. Aldea
+0,00
+ N° Análisis
+Tipo de operación
+Coordinado
+Subestación
+Escalón
+Alimentadores
+
+ 
+En primer término, comentar que, estos alimentadores conforman junto a sus respectivas centrales, complejos 
+industriales que operan como autoproductores, los cuales como parte de su proceso productivo generan energía 
+eléctrica para su propio consumo y los excedentes de la producción de energía eléctrica son inyectados al sistema 
+eléctrico nacional (SEN), en esta última condición son centrales generadoras autoproductoras, y en tanto estén 
+operando como centrales generadoras no les es exigible disponer de EDAC-BF. Por lo tanto: 
+ 
+1. PLANTA VALDIVIA 
+El complejo industrial Planta Valdivia, en el cual se encuentra la Central Autoproductora Valdivia, al momento del 
+evento del día 25 de febrero de 2025, se encontraba inyectando excedentes de energía al SEN por un total 
+aproximado de 41 MW, por lo cual no le es exigible disponer de EDAC-BF. 
+Al no operar el EDAC, no se generó un archivo oscilográfico COMTRADE. 
+ 
+2. SUBESTACIÓN CENTRAL HORCONES 
+Es esencial hacer presente que, la subestación central Horcones corresponde a la subestación de conexión de la 
+central Horcones, que es una unidad generadora térmica, por lo cual no existen consumos o retiros conectados. 
+De esta manera, no hubo ni correspondía realizar una desconexión de carga. 
+Al no existir un EDAC, no se generó un archivo oscilográfico COMTRADE. 
+ 
+3. PLANTA VIÑALES 
+El complejo industrial Planta Viñales, en el cual se encuentra la Central Autoproductora Viñales, al momento del 
+evento del día 25 de febrero de 2025, se encontraba inyectando excedentes de energía al SEN por un total 
+aproximado de 31 MW, por lo cual no le es exigible disponer de EDAC-BF. 
+Al no operar el EDAC, no se generó un archivo oscilográfico COMTRADE. 
+ 
+4. PANELES NUEVA ALDEA Y PLANTA CELULOSA NUEVA ALDEA 
+Los complejos industriales Planta Nueva Aldea y Planta Celulosa Nueva Aldea, en el cual se encuentra la Central 
+Autoproductora Nueva Aldea, al momento del evento del día 25 de febrero de 2025, se encontraba inyectando 
+excedentes de energía al SEN por un total aproximado de 40 MW, por lo cual no le es exigible disponer de EDAC-
+BF. 
+Al no operar el EDAC, no se generó un archivo oscilográfico COMTRADE. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Leonardo Bastidas 
+Encargado Titular 
+ARAUCO BIOENERGÍA SpA 
+Leonardo 
+Bastidas 
+Almarza
+Firmado 
+digitalmente por 
+Leonardo Bastidas 
+Almarza 
+Fecha: 2025.06.26 
+18:33:03 -04'00'

@@ -1,0 +1,588 @@
+ 
+Cc:  Alex Soto (Head Of Back Office) 
+         
+ 
+ 
+EER GG Nº 012 - 2026 
+ 
+ 
+ 
+Señor  
+Lionel Roa Burgos  
+Subgerente Transacciones de Mercados  
+Coordinador Eléctrico Nacional  
+Coordinador Eléctrico Nacional  
+Av. Parque Isidora 1061, Pudahuel, 
+Santiago de Chile 
+ 
+   Empresa Eléctrica 
+RUCATAYO  
+una empresa Statkraft Chile 
+ 
+Central Rucatayo 
+Km 37 Ruta 215 
+Cruce Rucatayo 
+Km 1.4 Ruta T 975 U 
+Chile  
+ 
++56 64 2612103 
+ 
+www.statkraft.cl 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref.: Situación de incumplimiento de pago no acordado en 
+Mercado de Corto Plazo. 
+       
+Santiago,13.02.2026 
+ 
+De nuestra consideración. 
+ 
+De acuerdo a vuestro procedimiento interno: Cumplimiento de la Cadena de Pagos en el Mercado de Corto 
+Plazo y según lo indicado en el punto 4.2 letra c), venimos a dar cumplimiento e informar dentro del plazo 
+máximo de 15 días de impagos no acordados las disconformidades que se han aperturado en la plataforma 
+respectiva y sin perjuicio de aquello se adjuntan como anexo, cumpliendo también, con lo informado en carta DE 
+00322-25 y DE00791-25: Las instrucciones de pago tienen estado de facturación como “Facturado”, y las 
+instrucciones de pago tienen el estado de pago como “No Pagado”. 
+ 
+ 
+Requerimos dar continuidad a la gestión de las mismas procediendo así con lo indicado en el punto 4.3 
+numeral iii. Si la Disconformidad no ha recibido respuesta en 6 días desde su apertura notificada a través de 
+correo electrónico, se procederá a remitir una carta al Coordinado Deudor, con copia a sus Clientes, a la 
+SEC y a la CNE, requiriendo el pago e indicando que, en 10 días contados desde el envío de dicha carta, el 
+Coordinador ejecutará la Garantía y podrá proceder a su Suspensión en el Mercado de Corto Plazo, o bien para 
+transacciones distintas al Mercado de Corto Plazo de acuerdo al punto 4.4 numeral iii En caso de no dar 
+respuesta o no acreditar el pago dentro de un plazo de 10 días contados desde la apertura de la 
+disconformidad, se procederá a informar a la SEC y la CNE del incumplimiento en la cadena de pagos. 
+ 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+Florencia Pasutti 
+Back Office Analyst Encargada de Facturación y Pagos CEN 
+Empresa Eléctrica Rucatayo S.A. 
+ 
+ 
+ 
+ 
+ 
+FLORENCIA 
+LUCIA PASUTTI
+Digitally signed by 
+FLORENCIA LUCIA PASUTTI 
+Date: 2026.02.13 15:30:15 
+-03'00'
+
+ 
+ 
+ 
+ 
+Anexo: Disconformidades 
+ 
+# 
+N° de 
+Disconformidad 
+Fecha de 
+Creación 
+RUT Deudor 
+Razón Social Deudor 
+Monto Bruto $ 
+1 
+DISC_397783 
+13-02-2026 
+88006900-4 
+ENGIE ENERGIA CHILE S.A. 
+$          106.820.725 
+2 
+DISC_397810 
+13-02-2026 
+76996007-4 
+ENERGY ASSET SPA 
+$               8.940.174 
+3 
+DISC_397768 
+13-02-2026 
+76472262-0 
+IMELSA ENERGIA SPA 
+$               5.674.361 
+4 
+DISC_397757 
+13-02-2026 
+77611649-1 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A 
+$               5.233.058 
+5 
+DISC_397808 
+13-02-2026 
+76337599-4 
+EL PELICANO SOLAR COMPANY SPA 
+$               4.000.007 
+6 
+DISC_397817 
+13-02-2026 
+77465741-K 
+CGE TRANSMISION S.A. 
+$               2.464.519 
+7 
+DISC_397772 
+13-02-2026 
+76319477-9 
+PARQUE SOLAR FOTOVOLTAICO LUZ DEL NORTE SPA 
+$               2.434.370 
+8 
+DISC_397764 
+13-02-2026 
+76555400-4 
+TRANSELEC S.A 
+$               1.842.608 
+9 
+DISC_397780 
+13-02-2026 
+76311940-8 
+TRANSCHILE CHARRUA TRANSMISION S.A. 
+$               1.352.680 
+10 
+DISC_397801 
+13-02-2026 
+77337345-0 
+ALFA TRANSMISORA DE ENERGIA S.A 
+$               1.158.394 
+11 
+DISC_397750 
+13-02-2026 
+94272000-9 
+AES ANDES S.A. 
+$               1.148.368 
+12 
+DISC_397778 
+13-02-2026 
+76284682-9 
+PV SALVADOR S.A. 
+$                  924.895 
+13 
+DISC_397836 
+13-02-2026 
+76392147-6 
+ENERGIA CERRO EL MORADO S.A. 
+$                  833.765 
+14 
+DISC_397789 
+13-02-2026 
+76787690-4 
+TRANSMISORA ELECTRICA DEL NORTE SA 
+$                  616.246 
+15 
+DISC_397782 
+13-02-2026 
+96505760-9 
+COLBUN S.A. 
+$                  532.577 
+16 
+DISC_397790 
+13-02-2026 
+76787690-4 
+TRANSMISORA ELECTRICA DEL NORTE SA 
+$                  441.874 
+17 
+DISC_397762 
+13-02-2026 
+77312201-6 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A. 
+$                  426.228 
+18 
+DISC_397815 
+13-02-2026 
+77465741-K 
+CGE TRANSMISION S.A. 
+$                  411.078 
+19 
+DISC_397835 
+13-02-2026 
+77878857-8 
+ENER SERVICES SPA 
+$                  259.441 
+20 
+DISC_397767 
+13-02-2026 
+76524463-3 
+TRANSELEC CONCESIONES S.A. 
+$                  210.698 
+21 
+DISC_397811 
+13-02-2026 
+77282314-2 
+TRANSMISORA ELECTRICA CORDILLERA SPA 
+$                  188.936 
+22 
+DISC_397761 
+13-02-2026 
+77312201-6 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A. 
+$                  186.180 
+23 
+DISC_397770 
+13-02-2026 
+76233264-7 
+COMMONPLACE ENERGY SPA 
+$                  177.007 
+24 
+DISC_397831 
+13-02-2026 
+76055354-9 
+POZO ALMONTE SOLAR 3 S.A. 
+$                  170.946 
+25 
+DISC_397754 
+13-02-2026 
+76382754-2 
+ENERGIA ATACAMA SA 
+$                  152.562 
+26 
+DISC_397760 
+13-02-2026 
+77312201-6 
+SISTEMA DE TRANSMISIÓN DEL SUR S.A. 
+$                  141.921 
+27 
+DISC_397828 
+13-02-2026 
+77324533-9 
+PARQUE SOLAR CANTILLANA SPA 
+$                    99.931 
+28 
+DISC_397833 
+13-02-2026 
+77092712-9 
+CFC HOLDINGS SPA 
+$                    98.453 
+29 
+DISC_397824 
+13-02-2026 
+77324593-2 
+ENERGIAS RENOVABLES HOLDING S.A 
+$                    94.467 
+30 
+DISC_397806 
+13-02-2026 
+76536654-2 
+DIEGO DE ALMAGRO TRANSMISORA DE ENERGIA S.A. 
+$                    92.293 
+31 
+DISC_397825 
+13-02-2026 
+76775253-9 
+IEH SOLAR CHILE SPA 
+$                    73.015 
+32 
+DISC_397781 
+13-02-2026 
+76213045-9 
+FOTOVOLTAICA NORTE GRANDE 5 SPA 
+$                    70.705 
+33 
+DISC_397788 
+13-02-2026 
+76787690-4 
+TRANSMISORA ELECTRICA DEL NORTE SA 
+$                    70.056 
+34 
+DISC_397755 
+13-02-2026 
+76803940-2 
+HIDROELECTRICA EL MANZANO S.A. 
+$                    65.633 
+35 
+DISC_397800 
+13-02-2026 
+77337345-0 
+ALFA TRANSMISORA DE ENERGIA S.A 
+$                    63.615 
+36 
+DISC_397807 
+13-02-2026 
+76536654-2 
+DIEGO DE ALMAGRO TRANSMISORA DE ENERGIA S.A. 
+$                    54.537 
+37 
+DISC_397820 
+13-02-2026 
+76975911-5 
+BESALCO TRANSMISION SPA 
+$                    54.398 
+38 
+DISC_397766 
+13-02-2026 
+76524463-3 
+TRANSELEC CONCESIONES S.A. 
+$                    44.160 
+39 
+DISC_397822 
+13-02-2026 
+76951331-0 
+MATAQUITO TRANSMISORA DE ENERGIA S.A. 
+$                    35.111 
+40 
+DISC_397779 
+13-02-2026 
+76311940-8 
+TRANSCHILE CHARRUA TRANSMISION S.A. 
+$                    31.009 
+41 
+DISC_397749 
+13-02-2026 
+94272000-9 
+AES ANDES S.A. 
+$                    29.959 
+42 
+DISC_397813 
+13-02-2026 
+77282314-2 
+TRANSMISORA ELECTRICA CORDILLERA SPA 
+$                    23.819 
+
+ 
+ 
+ 
+ 
+43 
+DISC_397823 
+13-02-2026 
+76951331-0 
+MATAQUITO TRANSMISORA DE ENERGIA S.A. 
+$                    21.709 
+44 
+DISC_397765 
+13-02-2026 
+76524463-3 
+TRANSELEC CONCESIONES S.A. 
+$                    20.512 
+45 
+DISC_397804 
+13-02-2026 
+76536654-2 
+DIEGO DE ALMAGRO TRANSMISORA DE ENERGIA S.A. 
+$                    16.890 
+46 
+DISC_397814 
+13-02-2026 
+77465741-K 
+CGE TRANSMISION S.A. 
+$                    16.080 
+47 
+DISC_397834 
+13-02-2026 
+77324794-3 
+NIRIVILO TRANSMISORA DE ENERGIA S.A. 
+$                    14.367 
+48 
+DISC_397798 
+13-02-2026 
+77337345-0 
+ALFA TRANSMISORA DE ENERGIA S.A 
+$                    11.224 
+49 
+DISC_397794 
+13-02-2026 
+76337593-5 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+$                       8.880 
+50 
+DISC_397756 
+13-02-2026 
+76519747-3 
+SOCIEDAD AUSTRAL DE TRANSMISION TRONCAL S.A. 
+$                       8.240 
+51 
+DISC_397793 
+13-02-2026 
+76337593-5 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+$                       7.800 
+52 
+DISC_397769 
+13-02-2026 
+76451217-0 
+GR ALGARROBO SPA 
+$                       7.798 
+53 
+DISC_397803 
+13-02-2026 
+76536654-2 
+DIEGO DE ALMAGRO TRANSMISORA DE ENERGIA S.A. 
+$                       6.945 
+54 
+DISC_397787 
+13-02-2026 
+88325800-2 
+COMPLEJO METALURGICO ALTONORTE S.A. 
+$                       6.776 
+55 
+DISC_397802 
+13-02-2026 
+76260825-1 
+CHARRUA TRANSMISORA DE ENERGIA SA 
+$                       6.328 
+56 
+DISC_397827 
+13-02-2026 
+76951335-3 
+CASABLANCA TRANSMISORA DE ENERGIA S.A. 
+$                       5.360 
+57 
+DISC_397797 
+13-02-2026 
+76100121-3 
+ALTO JAHUEL TRANSMISORA DE ENERGIA S.A. 
+$                       4.831 
+58 
+DISC_397786 
+13-02-2026 
+88325800-2 
+COMPLEJO METALURGICO ALTONORTE S.A. 
+$                       4.057 
+59 
+DISC_397791 
+13-02-2026 
+76337593-5 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+$                       3.856 
+60 
+DISC_397759 
+13-02-2026 
+76410374-2 
+SISTEMA DE TRANSMISION DEL NORTE S.A. 
+$                       3.782 
+61 
+DISC_397776 
+13-02-2026 
+81629800-8 
+COOP ELECTRICA PAILLACO LTDA 
+$                       3.763 
+62 
+DISC_397775 
+13-02-2026 
+81629800-8 
+COOP ELECTRICA PAILLACO LTDA 
+$                       3.178 
+63 
+DISC_397777 
+13-02-2026 
+81629800-8 
+COOP ELECTRICA PAILLACO LTDA 
+$                       2.614 
+64 
+DISC_397758 
+13-02-2026 
+76410374-2 
+SISTEMA DE TRANSMISION DEL NORTE S.A. 
+$                       2.260 
+65 
+DISC_397830 
+13-02-2026 
+76112774-8 
+NEOMAS SPA 
+$                       1.947 
+66 
+DISC_397826 
+13-02-2026 
+76951335-3 
+CASABLANCA TRANSMISORA DE ENERGIA S.A. 
+$                       1.361 
+67 
+DISC_397774 
+13-02-2026 
+81629800-8 
+COOP ELECTRICA PAILLACO LTDA 
+$                       1.330 
+68 
+DISC_397784 
+13-02-2026 
+76046791-K 
+EDELNOR TRANSMISION SA 
+$                       1.226 
+69 
+DISC_397818 
+13-02-2026 
+76975911-5 
+BESALCO TRANSMISION SPA 
+$                          809 
+70 
+DISC_397795 
+13-02-2026 
+76337593-5 
+AUSTRIANSOLAR CHILE CUATRO SPA 
+$                          463 
+71 
+DISC_397752 
+13-02-2026 
+76004976-K 
+EMPRESA ELECTRICA ANGAMOS SPA 
+$                          443 
+72 
+DISC_397821 
+13-02-2026 
+76951331-0 
+MATAQUITO TRANSMISORA DE ENERGIA S.A. 
+$                          363 
+73 
+DISC_397763 
+13-02-2026 
+76248725-K 
+CYT OPERACIONES SPA 
+$                          164 
+74 
+DISC_397785 
+13-02-2026 
+88325800-2 
+COMPLEJO METALURGICO ALTONORTE S.A. 
+$                            73 
+75 
+DISC_397751 
+13-02-2026 
+76004976-K 
+EMPRESA ELECTRICA ANGAMOS SPA 
+$                            69 
+76 
+DISC_397773 
+13-02-2026 
+76858530-K 
+NORACID SA 
+$                            61 
+77 
+DISC_397753 
+13-02-2026 
+76085254-6 
+EMPRESA ELECTRICA COCHRANE SPA 
+$                            42 
+78 
+DISC_397771 
+13-02-2026 
+76319477-9 
+PARQUE SOLAR FOTOVOLTAICO LUZ DEL NORTE SPA 
+$                            29 
+79 
+DISC_397829 
+13-02-2026 
+76112774-8 
+NEOMAS SPA 
+$                            20 
+80 
+DISC_397832 
+13-02-2026 
+76097069-7 
+INNERGEX ENERGIA RENOVABLE SPA 
+$                            15 
+ 
+ 
+ 
+ 

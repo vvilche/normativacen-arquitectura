@@ -1,0 +1,109 @@
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Santiago, 12 de agosto de 2026 
+ANG 0033-2026 
+ 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+Ref: Observaciones a Indicadores Desempeño Servicios Complementarios – julio 
+2026.  
+[1] DE05255-26, “Publicación de Indicadores de Desempeño de Servicios Complementarios 
+prestados durante el mes de julio de 2026 e Indicadores de Desempeño de SSCC EDAC 
+del mes de junio de 2026”, de fecha 07 de agosto de 2026. 
+ 
+ 
+De mi consideración, 
+ 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. con el propósito de presentar 
+observaciones a los índices de desempeño de Servicios Complementarios publicados 
+mediante la comunicación de la Ref. [1]. 
+ 
+Al respecto, en Anexo a la presente se encuentran las observaciones en comento.  
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+Eduardo Verdugo Cuadra 
+Encargado Coordinador Eléctrico Nacional 
+Empresa Eléctrica Angamos SpA. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Los Conquistadores 1730 | Providencia, Santiago 
+Teléfono: (56-2) 2686-8900 
+Anexo 
+ 
+Unidad 
+Inicio 
+Termino 
+Instrucción Comentario 
+TER 
+ANGAMOS 
+U1 
+19/07/2026 
+06:07 hrs 
+19/07/2026 
+06:24 hrs 
+CTF(+) 
+12 MW 
+ 
+La unidad se encontraba con consigna de MT y 
+prestando CSF. A las 06:00, se solicitó la 
+finalización de dicho servicio (CSF-), iniciándose el 
+proceso de rampa de bajada de potencia 
+correspondiente. Posteriormente, a las 06:07, 
+mientras la unidad aún se encontraba en transición 
+hacia su consigna económica (MT), se instruyó la 
+activación de CTF (+) por 12 [MW]. 
+ 
+Considerando que la instrucción de CTF (+) fue 
+emitida mientras la unidad se encontraba en 
+proceso de rampa asociado a la finalización de 
+CSF, con consigna de MT, y teniendo presente el 
+retardo natural entre la recepción de la orden y su 
+efectiva aplicación, el operador ajustó la consigna 
+conforme a la condición operativa observada al 
+momento de implementar la instrucción y al 
+incremento de potencia requerido. 
+ 
+En este contexto, se solicita revisar y corregir la 
+evaluación de CTF (+) realizada en la versión 1 del 
+cálculo, ya que se consideró como referencia 
+inicial el valor instantáneo de potencia registrado 
+en el momento que el CDC registró la instrucción 
+durante el proceso de rampa, sin considerar que la 
+instrucción de CTF (+) fue emitida mientras la 
+unidad se encontraba en transición operativa. Lo 
+anterior podría generar una evaluación que no 
+representa adecuadamente la respuesta efectiva 
+de la unidad frente a la solicitud de incremento de 
+potencia efectuada por el Coordinador. 
+ 
+Asimismo, solicitamos aclarar el criterio para la 
+activación del CTF, ya que las instrucciones 
+relativas 
+(“sube”/”baja”) 
+son 
+interpretativas 
+respecto del momento en que se realiza la solicitud 
+y en el que se aplica. Se sugiere que las 
+instrucciones de CTF sean absolutas, entregando 
+un valor de consigna al cual debe llegar la unidad 
+generadora. 
+Tabla1: Observaciones a Índices de Desempeño de SSCC 

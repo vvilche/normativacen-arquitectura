@@ -1,0 +1,154 @@
+ 
+ 
+ 
+ 
+ 
+ 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 3 de junio de 2025 
+ENGIE N°159/2025
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Responde a DE03177-25: “Plan de Acción 
+por EAF 419-2024 – Apertura automática del 
+interruptor 52ETT de S/E Tap Off Vítor N°2 Móvil” 
+[1] Correo DE03177-25 del 27 de mayo de 2025. 
+ 
+De nuestra consideración, 
+ 
+Me refiero al correo de la ref. [1], asociado con la apertura automática del interruptor 52ETT de S/E Tap Off Vítor 
+N°2 Móvil, ocurrida a las 10:39 horas del día 07 de agosto de 2024. Donde solicita remitir los antecedentes 
+requeridos, con la finalidad de dar cumplimiento a lo establecido en el Título 6-7 y, en particular, en el Artículo 6-44 
+de la Norma Técnica de Seguridad y Calidad de Servicio. 
+   
+- 
+“Confirmación de ejecución exitosa de las tareas necesarias para la sincronización en forma automática de 
+la estampa de tiempo de las protecciones involucradas (SS/EE Tap Off Vítor N°2 Móvil y Central Pampa 
+Camarones), con el fin de cumplir con la Hora Oficial (UTC - 0) establecida en la NTSyCS, lo que fue 
+comprometido por su representada para estar concluido el mes de abril de 2025.” 
+ 
+Respuesta: 
+ 
+ 
+- SS/EE Tap Off Vítor N°2 Móvil: 
+ 
+Sincronización en forma automática de la estampa de tiempo de las protecciones de paño ETT se realiza sin 
+novedades. 
+ 
+ 
+Figura 1: “Horario actualizado protecciones ETT” 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- S/E Central Fotovoltaica Pampa Camarones 
+ 
+Por trabajos de actualización de SCADA y sistema de control, la sincronización en forma automática de la 
+estampa de tiempo de las protecciones se reprograma de acuerdo con plazo de ejecución de trabajos 
+mencionados anteriormente, se adjunta nuevo cronograma de ejecución de trabajos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Juan Muñoz Tapia 
+Encargado Suplente 
+ENGIE Energía Chile S.A. 
+ 
+ Item Descripción de la 
+actividad 
+oct-25 
+nov-25 
+dic-25 
+N° 
+Sincronización GPS 
+Semana 1 
+Semana 2 
+Semana 3 
+Semana 4 
+Semana 1 
+Semana 2 
+Semana 3 
+Semana 4 
+Semana 1 
+Semana 2 
+Semana 3 
+Semana 4 
+1 
+Levantamiento cableado 
+  
+  
+  
+X 
+X 
+X 
+  
+  
+  
+  
+  
+  
+2 
+Tendido de cable red 
+  
+  
+  
+  
+  
+  
+X 
+X 
+  
+  
+  
+  
+3 
+Sincronización GPS 
+  
+  
+  
+  
+  
+  
+  
+  
+X 
+X 
+  
+  

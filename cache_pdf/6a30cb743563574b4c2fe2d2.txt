@@ -1,0 +1,209 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Santiago, 15 de junio de 2026 
+DE 04102-26 
+Señores 
+Miguel Buzunariz R. 
+Encargado Titular 
+Enel Generación Chile S.A. 
+Enel Green Power Chile S.A. 
+Presente 
+Ref.: Cumplimiento de exigencias normativas de las 
+señales SITR para la prestación de SSCC de Enel 
+Generación Chile S.A. y Enel Green Power S.A. 
+ 
+De mi consideración: 
+ 
+Me refiero al cumplimiento de la disponibilidad mínima requerida para las señales del 
+Sistema de Información de Tiempo Real (SITR), de acuerdo con lo establecido en el Artículo 
+8 y 15 del Anexo Técnico de la Norma Técnica de Seguridad y Calidad de Servicio 
+“Definición de Parámetros Técnicos y Operativos para el Envío de Datos al SITR” (AT 
+SITR). 
+Al respecto, dicho AT exige que “El equipamiento que deberán disponer los Coordinados 
+para establecer el enlace de datos con el Coordinador, deberá garantizar una disponibilidad 
+mensual de la información, tanto en el SITR de cada Coordinado como en el del 
+Coordinador, mayor o igual a 99,5%”. Por otro lado, establece que “Se considerará como 
+criterio de razonabilidad que un dato no es válido cuando es mayor que el doble del valor 
+máximo de la variable. Asimismo, se considerará que un dato no es válido cuando 
+permanezca desactualizado por un periodo superior a 30 segundos”.  
+Bajo este contexto, mediante carta de la Ref. [1], el Coordinador solicitó a su representada 
+un plan de trabajo conducente a la normalización de las señales SITR de sus instalaciones, 
+priorizando las señales de verificación de la prestación de SSCC. 
+Mediante las cartas de la Ref. [2] y [3] su representada indicó que no se evidenciaban 
+condiciones técnicas que impidan la verificación de dichas señales, ni situaciones de 
+indisponibilidad, congelamiento o falta de refresco que justifiquen dicha condición, lo que 
+derivó a una reunión aclaratoria con su representada donde ésta se comprometió a revisar 
+el estado de las señales SITR que fueran especificadas. 
+Según la información disponible a la fecha en los registros del SITR, se evidencia que de 
+las señales individualizadas en la Ref. [1] sólo se normalizó a TER Taltal, permaneciendo 
+pendientes las indicadas en la tabla del Anexo 1 de la presente carta, las cuales mantienen 
+una mala calidad, falta de razonabilidad, inconsistencias y/o otras condiciones similares, lo 
+que incumple los requerimientos del Anexo Técnico “Definición de Parámetros Técnicos y 
+Operativos para el Envío de Datos al SITR” ya mencionado e impide la evaluación del 
+desempeño de la prestación de SSCC de las instalaciones de su representada. Este anexo 
+considera adicionalmente las señales de tensión de las unidades U1 y U2 de TER Quintero, 
+las cuales han presentado similar comportamiento. 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Considerando lo planteado, y con el objetivo de conocer las medidas que su representada 
+ha adoptado a la fecha, y aquellas que prevé adoptar, para mejorar el desempeño de las 
+señales identificadas en Anexo 1 y de esta manera dar cumplimiento a los requerimientos 
+establecidos en Artículos 8 y 15 del AT SITR, solicito a Ud. lo siguiente: 
+ 
+1. Informar las medidas ya implementadas, informando fechas de ejecución de cada 
+medida, así como el aporte de éstas al cumplimiento de los artículos antes 
+señalados. 
+  
+2. Enviar un plan de trabajo de las medidas previstas implementar a la brevedad, 
+describiendo hitos y plazos para su ejecución, así como el aporte de cada medida 
+al cumplimiento de los mismos artículos antes señalados. 
+  
+La información requerida debe ser enviada mediante carta, a través del sistema de 
+Correspondencia 
+del 
+Coordinador, y 
+con 
+copia 
+al 
+buzón 
+de 
+correo 
+electrónico tec.scada@coordinador.cl y dco@coordinador.cl, a más tardar el 18 de junio de 
+2026. 
+Cabe destacar que, conforme con lo establecido en el Artículo 5-8 de la Norma Técnica de 
+Servicios Complementarios, el plazo máximo para que su representada normalice el estado 
+de las señales es 5 días corridos a contar de la presente notificación. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V.     
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+Referencias 
+[1] Carta DE00992-26, Ref.: “Cumplimiento de disponibilidad de señales SITR para la 
+prestación de SSCC de Enel Generación Chile S.A. y Enel Green Power S.A.”, de fecha 11 
+de febrero 2026. 
+[2] Carta OP 036-26 del Coordinado Enel Generación Chile S.A., Ref.: “Respuesta Carta 
+DE00992-26 Cumplimiento de Disponibilidad de señales SITR para la prestación de SSCC 
+de Enel Generación Chile S.A. y Enel Green Power S.A.”, de fecha 04 de marzo de 2026. 
+Ingreso DE02142-26. 
+[3] Carta EGP 022-26 del Coordinado Enel Green Power Chile S.A., Ref.: “Respuesta Carta 
+DE00992-26 Cumplimiento de Disponibilidad de señales SITR para la prestación de SSCC 
+de Enel Generación Chile S.A. y Enel Green Power S.A.”, de fecha 04 de marzo de 2026. 
+Ingreso DE02143-26. 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Anexo 1: Señales SCADA con mala calidad que impiden el cálculo del 
+desempeño de la prestación de SSCC de las instalaciones individualizadas 
+ 
+Coordinado 
+Central 
+TAG 
+IRN 
+Enel Generación Chile S.A. 
+TER ATACAMA 
+CATACAM   15   TG1A   Q 852637221 
+Enel Generación Chile S.A. 
+TER ATACAMA 
+CATACAM   15   TG1A   V 852638221 
+Enel Generación Chile S.A. 
+TER ATACAMA 
+CATACAM   15   TG2A   Q 852532221 
+Enel Generación Chile S.A. 
+TER ATACAMA 
+CATACAM   15   TV2C   Q 852409221 
+Enel Generación Chile S.A. 
+TER ATACAMA 
+CATACAM   15   TV2C   V 852410221 
+Enel Generación Chile S.A. 
+TER ATACAMA 
+CATACAM   15   TG2B   Q 852358221 
+Enel Generación Chile S.A. 
+TER ATACAMA 
+CATACAM   15   TG2B   V 852359221 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN1   V 
+581038211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN2   V 
+581029211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN3   V 
+581014211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN1   P 
+581036211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN2   P 
+581028211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN3   P 
+581012211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN1   Q 
+581037211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN2   Q 
+581052211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN3   Q 
+581013211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN4   Q 
+581044211 
+Enel Green Power Chile S.A. 
+HE PILMAIQUEN 
+PILMAIQ   6.9  GEN5   Q 
+581025211 
+Enel Generación Chile S.A. 
+HE PANGUE U2 
+PANGUE    13.  GEN2   Q 537440211 
+Enel Generación Chile S.A. 
+HE PANGUE U2 
+PANGUE    13.  GEN2   V 
+537441211 
+Enel Generación Chile S.A. 
+HE PANGUE U1 
+PANGUE    13.  GEN1   Q 338563211 
+Enel Generación Chile S.A. 
+HE PANGUE U1 
+PANGUE    13.  GEN1   V 
+338573211 
+Enel Generación Chile S.A. 
+TER QUINTERO U1 
+CQUINTE   15   GEN1   V 
+829501211 
+Enel Generación Chile S.A. 
+TER QUINTERO U2 
+CQUINTE   15   GEN2   V 
+387252211 
+ 

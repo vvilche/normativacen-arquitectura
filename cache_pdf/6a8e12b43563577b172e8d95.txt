@@ -1,0 +1,54 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+Santiago, 25 de agosto de 2026 
+EST202611 
+Señor 
+Rodrigo Espinoza V.  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Solicitud de resultados verificación CSF del 
+proyecto BESS Estepa II (NUP 5481) 
+De nuestra consideración, 
+ 
+Por medio de la presente comunicación, se informa que se realizaron las pruebas efectivas 
+del Control Secundario de Frecuencia (CSF) para el proyecto BESS Estepa II (NUP 5481). 
+Adicionalmente, se solicitan al Coordinador Eléctrico Nacional compartir los resultados de 
+dichas pruebas. 
+ 
+Como antecedente de las pruebas: 
+• 
+Con fecha 11 de agosto de 2026, se realizó una revisión previa de señales SCADA con 
+especialistas del CDC. 
+• 
+Se ejecutaron pruebas efectivas de CSF en carga el día 12 de julio (SI 2026088656) y en 
+descarga 20 de agosto (SI 2026093425) de 2026. 
+• 
+El equipo de trabajo involucrado en las pruebas efectivas fue el siguiente: 
+ 
+a. Coordinador Técnico Estepa Solar SpA: Grace Calderón (gcalderon.c@atlasren.com)  
+b. Centro de Control: RNE  
+c. Fabricante PPC: INGELECTUS 
+d. DMAP  
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Moraga Á. 
+Encargado Titular 
+Estepa Solar SpA 

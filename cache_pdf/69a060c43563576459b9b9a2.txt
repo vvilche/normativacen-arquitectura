@@ -1,0 +1,46 @@
+ 
+ 
+ 
+OR-000067-2026 
+ 
+Santiago, 24/02/2026 
+ 
+Señor 
+Ernesto Huber J. 
+Director Ejecutivo 
+Coordinador Eléctrico Nacional 
+Av. Parque Isidora N°1061, Pudahuel, Parque Industrial ENEA 
+Santiago 
+PRESENTE. 
+ 
+REFERENCIA:  
+ 
+De nuestra consideración: 
+ 
+Junto con saludar, por medio de la presente y para dar cumplimiento con lo establecido en el Anexo  
+Técnico “Verificación de instalaciones para la prestación de SSCC” de la Norma Técnica de Servicios  
+Complementarios, se remiten los procedimientos correspondientes al desarrollo de los ensayos de 
+verificación del Servicio Complementario de Control de Tensión para los equipos FACTS de 
+Transelec. Asimismo, se incorpora el cronograma de actividades, indicando las tareas programadas 
+para su ejecución en terreno. Complementamos la entrega anterior (OR-000060-2026) con los 
+siguientes documentos:  
+ 
+• STATCOM SVC PLUS Diego de Almagro 
+(EE-EN-2025-2852-RB_Procedimiento_de_ensayos_SSCC_STATCOM_SVC_PLUS.pdf, rev. B) 
+• CER Puerto Montt 
+(EE-EN-2025-2870-RB_Procedimiento_de_ensayos_SSCC_CER_Puerto_Montt.pdf, rev.B) 
+• CER Polpaico 
+(EE-EN-2025-2898-RB_Procedimiento_de_ensayos_SSCC_CER_Polpaico.pdf, rev.B);  
+• CER Maitencillo 
+(EE-EN-2025-2935-RB_Procedimiento_de_ensayos_SSCC_CER_Maitencillo.pdf, rev.B) 
+ 
+Quedamos atentos a sus comentarios u observaciones. 
+Sin otro particular, saludan atentamente a usted 
+ 
+TRANSELEC S.A., 
+ 
+ 
+_____________________ 
+María José Reveco 
+Gerente Gestión de Redes 
+ 

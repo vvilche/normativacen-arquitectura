@@ -1,0 +1,69 @@
+Santiago, 26 de febrero de 2026 
+CGET00473-2025 
+ 
+ 
+ 
+Estimado 
+Rodrigo Espinoza 
+Gerente de operaciones 
+Coordinador Eléctrico Nacional. 
+ 
+Ref.: Observaciones al Informe de Verificación 
+de SSCC de EV de S/E Loncoche, paños B3 y 
+B6.  [1]  Carta  CGET00473-2026  de  CGE 
+Transmisión S.A., Ref.: “Aprueba Protocolo de 
+Verificación Plan de Recuperación del Servicio 
+- Equipamiento de Vinculación (PRS-EV) de 
+S/E Pullinque paños B2 y B4 y de S/E Loncoche 
+paños B3 y B6”, de fecha 12 de enero de 2026. 
+Responde DE00778-26 
+ 
+ 
+En el marco de la verificación de servicios complementarios, en respuesta al documento 
+“DCO-SSCC-EV-SE_Loncoche_B3_y_B6_Carta_DE00778-26” 
+con 
+observaciones 
+al 
+informe de verificación equipamiento de vinculación de CGE Transmisión, se adjunta el plan 
+de trabajo a ejecutar por CGE Transmisión y respuesta a requerimientos indicados por el 
+Coordinador Eléctrico Nacional en función del Informe de Experto Técnico: 
+- 
+Para el paño B6 se deberá restituir/implementar control remoto de reconexión y 
+probar desde COT/SCADA. 
+- 
+Reemplazar/repotenciar cargador de baterías; validar térmicamente y verificar ripple 
+en flotación/ecualización. 
+- 
+Actualizar/entregar planos unilineales/elementales “as built”, matriz de señales y 
+estudio de capacidad de servicios auxiliares CC. 
+- 
+Ajustar pre-falla a ≥ 15 ciclos en ambos paños y respaldar archivos de ajustes. 
+ 
+En anexos: 
+- 
+Anexo 1: Planificación y acciones correctivas corto plazo a los hallazgos. 
+ 
+Sin otro particular, saluda atentamente, 
+Víctor 
+Gutiérrez 
+González 
+ 
+Firmado digitalmente 
+por Víctor Gutiérrez 
+González 
+Fecha: 2026.02.26 
+14:38:56 -03'00' 
+Víctor Gutiérrez González. 
+Encargado Titular 
+CGE Transmisión 
+JCD 
+Anexo 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Av. Presidente Riesco 5561, Piso 17 
+Las Condes, Santiago, Chile 

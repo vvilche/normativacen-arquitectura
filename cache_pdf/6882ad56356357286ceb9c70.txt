@@ -1,0 +1,224 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 24 de julio de 2025 
+DE 04550-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación de los Parámetros de Partida y 
+Detención de Central PFV Capricornio y BESS PFV 
+Capricornio. 
+ 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 12 del Anexo Técnico “Determinación de 
+Parámetros para los Procesos de Partida y Detención de Unidades Generadoras” de la 
+Norma Técnica de Seguridad y Calidad de Servicio, comunico a Ud. la aceptación por parte 
+del Coordinador Eléctrico Nacional de los Parámetros de Partida y Detención de la Central 
+PFV Capricornio y BESS PFV Capricornio, justificado en el Informe Técnico final recibido 
+mediante la comunicación de la Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 11 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de coordinado alguno al informe 
+técnico publicado en la página web del Coordinador mediante carta de la Ref. [2]. Por su 
+parte, el Coordinador realizó observaciones de carácter técnico al informe publicado, las 
+cuales fueron subsanadas en la versión final recibida mediante la comunicación de la Ref. 
+[1]. 
+ 
+Conforme con lo anterior, los valores de los parámetros de Partida y Detención de la Central 
+PFV Capricornio y BESS PFV Capricornio se presentan en el Anexo a la presente carta. Al 
+respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 00:00 
+horas del 29 de julio de 2025. 
+ 
+El informe técnico final que contiene la justificación de los parámetros indicados 
+anteriormente ha sido publicado en la siguiente ruta del sitio web del Coordinador Eléctrico 
+Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Parámetros de Partida y Detención > Informes Determinación de 
+Parámetros para Procesos de Partida y Detención de Unidades Generadoras > 
+Central PFV Capricornio > 2025 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                      
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+GZV/SGM/DIR/adr 
+ 
+Referencias: 
+ 
+[1] Carta ENGIE N°166/2025 del Coordinado Engie Energía Chile S.A., Ref.: “Responde 
+DE03130-25 Observaciones a Informes de Parámetros Operacionales de la Central con 
+Capacidad de Almacenamiento PFV Capricornio y BESS PFV Capricornio”, del 10 de junio 
+2025. Ingreso DE05718-25. 
+[2] Carta DE01816-25, Ref.: “[NUP 4755] Informes Técnicos de Parámetros Operacionales 
+del PFV Capricornio y BESS PFV Capricornio, del coordinado Engie Energía Chile S.A.”, 
+del 1 abril 2025. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Anexo: Parámetros del proceso de partida y detención de la Central PFV Capricornio y 
+BESS PFV Capricornio 
+ 
+Tabla 1. Parámetros del proceso de partida de la Central PFV Capricornio. 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Completa 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0001 
+Tiempo [minutos] 
+0,0000 
+0,0670 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0192 
+Tiempo [minutos] 
+0,1800 
+9,8000 
+ 
+ 
+Tabla 2. Parámetros del proceso de detención de la Central PFV Capricornio. 
+Etapa 
+Parámetro 
+Inversor 
+Central 
+Completa 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0190 
+Tiempo [minutos] 
+0,1800 
+9,8000 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0002 
+Tiempo [minutos] 
+0,0000 
+0,0830 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+ 
+Tabla 3. Parámetros del proceso de partida del BESS PFV Capricornio. 
+Etapa 
+Parámetro 
+Inversor 
+BESS 
+Completo 
+Partida – Sincronización 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+Sincronización – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0134 
+0,0110 
+Tiempo [minutos] 
+3,5333 
+2,9167 
+Mínimo Técnico – Potencia Nominal 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0066 
+Tiempo [minutos] 
+0,0333 
+4,9667 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Tabla 4. Parámetros del proceso de detención de BESS PFV Capricornio. 
+Etapa 
+Parámetro 
+Inversor 
+BESS 
+Completo 
+Potencia Nominal – Mínimo Técnico 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0064 
+Tiempo [minutos] 
+0,0167 
+4,8000 
+Mínimo Técnico – Desconexión 
+Consumo SSAA 
+[MWh] 
+0,0001 
+0,0002 
+Tiempo [minutos] 
+0,0200 
+0,0500 
+Desconexión – Detención 
+Consumo SSAA 
+[MWh] 
+0,0000 
+0,0000 
+Tiempo [minutos] 
+0,0000 
+0,0000 
+ 
+ 

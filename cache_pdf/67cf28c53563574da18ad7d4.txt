@@ -1,0 +1,122 @@
+ 
+1 
+ 
+ 
+GO N°046/2025 
+Santiago, 07 de marzo de 2025 
+ 
+Señor  
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: 
+Cronograma definitivo del proceso de verificación de Servicios Complementarios 
+(SSCC) en instalaciones existentes de Generación y Almacenamiento. 
+ 
+De mi consideración: 
+ 
+En respuesta a su carta DE 06362-24, de fecha 11 de diciembre de 2024, a continuación, informamos 
+a usted de las actividades realizadas para llevar a cabo del proceso de verificación de Servicios 
+Complementarios, asimismo enviamos en adjunto una actualización del cronograma enviado 
+mediante la carta GO N°079/2024 el 25 de abril del 2024 con las fechas de las pruebas que se 
+mencionan a continuación: 
+ 
+• 
+En primer lugar, el 19 de agosto de 2024, mediante la carta GO N°146/2024, se hace envío 
+al Coordinador de los Protocolos de Ensayos para la verificación de Servicios 
+Complementarios para las unidades generadoras de Colbún S.A., entre las que se encontraban 
+las unidades de la central Angostura, la central Canutillar, la central Colbún, la central 
+Nehuenco I, la central Nehuenco II y la central Rucúe. Estos fueron aprobados por el 
+Coordinador el 02 de octubre del 2024 mediante la carta DE 05031-24. Desde entonces se 
+comenzaron a planificar las distintas pruebas en las unidades que contaban con protocolos 
+aprobados, enfocados especialmente en nuevos recursos técnicos que el Coordinador podría 
+estar interesado en habilitar para la prestación de los servicios y así complementar a aquellas 
+unidades que están participando actualmente. Cabe mencionar que la planificación de estas 
+pruebas debe considerar la disponibilidad del Especialista del fabricante de los controladores 
+más la disponibilidad del Experto Técnico, lo cual no siempre es fácil de gestionar. 
+ 
+• 
+Durante las jornadas de 08 y 09 enero de 2025 se realizaron pruebas en la central Nehuenco 
+II para verificar el Control Primario y Terciario de Frecuencia bajo la solicitud de 
+intervención N°2025000282. Estas pruebas fueron exitosas para CTF pero para el CPF 
+evidenciaron algunos problemas referidos a la banda muerta. Esto se solucionó y se repitieron 
+el 20 de febrero del año en curso bajo la solicitud de intervención N°2025015652. En esta 
+oportunidad no se pudieron terminar las pruebas ya que la unidad tuvo un trip ajeno estos 
+ensayos que interrumpió su desarrollo. En este contexto se están planificando las pruebas 
+definitivas para la semana del 24 de marzo del 2025. Con respecto al Control Terciario de 
+
+ 
+2 
+ 
+Frecuencia el informe con el resultado de las pruebas se ha enviado al Coordinador para sus 
+observaciones mediante la carta GO N°043/2025. 
+ 
+• 
+Durante las jornadas del 24 y 25 de febrero se realizaron pruebas de CPF en la central térmica 
+Nehuenco I bajo la solicitud de intervención N° 2025016935. Estas pruebas evidenciaron 
+problemas en la respuesta del sistema de control del regulador de velocidad para cumplir con 
+las exigencias de la Norma Técnica de SSCC para este servicio. En este sentido se están 
+tomando las acciones en conjunto con el fabricante Siemens para resolver estos hallazgos los 
+cuales deberían solucionarse durante marzo. En este contexto esperamos repetir las pruebas 
+durante abril del presente año. 
+ 
+• 
+Por otra parte, estamos planificando las pruebas de Control Primario y Terciario de 
+Frecuencia en la central hidráulica Colbún durante la semana del 17 de marzo del presente 
+año. Asimismo se están coordinando las pruebas de Partida Autónoma en esta central para el 
+mes de mayo del 2025, este último está relacionado con la finalización del proyecto 
+Reemplazo Switchgear SSAA CH Colbún, NUP 4739, ya que este proyecto afecta 
+directamente la lógica de control de la Partida Autónoma y el grupo electrógeno asociado a 
+este servicio. No obstante lo anterior, se están planificando pruebas con la configuración 
+actual para los días 29 y 30 de marzo del año en curso  
+ 
+• 
+En cuanto a la central hidráulica Canutillar se están planificando las pruebas de Control 
+Primario y Terciario de Frecuencia para la semana del 31 de marzo.  
+ 
+• 
+La Central Angostura estuvo en proceso de desarrollo del AGC para la prestación del Control 
+Secundario de Frecuencia durante el año 2024, este proyecto finalizó en noviembre de ese 
+año resultando en que las unidades quedaron habilitadas para la prestación de este servicio. 
+Luego de esto la central entra en un régimen de restricción para la prestación de los servicios 
+asociados al Control de Frecuencia que comienza en diciembre y finaliza en marzo. Es por 
+este motivo que se están haciendo las gestiones con General Electric, fabricante del regulador 
+de velocidad, para poder contar con su soporte para las pruebas de Control Primario y 
+Terciario de Frecuencia, una vez terminada la limitación vigente N°2024001875. Estas se 
+desarrollarán durante el primer semestre del año 2025. 
+ 
+• 
+Cabe mencionar que durante el año 2024 se habilitaron todos los Servicios Complementarios 
+en las centrales Candelaria y Diego de Almagro Sur. Adicionalmente se habilitó el Control 
+Terciario de Frecuencia en la central Santa María y el Control Secundario de Frecuencia en 
+la central Angostura. Asimismo el Coordinador consideró habilitadas a todas las unidades de 
+Colbún S.A. que estaban participando del Control Secundario de Frecuencia mediante AGC. 
+Por otra parte durante enero de 2025 se realizaron las pruebas de verificación en el Parque 
+Eólico Horizonte Etapa 1, NUP 1254, cuyos informes ya fueron considerados admisibles por 
+el Coordinador en la Plataforma Gestión de Proyectos.  
+ 
+Para finalizar me gustaría agregar que Colbún S.A. está muy comprometido con la prestación de 
+SSCC en el Sistema Eléctrico Nacional (SEN) para colaborar con la flexibilidad que se necesita, esto 
+
+ 
+3 
+ 
+se demuestra por los desempeños que presentan nuestras unidades cada vez que son requeridas para 
+participar de estos servicios. Asimismo estamos trabajando para avanzar lo más rápido posible con el 
+proceso de verificación de SSCC en las principales unidades generadoras de la Compañía de manera 
+de entregarle más herramientas al Coordinador en su tarea de mantener una operación continua y 
+segura del SEN    
+  
+ 
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+Sebastián Ruiz-Tagle Mena 
+Encargado Titular 
+COLBÚN. 
+ 
+Incl. Lo indicado 

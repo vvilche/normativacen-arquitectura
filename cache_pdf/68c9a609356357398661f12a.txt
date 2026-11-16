@@ -1,0 +1,53 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 16 de septiembre de 2025 
+ENGIE N°269/2025
+ 
+ 
+Señora 
+Gretchen Zbinden 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Solicitud de revisión del desempeño 
+mensual de controladores del EDAGxCE instalado en 
+la Zona Norte.  
+    
+ De nuestra consideración, 
+ 
+Mediante la presente, solicitamos formalmente la revisión de los factores de desempeño de los siguientes 
+controladores del EDAGxCE implementado en la Zona Norte.  
+ 
+1.- Factor de desempeño / Controlador local / PE Calama / Diciembre/24: El 20/12/24 se realizó un mantenimiento 
+programado según la solicitud 2024129889 subida a la plataforma Neomante. La disponibilidad calculada por el 
+Coordinador para las horas 12 a la 16 dio lugar a un factor de desempeño mensual de 99,44% (no sujeto a 
+remuneración) cuando debió haber sido del 100% al ser un mantenimiento programado debidamente formalizado, 
+por lo que solicitamos revisar y rectificar.  
+ 
+2.- Factor de desempeño / Controlador local / TER IEM U1 / Enero/25: El 06/01/25 en la hora 10, la disponibilidad 
+calculada por el Coordinador fue de 58% dando lugar a un factor de desempeño mensual menor al mínimo requerido 
+para recibir la remuneración mensual. A esa misma hora, nuestro sistema de monitoreo registró una deshabilitación 
+local que dura sólo 45 segundos según se podrá constatar en el registro de alarmas y eventos que se adjunta como 
+Anexo 1. Por las razones expuestas, solicitamos al Coordinador la revisión y rectificación del factor mensual de 
+desempeño para este controlador.  
+ 
+3.- Se solicita al Coordinador publicar los factores de desempeño de los controladores del EDAG x CE de la Zona 
+Norte durante el mes de febrero/25 habiendo pasado un tiempo prudente para su determinación.  
+ 
+Sin otro particular, lo saluda atentamente, 
+ 
+ 
+ Pablo Jorquera Riquelme  
+Encargado Titular 
+ENGIE Energía Chile S.A. 

@@ -1,0 +1,79 @@
+ 
+Santiago, 12 de agosto de 2026 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Ref.: Respuesta a carta DE03429-26 e insistencias posteriores – Cronograma y 
+plan de regularización para la verificación del Servicio Complementario de 
+Control Secundario de Frecuencia (CSF-AGC) e integración a Despacho 
+Económico (ED) de PFV Granja Solar. 
+[1] Carta DE03429-26 del Coordinador Eléctrico Nacional, de fecha 20 de mayo 
+de 2026. 
+[2] Carta DE05507-26 de COPEC Renovables SpA, de fecha 12 de junio de 2026. 
+[3] Carta DE05979-26 de COPEC Renovables SpA (Solicitud de Prórroga), de 
+fecha 06 de julio de 2026. 
+De nuestra consideración: 
+Junto con saluda, y en complemento a nuestras comunicaciones previas referentes al proceso de verificación 
+del Servicio Complementario de Control Secundario de Frecuencia (CSF-AGC) e incorporación a la herramienta 
+de Despacho Económico (ED) de la central PFV Granja Solar, nos dirigimos a usted con el objeto de presentar 
+el diagnóstico técnico, las acciones correctivas en curso y el cronograma estimado para el cumplimiento de 
+los requerimientos solicitados por este Coordinador. 
+1. Diagnóstico Técnico y Restricción Previa 
+De acuerdo con las revisiones técnicas y levantamientos realizados junto con la empresa encargada de la 
+Operación y Mantenimiento, se ha identificado una restricción técnica previa y crítica que condiciona el inicio 
+de las modificaciones de configuración para la integración al AGC/SITR: 
+• 
+Normalización de la RTU ABB/Hitachi Energy: Actualmente, la RTU560 de la central presenta alarmas 
+y avisos activos que impiden realizar modificaciones de configuración de forma segura. 
+• 
+Acciones en curso: Tras el diagnóstico de Hitachi Energy, se determinó la necesidad de adquirir 
+tarjetas SD de repuesto para realizar el respaldo, descarga de configuración, actualización de 
+firmware y reprogramación. A la fecha, ya se han generado las Órdenes de Compra correspondientes 
+para el suministro y servicio de normalización. 
+• 
+Plazo de normalización: Considerando los tiempos de fabricación e importación de repuestos 
+(estimados en 3 meses) y la posterior ejecución del servicio, se prevé la normalización total de la RTU 
+para fines de noviembre de 2026. 
+2. Cronograma de Integración 
+Una vez restablecida la RTU, se ejecutará la reconfiguración del PPC y las pruebas con el Coordinador 
+bajo la siguiente programación estimada: 
+Hito 
+Plazo Estimado 
+0. Normalización RTU560: Arribo e instalación de repuestos y actualización de 
+firmware. 
+Noviembre 2026 
+
+ 
+Hito 
+Plazo Estimado 
+1. Enlaces e Ingeniería: Reconfiguración de PPC/RTU a Nivel 3 para recepción de 
+consignas AGC. 
+Diciembre 2026 
+2. Señales SITR: Habilitación de TAGs ICCP para integración al SITR. 
+Diciembre 2026 
+3. Pruebas Punto a Punto: Verificación e integración con Dpto. SCADA. 
+Diciembre 2026 
+4. Pruebas Funcionales ED: Integración y despacho vía AGC con Dpto. EMS. 
+Enero 2027 
+5. Cierre y Aprobación: Obtención de conformidad final del proceso de SSCC. 
+Enero 2027 
+ 
+Dado que la condición previa del equipamiento desplaza la conclusión del proceso más allá de noviembre 
+de 2026, estimamos completar la regularización total a comienzos de enero de 2027. 
+Finalmente, reiteramos nuestra disposición para regularizar y mantener informados al Coordinador de los 
+avances asociados al proceso de implementación. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Paula Domínguez 
+Encargado Suplente 
+COPEC Renovables SpA 
+77.875.443-6 
+PFV GRANJA SOLAR 
+ 

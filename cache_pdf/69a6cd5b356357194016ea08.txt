@@ -1,0 +1,98 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Santiago, 03 de marzo de 2026 
+ 
+    
+DE 01432-26 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Aceptación del Mínimo Técnico de la 
+Central PFV Tutuvén. 
+ 
+De mi consideración: 
+ 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional de 
+los parámetros de Mínimo Técnico de la Central PFV Tutuvén, en conformidad con el 
+Informe Técnico recibido en la página web del Coordinador mediante comunicación de la 
+Ref. [1]. 
+ 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 10 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno al informe 
+indicado, publicado en la página web del Coordinador mediante la comunicación de la Ref. 
+[2]. Por su parte, el Coordinador no tiene observaciones de carácter técnico al informe 
+mencionado. 
+ 
+Conforme a lo anterior, los parámetros de Mínimo Técnico de la Central PFV Tutuvén se 
+presentan en la siguiente tabla: 
+ 
+Tabla 1: Parámetros de Mínimo Técnico de la Central PFV Tutuvén 
+Central 
+Mínimo Técnico 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas en 
+la central (1) 
+[MW] 
+Potencia Mínima 
+Neta (2) 
+[MW] 
+PFV Tutuvén 
+0,0367 
+0,0124 
+0,0117 
+0,0126 
+(1) Las pérdidas corresponden a la suma de las pérdidas en la red colectora (0,0117 MW) y las pérdidas 
+en el transformador principal son consideradas como 0 MW, ya que la central se conecta directamente 
+a la barra de 13,2 kV de la S/E Cauquenes. 
+(2) Inyectada en barra 13,8 kV de la S/E Cauquenes. 
+ 
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del 05 de marzo de 2026. 
+ 
+El informe técnico que contiene la justificación de los parámetros indicados anteriormente 
+se encuentra en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Parámetros Operacionales de 
+Unidades Generadoras > Mínimo Técnico > Informes de Mínimos Técnicos Unidades 
+Generadoras > Central PFV Tutuvén > 2025 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PPF/ASA/adr 
+ 
+Referencias 
+ 
+[1] Carta GR-CHL0110A-473/2025 de Parque Fotovoltaico Nuevo Quillagua SpA, Ref.: 
+“Comunica la entrega de informes de Potencia Máxima, Parámetros de Partida y Detención 
+de Unidades Generadoras y Mínimo Técnico del Proyecto NUP 1480 – PMG PFV Tutuvén 
+8,48 MW”, de fecha 14 de julio de 2025. Ingreso DE06618-25. 
+ 
+[2] Carta DE04805-25, Ref.: “[NUP 1480] Informes Técnicos de Parámetros Operacionales 
+de la central PFV Tutuvén”, de fecha 05 de agosto de 2025. 
+ 

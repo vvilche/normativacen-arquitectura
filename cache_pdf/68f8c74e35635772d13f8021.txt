@@ -1,0 +1,431 @@
+ 
+ 
+ 
+Santiago, 21 de octubre de 2025 
+DE 06707-25 
+Señor 
+Alejandro Larenas 
+Encargado Titular 
+Elektra Generación S.A. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Terciario de 
+Frecuencia de las centrales TER Constitución, TER 
+Maule y TER Chiloé. 
+Responde a Ingresos DE02437-22 y DE09883-25. 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación del Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1] y el anexo complementario de la Ref. [2], 
+comunico a Ud. que en cumplimiento con lo establecido en el Artículo 4-16 de la Norma 
+Técnica de Servicios Complementarios (NTSSCC), ha finalizado el proceso de verificación 
+del Servicio Complementario (SC) de Control Terciario de Frecuencia (CTF) de las centrales 
+TER Constitución, TER Maule y TER Chiloé.  
+ 
+Como resultado de este proceso, las centrales mencionadas quedarán habilitadas para la 
+prestación del mencionado servicio complementario a partir de las 00:00 del 23 de octubre 
+de 2025, considerando los recursos indicados en Anexo de la presente carta.  
+ 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NT-SSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico y documentos que justifican la verificación de la 
+capacidad de la prestación del CTF de las centrales TER Constitución, TER Maule y TER 
+Chiloé se han publicado en las siguientes rutas de la página web del Coordinador Eléctrico 
+Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia 
+ 
+1. > Central TER Constitución 
+2. > Central TER Maule 
+3. > Central TER Chiloé 
+ 
+Finalmente, las centrales mencionadas podrán participar de las subastas de CTF una vez 
+que completen el proceso de solicitud de incorporación a la plataforma de subastas. Para 
+ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+ 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, las centrales mencionadas podrán ser instruidas de manera 
+directa por el Coordinador Eléctrico Nacional en la prestación del mencionado SC.  
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/WJS/adr 
+c.c.:  
+Sr. Rigoberto Ferrer – Encargado Suplente Elektra Generación S.A. 
+ 
+Referencias: 
+ 
+[1] Carta GG 08_22, Ref.: “Informes de SSCC de Centrales Constitución 1, Maule y Chiloé”, 
+de fecha 09 de mayo de 2022. Ingreso DE02437-22. 
+ 
+[2] Carta GG_021_25, Ref.: “Responde a carta Ingreso DE02437-22. Observaciones a 
+Informes Técnicos de Verificación de SS.CC. de central TER Chiloé, TER Constitución y 
+TER Maule”, de fecha 25 de septiembre de 2025. Ingreso DE09883-25. 
+
+ 
+1 Para la estimación del valor de la potencia mínima neta se consideran los consumos propios de las centrales TER 
+Constitución, TER Maule y TER Chiloé, de 6,050%, 2,295% y 1,84%, respectivamente, valores obtenidos desde la 
+plataforma InfoTécnica del Coordinador. 
+  
+Anexo: Resultados del Proceso de Verificación de SSCC de las Centrales 
+TER Constitución, TER Maule y TER Chiloé. 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Constitución  
+• 
+Potencia máxima bruta: 9,593 [MW] 
+• 
+Potencia máxima neta: 9,012 [MW] 
+• 
+Potencia mínima bruta: 1,120 [MW] 
+• 
+Potencia mínima neta1: 1,052 [MW] 
+b) Central TER Maule 
+• 
+Potencia máxima bruta: 6,099 [MW] 
+• 
+Potencia máxima neta: 5,959 [MW] 
+• 
+Potencia mínima bruta: 0,375 [MW] 
+• 
+Potencia mínima neta1: 0,366 [MW] 
+c) Central TER Chiloé 
+• 
+Potencia máxima bruta: 9,227 [MW] 
+• 
+Potencia máxima neta: 9,056 [MW] 
+• 
+Potencia mínima bruta: 0,600 [MW] 
+• 
+Potencia mínima neta1: 0,588 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Terciario de 
+Frecuencia  
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia: 
+Las siguientes condiciones específicas son aplicables a todas las centrales 
+mencionadas: 
+• 
+Las centrales TER Chiloé, TER Constitución 1 y TER Maule, no cuentan con un 
+control conjunto de planta; la operación de las unidades se realiza de manera 
+individual y en forma manual por el operador de turno, por lo que la tasa de subida 
+y bajada de carga a nivel de planta no es ajustable. Los valores de tasa de toma y 
+bajada de carga son informados por el coordinado a partir de información histórica 
+de las partidas y detenciones de las centrales de generación.
+
+ 
+ 
+• 
+Los tiempos involucrados en la entrada en operación de la central varían en función 
+a la potencia solicitada por el Coordinador, ya que, dependiendo de esta potencia 
+se define la cantidad de equipos a ingresar al SEN. Como promedio, cada equipo 
+motor generador desde su partida hasta llegar a plena carga demora un tiempo de 
+5 minutos, y desde plena carga hasta su detención toma un tiempo aproximado de 
+10 minutos, ya que, considera 5 minutos en concepto de enfriamiento del equipo. 
+Una vez detenido, no se contemplan tiempos de espera para volver a operarlo 
+nuevamente. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Elektra Generación 
+S.A. para las centrales mencionadas. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver páginas siguientes.  
+ 
+ 
+
+ 
+ 
+a) Central TER Constitución: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Combustible 
+Parámetro 
+Valor determinado 
+TER 
+Constitución 
+Diésel 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+0,632 
+ 
+Bajada 
+1,580 
+ 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+0,632 
+ 
+Bajada 
+1,580 
+ 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] 
+Subida 
+6,32 
+ 
+Bajada (2) 
+-7,960 
+ 
+Límite de regulación superior [MW] (3) 
+9,593 
+ 
+Límite de regulación inferior [MW] (3) 
+1,120 
+ 
+Subcategoría 
+CTF en frío 
+ 
+TER 
+Constitución 
+Diésel 
+Tiempo de partida - sincronización [min] 
+1 
+ 
+Tiempo sincronización - mínimo técnico [min] 
+3 
+ 
+Reserva fría [MW] 
+6,320 
+ 
+(1) La tasa de subida y bajada de carga es fija, debido a que el accionamiento de las unidades es manual. 
+ 
+(2) El aporte de bajada es calculado considerando las potencias netas correspondientes a la resta de 9,012 - 1,052 = 7,960 [MW].  
+(3) Los límites de regulación y el aporte máximo de CTF, asociados a potencia activa bruta, podrán verse modificados si se 
+actualizan los parámetros operacionales de la central. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+b) Central TER Maule: 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Combustible 
+Parámetro 
+Valor determinado 
+TER Maule 
+Diésel 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+0,489 
+ 
+Bajada 
+1,125 
+ 
+Tasa máxima de 
+operación [MW/min] (1) 
+Subida 
+0,489 
+ 
+Bajada 
+1,125 
+ 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] 
+Subida 
+4,890 
+ 
+Bajada (2) 
+-5,593 
+ 
+Límite de regulación superior [MW] (3) 
+6,099 
+ 
+Límite de regulación inferior [MW] (3) 
+0,375 
+ 
+Subcategoría 
+CTF en frío 
+ 
+TER Maule 
+Diésel 
+Tiempo de partida - sincronización [min] 
+1,5 
+ 
+Tiempo sincronización - mínimo técnico 
+[min] 
+3 
+ 
+Reserva fría [MW] 
+4,890 
+ 
+(1) La tasa de subida y bajada de carga es fija, debido a que el accionamiento de las unidades es manual. 
+ 
+(2) El aporte de bajada es calculado considerando las potencias netas correspondientes a la resta de 5,959 - 0,366 = 5,593 [MW]  
+(3) Los límites de regulación y el aporte máximo de CTF, asociados a potencia activa bruta, podrán verse modificados si se 
+actualizan los parámetros operacionales de la central. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+c) Central TER Chiloé:  
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Combustible 
+Parámetro 
+Valor determinado 
+TER Chiloé 
+Diésel 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+0,600 
+ 
+Bajada 
+1,400 
+ 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+0,600 
+ 
+Bajada 
+1,400 
+ 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] 
+Subida 
+6,000 
+ 
+Bajada (2) 
+-8,467 
+ 
+Límite de regulación superior [MW] (3) 
+9,227 
+ 
+Límite de regulación inferior [MW] (3) 
+0,600 
+ 
+Subcategoría 
+CTF en frío 
+ 
+TER Chiloé 
+Diésel 
+Tiempo de partida - sincronización [min] 
+1 
+ 
+Tiempo sincronización - mínimo técnico 
+[min] 
+3 
+ 
+Reserva fría [MW] 
+6 
+ 
+(1) La tasa de subida y bajada de carga es fija, debido a que el accionamiento de las unidades es manual. 
+ 
+(2) El aporte de bajada es calculado considerando las potencias netas correspondientes a la resta de 9,056 - 0,5888 = 8,467 [MW]  
+(3) Los límites de regulación y el aporte máximo de CTF, asociados a potencia activa bruta, podrán verse modificados si se 
+actualizan los parámetros operacionales de la central. 
+ 
+ 

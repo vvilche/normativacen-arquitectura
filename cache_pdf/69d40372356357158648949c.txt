@@ -1,0 +1,69 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+      
+ 
+Santiago, 06 de abril de 2026 
+ 
+DE 02238-26 
+Señor 
+Víctor Gutiérrez 
+Encargado Titular 
+CGE Transmisión S.A. 
+Presente 
+ 
+Ref.: 
+EAF 
+066/2026: 
+Apertura 
+intempestiva del interruptor 52CT1 de 
+S/E Penco. 
+ 
+De mi consideración: 
+ 
+Me refiero al evento de la referencia, ocurrido el día 30 de enero de 2026 a partir 
+de las 21:52 horas, en el cual se vieron afectadas instalaciones de su representada. 
+Al respecto, con el objeto de aclarar debidamente las causas y consecuencias del 
+evento en cuestión, en virtud de lo establecido en el Título 6-7 y, en particular, el 
+Artículo 6-44 de la Norma Técnica de Seguridad y Calidad de Servicio, y de las 
+modificaciones aplicadas al proceso de los Estudios para Análisis de Falla, 
+instruidas por la Superintendencia de Electricidad y Combustibles mediante las 
+Resoluciones Exentas N°30989-2019 y N°30891-2019, solicito a usted remitir a 
+este Coordinador antes de las 18:00 horas del día 13 de abril de 2026, la 
+siguiente información: 
+• Aclaración sobre la inconsistencia observada entre los canales de tensiones 
+y corrientes de la protección EFACEC TPU S220 del paño CT1 de S/E 
+Penco, esto es, que la fase que exhibió sobrecorriente durante el evento no 
+coincide con la que exhibió baja tensión, y medidas correctivas, si 
+corresponde, junto con su cronograma de implementación. 
+ 
+• Aclaración sobre la inconsistencia entre los sistemas de protección de los 
+paños CT1 y C4 de S/E Penco respecto de la fase que presentó 
+sobrecorriente, y medidas correctivas, si corresponde, junto con su 
+cronograma de implementación. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+• Resultados de las acciones correctivas comprometidas en el Informe de 
+Falla de 5 días, a saber: “Se realizará la revisión del equipo de sincronización 
+horaria hacia el C4, según DI2026012792. Se realizará una revisión del 
+alambrado y lógicas de control de ambos relés de los paños CT1 y C4 de 
+manera de determinar porque no ocurrió el correcto bloqueo de la lógica 
+adaptativa. Según DI2026012793”. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+ 
+ 
+c.c.: 
+Sr. Claudio Metayer – Encargado Suplente CGE Transmisión S.A. 
+ 
+DAOP/dol 

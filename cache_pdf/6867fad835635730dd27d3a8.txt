@@ -1,0 +1,63 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 24246300.  
+www.coordinador.cl 
+ 
+Santiago, 04 de julio de 2025 
+DE 4036-25 
+Señor 
+Miguel Buzunariz R. 
+Encargado Titular  
+ENEL GENERACIÓN CHILE S.A. 
+Presente 
+ 
+Ref.:  Indisponibilidad de las unidades generadoras de 
+la central Ralco en el Control Automático de 
+Generación (AGC). 
+[1] Informes de Limitación IL2024000371 por la 
+unidad 1 y IL2024001217 por la unidad 2. 
+  
+De mi consideración: 
+Me refiero a los informes de la Ref. [1], mediante los cuales su representada informó la limitación 
+para las unidades 1 y 2 de central Ralco en el Control Automático de Generación (AGC) del 
+Coordinador.  
+Al respecto, y habida cuenta de los antecedentes presentados en los informes de limitación, y la 
+extensa duración de estos, que afectaron su disponibilidad en la prestación del SC del Control 
+Secundario de Frecuencia (CSF), este Coordinador solicita a su representada tomar las medidas 
+que eviten la repetición de esa indisponibilidad y, en caso de presentarse en el futuro, llevar a cabo 
+las siguientes acciones: 
+1. Cada vez que una unidad generadora se encuentre limitada para la prestación del CSF por 
+fallas recurrentes en sus equipos de comunicaciones, control de las unidades, u otros, que 
+ameriten recambios o reparaciones mayores para su normalización. Se solicita que, junto 
+con el ingreso del informe de limitación, se remitan al correo dmap@coordinador.cl los 
+antecedentes técnicos que den cuenta del plan de acción para remediar esta situación en un 
+plazo acotado de tiempo. 
+2. Al momento de proceder con el cierre o cancelación de la limitación en la plataforma 
+NEOMANTE, se informe de manera inmediata al Centro de Despacho y Control (CDC), para 
+efectos de coordinar con el Departamento de Confiabilidad y Soporte Técnico 
+(DCST@coordinador.cl) la programación de las pruebas necesarias para verificar el correcto 
+desempeño del AGC. 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 24246300.  
+www.coordinador.cl 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+AOG/adr 
+c.c.:  
+Sr. Adrián Guzmán M. - Encargado Suplente ENEL GENERACIÓN CHILE S.A. 
+Sr. Felipe Antinao, jefe del Depto. Confiabilidad y Soporte Técnico, del Coordinador 
+ 

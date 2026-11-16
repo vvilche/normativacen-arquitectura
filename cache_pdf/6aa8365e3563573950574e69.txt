@@ -1,0 +1,58 @@
+Santiago, 31 de agosto de 2026
+AR 0872-2026
+Señor
+Ramón Castañeda
+Director Ejecutivo
+Coordinador Eléctrico Nacional 
+Presente
+Ref.: Solicitud de Autorización de Conexión
+Proyecto Faro Solar
+Estimado Sr. Castañeda,
+Mediante la presente, y dando cumplimiento al artículo 15 del Decreto N°37 de 2019 del Ministerio 
+de Energía, que Aprueba Reglamento de los Sistemas de Transmisión y de la Planificación de la 
+Transmisión, se presenta la Solicitud de Autorización de Conexión (SAC) para la conexión del 
+Proyecto Faro Solar, correspondiente a un proyecto de Generación / Consumo cuya componente de 
+generación corresponde a un parque solar con almacenamiento.  El proyecto considera una 
+capacidad instalada de 1.200 MW compuesta por 600 MW de generación solar fotovoltaica y 600 
+MW de almacenamiento BESS por 4 horas. Adicionalmente, el proyecto considera una capacidad 
+de consumo máxima de 200 MW desde la red y una capacidad máxima de inyección a la red de 400 
+MW. La conexión del proyecto se realizará mediante un paño en 220 kV con la S/E Centinela, ubicada 
+en la Comuna de Sierra Gorda, Región de Antofagasta. Se estima que la Puesta en Servicio ocurrirá 
+durante el mes de agosto de 2032, mientras que su entrada en operación se proyecta para 
+septiembre del mismo año.
+Junto con la presente comunicación, se entregan los Formularios que el Coordinador ha dispuesto 
+para la presentación de estas solicitudes, mientras que el expediente completo se presentará en la 
+plataforma de acceso abierto
+A su vez, informamos a Ud. que los coordinadores para efectos del proceso que se inicia serán las 
+siguientes personas, ambos individualizados en el Formulario correspondiente:
+•
+Daniella Bustos Reyes, daniella.bustos@aes.com
+Desde ya agradecemos su atención y quedamos a disposición en caso de que sea necesario aclarar 
+o complementar la información enviada para una adecuada tramitación.
+Sin otro particular, saluda atentamente a usted,
+Paola Hartung Martínez
+Representante Legal
+Chagual Energía SpA
+Adj.: lo indicado
+
+Electronic Record of Contracts
+This document was generated as a record of certain contracts created, accepted and stored electronically.
+Summary of Contracts
+This document contains the following contracts.
+Title
+ID
+Letter (Chagual Energía SpA and AES)
+7795814b-8915-4f85-ac17-ef242c93aad2
+Contract signed by:
+Paola Hartung Martínez
+Signer ID:
+6e83237a-7ae7-4118-8eb3-56320e103e6e
+Email:
+paola.hartung@aes.com
+Date / Time:
+Aug 31, 2026 at 4:58 PM UTC
+IP Address:
+98.98.28.147
+User Agent:
+Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/151.0.4129.96 
+Version/26.0 Mobile/15E148 Safari/604.1

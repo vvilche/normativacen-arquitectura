@@ -1,0 +1,61 @@
+ 
+ Santiago, 7 de agosto de 2026  
+ 
+Señor  
+Coordinador Eléctrico Nacional  
+Presente 
+ 
+Ref.: Responde cartas DE03429-26 y DE05186-26 – Proceso de 
+Verificación del Servicio Complementario de Control Secundario de 
+Frecuencia (CSF-AGC) e incorporación a la herramienta de Despacho 
+Económico (ED), Central FV Santa Isabel 
+ 
+De nuestra consideración: 
+En relación con los oficios mencionados en la referencia, mediante la cual la autoridad solicito información 
+relativa al proceso de verificación del Servicio Complementario de Control Secundario de Frecuencia (CSF-
+AGC) y la incorporación de la Central FV Santa Isabel a la herramienta de Despacho Económico (ED).  
+Respecto de la carta DE03429-26, recibida el 20 de mayo de 2026, informamos que la falta de respuesta 
+dentro del plazo indicado se debió a los daños sufridos por la Central FV Santa Isabel como consecuencia del 
+sismo 
+ocurrido 
+el 25 
+de 
+mayo 
+de 
+2026, 
+de 
+magnitud 
+6,9. Este evento 
+fue comunicado al 
+Coordinador mediante carta de fecha 5 de junio de 2026, relativa a la declaración de Presencia Efectiva de la 
+Central FV Santa Isabel a partir del 25 de mayo de 2026, en la que se informó la existencia de daños en la 
+Subestación Don Antonio asociada a la central.  
+Desde entonces, hemos concentrado nuestros esfuerzos en recuperar la operación segura de la central. De 
+acuerdo con el estado actual de los trabajos, esperamos que la central vuelva a operar durante el mes de 
+agosto de 2026. En cuanto a la implementación de los enlaces y señales requeridas para la verificación del 
+CSF, su integración al SITR/AGC y la integración funcional al Despacho Económico vía AGC, informamos 
+que estas actividades se encuentran retrasadas, principalmente por la necesidad de priorizar la atención de 
+los daños y la recuperación operacional de la central.  
+No obstante, estamos en conversaciones con nuestros contratistas y proveedores técnicos para acelerar las 
+actividades pendientes, incluyendo la implementación de enlaces, validación de señales, pruebas punto a 
+punto y programación de las pruebas funcionales de integración al Despacho Económico vía AGC. Nuestro 
+objetivo es completar la implementación, a más tardar, en noviembre de 2026, conforme a lo solicitado por el 
+Coordinador. Asimismo, estimamos que hacia fines de agosto de 2026 estaremos en condiciones 
+de entregar mayor información sobre el estado de avance y el cronograma actualizado de las actividades 
+pendientes.  
+Reiteramos nuestra disposición a colaborar con el Coordinador y a mantenerlo informado respecto de los 
+avances en la recuperación operacional de la Central FV Santa Isabel y en el proceso de integración CSF-
+AGC/ED. 
+ 
+Sin otro particular, saluda atentamente a usted. 
+ 
+ 
+ 
+_____________________________ 
+María Eugenia Orellana Visconti 
+Representante Legal 
+TSGF SPA 
+ 
+cc: 
+Sr. Patricio Valenzuela V. Subgerente de Control y Desarrollo Operacional Coordinador Eléctrico Nacional 
+Docusign Envelope ID: C50CA886-1C95-860A-82F9-66551309B86D

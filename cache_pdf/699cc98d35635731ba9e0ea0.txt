@@ -1,0 +1,83 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 23 de febrero de 2026 
+DE 01265-26 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Reliquidación excepcional Balance de 
+Transferencias de Energía enero 2023 y 
+abril 2023, versión preliminar. 
+ 
+Sres. Encargados:  
+ 
+Mediante la presente, según lo establecido en el Artículo 3-80 de la Norma Técnica de 
+Coordinación y Operación del SEN, informo a Ud. la publicación de una reliquidación excepcional 
+del balance de transferencias de energía de enero 2023, versión R03, y abril 2023, versión R02, 
+preliminar para observaciones. 
+Los resultados y antecedentes correspondientes se han dejado a disposición de las empresas, 
+en la plataforma de balance comercial, https://plabacom.coordinador.cl/, sección de descargas. 
+ 
+• 
+Energía: Sección: “Descargas > PLABACOM > 2023 > 01_Enero > Energia > 
+Reliquidación Preliminar R03P”. 
+• 
+Energía: Sección: “Descargas > PLABACOM > 2023 > 04_Abril > Energia > 
+Reliquidación Preliminar R02P”. 
+ 
+En el documento Anexo se indican los temas incluidos en la reliquidación. Sus observaciones 
+deben limitarse a los temas modificados producto de la reliquidación, y deben ser enviadas a 
+través 
+del 
+Módulo 
+de 
+Observaciones 
+de 
+la 
+Plataforma 
+de 
+Mercados 
+(https://plataformamercado.coordinador.cl/observaciones/) a más tardar el 26 de febrero de 
+2026, en los siguientes procesos: 
+• 
+Balance Transferencias Energía - Enero 2023 - Reliquidación Preliminar - Versión 3 
+• 
+Balance Transferencias Energía - Abril 2023 - Reliquidación Preliminar - Versión 2 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+RPP/FRH /adr 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo 
+ 
+Enero 2023 
+ 
+- Corrección generación central Chiloé, barra Quellón 110 
+- Corrección modelamiento retiro CTM, barra Mejillones 110 
+- Corrección reemplazos de empresas 
+ 
+ 
+Abril 2023 
+ 
+- Corrección generación central Lagunitas, barra Melipulli 23 
+- Corrección generación central Bio Energía Molina, barra Molina 13 
+- Corrección reemplazos de empresas 
+ 

@@ -1,0 +1,253 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 29 de mayo de 2026 
+DE 03639-26 
+ 
+Señor 
+Pablo Marcos 
+Encargado Titular 
+Huemul Energía SpA 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Primario de 
+Frecuencia de la central PE Ckhuri (NUP 380) 
+Responde a Ingreso DE04111-26 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control Primario 
+de Frecuencia (CPF) de la central PE Ckhuri. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario a partir de las 00:00 del 04 de junio de 2026, 
+considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CPF de la central PE Ckhuri se encuentra publicado en la siguiente ruta de 
+la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Primario de Frecuencia > Central PE Ckhuri 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+ 
+a) Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2], siendo el plazo 
+para esta acción de 30 días corridos contados desde la fecha de emisión de la 
+presente carta. Pese a no contar con las señales necesarias para evaluar el 
+desempeño en la prestación, la central PE Ckhuri quedará habilitada para prestar el 
+Servicio Complementario (SC) de Control Primario de Frecuencia (CPF), pudiendo 
+ser instruida por este Coordinador para prestar dicho servicio complementario, a 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+partir de la fecha antes señalada. En dicho caso, la evaluación de estas 
+instrucciones será “No Verificable”.  
+b) Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, su representada podrá proponer el utilizar medios 
+alternativos para poder realizar la evaluación de desempeño de la prestación del 
+SC, los que deberán ser evaluados y aprobados previamente por el Coordinador, 
+de cumplir condiciones requeridas. 
+ 
+Finalmente, la central mencionada podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+ 
+En el caso de que su representada tenga alguna consulta sobre el procedimiento de 
+Subastas 
+para 
+Control 
+de 
+Frecuencia, 
+podrá 
+dirigirla 
+al 
+correo 
+electrónico 
+programacion@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Patricio Valenzuela V. 
+Sugerente de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+PGR/ycl 
+ 
+Referencias 
+ 
+[1] Carta CH076-2026 de Huemul Energía SpA, Ref.: “Informe Técnico de Verificación de 
+Prestación de Servicios Complementarios del proyecto PE Ckhúri (ex Ckani) (NUP 380) – 
+Control Primario de Frecuencia”, de fecha 22 de abril de 2026. Ingreso DE04111-26 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+  
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva CF 2025.07.31 > Protocolo de envío de registros Potencia/Frecuencia para 
+la evaluación del CPF 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la 
+Central PE Ckhuri 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE Ckhuri 
+Los siguientes parámetros operacionales considerados en el proceso de verificación, se 
+encuentran aceptados por el Coordinador Eléctrico: 
+• 
+Potencia máxima bruta: 95,257 [MW] 
+• 
+Potencia máxima neta: 94,334 [MW] 
+A continuación, se presenta el mínimo técnico de la central. Este valor considera la totalidad 
+de aerogeneradores en servicio. 
+• 
+Potencia mínima bruta: 11,806 [MW]  
+• 
+Potencia mínima neta: 10,920 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia 
+• 
+El estatismo y banda muerta pueden ser ajustados por el operador desde el sistema 
+SCADA. 
+• 
+El estatismo (R) actual de la instalación se encuentra ajustado al 4%, respecto a una 
+potencia base igual a la potencia nominal de la central, correspondiente a 104 [MW]. 
+• 
+Cada vez que se solicite la prestación del CPF la central debe contar con su ajuste 
+de BM en 25 mHz.  
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Huemul Energía SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías.  
+Ver Tabla en página siguiente. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+a) Control Primario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+Central PE Ckhuri 
+Recuso Primario 
+Eólico 
+ 
+ 
+ 
+ 
+  
+  
+  
+Valor determinado 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2% - 8% 
+Estatismo 
+4% 
+Rango de ajuste Banda muerta [mHz] 
+25-200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+95,257 
+Límite de regulación inferior [MW] (3) 
+11,806 
+Aportes (4) 
+BM = 25 [mHz] 
+R = 4% 
+10  
+segundos 
+Aporte +0,2[Hz] [MW] 
+-9,05 
+Aporte -0,2[Hz] [MW] 
+8,89 
+Aporte +0,7[Hz] [MW] 
+-34,35 
+Aporte -0,7[Hz] [MW]  
+34,89 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-9,13 
+Aporte -0,2[Hz] [MW] 
+9,05 
+Aporte +0,7[Hz] [MW] 
+-35,35 
+Aporte -0,7[Hz] [MW]  
+35,07 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Corresponde a la Potencia máxima bruta aceptada por el Coordinador. 
+(3) Corresponde a la potencia activa mínima bruta con todos los aerogeneradores en servicio. 
+(4) Aportes para CPF+ y CPF- en ±0,2 [Hz] determinados con una consigna de 70 [MW] y en ±0,7 [Hz] determinados con 
+una consigna de 44 [MW]. El aporte de la central es uniforme en todo su rango de operación. 
+ 
+ 

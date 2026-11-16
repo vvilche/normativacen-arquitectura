@@ -1,0 +1,582 @@
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Santiago, 19 de junio de 2026 
+EGP 077-26 
+ 
+Señor 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+MATERIA: 
+RESPUESTA CARTA DE03648-26, APLICACIÓN DEL ARTÍCULO 7-5 DEL 
+ANEXO TÉCNICO DE EXIGENCIAS MÍNIMAS DE INSTALACIONES 
+BASADAS EN CONVERTIDORES QUE SE CONECTAN AL SISTEMA 
+ELÉCTRICO 
+NACIONAL, 
+PARA 
+INSTALACIONES 
+EXISTENTES 
+CONECTADAS AL SEN. 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente comunicación, y en relación con lo solicitado en la carta 
+DE03648-26, de fecha 05 de junio de 2026, mediante la cual ese Coordinador 
+requiere informar la situación de las instalaciones IBR tipo Grid Following 
+conectadas al Sistema Eléctrico Nacional respecto del cumplimiento de las nuevas 
+exigencias normativas aplicables, venimos en informar lo siguiente. 
+ 
+En primer término, informamos que se adjunta a la presente comunicación el 
+cronograma de trabajo preliminar requerido por ese Coordinador, elaborado sobre 
+la base de los antecedentes técnicos disponibles a la fecha, la información 
+recopilada internamente y las gestiones actualmente en curso con los respectivos 
+fabricantes de inversores, integradores, proveedores de sistemas de control y/o 
+proveedores principales de los equipos asociados. 
+ 
+El referido cronograma se acompaña en el Anexo N°1 de esta comunicación, 
+indicando, para cada instalación, la clasificación preliminar de acuerdo con las 
+alternativas señaladas por ese Coordinador, esto es: Informe Técnico de 
+Cumplimiento, Informe Técnico de Imposibilidad de Cumplimiento, o Informe 
+Técnico explicativo y Plan de Adecuaciones, según corresponda. 
+ 
+Sin perjuicio de lo anterior, cabe hacer presente que la clasificación indicada tiene 
+carácter preliminar y se encuentra sujeta a la recepción, revisión y validación de 
+antecedentes formales por parte de los respectivos OEM, integradores y 
+proveedores de sistemas de control, toda vez que los requerimientos establecidos 
+en el AT IBR involucran funcionalidades, parámetros y lógicas de control que, en 
+varios casos, forman parte del software, firmware, PPC, SCADA y/o sistemas 
+propietarios de los fabricantes o integradores tecnológicos. 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+En particular, para las instalaciones de tecnología solar fotovoltaica, Enel Green 
+Power Chile S.A. se encuentra desarrollando un proceso de confirmación de 
+factibilidad técnica con los proveedores de inversores correspondientes. A la fecha, 
+se han recibido antecedentes parciales de algunos proveedores, particularmente 
+Huawei y Sungrow, los cuales se encuentran en análisis técnico, sin que exista 
+todavía una definición completa y formal del alcance, valorización, amplitud de 
+intervención, eventuales actualizaciones de firmware, modificaciones de software, 
+ajustes de PPC o necesidades de validación en sitio. 
+ 
+Respecto de otros fabricantes, se han efectuado solicitudes y recordatorios 
+formales, encontrándose pendiente la recepción de antecedentes técnicos 
+suficientes para confirmar cumplimiento, imposibilidad de cumplimiento o necesidad 
+de adecuaciones. En estos casos, la clasificación indicada en el cronograma se 
+informa en forma conservadora y preliminar, sin perjuicio de su actualización una 
+vez recibidos los pronunciamientos formales respectivos. 
+ 
+En el caso particular de las instalaciones asociadas a inversores Santerno, se 
+mantiene la condición ya informada previamente a ese Coordinador, en respuesta 
+a carta DE01494-26, relativa a la situación legal y operacional del fabricante 
+Enertronica Santerno S.p.A., lo que limita la posibilidad de obtener soporte técnico 
+OEM, validaciones, ensayos, actualizaciones o confirmaciones formales necesarias 
+para acreditar cumplimiento normativo o definir adecuaciones técnicamente 
+verificables. En consecuencia, dichas instalaciones se clasifican preliminarmente 
+bajo la alternativa de Informe Técnico de Imposibilidad de Cumplimiento o de 
+acreditación de cumplimiento, lo que será desarrollado con los antecedentes 
+disponibles en el informe técnico definitivo. 
+ 
+En cuanto a las centrales de tecnología Eólica de mi representada, es importante 
+señalar que a la fecha, los procesos de consulta y análisis con los fabricantes de los 
+equipos aún no han derivado en respuestas concluyentes, tanto en lo relativo al 
+grado de cumplimiento efectivo de algunas funcionalidades exigidas, como respecto 
+de la definición y valorización de las adecuaciones técnicas requeridas en aquellos 
+casos donde se han identificado brechas preliminares con las exigencias del anexo 
+técnico de IBR, lo cual constituye un insumo crítico para la adecuada clasificación 
+de las instalaciones conforme a lo establecido en el Artículo 7-5 del AT IBR. 
+  
+En este contexto, nuestras instalaciones de tecnología Eólica se encuentran 
+actualmente en una fase de análisis y clasificación, conforme a las categorías 
+establecidas en el Artículo 7-5 del AT IBR, esto es, instalaciones que cumplen las 
+exigencias aplicables, aquellas que no cumplen las exigencias aplicables y aquellas 
+que requieren de adecuaciones para el cumplimiento, proceso que requiere la 
+consolidación de antecedentes técnicos suficientes que aseguren la consistencia y 
+debido respaldo de los informes a presentar. 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 
+Para las instalaciones BESS/SAE, se informa que el análisis se encuentra 
+igualmente en curso, considerando tanto el cumplimiento de las exigencias 
+aplicables a IBR GFL como la factibilidad técnica de actualización para operación 
+como IBR Grid Forming, según corresponda. Para algunas instalaciones se han 
+recibido antecedentes técnicos y valorizaciones preliminares asociadas a 
+eventuales adecuaciones de PPC, sistema de control y/o integración a nivel planta. 
+No obstante, a la fecha dichos antecedentes aún no permiten cerrar de manera 
+completa la solución técnica a implementar, ni confirmar íntegramente si el alcance 
+considera todos los aspectos requeridos, incluyendo operación en isla, 
+funcionalidades 
+GFM, 
+coordinación 
+entre 
+inversores 
+y 
+PPC, 
+SCADA, 
+parametrización y validación a nivel instalación. 
+ 
+Asimismo, para determinados sistemas BESS se mantienen gestiones con los 
+proveedores principales e integradores tecnológicos, encontrándose pendiente la 
+recepción de pronunciamientos formales de factibilidad, alcance técnico y 
+eventuales costos asociados. Por lo anterior, estas instalaciones se clasifican 
+preliminarmente bajo la alternativa de Informe Técnico explicativo y Plan de 
+Adecuaciones, sin perjuicio de que dicha clasificación pueda ser precisada en la 
+medida que se reciban los antecedentes formales pendientes. 
+ 
+En este contexto, Enel Green Power Chile S.A. confirma su total disposición a dar 
+cumplimiento a las obligaciones normativas aplicables y a colaborar con ese 
+Coordinador en la entrega de antecedentes completos, consistentes y trazables. 
+Para estos efectos, se continuará con las gestiones ante los fabricantes e 
+integradores, se consolidarán los antecedentes técnicos y se prepararán los 
+informes definitivos y planes de adecuación que correspondan, conforme al plazo 
+indicado por ese Coordinador, esto es, a más tardar el 03 de noviembre de 2026. 
+ 
+Finalmente, solicitamos respetuosamente a ese Coordinador tener presente el 
+carácter preliminar del cronograma acompañado, considerando que la definición 
+final del cumplimiento, imposibilidad o adecuaciones requeridas depende en parte 
+relevante de información técnica de terceros, especialmente fabricantes de equipos 
+de conversión, proveedores de PPC, integradores de sistemas de almacenamiento 
+y proveedores de sistemas de control. 
+Asimismo, cabe hacer presente que, en aquellos casos en que las adecuaciones 
+requeridas impliquen modificaciones relevantes a nivel de equipos principales, 
+arquitectura de control o configuración de planta, dicha intervención podría exceder 
+el carácter de una actualización o adecuación menor, configurando más bien una 
+intervención de tipo revamping o, en los casos de mayor envergadura, un rebuilding 
+de los activos de conversión existentes. En tales escenarios, no es correcto hablar 
+propiamente de una "factibilidad técnica de migración" en los términos de una 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+actualización incremental, sino de un proyecto de reconversión tecnológica que 
+conlleva los plazos, complejidad de ingeniería y requerimientos de inversión propios 
+de intervenciones de esta naturaleza. En consecuencia, esperamos que, en la 
+medida que se confirme esta condición para las instalaciones correspondientes, 
+existan los incentivos regulatorios y/o económicos adecuados que permitan 
+apalancar las inversiones requeridas y hacer viable, en la práctica, la 
+implementación de dichas adecuaciones. 
+En caso de recibirse antecedentes concluyentes con anterioridad al plazo indicado, 
+Enel Green Power Chile S.A. podrá actualizar oportunamente la información 
+remitida. 
+Sin otro particular, y esperando una favorable acogida de esta comunicación, 
+atentamente se despide, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+______________________________________ 
+Adrian Guzmán M. 
+Encargado (S) CEN. 
+ ENEL GREEN POWER CHILE S.A. 
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ANEXO N°1 
+Cronograma preliminar de trabajo, Artículo 7-5 AT IBR 
+Instalación 
+Tecnología Proveedor / 
+OEM 
+Clasificación preliminar 
+Fecha estimada entrega  
+informe definitivo 
+Observaciones resumidas 
+La Silla 
+PFV 
+Greenpower 
+B: Informe Técnico de Imposibilidad de 
+Cumplimiento 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+Azabache 
+PFV 
+Friem 
+C: Informe Técnico explicativo. Por 
+Confirmar 
+ 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se cuenta aún con 
+antecedentes suficientes para cerrar condición. Antecedentes 
+preliminares sugieren que la actualización requerida podría conllevar 
+una inversión (CAPEX) alta a nivel de planta 
+Chañares 
+PFV 
+Santerno 
+B: Informe Técnico de Imposibilidad de 
+Cumplimiento 
+03-11-26 
+Limitación relevante de soporte OEM por situación legal del fabricante. 
+Se preparará informe de imposibilidad o imposibilidad de acreditación. 
+Lalackama 
+PFV 
+Santerno 
+B: Informe Técnico de Imposibilidad de 
+Cumplimiento 
+03-11-26 
+Limitación relevante de soporte OEM por situación legal del fabricante. 
+Se preparará informe de imposibilidad o imposibilidad de acreditación. 
+Valle del Sol 
+PFV 
+Santerno 
+B: Informe Técnico de Imposibilidad de 
+Cumplimiento 
+03-11-26 
+Limitación relevante de soporte OEM por situación legal del fabricante. 
+Se preparará informe de imposibilidad o imposibilidad de acreditación. 
+Las Salinas 
+PFV 
+Sungrow 
+C: Informe Técnico explicativo  
+03-11-26 
+Sungrow entregó antecedentes parciales. Pendiente pronunciamiento 
+formal por modelo, alcance y respaldo documental completo. 
+Antecedentes preliminares sugieren que la actualización requerida 
+podría conllevar una inversión (CAPEX) alta a nivel de planta. 
+Campos del Sol 
+PFV 
+Sungrow 
+C: Informe Técnico explicativo. Por 
+Confirmar 
+ 
+03-11-26 
+Sungrow entregó antecedentes parciales. Pendiente pronunciamiento 
+formal por modelo, alcance y respaldo documental completo. 
+Antecedentes preliminares sugieren que la actualización requerida 
+podría conllevar una inversión (CAPEX) alta a nivel de planta. 
+Finis Terrae 
+Extensión 
+PFV 
+Sungrow 
+C: Informe Técnico explicativo. Por 
+Confirmar 
+03-11-26 
+Sungrow entregó antecedentes parciales. Pendiente pronunciamiento 
+formal por modelo, alcance y respaldo documental completo. 
+Antecedentes preliminares sugieren que la actualización requerida 
+podría conllevar una inversión (CAPEX) alta a nivel de planta. 
+Finis Terrae 
+PFV 
+Fimer 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal definitivo. Existen limitaciones de 
+soporte y no se cuenta con cierre técnico suficiente. Antecedentes 
+preliminares sugieren que la actualización requerida podría conllevar 
+una inversión (CAPEX) alta a nivel de planta. 
+Don Humberto 
+PFV 
+Huawei 
+C: Informe Técnico explicativo. Por 
+Confirmar 
+ 
+03-11-26 
+Antecedentes preliminares indican necesidad de adecuaciones, 
+principalmente firmware/PPC/control, sujetas a revisión de versión 
+instalada y validación. Adicionalmente, estos antecedentes sugieren que 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Instalación 
+Tecnología Proveedor / 
+OEM 
+Clasificación preliminar 
+Fecha estimada entrega  
+informe definitivo 
+Observaciones resumidas 
+la actualización requerida podría conllevar una inversión (CAPEX) alta a 
+nivel de planta. 
+El Manzano 
+PFV 
+Huawei 
+C: Informe Técnico explicativo. Por 
+Confirmar 
+  
+03-11-26 
+Antecedentes preliminares indican necesidad de adecuaciones, 
+principalmente firmware/PPC/control, sujetas a revisión de versión 
+instalada y validación. Adicionalmente, estos antecedentes sugieren que 
+la actualización requerida podría conllevar una inversión (CAPEX) alta a 
+nivel de planta. 
+Guanchoi 
+PFV 
+Huawei 
+C: Informe Técnico explicativo. Por 
+Confirmar 
+  
+03-11-26 
+Antecedentes preliminares indican necesidad de adecuaciones, 
+principalmente firmware/PPC/control, sujetas a revisión de versión 
+instalada y validación. Adicionalmente, estos antecedentes sugieren que 
+la actualización requerida podría conllevar una inversión (CAPEX) alta a 
+nivel de planta. 
+Sol de Lila 
+PFV 
+Huawei 
+C: Informe Técnico explicativo. Por 
+Confirmar 
+  
+03-11-26 
+Antecedentes preliminares indican necesidad de adecuaciones, 
+principalmente firmware/PPC/control, sujetas a revisión de versión 
+instalada y validación. Adicionalmente, estos antecedentes sugieren que 
+la actualización requerida podría conllevar una inversión (CAPEX) alta a 
+nivel de planta. 
+Don Humberto 
+BESS/SAE SMA / Wärtsilä C: Informe Técnico explicativo. Por 
+Confirmar 
+ 
+03-11-26 
+Inversores con antecedentes favorables dentro del alcance del 
+fabricante, pero cumplimiento integral depende de PPC, control, 
+SCADA, simulaciones y validación a nivel planta. Factibilidad GFM aún 
+en análisis. Antecedentes preliminares sugieren que la actualización 
+requerida podría conllevar una inversión (CAPEX) alta a nivel de planta. 
+El Manzano 
+BESS/SAE SMA / Wärtsilä 
+C: Informe Técnico explicativo. Por 
+Confirmar 
+  
+03-11-26 
+Inversores con antecedentes favorables dentro del alcance del 
+fabricante, pero cumplimiento integral depende de PPC, control, 
+SCADA, simulaciones y validación a nivel planta. Factibilidad GFM aún 
+en análisis. Antecedentes preliminares sugieren que la actualización 
+requerida podría conllevar una inversión (CAPEX) alta a nivel de planta. 
+La Cabaña 
+BESS/SAE SAFT / Power 
+Electronics 
+C: Informe Técnico explicativo. Por 
+Confirmar 
+ 
+03-11-26 
+Requiere adecuaciones y validación integral. Pendiente 
+pronunciamiento formal final de factibilidad, alcance y eventuales 
+intervenciones de proveedor/integrador. Antecedentes preliminares 
+sugieren que la actualización requerida podría conllevar una inversión 
+(CAPEX) alta a nivel de planta. 
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Instalación 
+Tecnología Proveedor / 
+OEM 
+Clasificación preliminar 
+Fecha estimada entrega  
+informe definitivo 
+Observaciones resumidas 
+Taltal 
+PE 
+Vestas 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+Sierra Gorda 
+Este 
+PE 
+Gamesa 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+Valle de los 
+Vientos 
+PE 
+Vestas 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+Talinay Oriente 
+PE 
+Vestas 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+Talinay 
+Poniente 
+PE 
+Vestas 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+Canela 
+PE 
+Vestas 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+Canela II 
+PE 
+Acciona 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+Los Buenos 
+Aires 
+PE 
+Vestas 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+Renaico I 
+PE 
+Vestas 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+Instalación 
+Tecnología Proveedor / 
+OEM 
+Clasificación preliminar 
+Fecha estimada entrega  
+informe definitivo 
+Observaciones resumidas 
+Renaico II 
+PE 
+Goldwind 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+La Cabaña 
+PE 
+Goldwind 
+C: Informe Técnico explicativo, con 
+posibilidad de B: Informe Técnico de 
+Imposibilidad de Cumplimiento. Por 
+Confirmar. 
+03-11-26 
+Pendiente pronunciamiento formal OEM. No se confirma aún 
+cumplimiento, imposibilidad ni alcance de adecuaciones. 
+ 
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ANEXO N°2 
+Antecedentes relativos a Enertronica Santerno S.p.A 
+ 
+En relación con las instalaciones que cuentan con equipos del fabricante Enertronica 
+Santerno S.p.A. (“Santerno”), cabe reiterar que la definición del cumplimiento normativo, de 
+una eventual imposibilidad técnica o de las adecuaciones necesarias para dar cumplimiento 
+a las exigencias del AT IBR requiere información técnica específica del fabricante, así como 
+eventual soporte asociado a configuraciones, parametrizaciones, actualizaciones de 
+firmware, modificaciones de software, validaciones y/o ensayos aplicables a los equipos y 
+sistemas de control correspondientes. 
+Sin embargo, Enertronica Santerno S.p.A. se encuentra actualmente en un procedimiento 
+de liquidación judicial declarado por el Tribunale di Bologna, Italia, con fecha 5 de noviembre 
+de 2025, según consta en el antecedente documental emitido por la propia sociedad, el cual 
+se adjunta a la presente comunicación para debida constancia. 
+De acuerdo con dicho antecedente, el Tribunal designó como Curadores a los doctores 
+Gian Luca Mattioli Belmonte Cima y Renato Santini, quienes tienen la facultad de gestionar 
+los asuntos asociados a la sociedad en el marco del referido procedimiento. En 
+consecuencia, cualquier requerimiento técnico, solicitud de soporte, validación, intervención 
+o pronunciamiento formal asociado a los equipos Santerno debe necesariamente 
+canalizarse considerando dicha situación legal, lo que afecta sustancialmente los plazos y 
+la disponibilidad efectiva de respuesta técnica del fabricante. 
+En atención a esta circunstancia excepcional, ajena al control directo de Enel Green Power 
+Chile S.A., las instalaciones asociadas a equipos Santerno se informan preliminarmente 
+bajo una condición sujeta a revisión técnica y legal, considerando la limitada posibilidad 
+actual de obtener antecedentes OEM suficientes para acreditar cumplimiento normativo, 
+confirmar adecuaciones técnicamente ejecutables o respaldar formalmente una eventual 
+imposibilidad de cumplimiento. 
+No obstante lo anterior, Enel Green Power Chile S.A. mantiene su disposición a continuar 
+realizando las gestiones razonablemente disponibles para obtener antecedentes técnicos, 
+documentar las limitaciones existentes y presentar, dentro del plazo establecido por ese 
+Coordinador, el informe técnico que corresponda, ya sea de cumplimiento, de imposibilidad 
+de cumplimiento o el informe explicativo con plan de adecuaciones, según resulte aplicable 
+conforme a los antecedentes disponibles. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ENEL GREEN POWER CHILE S.A. 
+ 
+Roger de Flor 2725, Las Condes, Santiago - Chile 
+ 

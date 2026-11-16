@@ -1,0 +1,69 @@
+Av. Apoquindo 4700 Piso 13 
+Las Condes, Santiago -Chile 
+                                                             
+ 
+ 
+Santiago, 07 de enero de 2026 
+CA TRCL 001-2026 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Presente 
+ 
+Referencia: Respuesta a carta DE0 0041-26 por atraso en el proceso de Verificación de Instalaciones de 
+Transmisión para la prestación de Servicios Complementarios
+. 
+ 
+De nuestra consideración. 
+ 
+En atención a la carta DE00041
+-26, referente al atraso en el proceso de verificación de instalaciones de 
+transmisión para la prestación de Servicios Complementarios (SSCC), informamos lo siguiente:
+ 
+ 
+1. 
+Razones del atraso en el envío de los informes de verificación de SSCC: 
+• 
+Los protocolos de verificación de SSCC correspondientes a nuestras instalaciones ya se encuentran 
+aprobados por el CEN. 
+• 
+Actualmente nos encontramos en plena ejecución del proyecto de reemplazo de los equipos de 
+protección y control en las instalaciones de Transchile, específicamente en los paños J7 y J8 de SE 
+Cautín (NUP 5708) y los paños J3 y J23 en SE Charrúa (NUP 5707). Si bien 
+hemos cumplido con todos 
+los requerimientos en PGP para poder realizar la intervención en terreno, no ha sido posible el 
+avance debido a que las solicitudes de desconexión presentadas por Transelec (NUP 3274) desde 
+finales del 2025 y enero de 2026 resultan incompatibles con las solicitudes de desconexión que 
+hemos presentado y por lo cual han sido rechazadas
+ en la plataforma NEOMANTE.  
+• 
+Las SD rechazadas son las siguientes: DI2025121660, DI2025121661, DI2025121668, DI20225121673 
+y DI2025121675. 
+2. 
+Plan de acción y nuevas fechas comprometidas: 
+• 
+Se proyecta realizar la intervención durante los meses de febrero y marzo de 2026, sujeto a la 
+coordinación con Transelec por los trabajos asociados al NUP 3274 
+y aprobación de las 
+desconexiones necesarias. 
+• 
+En consecuencia, el envío de los informes de verificación de SSCC está programado para fines de 
+marzo de 2026. 
+ 
+ 
+
+Av. Apoquindo 4700 Piso 13 
+Las Condes, Santiago -Chile 
+ 
+Agradecemos la comprensión y quedamos atentos a cualquier observación o requerimiento adicional
+. 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+ 
+Jorge Pérez Cruz 
+Gerente Técnico de Transmisión 
+Transchile Charrúa Transmisión S.A. 
+ 

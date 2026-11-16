@@ -1,0 +1,501 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 15 de septiembre de 2026 
+DE 06097-26 
+Señores 
+Encargados Titulares 
+Empresas Coordinadas 
+Según Lista de Distribución 
+Presente 
+Ref.: Incumplimiento de planes de mejora de 
+Desempeño de la prestación de SSCC, en el 
+marco de las medidas operacionales definidas 
+por el Coordinador Eléctrico Nacional y los 
+planes de trabajo comprometidos. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y de acuerdo con los antecedentes que dispone 
+este Coordinador, en el anexo de la presente comunicación se individualizan los 
+Coordinados e instalaciones que a la fecha no han finalizado su plan de trabajo 
+comprometido para el presente año y/o los hitos que presentan atrasos no justificados, 
+incumpliendo el plazo informado y formalizado con este Coordinador en las comunicaciones 
+de las Ref. [1] a [8].  
+ 
+En dicho anexo se detallan las acciones comprometidas a la fecha para cada una de las 
+instalaciones, describiendo los atrasos en el cumplimiento de planes de trabajo 
+comprometidos para impulsar mejoras en la prestación de SSCC. 
+ 
+De acuerdo con lo expuesto, solicito a Ud. informar fundadamente las razones o 
+circunstancias que explican los atrasos en las ejecuciones de los planes de normalización 
+comprometidos. Dicha información deberá ser remitida, dentro del plazo de tres días 
+hábiles (21 de septiembre), mediante carta ingresada en el Sistema de Correspondencia 
+del Coordinador. 
+ 
+Asimismo, se deja constancia de que el presente requerimiento no constituye una prórroga 
+del plazo originalmente conferido, sino únicamente una instancia para que su representada 
+entregue los antecedentes que estime pertinentes respecto del incumplimiento constatado. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional  
+Coordinador Eléctrico Nacional 
+SGASO/DCO 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Lista de Distribución:  
+1. Bioenergías Forestales SpA 
+2. Enel Green Power Chile S.A.  
+3. Engie Energía Chile S.A.  
+4. Generadora Metropolitana S.A. 
+5. Enel Generación Chile S.A. 
+ 
+Referencias:  
+ 
+[1]Carta GM N°2026-009, del coordinado Generadora Metropolitana SpA, Ref.: 
+“Desempeño deficiente en la prestación de los Servicios Complementarios de Control 
+Primario de Frecuencia, Control Terciario de Frecuencia y Control de Tensión de las 
+unidades generadoras”, de fecha 03 de febrero de 2026. Ingreso DE01053-26. 
+ 
+[2]Carta GM N°2026-019, del coordinado Generadora Metropolitana SpA, Ref.: 
+“Desempeño deficiente en la prestación de los Servicios Complementarios de Control 
+Primario de Frecuencia, Control Terciario de Frecuencia y Control de Tensión de las 
+unidades generadoras”, de fecha 06 de marzo de 2026. Ingreso DE02275-26. 
+ 
+[3]Carta BF-E-CAE-2026-032, del coordinado Bioenergías Forestales SpA, Ref.: 
+“Respuesta a carta DE01769-26. Desempeño deficiente en la prestación de los Servicios 
+Complementarios de Control Primario de Frecuencia, Control Terciario de Frecuencia y 
+Control de Tensión de las unidades generadoras febrero 2026”, de fecha 31 de marzo de 
+2026. Ingreso DE03199-26. 
+ 
+[4]Carta GM N°2026-026, del coordinado Generadora Metropolitana SpA, Ref.: 
+“Actualización Respuesta Desempeño CT Manual Nueva Renca– febrero 2026”, de fecha 
+01 de abril de 2026. Ingreso DE03291-26. 
+ 
+[5]Carta ENGIE N°194-2026, del coordinado Engie Energía Chile S.A., Ref.: “Respuesta a 
+carta DE03776-26: “Desempeño deficiente en la prestación de los Servicios 
+Complementarios de Control Primario de Frecuencia, Control Terciario de Frecuencia y 
+Control de Tensión de unidades generadoras en abril 2026”, de fecha 16 de junio de 2026. 
+Ingreso DE05588-26. 
+ 
+[6]Carta EGP 075-26, del coordinado Enel Green Power Chile S.A., Ref.: “Respuesta carta 
+DE03776-26: Desempeño deficiente en la prestación de los servicios complementarios de 
+Control Primario de Frecuencia, Control Terciario de Frecuencia y Control de Tensión de 
+las unidades generadoras en abril de 2026”, de fecha 17 de junio de 2026. Ingreso 
+DE05622-26. 
+ 
+[7]Carta GM N°2026-038, del coordinado Generadora Metropolitana SpA, Ref.: “Respuesta 
+Carta DE03776-26 Desempeño Servicios Complementarios abril 2026”, de fecha 17 de 
+junio de 2026. Ingreso DE05645-26. 
+ 
+[8]Carta EGP 076-26, del coordinado Enel Green Power Chile S.A., Ref.: “Respuesta carta 
+DE04102-26: Cumplimiento de exigencias normativas de las señales SITR para la 
+prestación de SSCC de Enel Generación Chile S.A. y Enel Green Power S.A.”, de fecha 19 
+de junio de 2026. Ingreso DE05696-26. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo 1: Atrasos en el cumplimiento de planes de trabajo comprometidos para la mejora en la prestación de SSCC. 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+1 Enel Green Power Chile 
+S.A. 
+PFV y BESS 
+Don Humberto  
+Mediante carta DE05622-26 de fecha 17/06/2026, el 
+Coordinado informó el estado de avance del plan de trabajo 
+y el análisis técnico del desempeño CPF del parque PFV y 
+BESS Don Humberto.  
+ 
+En dicha carta se comprometen las siguientes acciones: 
+ 
+1. 
+Asegurar operatividad y calidad de los sistemas 
+de 
+comunicación 
+del 
+parque. 
+Fecha 
+comprometida: 30 de junio. 
+ 
+2. 
+Consolidar las reglas operativas de habilitaciones 
+de los CPF más especificaciones de CPF (+) / 
+CPF (-) y, evaluar la implementación de entrega 
+de consignas automáticas. Fecha comprometida: 
+No informada. 
+ 
+3. 
+Realizar un análisis integral de la operación 
+conjunta BESS + Solar, incorporando control de 
+potencia integrado, setpoints de cada PPC, 
+gestión de capacidad de línea, impacto en 
+prestación CPF-CSF/AGC. Fecha comprometida: 
+26 de junio. 
+ 
+4. 
+Ejecución de pruebas integradas bajo distintos 
+escenarios 
+operativos 
+BESS+Solar. 
+Fecha 
+comprometida: “inicios de julio”.  
+ 
+Sin embargo, a la fecha no se tiene constancia de la 
+entrega de los respectivos análisis para revisión del 
+Coordinador, ni de la realización ni coordinación de los 
+ensayos comprometidos. 
+Enviar informe consolidado que contenga los 
+probatorios sobre la ejecución de las tareas 1, 2, 
+3 y 4. Este documento deberá incluir el análisis 
+de las pruebas BESS + Solar y la acción 
+correctiva aplicada con el objetivo de mejorar la 
+prestación de CPF de estas instalaciones. 
+  
+2 Enel Green Power Chile 
+S.A. 
+Señales 
+SCADA-SITR 
+Mediante carta DE05696-26 de fecha 19/06/2026, el 
+Coordinado envió su plan de trabajo para el cumplimiento 
+de exigencias normativas de las señales SITR para la 
+prestación de SSCC.  
+ 
+En dicha carta se comprometen las siguientes acciones: 
+ 
+Enviar informe consolidado que contenga los 
+probatorios sobre la ejecución de las tareas 1, 2 
+y 3, junto con detallar las acciones asociadas al 
+control de calidad permanente de la tarea 4. 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+1. 
+Diagnóstico avanzado. Fecha comprometida: 30 
+de julio. 
+ 
+2. 
+Ajustes de configuración, filtros y eliminación de 
+banda muerta. Fecha comprometida: 30 de 
+agosto. 
+ 
+3. 
+Verificación conjunta de señales en SITR. Fecha 
+comprometida: 15 de septiembre. 
+ 
+4. 
+Implementación 
+de 
+control 
+de 
+calidad 
+permanente. Fecha comprometida: No informada. 
+ 
+A la fecha se registra lo siguiente: 
+ 
+- 
+Reuniones en julio con equipo técnico de Enel 
+para revisar y ajustar señales SITR de TER 
+Quintero y TER Atacama.  
+ 
+- 
+Según lo informado vía correo electrónico el 08 de 
+septiembre, las señales de TER Atacama serán 
+enviadas a partir de un RTU de reemplazo 
+proveniente de otro centro de generación.  
+ 
+El trabajo de campo se realizará de forma 
+posterior a la primera quincena de septiembre. 
+Planificación detallada pendiente. 
+ 
+Sin embargo, a la fecha no se tiene constancia de la 
+entrega de los respectivos diagnósticos, ni de los ajustes 
+de configuración efectuados al resto de señales de la Ref. 
+[8].  
+ 
+No se registra la verificación conjunta con el Coordinador 
+de señales en SITR, ni tampoco ha informado las señales 
+ya regularizadas ni las acciones que aseguren el control de 
+calidad permanente comprometido. 
+3 Bioenergías Forestales 
+SpA 
+TER 
+CMPC 
+Pacífico (U1-2-
+3) 
+Mediante carta DE03199-26 de fecha 31/03/2026, el 
+Coordinado envió su plan de trabajo para la mejora de sus 
+unidades en la prestación de CTF.  
+Enviar 
+informe 
+técnico 
+consolidado 
+comprometido en la tarea 2. para cada una de 
+las unidades. Ejecutar los ensayos técnicos 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+ 
+TER Santa Fe 
+ 
+TER 
+CMPC 
+Laja (U1-2) 
+ 
+En dicha carta se comprometen las siguientes acciones: 
+ 
+1. 
+Declaración explícita en Neomante de limitación 
+de SSCC ante inestabilidades del proceso 
+utilizando la glosa: “Afecta SSCC en condición 
+Deshabilitado”, conforme a lo solicitado por el 
+Coordinador Eléctrico Nacional (CEN). Acción 
+ejecutada. 
+ 
+2. 
+Desarrollo de un análisis técnico sobre la 
+capacidad de modulación y tiempos de respuesta 
+de las calderas de proceso para prestación de 
+CTF. Fecha comprometida: No informada. 
+ 
+3. 
+Ejecución de nuevos ensayos técnicos de 
+verificación en las unidades con desempeño 
+observado. 
+Fecha 
+comprometida: 
+Según 
+cronograma adjunto en carta Ref. [3], estas 
+pruebas se realizarían en julio y agosto de 2026. 
+ 
+A la fecha se registra lo siguiente: 
+ 
+- 
+Ingreso 
+de 
+las 
+solicitudes 
+Neomante 
+N°2026000682 (TER Santa Fe), 2026000684 
+(TER CMPC Pacífico) y 2026002731 (TER CMPC 
+Laja) 
+ 
+- 
+Informe 
+de 
+flexibilidad 
+se 
+encuentra 
+en 
+elaboración según lo informado por correo el 27 
+de agosto. 
+ 
+Sin embargo, no se tiene constancia de la fecha de entrega 
+de los respectivos análisis e informes para revisión del 
+Coordinador.  
+ 
+Tampoco se ha informado avance sobre la realización de 
+los ensayos comprometidos en la tarea 3, la cual considera 
+el envío del informe técnico de resultados el 28 de agosto. 
+comprometidos en tarea 3, junto con los 
+informes de resultados. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+4 Engie 
+Energía 
+Chile 
+S.A. 
+PE Kallpa 
+Mediante carta DE05588-26 de fecha 16/06/2026, el 
+Coordinado informa el cierre de su plan de trabajo para la 
+mejora de sus unidades en la prestación de CPF mediante 
+el envío de un informe técnico de hallazgos y acciones 
+correctivas implementadas. 
+ 
+Dichas acciones consideraron lo siguiente: 
+ 
+1. 
+Revisión de la lógica PPC. 
+2. 
+Detección de brechas y corrección de operación 
+entre servidor de respaldo y servidor principal. 
+3. 
+Pruebas de operación de la unidad ante escalones 
+de frecuencia de +/-0,2Hz 
+ 
+A pesar de lo anterior, se constata que el desempeño CPF 
+mantiene su condición de insatisfactorio, debido a que las 
+señales enviadas en los registros potencia-frecuencia se 
+encuentran invariantes. Esta situación fue informada a su 
+representada vía correo el 03 y 31 de julio. 
+ 
+A la fecha se registra lo siguiente, según lo informado por 
+el coordinado vía correo electrónico el 18 de agosto: 
+ 
+- 
+El parque PE Kallpa se encuentra en proceso de 
+integración del BESS Kallpa, el cual contempla la 
+instalación de un Máster PPC. Lo anterior se 
+encuentra 
+respaldado 
+en 
+Neomante 
+(N° 
+2026082896). 
+ 
+- 
+Mientras dure este proceso de integración PE 
+Kallpa no puede prestar adecuadamente CPF. 
+ 
+- 
+Se ha solicitado al fabricante realizar pruebas 
+durante la semana del 24 de agosto para verificar 
+el correcto funcionamiento del sistema. 
+ 
+Sin embargo, no se tiene constancia de la realización de 
+estas pruebas, no se registra el envío de los respectivos 
+análisis e informes para revisión del Coordinador, ni 
+tampoco se registra el análisis y normalización de las 
+Informar la fecha de cierre de la integración PE-
+BESS 
+y 
+de 
+ejecución 
+de 
+las 
+pruebas 
+comprometidas, las cuales deben permitir la 
+habilitación de la prestación de CPF por parte de 
+PE Kallpa. 
+ 
+Enviar minuta que informe los ajustes a los 
+registros potencia-frecuencia enviados por la 
+unidad, de manera que midan adecuadamente 
+las variables de fecha/hora, frecuencia, potencia 
+activa y consigna, y de esta forma no sea 
+catalogado su desempeño como “no verificable”. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+señales de fecha/hora, frecuencia, potencia activa y 
+consigna enviadas para la evaluación de CPF. 
+5 Generadora 
+Metropolitana S.A. 
+TER 
+Nueva 
+Renca 
+Mediante carta DE01053-26 de fecha 03/02/2026 el 
+Coordinado informa la primera versión de su cronograma 
+de trabajos, cuya fecha de cierre es abril de 2026. En este 
+cronograma compromete l actualización de la curva PQ de 
+la unidad definiendo el límite de absorción de reactivos de 
+la unidad asociado a la tensión mínima de operación del 
+transformador de servicios auxiliares, conectado en media 
+tensión, de modo de asegurar la continuidad operacional, 
+ya que la curva P-Q informada al Coordinador es teórica y 
+no consideraba esta condición, lo que provoca que sea mal 
+evaluado su desempeño de control de tensión. 
+ 
+Mediante carta DE02275-26 de fecha 06/03/2026 el 
+Coordinado informa la actualización de su plan de trabajo 
+indicando una fecha de cierre 29 de diciembre de 2026, 
+debido al mayor alcance de los análisis y ajustes técnicos 
+a implementar en la unidad para eliminar las limitaciones 
+técnicas o dar un mayor rango de absorción de reactivos a 
+la unidad TER Nueva Renca. 
+ 
+Mediante carta DE05645-26 de fecha 17/06/2026, el 
+Coordinado informa estado de avance de su plan de trabajo 
+y entrega antecedentes adicionales de las condiciones 
+operativas que limitan la prestación de CT de la central. En 
+dicha carta GM compromete la ejecución de pruebas de 
+inyección/absorción de reactivos para la semana del 29 de 
+junio y entrega de resultados el 13 de julio. 
+ 
+A la fecha se registra lo siguiente, según lo informado por 
+el coordinado vía correo electrónico 09 de julio y 18 de 
+agosto: 
+ 
+- 
+Debido 
+a 
+la 
+situación 
+de 
+estrechez 
+y 
+racionamiento, la unidad no ha podido realizar las 
+pruebas y solicita extensión de plazo para el cierre 
+del plan de trabajo. El Coordinado compromete 
+informar la nueva fecha estimada de cierre una 
+vez realice las pruebas. 
+Informar la curva P-Q actual de la central TER 
+Nueva Renca, es decir, la curva que incorpora el 
+límite de absorción de reactivos de la unidad 
+asociado a la tensión mínima de operación del 
+transformador de servicios auxiliares, de modo 
+de asegurar la continuidad operacional de la 
+unidad. Se solicita realizar el envío de esta 
+información a más tardar el miércoles 30 de 
+septiembre de 2026. 
+ 
+ 
+Adicionalmente, informar el estado de avance 
+del plan comprometido conducente a aumentar 
+el rango de absorción e inyección de reactivos 
+de la unidad TER Nueva Renca.  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+N° 
+Coordinado 
+Instalación 
+Situación actual 
+Acción requerida 
+- 
+El día 01 de septiembre la unidad realiza pruebas 
+de absorción/inyección, lo que se encuentra 
+respaldado en Neomante (N°2026098049). 
+El día 08 de septiembre informan que tendrán resultados 
+en la semana del 21 de septiembre. 
+ 

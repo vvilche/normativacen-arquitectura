@@ -1,0 +1,107 @@
+VIENTOS DE RENAICO SpA 
+Central Eólica PE La Flor 
+Pág. 1 de 2 
+ 
+ 
+Santiago, 18 de junio de 2026 
+ 
+ 
+Señor Patricio Valenzuela 
+Subgerente de Control y Desarrollo Operacional 
+COORDINADOR ELECTRICO NACIONAL 
+Coordinación de Operación 
+Presente 
+ 
+Ref.:  Respuesta DE03648-26 - Art. 7-5 AT IBR - Central Eólica PE La Flor 
+ 
+De nuestra consideración: 
+ 
+Por medio de la presente, Empresa Vientos de Renaico SpA, da respuesta a su Carta Circular N° 
+DE03648-26 del 05 de junio de 2026, mediante la cual se solicita informar el estado de cumplimiento 
+de los requisitos del AT IBR para instalaciones IBR GFL existentes. 
+ 
+La Central PE La Flor está conformada por 9 aerogeneradores Vestas V136-3.60 MW (32,4 MW totales), 
+clasificados como IBR de Seguimiento de Red (Grid Following - GFL), con topología de convertidor 
+de escala completa (Full-Scale Converter) y sistema de control VMP8000. 
+A continuación, se presenta el cronograma de trabajo por articulo: 
+ 
+Articulo 
+Requisito 
+Condición 
+Plazo 
+Art. 3-9 
+NTSyCS 
+Control de Tensión (CT) - 
+Capacidad P-Q en el PPC 
+(a) Cumplimiento 
+03/11/2026 
+Art. 4-1 
+Respuesta ante falla de tensión 
+(FRT - LVRT/HVRT) 
+(a) Cumplimiento 
+03/11/2026 
+Art. 4-2 
+Modos de control y conmutación 
+durante falla 
+(a) Cumplimiento 
+03/11/2026 
+Art. 4-3 
+Controlador de tensión: modos Q, 
+FP y V con estatismo 
+(a) Cumplimiento 
+03/11/2026 
+Art. 4-4 
+Desempeño del control de tensión 
+bajo condición de falla 
+(a) Cumplimiento 
+03/11/2026 
+Art. 4-7 
+Respuesta de frecuencia / Control 
+Primario de Frecuencia (CPF) 
+(b) Imposibilidad 
+03/11/2026 
+Art. 6-2 
+Parámetros ajustables por 
+software (estatismo, tiempos) 
+(a) Cumplimiento 
+03/11/2026 
+ 
+Art. 4-7 CPF - Imposibilidad técnica:  
+Los aerogeneradores Vestas V136-3.60 MW operan con banda muerta de frecuencia fija de +/-200 
+MHz, parámetro de diseño del VMP8000 que no puede modificarse. El AT IBR exige escalones de +/-
+0,2 Hz (= +/-200 MHz), umbral que coincide exactamente con la banda muerta, por lo que la 
+maquina no genera respuesta de potencia. El fabricante confirma mediante CIS oficial (Peter 
+Koldkjaer, Vestas, 18/11/2025) que reducir esta banda muerta genera riesgo de daño estructural en 
+palas y torre. 
+ 
+
+VIENTOS DE RENAICO SpA 
+Central Eólica PE La Flor 
+Pág. 2 de 2 
+Se adjunta como información entregada: 
+Anexo 
+Documento 
+ANEXO 1 
+General Specification V136 3.6 MW – Vestas Wind Systems A/S (Doc. 0044-7088 V05) 
+ANEXO 2 
+Performance Specification V136-3.60 MW – Vestas Wind Systems A/S (Doc. 0056-6306 
+V02) 
+ANEXO 3 
+Informe Técnico VSSCC CTF V1 – PE La Flor – Dominet Energía SpA (SO-151, 
+18/03/2025) 
+ANEXO 4 
+Informe Técnico VSSCC CT-CPF-CTF V1 – PE La Flor – Dominet Energía SpA (SO-151, 
+18/03/2025) 
+ANEXO 5 
+Customer Information Sheet: Risk Related to Narrow Deadband for FSM – Vestas Wind 
+Systems A/S (Peter Koldkjaer, 18/11/2025) 
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+Italo Perfetti Nazal 
+Area Coordinador electrico 
+Empresa Vientos de Renaico SpA 
+italo@vdr.cl | +56 9 3240 6397 
+ 

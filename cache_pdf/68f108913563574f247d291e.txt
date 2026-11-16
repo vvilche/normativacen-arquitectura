@@ -1,0 +1,108 @@
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 16 de octubre de 2025 
+DE 06506-25 
+Señor 
+Miguel Buzunariz R. 
+Encargado Titular  
+Enel Generación Chile S.A. 
+Presente 
+Ref.: Desconexión de Central San Isidro II 
+durante el evento del 25 de febrero de 2025. 
+ 
+[1] Carta OP 135-25 (ingreso DE05120-25) de 
+Enel Generación de fecha 23 de mayo de 
+2025. 
+ 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y a lo planteado por su representada en carta 
+de la Ref. [1] respecto de la operación automática de desconexión de la unidad San Isidro 
+II (Trip por operación de señal: “TG Trip pres baja aceite Ctrl”), el Coordinador ha revisado 
+la información recibida y ésta no es suficiente para realizar un análisis del fenómeno 
+mecánico que habría afectado a la unidad durante el evento. 
+ 
+Considerando lo planteado, se solicita el envío de un Informe Técnico con la 
+documentación de respaldo necesaria, que contenga al menos la información detallada en 
+el anexo de esta comunicación. 
+ 
+Finalmente, la información solicitada debe ser enviada a más tardar el lunes 27 de octubre 
+de 2025. 
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+c.c.:  
+Sr. Adrian Guzmán – Encargado Suplente Enel Generación Chile S.A y Empresa Eléctrica Pehuenche S.A. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ANEXO 
+ 
+a) Descripción de la lógica de control del sistema de aceite de control (aceite hidráulico), 
+y de sus sistemas de control, señales de alarma y disparo. Incluir diagramas de la 
+lógica de control y set de valores de las constantes de operación del sistema de 
+aceite de control (debe incluir el manual de fabricante y el manual de descripción de 
+operación de la unidad). 
+b) Descripción del Sistemas de protección REG670 (incluir documentación técnica). 
+c) Planos funciónales e instrumentación y control (P&ID) del sistema de aceite de 
+control. Indicar instrumentación (transmisores) correspondiente a lecturas de datos de 
+registros solicitados en literal d) junto con su descripción y TAG correspondiente. 
+d) Envío de datos y gráficas correspondientes de la operación de desconexión 
+automática por baja presión de aceite de control de la unidad San Isidro II: datos y 
+gráficas de antes, durante y después del evento descrito, con un tiempo de muestreo 
+de 1 seg., con al menos las siguientes variables:  
+i. 
+Potencia Bruta y Neta TG. 
+ii. 
+Potencia Reactiva TG. 
+iii. 
+Frecuencia de la red (interna o externa). 
+iv. 
+Plano unilineal de barras asociadas al sistema de aceite de control. 
+v. 
+Señal de Voltaje de barras de CA media y baja tensión, y CC, asociadas al 
+sistema de aceite de control. 
+vi. 
+Velocidad de la turbina. 
+vii. 
+Presiones de aceite de control. (descarga de bomba principal, cabezal de 
+aceite hidráulico.) 
+viii. 
+Indicación de servicio (arranque-detención) de bombas en servicio y respaldo 
+de CA y CC. 
+ix. 
+Operación de alarmas de baja presión y otras alarmas correspondientes al 
+sistema de aceite de control. 
+x. 
+Señal de trip y secuencia de alarmas.  
+xi. 
+Adicionalmente se solicita entregar el registro de alarmas, trip, y eventos al 
+momento del inicio del fenómeno y hasta su finalización. (Inicio 2025/02/25 
+15:5:00). 
+e) Respecto de lo señalado en su comunicación, “Esta señal se activa debido a las 
+grandes oscilaciones de potencia y la elevada demanda de aceite de control 
+necesaria para compensar las fluctuaciones en la carga en la Unidad”, se solicita 
+explicar qué relación poseen las oscilaciones de potencia con la demanda de aceite 
+al sistema de aceite de control de la unidad (sistema de alta presión). 
+ 
+ 

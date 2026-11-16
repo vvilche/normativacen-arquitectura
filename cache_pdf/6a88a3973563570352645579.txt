@@ -1,0 +1,90 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 21 de agosto de 2026 
+ 
+DE 05639-26 
+ 
+Señora 
+Noemí Ayesa 
+Encargada Titular 
+Neomas SpA 
+Presente 
+ 
+ 
+Ref.: EAF 246/2026: Apertura intempestiva del interruptor 
+52B1 de S/E Enlace. 
+ 
+De mi consideración: 
+ 
+Me refiero a la apertura intempestiva del interruptor 52B1 de S/E Enlace, ocurrida a las 
+08:02 horas del día 20 de junio de 2026, la cual provocó, entre otros efectos, la desconexión 
+forzada de la unidad N°1 de la central TER Masisa. 
+ 
+Al respecto, con el objetivo de aclarar debidamente las causas y consecuencias del evento 
+en cuestión, en conformidad con lo que establece el Título 6-7, y en particular, el Artículo 6-
+44 de la Norma Técnica de Seguridad y Calidad de Servicio (NTSyCS), y en virtud de las 
+modificaciones aplicadas al proceso de los Estudios para Análisis de Falla, instruidas por la 
+Superintendencia de Electricidad y Combustibles mediante las Resoluciones Exentas 
+N°30989-2019 y N°30891-2019, solicito a usted remitir a este Coordinador antes de las 
+18:00 horas del día 28 de agosto de 2026, lo siguiente: 
+ 
+a) Registros oscilográficos en formato COMTRADE y reporte de eventos asociados a la 
+operación de protecciones que provocaron la desconexión forzada de la central TER 
+Masisa.  
+b) Análisis del comportamiento de las protecciones operadas en función de sus registros 
+y ajustes. 
+c) Monto de generación (MW) de la central TER Masisa, previo a su desconexión forzada.  
+d) Cronología de eventos y acciones orientadas a la reposición de servicio y normalización 
+de las instalaciones de su representada. 
+e) Motivos que propiciaron la no entrega de la información citada en las viñetas anteriores 
+en tiempo y forma, junto con las acciones que su representada realizará para evitar una 
+nueva ocurrencia de omisión de dichos antecedentes. 
+f) Eventuales medidas correctivas adoptadas. 
+g) Otros antecedentes que Neomas SpA considere relevantes en relación con el 
+comportamiento de las protecciones y/o con lo solicitado. 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+Adicionalmente, se hace presente a usted que, de acuerdo con lo establecido en el Título 
+6-7 de la NTSyCS, a más tardar 48 horas y 5 días hábiles después de ocurrida una falla en 
+el SEN con afectación de suministro a clientes finales, se deben enviar los respectivos 
+informes de falla, con el grado de detalle que corresponda a cada caso, asociados al evento 
+de la referencia. 
+ 
+Para el caso del evento indicado, su representada no envió a este Coordinador el Informe 
+de Falla de 5 días asociado al evento en cuestión. En consecuencia, solicito a usted 
+regularizar la situación de dicho informe, ingresando los antecedentes respectivos mediante 
+el sistema dispuesto para tales efectos (sistema NeoMante de la página web del 
+Coordinador), y adoptar las medidas pertinentes para asegurar que los Informes de Falla 
+de su representada sean enviados dentro de los plazos definidos por la NTSyCS, evitando 
+la repetición de lo ocurrido en esta ocasión. 
+ 
+Para facilitar el desarrollo de los informes de falla, este Coordinador mantiene publicada 
+documentación de apoyo en su sitio web, disponible mediante el siguiente enlace: 
+https://www.coordinador.cl/operacion/documentos/estudios-operacionales/estudios-de-
+analisis-de-falla/guia-tecnica-elaboracion-de-informes-de-falla-por-parte-de-los-
+coordinados/. Junto con la guía técnica para la elaboración de informes de falla, se 
+encuentran disponibles las Resoluciones Exentas N°30989-2019 y N°30891-2019, que 
+fueron divulgadas a las empresas coordinadas mediante carta DE 06498-19, con el 
+propósito de ajustar los procesos internos de elaboración de dichos informes y proporcionar 
+los antecedentes necesarios para eventos que ocurran en el Sistema Eléctrico Nacional. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+             Patricio Valenzuela V.  
+                                                              Subgerente de Control y Desarrollo Operacional 
+                                                                           Coordinador Eléctrico Nacional 
+ 
+         
+c.c.:  
+Sr. Eduardo Rodriguez - Encargado Suplente Neomas SpA. 
+PPV/adr 

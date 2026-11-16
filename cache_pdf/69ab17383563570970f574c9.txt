@@ -1,0 +1,48 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+Santiago, 05 de marzo de 2026 
+SDD202605 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a carta DE 01003-26 – 
+Comunica atraso en el proceso de Verificación 
+de Instalaciones de Generación para la 
+Prestación de Servicios Complementarios de 
+acuerdo con Cronograma Vigente. 
+De nuestra consideración: 
+ 
+Junto con saludar, y en relación con la carta DE 01003-26, mediante la cual se comunica 
+el atraso en el proceso de Verificación de Instalaciones de Generación para la Prestación 
+de Servicios Complementarios (SSCC) de acuerdo con el cronograma vigente, nos 
+referimos a la instalación PFV Sol del Desierto de nuestra representada. 
+ 
+Actualmente, la central se encuentra en proceso de habilitación y validación de las 
+señales requeridas para la operación con el sistema AGC del Coordinador, para 
+posteriormente coordinar las pruebas punto a punto SITR con el departamento de 
+SCADA. Una vez completadas dichas pruebas y confirmada la correcta operación de las 
+señales, se procederá a coordinar con el Departamento de Modelación y Aplicaciones 
+EMS la realización de las pruebas asociadas al Control Secundario de Frecuencia (CSF). 
+ 
+De acuerdo con el avance actual de las actividades y considerando los tiempos habituales 
+de coordinación de pruebas, se estima que la ejecución de las pruebas de verificación de 
+CSF se realizará a fines de abril, sujeto a la disponibilidad de agenda para su ejecución. 
+ 
+Adjuntamos a la presente el Anexo correspondiente con la respectiva respuesta.  
+ 
+Sin otro particular, saluda atentamente, 
+ 
+ 
+ 
+Javier Moraga Á.  
+Encargado Suplente 
+Parque Solar Fotovoltaico Sol del Desierto SpA 

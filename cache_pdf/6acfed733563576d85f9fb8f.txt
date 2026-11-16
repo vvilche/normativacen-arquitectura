@@ -1,0 +1,102 @@
+INNERGEX ENERGIA RENOVABLE 
+Isidora Goyenechea 3477 
+Piso 21, Las Condes 
+Tel.: + (56 2) 2 378 7970 
+ 
+ 
+Santiago, 14 de octubre de 2026 
+AEL086C-26 
+Señor 
+Jorge Vargas Cáceres 
+Jefe del Departamento de Modelación y Aplicaciones EMS 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a carta DE06682-26 – Integración de PE Aurora y PE Cuel 
+a la celda maestra de S/E Charrúa del EDAG Centro-Sur 
+ 
+ 
+De nuestra consideración: 
+ 
+En relación con la carta DE06682-26, mediante la cual se solicita información sobre las actividades 
+pendientes para completar la integración de Parque Eólico Aurora y Parque Eólico Cuel a la celda de 
+control maestra de S/E Charrúa del EDAG Centro-Sur, informamos lo siguiente: 
+ 
+1. Definiciones y habilitaciones técnicas requeridas por parte de Transelec 
+ 
+Para avanzar con la conexión de los sistemas EDAG de ambas centrales a la celda maestra de S/E Charrúa, 
+se requiere que Transelec confirme y aclare los siguientes aspectos: 
+ 
+1. Si actualmente existe un router multicliente habilitado y disponible en S/E Charrúa para efectuar 
+la conexión de nuestras instalaciones. 
+2. Si Aela Generación S.A. debe solicitar a una empresa de telecomunicaciones la instalación de un 
+router dedicado para sus instalaciones en calidad de coordinado. 
+3. En caso de requerirse un router dedicado, si su instalación debe considerar la provisión de un rack 
+adicional o si Transelec dispone de espacio habilitado para instalarlo. 
+4. Cuáles son las empresas de telecomunicaciones autorizadas por Transelec y que actualmente se 
+encuentran disponibles para gestionar solicitudes de conexión en S/E Charrúa. 
+5. Cuáles son los contactos técnicos formales de Transelec para canalizar y resolver las consultas 
+relacionadas con la conexión de los sistemas EDAG. 
+6. Respecto de las pruebas SAT contempladas originalmente una vez materializada la conexión con 
+la celda maestra, si resulta aceptable efectuar una simulación local de dichas pruebas con el objeto 
+de adelantar esta etapa, quedando posteriormente sujetas a la validación que corresponda por 
+parte del Coordinador. 
+ 
+Considerando la necesidad de avanzar oportunamente con la integración de las centrales, solicitamos que 
+estas definiciones sean entregadas dentro de un plazo máximo de 30 días corridos, contado desde la fecha 
+de la presente comunicación. Una vez recibidas las respuestas y habilitaciones correspondientes, Aela 
+Generación S.A. podrá coordinar y ejecutar las actividades que sean de su responsabilidad. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+2 
+ 
+2. Gestiones con las empresas de telecomunicaciones 
+ 
+Hace más de un año, Aela Generación S.A. celebró un contrato con Entel para la implementación de los 
+servicios de comunicaciones requeridos. En virtud de dicho contrato, se instalaron los equipos de 
+comunicaciones correspondientes al extremo de nuestras instalaciones, quedando pendiente la 
+habilitación del extremo ubicado en S/E Charrúa. 
+ 
+Actualmente, Aela Generación S.A. se encuentra disponible para contratar o complementar los servicios 
+de comunicaciones con Entel, Movistar, Claro u otra empresa que Transelec defina como autorizada y 
+técnicamente disponible para operar en la subestación. 
+ 
+No obstante, para avanzar con esta contratación y comprometer una fecha de implementación resulta 
+necesario contar previamente con la confirmación de Transelec respecto de: 
+ 
+• 
+La disponibilidad del router multicliente en S/E Charrúa. 
+• 
+La empresa de telecomunicaciones que puede prestar el servicio. 
+• 
+Las condiciones técnicas y de espacio aplicables a la instalación. 
+• 
+El punto y modalidad de conexión. 
+• 
+Los contactos técnicos responsables de coordinar los trabajos. 
+ 
+ 
+Por lo anterior, a la fecha no resulta posible informar una fecha definitiva para la firma de un nuevo 
+contrato ni para la implementación del enlace pendiente, dado que estos hitos dependen de las 
+definiciones y habilitaciones técnicas antes señaladas. Una vez recibida la información de Transelec, Aela 
+Generación S.A. solicitará a la empresa de telecomunicaciones seleccionada un programa de trabajo con 
+las fechas comprometidas para la implementación e integración del enlace. 
+ 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlos De La Fuente Vásquez 
+Encargado Titular 
+AELA GENERACIÓN S.A. 
+ 

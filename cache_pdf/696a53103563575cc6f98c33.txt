@@ -1,0 +1,101 @@
+ 
+COM-1666-26 
+ 
+Santiago, 16 de Enero de 2026 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional Santiago Chile  
+ 
+Ref. Informa Cronograma de actualización Software y Hardware SE Punta Sierra 
+ 
+ 
+De nuestra consideración. 
+ 
+En relación al proceso de actualización de Software y Hardware del Parque Eólico Punta Sierra 
+y tal como fue acordado en la última reunión con el Coordinador, a continuación adjuntamos el 
+cronograma actualizado enviado por el fabricante de los equipos 
+ 
+ 
+Task 
+Impact 
+January 
+February 
+March 
+April 
+S1 
+S2 
+S3 
+S4 
+S5 
+S6 
+S7 
+S8 
+S9 
+S10 S11 S12 S13 S14
+Purchase of IEMP 
+server
+  
+  
+Turbine update
+  
+  
+Offline work on IEMP / 
+protocols and 
+procedures 
+Same 
+parameters 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+February 15th to 23rd 
+is the Chinese New 
+Year holiday
+Lack of support 
+from 
+Goldwind's 
+back-end 
+department
+Connection and 
+changeover to IEMP 
+(TP – TC)
+Not impact on 
+generation, but 
+reactive power 
+control function 
+will be disabled
+Internal tests
+Authorization 
+for power 
+variation and 
+SSCC 
+application
+EE tests
+Authorization 
+for power 
+variation and 
+SSCC 
+application
+  
+  
+
+ 
+ 
+ 
+.Quedamos atentos ante cualquier consult. 
+ 
+ 
+ 
+ Encargado Titular 
+Pacific Hydro Punta Sierra SpA 
+ 

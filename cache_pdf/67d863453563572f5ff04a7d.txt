@@ -1,0 +1,217 @@
+ 
+ 
+ 
+ 
+ 
+ 
+GERENCIA PORTAFOLIO DE CORTO PLAZO 
+ 
+Santiago, 14 de marzo de 2025 
+ENGIE N°076/2025
+ 
+Sr. 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Observaciones al Informe Desempeño 
+Servicios Complementarios prestados durante el mes 
+de febrero de 2025. 
+[1] Carta DE01408-25 del 7 de marzo de 2025. 
+ 
+De nuestra consideración, 
+ 
+Nos referimos a su carta DE01408-25, ref. [1], donde comunica el Informe Desempeño Servicios Complementarios 
+prestados durante el mes de febrero de 2025. Al respecto, se informan nuestras observaciones en Anexo. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+ 
+ 
+ 
+ 
+Pablo Jorquera Riquelme 
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+  
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 
+ 
+TER ANDINA 
+ 
+Fecha 
+Hora 
+Respuesta 
+CPF+ 
+(Fact_CPF+) 
+Respuesta 
+CPF- 
+(Fact_CPF-) 
+Disponibilidad 
+(Fdis_CPF) 
+Desempeño 
+(DCPF) 
+Factor de 
+Desempeño 
+(Fd_CPF) 
+Cuenta 
+con 
+equipo 
+registrador 
+validado 
+Comentarios 
+18-02-2025 
+22 
+No Participó 
+25.00% 
+100.00% 
+25.00% 
+0.00% 
+SI 
+Subida carga de 107 a 120, participando en CPF + 
+18-02-2025 
+23 
+No Participó 
+67.00% 
+100.00% 
+67.00% 
+0.00% 
+SI 
+Unidad en 120 +-6 MW, participando en CPF 
+20-02-2025 
+3 
+60.00% 
+No Participó 
+100.00% 
+60.00% 
+0.00% 
+SI 
+Unidad en 168 +-5 MW, participando en CPF 
+20-02-2025 
+8 
+67.00% 
+67.00% 
+100.00% 
+67.00% 
+0.00% 
+SI 
+bajada carga de 169 a 137 MW 
+21-02-2025 
+18 
+No Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Unidad en 160 +-6 MW 
+ 
+TER HORNITOS 
+ 
+Fecha 
+Hora 
+Respuesta 
+CPF+ 
+(Fact_CPF+) 
+Respuesta 
+CPF- 
+(Fact_CPF-) 
+Disponibilidad 
+(Fdis_CPF) 
+Desempeño 
+(DCPF) 
+Factor de 
+Desempeño 
+(Fd_CPF) 
+Cuenta con 
+equipo 
+registrador 
+validado 
+Comentarios 
+20-02-2025 
+0 
+No Participó 
+40.00% 
+100.00% 
+40.00% 
+0.00% 
+SI 
+0:10:00 unidad en MT 
+21-02-2025 
+18 
+No Verificable 
+No Participó 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Subida de carga de 94 a 139 MW 
+22-02-2025 
+5 
+No Participó 
+No Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Unidad fuera de servicio 
+22-02-2025 
+6 
+No Participó 
+No Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Unidad fuera de servicio 
+26-02-2025 
+20 
+No Verificable 
+No Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Unidad fuera de servicio 
+26-02-2025 
+21 
+No Verificable 
+No Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Unidad fuera de servicio 
+26-02-2025 
+22 
+No Participó 
+No Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Unidad fuera de servicio 
+26-02-2025 
+23 
+No Participó 
+No Verificable 
+100.00% 
+0.00% 
+0.00% 
+SI 
+Unidad fuera de servicio 
+ 

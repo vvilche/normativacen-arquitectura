@@ -1,0 +1,170 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+Santiago, 31 de marzo de 2025 
+DE 01897-25 
+ 
+Señora 
+Verónica Bustos 
+Encargado Titular 
+Prime Energía Quickstart SpA. 
+Presente 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+(CT) de la Central TER Chagual. 
+[1] Carta EFC-2025-0012, Ref.: “Verificación de 
+Instalaciones 
+para 
+la 
+prestación 
+del 
+Servicio 
+Complementario (SSCC) de Control de Tensión de las 
+centrales TER Combarbalá y TER Chagual del 
+coordinado Prime Energía Quickstar SpA. Ingreso 
+DE00655-25”, de fecha 14 de febrero de 2025.  
+Responde a Ingreso DE00925-25. 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación del Servicio Complementario (SC) enviado por su representada mediante 
+carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo establecido en el Artículo 
+4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha finalizado el 
+proceso de verificación del Servicio Complementario (SC) de Control de Tensión (CT) de la 
+Central TER Chagual. 
+Como resultado de este proceso, la central mencionada quedará habilitada para la 
+prestación del mencionado servicio a partir de las 00:00 del 03 de abril de 2025, 
+considerando los recursos indicados en anexo de la presente carta. 
+Al respecto, en anexo de la presente comunicación se presenta la información solicitada en 
+el artículo 4-16 de la NT-SSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CT de la central TER Chagual se ha publicado en la siguiente ruta de la 
+página web del Coordinador Eléctrico Nacional: 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de Tensión 
+> Central TER Chagual 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+DIR/PGR/ycl 
+c.c.: Empresas coordinadas 
+Sr. Marco Antonio Quezada R. – Encargado Suplente Prime Energía Quickstart SpA 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central  
+TER Chagual 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central TER Chagual (Potencia máxima neta 102,18 [MW]) 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión 
+Control de Tensión  
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) La central posee un límite de consigna de factor de potencia de 0,93 para condiciones 
+de subexcitación y sobreexcitación. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Prime Energía 
+Quickstart SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Factor de Potencia (cosφ) 
+Central  
+  
+Tensión [pu] 
+Valor Determinado [MVAr] 
+Potencia (1) [MW] 
+  
+0,90(2) 
+0,95(3) 
+1,00(3) 
+1,05 
+1,10(2) 
+TER 
+Chagual 
+20,0 
+7,88 
+7,88 
+7,88 
+8,36 
+7,88 
+48,0 
+18,96 
+18,96 
+18,96 
+18,88 
+18,96 
+76,0 
+30,0 
+30,0 
+30,0 
+30,16 
+30,0 
+104,0 
+41,12 
+41,12 
+41,12 
+40,04 
+41,12 
+104,0 
+-41,12 
+-41,12 
+-41,12 
+-39,12 
+-41,12 
+76,0 
+-30,0 
+-30,0 
+-30,0 
+-29,76 
+-30,0 
+48,0 
+-18,96 
+-18,96 
+-18,96 
+-18,82 
+-18,96 
+20,0 
+-7,88 
+-7,88 
+-7,88 
+-7,52 
+-7,88 
+(1) Las pruebas se realizaron en una única Power-House compuesta por 14 unidades motogeneradoras. Sin embargo, los 
+valores de despacho utilizados corresponden a la central completa (4 PH). 
+(2) Para los ensayos, no se realizan estos niveles de tensión por exceder el nivel de tensión normal del Sistema. 
+(3) Durante las pruebas, para estos niveles de tensión, desde el CDC no fue posible variar la tensión de la barra por las 
+condiciones desfavorables del Sistema. 
+ 
+ 

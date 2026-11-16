@@ -1,0 +1,69 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLY & ENERGY MANAGEMENT 
+ 
+Santiago, 26 de junio de 2026 
+ENGIE N°215/2026
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Proceso de verificación del Servicio 
+Complementario 
+de 
+Control 
+Secundario 
+de 
+Frecuencia 
+(CSF-AGC) 
+e 
+incorporación 
+a 
+la 
+herramienta de despacho económico (ED) 
+Ref.: 
+[1] Carta DE03429-26 del 20 de mayo de 2026. 
+De nuestra consideración, 
+ 
+En relación con la solicitud contenida en la carta de referencia, informamos lo siguiente: 
+ 
+Los enlaces de comunicaciones que utilizaremos para la implementación del CSF/AGC en las unidades indicadas 
+en el Anexo 1 de la Ref.[1] (PFV Tamaya, PE Calama, PFV Coya y PE San Pedro II), están implementados y 
+operativos en todas las instalaciones. Al mismo tiempo, la calidad de las señales enviadas al SITR del Coordinador 
+han tenido una disponibilidad aceptable en cada uno de los casos.  
+ 
+Las pruebas funcionales de integración al Despacho Económico vía AGC aún no han sido realizadas debido a que 
+nos encontramos, junto con las fabricantes de los sistemas de control de las diferentes plantas, en la ingeniería 
+necesaria para la implementación de la funcionalidad..  
+ 
+Respecto al cronograma con plazos e hitos, informamos lo siguiente (aplica a las 4 instalaciones):  
+Tarea 
+Desde 
+Hasta 
+Ingeniería 
+22/06/26 
+22/07/26 
+Implementación de lógica en Sistemas de Control y SCADA 
+22/07/26 
+15/11/26 
+Pruebas con el Coordinador 
+16/11/26 
+30/11/26 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+Juan Muñoz  
+Encargado Titular 
+ENGIE Energía Chile S.A. 
+Río Alto SpA 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 

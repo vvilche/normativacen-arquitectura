@@ -1,0 +1,35 @@
+1
+Ingrid Sarabia Salazar
+De:
+Correspondencia
+Asunto:
+RV: API SIP
+Estimados, 
+Junto con saludar, escribo para solicitar la habilitación del servicio SIP – Sistema de Información 
+Pública(sipub.api.coordinador.cl) para nuestra cuenta en el Portal de APIs del Coordinador. 
+Antecedentes de la cuenta 
+ 
+Titular: José Ignacio Flores 
+ 
+Correo registrado: jose.flores@solarityenergia.com 
+ 
+Empresa: Solarity SpA 
+ 
+Aplicación en el portal: "Solarity's App" 
+Actualmente nuestra cuenta tiene credenciales activas para los servicios Utilidades, BDUC API y 
+Mercados, pero no para SIP. Al consultar los endpoints de sipub.api.coordinador.cl con esas 
+credenciales, la API responde Authentication failed, lo que entendemos indica que el servicio no 
+está habilitado para nuestras aplicaciones. La documentación del servicio señala que la API key de SIP 
+se solicita por esta vía. 
+Quedo atento 
+Gracias!  
+ 
+--  
+José Ignacio Flores Vicuña 
+Gerente de Asuntos Corporativos 
+Teléfono: +56990790173 
+Dirección: Cerro el Plomo 5855, Santiago, Chile. 
+www.solarity.cl 
+ 
+ 
+ 

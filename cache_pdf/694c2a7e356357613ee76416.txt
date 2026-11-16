@@ -1,0 +1,144 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono (+56-2) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+ 
+Santiago, 24 de diciembre de 2025 
+DE 08137-25 
+ 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+ 
+REF.: Capacidad de Generación Adicional en Clientes del 
+SEN, según Decreto N°158/2003 del Ministerio de 
+Economía, Fomento y Reconstrucción. 
+ 
+ 
+De nuestra consideración 
+ 
+Por medio de la presente, y para dar cumplimiento a lo establecido en el Decreto 
+N°158/2003 del 05 de septiembre de 2003, publicado en el Diario Oficial el 09 de octubre 
+de ese año, el cual incorporó el artículo 291-6 al Decreto Supremo N° 327/1997, 
+solicitamos a usted enviar a este Coordinador la información relacionada con capacidad 
+de generación adicional (propia, representada o de clientes), disponible en clientes del 
+Sistema Eléctrico Nacional -SEN - al cierre de diciembre de 2025. 
+ 
+En esta consulta sólo se debe informar aquella capacidad de generación no 
+registrada en el aplicativo InfoTécnica (Base de Datos del Coordinador) y que se 
+encuentre disponible en clientes del Sistema Eléctrico, por lo que la consulta se orienta 
+principalmente a recoger antecedentes relacionados con equipos cuya producción se 
+destina, por ejemplo, a respaldo y recorte de demanda.  
+ 
+Los antecedentes solicitados deben ser enviados, a más tardar, el día viernes 9 de enero 
+de 
+2026 
+utilizando 
+el 
+archivo 
+Excel 
+adjunto, 
+al 
+correo 
+electrónico: 
+victor.monsalve@coordinador.cl, (indicar en el asunto: Capacidad de Generación 
+Adicional Cierre 2025). 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+                                                        Ernesto Huber J. 
+                                                        Director Ejecutivo 
+                                                        Coordinador Eléctrico Nacional 
+ 
+VMS/ycl  
+Incluye: Lo indicado 
+Cc: Archivo DE 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Identificación cliente (1)
+Potencia nominal instalada 
+(en kW)
+Año de 
+compra 
+(2)
+Factor de 
+potencia 
+nominal 
+(p.u.)
+Medidor
+Costo de Operación (7)
+Características del medidor  
+(6)
+Costo Fijo (miles $)
+Costo Variable 
+(miles $)
+Potencia 
+Máxima 
+(kW)    (3)
+Fecha de Potencia 
+Máxima alcanzada (mes-
+año)
+Consumo 
+promedio del 
+cliente (kWh/h) 
+(4)
+Consumo 
+máximo 
+mensual del 
+cliente (kWh/h) 
+(5)
+Existe medidor 
+en el generador 
+(Sí, No)
+Mes(12)
+Año(13)
+Tipo de combustible 
+utilizado   (8)
+Modo de Operación (10)
+Tasa de toma de 
+carga a partir 
+mínimo técnico 
+(kW/min)
+Tiempo de 
+partida fría 
+(hrs)
+Disponibilidad para 
+sincronizar al Sistema 
+Eléctrico  (9)
+Posibilidad de 
+Inyectar 
+excedentes al 
+Sistema Eléctrico 
+(Sí / No)
+Principal uso 
+instalación (14)
+Opción Tarifaria (11)
+Fecha última operación (mes-año) 
+Mínima 
+generación 
+especificada por 
+fabricante (kW)

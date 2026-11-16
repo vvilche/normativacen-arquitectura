@@ -1,0 +1,276 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 04 de agosto de 2026 
+DE 05200-26 
+Señor 
+Juan Muñoz 
+Encargado Titular 
+Engie Energía Chile S.A. 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Primario de 
+Frecuencia de la componente de almacenamiento de 
+la 
+Central 
+Renovable 
+con 
+Capacidad 
+de 
+Almacenamiento PFV Libélula (NUP 5087).  
+Responde a Ingreso DE05650-26. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control Primario 
+de Frecuencia (CPF) del BESS Libélula (NUP 5087).  
+ 
+Como resultado de este proceso, la instalación mencionada queda habilitada para la 
+prestación del mencionado servicio complementario a partir de las 00:00 del 06 de agosto 
+de 2026, considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CPF del BESS Libélula se encuentra publicado en la siguiente ruta de la 
+página web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Primario de Frecuencia > CRCA PFV Libélula 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+ 
+a) Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2], siendo el plazo 
+para esta acción de 30 días corridos contados desde la fecha de emisión de la 
+presente carta. Pese a no contar con las señales necesarias para evaluar el 
+desempeño en la prestación, BESS Libélula quedará habilitado para prestar el 
+Servicio Complementario (SC) de Control Primario de Frecuencia (CPF), pudiendo 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ser instruido por este Coordinador para prestar dicho servicio complementario, a 
+partir de la fecha antes señalada. En dicho caso, la evaluación de estas 
+instrucciones será “No Verificable”. 
+ 
+b) Considerando lo anterior, en base a los artículos 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, su representada podrá proponer el utilizar medios 
+alternativos para poder realizar la evaluación de desempeño de la prestación del 
+SC, los que deberán ser evaluados y aprobados previamente por el Coordinador.  
+ 
+Finalmente, la instalación mencionada podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+ 
+En el caso de que su representada tenga alguna consulta sobre el procedimiento de 
+Subastas para Control de Frecuencia, 
+deberá dirigirla al correo electrónico 
+programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+WJS/cfp 
+c.c.: 
+Sr. Felipe Fleming – Encargado Suplente Engie Energía Chile S.A. 
+ 
+Referencias 
+ 
+[1] Carta ENGIE N°198/2026 de Engie Energía Chile S.A., Ref.: “Envía Informe de 
+verificación SSCC de CPF del Proyecto BESS Libélula NUP 5087”, de fecha 17 de junio de 
+2026. 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional: 
+  
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva CF 2025.07.31 > Protocolo de envío de registros Potencia/Frecuencia para 
+la evaluación del CPF 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC del BESS Libélula 
+1. 
+Identificación de las Instalaciones Verificadas: 
+A continuación, se describen los parámetros operacionales considerados en el proceso de 
+verificación, los que se encuentran en proceso de aceptación por el Coordinador Eléctrico: 
+a) BESS Libélula (modo descarga) 
+• 
+Potencia máxima bruta: 202,894 [MW] 
+• 
+Potencia máxima neta: 199,200 [MW] 
+• 
+Potencia mínima bruta: 1,909 [MW]  
+• 
+Potencia mínima neta: 0,070 [MW]  
+b) BESS Libélula (modo carga) 
+• 
+Potencia máxima bruta: -195,559 [MW] 
+• 
+Potencia máxima neta: -199,200 [MW] 
+• 
+Potencia mínima bruta: -0,326 [MW]  
+• 
+Potencia mínima neta: -2,152 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+El BESS Libélula (NUP 5087) formará parte de la Central Renovable con Capacidad 
+de Almacenamiento (CRCA) Libélula. Sin embargo, la componente fotovoltaica (NUP 
+1966) aún no se encuentra en operación. 
+En consecuencia, una vez que la componente fotovoltaica inicie su proceso de 
+verificación de SSCC, será necesario realizar un nuevo proceso, en el cual se ensayen 
+todos los modos de operación de la CRCA. 
+a) Control Primario de Frecuencia 
+• 
+Instalación con rango de ajuste de estatismo del 2% al 8%. 
+• 
+El estatismo (R) actual de la instalación se encuentra ajustado al 4%, respecto a una 
+potencia base igual a la potencia nominal de la instalación, correspondiente a 199,2 
+[MW]. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+• 
+El estatismo y banda muerta pueden ser ajustados por el operador desde el sistema 
+SCADA. En consecuencia, se instruye mantener la banda muerta en 25 mHz y el 
+estatismo en 4 %. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Engie Energía Chile 
+S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías.  
+a) Control Primario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+Instalación 
+BESS Libélula 
+Recurso Primario 
+Baterías 
+ 
+ 
+ 
+ 
+ 
+Valor determinado 
+ 
+ 
+ 
+Modo descarga 
+Modo carga 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2-8% 
+Estatismo 
+4,00% 
+Rango de ajuste Banda muerta [mHz] 
+25-200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (3) 
+202,894 
+-0,326 
+Límite de regulación inferior [MW] (2) 
+1.909 
+-195,559 
+Aportes (4) 
+ BM = 25 [mHz]  
+R = 4% 
+10 
+segundos 
+Aporte +0,2[Hz] [MW] 
+-18,390 
+-17,420 
+Aporte -0,2[Hz] [MW] 
+17,480 
+17,520 
+Aporte +0,7[Hz] [MW] 
+-67,190 
+-67,330 
+Aporte -0,7[Hz] [MW] 
+67,300 
+67,180 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-17,450 
+-17,410 
+Aporte -0,2[Hz] [MW] 
+17,490 
+17,510 
+Aporte +0,7[Hz] [MW] 
+-66,930 
+-67,320 
+Aporte -0,7[Hz] [MW] 
+67,310 
+67,140 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia Máxima bruta en proceso de aprobación por el Coordinador. 
+(3) Correspondiente a la Potencia Mínima bruta en proceso de aprobación por el Coordinador. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 96 [MW] para descarga y carga. 
+Sin perjuicio de lo anterior, se verifica que la respuesta de la instalación es homogénea en todo su rango de operación. 
+ 

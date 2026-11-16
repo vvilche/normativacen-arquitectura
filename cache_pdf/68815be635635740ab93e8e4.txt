@@ -1,0 +1,126 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Santiago, 23 de julio de 2025  
+EGP 195-25 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional  
+ 
+ 
+MATERIA: 
+RESPUESTA CARTA DE04229-25 
+ 
+REF [1]: 
+CARTA 
+DE04229-25 
+“INSTRUYE 
+HABILITAR 
+PROTECCIÓN 
+DE 
+SOBREFRECUENCIA EN UNIDADES ERV PARA INCORPORARSE AL EDAG 
+TRANSITORIO FASE 0”. 
+ 
+ 
+ 
+De mi consideración, 
+ 
+ 
+Por medio de la presente, y en atención a la carta de la REF [1], en el anexo N°1 de la 
+presente comunicación, indicamos nuestro plan de trabajo para realizar la habilitación de 
+la protección de sobrefrecuencia, con los siguientes ajustes, en los siguientes parques ERV 
+de mi representada: 
+ 
+Parque 
+Escalón 
+Ajuste 
+Lalackama 
+III 
+51,5 [Hz] – 0 ms 
+PE Taltal 
+III 
+51,5 [Hz] – 0 ms 
+Azabache 
+III 
+51,5 [Hz] – 0 ms 
+Valle del Sol 
+V 
+51,8 [Hz] – 0 ms 
+Las Salinas 
+V 
+51,8 [Hz] – 0 ms 
+Guanchoi 
+VI 
+51 [Hz] – 0.9 [Hz/s] 
+Sol de Lila 
+VII 
+51 [Hz] – 1.2 [Hz/s] 
+ 
+ 
+De acuerdo con nuestros recursos disponibles, le solicitamos respetuosamente considerar 
+una fecha de término de esta implementación, el día 29 de agosto de 2025. 
+ 
+Sin otro particular, y esperando una favorable acogida a la presente comunicación, 
+atentamente se despide, 
+ 
+ 
+ 
+ 
+ 
+ 
+Miguel Buzunariz R. 
+Encargado CEN 
+ENEL GREEN POWER CHILE S.A.  
+ 
+ 
+ 
+
+ 
+2
+ 
+ 
+Anexo I 
+ 
+Plan de trabajo para implementar los ajustes instruidos. 
+ 
+Parque 
+IED 
+PAÑO 
+FECHA DE CAMBIO 
+PE Taltal 
+INGETEAM 
+FT1 
+22 JUL/03 AGO 
+PFV Sol de Lila 
+ABB-REF620 
+FT3 
+22 JUL/03 AGO 
+PFV Azabache 
+SIEMENS-7SJ82 
+E5 
+22 JUL/03 AGO 
+PFV Lalackama 
+ABB-REF620 
+FT1 
+22 JUL/03 AGO 
+PFV Valle del 
+Sol 
+SIEMENS-7SJ85 
+FT1-1_FT1-2_FT2-
+1_FT2-2 
+25/29 AGO 
+PFV Las Salinas 
+SIEMENS-7SJ85 
+FT1-1_FT1-2_FT2-
+1_FT2-2 
+25/29 AGO 
+PFV Guanchoi 
+SIEMENS-7SJ85 
+FT1_FT2 
+25/29 AGO 
+ 

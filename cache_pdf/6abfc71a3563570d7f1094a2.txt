@@ -1,0 +1,78 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Cerro el Plomo 5260, Piso 13 Oficina 1304, Las Condes, Santiago - Chile Teléfono: +56 (2) 29456850 
+Santiago, 01 de octubre 2026  
+ 
+ 
+ 
+Señor 
+Rodrigo Espinoza 
+Gerente Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Asunto: 
+IC-OM-00-C452: Respuesta a carta DE04464-26 “Pruebas de Verificación 
+SCADA con motivo del Estudio de PRS 2025”. 
+Ref.: 
+[1] Carta DE01500-26 Pruebas de Verificación SCADA con motivo del Estudio de 
+PRS 2025, con fecha 01 de julio de 2026. 
+[2] Estudio de Plan de Recuperación de Servicio Informe Final 2025 Versión 2. 
+De nuestra consideración: 
+ 
+ 
+Por medio del presente, y en representación de Interchile S.A., damos respuesta a la 
+comunicación de su representada singularizada en la Ref [1], donde solicita remitir al 
+Coordinador el Informe Técnico correspondiente a las pruebas de verificación de los 
+sistemas SCADA, en cumplimiento de los exigido en el Estudio PRS de Ref. [2], a más 
+tardar el 2 de noviembre 2026. 
+Al respecto, hacemos presente que, de acuerdo con lo establecido en la sección 4.4 
+"Pruebas de Verificación SCADA" del Estudio PRS 2025 de Ref. [2], el informe técnico 
+asociado a dichas pruebas debe ser remitido por el Coordinado al sistema de 
+correspondencia del Coordinador Eléctrico Nacional a más tardar el 31 de diciembre de 
+2026, plazo que difiere de la fecha señalada en la comunicación de Ref. [1]. 
+Sin perjuicio de lo anterior, informamos que Interchile S.A. ya se encuentra desarrollando 
+el proceso de licitación para la contratación del servicio de ejecución de las Pruebas de 
+Verificación SCADA, con el objeto de dar cumplimiento oportuno a las exigencias 
+establecidas en el Estudio PRS 2025. 
+Adicionalmente, nuestra representada realizará los esfuerzos para adelantar la ejecución 
+de las actividades y la emisión del correspondiente informe técnico, con el propósito de 
+facilitar una revisión anticipada por parte del Coordinador y contribuir al adecuado 
+Docusign Envelope ID: AE251FC1-68CE-830D-83BE-51D22ACC9AA6
+
+ 
+ 
+ 
+ 
+ 
+ 
+Cerro el Plomo 5260, Piso 13 Oficina 1304, Las Condes, Santiago - Chile Teléfono: +56 (2) 29456850 
+cumplimiento de los objetivos establecidos en el referido estudio. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C.C: 
+      
+      Luis Calabrán – Subgerente de Operación en Tiempo Real 
+      Victor Reyes – Jefe del Departamento de SCADA y SITR 
+       
+       
+   
+Leonardo Prado Vega. 
+Director Operaciones 
+INTERCHILE S.A. 
+Docusign Envelope ID: AE251FC1-68CE-830D-83BE-51D22ACC9AA6

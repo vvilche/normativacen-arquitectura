@@ -1,0 +1,50 @@
+ 
+ 
++562 2963 2900 
+informaciones@enlasa.cl 
+Francisco de Aguirre 3720, of. 63 
+CL7630446, Vitacura, Santiago 
+ENLASA.Cl
+ 
+SANTIAGO, 10 DE MARZO.2025 
+COM-04/2025 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+ 
+Ref.: Observaciones a indicadores de desempeño de 
+servicios complementarios para febrero del 
+2025. 
+ 
+De nuestra consideración,  
+ 
+A través de la presente, Enlasa Generación envía observaciones a los factores de desempeño calculados por 
+el Coordinador Eléctrico para febrero 2025 
+ 
+1) 
+El 04-02-2025 a las 07:08, el CDC solicitó la activación de CTF (+) para las centrales TENO_DIESEL, 
+PENON_DIESEL y TRAPEN_DIESEL. Se ha identificado que la hora registrada en el RIO fue a las 
+07:28, la cual no coincide con la hora real de activación. Se adjunta la grabación "20250204070659" 
+que evidencia la comunicación entre el CDC y el CC de Enlasa, donde se menciona el inicio de la 
+instrucción. Se solicita modificar la hora de inicio de las 07:28 a las 07:08 para las tres centrales 
+mencionadas. 
+2) 
+El 19-02-2025 entre las 19:34 y 20:07 el CDC solicitó la activación de CTF (+) para las centrales 
+TENO_DIESEL, PENON_DIESEL y TRAPEN_DIESEL.  Se ha identificado que las horas de inicio y fin 
+registradas en el RIO para TENO_DIESEL fue entre 19:44 y 20:16, las cuales no coinciden con la 
+hora real de activación. Se adjuntan las grabaciones “20250219193239” y “20250219200538” que 
+evidencia la comunicación entre el CDC y el CC de Enlasa, donde se menciona el inicio y fin de la 
+instrucción. Se solicita modificar la hora de inicio de las 19:44 a las 19:34 y la hora de fin de 20:16 
+a 20:07 para la central TENO_DIESEL.  
+ 
+Sin otro particular le saluda atentamente, 
+ 
+ 
+ 
+Gustavo Venegas H. 
+Encargado Titular 
+Enlasa Generación Chile S.A. 

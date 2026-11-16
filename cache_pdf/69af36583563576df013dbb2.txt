@@ -1,0 +1,211 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 
+SUPPLY ENERGY MANAGEMENT 
+ 
+Santiago, 6 de marzo de 2026 
+ENGIE N°050/2026
+ 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Respuesta a carta DE01003-26, Ref.: 
+"Comunica atraso en el proceso de Verificación de 
+Instalaciones de Generación para la Prestación de 
+Servicios 
+Complementarios 
+de 
+acuerdo 
+con 
+Cronograma Vigente", de fecha 11 de febrero de 
+2026. 
+[1] Carta DE01003-26, Ref.: "Comunica atraso en el 
+proceso 
+de 
+Verificación 
+de 
+Instalaciones 
+de 
+Generación 
+para 
+la 
+Prestación 
+de 
+Servicios 
+Complementarios de acuerdo con Cronograma 
+Vigente", de fecha 11 de febrero de 2026. 
+[2] Carta DE01036-25, Ref.: "Actualización del 
+Cronograma 
+de 
+verificación 
+de 
+Servicios 
+Complementarios (SSCC) en instalaciones existentes 
+de Generación y Almacenamiento", de fecha 18 de 
+febrero de 2025. 
+De nuestra consideración: 
+En atención a la carta de la Ref. [1], mediante la cual el Coordinador Eléctrico Nacional (CEN) comunica 
+el vencimiento en el plazo de envío de los informes de verificación de Servicios Complementarios (SSCC) 
+de instalaciones de generación pertenecientes a ENGIE Energía Chile S.A. y sus empresas relacionadas 
+según lo establecido en el Cronograma de Verificación de SSCC versión 2025.02.18, mediante  la 
+presente damos a respuesta a cada uno de los puntos solicitados. 
+Al respecto, ENGIE Energía Chile S.A., en su calidad de titular responsable de las instalaciones listadas 
+en el Anexo 1 de la carta referenciada —incluyendo aquellas incorporadas a su flota mediante procesos 
+de adquisición—, expone lo siguiente: 
+1.  Razones del atraso y acciones comprometidas 
+Las demoras en el envío de los informes de verificación de SSCC se indican en la siguiente tabla: 
+Unidad 
+Causa del Atraso 
+HP CHAPIQUIÑA U1 y 
+U2 
+Retraso en la adjudicación del servicio con fabricante del sistema de control (GOV y 
+AVR). 
+PE CALAMA (U1-U36) 
+Retraso en la adjudicación del servicio con fabricante del sistema de control 
+relacionado a CSF (PPC). 
+PFV TAMAYA SOLAR 
+Retraso en Implementación Master Power Plant Controller (MPPC), que tambien 
+considera la integración del BESS Tamaya. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unidad 
+Causa del Atraso 
+PE SAN PEDRO (U1-
+U18) – ALBA SPA 
+Nos encontramos a la espera por parte del Proveedor de una validación que con la 
+infraestructura actual de control se puede realizar prestación de SSCC de forma 
+segura sin afectar la operatividad de los aerogeneradores. Lo anterior, a nivel de PPC 
+y Controlador de Aerogenerador. 
+PE SAN PEDRO II (U1-
+U13) – RÍO ALTO SPA 
+Nos encontramos a la espera por parte del Proveedor de una validación que con la 
+infraestructura actual de control se puede realizar prestación de SSCC de forma 
+segura sin afectar la operatividad de los aerogeneradores. Lo anterior, a nivel de PPC 
+y Controlador de Aerogenerador.  
+PFV LOS LOROS – 
+SOLAR LOS LOROS 
+SPA 
+En enero de 2026 se realizó la adjudicación de Upgrade PPC PV Los Loros. Se 
+comparto más abajo programa de trabajo.  
+ 
+2.  Plan de normalización 
+En cumplimiento de lo requerido en la carta Ref. [1], ENGIE Energía Chile S.A. presenta el siguiente plan 
+de normalización para el envío de los informes de verificación de SSCC pendientes, en un plazo máximo 
+de 30 días corridos contados desde la fecha de la presente comunicación. Dicho plan no afectará la 
+entrega de los informes programados para otras instalaciones de la flota en los próximos meses. 
+El plan considera las siguientes etapas y fechas límite para cada instalación: 
+Coordinado 
+Unidad 
+SSCC 
+Pendientes 
+Fecha Envío 
+Protocolo 
+Fecha 
+Ensayos 
+Fecha 
+Entrega 
+Informe 
+ENGIE 
+ENERGÍA 
+CHILE S.A. 
+HP CHAPIQUIÑA 
+U1 
+CPF / CSF 
+31-03-2026 
+18-05-2026 
+15-06-2026 
+ENGIE 
+ENERGÍA 
+CHILE S.A. 
+HP CHAPIQUIÑA 
+U2 
+CPF / CSF 
+31-03-2026 
+18-05-2026 
+15-06-2026 
+ENGIE 
+ENERGÍA 
+CHILE S.A. 
+PE CALAMA (U1-
+U36) 
+CPF / CSF / 
+CTF Giro / CTF 
+Frío / CT 
+31-03-2026 
+18-05-2026 
+15-06-2026 
+ENGIE 
+ENERGÍA 
+CHILE S.A. 
+PFV TAMAYA 
+SOLAR 
+CPF / CSF / 
+CTF Giro / CTF 
+Frío / CT 
+31-03-2026 
+17-04-2026 
+15-06-2026 
+SOLAR LOS 
+LOROS SPA 
+PFV LOS LOROS 
+CPF / CSF / 
+CTF Giro / CTF 
+Frío / CT 
+31-03-2026 
+18-05-2026 
+15-06-2026 
+ 
+Los protocolos de ensayo serán enviados al Coordinador al menos 15 días corridos previos a la fecha 
+estimada de realización de los ensayos, de conformidad con lo establecido en el Anexo Técnico de la NT 
+de SSCC. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Para la verificación del Servicio Complementario de Control Secundario de Frecuencia (CSF), ENGIE 
+Energía Chile S.A. tomará contacto oportuno con los departamentos del Coordinador conforme al flujo de 
+actividades indicado en el Anexo 1 de la carta Ref. [1], a efectos de coordinar las actividades 
+correspondientes. 
+La presente respuesta, incluye los Anexoa de Respuestas de coordinados debidamente completados, es 
+en cumplimiento con lo señalado en la carta Ref. [1]. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+Juan Muñoz 
+Encargado Titular 
+ENGIE Energía Chile S.A 
+ 
+ 

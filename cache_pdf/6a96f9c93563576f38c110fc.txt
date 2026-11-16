@@ -1,0 +1,53 @@
+ 
+ 
+ 
+Casa Matriz: Avenida Apoquindo 3885, Of. 1401, Las Condes, Santiago, Chile. Fono 56 2 2368 8321 I Cabildo: Avda. Húmeres 1501, Cabildo, Chile. 
+Fono 56 2 2462 3500 Taltal: Camino Cifuncho s/n (Km. 30) Taltal, Chile. Teléfono 56 2 2462 3615 I E-mail: cenizas@cenizas.cl  
+ 
+Página 1 de 1 
+Taltal, agosto 31 de 2026 
+ES N°02-2026 
+Sr. Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Propuesta de adecuación del Esquema de 
+Desconexión 
+Automática de Carga (EDAC) por Baja Frecuencia 
+— Minera Las Cenizas S.A. 
+ 
+ 
+Por medio de la presente, la empresa Minera Las Cenizas S.A., RUT 79.963.260-8, representada 
+por Gustavo Cortés Contreras, representante Titular de la Empresa inscrito en el REUC (Registro 
+Único de Coordinados), da respuesta a la carta DE 05631-26 del 21 de agosto de 2026 y a las 
+instrucciones previas de las cartas DE04404-21, DE02698-21, DE02065-24 y DE02066-24, 
+remitiendo la propuesta de adecuación del Esquema de Desconexión Automática de Carga 
+(EDAC) por Baja Frecuencia (BF) para S.E. Las Luces y S.E. Planta Óxido. 
+ 
+Se acompaña la planilla "Propuesta adecuación EDAC Cenizas", con el consumo horario 
+promedio de ambas subestaciones (ventana de 5 meses corridos, abril a agosto de 2026), el 
+detalle de alimentadores/interruptores y su registro diario de demanda, y la evaluación de 
+cumplimiento del monto de desconexión exigido por la carta DE04404-21 (25% de la demanda 
+total representada por la empresa en la Zona Atacama). 
+ 
+Cada subestación cuenta con un único interruptor principal asociado al esquema EDAC, por lo 
+que la desconexión se ejecuta en su totalidad ante la actuación del esquema, sin fraccionamiento 
+entre escalones. Con esta configuración, el 25% exigido se cumple con el interruptor de S.E. 
+Planta Óxido (2.843 kW, equivalente al 35,9% de la demanda total de la empresa); el interruptor 
+de S.E. Las Luces (5.089 kW) queda como aporte adicional que también operará ante un evento 
+real. Minera Las Cenizas se compromete a evaluar, en una etapa posterior, la incorporación de 
+protecciones que permitan una desconexión graduada por escalón en cada subestación, y 
+solicita al Coordinador orientación sobre si dicha graduación es requisito para la aprobación de 
+esta propuesta. 
+ 
+Se adjunta el protocolo de verificación del relé de protección GE F60 de S.E. Las Luces (informe 
+SIDELEC Rev. 0, abril 2025).  
+ 
+Sin otro particular, saluda cordialmente a usted. 
+ 
+ 
+ 
+Gustavo Cortés Contreras 
+Representante Titular 
+7.609.203-6 

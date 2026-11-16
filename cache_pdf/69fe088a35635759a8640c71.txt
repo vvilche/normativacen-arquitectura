@@ -1,0 +1,301 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Santiago, 08 de mayo de 2026 
+DE 03135-26 
+Señor 
+Encargado   
+Empresas Coordinadas 
+Presente 
+Ref.: Informe 
+de 
+Revisión 
+Mensual 
+de 
+Garantías del Mercado de Corto Plazo, 
+Abril 2026, preliminar. 
+  
+Sr. Encargado: 
+ 
+De acuerdo con lo indicado en el Título 3-8 de la Norma Técnica de Coordinación y 
+Operación, y el Procedimiento Interno “Cumplimiento de la Cadena de Pagos en el 
+Mercado de Corto Plazo”, informo a usted que se ha publicado el informe “Revisión 
+Mensual de Garantías de Mercado de Corto Plazo 2026”, correspondiente abril 2026, 
+en su versión preliminar para observaciones, y que se adjunta a la presente. 
+ 
+Al respecto, los antecedentes de cálculo se han dejado a disposición de las empresas, 
+en la web del Coordinador, en la sección Informes y Estudios > Mercados >Garantías 
+> 2026 (https://www.coordinador.cl/mercados/documentos/garantias/2026/). 
+ 
+Finalmente, sus observaciones deberán ser informadas a través del Módulo de 
+Observaciones 
+de 
+la 
+Plataforma 
+de 
+Mercado 
+(https://plataformamercado.coordinador.cl/observaciones/), hasta el 15 de mayo de 
+2026, en el proceso “Revisión de Garantías”. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+ 
+Lionel Roa B. 
+Subgerente de Transacciones de Mercado 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+ 
+ 
+HTM/MCS/VMN/YCL 
+Cc: Sr. Marcelo Bobadilla M. – Gerente de Mercados 
+Inc.: “Informe Revisión Garantías 2026 Abril preliminar.pdf” 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ANEXO 
+ 
+A continuación, se indican las empresas que modifican el monto a garantizar, una vez aplicado 
+el umbral de variación de 25% respecto al valor vigente al mes del cálculo: 
+ 
+Revisión Mensual de Montos de Garantía 2026, versión de abril 2026, preliminar. 
+Valores en $ 
+ 
+ 
+Empresa 
+Garantía 2026 
+Revisión 
+Garantía 2026-4 
+Aplicación 
+Umbral 25% 
+Diferencia 
+ENEL_GENERACION 
+160.254.602.034  
+101.673.760.655  
+101.673.760.655  
+-58.580.841.379  
+GM_HOLDINGS 
+25.595.854.861  
+35.058.009.563  
+35.058.009.563  
+9.462.154.702  
+ANGAMOS 
+0  
+17.527.107.424  
+17.527.107.424  
+17.527.107.424  
+ANGAMOS 
+0  
+17.527.107.424  
+17.527.107.424  
+17.527.107.424  
+ACCIONA_ENERGIA 
+8.114.948.967  
+11.892.532.616  
+11.892.532.616  
+3.777.583.649  
+GR Power Chile SpA 
+3.886.331.535  
+9.189.198.791  
+9.189.198.791  
+5.302.867.256  
+COLBUN 
+29.818.837.399  
+9.022.688.607  
+9.022.688.607  
+-20.796.148.792  
+GM_ENERGY 
+0  
+8.391.559.946  
+8.391.559.946  
+8.391.559.946  
+CABO_LEONES_II 
+6.242.881.143  
+8.322.861.007  
+8.322.861.007  
+2.079.979.864  
+EMOAC 
+1.398.454.075  
+7.093.931.768  
+7.093.931.768  
+5.695.477.693  
+CONDOR_ENERGIA 
+5.180.157.061  
+6.847.920.636  
+6.847.920.636  
+1.667.763.575  
+GUACOLDA 
+0  
+4.774.228.491  
+4.774.228.491  
+4.774.228.491  
+HUEMUL_ENERGIA 
+1.760.058.976  
+4.104.185.957  
+4.104.185.957  
+2.344.126.981  
+ACIERTA_ENERGIA 
+2.493.150.550  
+3.451.939.541  
+3.451.939.541  
+958.788.991  
+JAVIERA 
+1.736.918.520  
+2.200.323.724  
+2.200.323.724  
+463.405.204  
+ENERGY_ASSET 
+1.594.304.342  
+2.142.969.756  
+2.142.969.756  
+548.665.415  
+SONNEDIX_COX 
+816.644.158  
+1.869.651.830  
+1.869.651.830  
+1.053.007.672  
+EL_PELICANO 
+1.198.725.009  
+1.844.287.087  
+1.844.287.087  
+645.562.079  
+Cox Energy Comercializadora 
+SpA 
+85.636.025  
+1.034.951.656  
+1.034.951.656  
+949.315.631  
+BTG_PACTUAL 
+1.515.311.631  
+904.545.750  
+904.545.750  
+-610.765.880  
+SAFIRA_ENERGIA_CHILE 
+588.814.885  
+744.553.965  
+744.553.965  
+155.739.080  
+OPDENERGY_GENERACION 
+365.851.296  
+638.045.895  
+638.045.895  
+272.194.598  
+TAMAKAYA_ENERGIA 
+3.408.553.780  
+547.401.116  
+547.401.116  
+-2.861.152.664  
+PS TOCOPILLA SPA 
+0  
+516.042.659  
+516.042.659  
+516.042.659  
+WPD_MALLECO 
+569.074.409  
+413.425.267  
+413.425.267  
+-155.649.142  
+BESALCO 
+274.608.872  
+374.083.971  
+374.083.971  
+99.475.099  
+NEOELECTRA_ENERGIA 
+168.840.845  
+369.554.891  
+369.554.891  
+200.714.046  
+NEOMAS 
+275.474.919  
+345.837.357  
+345.837.357  
+70.362.438  
+Cinergia Chile SpA 
+208.439.383  
+321.387.048  
+321.387.048  
+112.947.665  
+Tamarico Solar Dos SpA 
+0  
+319.068.640  
+319.068.640  
+319.068.640  
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+FACTOR_LUZ 
+107.753.114  
+302.761.188  
+302.761.188  
+195.008.074  
+COMASA 
+0  
+298.398.365  
+298.398.365  
+298.398.365  
+ENORCHILE 
+0  
+182.607.710  
+182.607.710  
+182.607.710  
+CAREN 
+78.654.317  
+140.909.657  
+140.909.657  
+62.255.340  
+ATRIA_ENERGIA 
+0  
+122.543.150  
+122.543.150  
+122.543.150  
+RIO_COLORADO 
+24.123.961  
+99.433.818  
+99.433.818  
+75.309.858  
+SGA 
+0  
+63.319.195  
+63.319.195  
+63.319.195  
+EMBALSE_ANCOA 
+0  
+49.888.087  
+49.888.087  
+49.888.087  
+EGP_CHILE 
+165.984.834  
+23.739.203  
+23.739.203  
+-142.245.632  
+DONA_ANTONIA_SOLAR 
+0  
+22.034.093  
+22.034.093  
+22.034.093  
+INERSA 
+33.567.300  
+18.418.547  
+18.418.547  
+-15.148.752  
+SPVP4 
+6.054.809  
+4.025.207  
+4.025.207  
+-2.029.602  
+COCHRANE 
+1.617.783.744  
+0  
+0  
+-1.617.783.744  
+ 

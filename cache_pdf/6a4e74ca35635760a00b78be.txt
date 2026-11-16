@@ -1,0 +1,181 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 08 de julio de 2026 
+DE 04585-26 
+Señor 
+Eduardo Verdugo 
+Encargado Titular 
+AES Andes S.A. 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control de Tensión 
+de la central HP Volcán. 
+[1] Carta AES 0075-2026 de AES Andes S.A., Ref.: 
+“Envío de informe de verificación de Control de 
+Tensión – HP Volcán”, de fecha 11 de junio de 2026. 
+Responde a Ingreso DE05480-26 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control de 
+Tensión de la central HP Volcán. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario a partir de las 00:00 del 09 de julio de 2026, 
+considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CT de la central HP Volcán se encuentra publicado en la siguiente ruta de la 
+página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Tensión > Central HP Volcán 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+ 
+PGR/adr 
+c.c: Sr. Juan Pablo Kindermann – Encargado Suplente AES Andes S.A. 
+
+ 
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central HP Volcán 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central HP Volcán 
+A continuación, se describen los parámetros operacionales de central HP Volcán. A la fecha 
+de emisión de la presente carta de verificación de SSCC, los valores de potencia mínima 
+se encuentran aceptados por el Coordinador Eléctrico, mientras que los valores de potencia 
+máxima se encuentran en proceso de aceptación por parte de éste. 
+• 
+Potencia máxima bruta: 13,0 [MW] 
+• 
+Potencia máxima neta:  12,9 [MW] 
+• 
+Potencia mínima bruta: 0 [MW] 
+• 
+Potencia mínima neta: 0 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Tensión (CT)  
+Control de Tensión 
+(CT) 
+Control de Tensión (CT) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control de Tensión 
+Sin condiciones específicas para el SC mencionado. 
+4. 
+Existencia de medios alternativos de envío de señales, según Artículo 5-8 de la 
+NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado AES Andes S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategoría. 
+Ver Tabla en página siguiente
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+a) Control de Tensión 
+SSCC 
+Control de Tensión  
+Categoría 
+Control de Tensión 
+Subcategoría 
+Control de Tensión 
+Modo(s) de Control 
+Control de Tensión 
+Instalación 
+Recurso 
+Primario 
+             Tensión [pu] 
+ 
+Potencia [MW] 
+Potencia Reactiva [MVAr]  
+0,9(1) 
+0,95 
+1 
+1,05 
+1,1(1) 
+Central HP 
+Volcán 
+Hidráulica 
+de Pasada 
+0,5 
+No 
+Operable 
+3,31 
+13,54 
+13,49 
+No 
+Operable 
+4,1 
+4,75 
+13,27 
+13,23 
+7,7 
+4,30 
+12,38 
+12,12 
+11,3 
+3,80 
+9,92 
+10,08 
+11,3 
+-3,86 
+-4,04 
+-3,82 
+7,7 
+-4,90 
+-5,20 
+-5,34 
+4,1 
+-6,03 
+-6,25 
+-6,46 
+0,5 
+-5,53 
+-6,74 
+-6,85 
+(1) Valores de tensión de 0,9 y 1,1 p.u, en bornes de la unidad, no son operables debido a ajustes de protección de sobre 
+flujo y protección de pérdida de excitación. Sin perjuicio de lo anterior, el coordinado valida que la central puede controlar 
+tensión en el rango asociado al estado de emergencia del SEN. 
+ 
+ 

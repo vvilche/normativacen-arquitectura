@@ -1,0 +1,158 @@
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl
+Santiago, 12 de septiembre de 2025 
+DE 05727-25 
+Señores 
+Encargados 
+Empresas Coordinadas 
+Presente 
+Ref.: Aceptación del Mínimo Técnico de 
+la 
+Central 
+con 
+capacidad 
+de 
+almacenamiento, PFV Don Humberto y 
+BESS 
+PFV 
+Don 
+Humberto, 
+del 
+coordinado Enel Green Power Chile S.A. 
+De mi consideración: 
+En cumplimiento con lo establecido en el Artículo 11 del Anexo Técnico “Determinación de 
+Mínimos Técnicos en Unidades Generadoras” de la Norma Técnica de Seguridad y Calidad 
+de Servicio, comunico a Ud. la aceptación por parte del Coordinador Eléctrico Nacional del 
+valor de Mínimo Técnico de la Central con capacidad de almacenamiento, PFV Don 
+Humberto (NUP 2224) y BESS PFV Don Humberto (NUP 4084), en conformidad con los 
+informes técnicos finales recibidos mediante comunicación de la Ref. [1]. 
+Adicionalmente, se deja constancia que en el plazo establecido por el Artículo 23 del Anexo 
+Técnico en aplicación, no se recibieron observaciones de Coordinado alguno a los informes 
+indicados, publicados en la página web del Coordinador mediante la comunicación de la 
+Ref. [2]. Por su parte, el Coordinador emitió observaciones de carácter técnico a los 
+informes mencionados las que derivaron en una versión final de los informes técnicos. 
+Conforme a lo anterior, los parámetros técnicos de Mínimo Técnico de la Central con 
+capacidad de almacenamiento, PFV Don Humberto y del BESS PFV Don Humberto, se 
+presentan en la siguiente tabla: 
+Tabla 1: Parámetros de Mínimo Técnico de la Central con capacidad de almacenamiento 
+PFV Don Humberto y BESS PFV Don Humberto 
+Central 
+Configuración 
+Tiempo de 
+carga / 
+descarga [h] 
+Potencia 
+Máxima 
+Bruta 
+[MW] 
+SS/AA 
+[MW] 
+Pérdidas 
+en la 
+central (1) 
+[MW] 
+Potencia 
+Máxima 
+Neta (2) 
+[MW] 
+PFV Don 
+Humberto 
+PFV 
+No Aplica 
+0,5008 
+0,0111 
+0,2684 
+0,2213 
+BESS (modo 
+descarga) 
+2,0958 / 2,1482 
+0,5222 
+0,1967 
+0,1881 
+0,1374 
+PFV+BESS 
+(modo carga) 
+2,0958 / 2,1482 
+0,6233 
+0,0219 
+0,4511 
+0,1503 
+(1) El detalle de las pérdidas se indica en Anexo de la presente carta.
+(2) Inyectada en la barra de 110 kV de S/E Punta Peuco.
+Al respecto, comunico a Ud., que estos parámetros entrarán en vigencia a partir de las 
+00:00 horas del día 16 de septiembre de 2025. 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+ 
+Las observaciones emitidas y los informes técnicos finales que contienen la justificación de 
+los parámetros indicados anteriormente han sido publicados en la siguiente ruta del sitio 
+web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Parámetros Operacionales de Unidades 
+Generadoras > Mínimo Técnico > Informes de Mínimos Técnicos Unidades 
+Generadoras > Central PFV Don Humberto y BESS PFV Don Humberto > 2024 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+PPF/ASA/adr 
+ 
+Referencias: 
+ 
+[1] Carta EGP 209-25 del Coordinado Enel Green Power Chile S.A., Ref.: “Determinación 
+de Mínimo Técnico Parque Fotovoltaico y BESS Don Humberto (NUP 2224, NUP 4084))”, 
+de fecha 04 de septiembre de 2025. Ingreso DE09109-25. 
+[2] Carta DE05555-24, Ref.: “[NUP 2224 y 4084] Informes Técnicos de Parámetros 
+Operacionales de la Central PFV Don Humberto y BESS PFV Don Humberto, del 
+coordinado Enel Green Power Chile S.A.”, de fecha 23 de octubre de 2024. 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300  
+www.coordinador.cl 
+ 
+Anexo 
+ 
+Tabla 2: Desglose de las pérdidas asociadas a las pruebas de Mínimo Técnico de la Central 
+BESS-PFV Don Humberto 
+Central 
+Configuración 
+Pérdidas 
+totales [MW] 
+Pérdidas en el 
+transformador [MW] 
+Pérdidas en sistema 
+colector [MW] 
+PFV Don 
+Humberto 
+PFV 
+0,2684 
+0,0387 
+0,2297 
+BESS (modo 
+descarga) 
+0,1881 
+0,0387 
+0,1494 
+PFV+BESS 
+(modo carga) 
+0,4511 
+0,0387 
+0,4124 
+ 
+ 

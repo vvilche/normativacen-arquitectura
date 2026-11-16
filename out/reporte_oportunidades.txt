@@ -1,0 +1,52 @@
+OPORTUNIDADES NORMATIVAS CEN — 16-11-2026
+
+330 cuentas atacables (677 frentes empresa-producto), de 980 cuentas en el padrón CEN.
+
+MORA POR PRODUCTO
+  SLRP           240 req · 142 empresas ·  196 sin cerrar
+  SITR           900 req · 374 empresas ·  680 sin cerrar
+  EDAC           223 req ·  95 empresas ·  190 sin cerrar
+  EDAG           122 req ·  51 empresas ·   76 sin cerrar
+  PMU            639 req · 280 empresas ·  505 sin cerrar
+  PRS             75 req ·  30 empresas ·   59 sin cerrar
+  SSCC          1297 req · 227 empresas ·  903 sin cerrar
+  SCADA         1192 req · 453 empresas ·  881 sin cerrar
+  PROTECCIONES  1031 req · 667 empresas ·  876 sin cerrar
+
+DÓNDE YA TRABAJAMOS
+  Fuente: Odoo producción https://conecta-erp.odoo.com db=conecta-aws-odoo-conecta-odoo-17929454 uid=21
+  CLIENTE                          171 frentes
+  PIPELINE                         131 frentes
+  PROSPECTO                        1224 frentes
+  Monto en ERP: 238 cuentas con expected_revenue registrado
+
+TOP CUENTAS A ATACAR (clientes primero)
+   1. Colbún S.A.                      SSCC         24 req / 677d  ODOO · cliente               jescobart@colbun.cl [GPS, PMU, SCADA]
+   2. Engie Energía Chile S.A.         SSCC         25 req / 615d  ODOO · cliente               paulina.mardones@cl.engie.com [PMU]
+   3. Engie Energía Chile S.A.         SITR         15 req / 627d  ODOO · cliente               paulina.mardones@cl.engie.com [PMU]
+   4. CGE Transmisión S.A.             PROTECCIONES 12 req / 564d  ODOO · cliente               miortizs@grupocge.cl [PDC, PMU]
+   5. Transelec S.A.                   SSCC         12 req / 547d  ODOO · cliente               jcancino@transelec.cl [PDC, PMU, RTU, Repro, SCADA]
+   6. Colbún S.A.                      SITR         11 req / 573d  ODOO · cliente               jescobart@colbun.cl [GPS, PMU, SCADA]
+   7. AES ANDES S.A                    SSCC         10 req / 648d  ODOO · cliente               javier.dib@aes.com [Medición, PDC, PMU]
+   8. AES ANDES S.A                    SITR         10 req / 627d  ODOO · cliente               javier.dib@aes.com [Medición, PDC, PMU]
+   9. Transelec S.A.                   PMU           9 req / 578d  ODOO · cliente               jcancino@transelec.cl [PDC, PMU, RTU, Repro, SCADA]
+  10. ENERGÍA CERRO EL MORADO S.A      SITR          8 req / 573d  ODOO · cliente               fgardewegr@wegcapital.cl
+  11. CGE Transmisión S.A.             PMU           6 req / 578d  ODOO · cliente               miortizs@grupocge.cl [PDC, PMU]
+  12. Engie Energía Chile S.A.         PMU           6 req / 578d  ODOO · cliente               paulina.mardones@cl.engie.com [PMU]
+  13. CERRO DOMINADOR CSP S.A          SITR          7 req / 321d  ODOO · cliente               pablo.cavallaro@grupocerro.com
+  14. Engie Energía Chile S.A.         EDAG          6 req / 539d  ODOO · cliente               paulina.mardones@cl.engie.com [PMU]
+  15. Statkraft Eólico S.A             PMU           6 req / 454d  ODOO · cliente               constanza.cazenave@x-elio.com [PMU]
+  16. Ibereólica Cabo Leones II S.A.   SSCC          5 req / 628d  ODOO · cliente               jaosoriod@globalpower-generation.com [PMU]
+  17. Engie Energía Chile S.A.         PRS           5 req / 579d  ODOO · cliente               paulina.mardones@cl.engie.com [PMU]
+  18. COMPAÑÍA BARRICK CHILE GENERAC   SITR          5 req / 573d  ODOO · cliente               gomontes@barrick.com [PMU, SCADA]
+  19. Engie Energía Chile S.A.         PROTECCIONES  5 req / 547d  ODOO · cliente               paulina.mardones@cl.engie.com [PMU]
+  20. Generadora Metropolitana SpA     SSCC          6 req / 320d  ODOO · cliente               dhollweck@generadora.cl [PMU]
+  21. AES ANDES S.A                    PMU           5 req / 454d  ODOO · cliente               javier.dib@aes.com [Medición, PDC, PMU]
+  22. Colbún S.A.                      PRS           4 req / 579d  ODOO · cliente               jescobart@colbun.cl [GPS, PMU, SCADA]
+  23. Guacolda Energía SpA             PRS           4 req / 579d  ODOO · cliente               marco.arrospide@eguacolda.cl [PDC, PMU, Repro]
+  24. Colbún S.A.                      EDAG          4 req / 539d  ODOO · cliente               jescobart@colbun.cl [GPS, PMU, SCADA]
+  25. AGUAS ANTOFAGASTA S.A            SITR          4 req / 529d  ODOO · cliente               mcorvalan@aguasantofagasta.cl
+
+VALOR DE LÍNEA: depende del PRODUCTO, no de la empresa. Sale de la HH mediana real de 1.133 BOMs.
+MONTO EN ODOO: el expected_revenue es del CLIENTE y se repite en cada frente de la misma cuenta.
+Fuente: cartas.coordinador.cl · Odoo producción https://conecta-erp.odoo.com db=conecta-aws-odoo-conecta-odoo-17929454 uid=21

@@ -1,0 +1,88 @@
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+ 
+Santiago, 09 de junio de 2026 
+ 
+JAV202616 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Respuesta a Carta DE 03400-26 — Plan 
+de adecuación de sistema de control para 
+prestación simultánea de CPF y CSF, central 
+PFV Javiera. 
+ 
+De nuestra consideración: 
+En respuesta a su oficio DE 03400-26 de fecha 19 de mayo de 2026, mediante el cual 
+ 
+se solicita a Javiera SpA presentar una evaluación de factibilidad técnica e implementar 
+las adecuaciones necesarias para habilitar la prestación simultánea de los servicios de 
+Control Primario de Frecuencia (CPF) y Control Secundario de Frecuencia (CSF) en la central 
+fotovoltaica Javiera, informo a usted lo siguiente:  
+a) Evaluación de factibilidad técnica 
+Javiera SpA confirma la factibilidad técnica de implementar las adecuaciones 
+requeridas. El sistema de control de la instalación es de desarrollo y propiedad de Atlas 
+Renewable Energy, lo que permite realizar modificaciones directamente en el código 
+fuente sin dependencia de terceros para las tareas de desarrollo. La problemática 
+identificada, consistente en que, una vez activado el CPF, el sistema fija como punto 
+central de la curva de estatismo la potencia activa al momento de salir de la banda 
+muerta e ignora las consignas de variación de carga instruidas por el AGC ha sido 
+analizada y tiene solución técnica viable dentro del plazo solicitado. 
+b) Plan de trabajo 
+Se adjunta el plan de adecuación, el cual contempla las siguientes fases dentro de un 
+plazo de 3 meses: 
+Fase 1 - Análisis y diseño (semanas 1–4): Revisión detallada del comportamiento actual 
+del sistema, análisis de los requisitos normativos aplicables al CPF y CSF, y elaboración 
+del diseño de la solución con definición de casos de prueba. 
+
+Apoquindo 3472, Piso 9, Oficina 901-A 
+Las Condes, Santiago 
+CHILE 
+AtlasRenewableEnergy.com 
+contacto@atlasren.com 
++56 22-611-8300 
+ 
+ 
+Fase 2 - Desarrollo (semanas 3–8): Implementación de la nueva lógica de estatismo 
+dinámico que permite desplazar el punto central de la curva de estatismo en rampa a 
+medida que llegan consignas del CSF, integración con la señal de consigna del AGC, y 
+construcción del entorno de simulación y banco de pruebas. 
+Fase 3 Pruebas internas (semanas 8–10): Deploy piloto en un subconjunto reducido de 
+inversores, verificación funcional del comportamiento simultáneo de CPF y CSF, 
+corrección de eventuales anomalías y deploy general a la planta. 
+Fase 4 - Pruebas con el Coordinador (semanas 10–12): Coordinación de agenda con el 
+Coordinador Eléctrico Nacional y ejecución de las pruebas AGC y verificaciones técnicas 
+requeridas para validar el desempeño de la unidad bajo las nuevas condiciones 
+operacionales 
+No se identifican restricciones técnicas que puedan impedir la implementación de las 
+adecuaciones. Las pruebas de las fases 3 y 4 estarán sujetas a la disponibilidad operativa 
+de la planta y a la agenda que se coordine con el Coordinador para la ejecución de las 
+pruebas AGC formales. 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Javier Moraga 
+Encargado Titular 
+Javiera SpA 

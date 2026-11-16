@@ -1,0 +1,46 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLY & ENERGY MANAGEMENT 
+ 
+Santiago, 16 de junio de 2026 
+SLL N°001/2026
+ 
+Señor 
+Pablo Palma Villagran. 
+Ingeniero de Análisis y Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+Asunto: Acciones correctivas de Solar Los Loros 
+SpA por EAF 478/2025: "Apertura intempestiva del 
+interruptor 52H3 de S/E Cardones". 
+Ref.: 
+[1] Correo electrónico del Coordinador Eléctrico 
+Nacional, del 11 de junio de 2026. 
+ 
+De nuestra consideración, 
+ 
+En respuesta su correo de la Ref. [1], referente a las correcciones realizadas en las oscilografías de las protecciones 
+asociadas a los paños HT1 y HT2, se reporta lo siguiente: 
+ 
+Las correcciones se realizaron bajo la SODI N°2026000965. Estos trabajos consistieron en mejorar y corregir la 
+sincronización horaria en UTC-0 mediante GPS, el cual al momento de los eventos descritos en nuestra carta 
+N°002/2025 se encontraban mal configurados dando en consecuencia una incorrecta estampa de tiempo en las 
+oscilografías, dificultando el análisis de las operaciones. 
+ 
+Sin otro particular, saluda atentamente a Ud.,  
+ 
+ 
+  
+Juan Muñoz Tapia 
+Encargado Titular 
+Solar Los Loros SpA 
+ 
+ 
+ENGIE 
+Isidora Goyenechea 2800, piso 16, Las Condes. 
+Santiago de Chile 
+www.engie.cl 

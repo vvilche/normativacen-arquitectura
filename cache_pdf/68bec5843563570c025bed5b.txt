@@ -1,0 +1,67 @@
+ 
+ 
+ 
+GO N° 219/2025 
+Santiago, 05 de septiembre de 2025 
+ 
+Señor  
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ant.:  [1] Carta DE 04979-25, fecha 22 de agosto de 2025, del Coordinador a Colbún, “Solicita 
+aclarar comportamiento de la Central PFV Diego de Almagro Sur en la prestación del Control 
+Primario de Frecuencia”. 
+ 
+[2] Carta DE04857-24, fecha 26 de septiembre de 2024, “Resultado del Proceso de 
+Verificación de los SSCC de CPF y CTF de la Central PFV Diego de Almagro Sur”. 
+ 
+[3] Carta GO N°147/2024 de Colbún S.A., fecha 19 de agosto de 2024, “Observaciones al 
+Informe Técnico de Verificación de SSCC de la Central PFV Diego de Almagro Sur”. 
+ 
+Ref.:  Entrega análisis y correcciones al control de velocidad del PFV Diego de Almagro Sur 
+para mejorar la respuesta en la prestación del Control Primario de Frecuencia. 
+ 
+ 
+De nuestra consideración:  
+ 
+En relación con su carta de Ant. [1], mediante la cual solicita a Colbún S.A. analizar la respuesta del 
+PFV Diego de Almagro Sur en la prestación del Servicio Complementario de Control Primario de 
+Frecuencia (CPF) ya que no se ajusta a la respuesta esperada conforme al Informe de Verificación 
+del CPF informado por Colbún mediante Ant [3] y aprobado por el Coordinador en Ant [2]. 
+ 
+Quisiera informar que Colbún S.A. tomó contacto con el fabricante SMA y planificó actividades de 
+análisis, revisión y corrección del controlador de frecuencia. Los análisis permitieron identificar un 
+error en la lógica del modo de control Potencia/Frecuencia relacionado con la banda muerta, que no 
+fue abordado en abril del año en curso cuando se implementaron cambios en la banda muerta, 
+solicitados por el Coordinador en su carta DE01940-25, para que el Parque ajustara a 25 mHz la 
+prestación del CPF.  
+ 
+Luego de este hallazgo se planificaron los trabajos de intervención sobre el regulador de velocidad 
+que se desarrollaron exitosamente el 21 de agosto de 2025, bajo la solicitud de intervención SD 
+Nº2025090746. Finalmente, las pruebas para demostrar la respuesta esperada del controlador de 
+frecuencia se realizaron el 27 de agosto de 2025 bajo la solicitud de intervención SD Nº2025091573. 
+ 
+
+ 
+ 
+Se envía adjunto la Minuta Técnica preparada por Colbún con los antecedentes de respaldo que 
+permiten demostrar que la unidad PFV Diego de Almagro Sur corrigió la respuesta en la prestación 
+del Servicio Complementario CPF, y por lo tanto cumple la Norma Técnica de Servicios 
+Complementarios.   
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+Sebastián Ruiz-Tagle Mena 
+Encargado Titular 
+COLBÚN S.A. 
+ 
+Incl.: Lo indicado 
+ 
+ 
+ 
+ 
+ 
+ 

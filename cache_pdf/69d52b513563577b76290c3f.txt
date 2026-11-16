@@ -1,0 +1,244 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Santiago, 07 de abril de 2026 
+DE 02264-26 
+Señor 
+Héctor Astudillo 
+Encargado Titular 
+Parque Eólico Cabo Leones I S.A. 
+Presente 
+ 
+Ref.: Resultado del Proceso de Verificación del 
+Servicio Complementario (SC) de Control Terciario de 
+Frecuencia de la central PE Cabo Leones I. 
+ 
+[1] Carta 20260306-CLI-CEN-001 de Parque Eólico 
+Cabo Leones I S.A., Ref.: “Entrega Informe de 
+Verificación de SSCC – Control Terciario de 
+Frecuencia Parque Eólico Cabo Leones I”, de fecha 09 
+de marzo de 2026. 
+Responde a Ingreso: DE02272-26. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación del Servicio Complementario (SC) de Control Terciario 
+de Frecuencia (CTF) de la central PE Cabo Leones I. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+del mencionado servicio complementario a partir de las 00:00 del 09 de abril de 2026, 
+considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de esta comunicación se presenta la información indicada en el 
+artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que el informe técnico que justifica la verificación de la capacidad de la 
+prestación del CTF de la central PE Cabo Leones I se encuentra publicado en la siguiente 
+ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia > Control Terciario de Frecuencia > Central PE Cabo Leones I 
+ 
+Finalmente, la central mencionada podrá participar de las subastas de Control de 
+Frecuencia una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas SUBASTAS SSCC_V.7 
+(Fecha de publicación: 13/02/2026)  
+ 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación del mencionado SC, a partir de la fecha 
+antes señalada. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, puede 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+CRV/WJS/adr 
+c.c.: 
+Sr. Yessenia Reyes – Encargado Suplente Parque Eólico Cabo Leones I S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la  
+Central PE Cabo Leones I 
+1. 
+Identificación de las Instalaciones Verificadas: 
+A continuación, se presentan los parámetros operacionales que, a la fecha de emisión de 
+esta carta de verificación de SSCC, se encuentran aceptados por el Coordinador Eléctrico. 
+a) Central PE Cabo Leones I 
+• 
+Potencia máxima bruta: 190,225 [MW] 
+• 
+Potencia máxima neta:  175,198 [MW] 
+• 
+Potencia mínima bruta: 1,365 [MW]  
+• 
+Potencia mínima neta: 1,007 [MW]  
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF)  
+Control Terciario de 
+Frecuencia (CTF) 
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Terciario de Frecuencia 
+• 
+El valor de gradiente de carga puede ser modificado por el operador y se aclara que 
+este ajuste no tiene limitaciones respecto al valor ajustado y puede ser configurada 
+sin impedimentos dentro del rango de 0 a 20% Pnom/min. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Parque Eólico Cabo 
+Leones I S.A. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en la página siguiente 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+ 
+ 
+www.coordinador.cl 
+a) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+Central PE Cabo 
+Leones I 
+Eólico 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+35,000 
+Bajada 
+35,000 
+Tasa máxima de 
+operación [MW/min] (1) 
+Subida 
+Sin Limitación 
+Bajada 
+Sin Limitación 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+Bajada 
+<5 
+Aporte CTF [MW] (2) 
+Subida 
+174,191 
+Bajada 
+-174,191 
+Límite de regulación superior [MW] 
+(3) 
+190,225 
+Límite de regulación inferior [MW] ( 
+3) 
+1,365 
+(1)  Tasa de subida y bajada de carga máxima no tiene limitaciones respecto al valor ajustado. 
+(2) La reserva se determina como la diferencia entre la potencia máxima neta y el mínimo técnico neto cuyos valores 
+corresponden a 175,198 [MW] y 1,007 [MW], respectivamente. 
+(3) Los límites de regulación inferior y superior, correspondientes al mínimo técnico y a la potencia máxima bruta, y el aporte 
+máximo de la CTF, podrán verse modificado si se actualizan los parámetros operacionales de la central. 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Instalación 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+Central PE Cabo 
+Leones I 
+Eólico 
+Tiempo partida a sincronización 
+[min] 
+0,000 
+Tiempo sincronización a mínimo 
+técnico [min] 
+1,467 
+Reserva Fría [MW] 
+175,198 
+ 

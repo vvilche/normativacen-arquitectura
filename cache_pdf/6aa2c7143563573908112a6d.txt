@@ -1,0 +1,69 @@
+ 
+  
+    CARTA CA CENT 52/2026  
+Santiago, 09 de septiembre de 2026  
+  
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Remisión Informe Técnico Pruebas de Verificación SCADA - Estudio PRS 2025. Carta 
+DE04464-26. 
+ 
+De nuestra consideración: 
+ 
+En atención a la carta DE04464-26, mediante la cual se instruye a los Coordinados remitir el 
+Informe Técnico correspondiente a las Pruebas de Verificación SCADA contempladas en el 
+Estudio de Plan de Recuperación de Servicio (PRS) 2025, hacemos entrega del informe técnico 
+elaborado para nuestras instalaciones, junto con los antecedentes y anexos que respaldan su 
+ejecución y resultados. 
+ 
+Al respecto, resulta pertinente recordar lo informado oportunamente por nuestra representada 
+mediante la carta DE11267-25, donde se comunicó al Coordinador que, debido al desarrollo de 
+proyectos relevantes asociados a nuestras instalaciones, incluyendo los proyectos NUP 3284 y 
+NUP 1158, no fue posible ejecutar durante el año 2025 las actividades de pruebas PRS/SCADA 
+originalmente contempladas. En dicha comunicación se presentó un plan de trabajo para la 
+ejecución diferida de estas actividades durante el período 2026. 
+ 
+Complementariamente, durante gran parte del año 2025 nuestras instalaciones se encontraron 
+sometidas a importantes trabajos de adecuación y seccionamiento de infraestructura eléctrica, 
+actividades que demandaron una alta disponibilidad de recursos especializados y que 
+modificaron temporalmente las condiciones operacionales normales requeridas para efectuar 
+las pruebas de recuperación de servicio y verificación de sistemas SCADA. En este contexto, la 
+ejecución de las pruebas durante dicho período no habría permitido obtener resultados 
+representativos ni consistentes con las configuraciones finales de las instalaciones. 
+ 
+En consecuencia, una vez concluidas las principales actividades asociadas a los seccionamientos 
+y estabilizadas las condiciones operativas de nuestras instalaciones, se procedió a desarrollar 
+las pruebas requeridas, contratando para ello a la empresa consultora Quantica, especializada 
+
+en este tipo de estudios y validaciones técnicas. El informe que se adjunta consolida los 
+resultados obtenidos y acredita el cumplimiento de las verificaciones exigidas en el documento 
+ESTUDIO-PRS_2025_Final, incluyendo la totalidad de las pruebas requeridas para la validación 
+del desempeño de los sistemas SCADA y de las funcionalidades asociadas al Sistema de 
+Información de Tiempo Real (SITR). 
+ 
+Asimismo, se acompañan los anexos técnicos que forman parte integral del informe, los cuales 
+contienen información detallada respecto de la arquitectura tecnológica, configuraciones 
+operacionales, criterios de diseño, esquemas de comunicaciones, procedimientos internos y 
+estrategias de recuperación aplicables a activos críticos de la compañía. 
+ 
+Considerando la naturaleza de dicha información, solicitamos respetuosamente que toda la 
+documentación adjunta sea tratada bajo criterios de estricta confidencialidad y utilizada 
+exclusivamente para los fines asociados a la evaluación y validación del cumplimiento de los 
+requerimientos del Estudio PRS. Lo anterior, dado que parte de los antecedentes incorporados 
+constituyen información estratégica y sensible para la operación de nuestras instalaciones, cuya 
+divulgación podría afectar la seguridad y continuidad operacional de los sistemas administrados 
+por nuestra representada. 
+ 
+Sin otro particular, y quedando atentos a cualquier requerimiento o aclaración adicional que 
+estime pertinente, le saluda atentamente, 
+ 
+ 
+Jorge Pérez Cruz  
+Gerente Tecnico de Transmisión.  
+Centella Transmisión S.A. 
+Adj: Lo indicado  
+  

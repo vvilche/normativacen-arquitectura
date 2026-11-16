@@ -1,0 +1,349 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 10 de septiembre de 2025 
+DE 05666-25 
+Señor 
+Luis Fredes 
+Encargado Titular 
+Doña Antonia Solar SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios Complementarios (SSCC) de Control de 
+Frecuencia de la Central PFV Doña Antonia. 
+Responde a Ingreso DE08638-25 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la referencia, y tras completar la revisión del informe técnico 
+de verificación de Servicios Complementarios (SSCC) enviado por su representada 
+mediante carta de la Ref. [1], comunico a Ud. que, en cumplimiento con lo establecido en 
+el Artículo 4-16 de la Norma Técnica de Servicios Complementarios (NTSSCC), ha 
+finalizado el proceso de verificación de los SSCC de Control Primario de Frecuencia (CPF) 
+y Control Terciario de Frecuencia (CTF) de la Central PFV Doña Antonia. 
+ 
+Como resultado de este proceso, la central mencionada queda habilitada para la prestación 
+de los mencionados servicios a partir de las 00:00 del día 12 de septiembre de 2025, 
+considerando los recursos indicados en el anexo de la presente carta. 
+ 
+Al respecto, en el anexo a la presente comunicación se presenta la información indicada en 
+el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación de 
+SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad de 
+la prestación del CPF y CTF de la central PFV Doña Antonia se encuentran publicados en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación: 
+ 
+1. Control de Frecuencia > Control Primario de Frecuencia > Central PFV Doña 
+Antonia 
+2. Control de Frecuencia > Control Terciario de Frecuencia > Central PFV Doña 
+Antonia 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NTSSCC, su representada deberá 
+instalar los equipos necesarios para medir el desempeño de la prestación del SC de 
+CPF, que en este caso corresponden a un medidor potencia/frecuencia con 
+resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2].  Pese a no contar 
+con las señales necesarias para evaluar el desempeño en la prestación, la central 
+PFV Doña Antonia quedará habilitada para prestar el Servicio Complementario (SC) 
+de Control Primario de Frecuencia (CPF), pudiendo ser instruida por este 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Coordinador para prestar dicho servicio. En dicho caso, la evaluación de estás 
+instrucciones será “No Verificable”. 
+• 
+Considerando lo anterior, en base a los artículos 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional, para la evaluación de desempeño se podrán utilizar medios 
+alternativos para poder realizar la evaluación de desempeño de la prestación del 
+SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, la Central PFV Doña Antonia podrá participar de las subastas de CPF y CTF 
+una vez que complete el proceso de solicitud de incorporación a la plataforma de subastas. 
+Para ello, su representada deberá presentar los antecedentes indicados en las Bases 
+Administrativas de Subastas para Control de Frecuencia, que se encuentran publicadas en 
+la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, la central podrá ser instruidos de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse por medio del siguiente correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+DIR/PGR/adr 
+c.c.: Empresas Coordinadas 
+Sr. Cristian Villalon – Encargado Suplente Doña Antonia Solar SpA 
+ 
+Referencias: 
+[1] Carta DAS-E-019-25 de Doña Antonia Solar SpA, Ref.: “Responde a Observaciones 
+SSCC”, de fecha 21 de agosto de 2025. Ingreso DE08638-25 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 2020.06.01 > Instructivos Técnicos > Protocolo de envío de registros 
+Potencia/Frecuencia para la evaluación del CPF 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+ 
+ 
+Anexo: Resultados del Proceso de Verificación de SSCC de la Central  
+PFV Doña Antonia 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PFV Doña Antonia 
+• 
+Potencia máxima bruta 80,29 [MW] 
+• 
+Potencia máxima neta 79,3 [MW] 
+• 
+Potencia mínima bruta 2,7 [MW] 
+• 
+Potencia mínima neta 2,4 [MW] 
+2. Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de Frecuencia (CF)  
+Control Primario de 
+Frecuencia (CPF) 
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia (CTF)  
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Central con rango de ajuste de estatismo (R) del 2 al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados desde el sistema SCADA por el 
+especialista del fabricante con la central en pleno funcionamiento. 
+• 
+Estatismo (R) se encuentra ajustado al 8%. 
+• 
+En el caso de la banda muerta, se realizó ensayos con un valor de ± 25 [mHz] 
+quedando este valor ajustado en el controlador. 
+b) Control Terciario de Frecuencia 
+• 
+El gradiente de carga puede ser modificado por el operador con la central en 
+servicio. Se declara que este ajuste no tiene limitaciones respecto al valor ajustado. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del Coordinado Doña Antonia Solar 
+SpA. 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+a) Control Primario de Frecuencia 
+SSCC 
+  
+Control de Frecuencia 
+Categoría   
+Control Primario de Frecuencia 
+Subcategoría 
+CPF+ y CPF- 
+  
+  
+  
+Valor determinado 
+Características del 
+Controlador de 
+Frecuencia 
+Rango de ajuste Estatismo 
+2-8% 
+Estatismo 
+8% 
+Rango de ajuste Banda muerta [mHz] 
+25-200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+80,29 
+Límite de regulación inferior [MW] (3) 
+2,70 
+Aportes (4) 
+ BM = 25 [mHz]  
+R = 8% 
+10 
+segundos 
+Aporte +0,2[Hz] [MW] 
+-3,50 
+Aporte -0,2[Hz] [MW] 
+3,91 
+Aporte +0,7[Hz] [MW] 
+-13,43 
+Aporte -0,7[Hz] [MW]  
+13,16 
+5  
+minutos 
+Aporte +0,2[Hz] [MW] 
+-3,64 
+Aporte -0,2[Hz] [MW] 
+3,20 
+Aporte +0,7[Hz] [MW] 
+-13,51 
+Aporte -0,7[Hz] [MW]  
+13,25 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 [mHz]. 
+(2) Correspondiente a la Potencia máxima bruta declarada al Coordinador en el Informe de Potencia máxima, en 
+proceso de aprobación. 
+(3) Correspondiente a la Potencia mínima bruta, declarada al Coordinador en el Informe de determinación de 
+Mínimo Técnico. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 62 [MW]. El aporte de la 
+central es uniforme en todo su rango de operación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+b) Control Terciario de Frecuencia 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor determinado 
+PFV Doña 
+Antonia 
+Solar 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+15,00 
+ 
+Bajada 
+15,00 
+ 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+Sin limitación 
+ 
+Bajada 
+Sin limitación 
+ 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+ 
+Bajada 
+<5 
+ 
+Aporte CTF [MW] (2) 
+Subida 
+76,90 
+ 
+Bajada 
+-76,90 
+ 
+Límite de regulación superior [MW] (3) 
+80,29 
+ 
+Límite de regulación inferior [MW] (3) 
+2,70 
+ 
+(1) Tasa de subida y bajada de carga máxima no tiene limitaciones respecto al valor ajustado. 
+ 
+(2) La reserva se determina como la diferencia entre las potencias máxima y mínima netas de la central 
+correspondientes a 79,30 [MW] y 2,4 [MW]. 
+ 
+(3) Los límites de regulación, correspondientes a la potencia bruta y el aporte máximo de CTF podrán verse 
+modificados si se actualizan los parámetros operacionales de la central. 
+ 
+ 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Central 
+Recurso 
+Primario 
+Parámetro 
+Valor 
+determinado 
+PFV Doña Antonia 
+Solar 
+Tiempo hasta sincronización [min] 
+0,0000 
+ 
+Tiempo hasta mínimo técnico [min] 
+0,0833 
+ 
+Reserva Fría [MW]  
+79,3000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

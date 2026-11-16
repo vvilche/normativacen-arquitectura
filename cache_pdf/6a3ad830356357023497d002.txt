@@ -1,0 +1,1905 @@
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+ 
+Santiago, 23 de junio de 2026 
+ 
+    
+DE 04262-26 
+ 
+ 
+Señores 
+Encargados  
+Empresas Coordinadas 
+Presente 
+ 
+Ref.: Publicación de Indicadores de Desempeño 
+de Servicios Complementarios prestados durante 
+el mes de mayo 2026, segunda versión. 
+ 
+De mi consideración: 
+ 
+En relación con la materia de la Ref., informo a Ud. que se encuentra disponible en la página web 
+del Coordinador Eléctrico Nacional, en adelante Coordinador, la segunda versión de los Indicadores 
+de Desempeño de Servicios Complementarios prestados durante el mes de mayo 2026. Estos 
+indicadores serán considerados en la versión definitiva del IVTE de dicho mes. 
+ 
+Los indicadores mencionados pueden ser descargados desde el Sitio Web del Coordinador en la 
+siguiente ruta: 
+ 
+Inicio > Operación del Sistema > Post-Operación > Servicios Complementarios > Índices de 
+Desempeño y Disponibilidad de Servicios Complementarios > 2026 > Mayo 2026 > Versión 2 
+ 
+Adicionalmente, se adjunta en el Anexo de esta comunicación, las respuestas a las observaciones 
+recibidas a la primera versión publicada de dichos indicadores de desempeño. 
+ 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+Patricio Valenzuela V. 
+Subgerente de Control y Desarrollo Operacional 
+Coordinador Eléctrico Nacional 
+ 
+CRV/ASA/adr 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+Anexo: Respuestas a Observaciones a Indicadores de Desempeño de Servicios Complementarios prestados durante el mes de mayo 2026 
+consideradas en la versión 2. 
+ 
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+1 
+BESS del 
+Desierto 
+SpA y 
+EMOAC 
+SpA 
+CPF 
+SAE del 
+Desierto 
+Fecha: Todo el mes. 
+ 
+Coordinado envía sus registros de manera 
+manual para que sea contabilizado CPF en el 
+mes de mayo mientras se procesa su inclusión 
+en los servidores del Coordinador. 
+Se acoge la observación. 
+ 
+Se corrobora que el coordinado envió sus 
+registros de potencia-frecuencia para el mes de 
+mayo 2026. Al momento del cálculo de la primera 
+versión de los indicadores de desempeño la 
+unidad aún se encontraba en proceso de ingreso 
+a los servidores del Coordinador. 
+ 
+Dicho lo anterior se acoge la observación y se 
+incluye a SAE Del Desierto en esta segunda 
+versión de los indicadores, la cual queda con 93% 
+de desempeño mensual. 
+ 
+ 
+2 
+Eléctrica 
+Moka SpA 
+Disponibili
+dad 
+TER Diego de 
+Almagro 
+Fecha: Todo el mes. 
+ 
+De acuerdo con lo informado por la Gerencia de 
+Operación mediante la carta DE02846-26, la  
+central térmica Diego de Almagro quedó 
+habilitada desde las 00:00 horas del 30 de abril 
+del 
+presente 
+para 
+proveer 
+los 
+Servicios 
+Complementarios de Partida Autónoma y 
+Control Terciario de Frecuencia. Por lo tanto, el 
+desempeño 
+de 
+dichos 
+Servicios 
+Complementarios de la central térmica Diego de 
+Almagro durante el mes de mayo 2026 debió ser 
+100% en vez de 0%. 
+Se acoge la observación – Aclaración. 
+ 
+Se aclara que el desempeño de TER Diego de 
+Almagro es 0% debido a que la limitación 
+Neomante N°2026000137 sigue vigente desde 
+2025. Cabe destacar que el dar cierre oportuno a 
+las 
+limitaciones 
+es 
+responsabilidad 
+de 
+su 
+representada. 
+ 
+Al finalizar su proceso verificación se constató que 
+dicha limitación fue resuelta, por lo que se 
+recalcula la disponibilidad quedando en un factor 
+de desempeño mensual de 100% en CTF y PRS-
+PA para esta unidad. Finalmente, se solicita a su 
+representada gestionar el cierre de la limitación 
+mencionada en Neomante. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+3 
+Acciona 
+Energía 
+Chile 
+Holdings 
+S.A. 
+CTF 
+PFV Malgarida 
+Fecha: 19-05-2026 15:58 
+ 
+La respuesta presenta un mal desempeño en 
+C3; sin embargo, simultáneamente el parque 
+estaba prestando el SSCC de CPF, lo que 
+genera 
+oscilaciones 
+en 
+la 
+potencia 
+activa como consecuencia de la respuesta al 
+CPF.  
+No se acoge la observación.  
+ 
+Se analizan los registros de potencia/frecuencia 
+de la operación de la unidad, constatando que el 
+cambio de consigna aplicado a PFV Malgarida a 
+raíz de la instrucción de CTF fue de -65MW 
+cuando CDC solicitó -53 MW.  
+ 
+Esto supera el límite superior de 1,05 veces el 
+monto de la instrucción para ser evaluado 
+correctamente, por lo que el indicador no cambia. 
+4 
+Acciona 
+Energía 
+Chile 
+Holdings 
+S.A. 
+CTF 
+PE SAN 
+GABRIEL 
+Fecha: 09-05-2026 17:17 
+ 
+Se confirma, mediante la revisión de registros 
+internos y de la grabación de la llamada adjunta 
+(“_20260509_171002_d”), que la solicitud del 
+SSCC de CTF fue efectuada al CC de Acciona a 
+las 17:10 hrs, no a las 17:17 hrs según RIO. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se corrobora que CDC instruyó a la central 
+a las 17:10 horas en lugar de las 17:17 horas. 
+Dicho lo anterior se actualiza el RIO y se recalcula 
+el indicador de respuesta, quedando en 100% 
+para esta instrucción. 
+ 
+5 
+Acciona 
+Energía 
+Chile 
+Holdings 
+S.A. 
+CTF 
+PE TOLPAN 
+SUR 
+Fecha: 12-05-2026 05:48 
+ 
+Se confirma, mediante la revisión de registros 
+internos y de la grabación de llamada adjunta 
+(“_20260513_054812_d”), que la solicitud del 
+SSCC de CTF fue efectuada al CC de Acciona el 
+día 13-05-2026 a las 5:48:00, pero CDC registró 
+la solicitud para el día 12-05-2026 a las 5:48:00.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se corrobora que CDC realizó esta 
+instrucción el día 13 de mayo.  
+ 
+Dicho lo anterior se actualiza el RIO, se elimina la 
+instrucción del 12 de mayo y se recalcula el 
+desempeño del día 13 de mayo, quedando en 
+66% para esta instrucción. 
+ 
+6 
+Acciona 
+Energía 
+Chile 
+CTF 
+PE TOLPAN 
+SUR 
+Fecha: 15-05-2026 19:26 
+ 
+La evaluación del desempeño indica el tc2 
+No se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Holdings 
+S.A. 
+erróneo. La producción alcanzó la consigna 
+ingresada 
+de 
+1 
+MW 
+a 
+las 
+19:36:22, 
+manteniéndose estable hasta el término de la 
+instrucción. 
+Se analizan los antecedentes y grabaciones, 
+donde se corrobora que CDC instruyó a la central 
+bajar 58 MW, lo que el CC de Acciona interpreta 
+como bajar a 1 MW el despacho de la unidad. 
+Según los registros SCADA, al momento de la 
+instrucción esta se encontraba generando 64MW, 
+por lo que debió alcanzar una consigna de 6 MW 
+en lugar de 1 MW. 
+  
+Dicho lo anterior, el indicador se mantiene. 
+7 
+Acciona 
+Energía 
+Chile 
+Holdings 
+S.A. 
+CT 
+PE TOLPAN 
+SUR 
+Fecha: 30-05-2026 00:00 
+ 
+El registro no corresponde a una nueva 
+instrucción, sino al registro de continuidad para 
+el 
+día 
+siguiente. 
+Esto 
+puede 
+verificarse 
+considerando que el registro anterior finaliza a 
+las 23:59 horas.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que 
+esta instrucción inicia el día 29-05-2026 y que el 
+30-05-2026 a las 00:00 se anota la continuación 
+de esta. Dicho lo anterior, se elimina la instrucción. 
+8 
+Bioenergías 
+Forestales 
+SpA 
+CTF 
+TER CMPC 
+CORDILLERA 
+U1 
+Fecha: Todo el mes 
+ 
+Según 
+el 
+Registro 
+de 
+Instrucciones 
+Operacionales (RIO), nuestra central recibió un 
+total 
+de 
+13 
+instrucciones 
+de 
+activación 
+(componentes de subida y bajada), de los cuales 
+los indicadores preliminares publicados en el 
+Informe de desempeño SSCC califican como 
+deficiente a la totalidad de las activaciones. 
+ 
+Proceder con una revisión integral de la totalidad 
+de las instrucciones asignadas a la central Ter 
+CMPC Cordillera durante el periodo en cuestión, 
+rectificando la calificación de desempeño en 
+aquellos eventos donde se acredite el debido 
+cumplimiento.  
+Se acoge la observación. 
+ 
+La señal utilizada para la evaluación de CTF para 
+TER CMPC Cordillera (“CELPACI   220  EQUI1 
+P”) presentó un desajuste en el procesamiento de 
+la información, consignando una potencia de 
+inyección negativa. Dicho lo anterior se usa una 
+señal alternativa en bornes de la unidad 
+(“CMPCPAL   11.  GEN1   P”). Se recalca que es 
+responsabilidad de su representada enviar con 
+buena calidad las señales SITR requeridas para la 
+evaluación del desempeño de la prestación de 
+SSCC. 
+ 
+Se recalculan las instrucciones y la unidad pasa a 
+97% en su desempeño mensual de CTF. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+9 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER 
+CAMPICHE U1 
+Fecha: 18-05-2026 15:05 
+ 
+A  las 15:05 el Coordinador solicita activar el CTF 
+con 11 MW, finalizando la instrucción del CTF a 
+las 15:21. A las 15:05 la unidad se encontraba 
+en 85 MW comenzando a subir su potencia para 
+entregar la reserva solicitada, a los 5 minutos de 
+la instrucción  unidad había subido a 87 MW, 
+sigue subiendo hasta las 15:21 llegando a los 91 
+MW cumpliendo con la rampa de subida de 
+carga en el período máximo de 15 minutos desde 
+su activación, en una instrucción, que en total, 
+tiene 
+una 
+duración 
+de 
+16 
+minutos. Se solicita evaluar nuevamente la 
+componente C2 ya que la unidad su aumenta su 
+nivel de potencia según lo solicitado y la 
+componente C3 ya que la instrucción fue 
+cancelada a los 16 minutos, por tanto, la 
+evaluación de lo que corresponde a sostener la 
+instrucción debiera ser evaluada con 100% ya 
+que 
+el 
+Coordinador 
+fue 
+el 
+que 
+solicitó 
+suspender el SC, de lo contrario, toda instrucción 
+del Coordinador que tenga una duración menor 
+a 15 minutos tendría una mala evaluación en la 
+componente C3.   
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que la 
+unidad aumentó su generación en 4MW en lugar 
+de los 11,4MW solicitados por CDC. La rampa de 
+subida consignada para TER CAMPICHE U1 es 
+de 1,14MW, por lo tanto, a los 15 minutos debió 
+cumplir sin problemas lo solicitado. Dicho lo 
+anterior, el indicador se mantiene. 
+10 
+Empresa 
+Eléctrica 
+Ventanas 
+SpA 
+CTF 
+TER NUEVA 
+VENTANAS 
+U1 
+Fecha: 23-05-2026 16:35 
+ 
+La instrucción fue a las 16:35 donde la unidad 
+estaba en 257 MW. El Coordinador solicita a la 
+central prestar 11 MW de subida. A los 5 minutos 
+de la instrucción la central alcanzó los 266,1 MW 
+entregando 9 MW de los 11 MW comprometidos. 
+A los 15 minutos de la instrucción, la central se 
+encontraba entregando los 11 MW solicitados 
+sosteniendo la potencia en los restantes 9 
+No se acoge la observación. 
+ 
+La unidad fue evaluada con 0% porque 
+transcurridos los 15 minutos iniciales registró una 
+potencia de despacho mayor a su potencia 
+máxima aprobada y registrada en los anexos 
+vigentes de SSCC. La central promedió una 
+potencia de 269 MW, cuando en los anexos su 
+potencia máxima es de 267,08 MW. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+minutos asociados a la componente C3, se 
+solicita revisar la evaluación de la componente 
+C3 del desempeño de la unidad ya que en los 9 
+minutos la unidad sostuvo su potencia.  
+Dicho lo anterior el indicador se mantiene y se 
+solicita al coordinado realizar pruebas para 
+actualizar su parámetro de potencia máxima. 
+ 
+11 
+Engie 
+Energía 
+Chile S.A. 
+CPF 
+TER ANDINA 
+U1 
+Fechas: 02-05-2026 hora 23, 03-05-2026 hora 0, 
+03-05-2026 hora 1 y 05-05-2026 hora 12 
+ 
+Coordinado indica que la unidad no se 
+encontraba instruida en CPF según programa. 
+No se acoge la observación. – Aclaración. 
+ 
+Se reitera que es responsabilidad del coordinado 
+ajustarse a la instrucción solicitada por CDC en 
+tiempo y forma, lo anterior es independiente de si 
+la unidad se encuentra en programa o no. 
+ 
+Dicho lo anterior el indicador se mantiene. 
+12 
+Engie 
+Energía 
+Chile S.A. 
+CPF 
+TER 
+HORNITOS U1 
+Fechas: 19-05-2026 hora 14 y 21-05-2026 hora 
+16 
+ 
+Coordinado indica que la unidad no se 
+encontraba instruida en CPF según programa. 
+No se acoge la observación. – Aclaración. 
+ 
+Se reitera que es responsabilidad del coordinado 
+ajustarse a la instrucción solicitada por CDC en 
+tiempo y forma, lo anterior es independiente de si 
+la unidad se encuentra en programa o no. 
+ 
+Dicho lo anterior el indicador se mantiene. 
+13 
+Engie 
+Energía 
+Chile S.A. 
+CPF 
+TER Mejillones 
+CTM3 
+Fecha: 07-05-2026 hora 0, 08-05-2026 hora 22 y 
+14-05-2026 hora 17 
+ 
+Coordinado indica que la unidad no se 
+encontraba instruida en CPF según programa 
+No se acoge la observación. – Aclaración. 
+ 
+Se reitera que es responsabilidad del coordinado 
+ajustarse a la instrucción solicitada por CDC en 
+tiempo y forma, lo anterior es independiente de si 
+la unidad se encuentra en programa o no. 
+ 
+Dicho lo anterior el indicador se mantiene. 
+14 
+Engie 
+Energía 
+Chile S.A. 
+CSF 
+TER Tocopilla 
+U16 
+Fecha: 29-05-2026 hora 8 
+ 
+A la hora 8 se solicitó desactivar AGC. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se corrobora que CDC solicitó la 
+desactivación de AGC a las 07:52 horas del día 
+29-05-2026. Dicho lo anterior se recalcula el 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+indicador de respuesta para la hora 8, quedando 
+en “No Participa”. 
+15 
+GM 
+Holdings 
+S.A. 
+CT 
+PFV CEME 1 
+Fecha: 07-05-2026 18:12 
+ 
+A las 18:11 se solicita cancelar la absorción de 
+30MVAr, por lo que se procede a llevar la planta 
+a 0MVAr, y en la secuencia, el CDC solicita si a 
+las 18:12 se puede llevar la central a -50 MVAr 
+(grabación “75500” minuto 00:24) por lo que a las 
+18:12 la central se encontraba en transición de 
+dar fin a la instrucción previa (-30MVAr). 
+Considerando dichas instrucciones seguidas, el 
+delta de Q entre 18:12 y 18:27 no coincide con el 
+valor de -50MVAr solicitado por el CDC, pero sí 
+es alcanzado el valor instruido en el tiempo 
+exigido.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se corrobora que CDC instruyó a la central 
+una consigna de -50 MVAr cuando esta se 
+encontraba en -30 MVAr, por lo que se actualiza 
+el RIO. 
+ 
+Dicho lo anterior se recalcula el indicador de 
+respuesta, 
+quedando 
+en 
+100% 
+para 
+esta 
+instrucción. 
+16 
+GM 
+Holdings 
+S.A. 
+CT 
+PFV CEME 1 
+Fecha: 08-05-2026 13:15 
+ 
+A las 13:15 se solicita absorber 100MVAr y a las 
+13:30 los registros internos muestran que 
+alcanza el valor solicitado de -100MVAr 
+No se acoge la observación. 
+ 
+Se analizan los antecedentes y se corrobora que 
+la señal SCADA de potencia reactiva de PFV 
+CEME 1 estuvo congelada en -96MVAr entre las 
+01:24 horas y las 13:31 horas. Dicho lo anterior el 
+indicador se mantiene. 
+17 
+GM 
+Holdings 
+S.A. 
+CT 
+PFV CEME 1 
+Fecha: 08-05-2026 18:16 
+ 
+Se solicita al Coordinador ajustar el horario de 
+inicio de la instrucción ya que según los registros 
+internos (grabación 75602), se solicita la 
+instrucción a las 18:10, momento en el cual la 
+central se encontraba en 0,3MVAr y al momento 
+ajustado de evaluación, 18:25, alcanza la 
+instrucción solicitada de -100MVAr 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se corrobora que CDC instruyó a la central 
+a las 18:10 horas en lugar de las 18:16 horas. 
+Dicho lo anterior se actualiza el RIO y se recalcula 
+el indicador de respuesta, quedando en 100% 
+para esta instrucción. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+18 
+GM 
+Holdings 
+S.A. 
+CT 
+PFV CEME 1 
+Fecha: 31-05-2026 00:00 
+ 
+No se registra instrucción a las 00:00 del día 31 
+de mayo para CEME1, se intuye que pudiera 
+corresponder a la misma instrucción del 30 de 
+mayo de 2026 a las 18:57. Se solicita al 
+Coordinador revisar esta instrucción ya que, si se 
+desea considerar una nueva instrucción debido 
+al cambio de día, el valor solicitado sigue siendo 
+100MVAr y no -100MVAr adicional a la 
+instrucción del 30 de mayo a las 18:57 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que 
+esta instrucción inicia el día 30-05-2026 y que el 
+31-05-2026 a las 00:00 se anota la continuación 
+de esta. Dicho lo anterior, se elimina la instrucción. 
+19 
+Parque 
+Eólico 
+Campo 
+Lindo SpA 
+CTF 
+PE CAMPO 
+LINDO 
+Fecha: 12-05-2026 05:53 
+ 
+PE Campo Lindo no se encontraba asignado en 
+la programación de la operación del día 12 de 
+mayo de 2026 para la provisión de reserva de 
+bajada de CTF durante el bloque en que recibió 
+la activación en comento. Asimismo, el parque 
+presentaba una inyección de 0 MW debido a la 
+ausencia de recurso primario al momento en que 
+se emitió la instrucción durante la OTR. 
+ 
+En virtud de lo anterior, se solicita no considerar 
+la evaluación por activación asociada a este 
+evento y asignar un 100% de desempeño para 
+dicho horario, dado que se trata de una 
+instrucción cuya activación no correspondía.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes, grabaciones y 
+registros y se confirma que la instrucción no fue 
+efectuada por parte de CDC. Dicho lo anterior se 
+elimina esta instrucción y se deja consignado 
+como “No Activado”. 
+20 
+Energía 
+Eólica San 
+Matías SpA 
+CTF 
+PE SAN 
+MATIAS 
+Fecha: 12-05-2026 05:53 
+ 
+PE San Matías no se encontraba asignado en la 
+programación de la operación del día 12 de 
+mayo de 2026 para la provisión de reserva de 
+bajada de CTF durante el bloque en que recibió 
+la activación en comento. Asimismo, el parque 
+presentaba una inyección de 0 MW debido a la 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes, grabaciones y 
+registros y se confirma que la instrucción no fue 
+efectuada por parte de CDC. Dicho lo anterior se 
+elimina esta instrucción y se deja consignado 
+como “No Activado”. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+ausencia de recurso primario al momento en que 
+se emitió la instrucción durante la OTR. 
+En virtud de lo anterior, se solicita no considerar 
+la evaluación por activación asociada a este 
+evento y asignar un 100% de desempeño para 
+dicho horario, dado que se trata de una 
+instrucción cuya activación no correspondía.  
+21 
+Energía 
+Eléctrica 
+Angamos 
+SpA 
+CTF 
+TER 
+ANGAMOS U2 
+Fecha: 12-05-2026 05:53 
+ 
+Según lo revisado por mi representada, no se 
+cuenta con registros (escritos/grabaciones de 
+voz) que acrediten la solicitud de activación en 
+cuestión 
+y 
+explicitada 
+en 
+el 
+RIO-SSCC. 
+Se solicita eliminar la instrucción de activación 
+considerada, en vista de que no existen registros 
+de grabación que den cuenta de la instrucción en 
+comento.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes, grabaciones y 
+registros y se confirma que la instrucción no fue 
+efectuada por parte de CDC. Dicho lo anterior se 
+elimina esta instrucción. 
+22 Colbún S.A. 
+CPF 
+PE Horizonte 
+Norte 
+Fecha: General  
+  
+Al momento de realizar el informe por parte del 
+Coordinador el equipo registrador del Parque 
+estaba cargando los registros del mes de mayo 
+en la plataforma disponible para estos fines. Este 
+traspaso ya fue finalizado, en este contexto el 
+Coordinador ya cuenta con la información y 
+antecedentes para poder evaluar el desempeño 
+del Parque participando del CPF en los horarios 
+que este servicio fue requerido. 
+ 
+Solicitud: Se solicita revisar nuevamente al 
+Parque usando los registros que se encuentran 
+disponibles. 
+Se acoge la observación. 
+ 
+Se revisan los antecedentes y se consideran los 
+registros indicados en la presente versión del 
+cálculo de desempeño, ya que el coordinado 
+disponibilizó sus registros en una fecha posterior 
+al cálculo de la primera versión. Dicho lo anterior 
+el factor de respuesta queda en 74% lo que se 
+traduce en un desempeño de 0% al ser menor que 
+el umbral establecido en el artículo 5-71 de la NT-
+SSCC. 
+  
+Se reitera la importancia de cargar la información  
+necesaria 
+para 
+el 
+cálculo 
+en 
+los 
+plazos 
+establecidos, por lo que se solicita su envío a más 
+tardar el primer día hábil del mes posterior al mes 
+en evaluación. El no envío de estos en plazo 
+constituye una falta a los procesos  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+establecidos.  
+23 Colbún S.A. 
+CPF 
+PE Horizonte 
+Sur 
+Fecha: General 
+ 
+Al momento de realizar el informe por parte del 
+Coordinador el equipo registrador del Parque 
+estaba cargando los registros del mes de mayo 
+en la plataforma disponible para estos fines. Este 
+traspaso ya fue finalizado, en este contexto el 
+Coordinador ya cuenta con la información y 
+antecedentes para poder evaluar el desempeño 
+del Parque participando del CPF en los horarios 
+que 
+este 
+servicio 
+fue 
+requerido. 
+Solicitud: Se solicita revisar nuevamente al 
+Parque usando los registros que se encuentran 
+disponibles. 
+Se acoge la observación. 
+ 
+Se revisan los antecedentes y se consideran los 
+registros indicados en la presente versión del 
+cálculo de desempeño, ya que el coordinado 
+disponibilizó sus registros en una fecha posterior 
+al cálculo de la primera versión. Dicho lo anterior 
+el factor de respuesta queda en 60% lo que se 
+traduce en un desempeño de 0% al ser menor que 
+el umbral establecido en el artículo 5-71 de la NT-
+SSCC. 
+  
+Se reitera la importancia de cargar la información  
+necesaria 
+para 
+el 
+cálculo 
+en 
+los 
+plazos 
+establecidos, por lo que se solicita su envío a más 
+tardar el primer día hábil del mes posterior al mes 
+en evaluación. El no envío de estos en plazo 
+constituye una falta a los procesos  
+establecidos. 
+24 Colbún S.A. 
+CTF 
+PFV Diego de 
+Almagro Sur 
+Fecha: 02/05/2026 16:47:00 (UTC-4) 
+ 
+De acuerdo con el registro RIO la unidad recibió 
+la instrucción de activación de CTF de bajada por 
+74 MW a las 16:47, paralelamente el Parque se 
+encontraba prestando CPF desde las 09:00 
+horas, este servicio finaliza a las 17:00 horas, por 
+lo que, al finalizar el Parque sube su potencia 
+activa ya que no debe dejar la reserva asignada 
+para este servicio. La activación del CTF finaliza 
+a las 17:06 por lo que en la evaluación no se 
+considera que el Parque sube debido a que ya 
+no debe dejar la reserva para el CPF. 
+No se acoge la observación. 
+ 
+La 
+unidad 
+no 
+presenta 
+datos 
+de 
+potencia/frecuencia para el mes de mayo que 
+permitan probar que la unidad prestó mal el 
+servicio de CTF debido a la operación conjunta 
+con CPF.  
+ 
+Debido a lo anterior, no es posible verificar si 
+existió un ajuste de consigna consistente con lo 
+instruido por CDC para el servicio de CTF durante 
+la prestación de CPF. En función de lo 
+mencionado, el indicador se mantiene. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+Solicitud: Se solicita revisar contexto operacional 
+y evaluar en consecuencia. 
+25 Colbún S.A. 
+CTF 
+UG Colbún 2 
+Fecha: 06/05/2026 21:15:00 (UTC-4) 
+ 
+De acuerdo con el registro de grabaciones de 
+Colbún SA se recibe la instrucción a las 21:15 de 
+activar el servicio de bajada por 111 MW, que es 
+el monto completo de la reserva asignada en esa 
+hora, 
+sin 
+embargo, 
+en 
+el 
+documento 
+CTF_202605 se evalúa que debió bajar una 
+reserva de 11 MW. Se adjunta grabación 
+correspondiente. 
+Solicitud: Se solicita revisar instrucción y evaluar 
+con el monto de reserva requerido.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se corrobora que CDC instruyó a la central 
+a una variación de -110 MW a las 18:15 horas del 
+día 06 de mayo. Dicho lo anterior se actualiza el 
+RIO y se recalcula el indicador de respuesta, 
+quedando en 66% para esta instrucción. 
+26 Colbún S.A. 
+CT 
+PFV Diego de 
+Almagro Sur 
+Fecha: 07/05/2026 17:50:00 (UTC-4) 
+ 
+De acuerdo con el registro de grabaciones e 
+instrucciones de Colbún SA no se registra la 
+instrucción de bajar reactivos a las 17:50. Junto 
+con lo anterior al revisar el documento 
+2026.05_Respuesta_CT, se observa que el 
+Parque ya se encontraba absorbiendo 60 MVAr 
+al 
+momento 
+de 
+ser 
+evaluado. 
+Solicitud: Revisar contexto operacional y si 
+existe la instrucción.  
+No se acoge la observación – Aclaración.  
+ 
+De acuerdo con lo establecido en las Reglas de la 
+OTR, las instrucciones de SC de CT emitidas por 
+el CDC se mantendrán vigentes mientras la planta 
+posea recurso primario que le permita generar 
+potencia activa. Una vez que el valor de la 
+potencia activa sea nulo por ausencia del recurso 
+primario, se considerará el servicio de CT 
+terminado, por lo que los respectivos CCs deberán 
+ajustar la consigna de potencia reactiva a cero 
+MVAr.  
+ 
+En el caso que el respectivo CC no cumpla con 
+llevar la consigna de potencia reactiva a cero 
+MVAr, dicha condición de operación de absorción 
+o inyección de reactivos, según corresponda, no 
+será considerada como entrega de SC de CT. 
+ 
+Asimismo en literal c) del capítulo 5.2 se señala 
+explícitamente lo siguiente: “en caso de unidades 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+eólica o fotovoltaica, verificadas o verificadas 
+transitoriamente, que tengan capacidad para 
+inyectar o absorber reactivos en ausencia de 
+recurso primario, si el CDC requiere mantener el 
+aporte 
+de 
+reactivos 
+de 
+estas 
+unidades 
+generadoras, cuando hayan perdido su recurso 
+primario e inyección de potencia activa, el CDC 
+deberá emitir una nueva instrucción de SC de CT 
+al CC respectivo, generando un nuevo registro de 
+inicio del SC en RIO”.  
+ 
+Dicho lo anterior, a las 17:50 al no contar con 
+recurso primario la unidad debió ajustar su 
+potencia reactiva a 0MVAr sin necesidad de 
+llamado. La instrucción observada fue instruida 
+adecuadamente por CDC, por lo que se rechaza 
+la observación y el indicador se mantiene. 
+27 Colbún S.A. 
+CT 
+PFV Diego de 
+Almagro Sur 
+Fecha: 08/05/2026 18:00:00 (UTC-4) 
+ 
+De acuerdo con el registro de grabaciones e 
+instrucciones de Colbún SA no se registra la 
+instrucción de bajar reactivos a las 18:00. Junto 
+con lo anterior al revisar el documento 
+2026.05_Respuesta_CT, se observa que el 
+Parque ya se encontraba absorbiendo 60 MVAr 
+al momento de ser evaluado. 
+ 
+Solicitud: Revisar contexto operacional y si 
+existe la instrucción.  
+No se acoge la observación – Aclaración.  
+ 
+De acuerdo con lo establecido en las Reglas de la 
+OTR, las instrucciones de SC de CT emitidas por 
+el CDC se mantendrán vigentes mientras la planta 
+posea recurso primario que le permita generar 
+potencia activa. Una vez que el valor de la 
+potencia activa sea nulo por ausencia del recurso 
+primario, se considerará el servicio de CT 
+terminado, por lo que los respectivos CCs deberán 
+ajustar la consigna de potencia reactiva a cero 
+MVAr.  
+ 
+En el caso que el respectivo CC no cumpla con 
+llevar la consigna de potencia reactiva a cero 
+MVAr, dicha condición de operación de absorción 
+o inyección de reactivos, según corresponda, no 
+será considerada como entrega de SC de CT. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+ 
+Asimismo en literal c) del capítulo 5.2 se señala 
+explícitamente lo siguiente: “en caso de unidades 
+eólica o fotovoltaica, verificadas o verificadas 
+transitoriamente, que tengan capacidad para 
+inyectar o absorber reactivos en ausencia de 
+recurso primario, si el CDC requiere mantener el 
+aporte 
+de 
+reactivos 
+de 
+estas 
+unidades 
+generadoras, cuando hayan perdido su recurso 
+primario e inyección de potencia activa, el CDC 
+deberá emitir una nueva instrucción de SC de CT 
+al CC respectivo, generando un nuevo registro de 
+inicio del SC en RIO”.  
+ 
+Dicho lo anterior, a las 18:00 al no contar con 
+recurso primario la unidad debió ajustar su 
+potencia reactiva a 0MVAr sin necesidad de 
+llamado. La instrucción observada fue instruida 
+adecuadamente por CDC, por lo que se rechaza 
+la observación y el indicador se mantiene. 
+28 Colbún S.A. 
+CTF 
+UG Colbún 1 
+Fecha: 11/05/2026 01:46:00 (UTC-4) 
+ 
+De acuerdo con el registro de grabaciones de 
+Colbún SA se recibe la instrucción a las 01:46 de 
+activar el servicio de bajada por 99 MW, que es 
+el monto completo de la reserva asignada en esa 
+hora, 
+sin 
+embargo, 
+en 
+el 
+documento 
+CTF_202605 se evalúa que debió bajar una 
+reserva de 79 MW. Se adjunta grabación 
+correspondiente. 
+Solicitud: Se solicita revisar instrucción y evaluar 
+con el monto de reserva requerido.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se corrobora que CDC instruyó a la central 
+a una variación de -99 MW a las 01:46 horas del 
+día 11 de mayo. Dicho lo anterior se actualiza el 
+RIO y se recalcula el indicador de respuesta, 
+quedando en 66% para esta instrucción. 
+29 Colbún S.A. 
+CTF 
+UG La Mina 1 
+Fecha: 12/05/2026 05:52:00 (UTC-4) 
+ 
+La unidad se encontraba fuera de servicio por lo 
+No se acoge la observación - Aclaración.  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+que no debe ser evaluada por este servicio. 
+Solicitud: 
+Revisar 
+contexto 
+operacional 
+y 
+reevaluar si corresponde. 
+Las instrucciones de activación del servicio de 
+CTF son en base a las necesidades del sistema, 
+según sea definido por el programa e instruido por 
+el CDC.  
+ 
+Al respecto, la evaluación del factor activación de 
+Control Terciario de Frecuencia se realiza de 
+manera consistente con la instrucción entregada 
+por el CDC, que en este caso fue de prestar el 
+servicio por la central completa.  
+ 
+Dado esto, el desempeño de la central se asigna 
+a cada una de las unidades, ya que la evaluación 
+considera las potencias, rampas y señales de 
+ambas unidades en conjunto.  
+ 
+Según los registros SCADA de la potencia de la 
+central completa HP La Mina, esta no ajustó su 
+consigna en consistencia con la instrucción y se 
+mantuvo invariante durante todo el período de 
+instrucción a pesar de estar despachada a 16 MW. 
+Dicho lo anterior, el indicador se mantiene. 
+30 Colbún S.A. 
+CT 
+PFV Diego de 
+Almagro Sur 
+Fecha: 14/05/2026 10:18:00 (UTC-4) 
+ 
+De acuerdo con el registro de grabaciones e 
+instrucciones de Colbún SA no se registra la 
+instrucción de bajar reactivos a las 10:18. Esto 
+es consistente con que el Parque no hace ningún 
+movimiento de reactivos, algo inusual. 
+ 
+Solicitud: Revisar existencia de la instrucción y 
+en caso de que corresponda quitar de la 
+evaluación. 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes, grabaciones y 
+registros y se confirma que la instrucción no fue 
+efectuada por parte de CDC. Dicho lo anterior se 
+elimina esta instrucción. 
+31 Colbún S.A. 
+CT 
+UG Canutillar 1 Fecha: 15/05/2026 01:17:00 (UTC-4) 
+No se acoge la observación. – Aclaración. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+ 
+La unidad responde bajando reactivos según fue 
+requerido para bajar 2kV la tensión en la S/E 
+Puerto 
+Montt, 
+al 
+llegar 
+a 
+sus 
+límites 
+operacionales la tensión en la subestación en 
+cuestión había bajado 2,5 kV en línea con lo 
+requerido por el Coordinador. Sin embargo 
+instantes antes de cumplirse los 15 minutos la 
+tensión en la S/E Puerto Montt bajó más de 3 
+veces de lo solicitado por el CEN probablemente 
+por la acción de los otros recursos técnicos de la 
+zona que recibieron la misma instrucción, lo que 
+lleva a que la unidad no cumpla con el 
+requerimiento. En este contexto, y dado que esta 
+baja ocurre muy encima del tiempo en el cual el 
+Coordinador evalúa el servicio, es que el 
+operador no logra hacer maniobras que permitan 
+mejorar la tensión final. Se adjunta informe con 
+lo señalado. 
+  
+Solicitud: Se solicita revisar contexto operacional 
+y acción de otros recursos técnicos de la zona 
+que actúan posteriormente a la central Canutillar 
+en su conjunto.  
+Se aclara que el desempeño de las unidades HE 
+Canutillar se evalúa según la tensión de su barra 
+principal 
+Canutillar 
+220kV 
+B1 
+y 
+B2 
+respectivamente. Los tags SCADA en cuestión 
+son “CANUTIL 220 B1 V” y “CANUTIL 220 B2 V”, 
+no los asociados a la subestación Puerto Montt 
+220kV. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se constata que la central bajó 9kV en lugar 
+de los 2kV solicitados por CDC. Dicho lo anterior, 
+el indicador de respuesta se mantiene. 
+32 Colbún S.A. 
+CT 
+UG Canutillar 2 
+Fecha: 15/05/2026 01:17:00 (UTC-4) 
+ 
+La unidad responde bajando reactivos según fue 
+requerido para bajar 2kV la tensión en la S/E 
+Puerto 
+Montt, 
+al 
+llegar 
+a 
+sus 
+límites 
+operacionales la tensión en la subestación en 
+cuestión había bajado 2,5 kV en línea con lo 
+requerido por el Coordinador. Sin embargo 
+instantes antes de cumplirse los 15 minutos la 
+tensión en la S/E Puerto Montt bajó más de 3 
+veces de lo solicitado por el CEN probablemente 
+No se acoge la observación. – Aclaración. 
+ 
+Se aclara que el desempeño de las unidades HE 
+Canutillar se evalúa según la tensión de su barra 
+principal 
+Canutillar 
+220kV 
+B1 
+y 
+B2 
+respectivamente. Los tags SCADA en cuestión 
+son “CANUTIL 220 B1 V” y “CANUTIL 220 B2 V”, 
+no los asociados a la subestación Puerto Montt 
+220kV. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+por la acción de los otros recursos técnicos de la 
+zona que recibieron la misma instrucción, lo que 
+lleva a que la unidad no cumpla con el 
+requerimiento. En este contexto, y dado que esta 
+baja ocurre muy encima del tiempo en el cual el 
+Coordinador evalúa el servicio, es que el 
+operador no logra hacer maniobras que permitan 
+mejorar la tensión final. Se adjunta informe con 
+lo señalado. 
+  
+Solicitud: Se solicita revisar contexto operacional 
+y acción de otros recursos técnicos de la zona 
+que actúan posteriormente a la central Canutillar 
+en su conjunto.  
+Se analizan los antecedentes y grabaciones, 
+donde se constata que la central bajó 9kV en lugar 
+de los 2kV solicitados por CDC. Dicho lo anterior, 
+el indicador de respuesta se mantiene. 
+33 Colbún S.A. 
+CTF 
+PE San Juan 
+Fecha: 16/05/2026 05:05:00 (UTC-4) 
+ 
+De acuerdo con el registro RIO se activa el 
+servicio de bajada a las 05:05 y finaliza a las 
+05:12 por lo que la instrucción no alcanza el 
+tiempo mínimo de 15 minutos requeridos para la 
+entrega de toda la reserva asignada. 
+ 
+Solicitud: Revisar extensión de la solicitud y 
+quitar evaluación si corresponde. 
+No se acoge la observación. 
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de 
+CTF tiene una duración menor a 15 minutos se 
+evalúa considerando los movimientos de la unidad 
+que se espera se hagan en ese lapso.  
+ 
+En este caso se evalúa el criterio C1, lo cual PE 
+San Juan no cumple, ya que al analizar los 
+antecedentes y señales SCADA se observa que la 
+unidad no respetó el tiempo de inicio de activación 
+de 5 minutos, comenzando a mover carga de 
+forma posterior.  
+ 
+Dicho lo anterior el indicador se mantiene y se 
+reitera que, en caso de que una instrucción de 
+CTF tenga una duración menor a 15 minutos, esto 
+no es justificación para no ajustar la potencia 
+inyectada y cumplir con el criterio C1 de 
+evaluación. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+34 Colbún S.A. 
+CTF 
+PE Horizonte 
+Norte 
+Fecha: 17/05/2026 21:53:00 (UTC-4) 
+ 
+De acuerdo con el registro RIO se activa el 
+servicio de subida a las 21:53 y finaliza a las 
+22:04 por lo que la instrucción no alcanza el 
+tiempo mínimo de 15 minutos requeridos para la 
+entrega de toda la reserva asignada. 
+ 
+Solicitud: Revisar extensión de la solicitud y 
+quitar evaluación si corresponde. 
+No se acoge la observación. 
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de 
+CTF tiene una duración menor a 15 minutos se 
+evalúa considerando los movimientos de la unidad 
+que se espera se hagan en ese lapso.  
+ 
+En este caso se evalúa el criterio C1, lo cual PE 
+Horizonte Norte no cumple, ya que al analizar los 
+antecedentes y señales SCADA se observa que la 
+unidad no respetó el tiempo de inicio de activación 
+de 5 minutos, comenzando a mover carga de 
+forma posterior.  
+ 
+Dicho lo anterior el indicador se mantiene y se 
+reitera que, en caso de que una instrucción de 
+CTF tenga una duración menor a 15 minutos, esto 
+no es justificación para no ajustar la potencia 
+inyectada y cumplir con el criterio C1 de 
+evaluación. 
+35 Colbún S.A. 
+CTF 
+PE Horizonte 
+Sur 
+Fecha: 17/05/2026 21:53:00 (UTC-4) 
+ 
+De acuerdo con el registro RIO se activa el 
+servicio de subida a las 21:53 y finaliza a las 
+22:04 por lo que la instrucción no alcanza el 
+tiempo mínimo de 15 minutos requeridos para la 
+entrega de toda la reserva asignada. 
+ 
+Solicitud: Revisar extensión de la solicitud y 
+quitar evaluación si corresponde. 
+No se acoge la observación. 
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de 
+CTF tiene una duración menor a 15 minutos se 
+evalúa considerando los movimientos de la unidad 
+que se espera se hagan en ese lapso.  
+ 
+En este caso se evalúa el criterio C1, lo cual PE 
+Horizonte Sur no cumple, ya que al analizar los 
+antecedentes y señales SCADA se observa que la 
+unidad no respetó el tiempo de inicio de activación 
+de 5 minutos, comenzando a mover carga de 
+forma posterior.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+ 
+Dicho lo anterior el indicador se mantiene y se 
+reitera que, en caso de que una instrucción de 
+CTF tenga una duración menor a 15 minutos, esto 
+no es justificación para no ajustar la potencia 
+inyectada y cumplir con el criterio C1 de 
+evaluación. 
+36 Colbún S.A. 
+CTF 
+UG Colbún 1 
+Fecha: 23/05/2026 01:26:00 (UTC-4) 
+ 
+Esta instrucción no se encuentra en los registros 
+de instrucciones y grabaciones de Colbún SA, el 
+inicio sería a las 01:26 hasta las 01:54 horas, lo 
+que coincide con una solicitud en la misma hora 
+y duración del 24 de mayo. 
+  
+Solicitud: Revisar existencia de esta instrucción 
+y eliminar si corresponde 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se corrobora que CDC instruyó a la central 
+a una variación de -99 MW a las 01:26 horas del 
+día 24 de mayo. Dicho lo anterior se actualiza el 
+RIO y se recalcula el indicador de respuesta, 
+quedando en 66% para esta instrucción, debido a 
+que su componente C3 es 0. La unidad mantuvo 
+una generación de 118 MW cuando debió 
+mantenerse en 124 MW. 
+37 Colbún S.A. 
+CTF 
+PE San Juan 
+Fecha: 23/05/2026 01:27:00 (UTC-4) 
+ 
+Esta instrucción no se encuentra en los registros 
+de instrucciones y grabaciones de Colbún SA, de 
+hecho, esta se repite para el día 24 de mayo 
+exactamente en el mismo horario y misma 
+duración (desde 01:27 hasta 
+01:54), en 
+condiciones que es prácticamente imposible 
+considerando la aleatoriedad de la activación del 
+servicio. Cabe mencionar que la instrucción del 
+24 de mayo si fue efectiva. 
+  
+Solicitud: Revisar existencia de esta instrucción 
+y eliminar si corresponde 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se corrobora que CDC instruyó a la central 
+a una variación de -45 MW a las 01:26 horas del 
+día 24 de mayo. Dicho lo anterior se actualiza el 
+RIO y se recalcula el indicador de respuesta, 
+quedando en 62% para esta instrucción, debido a 
+que su componente C1 es 0%. La unidad movió 
+su generación de forma posterior a los 5 minutos 
+iniciales de la instrucción. 
+38 Colbún S.A. 
+CTF 
+UG Colbún 1 
+Fecha: 24/05/2026 01:26:00 (UTC-4) 
+No se acoge la observación.  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+ 
+De acuerdo con el documento CTF_202605 la 
+unidad recibe la instrucción de bajar 99 MW a las 
+01:26, en este archivo se observa que la unidad 
+cumple con la evaluación 1 y 2 pero en la 3 
+aparece con desempeño 0% en condiciones que 
+se cumple con el 104,9% de la reserva instruida 
+estando dentro del rango de cumplimiento. 
+ 
+Solicitud: Se solicita revisar la evaluación 
+particular 
+y 
+reevaluar 
+en 
+caso 
+de 
+que 
+corresponda.   
+Se analizan los antecedentes y señales SCADA, 
+donde se constata que la unidad presentó una 
+variación de -104,99MW en lugar de los -99MW 
+solicitados por CDC, lo que corresponde a una 
+desviación de un 6% respecto a lo instruido, 
+superando el umbral establecido de 5% en la 
+metodología de evaluación vigente. Dicho lo 
+anterior el indicador no cambia. 
+39 Colbún S.A. 
+CTF 
+PE Horizonte 
+Norte 
+Fecha: 24/05/2026 17:05:00 (UTC-4) 
+ 
+De acuerdo con el registro RIO se activa el 
+servicio de bajada a las 17:05 y finaliza a las 
+17:20 en este contexto la unidad alcanza justo 
+los 15 minutos entre llamados, sin embargo, la 
+misma dinámica de que el servicio tenga una 
+activación a través de un llamado telefónico hace 
+que esos 15 minutos sean menos en la realidad 
+operativa. 
+ 
+Solicitud: Revisar extensión de la solicitud y 
+quitar evaluación si corresponde. 
+No se acoge la observación. 
+ 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de 
+CTF tiene una duración menor a 15 minutos se 
+evalúa considerando los movimientos de la unidad 
+que se espera se hagan en ese lapso.  
+ 
+En este caso se evalúa el criterio C1, lo cual PE 
+Horizonte Norte no cumple, ya que al analizar los 
+antecedentes y señales SCADA se observa que la 
+unidad no respetó el tiempo de inicio de activación 
+de 5 minutos, comenzando a mover carga de 
+forma posterior.  
+ 
+Dicho lo anterior el indicador se mantiene y se 
+reitera que, en caso de que una instrucción de 
+CTF tenga una duración menor a 15 minutos, esto 
+no es justificación para no ajustar la potencia 
+inyectada y cumplir con el criterio C1 de 
+evaluación. 
+40 Colbún S.A. 
+CTF 
+PE Horizonte 
+Sur 
+Fecha: 24/05/2026 17:05:00 (UTC-4) 
+No se acoge la observación. 
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+ 
+De acuerdo con el registro RIO se activa el 
+servicio de bajada a las 17:05 y finaliza a las 
+17:20 en este contexto la unidad alcanza justo 
+los 15 minutos entre llamados, sin embargo, la 
+misma dinámica de que el servicio tenga una 
+activación a través de un llamado telefónico hace 
+que esos 15 minutos sean menos en la realidad 
+operativa. 
+ 
+Solicitud: Revisar extensión de la solicitud y 
+quitar evaluación si corresponde. 
+La evaluación de la prestación de CTF se hace 
+considerando su duración. Si una instrucción de 
+CTF tiene una duración menor a 15 minutos se 
+evalúa considerando los movimientos de la unidad 
+que se espera se hagan en ese lapso.  
+ 
+En este caso se evalúa el criterio C1, lo cual PE 
+Horizonte Sur no cumple, ya que al analizar los 
+antecedentes y señales SCADA se observa que la 
+unidad no respetó el tiempo de inicio de activación 
+de 5 minutos, comenzando a mover carga de 
+forma posterior.  
+ 
+Dicho lo anterior el indicador se mantiene y se 
+reitera que, en caso de que una instrucción de 
+CTF tenga una duración menor a 15 minutos, esto 
+no es justificación para no ajustar la potencia 
+inyectada y cumplir con el criterio C1 de 
+evaluación. 
+41 Colbún S.A. 
+CTF 
+PFV Diego de 
+Almagro Sur 
+Fecha: 26/05/2026 10:59:00 (UTC-4) 
+ 
+De acuerdo con el documento del Coordinador 
+CTF_202605 la unidad se evaluó como No 
+Verificable por cuanto al parecer tuvo mala 
+calidad en sus señales SITR sin embargo al 
+revisar dicha información se observa que esta se 
+encuentra disponible para evaluar al Parque. 
+Solicitud: Se solicita evaluar nuevamente al 
+Parque con la información que está disponible a 
+través del SITR 
+No se acoge la observación.  
+ 
+Se analizan los antecedentes y señales SCADA, 
+donde se constata que la central no envió datos 
+de potencia activa entre las 11:12 horas y 11:14 
+horas. Además, su señal presentó variaciones en 
+períodos superiores a 30 segundos, por lo que el 
+desempeño no cambia.  
+ 
+Esta condición no cumple con los criterios de 
+calidad definidos en el artículo 13 del Anexo 
+Técnico “Definición de Parámetros Técnicos y 
+Operativos para el Envío de Datos al SITR”, por lo 
+que el coordinado debe revisar sus señales en 
+sistema SCADA.  El contacto del área TI SCADA 
+es el mail tec.scada@coordinador.cl.  
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+42 Colbún S.A. 
+CTF 
+UG Angostura 
+1 
+Fecha: 27/05/2026 05:42:00 (UTC-4) 
+ 
+De acuerdo con el registro RIO la unidad recibe 
+la instrucción a las 05:42 de activar el servicio de 
+subida, en condiciones que se encontraba 
+participando del CPF paralelamente. Al revisar la 
+evaluación en el documento CTF_202605 la 
+unidad es evaluada con 100% en la etapa 1 y 2, 
+sin embargo con 0% en la etapa 3, esto se debe 
+exclusivamente al efecto del CPF el cual lleva a 
+la unidad en el sentido contrario de la instrucción. 
+Desde el punto de vista de la frecuencia la 
+activación del servicio de CTF de subida hace 
+que esta suba por lo que el CPF tiende a llevar a 
+la unidad por debajo de su consigna. Esto es una 
+respuesta 
+natural 
+y 
+esperada 
+en 
+la 
+superposición de estos servicios. 
+ 
+Solicitud: Se solicita evaluar considerando el 
+efecto de la prestación simultánea del CPF y 
+CTF 
+Se acoge la observación.  
+ 
+Se analizan los registros de potencia/frecuencia 
+de la operación de la unidad, constatando que 
+hubo un cambio de consigna acorde a la 
+instrucción del CTF durante la prestación conjunta 
+con el servicio de CPF.  
+ 
+Dicho lo anterior, el indicador de respuesta se 
+recalcula 
+quedando 
+en 
+100% 
+para 
+esta 
+instrucción. 
+43 Colbún S.A. 
+CTF 
+UG Colbún 1 
+Fecha: 28/05/2026 07:41:00 (UTC-4) 
+ 
+De acuerdo con el registro de grabaciones de 
+Colbún SA se recibe la instrucción a las 07:41 de 
+activar el servicio de bajada por 95 MW, que es 
+el monto completo de la reserva asignada en esa 
+hora, 
+sin 
+embargo, 
+en 
+el 
+documento 
+CTF_202605 se evalúa que debió bajar una 
+reserva de 91 MW. Se adjunta grabación 
+correspondiente. 
+ 
+Solicitud: Se solicita revisar instrucción y evaluar 
+con el monto de reserva requerido.  
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y grabaciones, 
+donde se corrobora que CDC instruyó a la central 
+a una variación de -95 MW a las 07:41 horas del 
+día 28 de mayo. Dicho lo anterior se actualiza el 
+RIO y se recalcula el indicador de respuesta, 
+quedando en 100% para esta instrucción. 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+44 Colbún S.A. 
+CT 
+PFV Diego de 
+Almagro Sur 
+Fecha: 30/05/2026 00:00:00 (UTC-4) 
+ 
+De 
+acuerdo 
+con 
+el 
+documento 
+2026.05_Respuesta_CT, se observa que se 
+solicitó absorber 70 MVAr y en este mismo 
+documento se puede constatar que el Parque 
+baja los reactivos instruidos en el tiempo 
+requerido para este servicio. 
+ 
+Solicitud: Se solicita revisar movimientos del 
+Parque y reevaluar si corresponde 
+Se acoge la observación. 
+ 
+Se analizan los antecedentes y se constata que 
+esta instrucción inicia el día 29-05-2026 y que el 
+30-05-2026 a las 00:00 se anota la continuación 
+de esta. Dicho lo anterior, se elimina la instrucción. 
+45 Colbún S.A. 
+CTF 
+UG Angostura 
+1 
+Fecha: 30/05/2026 17:19:00 (UTC-4) 
+ 
+De acuerdo con el registro RIO la unidad recibe 
+la instrucción a las 17:19 de activar el servicio de 
+subida, en condiciones que se encontraba 
+participando del CPF paralelamente. Al revisar la 
+evaluación en el documento CTF_202605 la 
+unidad es evaluada con 100% en la etapa 1 y 2, 
+sin embargo con 0% en la etapa 3, esto se debe 
+exclusivamente al efecto del CPF el cual lleva a 
+la unidad en el sentido contrario de la instrucción. 
+Desde el punto de vista de la frecuencia la 
+activación del servicio de CTF de subida hace 
+que esta suba por lo que el CPF tiende a llevar a 
+la unidad por debajo de su consigna. Esto es una 
+respuesta 
+natural 
+y 
+esperada 
+en 
+la 
+superposición de estos servicios. 
+ 
+Solicitud: Se solicita evaluar considerando el 
+efecto de la prestación simultánea del CPF y 
+CTF 
+Se acoge la observación.  
+ 
+Se analizan los registros de potencia/frecuencia 
+de la operación de la unidad, constatando que 
+hubo un cambio de consigna acorde a la 
+instrucción del CTF durante la prestación conjunta 
+con el servicio de CPF.  
+ 
+Dicho lo anterior, el indicador de respuesta se 
+recalcula 
+quedando 
+en 
+100% 
+para 
+esta 
+instrucción. 
+46 Colbún S.A. 
+CTF 
+UG Angostura 
+2 
+Fecha: 30/05/2026 17:19:00 (UTC-4) 
+ 
+De acuerdo con el registro RIO la unidad recibe 
+Se acoge la observación.  
+ 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+la instrucción a las 17:19 de activar el servicio de 
+subida, en condiciones que se encontraba 
+participando del CPF paralelamente. Al revisar la 
+evaluación en el documento CTF_202605 la 
+unidad es evaluada con 100% en la etapa 1 y 2, 
+sin embargo con 0% en la etapa 3, esto se debe 
+exclusivamente al efecto del CPF el cual lleva a 
+la unidad en el sentido contrario de la instrucción. 
+Desde el punto de vista de la frecuencia la 
+activación del servicio de CTF de subida hace 
+que esta suba por lo que el CPF tiende a llevar a 
+la unidad por debajo de su consigna. Esto es una 
+respuesta 
+natural 
+y 
+esperada 
+en 
+la 
+superposición de estos servicios. 
+ 
+Solicitud: Se solicita evaluar considerando el 
+efecto de la prestación simultánea del CPF y 
+CTF 
+Se analizan los registros de potencia/frecuencia 
+de la operación de la unidad, constatando que 
+hubo un cambio de consigna acorde a la 
+instrucción del CTF durante la prestación conjunta 
+con el servicio de CPF.  
+ 
+Dicho lo anterior, el indicador de respuesta se 
+recalcula 
+quedando 
+en 
+100% 
+para 
+esta 
+instrucción. 
+47 
+Enel 
+Generación 
+Chile S.A. 
+CPF 
+HE EL TORO 
+HE CIPRESES 
+Fecha: Todo el mes. 
+ 
+Enel disponibilizó los registros CPF del mes de  
+mayo en una fecha posterior a la publicación de 
+la primera versión del cálculo de indicadores. 
+ 
+Se acoge la observación. 
+ 
+Se revisan los antecedentes y se consideran los 
+registros indicados en la presente versión del 
+cálculo de desempeño, ya que el coordinado 
+disponibilizó sus registros en una fecha posterior 
+al cálculo de la primera versión.  
+ 
+Dicho lo anterior, el factor de respuesta de las 
+unidades HE El Toro queda entre 72% y 95%, 
+mientras que para las unidades HE Cipreses el 
+factor de respuesta queda en 97% para la U1. Las 
+unidades U2 y U3 no fueron instruidas. 
+ 
+Se reitera la importancia de cargar la información  
+necesaria 
+para 
+el 
+cálculo 
+en 
+los 
+plazos 
+establecidos, por lo que se solicita su envío a más 
+
+ 
+ 
+Av. Parque Isidora 1061, Pudahuel, Santiago de Chile Teléfono (562) 2424 6300 
+www.coordinador.cl  
+N° Coordinado 
+SSCC 
+Unidad 
+Observaciones y/o Comentarios 
+Respuestas Coordinador 
+tardar el primer día hábil del mes siguiente al mes 
+en evaluación. El no envío de estos en plazo 
+constituye una falta a los procesos  
+establecidos. 
+ 

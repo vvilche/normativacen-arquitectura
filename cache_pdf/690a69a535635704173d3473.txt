@@ -1,0 +1,321 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Santiago, 04 de noviembre de 2025 
+DE 07107-25 
+Señor 
+Ricardo Rabié D. 
+Encargado Titular 
+Parque Eólico Punta de Talca SpA 
+Presente 
+Ref.: Resultado del Proceso de Verificación de 
+Servicios 
+Complementarios 
+(SSCC) 
+de 
+Control 
+Primario de Frecuencia y Control Terciario de 
+Frecuencia de la central PE Punta de Talca. 
+Responde a Ingreso DE04193-25 
+ 
+De mi consideración: 
+En relación con la materia de la referencia, y tras completar la revisión de los informes 
+técnicos de verificación de Servicios Complementarios (SSCC) enviados por su 
+representada mediante carta de la Ref. [1], comunico a Ud. que en cumplimiento con lo 
+establecido en el Artículo 4-16 de la Norma Técnica de Servicios Complementarios 
+(NTSSCC), ha finalizado el proceso de verificación de los SSCC de Control Primario de 
+Frecuencia (CPF) y Control Terciario de Frecuencia (CTF) de la central PE Punta de Talca. 
+ 
+Como resultado de este proceso, la central mencionada quedará habilitada para la 
+prestación del mencionado servicio a partir de las 00:00 del 06 de noviembre de 2025, 
+considerando los recursos indicados en el anexo de la presente carta.  
+ 
+Al respecto, en el anexo de la presente comunicación se presenta la información solicitada 
+en el artículo 4-16 de la NTSSCC con respecto a los resultados del proceso de verificación 
+de SSCC, mientras que los informes técnicos que justifican la verificación de la capacidad 
+de la prestación del CPF y CTF de la central PE Punta de Talca se han publicado en la 
+siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Verificación Instalaciones de Generación > Control de 
+Frecuencia: 
+ 
+1. > Control Primario de Frecuencia > PE Punta de Talca 
+2. > Control Terciario de Frecuencia > PE Punta de Talca 
+ 
+Sin perjuicio de lo anterior, su representada deberá realizar lo siguiente: 
+• 
+Conforme a lo expuesto en el artículo 1-9 de la NT-SSCC, su representada deberá 
+instalar o habilitar los equipos necesarios para medir el desempeño de la prestación 
+del SC de CPF, que en este caso corresponde a un medidor potencia/frecuencia 
+con resolución de 1 segundo, debiendo los registros ser enviados al Coordinador 
+siguiendo el protocolo establecido en el documento de la Ref. [2], siendo el plazo 
+para esta acción el de 30 días corridos. Pese a no contar con las señales necesarias 
+para evaluar el desempeño en la prestación, la central PE Punta de Talca quedará 
+habilitada para prestar el Servicio Complementario (SC) de Control Primario de 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Frecuencia (CPF), pudiendo ser instruida por este Coordinador para prestar dicho 
+servicio. En dicho caso, la evaluación de estás instrucciones será “No Verificable”. 
+• 
+Considerando lo anterior, en base al artículo 5-7 y 5-8 de la NTSSCC, de manera 
+excepcional y transitoria, para la evaluación de desempeño se podrán utilizar 
+medios alternativos para poder realizar la evaluación de desempeño de la prestación 
+del SC, los que deberán ser aprobados previamente por el Coordinador. 
+ 
+Finalmente, la central PE Punta de Talca podrá participar de las subastas de Control de 
+Frecuencia, una vez que complete el proceso de solicitud de incorporación a la plataforma 
+de subastas. Para ello, su representada deberá presentar los antecedentes indicados en 
+las Bases Administrativas de Subastas para Control de Frecuencia, que se encuentran 
+publicadas en la siguiente ruta de la página web del Coordinador Eléctrico Nacional: 
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Bases 
+Subastas Servicios Complementarios > Bases Administrativas Subastas SSCC_V6 
+(Fecha de publicación: 04/07/2024) 
+ 
+Sin perjuicio de lo anterior, su central podrá ser instruida de manera directa por el 
+Coordinador Eléctrico Nacional en la prestación de los mencionados SSCC. 
+ 
+Para consultas sobre el procedimiento de Subastas para Control de Frecuencia, favor 
+comunicarse a la casilla de correo electrónico programacion@coordinador.cl. 
+ 
+Sin otro particular, saluda atentamente a Ud., 
+ 
+ 
+ 
+ 
+Rodrigo Espinoza V.                         
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+ 
+ 
+CRV/WJS/PGR/adr 
+ 
+Referencias: 
+ 
+[1] Carta CL-IC-034-202, Ref.: “Envío de informes de pruebas de verificación de SSCC del 
+Proyecto NUP 1304 Parque Eólico Punta de Talca”, de fecha 24 de abril de 2025. Ingreso: 
+DE04193-25. 
+ 
+[2] Documento “Protocolo de envío de registros para la evaluación del CPF”, emitido por el 
+Coordinador, con fecha 21 de noviembre de 2023. Este documento se encuentra disponible 
+en la siguiente ruta del sitio web del Coordinador Eléctrico Nacional:  
+ 
+Inicio > Informes y Estudios > Operación > Servicios Complementarios > Proceso de 
+Verificación de Instalaciones > Instructivos Técnicos de Verificación > Versión 
+Definitiva 2020.06.01 > Instructivos Técnicos > Protocolo de envío de registros 
+Potencia/Frecuencia para la evaluación del CPF 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+Anexo: Resultados del Proceso de Verificación de SSCC de PE Punta de Talca 
+1. 
+Identificación de las Instalaciones Verificadas: 
+a) Central PE Punta de Talca 
+• 
+Potencia máxima bruta: 80,466 [MW] 
+• 
+Potencia máxima neta:  79,243 [MW] 
+• 
+Potencia mínima bruta: 9,025 [MW] 
+• 
+Potencia mínima neta: 8,374 [MW] 
+2. 
+Servicios Complementarios que presta el conjunto de instalaciones: 
+SSCC 
+Categoría de SSCC 
+Subcategoría de SSCC 
+Control de 
+Frecuencia 
+Control Primario de 
+Frecuencia  
+Control Primario de Frecuencia por 
+Subfrecuencia (CPF+) 
+Control Primario de Frecuencia por 
+Sobrefrecuencia (CPF-) 
+Control Terciario de 
+Frecuencia  
+Control Terciario de Frecuencia por 
+Subfrecuencia (CTF+) 
+Control Terciario de Frecuencia por 
+Sobrefrecuencia (CTF-) 
+3. 
+Condiciones específicas asociadas a la prestación del Servicio Complementario. 
+a) Control Primario de Frecuencia: 
+• 
+Central con rango de ajuste de estatismo (R) del 2% al 8%. 
+• 
+El estatismo y banda muerta pueden ser ajustados con la unidad en servicio por el 
+operador de la central con la unidad en servicio. 
+• 
+Estatismo (R) actual se encuentra ajustado al 3,73%, respecto a una potencia base 
+igual a su potencia máxima. 
+b) Control Terciario de Frecuencia: 
+• 
+El gradiente de carga puede ser modificado por el operador con la central en 
+servicio, con un rango de configuración entre 0 - 20% Pnom/min. 
+4. 
+La indicación relativa a la existencia de medios alternativos de envío de señales, 
+según Artículo 5-8 de la NT-SSCC. 
+Sin presentación de medios alternativos por parte del coordinado Parque Eólico Punta 
+de Talca SpA. 
+5. 
+Cuantía 
+del 
+recurso 
+que 
+puede 
+prestar 
+la instalación 
+por 
+Servicio 
+Complementario, categorías y subcategorías. 
+Ver Tablas en la página siguiente 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+a) Control Primario de Frecuencia 
+SSCC 
+  
+Control de Frecuencia 
+Categoría 
+  
+Control Primario de Frecuencia 
+Subcategoría   
+CPF+ y CPF- 
+  
+  
+  
+Valor determinado 
+Características del 
+Controlador de Frecuencia 
+Rango de ajuste Estatismo 
+2 – 8 % 
+Estatismo 
+3,73 % 
+Rango de ajuste Banda muerta [mHz] 
+-200 a 200 
+Banda muerta [mHz] (1) 
+25 
+Tiempo Activación CPF+ [s] 
+<1 
+Tiempo Activación CPF- [s] 
+<1 
+Límite de regulación superior [MW] (2) 
+80,466 
+Límite de regulación inferior [MW] (3) 
+9,025 
+Aportes (4) 
+BM = 25 [mHz] 
+R= 3,73 % 
+10 segundos 
+Aporte +0,2 [Hz] [MW] 
+-8,26 
+Aporte -0,2 [Hz] [MW] 
+5,57 
+Aporte +0,7 [Hz] [MW] 
+-32,59 
+Aporte -0,7 [Hz] [MW] 
+25,98 
+5 minutos 
+Aporte +0,2 [Hz] [MW] 
+-7,78 
+ 
+Aporte -0,2 [Hz] [MW] 
+7,60 
+Aporte +0,7 [Hz] [MW] 
+-28,42 
+Aporte -0,7 [Hz] [MW] 
+30,24 
+(1) Las pruebas de verificación del SC de CPF se realizaron con una banda muerta ajustada en 25 
+[mHz].  
+(2) Correspondiente a la Potencia Máxima Bruta declarada al Coordinador en el Informe de Potencia 
+Máxima, en proceso de aprobación. 
+(3) Correspondiente a la Potencia Mínima Bruta declarada al Coordinador en el Informe de Mínimo 
+Técnico, en proceso de aprobación, considerando la totalidad de los aerogeneradores en 
+funcionamiento. 
+(4) Aportes para CPF+ y CPF- en ±0,2 Hz y ±0,7 Hz determinados con una consigna de 71,8 [MW] y 
+50,6 [MW] respectivamente. 
+ 
+ 
+ 
+ 
+
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile Teléfono (+562) 2424 6300 
+www.coordinador.cl 
+b) Control Terciario de Frecuencia 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ y CTF- en giro 
+Central 
+Recurso Primario 
+Parámetro 
+Valor determinado 
+PE Punta de 
+Talca 
+Eólico 
+Tasa normal de operación 
+[MW/min] 
+Subida 
+16,000 
+Bajada 
+16,000 
+Tasa máxima de operación 
+[MW/min] (1) 
+Subida 
+16,000 
+Bajada 
+16,000 
+Tiempo de respuesta 
+[minutos] 
+Subida 
+<5 
+Bajada 
+<5 
+Aporte CTF [MW] (2) 
+Subida 
+70,869 
+Bajada 
+-70,869 
+Límite de regulación superior [MW] (3) 
+80,466 
+Límite de regulación inferior [MW] (3) 
+9,025 
+(1) Tasa de subida y bajada de carga máxima corresponde al 20% de Pnom. 
+(2) La reserva se determina como la diferencia entre las potencias netas de la central 
+correspondientes a 79,243 [MW] y 8,374 [MW].  
+(3) Los límites de regulación, correspondientes a la potencia bruta, y el aporte máximo de CTF 
+podrán verse modificados si se actualizan los parámetros operacionales del PE Punta de 
+Talca. 
+ 
+SSCC 
+Control de Frecuencia 
+Categoría 
+Control Terciario de Frecuencia 
+Subcategoría 
+CTF+ en frío 
+Central 
+Recurso Primario 
+Parámetro 
+Valor determinado 
+PE Punta de 
+Talca 
+Eólico 
+Tiempo hasta sincronización [min] 
+0,00 
+Tiempo hasta mínimo técnico [min]  
+0,46 
+Reserva Fría [MW]  
+79,24 
+ 
+ 

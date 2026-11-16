@@ -1,0 +1,82 @@
+1 
+ 
+ 
+Santiago, 09 de junio de 2026 
+QE016-2026 
+ 
+Sr. Rodrigo Espinoza V.  
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Ref.: Envío de Observaciones a Indicadores de Desempeño de Servicios Complementarios - 
+mayo 2026. 
+ 
+[1] Carta DE03768-26, “Publicación de Indicadores de Desempeño de Servicios 
+Complementarios prestados durante el mes de mayo de 2026”, de fecha 05 de junio de 2026. 
+ 
+De nuestra consideración: 
+ 
+En relación con la materia de la Ref., me dirijo a Ud. para hacer envío de nuestras 
+Observaciones a los Indicadores de Desempeño de Servicios Complementarios de mayo de 
+2026, notificada su publicación por medio de carta de la Ref. [1]. 
+ 
+En anexo a la presente carta, se encuentran dichas observaciones.  
+ 
+Sin otro particular, se despide atentamente, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Marcelo Rubio Sekul 
+Encargado Titular 
+Empresa Eléctrica Ventanas SpA
+
+ 
+ 
+ 
+Anexo 1: Observaciones Indicadores Desempeño CTF 
+ 
+Fecha 
+Hora 
+Unidad 
+Factor de 
+Desempeño 
+(Fd_CTF) 
+Consulta QE a RNE 
+18-05-2026 
+15 
+TER CAMPICHE U1 
+0,00% 
+A las 15:05 el Coordinador solicita activar el CTF con 11 MW, finalizando la 
+instrucción del CTF a las 15:21. A las 15:05 la unidad se encontraba en 85 
+MW comenzando a subir su potencia para entregar la reserva solicitada, a 
+los 5 minutos de la instrucción  unidad había subido a 87 MW, sigue 
+subiendo hasta las 15:21 llegando a los 91 MW cumpliendo con la rampa 
+de subida de carga en el período máximo de 15 minutos desde su 
+activación, en una instrucción, que en total, tiene una duración de 16 
+minutos. Se solicita evaluar nuevamente la componente C2 ya que la 
+unidad su aumenta su nivel de potencia según lo solicitado y la 
+componente C3 ya que la instrucción fue cancelada a los 16 minutos, por 
+tanto, la evaluación de lo que corresponde a sostener la instrucción 
+debiera ser evaluada con 100% ya que el Coordinador fue el que solicitó 
+suspender el SC, de lo contrario, toda instrucción del Coordinador que 
+tenga una duración menor a 15 minutos tendría una mala evaluación en la 
+componente C3.    
+23-05-2026 
+16 
+TER NUEVA VENTANAS U1 
+0,00% 
+La instrucción fue a las 16:35 donde la unidad estaba en 257 MW. El 
+Coordinador solicita a la central prestar 11 MW de subida. A los 5 minutos 
+de la instrucción la central alcanzó los 266,1 MW entregando 9 MW de los 
+11 MW comprometidos. A los 15 minutos de la instrucción, la central se 
+encontraba entregando los 11 MW solicitados sosteniendo la potencia en 
+los restantes 9 minutos asociados a la componente C3, se solicita revisar 
+la evaluación de la componente C3 del desempeño de la unidad ya que en 
+los 9 minutos la unidad sostuvo su potencia. 
+ 

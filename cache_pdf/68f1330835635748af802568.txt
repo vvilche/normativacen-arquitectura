@@ -1,0 +1,108 @@
+ 
+[EXTERNAL PERMITTED]
+ 
+Señora 
+Gretchen Zbinden V. 
+Coordinador Eléctrico Nacional  
+Subgerenta de Análisis y Soporte Operacional 
+Av. Parque Isidora 1061 
+Pudahuel 
+ 
+ 
+P R E S E N T E 
+Santiago, 15 de octubre de 2025 
+IIFF-SSCC-005-25 
+ 
+Ant: [1] IIFF-025-25 Entrega de Informe de 
+SSCC de PFV Willka, del coordinado Inversiones 
+Fotovoltaicas SpA con fecha 10 de julio de 
+2025. 
+[2] DE05382-25 Observaciones al Informe 
+Técnico de Verificación de SSCC de Control de 
+Tensión 
+de 
+la 
+Central 
+PFV 
+Willka, 
+del 
+Coordinador Electrico Nacional con fecha de 1 
+de septiembre de 2025. 
+[3] IIFF-SSCC-004-25 (DE09867-25) Solicita 
+extensión 
+plazo 
+carta 
+DE05382-25, 
+del 
+coordinado Inversiones Fotovoltaicas SpA con 
+fecha de 25 de septiembre de 2025. 
+ 
+Ref.: 
+IIFF-SSCC-005-25 
+Respuesta 
+observaciones informe SSCC. 
+ 
+ 
+De nuestra consideración. 
+ 
+Nos referimos a la carta DE 05382-25 del 01 de septiembre de 2025, mediante la cual 
+el Coordinador Eléctrico Nacional informa las observaciones al Informe Técnico de 
+Verificación del SC de Control de Tensión de la Central PFV Willka presentado por 
+Inversiones Fotovoltaicas SpA. 
+ 
+Adjuntamos a esta carta los siguientes documentos: 
+ 
+1.- Respuestas a las consultas de Coordinador Eléctrico Nacional, preparadas por 
+el Experto Técnico que ejecutó las pruebas y preparó los Informes correspondientes. 
+2.- Informe correspondiente, actualizado. 
+3.-Respaldos técnicos citados en 1 o 2. 
+  
+En resumen, después de haber analizado en detalle las solicitudes del Coordinador y 
+haber realizado las consultas a los respectivos fabricantes del PPC e Inversores, como 
+también al Experto Técnico, hemos concluido que es necesario realizar ensayos 
+complementarios para verificar el diagrama P-Q de las instalaciones del PFV Willka, en 
+
+ 
+[EXTERNAL PERMITTED]
+valores que exceden a aquellos establecidos como mínimos en la NTSyCS vigente. Para 
+tal efecto, hemos tomado contacto con el Experto Técnico y esperamos poder programar 
+la ejecución de pruebas a la brevedad posible, en coordinación con el CDC y la 
+Subgerencia de Análisis y Soporte Operacional del CEN. 
+ 
+Sin otro particular, saluda atentamente a usted, 
+ 
+ 
+ 
+ 
+ 
+__________________________________ 
+Luis Fredes Bastias 
+Encargad Titular 
+Inversiones Fotovoltaicas SpA 
+76.319.461-2 
+ 
+
+IIFF-SSCC-005-25 Respuesta observaciones
+informe SSCC
+Final Audit Report
+2025-10-15
+Created:
+2025-10-15
+By:
+Franco Vergara (franco.vergara@mytilineos.com)
+Status:
+Signed
+Transaction ID:
+CBJCHBCAABAAKH7hRCeGS1zKYn5g7v9qfWwyPtVHWdVL
+"IIFF-SSCC-005-25 Respuesta observaciones informe SSCC" H
+istory
+Document created by Franco Vergara (franco.vergara@mytilineos.com)
+2025-10-15 - 8:17:14 PM GMT
+Document emailed to Luis Fredes (luis.fredes@mytilineos.com) for signature
+2025-10-15 - 8:17:17 PM GMT
+Email viewed by Luis Fredes (luis.fredes@mytilineos.com)
+2025-10-15 - 9:11:06 PM GMT
+Document e-signed by Luis Fredes (luis.fredes@mytilineos.com)
+Signature Date: 2025-10-15 - 9:11:32 PM GMT - Time Source: server
+Agreement completed.
+2025-10-15 - 9:11:32 PM GMT

@@ -1,0 +1,51 @@
+ 
+ 
+Santiago, junio 27 de 2025 
+MHMC N°015/2025 
+ 
+ 
+Señora 
+Gretchen Zbinden V. 
+Subgerenta de Análisis y Soporte Operacional 
+Gerencia Operaciones 
+Coordinar Eléctrico Nacional 
+P r e s e n t e  
+ 
+Mat.:  Esquema Desconexión Automática de Carga (EDAC) de Minera 
+HMC S.A. Carta DE 03748-25 de fecha 19 de junio de 2025 
+ 
+ 
+Estimada Señora:  
+De acuerdo con la Mat., referente al Desempeño del Esquema de Desconexión Automático de Carga 
+(EDAC) por Subfrecuencia y Contingencia Extrema, asociados a los eventos de falla ocurridos en 
+febrero de 2025 (EAF 062-2025, EAF 072-2025 y EAF 089-2025), informamos a usted lo siguiente: 
+1. Minera Michilla SpA es la predecesora de Minera HMC S.A., la cual es dueña de los activos 
+de Faena Michilla, de acuerdo a lo informado oportunamente en Plataforma REUC del 
+Coordinador. 
+2. En el evento referido, blackout del Sistema Eléctrico Nacional (SEN), no hay archivos 
+Comtrade asociados a la sub-frecuencia de 48,5 Hz, puesto que la falla fue generalizada en 
+el SEN que provocó la desconexión aguas arriba de la S/E Mejillones de propiedad de ENGIE, 
+desde donde se conecta la línea Mejillones – El Lince de 110 kV que abastece el suministro 
+eléctrico a la Faena Michilla, propiedad de Minera HMC S.A., dicha falla, causó 
+perturbaciones de sobrefrecuencia y posiblemente sobrevoltaje en la red Norte del lugar de 
+la falla. 
+3. De acuerdo con el punto anterior, no hubo ninguna sub-frecuencia asociada en el escalón 
+de 48,5Hz, como se pide informar en el archivo excel. 
+4. Acorde a nuestros registros del RS Metrix y archivos Comtrade en barra 110 kV S/E El Lince 
+de la Faena Michilla, en el anexo adjunto, se observa que no hubo falla por sub-frecuencia 
+en la barra de 110 kV. 
+
+Agradeceremos vuestra gestión para que vuestra organización quede debidamente informada de 
+esta situación y desde ya quedamos atentos a vuestras observaciones y disponibles ante cualquier 
+duda, consulta o reunión que ese Coordinador requiera.  
+   
+                                                               
+ 
+Jorge Sougarret Larroquete 
+Encargado Titular ante el CEN 
+Minera HMC S.A. 
+ 
+CC:  Gerente Operaciones Faena Michilla   
+       G.General Minera HMC S.A. 
+ 
+Adj. Anexo Antecedentes EDAC Faena Michilla 250225 

@@ -1,0 +1,63 @@
+ 
+ 
+ENEL GREEN POWER CHILE 
+Roger de Flor 2725 – Las Condes, Chile – Tel. +562 2630 9000 
+ 
+Santiago, 27 de agosto de 2026 
+EGP 111-26 
+ 
+Señor 
+Rodrigo Espinoza V. 
+Gerente de Operación 
+Coordinador Eléctrico Nacional 
+Presente 
+ 
+Referencia: 
+Solicita corrección del modo de control aplicable al Servicio Complementario (SC) de Control 
+de Tensión de la componente de almacenamiento de la Central Renovable con Capacidad de 
+Almacenamiento PFV Don Humberto. 
+ 
+[2] Resultado del Proceso de Verificación del Servicio Complementario (SC) de Control de 
+Tensión de la componente de almacenamiento de la Central Renovable con Capacidad de 
+Almacenamiento PFV Don Humberto. 
+ 
+[1] Carta del Coordinador DE05202-26 Resultado del Proceso de verificación del SC de control 
+de Tensión de la componente de almacenamiento de la Central Renovable con capacidad de 
+Almacenamiento PFV Don Humberto. 
+ 
+ 
+ 
+ 
+De nuestra consideración, 
+Junto con saludar, informamos que en las tablas i. Control de Tensión, BESS Don Humberto – Modo descarga 
+y i. Control de Tensión, BESS Don Humberto – Modo carga, incluidas en la Carta DE 05202-26, se evidencia 
+una inconsistencia respecto de los modos de control aplicables a la prestación de este Servicio Complementario. 
+Para el BESS Don Humberto, el modo de control aplicable corresponde únicamente a Potencia Reactiva. Esta 
+inconsistencia no fue detectada oportunamente en el Informe Final de Verificación del Servicio de Control de 
+Tensión, versión C, siendo posteriormente replicada en la carta de validación del Servicio Complementario. 
+Por lo anterior, agradeceremos considerar la versión D del Informe Final de Verificación – Control de Tensión 
+BESS Don Humberto, la cual se adjunta a la presente carta, incorporando la corrección indicada, a fin de 
+mantener consistencia entre el informe técnico y los antecedentes presentados al Coordinador. 
+ 
+Sin otro particular, le saluda atentamente, 
+ 
+ 
+ 
+ 
+ 
+___________________________ 
+Miguel Buzunariz R. 
+Encargado Titular 
+Enel Green Power Chile S.A. 
+
+ 
+ 
+ENEL GREEN POWER CHILE 
+Roger de Flor 2725 – Las Condes, Chile – Tel. +562 2630 9000 
+ 
+Anexo 1. Cuantía del recurso que puede prestar la instalación por Servicio Complementario, 
+categorías y subcategoría. 
+ 
+a) 
+Control de tensión: BESS Don Humberto - Modo descarga y carga 
+ 
